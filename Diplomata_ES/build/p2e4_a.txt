@@ -1,0 +1,107 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 4
+@title La notaría
+@ko 공증 사무소
+@setting 수요일 아침 푸에르토 알바 호텔 → 오전 디우프 변호사의 공증 사무소 → 오후 바 장군의 자택 → 정오 라디오 방송
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast EVARISTO | 문서고 수석 관리인, 9인 위원회 스페인 위원, 72세
+@cast AMINATA | 칸다라 주스페인 대사
+@cast DIOUF | 푸에르토 알바 공증인, 74세
+@cast BAH | 전 국방장관 세쿠 바 장군(의료 휴가 중), 58세
+@cast MARINA | 브뤼셀 주재 어업총국 직원, 전화 연결
+@note 이 화는 '폭로' 화입니다. 서류 한 장이 아니라 단어 하나(cesión 양도)가 이야기를 뒤집습니다. 법률 개념 'confusión(혼동: 채권자와 채무자가 한 사람이 되어 채무가 소멸하는 것)'을 풀어서 이해해 보세요. 공증인의 윤리를 말하는 알폰소 10세의 『7부법전』과 현대 법률 어휘의 대비가 학습 포인트입니다.
+@next 2부 5화 — «Los Nueve»(아홉 사람) — 제네바에서 9인 위원회가 처음 열린다. 보레알의 변호사는 '참관인' 자격을 요구하고, 어부 대표들은 처음으로 정장 차림의 유럽인들과 한 테이블에 앉는다.
+
+## 아침의 소식 — LA RESPUESTA DEL PRESIDENTE
+AMINATA: Buenos días, señor Quintana. Tengo noticias. ¿Está sentado? ||| 좋은 아침입니다, 킨타나 씨. 소식이 있어요. 앉아 계세요?
+ÁLVARO: Estoy de pie junto a una ventana con vistas a un puerto. Dígame. ||| 항구가 보이는 창가에 서 있습니다. 말씀하세요.
+AMINATA: El presidente Koné ha aceptado. Mil euros por familia, a cuenta de la reparación, con cargo al Fondo de Tasas Transparentes. Sin renuncia de ningún derecho. ||| 코네 대통령이 수락했어요. 배상금에서 공제하는 조건으로 가구당 1천 유로, 투명 접근료 기금에서 지급합니다. 어떤 권리도 포기하지 않고요.
+ÁLVARO: Embajadora. ||| 대사님.
+AMINATA: Y quiere anunciarlo él mismo por la radio nacional hoy a mediodía. Dice que es una manera de pedir perdón sin pronunciar la palabra. ||| 그리고 오늘 정오 국영 라디오에서 직접 발표하길 원하십니다. 그 말을 입에 올리지 않고 사과하는 방식이라고요.
+ÁLVARO: Pedir perdón sin pronunciarlo. Eso es lo más diplomático que he oído hoy. ||| 말하지 않고 사과하는 것. 오늘 들은 가장 외교적인 말이군요.
+AMINATA: Es lo que hacemos los pueblos orgullosos. Otra cosa. Hoy tiene cita con maître Diouf. ¿Sabe usted por qué ha aceptado recibirle? ||| 자존심 강한 민족이 하는 일이죠. 하나 더. 오늘 디우프 변호사와 약속이 있죠. 왜 만나 주기로 했는지 아십니까?
+ÁLVARO: No. ||| 아니요.
+AMINATA: Porque pregunté por usted a una señora de la oficina. Dijo: «Es el hombre que leyó la última página». Y maître Diouf siempre ha querido que alguien lea la última página de algo. ||| 사무실의 한 부인께 당신에 대해 물었거든요. '마지막 쪽을 읽은 분'이라고 하더군요. 그리고 디우프 변호사는 늘 누군가 뭔가의 마지막 쪽을 읽어 주길 바랐어요.
+ÁLVARO: Qué reputación tan peligrosa. ||| 위험한 평판이군요.
+AMINATA: Y tan útil. ||| 그리고 아주 쓸모 있죠.
++ con cargo a = ~의 비용으로, ~에서 지출하는 조건으로. 회계·행정 표현
++ sin pronunciar la palabra = 그 말을 입에 올리지 않고. 사과를 은유적으로 말하는 외교적 방식
++ estar de pie = 서 있다. 'estar sentado'(앉아 있다)와 대비
++ ¿está sentado? = 앉아 계십니까? 놀랄 소식을 전하기 전 하는 정형 질문
++ vistas a = ~이 보이는 전망. 'una ventana con vistas al puerto'
++ qué reputación tan peligrosa = 감탄 구문. 'qué + 명사 + tan + 형용사'
+
+## 공증 사무소 — LA NOTARÍA DE MAÎTRE DIOUF
+DIOUF: Pasen. No toquen los ventiladores, que llevan cuarenta años girando por pura obstinación. ||| 들어오세요. 선풍기는 만지지 마세요. 40년째 고집으로 돌고 있으니까요.
+ÁLVARO: Maître Diouf, soy Álvaro Quintana. Él es don Evaristo Maldonado. ||| 디우프 변호사님, 알바로 킨타나입니다. 이분은 에바리스토 말도나도 선생님이고요.
+DIOUF: Archivero y notario. Dos hermanos de oficio. Siéntense. ¿Quieren té? ||| 문서 관리인과 공증인이라. 같은 일을 하는 형제로군요. 앉으세요. 차 드시겠어요?
+EVARISTO: Con mucho gusto. ||| 기꺼이요.
+DIOUF: Estudié Derecho en Salamanca. Fue en mil novecientos setenta. Mi español viene de allí. Y de una pensión de la calle de Zamora, con una señora que se llamaba doña Emilia. ||| 저는 살라망카에서 법학을 공부했습니다. 1970년이었죠. 제 스페인어는 거기서 왔어요. 그리고 사모라 거리의 하숙집에서요, 에밀리아 부인이라는 분이 있었죠.
+EVARISTO: Entonces usted ha leído las Partidas. ||| 그럼 『7부법전』을 읽으셨겠군요.
+DIOUF: Todas. La Tercera Partida, especialmente. Habla de los escribanos. Dice que han de ser «leales y de buena fama», y «guardadores de los secretos» de las gentes. ||| 전부요. 특히 제3부를요. 서기(공증인)에 대해 말하죠. '충직하고 평판이 좋으며', 사람들의 '비밀을 지키는 이'여야 한다고요.
+EVARISTO: Alfonso X el Sabio, siglo trece. Treinta años de trabajo con sus sabios. ||| 현왕 알폰소 10세, 13세기. 현자들과 30년 작업한 법전이죠.
+DIOUF: «Leales», «de buena fama» y «guardadores de secretos». Tres exigencias que a veces chocan entre sí. ¿Cómo se es leal a quien le confía un secreto injusto? ||| '충직', '좋은 평판', '비밀 수호'. 가끔 서로 부딪치는 세 요구죠. 불의한 비밀을 맡기는 사람에게 어떻게 충직할 수 있을까요?
+EVARISTO: Esa es la pregunta de toda mi profesión. ||| 제 직업 전체의 질문이로군요.
+DIOUF: Y de la mía. Por eso tengo una caja de seguridad con tres cosas que he guardado durante veintiocho años. Y un libro de visitas. ||| 그리고 제 직업의 질문이죠. 그래서 28년 동안 보관해 온 세 가지가 든 금고가 있습니다. 그리고 방문자 장부도요.
+ÁLVARO: ¿El registro de víctimas? ||| 피해자 명부 말입니까?
+DIOUF: El registro original. Doscientas catorce familias, con nombre, apellido, aldea y estado de salud. Lo redactó mi maestro, maître Faye, en mil novecientos noventa y cinco, cuando los barriles. Él me lo dejó. Y me dijo: «Ciérralo hasta que alguien pueda abrirlo sin miedo». ||| 원본 명부입니다. 214가구, 이름과 성, 마을, 건강 상태까지. 스승이신 파이 변호사가 1995년 드럼통 사건 때 작성하셨죠. 제게 물려주셨고 이렇게 말씀하셨어요. '두려움 없이 열 수 있는 사람이 나타날 때까지 닫아 두어라'.
+EVARISTO: ¿Y lo abrió? ||| 열었습니까?
+DIOUF: Lo abrí una vez. Hace tres meses. ||| 한 번 열었습니다. 석 달 전에.
+ÁLVARO: ¿Para quién? ||| 누구를 위해서요?
+DIOUF: Para un hombre elegante, con acento europeo y una carta con el sello del Consejo de Pesca. Tengo la fecha en el libro de visitas. Catorce de septiembre. ||| 우아한 유럽 억양의 남자와 어업위원회 도장이 찍힌 편지를 가진 사람이요. 방문자 장부에 날짜가 있습니다. 9월 14일.
+ÁLVARO: ¿El nombre? ||| 이름은요?
+DIOUF: «Anders Lund». Firmó con una letra muy cuidada. ||| '안데르스 룬드'. 아주 정성스러운 글씨로 서명했죠.
+EVARISTO: Lund. ||| 룬드.
+ÁLVARO: ¿Qué traía? ||| 무엇을 가져왔습니까?
+DIOUF: Una autorización firmada por el entonces ministro de Defensa, el general Bah, que presidía el Consejo. En ella se decía que yo debía permitirle acceder al registro «a efectos de gestión de la reparación». ||| 당시 국방장관이자 위원회 의장이던 바 장군이 서명한 허가서였죠. '배상 업무를 위한 열람'을 허용하라고 쓰여 있었어요.
+ÁLVARO: ¿Y usted accedió? ||| 허락하셨습니까?
+DIOUF: Tenía el sello y la firma. Y un notario no es juez de los sellos. Le dejé fotografiar el registro. Tardó cuarenta minutos. ||| 도장과 서명이 있었어요. 공증인은 도장의 심판관이 아닙니다. 촬영하게 했고 40분 걸렸죠.
+EVARISTO: Hizo lo que debía. ||| 해야 할 일을 하셨소.
+DIOUF: Hice lo que debía. Y me ha pesado tres meses. Una semana después volvió una mujer joven, rubia, con un maletín. Elsa Berg. Quería que yo notarizase un modelo de documento. ||| 해야 할 일을 했죠. 그리고 석 달 동안 마음이 무거웠습니다. 일주일 뒤 젊은 금발 여성이 서류가방을 들고 다시 왔어요. 엘사 베르그. 문서 양식을 공증해 달라고 했습니다.
+ÁLVARO: ¿Qué modelo? ||| 어떤 양식입니까?
+DIOUF: Este. ||| 이겁니다.
++ escribano = (옛) 서기, 공증 담당자. 오늘날의 'notario'(공증인)에 해당
++ Partidas (Siete Partidas) = 알폰소 10세(13세기)의 『7부법전』. 제3부는 재판·서기의 의무를 규정했고, 서기가 충직하고 비밀을 지켜야 한다고 했다. 이 화의 윤리적 논거
++ hermanos de oficio = 같은 일을 하는 형제들. 'de oficio'는 직업상
++ a efectos de = ~의 목적상. 공문서·법률의 정형 표현
++ pesar = (마음에) 무겁게 얹히다. 'me ha pesado tres meses'
++ notarizar = 공증하다. 'notariar'과 같은 뜻의 현대 용법
+
+## 하나의 단어 — LA PALABRA «CESIÓN»
+ÁLVARO: «Cesión de derechos a favor de Fiduciaria del Tajo, S.A.» ||| '피두시아리아 델 타호 주식회사에 대한 권리 양도'.
+EVARISTO: ¿Fiduciaria del Tajo? ||| 피두시아리아 델 타호?
+ÁLVARO: La misma que aparecía en las cuentas del general Bah. La entidad por la que Atlántica Química pagaba a Mauricio todos los eneros. ||| 바 장군의 계좌에 나오던 그 회사입니다. 아틀란티카 키미카가 해마다 1월에 모리셔스로 돈을 보내던 통로였죠.
+DIOUF: Yo no sé de cuentas. Sé de papeles. Y leí este papel con cuidado. «Entidad designada por Boreal». Y debajo, entre paréntesis: «(Fiduciaria del Tajo, S.A.)». ||| 저는 계좌는 모릅니다. 서류를 알지요. 그래서 이 서류를 조심스레 읽었습니다. '보레알이 지정한 기관'. 그리고 그 밑 괄호 안에 '(피두시아리아 델 타호 주식회사)'.
+ÁLVARO: Maître, ¿puedo preguntar qué le preocupó? ||| 변호사님, 무엇이 마음에 걸렸는지 여쭤도 되겠습니까?
+DIOUF: Una cosa que mi maestro Faye me enseñó. Un acreedor y un deudor que son la misma persona no se deben nada. ||| 스승 파이 변호사가 가르쳐 주신 것 하나입니다. 채권자와 채무자가 같은 사람이면 서로에게 빚이 없습니다.
+EVARISTO: Confusión. Artículo mil ciento noventa y dos del Código Civil español. «Quedará extinguida la obligación desde que se reúnan en una misma persona los conceptos de acreedor y de deudor». ||| 혼동. 스페인 민법 제1192조요. '채권자와 채무자의 지위가 한 사람에게 모이는 순간 채무는 소멸한다'.
+DIOUF: Y en el derecho francés también, y en el de Kandara, que lo hereda. La confusión extingue la deuda. ||| 프랑스법도 마찬가지고 그것을 이어받은 칸다라법도요. 혼동이 채무를 소멸시키죠.
+ÁLVARO: Un momento. Déjenme pensarlo. Boreal compra el once por ciento de Atlántica Química. Atlántica es la deudora de Punta Sal. ||| 잠깐만요. 생각해 보겠습니다. 보레알이 아틀란티카 키미카 지분 11퍼센트를 삽니다. 아틀란티카가 푼타 살에 대한 채무자죠.
+EVARISTO: Una parte deudora. ||| 채무자의 일부요.
+ÁLVARO: Boreal, además, controla Fiduciaria del Tajo. Si las familias firman la cesión, todos los créditos de Punta Sal pasan a Fiduciaria del Tajo. ||| 게다가 보레알은 피두시아리아 델 타호를 통제합니다. 가족들이 양도에 서명하면 푼타 살의 모든 채권이 피두시아리아 델 타호로 넘어가고요.
+DIOUF: Que es del mismo grupo que la deudora. ||| 채무자와 같은 그룹이죠.
+ÁLVARO: Entonces acreedor y deudor... ||| 그럼 채권자와 채무자가…
+EVARISTO: ...se reúnen en el mismo bolsillo. ||| …같은 주머니에 모입니다.
+ÁLVARO: La deuda se extingue por confusión. Sin que nadie la pague. Doscientas catorce familias firmarían por tres mil quinientos euros, y la reparación de toda la comisión se extinguiría sin un solo euro. ||| 아무도 갚지 않았는데 채무는 혼동으로 소멸합니다. 214가구가 3,500유로에 서명하면 위원회의 모든 배상이 한 푼도 지급되지 않은 채 사라지죠.
+DIOUF: Es una obra de arte jurídica. Muy limpia. Muy elegante. Yo, que llevo cincuenta años en esto, me quedé sin palabras. ||| 법률적인 예술 작품입니다. 아주 깔끔하고 우아하죠. 50년 일한 저도 말문이 막혔습니다.
+EVARISTO: ¿Y por qué no la notarizó? ||| 그런데 왜 공증하지 않았습니까?
+DIOUF: Porque la ley dice que el notario debe «velar por la legalidad y el equilibrio de las partes». Y esto era legal. Pero no era equilibrado. ||| 법은 공증인이 '적법성과 당사자 간 균형을 지켜야 한다'고 하니까요. 이건 합법이지만 균형이 없었습니다.
+ÁLVARO: ¿Qué le dijo a la señora Berg? ||| 베르그 씨에게 뭐라고 하셨습니까?
+DIOUF: Le dije que estaba enfermo. Setenta y cuatro años me permiten decir que estoy enfermo sin mentir del todo. ||| 몸이 아프다고 했죠. 일흔네 살이면 완전한 거짓말 없이도 아프다고 할 수 있으니까요.
+EVARISTO: Una mentira piadosa dentro de la legalidad. ||| 합법 안의 선의의 거짓말이로군요.
+DIOUF: «Leal, de buena fama y guardador de secretos». Al secreto de mi cliente yo no estaba obligado. Al de doscientas familias, sí. ||| '충직하고 평판이 좋으며 비밀을 지키는 이.' 의뢰인의 비밀에 저는 의무가 없었습니다. 이백 가구의 비밀에는 있었죠.
+ÁLVARO: Maître Diouf, ¿puedo pedirle algo? ||| 디우프 변호사님, 부탁 하나 해도 되겠습니까?
+DIOUF: Pida. ||| 하세요.
+ÁLVARO: Que declare todo esto ante la Comisión de los Nueve, con el libro de visitas y el modelo de cesión. ||| 방문자 장부와 양도 양식을 가지고 9인 위원회 앞에서 이 모든 걸 진술해 주십시오.
+DIOUF: Con una condición. Que lo hagan en público. En Punta Sal, si es posible. Quiero que me oigan los que no han podido leer los papeles. ||| 조건이 하나 있습니다. 공개적으로 해 주십시오. 가능하면 푼타 살에서. 서류를 읽지 못한 사람들이 제 말을 듣길 원합니다.
+EVARISTO: Es la regla de los archiveros. Los papeles públicos se defienden solos. ||| 문서 관리인의 규칙이오. 공개된 서류는 스스로를 지킨다.
+DIOUF: Y de los notarios. Un documento que no se puede leer en voz alta no es un contrato. ||| 그리고 공증인의 규칙이죠. 소리 내어 읽을 수 없는 문서는 계약이 아닙니다.
++ confusión = 혼동. 채권자와 채무자가 한 사람이 되어 채무가 소멸하는 법리(민법 제1192조). 이 화의 핵심 개념
++ extinguirse = 소멸하다. 'la obligación queda extinguida'
++ velar por = ~을 지키다, 살피다. 'velar por la legalidad'
++ mentira piadosa = 선의의 거짓말. 'piadoso'는 자비로운
++ no era equilibrado = 균형이 없었다. 'ser + 형용사'는 본질적 속성
++ en voz alta = 소리 내어. 4·11화에서 나온 표현이 이어진다

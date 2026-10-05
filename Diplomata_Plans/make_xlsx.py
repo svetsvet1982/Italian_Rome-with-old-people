@@ -14,6 +14,12 @@ def load(name, var):
 SERIES = [load("plan_ru","RU"), load("plan_nl","NL"), load("plan_it","IT"),
           load("plan_de","DE"), load("plan_br","BR"), load("plan_jp","JP"), load("plan_fr","FR")]
 
+P3MOD = load("part3_cases","P3")
+ES3 = load("part3_cases","ES3")
+for key, s in zip(["RU","NL","IT","DE","BR","JP","FR"], SERIES):
+    s["parts"][2] = P3MOD[key]["part"]
+    s["episodes"] = [e for e in s["episodes"] if e[0] != 3] + P3MOD[key]["eps"]
+
 FONT = "Malgun Gothic"
 NAVY = "1F2A44"; ACCENT = "8A1C2B"; SAND = "F3EEE6"; BLUE = "EEF1F7"
 PART_FILL = {1: "E8F0E4", 2: "FFF3D6", 3: "F6E3E3"}
@@ -91,6 +97,8 @@ rows = [
  ("해법의 순간","화마다 대화(상대·주변 인물의 한마디, 통역 실수, 사소한 습관)에서 해법이 떠오르는 순간을 하나 배정"),
  ("역사 사례","화마다 해당국의 실제 역사 사례를 1개 이상, 해법의 논거로 대사에 쓰고 주석에 사건·연도·교훈을 단다"),
  ("복선 장부","언어마다 '비밀·복선 장부'를 만들어 화 간 회수를 관리(스페인어 바이블 방식)"),
+ ("3부 구조","3부는 한 화에 사건 하나가 아니라 4개의 사건을 각각 3화(발생·심화/반전·해결/대가)에 걸쳐 푸는 구조. 4개 사건은 3부의 상위 실마리 하나로 묶이고, 사건마다 지배적 협상 유형이 다름"),
+ ("1·2부 구조","1부와 2부는 하나의 큰 사건을 12화에 걸쳐 푸는 연속 구조"),
  ("집필 순서","시리즈 바이블 → 1부 시놉시스 → 1화 시범 → 확인 후 나머지 화 → 2·3부 상세화"),
 ]
 header(ws, 4, ["항목","내용"])
@@ -113,6 +121,15 @@ for i,(a,b,c,d) in enumerate(es):
     put(ws, 5+i, 1, a, al=CENTER); put(ws, 5+i, 2, b); put(ws, 5+i, 3, c); put(ws, 5+i, 4, d, al=CENTER)
 put(ws, 17, 3, "합계", f(True), SAND); put(ws, 17, 4, "=SUM(D5:D16)", f(True), SAND, CENTER)
 widths(ws, [8,30,30,10])
+r0 = 20
+ws.cell(row=r0, column=1, value="스페인어 3부 설계 (4사건 × 3화)").font = f(True, 12, NAVY)
+header(ws, r0+1, ["화","원어 제목","한국어 제목","사건","줄거리","해법이 떠오르는 순간","역사 사례"])
+for i, e in enumerate(ES3["eps"]):
+    r = r0 + 2 + i
+    put(ws, r, 1, e[1], al=CENTER); put(ws, r, 2, e[2]); put(ws, r, 3, e[3]); put(ws, r, 4, e[8], f(True))
+    put(ws, r, 5, e[5]); put(ws, r, 6, e[6]); put(ws, r, 7, e[7])
+    ws.row_dimensions[r].height = 48
+ws.column_dimensions["D"].width = 24; ws.column_dimensions["E"].width = 50; ws.column_dimensions["F"].width = 40; ws.column_dimensions["G"].width = 40
 
 # ---------- 언어별 시트 ----------
 allrows = []
@@ -153,35 +170,37 @@ for s in SERIES:
     r += 1
     ws.cell(row=r, column=1, value="에피소드 36화").font = f(True, 11, NAVY); r += 1
     head_r = r
-    header(ws, r, ["부","화","원어 제목","한국어 제목","협상 유형","줄거리","해법이 떠오르는 순간","역사 사례(논거)"])
+    header(ws, r, ["부","화","원어 제목","한국어 제목","협상 유형","줄거리","해법이 떠오르는 순간","역사 사례(논거)","사건(3부는 4사건×3화)"])
     r += 1
-    for (pt, ep, orig, ko, typ, log, trig, hist) in s["episodes"]:
+    for row_ in s["episodes"]:
+        (pt, ep, orig, ko, typ, log, trig, hist, *rest) = row_
+        case = rest[0] if rest else "—"
         fl = PART_FILL[pt]
         put(ws, r, 1, f"{pt}부", f(True), fl, CENTER); put(ws, r, 2, ep, f(True), fl, CENTER)
         put(ws, r, 3, orig, f(True, 10, ACCENT), fl); put(ws, r, 4, ko, f(True), fl)
         put(ws, r, 5, typ, fl=fl, al=CENTER)
-        put(ws, r, 6, log); put(ws, r, 7, trig); put(ws, r, 8, hist)
+        put(ws, r, 6, log); put(ws, r, 7, trig); put(ws, r, 8, hist); put(ws, r, 9, case, f(True), fl, CENTER)
         ws.row_dimensions[r].height = 62
-        allrows.append((s["lang"], pt, ep, orig, ko, typ, log, trig, hist))
+        allrows.append((s["lang"], pt, ep, orig, ko, typ, log, trig, hist, case))
         r += 1
-    ws.auto_filter.ref = f"A{head_r}:H{r-1}"
-    widths(ws, [14,6,28,24,12,52,44,44])
+    ws.auto_filter.ref = f"A{head_r}:I{r-1}"
+    widths(ws, [14,6,28,24,12,52,44,44,22])
     ws.freeze_panes = "A4"
 
 # ---------- 종합 ----------
 ws = wb.create_sheet("에피소드 종합")
 title(ws, "에피소드 종합 (252화)", "필터로 언어·부·협상 유형·역사 사례를 걸러 볼 수 있음")
-header(ws, 4, ["언어","부","화","원어 제목","한국어 제목","협상 유형","줄거리","해법이 떠오르는 순간","역사 사례(논거)"])
+header(ws, 4, ["언어","부","화","원어 제목","한국어 제목","협상 유형","줄거리","해법이 떠오르는 순간","역사 사례(논거)","사건(3부)"])
 for i, row in enumerate(allrows):
     r = 5 + i
     fl = PART_FILL[row[1]]
     for c, v in enumerate(row, 1):
         put(ws, r, c, (f"{v}부" if c == 2 else v), f(c in (3,4,5) and False), fl if c <= 6 else None,
-            CENTER if c in (2,3,6) else WRAP)
+            CENTER if c in (2,3,6,10) else WRAP)
     ws.row_dimensions[r].height = 58
-ws.auto_filter.ref = f"A4:I{4+len(allrows)}"
+ws.auto_filter.ref = f"A4:J{4+len(allrows)}"
 ws.freeze_panes = "A5"
-widths(ws, [22,6,6,28,24,12,52,44,44])
+widths(ws, [22,6,6,28,24,12,52,44,44,22])
 
 out = HERE / "외교관시리즈_7개국어_3부작_기획안.xlsx"
 wb.save(out)
