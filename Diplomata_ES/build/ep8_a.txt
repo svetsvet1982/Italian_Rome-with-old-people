@@ -1,0 +1,83 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 8
+@title La filtración
+@ko 유출
+@setting 월요일 아침 알바로의 집 → 산타크루스 궁 장관 집무실 → 점심 무렵 카페 → 저녁 전화
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast ALBORNOZ | 외교부 장관, 56세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@cast GASPAR | 장관 비서실장, 47세
+@cast PALOMA | 탐사보도 기자, 38세 (일간지 La Crónica)
+@cast AMINATA | 칸다라 공화국 주스페인 대사
+@note 이 화는 '언론과 정보'의 이야기입니다. 신문 제목, 기자의 질문, 정부의 공식 부인(desmentido)이 어떤 말투로 만들어지는지 주목하세요. 알바로는 기자의 '질문 순서'에서 상대가 가진 것과 갖지 못한 것을 읽어냅니다. 대화 속에서 해법이 나오는 장면이 한 번 더 있습니다.
+@next 1부 9화 — «Gaspar»(가스파르) — 마리나가 유출된 쪽지의 팩스 머리글에서 이름 하나를 읽어낸다. 알바로는 공원 벤치에서 가스파르와 마주 앉는다. 그리고 그가 던진 이름은 룬드였다.
+
+## 1면 — LA PORTADA
+MARINA: Álvaro, ¿has visto la prensa? ||| 알바로, 신문 봤어요?
+ÁLVARO: Son las siete de la mañana de un lunes, Marina. Todavía estoy buscando mis zapatos. ||| 월요일 아침 일곱 시야, 마리나. 아직 신발도 찾는 중이야.
+MARINA: Mírala. Te la mando por foto. «La Crónica». Primera plana. ||| 봐요. 사진으로 보낼게요. '라 크로니카'. 1면이에요.
+ÁLVARO: «El anexo secreto: España pagó veintiocho años por el silencio de Kandara». Firmado por Paloma Ríos. ||| '비밀 부속서: 스페인은 28년 동안 칸다라의 침묵을 대가로 돈을 냈다'. 파올라 리오스 기자 기사로군.
+MARINA: Dice «según documentos a los que ha tenido acceso este diario». Publica fragmentos. Los artículos primero y segundo. ||| '본지가 입수한 문서에 따르면'이라고 돼 있어요. 일부를 싣고 있어요. 제1조와 제2조요.
+ÁLVARO: ¿Con la palabra «contraprestación»? ||| '반대급부'라는 단어가 들어 있어?
+MARINA: No. Con «compensación». La versión de Fermín. ||| 아니요. '보상'이에요. 페르민 씨 판본이요.
+ÁLVARO: Entonces el que ha filtrado no tiene el original francés. Solo la traducción. ||| 그럼 유출한 사람은 프랑스어 원본이 없는 거야. 번역본만 있고.
+MARINA: ¿Y eso qué importa? ||| 그게 왜 중요해요?
+ÁLVARO: Mucho. Quien filtra una traducción cree que la traducción es el documento. ¿Lo has leído entero? ||| 아주 많이. 번역본을 유출하는 사람은 번역본이 문서라고 믿는 거야. 끝까지 읽었어?
+MARINA: Dos veces. Hay un pie de foto interesante. Dice que el documento lleva el membrete «Presidencia del Gobierno. Reservado. Copia dos de tres». ||| 두 번요. 흥미로운 사진 설명이 있어요. 문서에 '총리실. 비공개. 3부 중 2부'라는 머리글이 있다고요.
+ÁLVARO: Copia dos de tres. Es decir, hay una copia uno y una copia tres. ||| 3부 중 2부. 그러니까 1부와 3부도 있다는 거네.
+MARINA: Y el que filtró tenía acceso a la copia dos. ||| 그리고 유출한 사람은 2부에 접근할 수 있었던 거고요.
+ÁLVARO: Lo cual significa que la fuente está en Presidencia o muy cerca. ||| 그 말은 출처가 총리실이거나 그 근처라는 거지.
+MARINA: Valdés ha llamado cinco veces. ||| 발데스 차관님이 다섯 번 전화했어요.
+ÁLVARO: Ya me imagino. Voy para allá. ||| 상상이 가. 지금 가.
++ la prensa = 신문, 언론. 여기서는 '조간신문'
++ primera plana = 1면. 'portada'와 같은 뜻이며 'primera página'로도 쓴다
++ membrete = 문서 상단의 머리글(기관 표기). 공문서의 소속·등급 표기
++ copia dos de tres = '3부 중 2부'. 비밀 문서의 사본 번호 표기
++ según documentos a los que ha tenido acceso = 'documentos a los que + 동사' 관계절. 취재 출처를 밝히는 기사의 정형구
++ cerca de = ~근처에, ~에 가까운 (거리·관계)
+
+## 장관 집무실 — EL DESPACHO DE LA MINISTRA
+ALBORNOZ: Cierren la puerta. Siéntense. Alguien me explica qué es esto. ||| 문 닫으세요. 앉으세요. 이게 뭔지 누가 설명해 보세요.
+GASPAR: Señora ministra, es una filtración. Sin firma, sin versión oficial. La prensa lo ha amplificado. ||| 장관님, 유출입니다. 서명도 공식 판본도 없고요. 언론이 증폭시켰습니다.
+ALBORNOZ: No le he preguntado qué es, Gaspar. Le he pedido que me lo expliquen. ||| 그게 뭔지 묻지 않았어요, 가스파르. 설명해 달라고 했어요.
+VALDÉS: Señora ministra, nuestra posición es que no hay constancia de ningún anexo con ese nombre. ||| 장관님, 우리 입장은 그런 이름의 부속서에 대한 기록이 없다는 것입니다.
+ALBORNOZ: ¿No hay constancia? ||| 기록이 없다고요?
+VALDÉS: No que yo sepa. ||| 제가 아는 한은 없습니다.
+ALBORNOZ: Es una fórmula muy cuidadosa, Inmaculada. «No que yo sepa». ¿Álvaro? ||| 아주 신중한 표현이군요, 이마쿨라다. '제가 아는 한은 없다'. 알바로?
+ÁLVARO: Señora ministra, creo que conviene averiguar antes de negar. ||| 장관님, 부인하기 전에 확인하는 게 맞다고 생각합니다.
+GASPAR: Eso nos hace parecer débiles. ||| 그러면 우리가 약해 보입니다.
+ÁLVARO: Nos hace parecer cautos. Una negación que se desmiente a los tres días nos hace parecer mentirosos. ||| 신중해 보이죠. 사흘 만에 뒤집히는 부인은 거짓말쟁이처럼 보이게 하고요.
+ALBORNOZ: ¿Usted tiene motivos para pensar que el anexo existe? ||| 부속서가 존재한다고 생각할 근거가 있습니까?
+ÁLVARO: Tengo motivos para pensar que hay un documento. Lo que contiene y quién lo conocía, todavía lo estoy comprobando. ||| 문서가 있다고 생각할 근거가 있습니다. 그 내용과 누가 알고 있었는지는 아직 확인 중입니다.
+ALBORNOZ: Inmaculada, ¿usted lo sabía? ||| 이마쿨라다, 알고 계셨습니까?
+VALDÉS: ... Señora ministra, en mil novecientos noventa y seis yo era una subdirectora general joven. Muchos documentos pasaron por mis manos. ||| …장관님, 1996년에 저는 젊은 부서장이었습니다. 많은 문서가 제 손을 거쳤습니다.
+ALBORNOZ: No es una respuesta. ||| 대답이 아니군요.
+VALDÉS: Es la única que puedo darle hoy. ||| 오늘 제가 드릴 수 있는 유일한 답입니다.
+ALBORNOZ: Entonces quiero una respuesta mejor mañana. Gaspar, redacte un comunicado que ni afirme ni niegue. ||| 그럼 내일은 더 나은 답을 원합니다. 가스파르, 긍정도 부정도 하지 않는 성명을 쓰세요.
+GASPAR: Señora ministra, la prensa va a exigir una frase clara. ||| 장관님, 언론은 분명한 문장을 요구할 겁니다.
+ALBORNOZ: Pues dele una clara que no sea ni sí ni no. «El Ministerio está verificando la autenticidad de los documentos». ||| 그럼 예스도 노도 아닌 분명한 문장을 주세요. '외교부는 문서의 진위를 확인하고 있다'.
+GASPAR: Es perfecto, señora ministra. ||| 완벽합니다, 장관님.
+ALBORNOZ: No lo es. Pero sirve. Álvaro, ¿qué tiene usted para el barco? ||| 완벽하진 않아요. 하지만 쓸 만하죠. 알바로, 배에 대해서는 뭘 갖고 있습니까?
+ÁLVARO: Una declaración de la Comisión Europea, una misión técnica en tres semanas y una propuesta de fondo transparente. ||| 유럽 집행위 성명, 3주 뒤 기술 사절단, 그리고 투명 기금 제안입니다.
+ALBORNOZ: Eso es mejor que la multa. ¿Quién la ha pagado? ||| 벌금보다 낫군요. 누가 냈습니까?
+VALDÉS: Nadie, señora ministra. El armador aceptó pagar, pero Álvaro no ha traído la carta. ||| 아무도요, 장관님. 선주가 내기로 했지만 알바로가 서한을 가져오지 않았습니다.
+ALBORNOZ: ¿Es cierto? ||| 사실입니까?
+ÁLVARO: Es cierto. Porque creo que si pagamos la multa ahora, con ese titular en la portada, parecerá que estamos comprando el silencio otra vez. ||| 사실입니다. 지금 이 1면 제목이 나온 상황에서 벌금을 내면, 침묵을 또 사는 것처럼 보일 거라고 생각해서요.
+ALBORNOZ: ... Tiene razón. Suspenda el pago. Inmaculada, lo que haya que arreglar con el armador, lo hace usted. ||| …맞는 말이에요. 지급을 중단하세요. 이마쿨라다, 선주와 조율할 건 차관님이 하세요.
+VALDÉS: Como ordene, señora ministra. ||| 분부대로 하겠습니다, 장관님.
+ALBORNOZ: Una cosa más. Quiero saber de dónde ha salido esta filtración. Hoy. ||| 하나 더. 이 유출이 어디서 나왔는지 알고 싶습니다. 오늘.
+GASPAR: Señora ministra, es muy difícil de rastrear. ||| 장관님, 추적하기 아주 어렵습니다.
+ALBORNOZ: Entonces pongan a alguien a rastrearla que sea muy bueno. Álvaro. ||| 그럼 아주 잘하는 사람을 붙이세요. 알바로.
+ÁLVARO: Lo haré, señora ministra. ||| 하겠습니다, 장관님.
+GASPAR: Señora ministra, Álvaro está sobrecargado con el caso del barco... ||| 장관님, 알바로는 배 사건으로 과부하가 걸려 있습니다…
+ALBORNOZ: Y por eso confío en él. La gente con exceso de trabajo no tiene tiempo para mentir. ||| 그래서 믿는 겁니다. 일이 넘치는 사람들은 거짓말할 시간이 없거든요.
++ no que yo sepa = 제가 아는 한은 아니다. 'que yo sepa'는 접속법 현재의 제한 표현
++ ni afirme ni niegue = ni ... ni 부정 구조. 접속법(afirme, niegue)은 '그런 종류의 성명'이라는 특정되지 않은 선행사
++ rastrear = 추적하다. 'rastro'(흔적)에서 온 동사
++ conviene + 원형 = ~하는 게 좋다, 바람직하다. conviene는 비인칭 동사
++ lo que haya que arreglar = 'lo que + 접속법' 구문. 조율해야 할 것이 무엇이든
++ sobrecargado = 과부하된, 업무가 넘치는

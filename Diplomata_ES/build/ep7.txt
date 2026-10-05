@@ -1,0 +1,227 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 7
+@title Un favor sucio
+@ko 더러운 호의
+@setting 목요일 밤 라 라티나의 내장 요리 식당 → 같은 날 늦은 밤 알바로의 집 부엌 → 토요일 아침 레티로 공원 벤치
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast LUCÍA | 알바로의 딸, 16세
+@cast CAMARERO | 식당 종업원
+@note 이 화는 '더러운 수단'을 다룹니다. 합법과 불법 사이에서 외교관이 어떤 선을 긋는지, 그리고 그 선을 긋는 데 가족의 한마디가 어떻게 작용하는지 주목하세요. 레베카는 반어와 건조한 유머로 말하고, 루시아는 청소년 특유의 직설로 말합니다. 두 사람의 말투 차이를 비교해 보세요.
+@next 1부 8화 — «La filtración»(유출) — 월요일 아침, 신문 1면에 '비밀 부속서'라는 제목이 뜬다. 기자 파올라 리오스가 어디까지 알고 있는지를, 알바로는 질문의 순서에서 읽어낸다.
+
+## 목요일 밤 — LA TASCA DE LA LATINA
+REBECA: Llegas tarde y no has pedido. Eso es nuevo. ||| 늦게 와서 주문도 안 했네. 새로운 일인걸.
+ÁLVARO: Tenía una reunión. Hola, Rebeca. ||| 회의가 있었어. 안녕, 레베카.
+REBECA: He pedido callos. Si no te gustan, lo siento. Los callos son la prueba de que un lugar es serio. ||| 곱창 시켰어. 싫으면 어쩔 수 없고. 곱창은 그곳이 진지한 곳이라는 증거거든.
+ÁLVARO: Me encantan. ||| 아주 좋아해.
+REBECA: Mentiroso. Pero gracias. Desde la última vez que cenamos, ¿cuánto? ¿Tres años? ||| 거짓말쟁이. 그래도 고마워. 마지막으로 같이 저녁 먹은 게 3년쯤 됐나?
+ÁLVARO: Tres años y dos meses. En Tiflis. ||| 3년 2개월. 트빌리시에서.
+REBECA: Es verdad. Ibas a decirme que no volverías a pedirme nada. ||| 맞아. 나한테 다시는 부탁 안 한다고 말하려던 때였지.
+ÁLVARO: Y tú dijiste que eso era un buen propósito de año nuevo. ||| 그리고 너는 그게 신년 결심으로 좋다고 했고.
+REBECA: Y estamos en octubre. Bien. Dime qué necesitas. ||| 그리고 지금은 10월이고. 좋아. 필요한 걸 말해.
+ÁLVARO: Tres cosas. Una matrícula. Los movimientos de una cuenta. Y que no preguntes por qué. ||| 세 가지. 번호판 하나. 계좌 하나의 거래 내역. 그리고 이유를 묻지 말 것.
+REBECA: La tercera no te la puedo conceder. Las preguntas son lo único que me dejan hacer. ||| 세 번째는 승낙할 수 없어. 질문은 내가 하도록 허락된 유일한 일이거든.
+ÁLVARO: Entonces pregunta, pero no me exijas la respuesta. ||| 그럼 물어봐, 하지만 대답을 강요하진 마.
+REBECA: Trato hecho. La matrícula. ||| 좋아. 번호판.
+ÁLVARO: Un coche gris, estuvo en Lavapiés vigilando a un intérprete jubilado. Apúntala: seis, tres, dos, uno, M, K, T. ||| 회색 차, 라바피에스에서 은퇴한 통역관을 감시했어. 적어: 6, 3, 2, 1, M, K, T.
+REBECA: Seis, tres, dos, uno, M, K, T. ¿Un intérprete jubilado? ¿En qué lío te has metido? ||| 6, 3, 2, 1, M, K, T. 은퇴한 통역관이라고? 무슨 일에 휘말린 거야?
+ÁLVARO: En uno bastante viejo. Veintiocho años. ||| 아주 오래된 일에. 28년 된.
+REBECA: Eso es antigüedad. Bien. La cuenta. ||| 골동품급이네. 좋아. 계좌는?
+ÁLVARO: Del general Sekou Bah, ministro de Defensa de Kandara. Sé que tiene al menos una cuenta fuera del país. Quiero saber desde cuándo cobra, de quién y cuánto. ||| 칸다라 국방장관 세쿠 바 장군의 계좌야. 적어도 해외 계좌가 하나 있는 걸로 알아. 언제부터 받았고 누구한테서 얼마나 받았는지 알고 싶어.
+REBECA: ¿Para qué? ||| 뭐 하려고?
+ÁLVARO: Para saber si me enfrento a un hombre o a un sistema. ||| 내가 한 사람과 맞서는지 하나의 체계와 맞서는지 알려고.
+REBECA: Esa es una buena respuesta. Y una mala respuesta, porque no responde. ||| 좋은 대답이야. 그리고 나쁜 대답이기도 해, 대답이 안 되니까.
+ÁLVARO: Rebeca. ||| 레베카.
+REBECA: Vale. Voy a decirte cómo funciona esto. Obtener datos bancarios de un ministro extranjero sin una orden de un juez es ilegal. Si lo hace el servicio, es ilegal con más gracia. Si lo haces tú, es un delito. ||| 알았어. 이게 어떻게 돌아가는지 말해 줄게. 외국 장관의 은행 자료를 판사의 명령 없이 얻는 건 불법이야. 정보원이 하면 좀 더 세련된 불법이고, 네가 하면 범죄야.
+ÁLVARO: ¿Y si lo haces tú por mí? ||| 네가 나 대신 하면?
+REBECA: Entonces es un favor. Y los favores tienen intereses. ||| 그럼 호의지. 그리고 호의에는 이자가 붙어.
+ÁLVARO: ¿Qué interés? ||| 얼마의 이자?
+REBECA: Todavía no lo sé. Algún día voy a necesitar que me ayudes a encontrar a alguien. Una persona que se perdió. ||| 아직 몰라. 언젠가 네가 내가 누군가를 찾는 걸 도와줘야 할 거야. 사라진 사람 하나.
+ÁLVARO: ¿Quién? ||| 누구?
+REBECA: Todavía no. Dijiste que no preguntarías. ||| 아직은 아니야. 묻지 않기로 했잖아.
+ÁLVARO: Acepto. ||| 받아들일게.
+REBECA: Ni lo has pensado. ||| 생각도 안 해 보고.
+ÁLVARO: Lo he pensado desde el lunes. ||| 월요일부터 생각했어.
+REBECA: Entonces eres peor de lo que creía. Me gusta. Hay una segunda posibilidad, más rápida, que no tiene que ver con la cuenta. ||| 그럼 네가 생각보다 더 나쁜 사람이네. 마음에 들어. 계좌와 상관없는 더 빠른 두 번째 방법도 있어.
+ÁLVARO: Dime. ||| 말해 봐.
+REBECA: Tu viceministro, Camara. Tiene un hijo de veintidós años que estudia en un máster de Madrid. Su permiso de residencia caduca el treinta y uno. Si no se renueva, el chico vuelve a Puerto Alba. Y su padre se vuelve muy dócil. ||| 네 차관 카마라. 스물두 살 아들이 마드리드에서 석사 과정을 밟고 있어. 그 애의 체류 허가가 31일에 만료돼. 갱신되지 않으면 아들은 푸에르토 알바로 돌아가야 하고, 아버지는 아주 온순해지지.
+ÁLVARO: No. ||| 안 돼.
+REBECA: Es la vía más corta. ||| 가장 짧은 길이야.
+ÁLVARO: He dicho que no. ||| 안 된다고 했어.
+REBECA: Vale. Pero guardo la información. Es mi seguro. ||| 알았어. 하지만 그 정보는 보관해 둘게. 내 보험이니까.
+ÁLVARO: Destrúyela. ||| 파기해.
+REBECA: No. ||| 싫어.
++ callos = 곱창·내장 요리. 마드리드의 대표적 전통 음식
++ trato hecho = 합의했다, 좋아. 거래가 성사됐을 때 쓰는 말
++ con más gracia = 좀 더 세련되게. 'con gracia'는 '재치 있게'. 여기서는 반어적으로 쓰였다
++ meterse en un lío = 곤란한 일에 휘말리다
++ es mi seguro = 내 보험이다. 약점을 쥐고 안전장치로 삼는다는 뜻
++ los favores tienen intereses = 호의에는 이자가 있다. 외교·정보 세계의 '빚' 개념을 비유한다
+
+## 늦은 밤의 부엌 — LA COCINA
+LUCÍA: ¿Qué haces aquí? Es la una de la madrugada. ||| 여기서 뭐 해? 새벽 한 시야.
+ÁLVARO: Eso mismo iba a preguntarte yo. Mañana tienes clase. ||| 내가 하려던 말이야. 내일 수업 있잖아.
+LUCÍA: Tengo un trabajo de Ética. Entrego mañana. ||| 윤리 과제가 있어. 내일 제출해야 돼.
+ÁLVARO: ¿Sobre qué? ||| 무슨 주제야?
+LUCÍA: «¿Se puede ganar sin ganar bien?». Tengo que argumentar a favor y en contra. ||| '제대로 이기지 않고도 이길 수 있는가?' 찬성과 반대를 논증해야 해.
+ÁLVARO: Qué casualidad. ||| 우연이네.
+LUCÍA: ¿Casualidad? ||| 우연이라고?
+ÁLVARO: Es un tema muy de mi oficio. ||| 내 직업에 딱 맞는 주제거든.
+LUCÍA: Mamá dice que tu oficio consiste en ganar sin que se note. ||| 엄마는 아빠 직업이 티 나지 않게 이기는 거라고 해.
+ÁLVARO: Tu madre es muy injusta. A veces consiste en perder sin que se note. ||| 네 엄마는 너무 불공평해. 가끔은 티 나지 않게 지는 거야.
+LUCÍA: Yo creo que ganar sin ganar bien no cuenta. ||| 난 제대로 이기지 않은 승리는 승리가 아니라고 생각해.
+ÁLVARO: ¿Por qué? ||| 왜?
+LUCÍA: Porque al final lo que ganaste ya no es tuyo. ||| 결국 네가 이긴 것이 더는 네 것이 아니게 되니까.
+ÁLVARO: Qué frase tan bonita. ¿La has leído en algún sitio? ||| 아주 근사한 말이구나. 어디서 읽었니?
+LUCÍA: La he pensado esta noche. No me hagas la pelota. ||| 오늘 밤에 생각했어. 아부하지 마.
+ÁLVARO: No te la hago. Es verdad. ||| 아부 아니야. 사실이니까.
+LUCÍA: Papá, ¿tú has ganado alguna vez sin ganar bien? ||| 아빠, 아빠는 제대로 이기지 않고 이긴 적 있어?
+ÁLVARO: ... Esta noche, probablemente voy a hacerlo. ||| …오늘 밤에 아마 그렇게 될 거야.
+LUCÍA: ¿Qué has hecho? ||| 무슨 짓을 했어?
+ÁLVARO: He pedido un favor a una persona que no debería haber pedido. Y ese favor es ilegal. ||| 부탁하면 안 되는 사람에게 부탁을 했어. 그리고 그 부탁은 불법이야.
+LUCÍA: ¿Para salvar a los marineros? ||| 선원들을 구하려고?
+ÁLVARO: Para saber la verdad que me permita salvarlos. ||| 선원들을 구하는 데 필요한 진실을 알기 위해서.
+LUCÍA: Eso suena a justificación. ||| 변명처럼 들려.
+ÁLVARO: Lo es. Una justificación bastante buena. Pero lo es. ||| 맞아. 꽤 괜찮은 변명이지만 변명은 변명이야.
+LUCÍA: ¿Y es una justificación de las que se pueden contar en voz alta? ||| 그리고 소리 내어 말할 수 있는 변명이야?
+ÁLVARO: Esa es una buena pregunta. ¿Quién te ha enseñado a hacerlas? ||| 좋은 질문이구나. 누가 그런 걸 가르쳤니?
+LUCÍA: Tú. Aunque no te des cuenta. ||| 아빠가. 모르고 있겠지만.
+ÁLVARO: Lucía, ¿tú qué harías? ||| 루시아, 너라면 어떻게 하겠니?
+LUCÍA: No lo sé. Pero cuando me pasa algo así, me pregunto una cosa: ¿si mañana saliera en el telediario, me daría vergüenza? ||| 모르겠어. 하지만 나한테 그런 일이 생기면 한 가지를 스스로 물어. 내일 뉴스에 나오면 부끄러울까?
+ÁLVARO: Todos los días sale en el telediario algo de lo que me avergüenzo. ||| 매일 뉴스에 나오는 일 중에 내가 부끄러워하는 게 있어.
+LUCÍA: Papá. ||| 아빠.
+ÁLVARO: Perdona. Tienes razón. ||| 미안. 네 말이 맞아.
+LUCÍA: Entonces, ¿eso es ganar? ||| 그럼, 그게 이기는 거야?
+ÁLVARO: ¿Qué cosa? ||| 뭐가?
+LUCÍA: Hacer algo que te daría vergüenza contar para conseguir algo que quieres contar. ||| 말하기 부끄러운 짓을 해서, 말하고 싶은 걸 얻는 거.
+ÁLVARO: ... No lo sé. Quizá sea la mitad de ganar. ||| …모르겠다. 어쩌면 반만 이기는 걸지도.
+LUCÍA: Pues escribiré eso en mi trabajo. «Ganar sin ganar bien es ganar la mitad». ||| 그럼 그걸 과제에 쓸게. '제대로 이기지 않고 이기는 건 반만 이기는 것이다'.
+ÁLVARO: Ponme en la bibliografía. ||| 참고 문헌에 내 이름을 넣어 줘.
+LUCÍA: No. Tú eres un caso práctico. ||| 싫어. 아빠는 사례 연구야.
++ trabajo de Ética = 윤리 과제. 'trabajo'는 학교 과제/리포트
++ hacer la pelota = 아부하다. 구어 표현 ('pelota'는 공)
++ las que se pueden contar en voz alta = 'las que + se + 동사'는 비인칭 수동. '소리 내어 말할 수 있는 종류의 것'
++ darse cuenta = 알아차리다. 재귀 동사 관용구
++ salir en el telediario = 뉴스에 나오다. 'telediario'는 TV 뉴스 프로그램
++ caso práctico = 사례 연구. 교육 과정에서 실제 사례를 가리키는 말
+## 선을 긋다 — LA LÍNEA
+LUCÍA: Una cosa más. Y no te enfades. ||| 하나만 더. 화내지 말고.
+ÁLVARO: Dime. ||| 말해 봐.
+LUCÍA: Si tienes que usar a alguien para ganar, ¿al menos puedes elegir a quién no usas? ||| 이기려고 누군가를 이용해야 한다면, 적어도 이용하지 않을 사람은 고를 수 있잖아?
+ÁLVARO: Eso es exactamente lo que he hecho esta noche. ||| 오늘 밤 내가 정확히 그렇게 했어.
+LUCÍA: ¿Y a quién no has usado? ||| 누구를 이용하지 않았는데?
+ÁLVARO: A un chico de tu edad, más o menos. Un poco mayor. Un estudiante, hijo de un hombre al que necesito que me hable. ||| 너와 비슷한 나이의 아이야, 조금 더 많긴 하지만. 학생이고, 내가 말을 걸어야 하는 사람의 아들이야.
+LUCÍA: ¿Y por qué lo has descartado? ||| 왜 그 애를 제외했어?
+ÁLVARO: Porque cuando lo estaba pensando, me imaginé que era mi hija. ||| 생각하고 있는데, 내 딸이라고 상상했거든.
+LUCÍA: Papá. ||| 아빠.
+ÁLVARO: Es lo mejor y lo peor de ser padre. No puedes ver a nadie como una pieza. ||| 아버지가 되는 일에서 제일 좋고도 나쁜 점이야. 누구도 말로 볼 수 없게 돼.
+LUCÍA: Entonces no eres tan malo en tu oficio como dices. ||| 그럼 아빠 직업에서 말하는 것만큼 나쁜 사람은 아니네.
+ÁLVARO: Lo soy. Pero soy un padre. Ya es algo. ||| 나쁜 사람이지. 하지만 아버지야. 그것도 뭔가는 되지.
+LUCÍA: Vale. Me voy a dormir. Buenas noches. ||| 알았어. 자러 갈게. 안녕히 주무세요.
+ÁLVARO: Buenas noches, cariño. Lucía. ||| 잘 자, 우리 딸. 루시아.
+LUCÍA: ¿Qué? ||| 뭐?
+ÁLVARO: Gracias. ||| 고마워.
+LUCÍA: ¿Por qué? ||| 왜?
+ÁLVARO: Por hacerme la pregunta que nadie en mi trabajo me hace. ||| 내 직장에서는 아무도 하지 않는 질문을 해 줘서.
+LUCÍA: Es que nadie en tu trabajo tiene dieciséis años. ||| 아빠 직장엔 열여섯 살이 없잖아.
++ descartar = 제외하다, 배제하다. 선택지에서 빼는 일
++ ser una pieza = 말(체스 말)이다. 사람을 도구로 보는 시각
++ ya es algo = 그것도 뭔가는 된다. 위안을 주는 구어체 표현
++ no eres tan malo como dices = 'tan ... como' 동등 비교의 부정
++ hacerme la pregunta = 나에게 질문을 하다. 간접목적어 me가 동사 원형에 붙은 구조
++ ¿al menos puedes elegir a quién no usas? = 'a quién no usas'는 간접의문. 선택할 수 있는 최소한의 윤리를 묻는 문장
+
+## 아침 벤치 — EL BANCO DEL RETIRO
+REBECA: Siéntate. Y no mires alrededor. Aquí, a las ocho de la mañana, solo hay corredores y ancianos. Los dos son malos testigos. ||| 앉아. 주위 둘러보지 말고. 아침 여덟 시에 여긴 달리는 사람이랑 노인뿐이야. 둘 다 형편없는 목격자거든.
+ÁLVARO: Has dormido poco. ||| 잠을 별로 못 잤구나.
+REBECA: Duermo poco. Es parte del uniforme. ||| 잠을 적게 자. 제복의 일부지.
+ÁLVARO: ¿La matrícula? ||| 번호판은?
+REBECA: Un coche de alquiler. Empresa «Sigma Movilidad». El contrato lo firmó una consultora con sede en Londres. Se llama «Lund & Partners». ||| 렌터카야. '시그마 모빌리다드'라는 회사. 계약은 런던에 본사가 있는 컨설팅 회사가 했어. 이름은 '룬드 앤드 파트너스'.
+ÁLVARO: Lund & Partners. Nunca he oído hablar de ellos. ||| 룬드 앤드 파트너스. 들어 본 적 없는데.
+REBECA: Nadie ha oído hablar de ellos. Esa es su especialidad. Dicen que hacen «gestión de riesgos reputacionales». ||| 아무도 들어 본 적 없지. 그게 그들의 전문이야. '평판 위험 관리'를 한다고 하지.
+ÁLVARO: ¿Y qué hacen en realidad? ||| 실제로는 뭘 하는데?
+REBECA: Lo que hacen las consultoras de ese tipo. Averiguan secretos antes de que lo hagan los periodistas. Y los venden a quien tenga más que perder. ||| 그런 종류의 컨설팅 회사가 하는 일이지. 기자들보다 먼저 비밀을 알아내서, 잃을 게 가장 많은 사람에게 팔아.
+ÁLVARO: Entonces alguien les pagó para vigilar a Fermín Cuesta. ||| 그럼 누군가 돈을 주고 페르민 쿠에스타를 감시하게 했군.
+REBECA: O para vigilar a quien fuera a visitarle. A ti. ||| 아니면 그를 찾아올 사람을 감시하게 했거나. 너를.
+ÁLVARO: ¿Quién contrata a Lund? ||| 누가 룬드를 고용하지?
+REBECA: Eso me llevará más tiempo. Pero te adelanto: los clientes de Lund en Madrid son pocos y muy caros. ||| 그건 시간이 더 걸려. 하지만 미리 말하자면, 마드리드의 룬드 고객은 적고 아주 비싸.
+ÁLVARO: Gracias. Ahora la cuenta. ||| 고마워. 이제 계좌.
+REBECA: Toma. Un pendrive. Contiene los movimientos de dos cuentas del general Bah. Una en Luxemburgo, otra en Mauricio. Desde mil novecientos noventa y seis. ||| 받아. USB야. 바 장군의 계좌 두 개의 거래 내역이 들어 있어. 하나는 룩셈부르크, 하나는 모리셔스. 1996년부터.
+ÁLVARO: ¿Cómo lo has conseguido? ||| 어떻게 구했어?
+REBECA: Tú me pediste que no te lo contase. ||| 네가 말하지 말라고 했잖아.
+ÁLVARO: ¿Y qué dice? ||| 그래서 뭐라고 나와?
+REBECA: Dice que cada año, entre octubre y noviembre, llega un ingreso de la cuenta del Consejo de Pesca de Kandara. Eso es tu «tasa complementaria». El dinero pasa por el Consejo y termina en la cuenta personal del general. Todos los años. ||| 해마다 10월과 11월 사이에 칸다라 어업위원회 계좌에서 입금이 들어와. 네가 말한 '추가 요금'이지. 돈은 위원회를 거쳐 장군 개인 계좌로 들어가. 매년.
+ÁLVARO: Eso lo esperaba. ||| 그건 예상했어.
+REBECA: Lo que no esperabas: hay un segundo flujo. Un fideicomiso en Lisboa. «Fiduciaria del Tajo». Ingresa dinero a la cuenta de Mauricio todos los eneros. ||| 예상 못 했을 건 이거야. 두 번째 흐름이 있어. 리스본의 신탁회사. '피두시아리아 델 타호'. 매년 1월마다 모리셔스 계좌로 입금해.
+ÁLVARO: ¿Quién está detrás? ||| 배후는 누구야?
+REBECA: El fideicomiso se financia con un «fondo de contingencias medioambientales» de una empresa española. ||| 그 신탁은 스페인 기업의 '환경 우발 비용 기금'으로 자금을 조달해.
+ÁLVARO: Atlántica Química. ||| 아틀란티카 키미카.
+REBECA: ¿Te lo has imaginado o lo sabías? ||| 상상한 거야, 알고 있었던 거야?
+ÁLVARO: Me lo han dicho. ||| 누가 말해 줬어.
+REBECA: Pues la combinación es perfecta. Pagaban dos veces. El Estado, por lo oficial. La empresa, por lo suyo. Un doble seguro para que nadie hablara. ||| 완벽한 조합이네. 두 번 지급한 거야. 국가는 공식적인 몫으로, 기업은 자기 몫으로. 아무도 말하지 못하게 하는 이중 보험이지.
+ÁLVARO: ¿Y cuándo dejó de cobrar? ||| 언제부터 받지 못했어?
+REBECA: Esa es la parte interesante. El último ingreso del Consejo fue en septiembre del año pasado. El de Atlántica, en enero de este año. Desde entonces, nada. ||| 그게 흥미로운 부분이야. 위원회의 마지막 입금은 작년 9월. 아틀란티카는 올해 1월. 그 뒤로는 아무것도 없어.
+ÁLVARO: Se cortó el grifo. ||| 수도꼭지가 잠겼군.
+REBECA: Alguien lo cortó. Y a los siete meses, un general sin ingresos retuvo un barco español. ¿Coincidencia? ||| 누가 잠근 거야. 그리고 7개월 뒤 수입 없는 장군이 스페인 배를 억류했지. 우연일까?
+ÁLVARO: Nunca. ||| 절대 아니지.
+REBECA: ¿Y quién corta un grifo? ||| 그럼 누가 수도꼭지를 잠그지?
+ÁLVARO: Alguien que quiera que el general se ponga nervioso. O alguien que quiera que el cero salga a la luz. ||| 장군이 초조해지기를 바라는 사람. 아니면 영이 세상에 드러나기를 바라는 사람.
+REBECA: ¿El cero? ||| 영?
+ÁLVARO: Ya te lo explicaré algún día. ||| 언젠가 설명해 줄게.
+REBECA: Vale. Pero escucha. Con esto puedes presionar al general, pero no puedes usarlo en público. Son datos obtenidos de forma... creativa. ||| 알았어. 하지만 들어 봐. 이걸로 장군을 압박할 수는 있어도 공개적으로 쓸 순 없어. 이 자료는 좀… 창의적으로 얻은 거니까.
+ÁLVARO: Lo sé. Es un escudo, no una espada. ||| 알아. 방패지 칼이 아니야.
+REBECA: Es una buena manera de ponerlo. ||| 잘 비유했네.
+ÁLVARO: Rebeca. ¿Y el hijo de Camara? ||| 레베카. 카마라의 아들은?
+REBECA: Sigo teniendo el expediente. ||| 파일은 여전히 갖고 있어.
+ÁLVARO: Prométeme que no lo usarás. ||| 사용하지 않겠다고 약속해.
+REBECA: No te prometo eso. Te prometo que no lo usaré sin avisarte. ||| 그건 약속 못 해. 네게 알리지 않고는 쓰지 않겠다고 약속하지.
+ÁLVARO: No es lo mismo. ||| 같은 게 아니잖아.
+REBECA: Es lo que puedo ofrecer. Soy espía, no monja. ||| 내가 제공할 수 있는 건 그거야. 나는 첩보원이지 수녀가 아냐.
+ÁLVARO: Está bien. ||| 알았어.
+REBECA: Y ahora lo de siempre. Me debes una. ||| 이제 늘 하던 거. 너는 나에게 하나 빚졌어.
+ÁLVARO: Me debo a mí mismo unas cuantas más. ||| 나는 나 자신에게 몇 개 더 빚졌지.
+REBECA: Pues no me hagas esperar tanto como esperé la última vez. ||| 그럼 지난번만큼 오래 기다리게 하진 마.
+ÁLVARO: ¿Cuál fue la última vez? ||| 지난번이 언제였지?
+REBECA: Tiflis. Tardaste tres años en llamar. ||| 트빌리시. 연락하는 데 3년이나 걸렸지.
+ÁLVARO: Tengo una excusa. ||| 변명이 있어.
+REBECA: Siempre la tienes. Es la parte de ti que me hace falta. ||| 늘 있지. 그게 내가 네게서 필요로 하는 부분이야.
++ ponerse nervioso = 초조해지다. ponerse + 형용사는 일시적 상태 변화
++ cortar el grifo = (돈의) 수도꼭지를 잠그다. 자금 흐름을 끊는다는 은유
++ fiduciaria = 신탁회사. 'fideicomiso'는 신탁(그 제도)
++ es un escudo, no una espada = 방패이지 칼이 아니다. 압박용 정보를 폭로용으로 쓰지 않겠다는 선언
++ soy espía, no monja = 나는 첩보원이지 수녀가 아니다. 'A, no B' 구문을 유머로 쓴 것
++ lo de siempre = 늘 하던 것. 'lo de + 명사'
+
+## 계산서 — LA FACTURA
+MARINA: ¿Cómo ha ido? ||| 어땠어요?
+ÁLVARO: Tengo un pendrive y una deuda. Es lo más equilibrado que he hecho en una semana. ||| USB 하나와 빚 하나가 있어. 이번 주에 한 일 중에 가장 균형 잡힌 거야.
+MARINA: ¿Y el hijo de Camara? ||| 카마라 아들은요?
+ÁLVARO: No he tocado a nadie. Ni lo haré. ||| 아무도 건드리지 않았어. 앞으로도 그럴 거고.
+MARINA: Me alegro. ||| 다행이에요.
+ÁLVARO: Me lo impidió el jueves por la noche una chica de dieciséis años con un trabajo de Ética. ||| 목요일 밤에 열여섯 살 여자애가 윤리 과제로 막아 줬어.
+MARINA: Lucía. ||| 루시아요.
+ÁLVARO: Lucía. Y ahora, hay dos cosas. Una: el general ha cobrado de dos fuentes durante veintiocho años. Dos: llevaba un año sin cobrar cuando retuvo el barco. ||| 루시아. 그리고 이제 두 가지가 있어. 하나, 장군은 28년 동안 두 군데서 받았다. 둘, 배를 억류했을 때 1년째 받지 못하고 있었다.
+MARINA: Un hombre con hambre. ||| 배고픈 남자네요.
+ÁLVARO: Un hombre con hambre al que alguien le cortó la comida. Eso cambia el problema. Ya no se trata de qué quiere Kandara. Se trata de quién corta el grifo. ||| 누군가 음식을 끊어 버린 배고픈 남자. 그게 문제를 바꿔. 이제 칸다라가 뭘 원하느냐가 아니라, 누가 수도꼭지를 잠갔느냐가 문제야.
+MARINA: ¿Y quién es Lund & Partners? ||| 그리고 룬드 앤드 파트너스는 누구예요?
+ÁLVARO: Un vigilante. Por ahora. Pero alguien los contrató para vigilarnos a nosotros. ||| 감시자야. 지금으로서는. 하지만 누군가 우리를 감시하라고 그들을 고용했어.
+MARINA: Valdés. ||| 발데스 차관님.
+ÁLVARO: No. Valdés no tiene el dinero ni el miedo adecuado para contratar a una empresa así. Hay alguien más arriba. ||| 아니. 발데스 차관님에게는 그런 회사를 쓸 돈도, 알맞은 공포심도 없어. 더 위에 누가 있어.
+MARINA: ¿Aldaz? ||| 알다스요?
+ÁLVARO: Puede ser. O el hombre que usó el nombre de Valdés. Dos pistas, un mismo nombre en el aire. ||| 그럴 수도. 아니면 발데스의 이름을 쓴 남자일 수도. 단서는 둘, 공중에 떠 있는 이름은 하나.
+MARINA: ¿Qué hacemos ahora? ||| 이제 어떻게 해요?
+ÁLVARO: Ahora esperamos que alguien se mueva. Cuando llegue el lunes, alguien me va a pedir una carta de aceptación del armador y yo no la tendré. ||| 이제 누군가 움직이기를 기다려. 월요일이 되면 누군가 선주 수락 서한을 달라고 하겠지만, 나는 그걸 갖고 있지 않을 거야.
+MARINA: ¿Y qué ocurrirá? ||| 그럼 어떻게 되죠?
+ÁLVARO: Que Valdés cumplirá su amenaza. Y Gaspar hará algo. Siempre hace algo cuando alguien deja de obedecer. ||| 발데스 차관님이 협박을 실행할 거야. 그리고 가스파르가 뭔가 하겠지. 누가 복종을 그만두면 그는 늘 뭔가 하거든.
+MARINA: ¿Lo sabe por experiencia? ||| 경험으로 아는 거예요?
+ÁLVARO: Lo sé por la lógica. Y la lógica es la única experiencia que no me cuesta dinero. ||| 논리로 알아. 논리는 내게 돈이 들지 않는 유일한 경험이야.
++ vigilante = 감시자. 'vigilar'(감시하다)에서 온 명사
++ no se trata de ... se trata de ... = '~의 문제가 아니라 ~의 문제다'. tratar de는 비인칭으로 쓰인다
++ tener el miedo adecuado = 알맞은 두려움을 갖다. 풍자적 표현
++ siempre hace algo cuando alguien deja de obedecer = 'cuando + 직설법 현재'는 반복 습관. 'dejar de + 원형'은 '~하기를 그만두다'
++ un mismo nombre en el aire = 같은 이름이 공중에. 두 단서가 한 사람에게 모인다는 은유
++ lo sé por la lógica = 논리로 안다. 'saber por + 명사'는 근거를 말한다

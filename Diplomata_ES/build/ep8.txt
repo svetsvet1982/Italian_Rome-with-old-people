@@ -1,0 +1,206 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 8
+@title La filtración
+@ko 유출
+@setting 월요일 아침 알바로의 집 → 산타크루스 궁 장관 집무실 → 점심 무렵 카페 → 저녁 전화
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast ALBORNOZ | 외교부 장관, 56세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@cast GASPAR | 장관 비서실장, 47세
+@cast PALOMA | 탐사보도 기자, 38세 (일간지 La Crónica)
+@cast AMINATA | 칸다라 공화국 주스페인 대사
+@note 이 화는 '언론과 정보'의 이야기입니다. 신문 제목, 기자의 질문, 정부의 공식 부인(desmentido)이 어떤 말투로 만들어지는지 주목하세요. 알바로는 기자의 '질문 순서'에서 상대가 가진 것과 갖지 못한 것을 읽어냅니다. 대화 속에서 해법이 나오는 장면이 한 번 더 있습니다.
+@next 1부 9화 — «Gaspar»(가스파르) — 마리나가 유출된 쪽지의 팩스 머리글에서 이름 하나를 읽어낸다. 알바로는 공원 벤치에서 가스파르와 마주 앉는다. 그리고 그가 던진 이름은 룬드였다.
+
+## 1면 — LA PORTADA
+MARINA: Álvaro, ¿has visto la prensa? ||| 알바로, 신문 봤어요?
+ÁLVARO: Son las siete de la mañana de un lunes, Marina. Todavía estoy buscando mis zapatos. ||| 월요일 아침 일곱 시야, 마리나. 아직 신발도 찾는 중이야.
+MARINA: Mírala. Te la mando por foto. «La Crónica». Primera plana. ||| 봐요. 사진으로 보낼게요. '라 크로니카'. 1면이에요.
+ÁLVARO: «El anexo secreto: España pagó veintiocho años por el silencio de Kandara». Firmado por Paloma Ríos. ||| '비밀 부속서: 스페인은 28년 동안 칸다라의 침묵을 대가로 돈을 냈다'. 파올라 리오스 기자 기사로군.
+MARINA: Dice «según documentos a los que ha tenido acceso este diario». Publica fragmentos. Los artículos primero y segundo. ||| '본지가 입수한 문서에 따르면'이라고 돼 있어요. 일부를 싣고 있어요. 제1조와 제2조요.
+ÁLVARO: ¿Con la palabra «contraprestación»? ||| '반대급부'라는 단어가 들어 있어?
+MARINA: No. Con «compensación». La versión de Fermín. ||| 아니요. '보상'이에요. 페르민 씨 판본이요.
+ÁLVARO: Entonces el que ha filtrado no tiene el original francés. Solo la traducción. ||| 그럼 유출한 사람은 프랑스어 원본이 없는 거야. 번역본만 있고.
+MARINA: ¿Y eso qué importa? ||| 그게 왜 중요해요?
+ÁLVARO: Mucho. Quien filtra una traducción cree que la traducción es el documento. ¿Lo has leído entero? ||| 아주 많이. 번역본을 유출하는 사람은 번역본이 문서라고 믿는 거야. 끝까지 읽었어?
+MARINA: Dos veces. Hay un pie de foto interesante. Dice que el documento lleva el membrete «Presidencia del Gobierno. Reservado. Copia dos de tres». ||| 두 번요. 흥미로운 사진 설명이 있어요. 문서에 '총리실. 비공개. 3부 중 2부'라는 머리글이 있다고요.
+ÁLVARO: Copia dos de tres. Es decir, hay una copia uno y una copia tres. ||| 3부 중 2부. 그러니까 1부와 3부도 있다는 거네.
+MARINA: Y el que filtró tenía acceso a la copia dos. ||| 그리고 유출한 사람은 2부에 접근할 수 있었던 거고요.
+ÁLVARO: Lo cual significa que la fuente está en Presidencia o muy cerca. ||| 그 말은 출처가 총리실이거나 그 근처라는 거지.
+MARINA: Valdés ha llamado cinco veces. ||| 발데스 차관님이 다섯 번 전화했어요.
+ÁLVARO: Ya me imagino. Voy para allá. ||| 상상이 가. 지금 가.
++ la prensa = 신문, 언론. 여기서는 '조간신문'
++ primera plana = 1면. 'portada'와 같은 뜻이며 'primera página'로도 쓴다
++ membrete = 문서 상단의 머리글(기관 표기). 공문서의 소속·등급 표기
++ copia dos de tres = '3부 중 2부'. 비밀 문서의 사본 번호 표기
++ según documentos a los que ha tenido acceso = 'documentos a los que + 동사' 관계절. 취재 출처를 밝히는 기사의 정형구
++ cerca de = ~근처에, ~에 가까운 (거리·관계)
+
+## 장관 집무실 — EL DESPACHO DE LA MINISTRA
+ALBORNOZ: Cierren la puerta. Siéntense. Alguien me explica qué es esto. ||| 문 닫으세요. 앉으세요. 이게 뭔지 누가 설명해 보세요.
+GASPAR: Señora ministra, es una filtración. Sin firma, sin versión oficial. La prensa lo ha amplificado. ||| 장관님, 유출입니다. 서명도 공식 판본도 없고요. 언론이 증폭시켰습니다.
+ALBORNOZ: No le he preguntado qué es, Gaspar. Le he pedido que me lo expliquen. ||| 그게 뭔지 묻지 않았어요, 가스파르. 설명해 달라고 했어요.
+VALDÉS: Señora ministra, nuestra posición es que no hay constancia de ningún anexo con ese nombre. ||| 장관님, 우리 입장은 그런 이름의 부속서에 대한 기록이 없다는 것입니다.
+ALBORNOZ: ¿No hay constancia? ||| 기록이 없다고요?
+VALDÉS: No que yo sepa. ||| 제가 아는 한은 없습니다.
+ALBORNOZ: Es una fórmula muy cuidadosa, Inmaculada. «No que yo sepa». ¿Álvaro? ||| 아주 신중한 표현이군요, 이마쿨라다. '제가 아는 한은 없다'. 알바로?
+ÁLVARO: Señora ministra, creo que conviene averiguar antes de negar. ||| 장관님, 부인하기 전에 확인하는 게 맞다고 생각합니다.
+GASPAR: Eso nos hace parecer débiles. ||| 그러면 우리가 약해 보입니다.
+ÁLVARO: Nos hace parecer cautos. Una negación que se desmiente a los tres días nos hace parecer mentirosos. ||| 신중해 보이죠. 사흘 만에 뒤집히는 부인은 거짓말쟁이처럼 보이게 하고요.
+ALBORNOZ: ¿Usted tiene motivos para pensar que el anexo existe? ||| 부속서가 존재한다고 생각할 근거가 있습니까?
+ÁLVARO: Tengo motivos para pensar que hay un documento. Lo que contiene y quién lo conocía, todavía lo estoy comprobando. ||| 문서가 있다고 생각할 근거가 있습니다. 그 내용과 누가 알고 있었는지는 아직 확인 중입니다.
+ALBORNOZ: Inmaculada, ¿usted lo sabía? ||| 이마쿨라다, 알고 계셨습니까?
+VALDÉS: ... Señora ministra, en mil novecientos noventa y seis yo era una subdirectora general joven. Muchos documentos pasaron por mis manos. ||| …장관님, 1996년에 저는 젊은 부서장이었습니다. 많은 문서가 제 손을 거쳤습니다.
+ALBORNOZ: No es una respuesta. ||| 대답이 아니군요.
+VALDÉS: Es la única que puedo darle hoy. ||| 오늘 제가 드릴 수 있는 유일한 답입니다.
+ALBORNOZ: Entonces quiero una respuesta mejor mañana. Gaspar, redacte un comunicado que ni afirme ni niegue. ||| 그럼 내일은 더 나은 답을 원합니다. 가스파르, 긍정도 부정도 하지 않는 성명을 쓰세요.
+GASPAR: Señora ministra, la prensa va a exigir una frase clara. ||| 장관님, 언론은 분명한 문장을 요구할 겁니다.
+ALBORNOZ: Pues dele una clara que no sea ni sí ni no. «El Ministerio está verificando la autenticidad de los documentos». ||| 그럼 예스도 노도 아닌 분명한 문장을 주세요. '외교부는 문서의 진위를 확인하고 있다'.
+GASPAR: Es perfecto, señora ministra. ||| 완벽합니다, 장관님.
+ALBORNOZ: No lo es. Pero sirve. Álvaro, ¿qué tiene usted para el barco? ||| 완벽하진 않아요. 하지만 쓸 만하죠. 알바로, 배에 대해서는 뭘 갖고 있습니까?
+ÁLVARO: Una declaración de la Comisión Europea, una misión técnica en tres semanas y una propuesta de fondo transparente. ||| 유럽 집행위 성명, 3주 뒤 기술 사절단, 그리고 투명 기금 제안입니다.
+ALBORNOZ: Eso es mejor que la multa. ¿Quién la ha pagado? ||| 벌금보다 낫군요. 누가 냈습니까?
+VALDÉS: Nadie, señora ministra. El armador aceptó pagar, pero Álvaro no ha traído la carta. ||| 아무도요, 장관님. 선주가 내기로 했지만 알바로가 서한을 가져오지 않았습니다.
+ALBORNOZ: ¿Es cierto? ||| 사실입니까?
+ÁLVARO: Es cierto. Porque creo que si pagamos la multa ahora, con ese titular en la portada, parecerá que estamos comprando el silencio otra vez. ||| 사실입니다. 지금 이 1면 제목이 나온 상황에서 벌금을 내면, 침묵을 또 사는 것처럼 보일 거라고 생각해서요.
+ALBORNOZ: ... Tiene razón. Suspenda el pago. Inmaculada, lo que haya que arreglar con el armador, lo hace usted. ||| …맞는 말이에요. 지급을 중단하세요. 이마쿨라다, 선주와 조율할 건 차관님이 하세요.
+VALDÉS: Como ordene, señora ministra. ||| 분부대로 하겠습니다, 장관님.
+ALBORNOZ: Una cosa más. Quiero saber de dónde ha salido esta filtración. Hoy. ||| 하나 더. 이 유출이 어디서 나왔는지 알고 싶습니다. 오늘.
+GASPAR: Señora ministra, es muy difícil de rastrear. ||| 장관님, 추적하기 아주 어렵습니다.
+ALBORNOZ: Entonces pongan a alguien a rastrearla que sea muy bueno. Álvaro. ||| 그럼 아주 잘하는 사람을 붙이세요. 알바로.
+ÁLVARO: Lo haré, señora ministra. ||| 하겠습니다, 장관님.
+GASPAR: Señora ministra, Álvaro está sobrecargado con el caso del barco... ||| 장관님, 알바로는 배 사건으로 과부하가 걸려 있습니다…
+ALBORNOZ: Y por eso confío en él. La gente con exceso de trabajo no tiene tiempo para mentir. ||| 그래서 믿는 겁니다. 일이 넘치는 사람들은 거짓말할 시간이 없거든요.
++ no que yo sepa = 제가 아는 한은 아니다. 'que yo sepa'는 접속법 현재의 제한 표현
++ ni afirme ni niegue = ni ... ni 부정 구조. 접속법(afirme, niegue)은 '그런 종류의 성명'이라는 특정되지 않은 선행사
++ rastrear = 추적하다. 'rastro'(흔적)에서 온 동사
++ conviene + 원형 = ~하는 게 좋다, 바람직하다. conviene는 비인칭 동사
++ lo que haya que arreglar = 'lo que + 접속법' 구문. 조율해야 할 것이 무엇이든
++ sobrecargado = 과부하된, 업무가 넘치는
+## 카페의 기자 — EL CAFÉ CON PALOMA
+PALOMA: Gracias por venir, señor Quintana. Sé que no le apetecía. ||| 와 주셔서 감사합니다, 킨타나 씨. 내키지 않으셨을 거란 걸 압니다.
+ÁLVARO: No me apetecía, pero me interesa. Es distinto. ||| 내키지 않았지만 흥미가 있어서요. 다릅니다.
+PALOMA: Un café solo. Y para él... ||| 블랙커피요. 그리고 이분은…
+ÁLVARO: Lo mismo. ||| 같은 걸로요.
+PALOMA: Voy a ser clara. Esto es una conversación sin grabar y sin nombre. Si me dice algo que quiera que publique, me lo dice expresamente. ||| 분명히 하겠습니다. 이건 녹음도 이름도 없는 대화입니다. 제가 기사로 쓰길 원하시는 말이 있으면 명시적으로 말씀하세요.
+ÁLVARO: De acuerdo. Y yo también voy a ser claro. Usted ha publicado la mitad de una historia. ||| 좋습니다. 저도 분명히 하죠. 당신은 이야기의 절반을 실었습니다.
+PALOMA: He publicado lo que tenía. ||| 갖고 있는 걸 실었죠.
+ÁLVARO: Le haré unas preguntas. Usted puede no contestarlas. ||| 몇 가지 여쭙겠습니다. 대답하지 않으셔도 됩니다.
+PALOMA: Es mi turno. ||| 제 차례예요.
+ÁLVARO: Le cedo el turno. Pregunte. ||| 순서를 양보하죠. 물어보세요.
+PALOMA: Uno: ¿es auténtico el documento? ||| 하나. 문서는 진짜입니까?
+ÁLVARO: Dos: ¿cuántos folios tiene? ||| 둘. 몇 장입니까?
+PALOMA: ¿Perdone? ||| 네?
+ÁLVARO: Responda con una pregunta. Fue lo que me enseñó un viejo maestro. Siga con la suya. ||| 질문으로 답하세요. 늙은 스승이 가르쳐 준 겁니다. 하시던 질문 계속하세요.
+PALOMA: Dos: ¿quién firmó el anexo? ||| 둘. 누가 부속서에 서명했습니까?
+ÁLVARO: Esa es la tercera, no la segunda. Pero continúe. ||| 그건 세 번째지 두 번째가 아닙니다. 하지만 계속하세요.
+PALOMA: Tres: ¿cuánto dinero se pagó en total? ||| 셋. 총 얼마가 지급됐습니까?
+ÁLVARO: ¿Cuántos años? ||| 몇 년 동안입니까?
+PALOMA: Veintiocho. Cuatro: ¿quién cobraba? ||| 28년. 넷. 누가 받았습니까?
+ÁLVARO: ¿Quién cobra ahora? ||| 지금은 누가 받습니까?
+PALOMA: Cinco: ¿quién en el Gobierno español lo sabía? ||| 다섯. 스페인 정부에서 누가 알고 있었습니까?
+ÁLVARO: Muy bien. Ya está. ||| 좋습니다. 됐습니다.
+PALOMA: ¿Ya está qué? ||| 뭐가 됐다는 거죠?
+ÁLVARO: Cinco preguntas. Todas sobre los artículos primero y segundo: quién firmó, cuánto, quién cobraba, quién sabía. Ninguna sobre el final. ||| 질문이 다섯 개입니다. 전부 제1조와 제2조에 대한 겁니다. 누가 서명했나, 얼마인가, 누가 받았나, 누가 알았나. 마지막에 대한 건 하나도 없어요.
+PALOMA: ¿Qué final? ||| 무슨 마지막이요?
+ÁLVARO: El del anexo. Una cláusula final, la última. Usted no ha preguntado por ella porque no sabe que existe. Ni siquiera sabe cuántos folios tiene el documento. ||| 부속서의 마지막 조항이요. 당신이 그것에 대해 묻지 않은 건 존재를 모르기 때문입니다. 문서가 몇 장인지조차 모르고요.
+PALOMA: Tengo cinco folios. ||| 다섯 장 있습니다.
+ÁLVARO: El original tiene doce. Le han dado menos de la mitad. ||| 원본은 열두 장입니다. 절반도 안 되게 받으신 거예요.
+PALOMA: ¿Cómo sabe que tengo cinco? ||| 제가 다섯 장 갖고 있다는 걸 어떻게 아시죠?
+ÁLVARO: Porque las preguntas siguen el orden del texto. Un periodista que tiene más páginas hace preguntas que saltan. Usted ha preguntado en orden. Como quien lee. ||| 질문이 본문 순서를 따르니까요. 더 많은 쪽을 가진 기자는 건너뛰는 질문을 합니다. 당신은 순서대로 물었어요. 읽는 사람처럼요.
+PALOMA: Qué molesto es usted. ||| 참 얄밉게 구시네요.
+ÁLVARO: Tengo la misma opinión de los periodistas. ||| 저도 기자들에 대해 같은 의견입니다.
+PALOMA: Vale. Tengo cinco folios. ¿Y qué? ||| 좋아요. 다섯 장 있어요. 그래서요?
+ÁLVARO: Que quien le dio cinco folios y no doce sabía exactamente cuáles quería que usted publicara. No por casualidad. ||| 열두 장이 아니라 다섯 장을 준 사람은 어떤 부분을 실리게 하고 싶은지 정확히 알았다는 겁니다. 우연이 아니에요.
+PALOMA: ¿Adónde quiere llegar? ||| 어디로 가려는 겁니까?
+ÁLVARO: Quien filtra solo la mitad sabe qué parte no quiere que se lea. Y la parte que no quiere que se lea suele ser la que cambia el significado de todo lo demás. ||| 절반만 유출하는 사람은 어떤 부분이 읽히길 원치 않는지 압니다. 그리고 읽히길 원치 않는 부분은 대개 나머지 전체의 의미를 바꾸는 부분이죠.
+PALOMA: Eso es una hipótesis muy elegante. ||| 아주 우아한 가설이네요.
+ÁLVARO: Es lo que tengo. ||| 제가 가진 건 그것뿐입니다.
+PALOMA: ¿Y qué dice esa cláusula final? ||| 그 마지막 조항에는 뭐라고 쓰여 있나요?
+ÁLVARO: La versión que conozco dice una cosa. Pero no estoy seguro de que sea la correcta. ||| 제가 아는 판본에는 이렇게 쓰여 있습니다. 하지만 그게 맞는지는 확신이 없습니다.
+PALOMA: ¿Cómo que no está seguro de que sea la correcta? ||| 그게 맞는지 확신이 없다니요?
+ÁLVARO: Porque hubo un traductor que anotó una duda y le arrancaron la hoja. ||| 번역가가 의문을 메모해 두었는데 그 장이 뜯겨 나갔기 때문입니다.
+PALOMA: ¿Un traductor? ¿Quién? ||| 번역가요? 누구죠?
+ÁLVARO: No se lo diré. Ya le dije que no es una entrevista. ||| 말씀드리지 않겠습니다. 인터뷰가 아니라고 했잖아요.
+PALOMA: Entonces, ¿qué me ofrece? ||| 그럼 제게 뭘 제안하시는 겁니까?
+ÁLVARO: Un trato. Usted tiene hambre de la segunda parte. Cuando la tenga, antes de publicarla, me llama. Veinticuatro horas. ||| 거래입니다. 당신은 후반부가 몹시 필요하죠. 후반부를 입수하면 보도하기 전에 저에게 전화하세요. 24시간.
+PALOMA: ¿A cambio de qué? ||| 그 대가는요?
+ÁLVARO: De la primera noticia cuando haya una solución. Con detalles. Con nombres. En exclusiva. ||| 해법이 나오면 가장 먼저 알려 드립니다. 세부 내용과 이름까지. 단독으로요.
+PALOMA: ¿Y si mi fuente me da los doce folios mañana? ||| 제 취재원이 내일 열두 장을 다 주면요?
+ÁLVARO: Entonces me llamará. Y le diré lo que me preocupa. ||| 그럼 전화하시겠죠. 그러면 제가 걱정하는 걸 말씀드리죠.
+PALOMA: Es un trato curioso. Me pide que espere. ||| 이상한 거래네요. 저더러 기다리라니.
+ÁLVARO: Le pido que no publique una verdad a medias. Una verdad a medias es una mentira con buen marketing. ||| 반쪽 진실을 보도하지 말아 달라는 겁니다. 반쪽 진실은 포장이 좋은 거짓말이에요.
+PALOMA: Eso se lo apunto. Lo pondré en mi cuaderno de frases de políticos. ||| 그건 적어 두겠어요. 정치인 명언 수첩에 넣을게요.
+ÁLVARO: No soy político. ||| 저는 정치인이 아닙니다.
+PALOMA: Habla como uno. ||| 정치인처럼 말하시는데요.
+ÁLVARO: Es lo que ocurre cuando a uno lo rodean. ||| 둘러싸여 있으면 그렇게 되죠.
+PALOMA: Acepto. Pero con una condición: si usted me engaña, publico todo lo que sé sobre usted. ||| 수락합니다. 단, 조건이 있어요. 저를 속이면 당신에 대해 아는 걸 전부 보도할 겁니다.
+ÁLVARO: ¿Y qué sabe de mí? ||| 저에 대해 뭘 아십니까?
+PALOMA: Que fue a Alcalá de Henares un viernes y a Lavapiés un sábado. Y que cenó con una embajadora un jueves. ||| 금요일에 알칼라 데 에나레스에 갔고, 토요일에 라바피에스에 갔다는 것. 그리고 목요일에 어느 대사와 저녁을 먹었다는 것.
+ÁLVARO: ... Es usted muy buena. ||| …훌륭하시군요.
+PALOMA: Es mi trabajo. Hasta pronto, señor Quintana. ||| 제 직업이니까요. 또 뵙죠, 킨타나 씨.
++ sin grabar = 녹음하지 않고. 기자와의 비공식 대화(off the record)를 설명하는 말
++ expresamente = 명시적으로. 'expresar'에서 온 부사
++ verdad a medias = 반쪽 진실. 'a medias'는 '반쯤만'
++ en exclusiva = 단독으로. 언론 용어로 '독점 보도'
++ hacer preguntas que saltan = 건너뛰는 질문. 문서를 모르는 사람은 순서대로, 아는 사람은 핵심부터 묻는다는 관찰
++ Responda con una pregunta = 질문으로 답하세요. 2화 베르니의 조언이 여기서 재사용된다
+
+## 대사의 전화 — LA LLAMADA DE AMINATA
+AMINATA: Señor Quintana. ¿Ha visto la televisión? ||| 킨타나 씨. 텔레비전 보셨습니까?
+ÁLVARO: Estoy en la calle. Dígame. ||| 길에 있습니다. 말씀하세요.
+AMINATA: El general Bah ha dado un discurso en la televisión de Kandara. Ha dicho que España ha comprado el silencio de nuestra nación durante veintiocho años. ||| 바 장군이 칸다라 TV에서 연설했어요. 스페인이 28년 동안 우리나라의 침묵을 샀다고 했습니다.
+ÁLVARO: Cuidadoso con las palabras. ¿Ha dicho también quién cobró? ||| 단어를 신중히 골랐겠군요. 누가 받았는지도 말했습니까?
+AMINATA: No. Ha dicho que Kandara fue una víctima. ||| 아니요. 칸다라가 피해자였다고 했어요.
+ÁLVARO: Qué elegante. Un hombre que cobró veintiocho años se declara víctima. ||| 우아하네요. 28년 동안 받은 사람이 피해자를 자처하다니.
+AMINATA: ¿Sabe usted que cobró? ||| 그가 받았다는 걸 아십니까?
+ÁLVARO: ... Tengo razones para creerlo. ||| …믿을 근거가 있습니다.
+AMINATA: Entonces sabe más que mi presidente. Y eso es peligroso. ||| 그럼 제 대통령보다 많이 아시는군요. 그건 위험해요.
+ÁLVARO: ¿Qué más ha pasado? ||| 또 무슨 일이 있었습니까?
+AMINATA: El Consejo ha adelantado su reunión. De cinco semanas a tres. ||| 위원회가 회의를 앞당겼어요. 5주에서 3주로요.
+ÁLVARO: Tres semanas. Justo cuando llega la misión técnica de Bruselas. ||| 3주. 브뤼셀 기술 사절단이 도착하는 바로 그 시기군요.
+AMINATA: Es lo que el general quiere. Un Consejo antes de que alguien lo inspeccione. ||| 장군이 원하는 바예요. 누가 조사하기 전에 열리는 위원회죠.
+ÁLVARO: Embajadora. ¿Cree que fui yo quien filtró? ||| 대사님. 제가 유출했다고 보십니까?
+AMINATA: No. Usted no es de los que filtran. Usted es de los que preguntan. ||| 아니요. 당신은 유출하는 사람이 아니라 질문하는 사람이에요.
+ÁLVARO: Gracias. ||| 감사합니다.
+AMINATA: Pero alguien en Madrid quería que el cero saliera ahora. Y quería que saliera incompleto. ||| 하지만 마드리드의 누군가는 영이 지금 나오길 원했어요. 그것도 불완전하게요.
+ÁLVARO: Eso mismo he pensado esta mañana. ||| 저도 오늘 아침에 같은 생각을 했습니다.
+AMINATA: Escuche. El presidente Koné quiere reunirse. No oficialmente. En un lugar neutral. Con intermediarios. Sin cámaras. ||| 들으세요. 코네 대통령이 만나고 싶어 합니다. 공식적으로는 아니고요. 중립적인 장소에서 중개인을 두고, 카메라 없이요.
+ÁLVARO: ¿Dónde? ||| 어디서요?
+AMINATA: Ginebra. En quince días. Ni él ni usted en la misma sala. Una negociación a ciegas. ||| 제네바. 15일 뒤에요. 대통령과 당신이 같은 방에 있지 않게. 맹인 협상으로.
+ÁLVARO: ¿A ciegas? ||| 맹인 협상이요?
+AMINATA: Cada delegación en una sala. Los papeles pasan por intérpretes. Nadie ve la cara del otro. Mi padre lo hacía así en los tiempos difíciles. Dice que quien no ve los gestos solo discute las palabras. ||| 각 대표단이 별도의 방에 있고, 문서는 통역관들을 통해 오갑니다. 아무도 상대의 얼굴을 보지 않아요. 아버지는 어려운 시절에 그렇게 하셨어요. 몸짓을 보지 못하면 말만 따지게 된다고요.
+ÁLVARO: Qué buena idea. ¿Quién la ha propuesto? ||| 좋은 생각이군요. 누가 제안했습니까?
+AMINATA: Yo. Se la sugerí a Koné esta mañana. ||| 저예요. 오늘 아침 코네에게 제안했습니다.
+ÁLVARO: Embajadora, creo que su padre estaría orgulloso. ||| 대사님, 아버님이 자랑스러워하실 겁니다.
+AMINATA: Mi padre estaría preocupado. Es lo que le pasaba cuando algo salía bien. ||| 아버지는 걱정하셨을 거예요. 일이 잘 풀릴 때 늘 그러셨거든요.
++ discurso = 연설. 'dar un discurso'는 연설하다
++ adelantar = 앞당기다. 'adelantar la reunión'은 회의 날짜를 당기다
++ los que filtran / los que preguntan = 'los que + 동사' 구문. '~하는 사람들'을 분류하는 표현
++ salir incompleto = 불완전하게 나오다. salir + 형용사는 결과 상태
++ a ciegas = 눈을 가린 채, 보지 않고. 협상 방식 이름과 '앞을 못 보는 상태'를 이중적으로 가리킨다
++ cuando algo salía bien = 직설법 불완전과거는 과거의 반복 습관을 말한다
+
+## 차관의 밤 — LA NOCHE DE VALDÉS
+VALDÉS: ¿Has sido tú? ||| 자네가 한 건가?
+ÁLVARO: No. ||| 아닙니다.
+VALDÉS: Lo sé. Tú no destruyes sin avisar. ||| 알지. 자네는 알리지 않고 파괴하는 사람이 아니야.
+ÁLVARO: Ni usted tampoco. ||| 차관님도 그렇죠.
+VALDÉS: Me han vendido, Álvaro. Alguien me ha vendido. ||| 나는 팔렸어, 알바로. 누군가 나를 팔았어.
+ÁLVARO: Sí. Y sabe quién. ||| 네. 그리고 누군지 알고 계시죠.
+VALDÉS: Quiero estar segura antes de decirlo. ||| 말하기 전에 확신하고 싶네.
+ÁLVARO: Yo también. Dos días. ||| 저도요. 이틀이면 됩니다.
+VALDÉS: La ministra te ha pedido que rastrees la filtración. No dejes que el rastro llegue a mí. ||| 장관님이 자네에게 유출 경로를 추적하라고 하셨지. 흔적이 내게 닿지 않게 해 주게.
+ÁLVARO: No le prometo nada. Pero le prometo que llegaré primero que cualquier otro. ||| 아무것도 약속하지 않겠습니다. 하지만 누구보다 먼저 도착하겠다고는 약속합니다.
+VALDÉS: Es más de lo que merezco. ||| 내가 받을 자격보다 많은 약속이군.
+ÁLVARO: Es menos de lo que debo. Buenas noches, Inma. ||| 제가 드려야 할 것보다는 적습니다. 안녕히 주무세요, 이마.
++ rastro = 흔적. 'rastrear'(추적하다)와 같은 어원
++ me han vendido = 나는 팔렸다. 'vender'의 3인칭 복수형 비인칭: '누군가 나를 팔았다'
++ más de lo que merezco = 내가 받을 만한 것보다 더. 'más de lo que + 직설법'
++ menos de lo que debo = 내가 마땅히 해야 할 것보다 적다. 'deber'는 의무와 빚 두 가지 뜻
++ llegaré primero que cualquier otro = 누구보다 먼저 도착하겠다. 'primero que' 비교 구조
++ tú no destruyes sin avisar = 'sin + 원형'은 '~하지 않고'. 상대의 성격을 말하는 표현

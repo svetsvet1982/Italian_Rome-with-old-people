@@ -1,0 +1,223 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 6
+@title Lo que sabía Valdés
+@ko 발데스는 알고 있었다
+@setting 수요일 밤 챔베리 지구 베르니의 서재 → 목요일 아침 산타크루스 궁 발데스 차관 집무실
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast BERNI | 은퇴 대사, 알바로의 스승, 68세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado, 61세
+@cast MARINA | UNR 분석관, 29세
+@note 이 화는 두 개의 대화로 이루어진 '내부 대결'입니다. 앞은 체스판 위의 느린 대화, 뒤는 닫힌 집무실의 팽팽한 대화입니다. 호칭이 바뀌는 순간(Inma → señora secretaria)과, 비유(체스)가 현실의 선택으로 바뀌는 순간에 주목하세요.
+@next 1부 7화 — «Un favor sucio»(더러운 호의) — 알바로는 국가정보원 연락관 레베카 살라스를 만난다. 그녀는 늘 대가를 받는 사람이다. 알바로가 선을 넘는 밤, 딸 루시아가 던진 한 마디가 그를 멈춰 세운다.
+
+## 체스판 앞 — LA PARTIDA
+BERNI: Llegas con cara de haber perdido una partida que todavía no has empezado. ||| 시작도 하지 않은 판을 진 사람 같은 얼굴로 왔군.
+ÁLVARO: Perdone la hora. Salí de Bruselas a las cinco y he venido directamente. ||| 늦은 시간에 죄송합니다. 브뤼셀에서 다섯 시에 출발해서 곧장 왔습니다.
+BERNI: Siéntate. ¿Blancas o negras? ||| 앉게. 백인가 흑인가?
+ÁLVARO: Las que usted no quiera. ||| 선생님이 안 하실 쪽이요.
+BERNI: Eso es una falta de personalidad. Negras. Yo juego con blancas porque me gusta mover primero. Es lo único que me queda de mi juventud. ||| 개성이 없군. 흑이네. 나는 먼저 두는 게 좋아서 백을 하지. 젊었을 때 남은 건 그것뿐이야.
+ÁLVARO: Le debo una conversación desde el domingo. Se la prometí a Marina. ||| 일요일부터 선생님께 이야기를 하나 빚지고 있습니다. 마리나에게 약속했어요.
+BERNI: Te esperé el domingo hasta las diez. Mi vino se agrió. Pero estás perdonado. Empieza. ||| 일요일에 열 시까지 기다렸네. 내 와인이 시어졌지. 하지만 용서하지. 시작하게.
+ÁLVARO: Hay un anexo, Berni. Un Anexo Cero al acuerdo de pesca de Kandara. Doce folios firmados en el noventa y seis y escondidos desde entonces. ||| 부속서가 하나 있습니다, 베르니. 칸다라 어업협정의 부속서 0입니다. 96년에 서명되어 그 후로 숨겨진 열두 장이요.
+BERNI: Peón de rey a cuatro. ||| 킹 폰 e4.
+ÁLVARO: Hablo en serio. ||| 진지하게 말하고 있습니다.
+BERNI: Yo también. Mueve. ||| 나도 진지하네. 두게.
+ÁLVARO: Peón de rey a cuatro. Hay un intérprete, Fermín Cuesta, que lo tradujo y que guarda una copia. Hay un archivero, Evaristo, que lo recuerda. Y hay una funcionaria de Bruselas que anotó su existencia con un lápiz. ||| 킹 폰 e4. 번역한 통역관 페르민 쿠에스타가 사본을 갖고 있습니다. 기억하는 문서 관리인 에바리스토가 있고요. 그리고 그 존재를 연필로 적어 둔 브뤼셀 직원도 있습니다.
+BERNI: Caballo a efe tres. ||| 나이트 f3.
+ÁLVARO: Lo firmó Inmaculada Valdés. Cambió una palabra en la traducción. «Contraprestación» por «compensación». ||| 이마쿨라다 발데스가 서명했습니다. 번역에서 단어 하나를 바꿨고요. '반대급부'를 '보상'으로요.
+BERNI: Ah. Caballo a efe seis. ||| 아. 나이트 f6.
+ÁLVARO: ¿Por qué no me ha dicho nada? Usted la conoce desde hace treinta años. ||| 왜 아무 말씀도 안 하십니까? 그분을 30년째 아시잖아요.
+BERNI: Porque no tengo nada que decirte. Lo que tengo es algo que confesarte. ||| 할 말이 없어서야. 나는 자네에게 고백할 게 있네.
+ÁLVARO: Dígamelo. ||| 말씀해 보세요.
+BERNI: En el noventa y seis yo era embajador en Dakar. Una mañana de octubre recibí un cable cifrado de Madrid. Una línea. «Respecto a Kandara, no pregunte por el cero». ||| 96년에 나는 다카르 대사였네. 10월의 어느 아침에 마드리드에서 암호 전문이 왔지. 한 줄이었어. '칸다라에 관해 영에 대해서는 묻지 마시오'.
+ÁLVARO: ¿«El cero»? ||| '영'이요?
+BERNI: Eso es lo que me quitó el sueño dos semanas. Y luego lo olvidé. Treinta años. No pregunté. ||| 그게 2주 동안 나를 잠 못 들게 했지. 그러다 잊었네. 30년을. 묻지 않았어.
+ÁLVARO: Entonces la tercera regla... ||| 그럼 세 번째 규칙은…
+BERNI: La tercera regla es la que te negué en el café. Cuando un cable te dice «no preguntes», pregunta. Quien no pregunta no es inocente. Es cómplice con buena conciencia. ||| 카페에서 안 알려 준 세 번째 규칙이지. 전문이 '묻지 마라'고 하면 물어라. 묻지 않는 사람은 결백한 게 아니라, 양심 좋은 공범이다.
+ÁLVARO: ¿Por eso me ha dejado ir solo? ||| 그래서 저를 혼자 가게 하신 겁니까?
+BERNI: Por eso te dije que escucharas cinco minutos más. Estás haciendo lo que yo no hice. ||| 그래서 5분 더 들으라고 했지. 자네는 내가 하지 못한 걸 하고 있어.
++ cifrado = 암호화된. 'cable cifrado'는 암호 전문
++ se agrió = (와인이) 시어졌다. agriarse는 '시큼해지다'
++ cómplice con buena conciencia = 양심 편한 공범. 묻지 않고 방관한 책임을 가리키는 역설적 표현
++ falta de personalidad = 개성 없음. falta de + 명사
++ blancas / negras = (체스의) 백/흑. 체스 용어는 'peón de rey(킹 폰)', 'caballo(나이트)' 등
++ no tengo nada que decirte = 'nada que + 원형' 구조. 부정적 존재 표현
+
+## 희생의 수 — EL SACRIFICIO
+BERNI: Mira el tablero. ¿Qué ves? ||| 판을 보게. 뭐가 보이나?
+ÁLVARO: Una posición igualada. ||| 균형 잡힌 포지션이요.
+BERNI: Una posición cerrada. Ninguno de los dos se atreve a abrir. Y mientras esto se cierre, gana el que tenga más paciencia. Yo la tengo. Tú, no. ||| 닫힌 포지션이야. 둘 다 열 엄두를 못 내지. 이대로 닫혀 있으면 인내심 많은 쪽이 이겨. 나한테는 있고, 자네한테는 없지.
+ÁLVARO: ¿Y qué debo hacer? ||| 그럼 어떻게 해야 합니까?
+BERNI: Sacrificar algo. Mira. Alfil a ge cinco. Te lo ofrezco. ||| 뭔가를 희생해야지. 보게. 비숍 g5. 자네에게 주겠네.
+ÁLVARO: Es una pieza. ||| 말 하나인데요.
+BERNI: Y si la tomas, abro la columna y pierdes la dama. Si no la tomas, sigo con ventaja. ¿Qué haces? ||| 받으면 열린 줄로 자네 퀸을 잃지. 안 받으면 내가 계속 우세하고. 어떻게 하겠나?
+ÁLVARO: Es una trampa de la que no se sale. ||| 빠져나갈 수 없는 함정이군요.
+BERNI: No. Es una oferta que no puedes rechazar sin quedar mal ni aceptar sin quedar peor. Y esa es la lección. ||| 아니. 거절하면 체면이 서지 않고 받아들이면 더 나쁜 제안이지. 그게 가르침이야.
+ÁLVARO: ¿Qué lección? ||| 무슨 가르침이요?
+BERNI: Que quien ofrece primero elige el terreno. Si Valdés quiere ocultar el cero, tú no puedes ofrecérselo. Pero sí puedes ofrecerle algo mejor que ocultarlo. ||| 먼저 제안하는 쪽이 판을 고른다는 거야. 발데스가 영을 숨기고 싶다면, 자네는 영을 제안할 수 없지. 하지만 숨기는 것보다 더 나은 걸 제안할 수는 있네.
+ÁLVARO: ¿Qué hay mejor que ocultarlo? ||| 숨기는 것보다 나은 게 뭡니까?
+BERNI: Contarlo ella. Primero. En sus palabras. Quien confiesa antes de que lo descubran elige cómo se cuenta la historia. ||| 그녀 자신이 말하는 거지. 먼저. 자기 말로. 들키기 전에 고백하는 사람이 이야기를 어떻게 풀지 고르는 법이야.
+ÁLVARO: Una confesión controlada. ||| 통제된 고백이군요.
+BERNI: No es una trampa. Es una puerta. Una puerta que, por cierto, yo mismo no supe abrir. ||| 함정이 아니야. 문이지. 그런데 나 자신도 열 줄 몰랐던 문이야.
+ÁLVARO: Pero ella no querrá. ||| 하지만 그분은 원하지 않을 겁니다.
+BERNI: Seguramente. Pero tendrás que ofrecérselo, aunque solo sea para que no puedas decir que no se lo ofreciste. ||| 아마 그렇겠지. 그래도 제안은 해야 하네. 제안하지 않았다고 말할 수 없도록.
+ÁLVARO: ¿Y si dice que no? ||| 거절하면요?
+BERNI: Entonces habrás perdido la dama, pero tendrás la columna abierta. A veces perder una pieza es el único modo de ver el tablero entero. ||| 그럼 퀸을 잃겠지만 열린 줄은 얻게 되지. 가끔은 말 하나를 잃는 게 판 전체를 보는 유일한 방법이야.
+ÁLVARO: Qué bien suena todo cuando usted lo cuenta. ||| 선생님이 말씀하시면 다 그럴듯하게 들립니다.
+BERNI: Porque es verdad. Y lo que es verdad siempre suena mejor que lo que se cree. ||| 사실이니까. 그리고 사실은 늘 믿음보다 듣기 좋은 법이야.
+ÁLVARO: Una última cosa. Hay un sello de Presidencia en el traslado reservado. ||| 마지막으로 하나만요. 기밀 이송 영수증에 총리실 도장이 있습니다.
+BERNI: Eso, hijo, no te lo puedo explicar. Pero me temo que lo comprenderás pronto. ||| 그건, 이 사람아, 설명해 줄 수가 없네. 하지만 곧 이해하게 될 것 같아 걱정이야.
+ÁLVARO: ¿Presidencia? ||| 총리실이요?
+BERNI: Presidencia no es un lugar. Es una forma de pensar. Y quien piensa así no deja huellas. ||| 총리실은 장소가 아니야. 사고방식이지. 그렇게 생각하는 사람은 흔적을 남기지 않아.
++ posición cerrada / abrir la columna = 체스 용어. 닫힌 포지션과 줄(열)을 여는 것. 협상에서 국면을 바꾸는 비유로 쓰인다
++ sacrificar una pieza = 말을 희생하다. 더 큰 이익을 위해 작은 것을 내주는 수
++ quien ofrece primero elige el terreno = 'quien + 직설법' 격언. 주도권에 대한 이 화의 핵심 문장
++ por cierto = 그런데 (여기서는 '말이 나온 김에')
++ aunque solo sea para que + 접속법 = ~하기 위해서만이라도. 'aunque solo sea'는 최소한의 이유를 제시한다
++ me temo que + 직설법/접속법 = ~일까 걱정이다. 완곡하게 나쁜 소식을 전하는 표현
+
+## 차관 집무실 — EL DESPACHO
+VALDÉS: Pasa, Álvaro. Cierra la puerta. ||| 들어오게, 알바로. 문 닫아.
+ÁLVARO: Buenos días, señora secretaria. ||| 안녕하십니까, 차관님.
+VALDÉS: Es jueves. Me prometiste una propuesta mejor que pagar la multa. Te escucho. ||| 목요일이군. 벌금을 내는 것보다 나은 제안을 약속했지. 듣겠네.
+ÁLVARO: La tengo. Pero antes necesito preguntarle una cosa. ||| 있습니다. 하지만 그 전에 하나 여쭤야겠습니다.
+VALDÉS: Pregunta. ||| 묻게.
+ÁLVARO: ¿Qué es el Anexo Cero? ||| 부속서 0이 뭡니까?
+VALDÉS: ¿Cómo has dicho? ||| 뭐라고 했나?
+ÁLVARO: El Anexo Cero al acuerdo de pesca de Kandara de mil novecientos noventa y seis. Doce folios. Firmados por usted. ||| 1996년 칸다라 어업협정의 부속서 0입니다. 열두 장. 차관님이 서명하신 것으로요.
+VALDÉS: Eso es una fantasía. ||| 그건 환상이야.
+ÁLVARO: Tengo el libro de préstamos de Alcalá con sus iniciales. Tengo el recibo de traslado reservado con el nombre del intérprete. Y tengo el índice de la notificación española, que Bruselas conserva. ||| 알칼라의 대출 장부에 차관님 머리글자가 있습니다. 통역관 이름이 적힌 기밀 이송 영수증도 있고요. 그리고 브뤼셀이 보관 중인 스페인 통지문 목차도 있습니다.
+VALDÉS: ¿Has estado hablando con Bruselas de esto? ||| 브뤼셀과 이걸 얘기하고 있었나?
+ÁLVARO: Con una funcionaria que, por cierto, tiene mejor memoria que muchos ministros. ||| 여러 장관들보다 기억력이 좋은 직원과요.
+VALDÉS: Siéntate. ||| 앉게.
+ÁLVARO: Prefiero seguir de pie. ||| 서 있는 게 낫겠습니다.
+VALDÉS: Siéntate, Álvaro. No te lo estoy pidiendo como superiora. ||| 앉게, 알바로. 상사로서 부탁하는 게 아니야.
+ÁLVARO: ... Ya estoy. ||| …앉았습니다.
+VALDÉS: Yo tenía treinta y tres años. Era subdirectora general de África Occidental. Había una crisis. Un barco de una empresa española había vertido cuatrocientos barriles en las costas de Kandara. ||| 나는 서른셋이었네. 서아프리카 담당 부서장이었지. 위기가 있었어. 스페인 기업의 배가 칸다라 해안에 드럼통 사백 개를 버렸거든.
+ÁLVARO: Atlántica Química. ||| 아틀란티카 키미카.
+VALDÉS: Sí. Y Kandara estaba a punto de llevarnos a un tribunal internacional. La empresa tenía amigos en el Gobierno. La flota atunera dependía de las licencias de Kandara. Tres mil empleos. ||| 그래. 그리고 칸다라는 우리를 국제 재판소에 세우기 직전이었지. 그 기업은 정부에 친구들이 있었어. 참치 선단은 칸다라 면허에 달려 있었고. 일자리가 삼천 개였네.
+ÁLVARO: Y se decidió comprar el silencio. ||| 그래서 침묵을 사기로 했군요.
+VALDÉS: Se decidió «resolver el conflicto». Esa fue la expresión del ministro, don Jaime Ortuño. Murió hace doce años. Nunca firmó nada. ||| '분쟁을 해결하기로' 했지. 그게 오르투뇨 장관의 표현이었어. 12년 전에 돌아가셨지. 서명은 한 번도 안 했고.
+ÁLVARO: Y la firmó usted. ||| 그리고 서명은 차관님이 하셨죠.
+VALDÉS: La firmé yo. Con un lápiz rojo en el moño y las manos sudadas. ||| 내가 했지. 쪽머리에 빨간 연필을 꽂고, 손에 땀이 흥건한 채로.
+ÁLVARO: Y ordenó cambiar «contraprestación» por «compensación». ||| 그리고 '반대급부'를 '보상'으로 바꾸라고 지시하셨죠.
+VALDÉS: Quería que algún día alguien pudiera defender que aquello había sido una reparación y no un soborno. Fue mi pequeña mentira para dormir. ||| 언젠가 누군가 그게 뇌물이 아니라 배상이었다고 변호할 수 있기를 바랐어. 잠들기 위한 내 작은 거짓말이었지.
+ÁLVARO: ¿Y ha dormido? ||| 그래서 잠은 주무셨습니까?
+VALDÉS: ¿Tú has dormido alguna vez bien, Álvaro? ||| 자네는 한 번이라도 푹 자 본 적 있나, 알바로?
++ subdirector general = 부서장급 고위 공무원. 스페인 행정 직급
++ resolver el conflicto = '분쟁을 해결하다'. 불법을 완곡하게 가리키는 행정 어휘
++ ha vertido / había vertido = 완료·대과거. 'verter'는 쏟다, 버리다
++ lo estoy pidiendo como superiora = 상사로서 부탁하는 게 아니다. 'como + 신분'은 자격을 나타낸다
++ pequeña mentira para dormir = 잠들기 위한 작은 거짓말. 양심의 합리화를 가리키는 표현
++ estar a punto de + 원형 = 막 ~하려던 참이다
+## 통제된 고백 — LA PUERTA
+ÁLVARO: Señora secretaria, tengo una propuesta. No es la que esperaba. ||| 차관님, 제안이 하나 있습니다. 기대하셨던 건 아닙니다.
+VALDÉS: Adelante. ||| 말해 보게.
+ÁLVARO: En dos o tres semanas, este anexo saldrá a la luz. Por mí o por otros. Hay un intérprete, un archivero y una funcionaria europea. Alguien terminará hablando. ||| 2~3주 안에 이 부속서는 세상에 드러납니다. 제 손으로든 다른 사람 손으로든요. 통역관, 문서 관리인, 유럽 쪽 직원이 있습니다. 누군가는 결국 말하게 됩니다.
+VALDÉS: No si lo impido. ||| 내가 막으면 아니지.
+ÁLVARO: No podrá. Ya no. Lo que sí puede es decidir quién lo cuenta primero. ||| 못 막으십니다. 이제는요. 하실 수 있는 건 누가 먼저 말하느냐를 정하는 겁니다.
+VALDÉS: ¿Qué quieres decir? ||| 무슨 뜻인가?
+ÁLVARO: Que usted lo cuente. Que sea usted quien diga: «En mil novecientos noventa y seis firmé un anexo bajo órdenes políticas. Hoy pido que se investigue y que se repare a las familias de Punta Sal». ||| 차관님이 직접 말씀하시라는 겁니다. '1996년에 나는 정치적 지시로 부속서에 서명했다. 오늘 나는 조사를 요청하며 푼타 살의 가족들에게 배상할 것을 요구한다'.
+VALDÉS: ¿Una confesión? ||| 고백이라고?
+ÁLVARO: Una confesión controlada. Con fecha, con contexto, con una propuesta de reparación. Quien confiesa antes de que lo descubran elige cómo se cuenta la historia. ||| 통제된 고백입니다. 날짜와 맥락이 있고 배상안이 포함된. 들키기 전에 고백하는 사람이 이야기를 어떻게 풀지 고르는 법입니다.
+VALDÉS: Eso te lo ha dicho Berni. ||| 베르니가 한 말이로군.
+ÁLVARO: Me lo ha dicho un tablero de ajedrez. ||| 체스판이 말해 줬습니다.
+VALDÉS: Es una idea bonita para un hombre que no tiene nada que perder. Yo tengo treinta y cinco años de carrera, una pensión y un nombre. ||| 잃을 게 없는 사람에게는 근사한 생각이야. 나에게는 35년 경력과 연금과 이름이 있네.
+ÁLVARO: Y una conciencia, que según usted no duerme. ||| 그리고 양심이 있죠. 잠들지 못한다고 하셨고요.
+VALDÉS: No me hables de mi conciencia. ||| 내 양심 이야기는 하지 말게.
+ÁLVARO: Entonces hablemos de los otros. ¿Quién más estaba en la sala el día que se firmó el cero? ||| 그럼 다른 사람들 이야기를 하죠. 영에 서명하던 날 방에 또 누가 있었습니까?
+VALDÉS: Nadie. Yo y el embajador de Kandara. Su ministro. Un traductor. ||| 아무도. 나와 칸다라 대사. 그쪽 장관. 통역관 한 명.
+ÁLVARO: ¿Y quién le ordenó que el recibo del traslado llevara un sello de Presidencia? ||| 그럼 이송 영수증에 총리실 도장을 찍으라고 누가 지시했습니까?
+VALDÉS: ¿Cómo sabes eso? ||| 어떻게 아나?
+ÁLVARO: Lo vi con mis ojos en el registro de reserva de Alcalá. ||| 알칼라의 예비 대장에서 제 눈으로 봤습니다.
+VALDÉS: Entonces ya sabes más de lo que debías. ||| 그럼 이미 알아선 안 될 것까지 알고 있군.
+ÁLVARO: Dígame quién fue. ||| 누구였는지 말씀해 주십시오.
+VALDÉS: Se llamaba Rodrigo Aldaz. Director del gabinete del presidente del Gobierno. Hoy preside el consejo de administración de Atlántica Química. ||| 이름은 로드리고 알다스. 당시 총리 비서실장이었네. 지금은 아틀란티카 키미카 이사회 의장이고.
+ÁLVARO: Y sigue teniendo amigos. ||| 그리고 여전히 친구들이 있겠죠.
+VALDÉS: Más que tú y yo juntos. Él fue quien me dijo: «Cambie esa palabra o buscamos a otra subdirectora». Yo tenía treinta y tres años. Tú habrías hecho lo mismo. ||| 자네와 나를 합친 것보다 더 많이. 그가 말했지. '그 단어를 바꾸시오, 아니면 다른 부서장을 찾겠소'. 나는 서른셋이었네. 자네라도 똑같이 했을 거야.
+ÁLVARO: Quizá. Pero usted no se detuvo en el treinta y tres. Llevó veintiocho años ocultándolo. ||| 어쩌면요. 하지만 차관님은 서른셋에서 멈추지 않았습니다. 28년 동안 숨기셨어요.
+VALDÉS: ¿Y qué pretendías que hiciera? ¿Que me levantara en un pleno y lo confesara? ||| 그럼 어쩌라는 건가? 본회의에서 일어나 고백이라도 하라는 건가?
+ÁLVARO: Hace veinte años habría sido un escándalo. Hoy sería un acto de valentía. Las cosas, con el tiempo, cambian de nombre. ||| 20년 전이었다면 스캔들이었겠죠. 오늘은 용기 있는 행동이 됩니다. 시간이 지나면 일의 이름이 바뀝니다.
+VALDÉS: No. Para los míos, siempre seré la que firmó. ||| 아니. 내 사람들에게 나는 영원히 서명한 사람이야.
+ÁLVARO: Hay una cosa más. Alguien sacó la caja catorce de Alcalá el tres de septiembre. Dijo hacerlo «por orden de la Secretaria de Estado». ||| 하나 더 있습니다. 9월 3일에 누군가 알칼라에서 14번 상자를 꺼냈습니다. '차관의 지시'라고 하면서요.
+VALDÉS: Yo no di ninguna orden. ||| 나는 어떤 지시도 내린 적 없네.
+ÁLVARO: Lo suponía. Fue Gaspar. ||| 짐작했습니다. 가스파르였어요.
+VALDÉS: ¿Gaspar? Gaspar vino a mí hace dos meses. Sabía lo del cero. Me ofreció «ayudarme a protegerlo». Yo le dije que no había nada que proteger. ||| 가스파르? 두 달 전에 나를 찾아왔어. 영에 대해 알고 있더군. '지키는 걸 돕겠다'고 했지. 나는 지킬 게 없다고 했고.
+ÁLVARO: Y por detrás fue a Alcalá con su nombre. ||| 그리고 뒤로는 차관님 이름으로 알칼라에 갔죠.
+VALDÉS: Me ha usado. ||| 나를 이용했군.
+ÁLVARO: Y lo usó alguien más a él, probablemente. ||| 그리고 그 사람도 다른 누군가에게 이용당했을 겁니다.
+VALDÉS: ¿Quién? ||| 누구에게?
+ÁLVARO: No lo sé. Pero alguien con interés en que esto explote en un momento concreto. ||| 모릅니다. 하지만 이게 특정한 시점에 터지는 걸 바라는 누군가가 있겠죠.
+VALDÉS: Entonces razón de más para callar. ||| 그럼 더더욱 입을 다물어야지.
+ÁLVARO: Razón de más para hablar primero. ||| 더더욱 먼저 말해야죠.
+VALDÉS: Basta. ||| 그만하게.
++ salir a la luz = 세상에 드러나다. 4화에서 이미 나온 표현이 이 화에서 다시 쓰인다
++ bajo órdenes políticas = 정치적 지시 아래. bajo + 명사는 '~의 영향·지배 아래'
++ una pensión = 연금. 스페인 공무원은 퇴직 연금이 주요 노후 소득
++ cambiar de nombre = 이름이 바뀌다. 시간이 흐르면 같은 행위의 평가가 바뀐다는 뜻
++ razón de más para + 원형 = ~할 더 큰 이유. 'razón de más para callar / hablar'의 대구
++ por detrás = 뒤에서, 몰래
+
+## 최후통첩 — EL ULTIMÁTUM
+VALDÉS: Escúchame bien. Quiero que suspendas la investigación. Hoy mismo. ||| 잘 듣게. 조사를 중단하게. 오늘 당장.
+ÁLVARO: ¿Y el barco? ||| 배는요?
+VALDÉS: El armador paga. Hacienda adelanta. La Comisión emite su declaración, que me parece muy bien, y se cierra. ||| 선주가 내고 재무부가 선지급하네. 집행위가 성명을 내는 건 아주 좋고, 그러고 마무리하는 거야.
+ÁLVARO: Eso no es lo que he conseguido en Bruselas. ||| 그게 브뤼셀에서 제가 얻어낸 게 아닙니다.
+VALDÉS: Lo que has conseguido en Bruselas es un papel. Yo hablo de un resultado. ||| 자네가 브뤼셀에서 얻어낸 건 종이 한 장이야. 나는 결과를 말하고 있네.
+ÁLVARO: ¿Y si me niego? ||| 거부하면요?
+VALDÉS: Disuelvo la Unidad de Negociaciones Reservadas el lunes. Y te destino a Ulán Bator. ||| 월요일에 비공개협상실을 해체하겠네. 그리고 자네를 울란바토르로 발령하지.
+ÁLVARO: Es un lugar muy bonito. Dicen que hace mucho frío. ||| 아주 아름다운 곳이라더군요. 아주 춥다고도 하고요.
+VALDÉS: No bromees. ||| 농담하지 말게.
+ÁLVARO: No bromeo, señora secretaria. Es lo único que me queda por hacer a esta hora. ||| 농담이 아닙니다, 차관님. 이 시간에 제가 할 수 있는 게 그것뿐이라서요.
+VALDÉS: Álvaro. Te lo pido como Inma. Como la mujer que te sacó del Servicio Exterior de Lima cuando te iban a hundir. ||| 알바로. 이마로서 부탁하네. 리마에서 자네가 매장당하려던 걸 구해 준 사람으로서.
+ÁLVARO: Inma. Hace diez años usted me enseñó que el silencio es lo más caro que se compra. Hoy lo estoy pagando a plazos. ||| 이마. 10년 전에 선생님은 침묵이 가장 비싸게 사는 물건이라고 가르쳐 주셨죠. 오늘 저는 그걸 할부로 갚고 있습니다.
+VALDÉS: No te entiendo. ||| 이해가 안 되는군.
+ÁLVARO: Me entiende perfectamente. Y por eso no me ha dejado hablar de dinero, de barcos ni de marineros en toda la conversación. ||| 아주 잘 이해하십니다. 그래서 대화 내내 돈 얘기도 배 얘기도 선원 얘기도 못 하게 하신 거고요.
+VALDÉS: Tienes hasta el lunes. Si el lunes me traes la carta de aceptación del armador, aquí no ha pasado nada. ||| 월요일까지야. 월요일에 선주의 수락 서한을 가져오면, 여기서는 아무 일도 없었던 걸세.
+ÁLVARO: Entendido, señora secretaria. ||| 알겠습니다, 차관님.
+VALDÉS: Y Álvaro. ||| 그리고 알바로.
+ÁLVARO: Dígame. ||| 말씀하세요.
+VALDÉS: Si tiras de ese hilo, no cae una sola persona. Cae todo. Incluido tú. ||| 그 실을 당기면 한 사람만 무너지는 게 아니야. 전부 무너지네. 자네도 포함해서.
+ÁLVARO: Tengo la costumbre de caerme. Ya lo sabe. ||| 저는 넘어지는 데 익숙합니다. 아시잖아요.
++ destinar = 발령하다. 외교관·공무원의 근무지를 정할 때 쓰는 동사
++ a plazos = 할부로. 'pagar a plazos'. 여기서는 침묵의 대가를 조금씩 치른다는 은유
++ Servicio Exterior = 외무 공무원 조직. 해외 공관 근무 인력
++ tirar de ese hilo = 그 실을 당기다. 사건의 단서를 끝까지 따라가는 은유
++ tengo la costumbre de + 원형 = ~하는 버릇이 있다
++ cae todo = 전부 무너진다. caer는 '떨어지다/무너지다'
+
+## 복도에서 — EL PASILLO
+MARINA: ¿Qué tal ha ido? ||| 어떻게 됐어요?
+ÁLVARO: No quiere. ||| 원하지 않으셔.
+MARINA: ¿Qué le ha dicho? ||| 뭐라고 하셨는데요?
+ÁLVARO: Que o suspendo la investigación o me destinan a Ulán Bator. Y que el lunes disuelve la Unidad. ||| 조사를 중단하든가 울란바토르로 발령하겠다고. 그리고 월요일에 우리 부서를 해체하겠다고.
+MARINA: ¿Y qué va a hacer? ||| 어떻게 하실 거예요?
+ÁLVARO: Perder la dama. Como me enseñó Berni. Ahora veo el tablero entero. Hay un hombre llamado Rodrigo Aldaz, que ordenó el sello. Hay un jefe de gabinete que usó el nombre de Valdés. Y hay un general en Kandara que cobraba. ||| 퀸을 잃을 거야. 베르니가 가르쳐 준 대로. 이제 판 전체가 보여. 도장을 지시한 로드리고 알다스라는 남자가 있어. 발데스의 이름을 쓴 비서실장이 있고. 그리고 칸다라에서 돈을 받던 장군이 있지.
+MARINA: ¿Y en medio de todos ellos? ||| 그 한가운데에는요?
+ÁLVARO: Una mujer de sesenta y un años que firmó con treinta y tres y que no sabe cómo bajarse. ||| 서른셋에 서명해 놓고 어떻게 내려와야 할지 모르는 예순한 살의 여자.
+MARINA: Es lo que más le duele, ¿verdad? ||| 그게 제일 마음 아프시죠, 그렇죠?
+ÁLVARO: No digas eso. ||| 그런 말 하지 마.
+MARINA: No hace falta decirlo. Se le nota. ||| 말 안 해도 돼요. 티가 나요.
+ÁLVARO: Marina, necesito saber de dónde viene el dinero del general. Por qué cobraba, quién le pagaba, cuánto. Con eso, la palabra «contraprestación» deja de ser una teoría. ||| 마리나, 장군의 돈이 어디서 오는지 알아야 해. 왜 받았는지, 누가 줬는지, 얼마인지. 그걸 알면 '반대급부'라는 말이 더는 이론이 아니야.
+MARINA: Para eso hay una persona. ||| 그러려면 한 사람이 있죠.
+ÁLVARO: Lo sé. ||| 알아.
+MARINA: Dijo que no la volvería a llamar. ||| 다시는 연락하지 않겠다고 하셨잖아요.
+ÁLVARO: Dije que no la volvería a llamar para algo que pudiera hacerse sin ella. Esto no puede. ||| 그 사람 없이 할 수 있는 일로는 연락하지 않겠다고 했어. 이건 그 사람 없이는 안 돼.
+MARINA: Con Rebeca nada se hace sin que te cobren algo después. ||| 레베카와 하면 아무것도 나중에 대가를 치르지 않고는 안 돼요.
+ÁLVARO: Lo sé. Y, además, me dará un recibo a su manera. Dime, ¿ha salido la declaración de la Comisión? ||| 알아. 그리고 자기 방식으로 영수증도 주겠지. 말해 봐, 집행위 성명은 나왔어?
+MARINA: Hace una hora. Dice «preocupación» y «liberación inmediata». Camara me ha escrito: los marineros están en el hotel, ya llaman a casa. ||| 한 시간 전에요. '우려'와 '즉각 석방'이라는 표현이 들어 있어요. 카마라가 메시지를 보냈어요. 선원들은 호텔에 있고, 이제 집에 전화해요.
+ÁLVARO: Bien. Eso lo tenemos. Lo demás, lo tenemos que pagar. ||| 좋아. 그건 우리가 얻었어. 나머지는 값을 치러야 해.
+MARINA: ¿Qué le escribo a Rebeca? ||| 레베카에게 뭐라고 쓸까요?
+ÁLVARO: Nada. Yo mismo. Le escribo: «¿Cenamos?» ||| 아무것도. 내가 직접 할게. '저녁 먹을까?'라고 보냈어.
+MARINA: ¿Y qué dice? ||| 뭐라고 해요?
+ÁLVARO: «Es jueves. Los jueves cobro doble». ||| '목요일이네. 목요일엔 두 배로 받아'.
+MARINA: Es una persona muy agradable. ||| 아주 상냥한 분이네요.
+ÁLVARO: Es la única que nunca me ha mentido. Y eso, en este edificio, es un récord. ||| 한 번도 나한테 거짓말한 적 없는 유일한 사람이야. 이 건물에서는 신기록이지.
++ perder la dama = 퀸을 잃다. 베르니의 체스 비유가 현실 선택으로 이어진다
++ no hace falta decirlo = 말할 필요 없다. 'se le nota'는 '티가 난다'
++ para algo que pudiera hacerse sin ella = 'algo que + 접속법 불완전과거' 구문. 가정적·한정적 관계절
++ a su manera = 자기 방식대로. su는 레베카를 가리킨다
++ récord = 기록. 스페인어에서 영어 차용어
