@@ -1,0 +1,98 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 11
+@title La cláusula cero
+@ko 영 조항
+@setting 토요일 아침 제네바 칸토날 은행 대여금고실 → 같은 날 오전 호텔·중앙실 → 정오 직전 공동 낭독
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast AMINATA | 칸다라 주스페인 대사
+@cast CAJERO | 은행 직원
+@cast ALBORNOZ | 외교부 장관
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@cast MEIER | 스위스 중재관
+@cast CLARA | 스페인 측 통역관
+@cast MARIAMA | 칸다라 측 통역관
+@cast BAH | 칸다라 국방장관 세쿠 바 장군 (B실에서 서면·구술)
+@cast KONÉ | 칸다라 대통령 (전화 연결)
+@note 1부의 클라이맥스입니다. 이 화에서는 세 가지 해법의 논거가 함께 쓰입니다. 1) 원문(프랑스어)과 번역(스페인어)의 대조, 2) 카스페 합의(1412)에서 가져온 '독립 위원회', 3) 비토리아(1539)의 배상 원칙. 마지막의 '두 언어 동시 낭독'은 이 시리즈 전체의 명장면입니다. 법률 문장의 구조(condicional, subjuntivo, 반복 조항)에 주목하세요.
+@next 1부 12화 — «Quien firma, paga»(서명한 자가 대가를 치른다) — 영 조항이 풀린 뒤의 세계. 억류선은 나올 수 있을까, 발데스는 무엇을 잃고, 알바로는 무엇으로 값을 치르는가. 그리고 에필로그에서 레베카가 룬드의 이름에 연결된 새 이름을 내민다.
+
+## 대여금고실 — LA CAJA CUATRO MIL CUATROCIENTOS DIECISIETE
+CAJERO: Madame l'ambassadrice. Monsieur. Mademoiselle. Pour la caisse quatre mille quatre cent dix-sept, il faut deux clés. ||| 대사님. 선생님. 아가씨. 4417번 금고에는 열쇠가 두 개 필요합니다.
+AMINATA: Ma clé. Et voici la clé du titulaire. ||| 제 열쇠입니다. 그리고 이게 명의인의 열쇠고요.
+CAJERO: Merci. Je vous laisse. La salle est insonorisée. Vous avez une heure. ||| 감사합니다. 자리를 비켜 드리겠습니다. 방은 방음이 돼 있습니다. 한 시간 드리죠.
+MARINA: ¿Qué ha dicho? ||| 뭐라고 했어요?
+AMINATA: Que tenemos una hora. Y que nadie nos oirá. Abra usted, señor Quintana. ||| 한 시간 있다고요. 그리고 아무도 우리 얘길 듣지 않는다고요. 열어 보세요, 킨타나 씨.
+ÁLVARO: Lo hará usted. Es la hija del titular. ||| 대사님이 하세요. 명의인의 따님이시니까요.
+AMINATA: Mis manos tiemblan. Hágalo usted. ||| 손이 떨려요. 당신이 하세요.
+MARINA: Hay una carpeta azul. Y un sobre grande. Y... una cinta de casete. ||| 파란 서류철이 있어요. 큰 봉투도요. 그리고… 카세트테이프도 있어요.
+AMINATA: Es la voz de mi padre. La escucharemos después. ||| 아버지 목소리예요. 나중에 들을 거예요.
+ÁLVARO: ¿Puedo abrir la carpeta? ||| 서류철을 열어도 되겠습니까?
+AMINATA: Sí. ||| 네.
+MARINA: Doce folios. Mecanografiados. En francés. En el encabezado: «Annexe Zéro à l'Accord de pêche entre la République du Kandara et le Royaume d'Espagne». ||| 열두 장이에요. 타자로 친 프랑스어. 머리글은 '칸다라 공화국과 스페인 왕국 간 어업협정 부속서 0'이에요.
+ÁLVARO: Pásame el último. ||| 마지막 장을 줘.
+MARINA: «Clause finale, dite “clause zéro”. Celui des deux États qui divulgue le contenu de la présente Annexe libère l'autre de toutes les obligations qui en résultent, y compris les obligations de paiement». ||| '최종 조항, 일명 영 조항. 두 국가 중 본 부속서의 내용을 공개하는 쪽은 그 결과로 발생하는 모든 의무를, 지불 의무를 포함하여, 상대방으로부터 해제한다'.
+ÁLVARO: Léela otra vez. Despacio. ||| 다시 읽어 줘. 천천히.
+MARINA: «Celui des deux États qui divulgue le contenu de la présente Annexe libère l'autre de toutes les obligations qui en résultent, y compris les obligations de paiement». ||| '두 국가 중 본 부속서의 내용을 공개하는 쪽은 그 결과로 발생하는 모든 의무를, 지불 의무를 포함하여, 상대방으로부터 해제한다'.
+ÁLVARO: En español: «El Estado que divulgue el contenido de este Anexo libera al otro de todas las obligaciones que de él se derivan, incluidas las de pago». ||| 스페인어로는, '본 부속서의 내용을 공개하는 국가는 그로부터 파생되는 모든 의무를, 지불 의무를 포함하여, 상대국에게서 면제한다'.
+MARINA: Es lo contrario de lo que decía la traducción. ||| 번역본이 말하던 것과 정반대예요.
+ÁLVARO: Es lo contrario. Y es algo más: es una cláusula de autodestrucción. El secreto se destruye a sí mismo en cuanto alguien lo cuenta. ||| 정반대지. 그리고 그 이상이야. 자폭 조항이야. 누군가 말하는 순간 비밀이 스스로 파괴되는 거지.
+AMINATA: Mi padre la redactó él mismo. Era su cláusula. Quería que algún día alguien tuviera el valor de hablar sin miedo a la ruina. ||| 아버지가 직접 쓰셨어요. 아버지의 조항이었죠. 언젠가 누군가 파멸이 두렵지 않게 말할 용기를 갖길 바라셨어요.
+ÁLVARO: Una cláusula pensada para ser rota. ||| 깨뜨리라고 만든 조항이군요.
+AMINATA: Pensada para ser rota por una persona valiente. Mi padre no lo fue. Lo escribió y se calló. ||| 용감한 사람이 깨뜨리라고 만든 조항이죠. 아버지는 그렇지 못했어요. 쓰고도 입을 다무셨죠.
+MARINA: Aquí hay otra hoja. Es distinta. Membrete: «Presidencia del Gobierno de España». Está escrita a máquina, en español. Dice: «Texto sustitutivo de la cláusula final. Dictado a la señora Valdés, I., el veintiuno de octubre de mil novecientos noventa y seis». ||| 여기 다른 종이가 있어요. 다른 문서예요. 머리글은 '스페인 정부 총리실'. 스페인어 타자 문서고요. '최종 조항 대체 문안. 1996년 10월 21일 I. 발데스 부서장에게 구술됨'이라고 돼 있어요.
+ÁLVARO: ¿Quién firma? ||| 누가 서명했어?
+MARINA: Una rúbrica. Y una inicial: «R. A.». ||| 서명 하나와 머리글자요. 'R. A.'.
+ÁLVARO: Rodrigo Aldaz. ||| 로드리고 알다스.
+AMINATA: Mi padre recibió esa hoja de la delegación española. Nunca la entendió. Sabía francés mejor que ellos. ||| 아버지는 그 종이를 스페인 대표단에게서 받으셨어요. 이해하지 못하셨죠. 그분은 그들보다 프랑스어를 잘 아셨는데도요.
+ÁLVARO: ¿Por qué no dijo nada? ||| 왜 아무 말씀도 안 하셨습니까?
+AMINATA: Porque el texto sustitutivo le convenía. Mientras España creyera que hablar significaba pagar, España callaría. Y mientras España callara, el Consejo cobraría. ||| 대체 문안이 그분께도 유리했으니까요. 말하면 돈을 내야 한다고 스페인이 믿는 한 스페인은 침묵할 테고, 스페인이 침묵하는 한 위원회는 돈을 받을 테니까요.
+ÁLVARO: Un malentendido provechoso para las dos partes. ||| 양쪽 모두에 이익이 되는 오해였군요.
+AMINATA: Para cuatro. Mi padre, el general, la empresa y el señor Aldaz. Los únicos que perdieron fueron doscientas familias de Punta Sal. ||| 넷에게요. 아버지, 장군, 기업, 그리고 알다스 씨. 잃은 건 푼타 살의 이백 가구뿐이었죠.
+ÁLVARO: Embajadora, ahora debo decirle lo que pienso hacer. ||| 대사님, 이제 제가 하려는 일을 말씀드려야겠습니다.
+AMINATA: Dígalo. ||| 말씀하세요.
+ÁLVARO: Voy a divulgar el anexo. Entero. En voz alta. Delante de testigos. Y quiero que usted lo divulgue conmigo. ||| 부속서를 공개하겠습니다. 전문을요. 소리 내어서. 증인들 앞에서요. 그리고 대사님도 저와 함께 공개하시길 바랍니다.
+AMINATA: ¿Con usted? ||| 당신과 함께요?
+ÁLVARO: Si lo divulgo yo solo, libero a Kandara de sus obligaciones. Si lo divulgan los dos, nos liberamos mutuamente. Y nadie podrá decir que uno delató al otro. ||| 저 혼자 공개하면 칸다라를 의무에서 해제하는 겁니다. 둘이 함께 공개하면 서로를 해제하는 거고요. 그러면 아무도 한쪽이 다른 쪽을 고발했다고 말할 수 없습니다.
+AMINATA: La cláusula, leída en voz de los dos. ||| 두 사람의 목소리로 읽는 조항이군요.
+ÁLVARO: Una cláusula de autodestrucción mutua. No una traición. Un desarme. ||| 상호 자폭 조항입니다. 배신이 아니라 군축이죠.
+AMINATA: El general no lo permitirá. ||| 장군이 허락하지 않을 거예요.
+ÁLVARO: No necesito el permiso del general. Necesito el del presidente. ||| 장군의 허락은 필요 없습니다. 대통령의 허락이 필요하죠.
+AMINATA: ¿Koné? ||| 코네요?
+ÁLVARO: Él dijo que quería dignidad. Esto se la da: Kandara deja de ser la víctima que cobra y pasa a ser el país que dijo la verdad. ||| 그분은 존엄을 원한다고 했습니다. 이게 그걸 줍니다. 칸다라는 돈을 받는 피해자가 아니라 진실을 말한 나라가 됩니다.
+AMINATA: Mi padre estudió en Salamanca. Decía que Francisco de Vitoria había enseñado, en mil quinientos treinta y nueve, que los pueblos tienen derechos propios aunque no tengan rey ni ejércitos. ||| 아버지는 살라망카에서 공부하셨어요. 프란시스코 데 비토리아가 1539년에 왕도 군대도 없는 민족들에게도 고유한 권리가 있다고 가르쳤다고 하셨죠.
+ÁLVARO: «Relectio de Indis». ||| '인디오에 관한 강의'군요.
+AMINATA: Mi padre decía que la misma idea valía para Punta Sal: que doscientas familias sin ejército también tenían derecho a ser reparadas. ||| 아버지는 같은 생각이 푼타 살에도 적용된다고 하셨어요. 군대가 없는 이백 가구도 배상받을 권리가 있다고요.
+ÁLVARO: Entonces propongo algo más que divulgar. Proponemos un compromiso a la manera de Caspe: nueve compromisarios. Tres españoles independientes, tres kandareños y tres europeos, para determinar la reparación a Punta Sal. ||| 그렇다면 공개 이상을 제안합니다. 카스페식 합의를 하죠. 아홉 명의 위원. 독립적인 스페인인 셋, 칸다라인 셋, 유럽인 셋이 푼타 살에 대한 배상을 정하는 겁니다.
+AMINATA: Ni España ni Kandara juzgándose a sí mismas. ||| 스페인도 칸다라도 스스로를 심판하지 않는 거군요.
+ÁLVARO: Eso es. Quien no tiene a nadie por encima necesita a alguien al lado. ||| 맞습니다. 위에 아무도 없는 사람에게는 옆에 누군가 필요하죠.
+AMINATA: Pongamos la cinta. Quiero que usted oiga a mi padre antes de que hablemos con el presidente. ||| 테이프를 틀죠. 대통령과 이야기하기 전에 아버지 목소리를 들으셨으면 해요.
++ clause zéro = 영 조항. 프랑스어 'clause finale, dite “clause zéro”'. 'dite'는 '~라고 불리는'
++ celui qui divulgue libère l'autre = 프랑스어 원문. 'celui qui + 직설법'. 스페인어 'el que divulgue libera al otro'
++ texto sustitutivo = 대체 문안. 원문을 바꿔 끼운 위조 번역을 가리킨다
++ rúbrica = 서명의 흘림체(서명 도형). 'firma'는 이름 서명, 'rúbrica'는 그 아래 그은 줄
++ Compromiso de Caspe (1412) = 독립 위원 아홉 명이 결정한 합의. 여기서는 푼타 살 배상을 정할 '아홉 명 위원회'의 논거
++ Francisco de Vitoria (1539, Relectio de Indis) = 살라망카 학파 신학자. 아메리카 원주민 공동체에도 고유 권리가 있다고 주장했다. 이백 가구 배상 원칙의 철학적 근거
+
+## 아버지의 목소리 — LA CINTA
+PADRE: «Mi hija. Si escuchas esto es que el cero sigue vivo y yo estoy muerto. Perdóname. ||| '내 딸아. 이걸 듣고 있다면 영이 아직 살아 있고 나는 죽었다는 뜻이다. 용서하거라.
+PADRE: En mil novecientos noventa y seis firmé una página que protegía a mi país del juicio y a mi gobierno de la verdad. Fui joven y cobarde. ||| 1996년에 나는 내 나라를 심판으로부터, 내 정부를 진실로부터 지켜 주는 한 장에 서명했다. 나는 젊고 비겁했다.
+PADRE: Escribí la cláusula final para que alguien, algún día, pudiera deshacer lo que yo hice. Quien hable libera al otro. Que sea alguien más valiente que yo. ||| 나는 누군가 언젠가 내가 한 일을 되돌릴 수 있도록 마지막 조항을 썼다. 말하는 자가 상대를 풀어 준다. 나보다 용감한 누군가이기를.
+PADRE: Si el señor que lea esto es español, dile que conozco su lengua y que hay una palabra en ella que me persigue. Una palabra que aprendí en Salamanca: reparación. ||| 이걸 읽는 사람이 스페인 사람이라면 말해 주거라. 나는 그들의 말을 알고, 그 말 속에 나를 쫓아다니는 단어가 하나 있다고. 살라망카에서 배운 말, 배상(reparación).
+PADRE: Y si eres tú quien lo oye, hija mía, recuerda que un secreto no se rompe con un grito. Se rompe con dos voces que dicen lo mismo a la vez». ||| 그리고 네가 듣고 있다면 기억해라. 비밀은 외침 하나로 깨지지 않는다. 같은 말을 동시에 하는 두 목소리로 깨진다'.
+AMINATA: Dos voces que dicen lo mismo a la vez. ||| 같은 말을 동시에 하는 두 목소리.
+ÁLVARO: Una en español, otra en francés. Dos intérpretes. ||| 하나는 스페인어, 하나는 프랑스어. 두 명의 통역관이요.
+AMINATA: Clara y Mariama. ||| 클라라와 마리아마.
+ÁLVARO: Las dos únicas personas que han visto ambas salas. ||| 두 방을 모두 본 유일한 두 사람이죠.
+AMINATA: Mi padre lo planeó mejor de lo que creíamos. ||| 아버지는 우리가 생각한 것보다 잘 계획하셨군요.
+ÁLVARO: Lo planeó para que ocurriera veintiocho años después. Es la cláusula más paciente que he leído. ||| 28년 뒤에 일어나도록 계획하셨네요. 제가 읽은 가장 인내심 많은 조항입니다.
+AMINATA: Llamemos a Koné. ||| 코네에게 전화합시다.
++ cobarde = 겁쟁이, 비겁한. 'ser joven y cobarde'는 변명이 아닌 고백의 어조
++ deshacer = 되돌리다, 풀다. 'deshacer lo que yo hice'
++ quien hable libera al otro = 접속법 현재(hable)는 '누구든 말하는 사람'이라는 불특정 주어
++ reparación = 배상, 수리. 법적·윤리적 '피해 회복'의 핵심어
++ no se rompe con un grito = 'no A, sino B' 대신 평서문 두 개를 병렬. 격언처럼 말하는 방식
++ a la vez = 동시에. 'dos voces que dicen lo mismo a la vez'

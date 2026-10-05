@@ -1,0 +1,78 @@
+## 중앙실 — LA SALA CENTRAL
+ÁLVARO: Doctora Meier, tengo una solicitud formal. Quiero que conste en acta que a las doce de hoy las dos delegaciones divulgarán a la vez el Anexo Cero. ||| 마이어 박사님, 공식 요청이 있습니다. 오늘 열두 시에 두 대표단이 부속서 0을 동시에 공개한다는 사실을 기록에 남겨 주십시오.
+MEIER: ¿Las dos delegaciones? Eso no figura en el procedimiento. ||| 두 대표단이요? 절차에 없는 일입니다.
+ÁLVARO: Lo sé. Pero la delegación de Kandara está a punto de recibir una instrucción de su presidente. ||| 압니다. 하지만 칸다라 대표단이 곧 대통령의 지시를 받게 될 겁니다.
+MEIER: ¿Cómo sabe usted lo que ocurre en la otra sala? ||| 다른 방에서 일어나는 일을 어떻게 아십니까?
+ÁLVARO: No lo sé. Lo deduzco. ||| 모릅니다. 추론하는 거죠.
+MEIER: Tiene usted un uso curioso del verbo «deducir». ||| '추론하다'라는 동사를 흥미롭게 쓰시는군요.
+ÁLVARO: Es el verbo más honesto que conozco para decir «no puedo decirle cómo lo sé». ||| '어떻게 아는지는 말씀드릴 수 없다'를 말하는 데 제가 아는 가장 정직한 동사입니다.
+MEIER: Sea. Mi papel es garantizar la integridad del procedimiento, no el secreto de las partes. Si ambas lo hacen a la vez, puedo certificarlo. Una sola, no. ||| 좋습니다. 제 역할은 절차의 무결성을 보장하는 것이지 당사자의 비밀이 아닙니다. 양측이 동시에 한다면 증명할 수 있어요. 한쪽만이라면 안 됩니다.
+ÁLVARO: Esperemos a ver si llega la otra. ||| 상대 쪽이 오는지 기다려 보죠.
+MEIER: Una nota de la delegación de Kandara. La leo en francés: «Le Président de la République vient de donner l'ordre à la délégation de s'associer à la divulgation simultanée de l'Annexe Zéro. Le ministre Bah s'incline sous protestation». ||| 칸다라 대표단의 서면입니다. 프랑스어로 읽겠습니다. '공화국 대통령이 방금 대표단에게 부속서 0의 동시 공개에 동참하라고 명령했다. 바 장관은 항의하는 가운데 이에 따른다'.
+ÁLVARO: Se inclina. ||| 따르는군요.
+MEIER: «Sous protestation». ||| '항의하는 가운데'.
+MARIAMA: Y el ministro pide que conste en acta que lo hace bajo orden. ||| 그리고 장관은 명령에 따른 것임을 기록에 남겨 달라고 합니다.
+MEIER: Conste. Clara, Mariama. Ustedes leerán a dos voces. Clara en español, Mariama en francés, el mismo texto, al mismo tiempo. ||| 기록합니다. 클라라, 마리아마. 두 분이 두 목소리로 읽겠습니다. 클라라는 스페인어, 마리아마는 프랑스어로, 같은 텍스트를 같은 시간에요.
+CLARA: Lo he ensayado mentalmente. Pero nunca con alguien que tiemble tanto como yo. ||| 머릿속으로는 연습했어요. 하지만 저만큼 떨리는 상대와는 해 본 적 없네요.
+MARIAMA: Yo estoy más nerviosa que tú. Pero juntas, sí. ||| 저는 당신보다 더 긴장했어요. 하지만 함께라면 할 수 있어요.
+MEIER: Son las doce menos dos. Empiecen cuando yo diga «ahora». ||| 열두 시 이 분 전입니다. 제가 '지금'이라고 하면 시작하세요.
+MEIER: Ahora. ||| 지금.
+
+## 두 목소리 — A DOS VOCES
+CLARA: «Anexo Cero al Acuerdo de pesca entre el Reino de España y la República de Kandara». ||| '스페인 왕국과 칸다라 공화국 간 어업협정 부속서 0'.
+MARIAMA: «Annexe Zéro à l'Accord de pêche entre le Royaume d'Espagne et la République du Kandara». ||| '스페인 왕국과 칸다라 공화국 간 어업협정 부속서 0'.
+CLARA: «Artículo primero. La República de Kandara se abstendrá de emprender acciones penales, civiles o administrativas por el incidente ambiental ocurrido en el año mil novecientos noventa y cinco en las aguas de Punta Sal». ||| '제1조. 칸다라 공화국은 1995년 푼타 살 해역에서 발생한 환경 사고에 대해 형사·민사·행정상의 조치를 취하지 않는다'.
+MARIAMA: «Article premier. La République du Kandara s'abstiendra d'engager toute action pénale, civile ou administrative au titre de l'incident environnemental survenu en mil neuf cent quatre-vingt-quinze dans les eaux de Punta Sal». ||| '제1조. 칸다라 공화국은 1995년 푼타 살 해역에서 발생한 환경 사고에 대해 형사·민사·행정상의 조치를 취하지 않는다'.
+CLARA: «Artículo segundo. Como contraprestación, el Reino de España abonará anualmente a la República de Kandara una tasa complementaria, ingresada en la cuenta designada por el Consejo de Pesca». ||| '제2조. 반대급부로, 스페인 왕국은 칸다라 공화국에 해마다 추가 요금을 지급하며 이는 어업위원회가 지정한 계좌에 입금한다'.
+MARIAMA: «Article deux. En contrepartie, le Royaume d'Espagne versera annuellement à la République du Kandara une redevance complémentaire, versée sur le compte désigné par le Conseil de la pêche». ||| '제2조. 반대급부로, 스페인 왕국은 칸다라 공화국에 해마다 추가 요금을 지급하며 이는 어업위원회가 지정한 계좌에 입금한다'.
+MEIER: Contraprestación. No «compensación». ||| 반대급부. '보상'이 아니라.
+CLARA: «Artículo tercero. Las partes se comprometen a mantener la confidencialidad del presente Anexo mientras no se divulgue conforme a su cláusula final». ||| '제3조. 당사자는 본 부속서가 최종 조항에 따라 공개되기 전까지 비밀을 유지할 것을 약속한다'.
+MARIAMA: «Article trois. Les Parties s'engagent à maintenir la confidentialité de la présente Annexe tant qu'elle n'est pas divulguée conformément à sa clause finale». ||| '제3조. 당사자는 본 부속서가 최종 조항에 따라 공개되기 전까지 비밀을 유지할 것을 약속한다'.
+CLARA: «Cláusula final, llamada “cláusula cero”». ||| '최종 조항, 일명 영 조항'.
+MARIAMA: «Clause finale, dite “clause zéro”». ||| '최종 조항, 일명 영 조항'.
+CLARA: «El Estado que divulgue el contenido del presente Anexo libera al otro de todas las obligaciones que de él se derivan, incluidas las obligaciones de pago». ||| '본 부속서의 내용을 공개하는 국가는 그로부터 파생되는 모든 의무를, 지불 의무를 포함하여, 상대국에게서 면제한다'.
+MARIAMA: «Celui des deux États qui divulgue le contenu de la présente Annexe libère l'autre de toutes les obligations qui en résultent, y compris les obligations de paiement». ||| '두 국가 중 본 부속서의 내용을 공개하는 쪽은 그 결과로 발생하는 모든 의무를, 지불 의무를 포함하여, 상대방으로부터 해제한다'.
+CLARA: «Hecho en Madrid, el veintiuno de octubre de mil novecientos noventa y seis». ||| '1996년 10월 21일 마드리드에서 작성'.
+MARIAMA: «Fait à Madrid, le vingt et un octobre mil neuf cent quatre-vingt-seize». ||| '1996년 10월 21일 마드리드에서 작성'.
+MEIER: Son las doce horas y un minuto. Queda en acta que el Anexo Cero ha sido divulgado simultáneamente por ambas partes, en presencia de la mediadora y de dos intérpretes. Conforme a su cláusula final, ambas quedan liberadas de todas sus obligaciones. ||| 열두 시 일 분입니다. 부속서 0이 중재관과 두 통역관 입회하에 양측에 의해 동시에 공개되었음을 기록합니다. 최종 조항에 따라 양측은 모든 의무에서 해제됩니다.
++ a dos voces = 두 목소리로. 'a dos voces'는 이중창 또는 두 사람이 함께 말하는 방식
++ en contrepartie / contraprestación = 프랑스어 'en contrepartie'는 스페인어 '반대급부(contraprestación)'. 4화의 단어 논쟁이 낭독으로 정정되는 순간
++ conforme a = ~에 따라. 공식 문서의 정형 표현
++ queda en acta que = ~이 기록에 남는다. 'quedar + 전치사구'는 상태를 나타낸다
++ dite = 프랑스어 '~라고 불리는'. 스페인어 'llamada'에 해당
++ mientras no se divulgue = 'mientras no + 접속법'은 '~하지 않는 동안'. 시한 조건
+
+## 정오 — EL MEDIODÍA
+BAH: Vous venez de détruire vingt-huit ans de paix. ||| 당신들은 방금 28년의 평화를 파괴했소.
+MARIAMA: Señor ministro, mis colegas españoles quieren saber: ¿de paz o de silencio? ||| 장관님, 스페인 동료들이 알고 싶어 합니다. 평화였습니까, 침묵이었습니까?
+BAH: Il n'y a pas de différence! ||| 차이는 없소!
+MARIAMA: Dice que no hay diferencia. ||| 차이가 없다고 합니다.
+ÁLVARO: Hágale llegar esta nota, doctora Meier. «Con respeto, general: veintiocho años de silencio no son lo mismo que veintiocho años de paz. En Punta Sal lo saben». ||| 마이어 박사님, 이 쪽지를 전해 주십시오. '장군, 존경을 담아 말합니다. 28년의 침묵은 28년의 평화와 같지 않습니다. 푼타 살 사람들은 압니다'.
+MEIER: Se la entrego. ||| 전달하겠습니다.
+MARINA: Álvaro. En Madrid ha empezado la rueda de prensa. Mire. ||| 알바로. 마드리드에서 기자회견이 시작됐어요. 보세요.
+VALDÉS: «Buenos días. Me llamo Inmaculada Valdés. En mil novecientos noventa y seis, siendo subdirectora general, firmé un anexo secreto a un acuerdo de pesca. Durante veintiocho años no lo conté. Hoy lo cuento yo». ||| '안녕하십니까. 이마쿨라다 발데스입니다. 1996년 부서장이던 저는 어업협정의 비밀 부속서에 서명했습니다. 28년 동안 말하지 않았습니다. 오늘은 제가 말합니다'.
+MARINA: Lo ha dicho. ||| 말했어요.
+ÁLVARO: Lo ha dicho. Con sus palabras. ||| 말했지. 자기 말로.
+PALOMA: Álvaro. Soy Paloma Ríos. Me han llegado los doce folios. ¿Cumplo nuestro trato? ||| 알바로. 파올라 리오스예요. 열두 장이 제게 도착했어요. 우리 약속을 지킬까요?
+ÁLVARO: ¿Quién se los ha enviado? ||| 누가 보냈습니까?
+PALOMA: Usted. A las doce menos cinco. Con una nota: «Publique a las doce y diez, después de la comunicación de la Secretaria de Estado». ||| 당신이요. 열두 시 오 분 전에. 쪽지와 함께요. '국무차관의 발표가 끝난 열두 시 십 분에 보도하시오'.
+ÁLVARO: Hágalo. Y publique también el texto francés. Y la hoja del señor Aldaz. ||| 그렇게 하세요. 그리고 프랑스어 원문도 싣고, 알다스 씨의 종이도 실으세요.
+PALOMA: Es la mayor historia de mi vida. ||| 제 인생 최대의 기사예요.
+ÁLVARO: No. Es una historia pequeña. Lo grande es que doscientas familias reciban reparación. Escríbalo así. ||| 아니요. 작은 이야기입니다. 큰 일은 이백 가구가 배상을 받는 거예요. 그렇게 쓰세요.
+PALOMA: Lo escribiré. ||| 쓰겠습니다.
+AMINATA: Señor Quintana. El presidente Koné habla por la radio. ||| 킨타나 씨. 코네 대통령이 라디오에서 말하고 있어요.
+KONÉ: «Kandareños. Durante veintiocho años se nos dijo que el silencio nos protegía. Hoy hemos descubierto que nos protegía solo a quienes lo vendían. Desde este momento, todo pago por el acceso a nuestras aguas se hará a la cuenta del Tesoro, a la vista de todos». ||| '칸다라 국민 여러분. 28년 동안 우리는 침묵이 우리를 보호한다는 말을 들었습니다. 오늘 우리는 침묵이 그것을 판 사람들만 보호했다는 걸 알게 되었습니다. 이 순간부터 우리 해역 접근에 대한 모든 지불은 모두가 볼 수 있게 국고 계좌로 이루어집니다'.
+MARINA: Se acabó el sobre. ||| 봉투는 끝났네요.
+ÁLVARO: Se mojó. ||| 젖었어.
+MARINA: ¿Y el barco? ||| 배는요?
+ÁLVARO: Mañana. Hoy no. Los barcos no salen en los días de fiesta. ||| 내일. 오늘은 아니야. 배는 축제일에는 출항하지 않거든.
+MEIER: Señor Quintana, una última cosa. Mi padre me decía que no hay secreto de Estado que viva más que el papel que lo sostiene. Hoy lo he visto. ||| 킨타나 씨, 마지막으로 하나만요. 아버지는 국가 기밀 중 그것을 지탱하는 종이보다 오래 산 건 없다고 하셨습니다. 오늘 그걸 봤어요.
+ÁLVARO: Dos intérpretes lo han sostenido hasta hoy. Y han sido ellas las que lo han deshecho. ||| 두 통역관이 오늘까지 그걸 지탱했고, 그걸 풀어낸 것도 그들입니다.
+CLARA: Hemos hecho nuestro trabajo. ||| 우리 일을 했을 뿐이에요.
+MARIAMA: Traducir sin traicionar. Por una vez. ||| 배신하지 않고 번역하는 것. 한 번은요.
++ la paz / el silencio = 평화 / 침묵. 같은 상태를 어떻게 부르느냐가 정당화의 핵심
++ deshacer = 풀다, 풀어내다. 'han sido ellas las que lo han deshecho'는 'ser + 강조 분열문'. 7화의 '되돌리다'와 같은 동사
++ por una vez = 한 번쯤은. 'por una vez'는 '이번만은'
++ se mojó = 젖었다. 5화 프랑스 대표의 농담('봉투는 젖는다')이 해법의 결과를 요약하는 말로 되돌아온다
++ siendo subdirectora general = 'siendo + 직책'은 '~였을 때'. 동명사로 시점을 나타낸다
++ a la vista de todos = 모두의 눈앞에서, 공개적으로. 투명 접근료 기금의 핵심 표현

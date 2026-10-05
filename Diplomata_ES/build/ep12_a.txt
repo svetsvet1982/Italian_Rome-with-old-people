@@ -1,0 +1,55 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 12
+@title Quien firma, paga
+@ko 서명한 자가 대가를 치른다
+@setting 일요일 푸에르토 알바 항구와 총독부 → 월요일 비고 부두 → 화요일 산타크루스 궁 → 밤 레티로 공원
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast CAMARA | 칸다라 수산 차관
+@cast KONÉ | 칸다라 대통령
+@cast BARREIRO | 비르헨 데 라 바르카호 선장
+@cast CHANO | 같은 배 요리사
+@cast ROSARIO | 선원 아내, 비고 선원가족회 대표
+@cast LUCÍA | 알바로의 딸, 16세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@cast ALBORNOZ | 외교부 장관
+@cast GASPAR | 장관 비서실장
+@cast BERNI | 은퇴 대사
+@cast REBECA | 국가정보원(CNI) 연락관
+@note 1부의 마지막 화입니다. 사건의 해결 뒤에 오는 '대가'가 이 화의 주제입니다. 해법의 논거로는 페레힐 섬 사태(2002)의 '원상회복'과 베르가라 협약의 '명예로운 출구'가 쓰입니다. 대사 끝맺음 표현(despedida), 사임 문장, 격식 표현(dimitir, comparecer)에 주목하세요.
+@next 2부 1화 — «El precio»(대가) — 1부의 후폭풍. 의회 조사위원회에 불려 나가는 알바로, 해체 위기의 비공개협상실, 그리고 룬드의 이름 뒤에서 움직이는 '보레알 캐피털'. 레베카가 말한 '사라진 사람'은 누구인가.
+
+## 푸에르토 알바 — EL PUERTO DE PUERTO ALBA
+CAMARA: Señor Quintana. Bienvenido a Puerto Alba. Lo esperaba en otro avión y en otras circunstancias. ||| 킨타나 씨. 푸에르토 알바에 오신 걸 환영합니다. 다른 비행기, 다른 상황에서 오실 줄 알았습니다.
+ÁLVARO: Yo también, viceministro. Gracias por recibirme en el muelle. ||| 저도요, 차관님. 부두에서 맞아 주셔서 감사합니다.
+CAMARA: Es lo menos que puedo hacer. Quiero entregarle un documento. ||| 제가 할 수 있는 최소한입니다. 서류를 하나 드리고 싶습니다.
+ÁLVARO: Lo leo. ||| 읽겠습니다.
+CAMARA: «Resolución del Consejo de Pesca, adoptada por el Presidente en ejercicio. La retención del atunero Virgen de la Barca queda sin objeto, al haberse extinguido la deuda en que se fundaba. Se levanta la medida. Se anulan la multa y el decomiso». ||| '어업위원회 결의. 대통령 직권으로 채택. 참치선 비르헨 데 라 바르카호의 억류는 근거가 되었던 채무가 소멸함에 따라 목적을 상실한다. 조치는 해제된다. 벌금과 몰수는 취소된다'.
+ÁLVARO: «Queda sin objeto». Una fórmula muy limpia. ||| '목적을 상실한다'. 아주 깔끔한 표현입니다.
+CAMARA: La redactó el presidente. Es historiador, ya lo sabe. ||| 대통령께서 직접 쓰셨습니다. 역사가이시니까요.
+ÁLVARO: Hay algo más que quisiera proponerle. Una cuestión de forma. ||| 하나 더 제안하고 싶은 게 있습니다. 형식에 관한 겁니다.
+CAMARA: Dígame. ||| 말씀하세요.
+ÁLVARO: En julio de dos mil dos, tras el incidente de la isla de Perejil, España y Marruecos acordaron «restablecer la situación anterior». Sin vencedores, sin disculpas, sin multas. Las cosas volvieron a su sitio. ||| 2002년 7월 페레힐 섬 사건 뒤에 스페인과 모로코는 '이전 상황을 회복한다'는 데 합의했습니다. 승자도 사과도 벌금도 없이요. 모든 게 제자리로 돌아갔죠.
+CAMARA: Statu quo ante. ||| 사태 이전 상태 말이군요.
+ÁLVARO: Eso. Aquí significa dos cosas. El barco sale, y la zona norte recupera su nombre de antes. Que nadie tenga que decir que cedió ni que ganó. ||| 그겁니다. 여기서는 두 가지를 뜻합니다. 배는 나가고, 북부 해역은 예전 이름을 되찾는 겁니다. 누구도 양보했다거나 이겼다고 말할 필요가 없도록요.
+CAMARA: Es una propuesta que le gustará al presidente. Y que no le gustará al general. ||| 대통령은 좋아하실 제안이군요. 장군은 싫어하겠지만요.
+ÁLVARO: ¿Qué ha sido del general? ||| 장군은 어떻게 됐습니까?
+CAMARA: Está en su casa. «Con permiso médico». Hay una comisión que revisará las cuentas del Consejo de Pesca. Un juez, no un militar. ||| 자택에 있습니다. '의료 휴가'로요. 어업위원회 계좌를 검토할 위원회가 있습니다. 군인이 아니라 판사가 맡죠.
+ÁLVARO: Una comisión independiente. ||| 독립 위원회군요.
+CAMARA: Con tres miembros kandareños que nadie del Gobierno elige. Los eligen los pescadores de Punta Sal. ||| 정부가 고르지 않는 칸다라인 세 명으로요. 푼타 살 어부들이 뽑습니다.
+ÁLVARO: Eso es lo mejor que he oído en un mes. ||| 한 달 동안 들은 중 가장 좋은 소식입니다.
+CAMARA: Hay otra cosa. La misión técnica de Bruselas. El presidente quiere que llegue a Puerto Alba el lunes, no dentro de tres semanas. ||| 하나 더 있습니다. 브뤼셀 기술 사절단요. 대통령은 3주 뒤가 아니라 월요일에 푸에르토 알바에 도착하길 원하십니다.
+ÁLVARO: ¿Antes del Consejo? ||| 위원회 전에요?
+CAMARA: Antes de cualquier consejo. Quiere que las cuentas se abran mientras todavía hay documentos que abrir. ||| 어떤 위원회보다 먼저요. 열어 볼 서류가 남아 있는 동안 계좌를 열고 싶어 하십니다.
+ÁLVARO: La directora Verbeke lo tendrá preparado esta misma noche. Se lo garantizo. ||| 베르베케 국장이 오늘 밤 안에 준비할 겁니다. 보장합니다.
+CAMARA: Entonces entiendo mejor por qué me llamó usted hace cinco semanas para hablar de un mapa. ||| 그럼 3주 전에 제게 전화해서 지도 얘기를 하신 이유를 더 잘 이해하겠군요.
+ÁLVARO: Porque los mapas se pueden cambiar. Los sobres, no. ||| 지도는 바꿀 수 있으니까요. 봉투는 못 바꾸고요.
++ queda sin objeto = 목적(대상)을 잃는다. 법적 행위의 근거가 소멸됐을 때의 정형 표현
++ statu quo ante = 사태 이전 상태(라틴어). 스페인어로는 'situación anterior'. 페레힐 섬 합의(2002)는 모로코와 스페인이 '이전 상황 복원'에 합의한 사례다
++ isla de Perejil (2002) = 모로코와 스페인이 영유권을 다투던 작은 섬. 군사 충돌 직전까지 갔으나 미국의 중재로 사태 이전 상태로 복원했다. 이 화의 '승패 없는 해결' 논거
++ con permiso médico = 의료 휴가로. 직무 정지를 완곡하게 말하는 표현
++ dar la palabra = 약속하다. 'le doy mi palabra'는 격식 있는 맹세
++ mientras todavía hay documentos = 'mientras + 직설법 현재'는 지금 진행 중인 상태. 기록이 남아 있는 동안이라는 긴박함

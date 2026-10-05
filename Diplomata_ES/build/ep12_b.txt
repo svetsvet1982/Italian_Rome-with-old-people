@@ -1,0 +1,74 @@
+## 호텔 로비 — EL HOTEL DE LOS MARINEROS
+BARREIRO: ¿Es usted el señor Quintana? ||| 킨타나 씨입니까?
+ÁLVARO: El mismo. Capitán Barreiro. Por fin le veo la cara. ||| 접니다. 바레이로 선장님. 드디어 얼굴을 뵙네요.
+BARREIRO: Tres semanas hablando por radio con una voz. Esperaba a alguien más alto. ||| 3주 동안 무전으로 목소리만 들었죠. 더 키가 큰 사람을 기대했습니다.
+ÁLVARO: Siento decepcionarle. ||| 실망시켜 죄송합니다.
+BARREIRO: No me ha decepcionado. Me ha sacado de aquí. Es distinto. ||| 실망시키지 않았습니다. 저를 여기서 꺼내 줬어요. 다르죠.
+ÁLVARO: ¿Cómo están los hombres? ||| 선원들은 어떻습니까?
+BARREIRO: Cansados, flacos y con ganas de cerveza. Los jóvenes han dejado de llorar. Los viejos han empezado. Así funciona esto. ||| 지치고 마르고 맥주가 마시고 싶은 상태입니다. 젊은 친구들은 울음을 그쳤고 늙은 선원들이 울기 시작했죠. 이런 법입니다.
+ÁLVARO: El vuelo sale esta noche. A las nueve. Un chárter. Estarán en Vigo mañana de madrugada. ||| 비행기는 오늘 밤 아홉 시에 뜹니다. 전세기예요. 내일 새벽에 비고에 도착합니다.
+BARREIRO: ¿Y el barco? ||| 배는요?
+ÁLVARO: Una tripulación de relevo lo traerá de vuelta en seis días. Usted y sus hombres, a casa. ||| 교대 선원들이 6일 뒤에 가져올 겁니다. 선장님과 선원들은 집으로 가시고요.
+BARREIRO: ¿Y la carga? ||| 어획물은요?
+ÁLVARO: Se descongela y se devuelve. Con un acta de la Comisión Europea. No se pierde un solo atún. ||| 해동해서 돌려드립니다. 유럽 집행위의 확인서와 함께요. 참치 한 마리도 잃지 않습니다.
+BARREIRO: Tiene usted cara de no haber dormido. ||| 한숨도 못 주무신 얼굴이군요.
+ÁLVARO: Hace cinco semanas que no duermo. No se preocupe, es crónico. ||| 5주째 못 자고 있습니다. 걱정 마세요, 만성이에요.
+BARREIRO: Pues hoy duerma. Lo digo como capitán. En el barco, el que no duerme se equivoca. ||| 오늘은 주무십시오. 선장으로서 말씀드립니다. 배에서는 못 자는 사람이 실수하거든요.
+ÁLVARO: Lo intentaré. ||| 노력해 보겠습니다.
+CHANO: ¡Señor Quintana! ¡El de la radio! ||| 킨타나 씨! 무전 그분이다!
+ÁLVARO: Chano. El cocinero. ||| 차노 씨. 요리사시군요.
+CHANO: El mismo. Le he traído un detalle. Es poca cosa. ||| 접니다. 작은 선물을 가져왔습니다. 별건 아니에요.
+ÁLVARO: ¿Una lata? ||| 통조림입니까?
+CHANO: De bonito del Norte. Hecho por mi madre en Cangas. Lo guardaba para una ocasión. Esta lo es. ||| 북쪽 가다랑어요. 캉가스에 계신 어머니가 만든 거죠. 특별한 날을 위해 아껴 놨는데, 오늘이 그날이네요.
+ÁLVARO: No puedo aceptarlo. ||| 받을 수 없습니다.
+CHANO: Se acepta. Es una regla gallega. ||| 받으세요. 갈리시아의 규칙입니다.
+ÁLVARO: En ese caso, gracias. Chano, una pregunta. ¿Usted sabía lo que decía cuando me dijo que a esa gente no le ofendía el pescado? ||| 그렇다면 감사합니다. 차노 씨, 질문 하나 하죠. 그 사람들은 고기에 화난 게 아니라고 말했을 때 무슨 말을 하는지 알고 계셨습니까?
+CHANO: Yo solo dije lo que he visto cada año durante veinte. Los sobres. Si quiere que le diga la verdad, no pensé que a usted le importase. ||| 20년 동안 해마다 본 걸 말했을 뿐이에요. 봉투들요. 솔직히 말하면 선생님이 신경 쓰실 줄은 몰랐습니다.
+ÁLVARO: Me importó. Y esa frase, Chano, ha acabado en el acta de una mediación en Ginebra. ||| 신경 썼습니다. 그리고 그 문장은 차노 씨, 제네바 중재 기록에 남았습니다.
+CHANO: ¿En un acta? Mi madre no me va a creer. ||| 기록에요? 어머니는 안 믿으실 텐데.
+ÁLVARO: Se lo diré yo, si hace falta. ||| 필요하면 제가 말씀드리죠.
+CHANO: Entonces sí me creerá. Mi madre cree en los hombres con corbata. ||| 그럼 믿으실 거예요. 어머니는 넥타이 맨 남자를 믿으시거든요.
++ chárter = 전세기. 영어 charter에서 온 말
++ tripulación de relevo = 교대 승무원. 선박의 인수 항해를 맡는 승무원
++ bonito del Norte = 북쪽 가다랑어(참치의 일종). 갈리시아·칸타브리아의 대표 통조림
++ es una regla gallega = 갈리시아의 규칙이다. 지역 관습을 근거로 선물을 받게 하는 농담
++ no pensé que a usted le importase = 접속법 불완전과거(importase). 'pensar que'의 부정 뒤에는 접속법
++ ocasión = 기회, 특별한 때. 'una ocasión especial'
+
+## 비고 공항 — EL AEROPUERTO DE PEINADOR
+ROSARIO: ¡Xosé! ¡Xosé, estou aquí! ||| 소세! 소세, 여기야!
+XOSÉ: Rosario. ||| 로사리오.
+ROSARIO: ¡Ay, Virxe Santa! Estás flaco. ||| 아이고, 성모님! 말랐네.
+XOSÉ: Tres semanas de arroz y lentejas. Pero estoy aquí. ||| 3주 동안 쌀과 렌틸콩만 먹었어. 하지만 돌아왔어.
+ROSARIO: Dios, qué alegría. ||| 맙소사, 너무 기뻐.
+ÁLVARO: Señora Rosario. ||| 로사리오 부인.
+ROSARIO: Señor Quintana. ¿Usted vino con ellos? ||| 킨타나 씨. 이분들과 함께 오셨어요?
+ÁLVARO: En el mismo avión. Quería cumplir una promesa. ||| 같은 비행기로요. 약속을 지키고 싶었습니다.
+ROSARIO: Sí. Usted me dijo que me diría lo que sabía, lo que no sabía y lo que iba a hacer. En ese orden. ||| 네. 아는 것, 모르는 것, 하려는 일을 말해 주겠다고 하셨죠. 그 순서로요.
+ÁLVARO: Le debo lo último. Lo que sé: que su marido está en casa y que lo que ocurrió no fue un problema de pesca, sino de dinero. Y que ese dinero ya no se pagará por debajo de la mesa. ||| 마지막 걸 빚졌네요. 아는 것. 남편분이 집에 계시고, 일어난 일은 어업 문제가 아니라 돈 문제였으며, 그 돈은 더는 탁자 밑으로 지급되지 않는다는 것.
+ROSARIO: Eso lo sé. Lo dijeron en la tele. ||| 그건 알아요. 텔레비전에서 말했어요.
+ÁLVARO: Lo que no sé: si dentro de cinco años alguien volverá a intentarlo. Eso no lo sabe nadie. ||| 모르는 것. 5년 뒤에 누가 다시 시도할지. 그건 아무도 모릅니다.
+ROSARIO: ¿Y lo que va a hacer? ||| 그리고 하려는 일은요?
+ÁLVARO: Vigilar. Hay una comisión independiente que revisará el Consejo de Pesca de Kandara. Y habrá otra, de nueve miembros, que decidirá la reparación de unas doscientas familias que sufrieron algo parecido a lo suyo, en otra costa y hace treinta años. ||| 지켜보는 겁니다. 칸다라 어업위원회를 검토할 독립 위원회가 있습니다. 그리고 아홉 명으로 구성된 또 다른 위원회가, 다른 해안에서 30년 전에 비슷한 일을 겪은 이백 가구의 배상을 결정할 겁니다.
+ROSARIO: ¿Hay familias que sufrieron más que nosotras? ||| 우리보다 더 고통받은 가족들이 있었나요?
+ÁLVARO: Muchísimo más. Y nadie las llamó. ||| 훨씬 더요. 그리고 아무도 그들을 부르지 않았죠.
+ROSARIO: Entonces yo quiero ser una de las que no se olvidan. Si hace falta alguien que firme una carta por ellas, me lo dice. ||| 그럼 저는 잊지 않는 사람 중 하나가 되고 싶어요. 그들을 위해 편지에 서명할 사람이 필요하면 말씀하세요.
+ÁLVARO: Se lo diré. ||| 말씀드리겠습니다.
+ROSARIO: Tome, una empanada. De mi madre. No es una lata de bonito, pero llena más. ||| 받으세요, 엠파나다예요. 어머니가 만든 거고요. 가다랑어 통조림은 아니지만 더 배부를 거예요.
+ÁLVARO: Gracias. Hoy me van a regalar comida de Galicia durante un mes. ||| 감사합니다. 오늘부터 한 달은 갈리시아 음식을 선물받겠군요.
+ROSARIO: Es el único idioma que entendemos bien. ||| 우리가 제일 잘 알아듣는 유일한 언어죠.
+MARINA: ¡Papá! ||| 아빠!
+MANOLO: Rapaza. Estás muy delgada. ¿Comes? ||| 우리 딸. 아주 말랐구나. 먹고 있니?
+MARINA: Como. Lo que puedo. Papá, este es Álvaro Quintana. Mi jefe. ||| 먹어요. 할 수 있는 만큼요. 아빠, 이분이 알바로 킨타나예요. 제 상사요.
+MANOLO: El del Ministerio. Mucho gusto. Mi hija dice que usted es el que no hace ruido. ||| 부처에서 오신 분이군요. 반갑습니다. 딸 말로는 소란을 피우지 않는 분이라더군요.
+ÁLVARO: Intento. Casi nunca me sale. ||| 노력합니다. 거의 안 되지만요.
+MANOLO: Me han contado que el pez no se escapa si no lo quieres demasiado. ¿Es verdad? ||| 물고기는 너무 간절히 원하지 않으면 도망가지 않는다고 하던데, 사실입니까?
+ÁLVARO: Esa frase se la oí a su hija, que la oyó de usted. Es la mejor lección de diplomacia que he recibido este mes. ||| 그 말은 따님한테 들었고, 따님은 아버님께 들었다죠. 이번 달에 받은 최고의 외교 수업입니다.
+MANOLO: Pues entonces la pesca y la diplomacia son primas. ||| 그럼 어업과 외교는 사촌이로군요.
+ÁLVARO: Hermanas, diría yo. ||| 자매라고 하고 싶습니다.
++ ¡Ay, Virxe Santa! = 갈리시아어 '성모님!'. 'Virgen' 대신 'Virxe'. 공항 장면의 지역색
++ rapaza = 갈리시아어로 '소녀, 딸'. 'rapaz'는 '소년'
++ por debajo de la mesa = 탁자 밑으로(뇌물). 1화에서부터 반복되어 결말에서 '더는 지급되지 않는다'로 정리된다
++ llena más = 더 배부르다. 'llenar'는 '채우다/배부르게 하다'
++ si no lo quieres demasiado = 'si + 직설법 현재'로 일반적 조건. '너무 간절히'는 demasiado
++ hermanas, diría yo = 조건법의 완곡한 의견 제시. 'diría yo'는 '나라면 이렇게 말하겠다'

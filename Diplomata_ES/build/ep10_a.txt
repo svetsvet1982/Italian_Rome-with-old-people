@@ -1,0 +1,75 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 10
+@title Ginebra a ciegas
+@ko 제네바 맹인 협상
+@setting 13일 뒤 제네바 레만 호숫가 빌라의 세 개의 방 → 휴식 시간 통역 대기실 → 밤 호텔 바
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast MEIER | 스위스 중재관, 59세
+@cast CLARA | 스페인 측 통역관, 34세
+@cast MARIAMA | 칸다라 측 통역관, 28세
+@cast AMINATA | 칸다라 주스페인 대사, 칸다라 대표단 소속
+@cast BERNI | 은퇴 대사, 전화 연결
+@note 이 화의 형식은 '맹인 협상(negociación a ciegas)'입니다. 양측은 서로 다른 방에서 문서만 주고받습니다. 협상이 막히는 지점마다 역사 사례(피레네 조약 협상, 지참금 조항)가 논거로 쓰이고, 마지막에는 통역사의 한마디가 해법을 엽니다. 통역·번역 어휘(interpretar, traducir, matiz, fidelidad)에 주목하세요.
+@next 1부 11화 — «La cláusula cero»(영 조항) — 제네바 은행의 대여금고. 아미나타의 아버지가 남긴 서류철 속에서 프랑스어 원문이 나온다. 한 줄의 문장이 28년의 침묵을 풀 열쇠인지, 새로운 덫인지를 알바로는 읽어낸다.
+
+## 세 개의 방 — LAS TRES SALAS
+MEIER: Bienvenidos a Ginebra. Soy la doctora Meier, y durante las próximas horas seré lo único que une dos mundos. Les explico el procedimiento. ||| 제네바에 오신 걸 환영합니다. 마이어 박사입니다. 앞으로 몇 시간 동안 저는 두 세계를 잇는 유일한 존재입니다. 절차를 설명드리겠습니다.
+ÁLVARO: Se lo agradecemos, doctora. ||| 감사합니다, 박사님.
+MEIER: Hay tres salas. La sala A, de la delegación española. La sala B, de la delegación de Kandara. Y la sala central, que es la mía y la de los intérpretes. Entre A y B no hay puertas ni ventanas. ||| 방은 세 개입니다. 스페인 대표단의 A실, 칸다라 대표단의 B실, 그리고 저와 통역관들의 중앙실이죠. A와 B 사이에는 문도 창도 없습니다.
+MARINA: Entonces, ¿cómo nos comunicamos? ||| 그럼 어떻게 소통하죠?
+MEIER: Por escrito. Cada propuesta se redacta en su sala, se lleva a la sala central, la leo en voz alta, los intérpretes la traducen, y se la entrego a la otra parte. La respuesta sigue el mismo camino. ||| 서면으로요. 각 제안은 자기 방에서 작성해 중앙실로 가져오고, 제가 소리 내어 읽고, 통역관들이 번역하고, 상대측에 전달합니다. 답변도 같은 경로를 거치고요.
+ÁLVARO: ¿Nadie ve la cara de nadie? ||| 아무도 상대의 얼굴을 보지 않는군요.
+MEIER: Nadie. Quien no ve los gestos solo discute las palabras. Eso dijo la embajadora Sy cuando me propuso este método. ||| 아무도요. 몸짓을 보지 못하는 사람은 말만 따지게 된다. 시 대사가 이 방식을 제안하며 한 말입니다.
+ÁLVARO: Su padre lo decía. ||| 그녀 아버지가 하던 말입니다.
+MEIER: Es una fórmula antigua. Me gusta que los métodos antiguos funcionen. ||| 오래된 방식이죠. 오래된 방법이 통하는 걸 좋아합니다.
+ÁLVARO: ¿Cuánto durará? ||| 얼마나 걸립니까?
+MEIER: El tiempo que haga falta. Tenemos un fin de semana de margen. Después, los vuelos. ||| 필요한 만큼요. 주말 동안은 여유가 있어요. 그 뒤엔 비행편이 있고요.
+CLARA: Doctora Meier, soy Clara Roldán, intérprete de la delegación española. Es un honor trabajar en esta mesa. ||| 마이어 박사님, 스페인 대표단 통역관 클라라 롤단입니다. 이 자리에서 일하게 되어 영광입니다.
+MARIAMA: Mariama Diop, intérprete de Kandara. Encantada. ||| 칸다라 통역관 마리아마 디오프입니다. 반갑습니다.
+MEIER: Señoras, ustedes son las únicas personas que verán ambas salas. Eso significa que también son las únicas con una responsabilidad doble. ||| 두 분은 두 방을 모두 보게 되는 유일한 사람들입니다. 그 말은 이중의 책임을 지는 유일한 사람들이라는 뜻이죠.
+CLARA: Lo tengo presente. ||| 명심하겠습니다.
++ negociación a ciegas = 눈을 가린 협상. 서로의 표정·몸짓 없이 서면과 통역을 통해서만 오가는 방식
++ procedimiento = 절차. 'proceder'(진행하다)에서 온 명사
++ margen = 여유, 여백. 'un fin de semana de margen'은 주말 정도의 여유
++ intérprete / traductor = 통역사(구두) / 번역가(서면). 이 화에서는 구두 통역이 중심이다
++ responsabilidad doble = 이중 책임. 양쪽을 모두 보는 중개자의 위치를 가리킨다
++ lo tengo presente = 명심하고 있다. 'tener presente'는 '염두에 두다'
+
+## 첫 번째 교환 — LA PRIMERA RONDA
+MEIER: Primera comunicación de la delegación de Kandara. La leo en francés y Mariama la traduce. ||| 칸다라 대표단의 첫 번째 통보입니다. 프랑스어로 읽고 마리아마가 번역하겠습니다.
+MARIAMA: «Primero. Kandara reitera que la retención del Virgen de la Barca se ajusta a su legislación. Segundo. Kandara exige una disculpa pública de España. Tercero. Kandara exige el pago de la multa de cuatro millones de euros». ||| '첫째, 칸다라는 비르헨 데 라 바르카호의 억류가 자국 법에 부합함을 재확인한다. 둘째, 칸다라는 스페인의 공개 사과를 요구한다. 셋째, 칸다라는 400만 유로의 벌금 납부를 요구한다'.
+ÁLVARO: ¿Eso es todo? ||| 그게 전부입니까?
+MARIAMA: «Cuarto. Kandara considera que el Anexo Cero está vigente y exige su cumplimiento íntegro, incluidos los pagos atrasados correspondientes al último año». ||| '넷째, 칸다라는 부속서 0이 유효하다고 보며 지난 1년분 미지급금을 포함한 전면 이행을 요구한다'.
+MARINA: Los pagos atrasados. El grifo. ||| 미지급금. 수도꼭지네요.
+ÁLVARO: Lo han dicho abiertamente. Muy poco diplomático. Me gusta. ||| 공개적으로 말했군. 외교적이지 않아. 마음에 들어.
+MEIER: ¿Desean responder? ||| 답하시겠습니까?
+ÁLVARO: Sí. Redactamos. Marina. ||| 네. 작성하죠. 마리나.
+MARINA: «Primero. España reconoce la jurisdicción de Kandara sobre sus aguas. Segundo. España propone sustituir la multa por un Fondo de Tasas Transparentes, bajo supervisión de la Unión Europea. Tercero. España no ofrecerá disculpas públicas por un malentendido cartográfico». ||| '첫째, 스페인은 칸다라가 자국 해역에 대해 갖는 관할권을 인정한다. 둘째, 스페인은 벌금을 대체할 투명 접근료 기금을 유럽연합 감독 아래 설치할 것을 제안한다. 셋째, 스페인은 지도상의 오해에 대해 공개 사과를 하지 않는다'.
+ÁLVARO: Añade: «Cuarto. España no se pronuncia sobre el Anexo Cero». ||| 추가해. '넷째, 스페인은 부속서 0에 대해 입장을 밝히지 않는다'.
+MARINA: ¿Seguro? Es una concesión. ||| 확실해요? 양보인데요.
+ÁLVARO: Es una pausa. Quiero ver cómo reaccionan cuando no les damos la discusión que esperan. ||| 휴지(休止)야. 그들이 기대한 논쟁을 주지 않을 때 어떻게 반응하는지 보고 싶어.
+MEIER: Recibido. Clara, lea a la otra parte. ||| 접수했습니다. 클라라, 상대측에 읽어 주세요.
+CLARA: «Premièrement, l'Espagne reconnaît la juridiction du Kandara sur ses eaux...» ||| '첫째, 스페인은 칸다라가 자국 해역에 대해 갖는 관할권을 인정한다…'
+MEIER: Respuesta de la delegación de Kandara. Mariama. ||| 칸다라 대표단의 답변입니다. 마리아마.
+MARIAMA: «Kandara rechaza el Fondo de Tasas Transparentes. Se trata de una injerencia en los asuntos soberanos de Kandara. Kandara reitera que el Anexo Cero es un acuerdo bilateral que no admite terceros». ||| '칸다라는 투명 접근료 기금을 거부한다. 이는 칸다라의 주권 사항에 대한 간섭이다. 칸다라는 부속서 0이 제3자를 허용하지 않는 양자 합의임을 재확인한다'.
+ÁLVARO: «Terceros». Se refieren a Bruselas. ||| '제3자'. 브뤼셀을 말하는 거야.
+MARINA: ¿Y ahora? ||| 이제 어떡해요?
+ÁLVARO: Ahora necesitamos un argumento que no sea nuestro. Algo que venga de una historia compartida. ||| 이제 우리 것이 아닌 논거가 필요해. 공유된 역사에서 나온 무언가.
+MARINA: ¿De la historia de Kandara? ||| 칸다라의 역사요?
+ÁLVARO: De la mía. Y de la de ellos, porque la historia europea se escribió con tinta de todos. Escribe: «Doctora Meier, ¿permite una nota histórica?» ||| 내 역사요. 그리고 그들의 역사이기도 하고요. 유럽 역사는 모두의 잉크로 쓰였으니까. 써 줘. '마이어 박사님, 역사적 참고를 하나 덧붙여도 되겠습니까?'
+MEIER: Se permite. Con brevedad. ||| 허용합니다. 간략하게요.
+ÁLVARO: «En mil seiscientos cincuenta y nueve, España y Francia pusieron fin a veinticuatro años de guerra. El lugar de la negociación fue una isla en el río Bidasoa que no pertenecía a nadie: la isla de los Faisanes. Los dos plenipotenciarios, don Luis de Haro y el cardenal Mazarino, negociaron durante tres meses, en veinticuatro sesiones, sobre territorio neutral». ||| '1659년에 스페인과 프랑스는 24년 전쟁을 끝냈다. 협상 장소는 비다소아강의 누구의 것도 아닌 섬, 꿩의 섬이었다. 두 전권대사 루이스 데 아로와 마자랭 추기경은 중립 지대에서 석 달 동안 24차례 회담했다'.
+MEIER: Una nota ilustrativa. ¿Adónde conduce? ||| 예시로군요. 어디로 이어집니까?
+ÁLVARO: «La neutralidad del lugar permitió que ninguna parte pareciera ceder ante la otra. Lo que se firmó fue una paz, no una victoria. Proponemos que el Fondo de Tasas Transparentes no sea una injerencia, sino un territorio neutral: una cuenta que no pertenece ni a España, ni a la Unión Europea, ni a una persona, sino al Tesoro de Kandara y a sus ciudadanos». ||| '장소의 중립성 덕분에 어느 쪽도 상대에게 양보한 것처럼 보이지 않았다. 서명된 것은 승리가 아니라 평화였다. 우리는 투명 접근료 기금이 간섭이 아니라 중립 지대이기를 제안한다. 스페인의 것도, 유럽연합의 것도, 한 개인의 것도 아닌, 칸다라 국고와 그 국민의 계좌로서'.
+MEIER: Clara, ¿puede traducir? ||| 클라라, 번역해 주시겠습니까?
+CLARA: Sí. Para Mariama, en francés. Un momento. ||| 네. 마리아마를 위해 프랑스어로요. 잠시만요.
++ jurisdicción = 관할권. 국가가 특정 영토·사안에 법적 권한을 행사하는 범위
++ pago atrasado = 미지급금. 'atrasado'는 '늦어진, 밀린'
++ injerencia = 간섭. 'injerencia en los asuntos soberanos'는 주권 사항에 대한 개입
++ plenipotenciario = 전권대사. 조약 체결 전권을 위임받은 대표
++ Tratado de los Pirineos (1659) = 스페인과 프랑스가 24년 전쟁을 끝낸 조약. 협상은 국경의 꿩의 섬에서 24회 회담으로 이루어졌다. 중립지가 양측의 체면을 지켜 준 선례로 이 화의 논거가 된다
++ ni... ni... ni... = 세 개의 부정을 나열하는 병렬 구문. 기금의 중립성을 강조한다

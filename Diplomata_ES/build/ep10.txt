@@ -1,0 +1,236 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 10
+@title Ginebra a ciegas
+@ko 제네바 맹인 협상
+@setting 13일 뒤 제네바 레만 호숫가 빌라의 세 개의 방 → 휴식 시간 통역 대기실 → 밤 호텔 바
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast MEIER | 스위스 중재관, 59세
+@cast CLARA | 스페인 측 통역관, 34세
+@cast MARIAMA | 칸다라 측 통역관, 28세
+@cast AMINATA | 칸다라 주스페인 대사, 칸다라 대표단 소속
+@cast BERNI | 은퇴 대사, 전화 연결
+@note 이 화의 형식은 '맹인 협상(negociación a ciegas)'입니다. 양측은 서로 다른 방에서 문서만 주고받습니다. 협상이 막히는 지점마다 역사 사례(피레네 조약 협상, 지참금 조항)가 논거로 쓰이고, 마지막에는 통역사의 한마디가 해법을 엽니다. 통역·번역 어휘(interpretar, traducir, matiz, fidelidad)에 주목하세요.
+@next 1부 11화 — «La cláusula cero»(영 조항) — 제네바 은행의 대여금고. 아미나타의 아버지가 남긴 서류철 속에서 프랑스어 원문이 나온다. 한 줄의 문장이 28년의 침묵을 풀 열쇠인지, 새로운 덫인지를 알바로는 읽어낸다.
+
+## 세 개의 방 — LAS TRES SALAS
+MEIER: Bienvenidos a Ginebra. Soy la doctora Meier, y durante las próximas horas seré lo único que une dos mundos. Les explico el procedimiento. ||| 제네바에 오신 걸 환영합니다. 마이어 박사입니다. 앞으로 몇 시간 동안 저는 두 세계를 잇는 유일한 존재입니다. 절차를 설명드리겠습니다.
+ÁLVARO: Se lo agradecemos, doctora. ||| 감사합니다, 박사님.
+MEIER: Hay tres salas. La sala A, de la delegación española. La sala B, de la delegación de Kandara. Y la sala central, que es la mía y la de los intérpretes. Entre A y B no hay puertas ni ventanas. ||| 방은 세 개입니다. 스페인 대표단의 A실, 칸다라 대표단의 B실, 그리고 저와 통역관들의 중앙실이죠. A와 B 사이에는 문도 창도 없습니다.
+MARINA: Entonces, ¿cómo nos comunicamos? ||| 그럼 어떻게 소통하죠?
+MEIER: Por escrito. Cada propuesta se redacta en su sala, se lleva a la sala central, la leo en voz alta, los intérpretes la traducen, y se la entrego a la otra parte. La respuesta sigue el mismo camino. ||| 서면으로요. 각 제안은 자기 방에서 작성해 중앙실로 가져오고, 제가 소리 내어 읽고, 통역관들이 번역하고, 상대측에 전달합니다. 답변도 같은 경로를 거치고요.
+ÁLVARO: ¿Nadie ve la cara de nadie? ||| 아무도 상대의 얼굴을 보지 않는군요.
+MEIER: Nadie. Quien no ve los gestos solo discute las palabras. Eso dijo la embajadora Sy cuando me propuso este método. ||| 아무도요. 몸짓을 보지 못하는 사람은 말만 따지게 된다. 시 대사가 이 방식을 제안하며 한 말입니다.
+ÁLVARO: Su padre lo decía. ||| 그녀 아버지가 하던 말입니다.
+MEIER: Es una fórmula antigua. Me gusta que los métodos antiguos funcionen. ||| 오래된 방식이죠. 오래된 방법이 통하는 걸 좋아합니다.
+ÁLVARO: ¿Cuánto durará? ||| 얼마나 걸립니까?
+MEIER: El tiempo que haga falta. Tenemos un fin de semana de margen. Después, los vuelos. ||| 필요한 만큼요. 주말 동안은 여유가 있어요. 그 뒤엔 비행편이 있고요.
+CLARA: Doctora Meier, soy Clara Roldán, intérprete de la delegación española. Es un honor trabajar en esta mesa. ||| 마이어 박사님, 스페인 대표단 통역관 클라라 롤단입니다. 이 자리에서 일하게 되어 영광입니다.
+MARIAMA: Mariama Diop, intérprete de Kandara. Encantada. ||| 칸다라 통역관 마리아마 디오프입니다. 반갑습니다.
+MEIER: Señoras, ustedes son las únicas personas que verán ambas salas. Eso significa que también son las únicas con una responsabilidad doble. ||| 두 분은 두 방을 모두 보게 되는 유일한 사람들입니다. 그 말은 이중의 책임을 지는 유일한 사람들이라는 뜻이죠.
+CLARA: Lo tengo presente. ||| 명심하겠습니다.
++ negociación a ciegas = 눈을 가린 협상. 서로의 표정·몸짓 없이 서면과 통역을 통해서만 오가는 방식
++ procedimiento = 절차. 'proceder'(진행하다)에서 온 명사
++ margen = 여유, 여백. 'un fin de semana de margen'은 주말 정도의 여유
++ intérprete / traductor = 통역사(구두) / 번역가(서면). 이 화에서는 구두 통역이 중심이다
++ responsabilidad doble = 이중 책임. 양쪽을 모두 보는 중개자의 위치를 가리킨다
++ lo tengo presente = 명심하고 있다. 'tener presente'는 '염두에 두다'
+
+## 첫 번째 교환 — LA PRIMERA RONDA
+MEIER: Primera comunicación de la delegación de Kandara. La leo en francés y Mariama la traduce. ||| 칸다라 대표단의 첫 번째 통보입니다. 프랑스어로 읽고 마리아마가 번역하겠습니다.
+MARIAMA: «Primero. Kandara reitera que la retención del Virgen de la Barca se ajusta a su legislación. Segundo. Kandara exige una disculpa pública de España. Tercero. Kandara exige el pago de la multa de cuatro millones de euros». ||| '첫째, 칸다라는 비르헨 데 라 바르카호의 억류가 자국 법에 부합함을 재확인한다. 둘째, 칸다라는 스페인의 공개 사과를 요구한다. 셋째, 칸다라는 400만 유로의 벌금 납부를 요구한다'.
+ÁLVARO: ¿Eso es todo? ||| 그게 전부입니까?
+MARIAMA: «Cuarto. Kandara considera que el Anexo Cero está vigente y exige su cumplimiento íntegro, incluidos los pagos atrasados correspondientes al último año». ||| '넷째, 칸다라는 부속서 0이 유효하다고 보며 지난 1년분 미지급금을 포함한 전면 이행을 요구한다'.
+MARINA: Los pagos atrasados. El grifo. ||| 미지급금. 수도꼭지네요.
+ÁLVARO: Lo han dicho abiertamente. Muy poco diplomático. Me gusta. ||| 공개적으로 말했군. 외교적이지 않아. 마음에 들어.
+MEIER: ¿Desean responder? ||| 답하시겠습니까?
+ÁLVARO: Sí. Redactamos. Marina. ||| 네. 작성하죠. 마리나.
+MARINA: «Primero. España reconoce la jurisdicción de Kandara sobre sus aguas. Segundo. España propone sustituir la multa por un Fondo de Tasas Transparentes, bajo supervisión de la Unión Europea. Tercero. España no ofrecerá disculpas públicas por un malentendido cartográfico». ||| '첫째, 스페인은 칸다라가 자국 해역에 대해 갖는 관할권을 인정한다. 둘째, 스페인은 벌금을 대체할 투명 접근료 기금을 유럽연합 감독 아래 설치할 것을 제안한다. 셋째, 스페인은 지도상의 오해에 대해 공개 사과를 하지 않는다'.
+ÁLVARO: Añade: «Cuarto. España no se pronuncia sobre el Anexo Cero». ||| 추가해. '넷째, 스페인은 부속서 0에 대해 입장을 밝히지 않는다'.
+MARINA: ¿Seguro? Es una concesión. ||| 확실해요? 양보인데요.
+ÁLVARO: Es una pausa. Quiero ver cómo reaccionan cuando no les damos la discusión que esperan. ||| 휴지(休止)야. 그들이 기대한 논쟁을 주지 않을 때 어떻게 반응하는지 보고 싶어.
+MEIER: Recibido. Clara, lea a la otra parte. ||| 접수했습니다. 클라라, 상대측에 읽어 주세요.
+CLARA: «Premièrement, l'Espagne reconnaît la juridiction du Kandara sur ses eaux...» ||| '첫째, 스페인은 칸다라가 자국 해역에 대해 갖는 관할권을 인정한다…'
+MEIER: Respuesta de la delegación de Kandara. Mariama. ||| 칸다라 대표단의 답변입니다. 마리아마.
+MARIAMA: «Kandara rechaza el Fondo de Tasas Transparentes. Se trata de una injerencia en los asuntos soberanos de Kandara. Kandara reitera que el Anexo Cero es un acuerdo bilateral que no admite terceros». ||| '칸다라는 투명 접근료 기금을 거부한다. 이는 칸다라의 주권 사항에 대한 간섭이다. 칸다라는 부속서 0이 제3자를 허용하지 않는 양자 합의임을 재확인한다'.
+ÁLVARO: «Terceros». Se refieren a Bruselas. ||| '제3자'. 브뤼셀을 말하는 거야.
+MARINA: ¿Y ahora? ||| 이제 어떡해요?
+ÁLVARO: Ahora necesitamos un argumento que no sea nuestro. Algo que venga de una historia compartida. ||| 이제 우리 것이 아닌 논거가 필요해. 공유된 역사에서 나온 무언가.
+MARINA: ¿De la historia de Kandara? ||| 칸다라의 역사요?
+ÁLVARO: De la mía. Y de la de ellos, porque la historia europea se escribió con tinta de todos. Escribe: «Doctora Meier, ¿permite una nota histórica?» ||| 내 역사요. 그리고 그들의 역사이기도 하고요. 유럽 역사는 모두의 잉크로 쓰였으니까. 써 줘. '마이어 박사님, 역사적 참고를 하나 덧붙여도 되겠습니까?'
+MEIER: Se permite. Con brevedad. ||| 허용합니다. 간략하게요.
+ÁLVARO: «En mil seiscientos cincuenta y nueve, España y Francia pusieron fin a veinticuatro años de guerra. El lugar de la negociación fue una isla en el río Bidasoa que no pertenecía a nadie: la isla de los Faisanes. Los dos plenipotenciarios, don Luis de Haro y el cardenal Mazarino, negociaron durante tres meses, en veinticuatro sesiones, sobre territorio neutral». ||| '1659년에 스페인과 프랑스는 24년 전쟁을 끝냈다. 협상 장소는 비다소아강의 누구의 것도 아닌 섬, 꿩의 섬이었다. 두 전권대사 루이스 데 아로와 마자랭 추기경은 중립 지대에서 석 달 동안 24차례 회담했다'.
+MEIER: Una nota ilustrativa. ¿Adónde conduce? ||| 예시로군요. 어디로 이어집니까?
+ÁLVARO: «La neutralidad del lugar permitió que ninguna parte pareciera ceder ante la otra. Lo que se firmó fue una paz, no una victoria. Proponemos que el Fondo de Tasas Transparentes no sea una injerencia, sino un territorio neutral: una cuenta que no pertenece ni a España, ni a la Unión Europea, ni a una persona, sino al Tesoro de Kandara y a sus ciudadanos». ||| '장소의 중립성 덕분에 어느 쪽도 상대에게 양보한 것처럼 보이지 않았다. 서명된 것은 승리가 아니라 평화였다. 우리는 투명 접근료 기금이 간섭이 아니라 중립 지대이기를 제안한다. 스페인의 것도, 유럽연합의 것도, 한 개인의 것도 아닌, 칸다라 국고와 그 국민의 계좌로서'.
+MEIER: Clara, ¿puede traducir? ||| 클라라, 번역해 주시겠습니까?
+CLARA: Sí. Para Mariama, en francés. Un momento. ||| 네. 마리아마를 위해 프랑스어로요. 잠시만요.
++ jurisdicción = 관할권. 국가가 특정 영토·사안에 법적 권한을 행사하는 범위
++ pago atrasado = 미지급금. 'atrasado'는 '늦어진, 밀린'
++ injerencia = 간섭. 'injerencia en los asuntos soberanos'는 주권 사항에 대한 개입
++ plenipotenciario = 전권대사. 조약 체결 전권을 위임받은 대표
++ Tratado de los Pirineos (1659) = 스페인과 프랑스가 24년 전쟁을 끝낸 조약. 협상은 국경의 꿩의 섬에서 24회 회담으로 이루어졌다. 중립지가 양측의 체면을 지켜 준 선례로 이 화의 논거가 된다
++ ni... ni... ni... = 세 개의 부정을 나열하는 병렬 구문. 기금의 중립성을 강조한다
+## 두 번째 교환 — LA SEGUNDA RONDA
+MEIER: Respuesta de la delegación de Kandara. Mariama. ||| 칸다라 대표단의 답변입니다. 마리아마.
+MARIAMA: «La delegación de Kandara agradece la nota histórica. Y la completa. El tratado de los Pirineos incluía el matrimonio de la infanta María Teresa con Luis XIV, con una dote de quinientos mil escudos de oro. España no la pagó. Y Francia hizo la guerra de Devolución». ||| '칸다라 대표단은 역사적 참고에 감사한다. 그리고 이를 보충한다. 피레네 조약에는 왕녀 마리아 테레사와 루이 14세의 혼인이 포함되었고, 금화 오십만 에스쿠도의 지참금이 있었다. 스페인은 이를 지불하지 않았다. 그리고 프랑스는 왕위계승전쟁을 일으켰다'.
+MARINA: Conocen la historia mejor de lo que pensaba. ||| 제가 생각한 것보다 역사를 잘 아네요.
+ÁLVARO: No me sorprende. Fue un general muy leído quien escribió eso. ||| 놀랍지 않아. 책을 많이 읽은 장군이 쓴 거야.
+MARIAMA: «Conclusión. Las deudas en los tratados no desaparecen. Las deudas de España con Kandara, tampoco». ||| '결론. 조약 속의 빚은 사라지지 않는다. 스페인이 칸다라에 진 빚도 마찬가지다'.
+ÁLVARO: Bien jugado. Escribe, Marina. ||| 잘 두었군. 써 줘, 마리나.
+MARINA: Dígame. ||| 불러 주세요.
+ÁLVARO: «España acepta el principio de la nota kandareña. Una deuda en un tratado puede ser causa de guerra. Por eso debe ser clara, finita y pública». ||| '스페인은 칸다라 측 참고의 원칙을 받아들인다. 조약 속의 빚은 전쟁의 원인이 될 수 있다. 그러므로 빚은 분명하고 유한하며 공개되어야 한다'.
+MARINA: «Clara, finita y pública». ||| '분명하고 유한하며 공개'.
+ÁLVARO: «La dote de María Teresa fue una deuda clandestina: nadie sabía cuánto, cuándo ni a quién. Eso fue lo que la hizo peligrosa. Proponemos que los pagos atrasados de este último año, si existen, se ingresen en la cuenta única del Tesoro de Kandara, con la cifra publicada». ||| '마리아 테레사의 지참금은 은밀한 빚이었다. 아무도 얼마인지, 언제인지, 누구에게인지 몰랐다. 그것이 그 빚을 위험하게 만들었다. 우리는 지난 1년분 미지급금이 있다면 칸다라 국고 단일 계좌에 입금하고 금액을 공개할 것을 제안한다'.
+MARINA: ¿Estamos ofreciendo pagar? ||| 우리가 지불하겠다는 건가요?
+ÁLVARO: Estamos ofreciendo pagar donde se vea. Una deuda pública de un año no es un soborno. Es una tasa. ||| 눈에 보이는 곳에 지불하겠다는 거야. 1년치 공개 채무는 뇌물이 아니라 요금이야.
+MARINA: Y el general no cobra. ||| 그리고 장군은 받지 못하고요.
+ÁLVARO: El general no cobra. Que lo diga él. ||| 장군은 받지 못해. 그가 직접 말하게 하자.
+MEIER: Recibido. Clara, léalo. ||| 접수했습니다. 클라라, 읽어 주세요.
+CLARA: «Une dette dans un traité peut être cause de guerre. C'est pourquoi elle doit être claire, finie et publique». ||| '조약 속의 빚은 전쟁의 원인이 될 수 있다. 그러므로 빚은 분명하고 유한하며 공개되어야 한다'.
+MEIER: Respuesta de Kandara. Mariama. ||| 칸다라의 답변입니다. 마리아마.
+MARIAMA: «La delegación de Kandara no puede aceptar una cuenta pública mientras el Anexo Cero permanezca vigente y confidencial. Cualquier pago publicado violaría el anexo. Y el que lo viole, responderá». ||| '칸다라 대표단은 부속서 0이 유효하고 비공개로 남아 있는 동안은 공개 계좌를 받아들일 수 없다. 공개된 어떤 지불도 부속서를 위반하게 된다. 그리고 위반하는 자는 책임을 진다'.
+MARINA: «Responderá». La cláusula final. ||| '책임을 진다'. 마지막 조항이네요.
+ÁLVARO: Esa palabra me dice que ellos creen en la misma versión que nosotros. O quieren que creamos que creen. ||| 그 단어는 그들이 우리와 같은 판본을 믿고 있다는 뜻이야. 아니면 우리가 그렇게 믿기를 바라거나.
+MARINA: ¿Qué hacemos? ||| 어떻게 해요?
+ÁLVARO: Pedimos un receso. Tengo que pensar y necesito aire. ||| 휴회를 요청해. 생각해야 하고 바람을 쐬어야겠어.
+MEIER: Se concede una pausa de cuarenta minutos. ||| 40분 휴회를 허락합니다.
++ guerra de Devolución (1667–68) = 루이 14세가 마리아 테레사의 지참금 미지급을 구실로 스페인령 네덜란드를 공격한 전쟁. 계약 속 빚이 전쟁의 구실이 된 역사 사례를 칸다라 측이 반격 논거로 쓴다
++ deuda clandestina = 은밀한 빚. 'clara, finita y pública'와 대비되는 표현
++ tasa / soborno = 요금(수수료) / 뇌물. 같은 돈이 공개 여부에 따라 성격이 달라진다는 이 화의 요지
++ permanezca = 접속법 현재. 'mientras + 접속법'은 미래·가정적 지속을 나타낸다
++ conceder una pausa = 휴회를 허락하다. 회의 용어
++ receso = 휴회. 중남미에서 흔한 표현이며 스페인에서는 'pausa'가 더 자연스럽다
+
+## 통역 대기실 — LA SALA DE LOS INTÉRPRETES
+CLARA: ¿Tienes un minuto? ||| 잠깐 시간 있어요?
+MARIAMA: Claro. Pero aquí no podemos hablar de la negociación. ||| 물론요. 하지만 여기서는 협상 이야기를 할 수 없어요.
+CLARA: No es de la negociación. Es una duda de traducción. ||| 협상 이야기가 아니에요. 번역 관련 의문이에요.
+MARIAMA: Dime. ||| 말해 봐요.
+CLARA: He preparado un glosario para esta sesión. «Divulgar». Cuando el francés dice «divulguer», ¿tú lo traduces siempre como «divulgar»? ||| 이번 회의를 위해 용어집을 만들었어요. '공개하다'. 프랑스어로 'divulguer'라고 하면 항상 '공개하다'로 번역해요?
+MARIAMA: Casi siempre. A veces «difundir», según el contexto. ||| 거의 항상요. 문맥에 따라 '퍼뜨리다'일 때도 있고요.
+CLARA: ¿Y la construcción «el que divulgue, responderá por los daños»? ¿Tiene un equivalente exacto en francés? ||| 그럼 '공개하는 자는 손해에 대해 책임을 진다'는 구문은 프랑스어에 정확한 대응이 있나요?
+MARIAMA: «Celui qui divulgue répond des dommages». Es correcto. Aunque ese no es el caso del... ||| '셀뤼 키 디뷜그 레퐁 데 도마주'. 맞아요. 하지만 그건 해당되지 않는…
+CLARA: ¿Del qué? ||| 뭐가요?
+MARIAMA: Nada. Es que en nuestro texto la construcción es diferente. No es «répond». Es «libère». ||| 아무것도요. 우리 텍스트에서는 구문이 다르다는 얘기예요. '레퐁'이 아니라 '리베르'예요.
+CLARA: ¿«Libère»? ||| '리베르'요?
+MARIAMA: Quiero decir... No he dicho nada. Olvida lo que he dicho. ||| 그러니까… 아무 말도 안 했어요. 제가 한 말은 잊어요.
+CLARA: Mariama. Respira. No voy a usar nada contra ti. ||| 마리아마. 숨 쉬어요. 당신에게 불리하게 쓰지 않을게요.
+MARIAMA: Soy intérprete. Mi trabajo es no decir nada de lo que oigo. ||| 저는 통역관이에요. 제 일은 듣는 걸 하나도 말하지 않는 거죠.
+CLARA: Lo sé. Es el mío también. Pero hay una cosa que me preocupa. ||| 알아요. 제 일이기도 하고요. 하지만 걱정되는 게 하나 있어요.
+MARIAMA: ¿Qué cosa? ||| 뭔데요?
+CLARA: Que la delegación española tiene una traducción de esa cláusula que dice «responderá por los daños». Y tú acabas de decir que el original dice «libère». ||| 스페인 대표단이 가진 번역본에는 '손해에 책임을 진다'고 돼 있어요. 그런데 당신은 방금 원문에 '리베르'라고 돼 있다고 말했어요.
+MARIAMA: No he dicho eso. ||| 그렇게 말하지 않았어요.
+CLARA: Has dicho que en vuestro texto es «libère». Y me has dado a entender que significa algo muy distinto. ||| 당신들 텍스트에는 '리베르'라고 돼 있다고 했죠. 그리고 뜻이 아주 다르다는 걸 암시했고요.
+MARIAMA: «Libère» significa «libera». «Celui qui divulgue libère l'autre». Quien divulga libera al otro. Eso dice, y yo no debería haberlo dicho. ||| '리베르'는 '풀어 준다'는 뜻이에요. '공개하는 자는 상대를 풀어 준다'. 그렇게 쓰여 있어요, 그리고 제가 말하면 안 됐어요.
+CLARA: «Quien divulga libera al otro». Es decir, si una de las partes habla, la otra queda libre de la obligación. ||| '공개하는 자는 상대를 풀어 준다.' 그러니까 한쪽이 말하면 다른 쪽은 의무에서 풀려나는 거네요.
+MARIAMA: Sí. Es una cláusula pensada para que ninguna parte quisiera ser la primera. ||| 네. 어느 쪽도 먼저 말하고 싶지 않게 만들려고 설계된 조항이에요.
+CLARA: Mariama, ¿tu delegación sabe que la española no conoce el original? ||| 마리아마, 당신 대표단은 스페인 쪽이 원문을 모른다는 걸 알아요?
+MARIAMA: El general lo sabe. Siempre lo supo. Él dice que les conviene que sigan creyendo la otra versión. ||| 장군은 알아요. 늘 알고 있었죠. 그쪽이 다른 판본을 계속 믿는 게 이득이라고 해요.
+CLARA: ¿Y el presidente? ||| 대통령은요?
+MARIAMA: No creo que lo sepa. Se enteró hace poco de que existía el cero. Está furioso. ||| 모를 거예요. 영이 있다는 건 얼마 전에 알았어요. 몹시 화가 나 있어요.
+CLARA: Mariama. Tengo que contarle esto al jefe de mi delegación. ||| 마리아마. 이걸 우리 대표단장에게 말해야겠어요.
+MARIAMA: No. Por favor. ||| 안 돼요. 제발요.
+CLARA: Escucha. Un intérprete tiene un deber más fuerte que el secreto: no permitir que dos partes firmen algo que una de ellas no entiende. Eso no es un secreto. Es una trampa. ||| 들어 봐요. 통역관에게는 비밀보다 강한 의무가 있어요. 두 당사자가 서명하려는 것을 한쪽이 이해하지 못한 채 두지 않는 것. 그건 비밀이 아니라 함정이에요.
+MARIAMA: Si me despiden... ||| 해고되면…
+CLARA: No dirá que lo has dicho tú. Dirá que lo ha deducido. Te lo juro. ||| 당신이 말했다고는 안 할 거예요. 추론했다고 하겠죠. 맹세해요.
+MARIAMA: ... Hazlo. Pero antes, déjame salir de la sala. No quiero estar aquí cuando lo hagas. ||| …하세요. 하지만 그 전에 제가 방을 나가게 해 줘요. 당신이 말할 때 여기 있고 싶지 않아요.
++ glosario = 용어집. 통역사가 회의 전에 준비하는 핵심 어휘 목록
++ dar a entender = 암시하다. 'me has dado a entender'는 직접 말하지 않고 알려 줬다는 뜻
++ libère = 프랑스어 'libérer'(풀어 주다)의 3인칭 현재. 4·9화의 단서와 맞닿는 11화 해법의 열쇠
++ divulgar / difundir = 공개하다 / 퍼뜨리다. 의미 폭이 다른 두 동사의 선택은 번역의 핵심
++ deber más fuerte que el secreto = 비밀보다 강한 의무. 통역 윤리에서 비밀 유지와 정직성의 충돌
++ no dirá que lo has dicho tú. Dirá que lo ha deducido = 간접화법의 시제 일치. '(그는) 추론했다고 말할 것이다'
+
+## 알바로의 방 — LA SALA A
+CLARA: Señor Quintana, necesito hablar con usted un momento. ||| 킨타나 씨, 잠깐 말씀드려야 합니다.
+ÁLVARO: Pase, Clara. Marina, déjanos solos. ||| 들어와요, 클라라. 마리나, 우리끼리 있게 해 줘.
+CLARA: No debería contárselo. Pero un intérprete tiene un deber más fuerte que el secreto. ||| 말씀드리면 안 되지만, 통역관에게는 비밀보다 강한 의무가 있습니다.
+ÁLVARO: Le escucho. ||| 듣고 있습니다.
+CLARA: La traducción de la cláusula final que ustedes manejan dice: «quien divulgue responderá por los daños». El texto francés, en cambio, dice: «celui qui divulgue libère l'autre». ||| 여러분이 쓰는 마지막 조항 번역은 '공개하는 자는 손해에 책임을 진다'입니다. 반면 프랑스어 텍스트는 '공개하는 자는 상대를 풀어 준다'라고 돼 있어요.
+ÁLVARO: ¿Cómo lo sabe? ||| 어떻게 아십니까?
+CLARA: Lo deduje. A partir de un matiz de vocabulario que no puedo precisar. ||| 추론했습니다. 정확히 밝힐 수 없는 어휘의 뉘앙스에서요.
+ÁLVARO: Entendido. «Libère». La palabra que apuntó Fermín Cuesta hace veintiocho años. ||| 알겠습니다. '리베르'. 페르민 쿠에스타가 28년 전에 적어 둔 단어죠.
+CLARA: ¿Perdón? ||| 네?
+ÁLVARO: Nada. Una vieja duda de un colega suyo. ¿Está usted segura? ||| 아닙니다. 선배 통역관의 오래된 의문이에요. 확신하십니까?
+CLARA: Al noventa y cinco por ciento. Y con ese cinco restante, lo único que me falta es verlo escrito. ||| 95퍼센트요. 나머지 5퍼센트는 글로 쓰인 걸 보는 것뿐입니다.
+ÁLVARO: Clara, ha hecho lo correcto. ||| 클라라, 옳은 일을 하셨습니다.
+CLARA: Eso espero. Porque si me equivoco, he mandado a mi colega a la calle. ||| 그러길 바랍니다. 틀렸다면 동료를 거리로 내몰았으니까요.
+ÁLVARO: No se equivoca. Y a su colega, pase lo que pase, la protegeré yo. ||| 틀리지 않으셨습니다. 그리고 그 동료는 무슨 일이 있어도 제가 보호하겠습니다.
+CLARA: ¿Cómo? ||| 어떻게요?
+ÁLVARO: No lo sé todavía. Pero en esta semana me han pedido que proteja a tanta gente que ya soy un especialista en prometer. ||| 아직 모릅니다. 하지만 이번 주에는 너무 많은 사람을 보호해 달라는 부탁을 받아서 약속하는 일에 전문가가 됐어요.
++ matiz = 뉘앙스. 'un matiz de vocabulario'는 단어의 미묘한 의미 차이
++ lo deduje = 추론했다. 직접 들었다고 말하지 않기 위한 완곡한 방어
++ no puedo precisar = 정확히 밝힐 수 없다. 'precisar'는 '명확히 하다'
++ al noventa y cinco por ciento = 95퍼센트. 'por ciento'는 비율
++ pase lo que pase = 무슨 일이 있어도. 'pase lo que pase'는 접속법 현재의 양보문
++ especialista en + 동명사 = ~에 전문가. 여기서는 'prometer'가 명사처럼 쓰였다
+## 베르니의 전화 — LA LLAMADA DE BERNI
+BERNI: Dime que estás vivo. En Ginebra se muere uno de aburrimiento. ||| 살아 있다고 말해 주게. 제네바에서는 지루해서 죽을 수도 있으니.
+ÁLVARO: Estoy vivo y tengo una pista. La cláusula final no dice lo que creíamos. Dice «libère»: quien divulga libera al otro. ||| 살아 있고 단서가 있습니다. 마지막 조항은 우리가 믿던 내용이 아닙니다. '리베르'라고 돼 있어요. 공개하는 자가 상대를 풀어 준다고요.
+BERNI: ¿Estás seguro? ||| 확실한가?
+ÁLVARO: Una intérprete me lo ha dicho. Lo dedujo, dijo. Una frase suelta. ||| 통역관이 말해 줬습니다. 추론했다고 했어요. 흘린 한마디로요.
+BERNI: Entonces, Valdés lleva veintiocho años obedeciendo una cláusula que, al revés, la libera. ||| 그럼 발데스는 28년 동안 오히려 자신을 풀어 주는 조항에 복종해 왔다는 거군.
+ÁLVARO: Y Kandara lo sabe. El general lo sabe. Le conviene que callemos. ||| 그리고 칸다라는 압니다. 장군은 알아요. 우리가 입을 다무는 게 그에게 이득이니까요.
+BERNI: Qué elegante es el mal cuando tiene buena letra. ||| 악도 글씨가 좋으면 우아하군.
+ÁLVARO: ¿Qué hago? Necesito el texto francés. Una intérprete me ha dicho 95 por ciento. Quiero cien. ||| 어떻게 합니까? 프랑스어 원문이 필요합니다. 통역관은 95퍼센트라고 했어요. 저는 100을 원합니다.
+BERNI: La embajadora. Su padre. Su marido te lo insinuó. ||| 대사. 그녀의 아버지. 남편이 암시했다고 했지.
+ÁLVARO: Lo sé. Pero tengo miedo de pedírselo. Si me da el original, Kandara se enterará de que ella me lo dio. ||| 압니다. 하지만 부탁하기가 두렵습니다. 원문을 주면 칸다라는 그녀가 줬다는 걸 알게 될 테니까요.
+BERNI: Hijo, escucha. Hay un precedente español para esto. Mil cuatrocientos doce. El Compromiso de Caspe. ||| 이 사람아, 들어 보게. 이런 일에 스페인의 선례가 있네. 1412년. 카스페 합의.
+ÁLVARO: Sucesión de la Corona de Aragón. Dos años de interregno. ||| 아라곤 왕위 계승이죠. 2년간의 공위 기간.
+BERNI: Cuando nadie podía decidir sin que la decisión pareciera un acto de parte, se nombró a nueve compromisarios, tres de cada reino, para decidir en nombre de todos. ||| 누구도 자기편이라는 의심 없이는 결정할 수 없던 때에, 각 왕국에서 세 명씩 아홉 명의 위원을 지명해 모두의 이름으로 결정하게 했지.
+ÁLVARO: Una comisión independiente. ||| 독립 위원회군요.
+BERNI: Tú no puedes imponer la verdad del cero. Pero puedes poner el cero en manos de quien nadie pueda acusar. No decidas tú, hijo. Nombra jueces. ||| 자네가 영의 진실을 강요할 순 없어. 하지만 아무도 비난할 수 없는 사람의 손에 영을 쥐여 줄 수는 있지. 자네가 결정하지 말게, 이 사람아. 심판을 세우게.
+ÁLVARO: Ya lo pensaré. Ahora debo ir a ver a una embajadora. ||| 생각해 보겠습니다. 지금은 대사를 만나러 가야 해요.
+BERNI: Llévale algo. Un hombre que pide un secreto a una mujer debe llevar algo de valor. ||| 뭔가 가져가게. 여자에게 비밀을 청하는 남자는 값나가는 걸 가져가야 하는 법이야.
+ÁLVARO: ¿Qué le llevo? ||| 뭘 가져갈까요?
+BERNI: La verdad. Entera. Sin adornos. Es lo único que no se devalúa. ||| 진실. 온전한 걸로. 꾸밈 없이. 값이 떨어지지 않는 유일한 거니까.
++ Compromiso de Caspe (1412) = 아라곤 왕위 공위 기간에 아라곤·발렌시아·카탈루냐 대표 아홉 명이 모여 새 왕(페르난도 데 안테케라)을 정한 합의. 이해당사자가 아닌 독립 위원에게 판단을 맡긴 역사 사례로, 11화의 '독립 위원회' 해법의 논거가 된다
++ compromisarios = 합의 위원(중재 위임을 받은 사람들). 오늘날 법률 용어로는 '중재인'과 가깝다
++ cuando nadie podía... se nombró = 직설법 불완전과거(상태)와 단순과거(사건)의 대비
++ qué elegante es el mal cuando tiene buena letra = 감탄문 'qué + 형용사/명사 + es'. '글씨가 좋다'는 문서의 형식미를 가리킨다
++ no se devalúa = 가치가 떨어지지 않는다. devaluar는 '평가절하하다'
++ nombra jueces = 심판(재판관)을 세워라. 직접 결정하지 말고 중립 위원을 지명하라는 뜻
+
+## 호텔 바 — EL BAR DEL HOTEL
+AMINATA: No esperaba verlo aquí, señor Quintana. En las reglas del procedimiento no figura que las delegaciones se visiten. ||| 여기서 뵐 줄은 몰랐어요, 킨타나 씨. 절차 규칙에는 대표단끼리 방문하는 일이 없는데요.
+ÁLVARO: Esto no es una visita. Es una coincidencia. Un hotel, un bar, dos personas que no pueden dormir. ||| 방문이 아닙니다. 우연이죠. 호텔, 바, 잠들지 못하는 두 사람.
+AMINATA: Con las coincidencias hay que tener cuidado. Mi padre decía que son la forma que tiene el destino de pasar desapercibido. ||| 우연은 조심해야 해요. 아버지는 우연이 운명이 눈에 띄지 않게 지나가는 방식이라고 하셨죠.
+ÁLVARO: Embajadora, voy a hablarle con franqueza. La cláusula final del cero no dice lo que hemos creído en Madrid durante veintiocho años. No dice «responderá por los daños». Dice «libère». Quien divulga libera al otro. ||| 대사님, 솔직하게 말씀드리겠습니다. 영의 마지막 조항은 마드리드가 28년 동안 믿은 내용이 아닙니다. '책임을 진다'가 아닙니다. '리베르'예요. 공개하는 자가 상대를 풀어 줍니다.
+AMINATA: ... ¿Quién se lo ha dicho? ||| …누가 말해 줬습니까?
+ÁLVARO: Una persona que no quiere ser citada. Y una duda anotada por un intérprete hace veintiocho años. ||| 이름이 거론되기를 원치 않는 사람. 그리고 28년 전 통역관이 적어 둔 의문이요.
+AMINATA: Entonces ya lo sabe. ||| 그럼 이미 아시는군요.
+ÁLVARO: Lo sospecho. Necesito el original francés para saberlo. ||| 의심하고 있습니다. 확신하려면 프랑스어 원문이 필요해요.
+AMINATA: El original está en poder del general Bah. Lo guarda en la oficina del Consejo, en una caja con tres cerraduras. ||| 원문은 바 장군 손에 있습니다. 위원회 사무실의 세 개의 자물쇠 달린 상자에 보관하죠.
+ÁLVARO: ¿Y no hay otra copia? ||| 다른 사본은 없습니까?
+AMINATA: ... Mi padre no se fiaba del general. Del que era general entonces, ni del que es hoy. Hizo una copia. ||| …아버지는 장군을 믿지 않았어요. 그때의 장군도 오늘의 장군도요. 사본을 만드셨죠.
+ÁLVARO: ¿Dónde está? ||| 어디 있습니까?
+AMINATA: Aquí. En Ginebra. En una caja de seguridad de la Banque Cantonale. Mi padre eligió Ginebra porque era la ciudad de los neutrales. Y porque aquí nadie pregunta. ||| 여기 제네바에요. 칸토날 은행의 대여금고에. 아버지는 중립국들의 도시라서 제네바를 택하셨어요. 그리고 여기서는 아무도 묻지 않으니까요.
+ÁLVARO: Embajadora, Ibrahima me habló de una persona con una llave. ||| 대사님, 이브라히마가 열쇠를 가진 사람에 대해 말했습니다.
+AMINATA: La persona soy yo. ||| 그 사람이 저예요.
+ÁLVARO: ¿Por qué no me lo dijo en Madrid? ||| 왜 마드리드에서 말하지 않았습니까?
+AMINATA: Porque en Madrid no sabía si usted era un hombre honesto. Ni si el cero estaba vivo o muerto. Ahora lo sé: usted ha buscado y no ha comprado nada. ||| 마드리드에서는 당신이 정직한 사람인지 몰랐으니까요. 영이 살았는지 죽었는지도 모르고요. 이제 압니다. 당신은 찾았고 아무것도 사지 않았어요.
+ÁLVARO: ¿Y qué quiere a cambio? ||| 그 대가로 무엇을 원하십니까?
+AMINATA: Tres cosas. Primera: que el original se lea en público. Que no quede en manos de un general ni de un ministerio. Segunda: que las doscientas familias de Punta Sal reciban reparación. Tercera: que mi padre sea recordado como el que anotó, no como el que calló. ||| 세 가지입니다. 첫째, 원문이 공개적으로 낭독될 것. 장군이나 한 부처의 손에 남지 않도록요. 둘째, 푼타 살의 이백 가구가 배상을 받을 것. 셋째, 제 아버지가 침묵한 사람이 아니라 기록한 사람으로 기억될 것.
+ÁLVARO: Tres cosas que me han pedido ya otras personas esta semana. ||| 이번 주에 다른 분들도 제게 부탁한 세 가지군요.
+AMINATA: ¿Quiénes? ||| 누가요?
+ÁLVARO: Un intérprete jubilado y un archivero. Los más honrados de este asunto son los que no tienen poder. ||| 은퇴한 통역관과 문서 관리인이요. 이 일에서 가장 정직한 사람들은 힘이 없는 사람들이었습니다.
+AMINATA: Es la regla de siempre. Aquí está. ||| 늘 그렇죠. 여기 있습니다.
+ÁLVARO: ¿Una llave? ||| 열쇠인가요?
+AMINATA: Caja cuatro mil cuatrocientos diecisiete. Banque Cantonale de Genève, calle de la Corraterie. Se abre a las nueve. Yo estaré allí, porque la caja solo se abre con dos llaves: la mía y la del titular. ||| 4417번 금고. 제네바 칸토날 은행, 코라트리 거리. 아홉 시에 열립니다. 저도 갈 거예요. 금고는 두 개의 열쇠가 있어야 열리거든요. 제 것과 명의인의 것.
+ÁLVARO: ¿Y la del titular? ||| 명의인의 열쇠는요?
+AMINATA: Mi padre me la dejó en una cadena que llevo al cuello desde el funeral. ||| 아버지가 장례 때부터 제 목에 걸린 사슬에 남겨 두셨어요.
+ÁLVARO: Embajadora, no sé qué decir. ||| 대사님, 뭐라고 말씀드려야 할지 모르겠습니다.
+AMINATA: Entonces no diga nada. Mañana, a las nueve. Antes de que se abran las salas. Y señor Quintana. ||| 그럼 아무 말도 마세요. 내일 아홉 시에. 협상방이 열리기 전에. 그리고 킨타나 씨.
+ÁLVARO: Dígame. ||| 말씀하세요.
+AMINATA: Si el original dice lo que sospecho, usted no tendrá que decidir entre su país y el mío. Tendrá que decidir si quiere seguir callando. Y entonces, de verdad, habrá una persona libre. ||| 원문이 제가 의심하는 대로라면 당신은 당신 나라와 우리나라 사이에서 고를 필요가 없을 겁니다. 계속 침묵할지를 선택해야 할 거예요. 그러면 정말로 자유로운 한 사람이 생기죠.
+ÁLVARO: ¿Quién? ||| 누구입니까?
+AMINATA: Cualquiera que quiera. Eso es la cláusula cero. ||| 원하는 누구든요. 그게 영 조항이에요.
++ no pasar desapercibido = 눈에 띄지 않다. pasar desapercibido는 '주목받지 않고 지나가다'
++ caja de seguridad = 대여금고. 은행 보관함
++ titular = 명의인, 소유자. 'el titular de la caja'는 금고 명의자
++ no se fiaba de = 믿지 않았다. fiarse de + 사람은 구어체
++ los más honrados ... son los que no tienen poder = 'los más honrados ... son los que no tienen poder' 구조. 최상급 + 'los que + 직설법'
++ habrá una persona libre = 미래형이 가정의 결과·확신을 나타낸다. 영 조항의 '해방' 개념을 요약
