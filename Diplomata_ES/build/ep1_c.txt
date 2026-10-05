@@ -1,0 +1,42 @@
+## 밤의 전화 — LA LLAMADA DE LA NOCHE
+VALDÉS: Álvaro, son las once. Espero que sea importante. ||| 알바로, 밤 열한 시야. 중요한 일이길 바라네.
+ÁLVARO: Lo es. Acabo de hablar con el barco. El problema no es la zona norte, es dinero. Alguien cobraba un extra por cada licencia. ||| 중요합니다. 방금 배와 통화했어요. 문제는 북부 해역이 아니라 돈입니다. 누군가 면허마다 추가금을 받고 있었어요.
+VALDÉS: Corrupción local. Es lo habitual en esos países. No es asunto nuestro. ||| 현지 부패네. 그런 나라에선 흔한 일이지. 우리 일이 아니야.
+ÁLVARO: Lo sería si este año el armador no hubiera dejado de pagar. Y dejó de pagar porque alguien en Madrid le dijo que ya no hacía falta. ||| 올해 선주가 지불을 끊지 않았다면 그렇겠죠. 그리고 선주가 끊은 건 마드리드의 누군가가 이제 필요 없다고 말했기 때문이고요.
+VALDÉS: ¿Quién te ha dicho eso? ||| 누가 그런 말을 하던가?
+ÁLVARO: Nadie. Lo deduzco. Pero usted ha preguntado «quién me lo ha dicho» antes que «es verdad». ||| 아무도요. 제가 추론한 겁니다. 그런데 차관님은 '사실이냐'보다 '누가 말했느냐'를 먼저 물으셨네요.
+VALDÉS: No juegues conmigo a estas horas. ||| 이 시간에 나랑 말장난하지 말게.
+ÁLVARO: Perdone. Es un defecto del oficio. ||| 죄송합니다. 직업병이에요.
+VALDÉS: Escucha bien lo que te voy a decir. Paga la multa y cierra el asunto. No remuevas lo que está enterrado. ||| 잘 들어. 벌금을 내고 일을 마무리해. 묻혀 있는 걸 들쑤시지 말고.
+ÁLVARO: ¿Enterrado? Yo no he hablado de nada enterrado. ||| 묻혀 있다고요? 저는 묻혀 있는 것에 대해서는 말한 적 없는데요.
+VALDÉS: Es una forma de hablar. Buenas noches, Álvaro. ||| 말버릇일 뿐이야. 잘 자게, 알바로.
+MARINA: ¿Y bien? ||| 어떻게 됐어요?
+ÁLVARO: Ha dicho «enterrado». Una persona que no esconde nada no usa esa palabra. ||| '묻혀 있다'고 했어. 숨기는 게 없는 사람은 그 말을 쓰지 않아.
+MARINA: ¿Qué hacemos mañana? ||| 내일은 뭘 하죠?
+ÁLVARO: Pedimos a Archivo todo lo que haya del acuerdo de pesca con Kandara. Desde el primer borrador. Y buscas quién firmó qué y cuándo. ||| 문서고에 칸다라 어업협정 관련 자료를 전부 요청해. 첫 초안부터. 그리고 누가 언제 뭘 서명했는지 찾아봐.
+MARINA: ¿Hasta qué año? ||| 몇 년도까지요?
+ÁLVARO: Hasta donde haga falta. Empieza por los noventa. ||| 필요한 데까지. 90년대부터 시작해.
+MARINA: ¿Por qué los noventa? ||| 왜 90년대죠?
+ÁLVARO: Porque es cuando se firmó el acuerdo. Y porque, si hay algo enterrado, ahí es donde se entierra. ||| 협정이 체결된 때니까. 그리고 뭔가 묻혀 있다면, 거기에 묻었을 테니까.
+
+## 딸의 목소리 — LUCÍA
+LUCÍA: Papá, ¿tú no duermes nunca? ||| 아빠, 아빠는 잠도 안 자?
+ÁLVARO: Lucía, ¿qué haces despierta? Mañana tienes clase. ||| 루시아, 안 자고 뭐 하니? 내일 학교 가야지.
+LUCÍA: He visto el telediario. Salías detrás de la ministra, con cara de funeral. ||| 뉴스 봤어. 장관님 뒤에 서 있더라, 장례식 같은 얼굴로.
+ÁLVARO: ¿Tan mal se me veía? ||| 그렇게 안 좋아 보였어?
+LUCÍA: Un poco. Mamá dice que cuando sales así, es que alguien va a perder algo. ||| 조금. 엄마가 그러는데 아빠가 그런 얼굴로 나올 때는 누군가 뭘 잃게 된대.
+ÁLVARO: Tu madre me conoce demasiado bien. ||| 네 엄마는 날 너무 잘 알아.
+LUCÍA: ¿Es verdad que hay un barco secuestrado? ||| 배가 납치됐다는 거 사실이야?
+ÁLVARO: Retenido, no secuestrado. Y sí, estoy intentando traerlo de vuelta. ||| 납치가 아니라 억류야. 그리고 맞아, 배를 데려오려고 애쓰는 중이야.
+LUCÍA: ¿Vas a pagar? ||| 돈 낼 거야?
+ÁLVARO: No lo sé todavía. Hoy he aprendido que lo importante no es cuánto pagas, sino a quién. ||| 아직 모르겠어. 오늘 알게 된 건, 중요한 건 얼마를 내느냐가 아니라 누구에게 내느냐라는 거야.
+LUCÍA: Eso suena como algo que diría un abuelo muy sabio o un mafioso. ||| 아주 현명한 할아버지가 하는 말 같기도 하고 마피아가 하는 말 같기도 해.
+ÁLVARO: Espero parecerme más al abuelo. ||| 할아버지를 더 닮았으면 좋겠구나.
+LUCÍA: Yo también. Buenas noches, papá. Duerme. ||| 나도. 잘 자, 아빠. 자요.
+ÁLVARO: Buenas noches, cariño. ||| 잘 자, 우리 딸.
++ remover lo enterrado = 묻힌 것을 들쑤시다. 격언 'No hay que remover el pasado'에 가까운 이디엄
++ cara de funeral = 장례식 같은 얼굴. cara de + 명사 구문은 표정을 묘사한다
++ lo importante no es cuánto, sino a quién = 중요한 건 얼마가 아니라 누구에게. no ... sino ... 대조 구문
++ defecto del oficio = 직업병. 직업에서 비롯된 버릇은 deformación profesional이라고도 한다
++ hasta donde haga falta = 필요한 데까지. 접속법 haga는 아직 정해지지 않은 범위를 나타낸다
++ Duerme. = (자라는) 명령형. 딸이 아빠를 걱정하며 하는 다정한 명령

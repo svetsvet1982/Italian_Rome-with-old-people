@@ -1,0 +1,212 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 1
+@title El atunero retenido
+@ko 억류된 참치잡이배
+@setting 월요일 아침 마드리드 산타크루스 궁 위기대책실 → 칸다라 차관과의 통화 → 목요일 비고 항구
+@level B2-C1
+@cast ÁLVARO | 외교관 · 외교부 비공개협상실(UNR) 실장, 44세
+@cast MARINA | UNR 분석관, 갈리시아 어부 집안 출신
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@cast GASPAR | 장관 비서실장
+@cast CAMARA | 칸다라 공화국 수산 차관 (가상)
+@cast BARREIRO | 억류된 참치선 Virgen de la Barca 선장
+@cast CHANO | 같은 배 요리사
+@cast ROSARIO | 선원 아내, 비고 선원가족회 대표
+@cast LUCÍA | 알바로의 딸, 16세
+@note 1부 첫 화입니다. 칸다라 공화국과 사건은 모두 허구입니다. 이 화의 핵심 장치는 '해법이 대화 속에서 떠오르는 순간'입니다. 알바로는 서류가 아니라 사람의 말에서 문제의 구조를 읽습니다. 상대를 부를 때 쓰는 tú / usted의 전환에 주목하세요.
+@next 1부 2화 — «La cena de los jueves»(목요일 만찬) — 알바로는 마드리드 주재 칸다라 대사 Aminata Sy를 공식 라인 밖에서 만난다. 식탁 위에서 그녀가 흘린 한마디, "1996년 서류의 0번을 보셨습니까?"
+
+## 도입 — LA SALA DE CRISIS
+VALDÉS: Buenos días. Cierren la puerta, por favor. Tenemos un barco retenido, veintidós personas a bordo y una prensa que ya ha olido sangre. ||| 좋은 아침입니다. 문 닫아 주세요. 억류된 배가 한 척, 승선 인원 스물두 명, 그리고 이미 피 냄새를 맡은 언론이 있습니다.
+GASPAR: Los telediarios abren con el tema desde las siete. «Atunero vigués secuestrado en África». Así lo titulan. ||| 일곱 시부터 뉴스마다 이걸로 시작합니다. '비고 참치선, 아프리카에서 납치'. 제목이 이래요.
+ÁLVARO: «Secuestrado» es mucho decir. Retenido por la autoridad portuaria. La diferencia importa, Gaspar, aunque en un titular no quepa. ||| '납치'는 과한 표현이에요. 항만당국에 의한 억류입니다. 그 차이가 중요한 겁니다, 가스파르, 제목에는 안 들어가더라도요.
+GASPAR: Para las familias, la diferencia no existe. Su marido no vuelve a casa y punto. ||| 가족들에게는 그 차이가 없어요. 남편이 집에 못 돌아온다, 끝이죠.
+VALDÉS: Álvaro, cuéntanos lo que sabemos. Sin adornos. ||| 알바로, 우리가 아는 걸 말해 주게. 꾸밈 없이.
+ÁLVARO: El Virgen de la Barca, congelador atunero, matrícula de Vigo. El sábado a las seis de la mañana lo abordó una patrullera de Kandara a cuarenta millas de la costa. ||| 비르헨 데 라 바르카호, 참치 냉동선, 비고 선적입니다. 토요일 아침 여섯 시에 칸다라 순시선이 해안에서 40마일 떨어진 곳에서 나포했습니다.
+MARINA: Lo escoltaron hasta Puerto Alba. Veintidós tripulantes: nueve españoles y trece kandareños y senegaleses. El capitán es Tomás Barreiro, de Marín. ||| 푸에르토 알바까지 호송됐어요. 승무원 스물두 명, 스페인인 아홉, 칸다라와 세네갈 사람 열셋. 선장은 마린 출신 토마스 바레이로입니다.
+GASPAR: ¿Y de qué los acusan, exactamente? ||| 정확히 무슨 혐의입니까?
+MARINA: Pesca ilegal en aguas jurisdiccionales sin licencia en vigor. Multa propuesta: cuatro millones de euros. Más el decomiso de la carga. ||| 유효한 면허 없이 영해에서 불법 조업했다는 겁니다. 제시된 벌금은 400만 유로. 어획물 몰수도 포함이고요.
+VALDÉS: Cuatro millones. Para un armador de Vigo eso es cerrar la empresa. ||| 400만. 비고의 선주에게는 회사 문 닫으라는 소리군.
+ÁLVARO: Lo curioso es que el barco tenía licencia. La renovamos en enero, dentro del acuerdo de pesca. ||| 이상한 건 그 배에 면허가 있었다는 점입니다. 1월에 어업협정 틀 안에서 갱신했어요.
+MARINA: Kandara dice que esa licencia «no cubre la zona norte». Una zona que, según sus mapas, ha cambiado de nombre este año. ||| 칸다라는 그 면허가 '북부 해역'은 포함하지 않는다고 합니다. 그들 지도에서는 올해 그 해역 이름이 바뀌었다는군요.
+GASPAR: O sea, que han movido la línea y no han avisado. ||| 그러니까 선을 옮겨 놓고 알리지 않았다는 거네요.
+ÁLVARO: O la han movido y sí han avisado, pero a alguien que no nos lo dijo. Eso lo averiguaremos. ||| 아니면 선을 옮기고 알리긴 했는데, 우리한테 전달해 주지 않은 누군가에게 알린 거겠죠. 그건 알아볼 겁니다.
+VALDÉS: Escúchame bien, Álvaro. No quiero heroicidades. Hay una solución sencilla: se paga la multa, se pide disculpas y el barco sale el miércoles. ||| 잘 듣게, 알바로. 영웅적인 짓은 원치 않아. 간단한 해법이 있어. 벌금을 내고, 사과하고, 수요일에 배가 나오는 거지.
+ÁLVARO: ¿Pagar cuatro millones por una licencia que teníamos? Eso sentaría un precedente. Mañana nos retienen otro barco. ||| 갖고 있던 면허 때문에 400만을 낸다고요? 선례가 됩니다. 내일이면 또 다른 배를 억류할 거예요.
+VALDÉS: Prefiero un precedente a veintidós familias en la tele. ||| 나는 스물두 가구가 텔레비전에 나오는 것보다 선례 쪽이 낫네.
+GASPAR: La ministra habla esta tarde en el Congreso. Necesita una frase que pueda decir sin tropezar. ||| 장관님이 오늘 오후 의회에서 발언하십니다. 걸려 넘어지지 않고 말할 수 있는 문장이 필요해요.
+ÁLVARO: Pues démosle una: «Estamos negociando la liberación inmediata de nuestros marinos». Es verdad y no nos compromete a nada. ||| 그럼 한 문장 드리죠. '우리 선원들의 즉각 석방을 협상하고 있다'. 사실이고, 아무것도 약속하지 않습니다.
+GASPAR: Me sirve. Pero que sea verdad de aquí a las cuatro. ||| 그거면 됩니다. 단, 네 시까지는 진짜 사실이어야 해요.
+VALDÉS: Entonces ponte a ello. Llama a Puerto Alba. Hoy. ||| 그럼 착수하게. 푸에르토 알바에 전화해. 오늘 중으로.
+ÁLVARO: Con una condición: que nadie más hable con ellos mientras yo lo hago. Ni por la vía diplomática ni por la vía oficiosa. ||| 한 가지 조건이 있습니다. 제가 하는 동안 아무도 그쪽과 접촉하지 않을 것. 외교 경로로도, 비공식 경로로도요.
+VALDÉS: ¿Por qué lo dices así? ||| 왜 그렇게 말하나?
+ÁLVARO: Porque cuando hay demasiadas voces, el otro lado elige la que más le conviene. ||| 목소리가 너무 많으면, 상대가 자기한테 가장 유리한 목소리를 고르니까요.
+VALDÉS: Concedido. Tienes hasta el miércoles. ||| 받아들이겠네. 수요일까지야.
+MARINA: Álvaro, un segundo. Fuera de la sala. ||| 알바로, 잠깐만요. 밖에서요.
+ÁLVARO: Dime. ||| 말해 봐.
+MARINA: Es la tercera vez que Valdés repite «paga y calla». No es su estilo. Ella normalmente quiere entender el problema antes de resolverlo. ||| 발데스 차관님이 '돈 내고 조용히 하자'를 세 번째 반복하셨어요. 그분 스타일이 아니에요. 보통은 해결하기 전에 문제부터 이해하려는 분이잖아요.
+ÁLVARO: Lo he notado. Apúntalo, pero no lo comentes con nadie. ||| 나도 눈치챘어. 적어 두되, 아무한테도 말하지 마.
+MARINA: ¿Ni siquiera con Berni? ||| 베르니 선생님한테도요?
+ÁLVARO: A Berni, sí. Pero en persona, no por teléfono. ||| 베르니한테는 해도 돼. 하지만 전화 말고 직접 만나서.
+MARINA: Entendido. ¿Y la llamada de las doce? ||| 알겠습니다. 열두 시 통화는요?
+ÁLVARO: La hacemos desde mi despacho. Tráeme el expediente de la licencia y el acuerdo de pesca. Todo lo que haya. ||| 내 사무실에서 하자. 면허 서류랑 어업협정 가져다줘. 있는 건 전부.
+MARINA: ¿Todo todo? ||| 전부 다요?
+ÁLVARO: Todo lo que esté a la vista. Y si no está a la vista, quiero saber por qué. ||| 눈에 보이는 건 전부. 그리고 안 보이는 게 있으면, 왜 안 보이는지 알고 싶어.
++ retener / secuestrar = 억류하다 / 납치하다. 외교 문장에서는 항만당국의 'retención'과 범죄적 'secuestro'를 구분합니다
++ oler sangre = 직역은 '피 냄새를 맡다'. 언론이 약점을 감지하고 달려든다는 이디엄
++ sentar un precedente = 선례를 남기다 (sentar는 '앉히다'가 아니라 '확립하다')
++ ponte a ello = (그 일에) 착수해. ponerse a + 명사/동사원형
++ Concedido. = (요청을) 받아들이겠다. 상급자가 짧게 승인할 때의 격식 있는 표현
++ paga y calla = 돈 내고 입 다물어라. 사건 무마를 뜻하는 압축 표현
+
+## 칸다라 차관과의 통화 — LA LLAMADA A PUERTO ALBA
+CAMARA: Señor Quintana. Me han dicho que usted quería hablar conmigo. Tiene diez minutos. ||| 킨타나 씨. 저와 통화하고 싶으시다고 들었습니다. 10분 드리겠습니다.
+ÁLVARO: Se lo agradezco, señor viceministro. Seré breve. Hay veintidós hombres en un barco, y quiero que estén en sus casas el viernes. ||| 감사합니다, 차관님. 간단히 말씀드리죠. 배 한 척에 스물두 명이 있고, 저는 그들이 금요일에는 집에 있기를 바랍니다.
+CAMARA: Es un deseo respetable. Pero la ley de Kandara no entiende de deseos. ||| 존중할 만한 바람이군요. 하지만 칸다라의 법은 바람을 모릅니다.
+ÁLVARO: Ni la nuestra. Por eso me gustaría entender qué ley se ha aplicado exactamente. El barco tenía licencia vigente. ||| 우리 법도 마찬가지입니다. 그래서 정확히 어떤 법이 적용됐는지 이해하고 싶습니다. 그 배는 유효한 면허가 있었어요.
+CAMARA: Para la zona sur. El Virgen de la Barca estaba en la zona norte. ||| 남부 해역에 대해서입니다. 비르헨 데 라 바르카는 북부 해역에 있었습니다.
+ÁLVARO: Una zona cuyo nombre, tengo entendido, se cambió hace tres meses. ¿Se notificó el cambio? ||| 석 달 전에 이름이 바뀐 해역으로 알고 있습니다. 그 변경은 통보됐습니까?
+CAMARA: Se publicó en nuestro boletín oficial. ||| 우리 관보에 공고했습니다.
+ÁLVARO: Un boletín que ningún capitán español lee. Con el debido respeto, eso no es una notificación, es una trampa. ||| 스페인 선장은 아무도 읽지 않는 관보죠. 실례지만, 그건 통보가 아니라 함정입니다.
+CAMARA: Cuidado con las palabras, señor Quintana. ||| 말씀 조심하십시오, 킨타나 씨.
+ÁLVARO: Las retiro, viceministro. Quizá fue un malentendido. Los malentendidos se arreglan. ||| 철회하겠습니다, 차관님. 아마 오해였겠죠. 오해는 풀 수 있는 거니까요.
+CAMARA: No hay malentendido. Hay infracción. La multa son cuatro millones, y una carta de disculpa pública de su embajada. ||| 오해는 없습니다. 위반이 있을 뿐이죠. 벌금 400만, 그리고 귀국 대사관의 공개 사과문입니다.
+ÁLVARO: ¿Una disculpa pública de quién, concretamente? ||| 구체적으로 누구의 공개 사과입니까?
+CAMARA: De su gobierno. En nombre de todos los barcos que han faltado al respeto a nuestras aguas. ||| 귀국 정부요. 우리 바다를 존중하지 않은 모든 배들을 대표해서.
+ÁLVARO: «Todos los barcos». Interesante. ¿Hay más de uno retenido? ||| '모든 배들'이라. 흥미롭군요. 억류된 배가 하나 더 있습니까?
+CAMARA: No. Pero habrá más si no se respetan las normas. ||| 아닙니다. 하지만 규정이 지켜지지 않으면 더 생길 겁니다.
+ÁLVARO: Entonces no hablamos de este barco. Hablamos de un mensaje. ¿Me equivoco? ||| 그렇다면 이 배 이야기가 아니군요. 메시지에 대한 이야기입니다. 제가 틀렸습니까?
+CAMARA: Usted es un hombre listo. Pero yo no dije eso. ||| 영리한 분이시군요. 하지만 저는 그렇게 말한 적 없습니다.
+ÁLVARO: Claro que no. Por eso se lo pregunto a usted y no a la prensa. ||| 물론이죠. 그래서 언론이 아니라 차관님께 묻는 겁니다.
+CAMARA: Mire, no tengo autoridad para negociar la multa. Esa decisión la toma el Consejo. ||| 보세요, 저는 벌금을 협상할 권한이 없습니다. 그 결정은 위원회가 합니다.
+ÁLVARO: ¿Y quién preside ese Consejo? ||| 그 위원회는 누가 의장입니까?
+CAMARA: El general Bah. ||| 바 장군입니다.
+ÁLVARO: ¿El general Bah, que es ministro de Defensa, preside un consejo de pesca? ||| 국방장관인 바 장군이 어업 위원회 의장을 맡는다고요?
+CAMARA: En Kandara, el mar es un asunto de seguridad nacional. ||| 칸다라에서 바다는 국가안보 사안입니다.
+ÁLVARO: Lo comprendo. Entonces permítame una propuesta sin compromiso: una reunión técnica, usted y yo, esta semana, para revisar el mapa de zonas. ||| 이해합니다. 그러면 구속력 없는 제안을 하나 드리죠. 이번 주에 차관님과 제가 기술 회의를 해서 해역 지도를 함께 검토하는 겁니다.
+CAMARA: ¿Y la multa? ||| 벌금은요?
+ÁLVARO: La multa se queda donde está. Hoy no le pido que la baje. Le pido que hablemos del mapa. ||| 벌금은 그대로 두겠습니다. 오늘 깎아 달라는 게 아닙니다. 지도 이야기를 하자는 거죠.
+CAMARA: Es una petición extraña. Normalmente, ustedes empiezan por el dinero. ||| 이상한 요청이군요. 보통 귀국 사람들은 돈 이야기부터 시작하는데요.
+ÁLVARO: Por eso mismo. Si le hablo de dinero, usted me contesta con una cifra. Si le hablo de un mapa, quizá me conteste con la verdad. ||| 그래서입니다. 돈 이야기를 하면 차관님은 숫자로 답하시겠죠. 지도 이야기를 하면 어쩌면 진실로 답하실지도 모르고요.
+CAMARA: Qué descaro. ||| 뻔뻔하시군요.
+ÁLVARO: Qué franqueza, diría yo. Aunque entiendo que en este oficio se parezcan. ||| 솔직함이라고 해 주십시오. 이 직업에서는 둘이 닮긴 했지만요.
+CAMARA: Ja, ja. Está bien. Le haré saber algo. Pero no por este teléfono. ||| 하하. 좋습니다. 연락드리죠. 하지만 이 전화로는 아닙니다.
+ÁLVARO: ¿Por cuál, entonces? ||| 그럼 어떤 경로입니까?
+CAMARA: Por el que usted menos espere. Buenos días, señor Quintana. ||| 가장 예상치 못하실 경로로요. 좋은 하루 되세요, 킨타나 씨.
+MARINA: Colgó. ¿Cree que lo dijo en serio? ||| 끊었어요. 진심이었을까요?
+ÁLVARO: Creo que tiene miedo de alguien. Y que ese alguien no es la prensa. ||| 누군가를 두려워하는 것 같아. 그리고 그건 언론이 아니야.
+MARINA: ¿El general? ||| 장군이요?
+ÁLVARO: Puede ser. O alguien que está por encima del general. Y de nosotros. ||| 그럴 수도 있고. 아니면 장군보다 위에 있는 사람이거나. 우리보다도 위에 있는 사람이든지.
++ No entiende de deseos = ~을 모른다/~에 관심이 없다. entender de + 명사는 '~에 정통하다·~을 인정하다'
++ con el debido respeto = (정중하지만 날카로운 말을 하기 전) 실례지만. 격식체 완충 표현
++ retirar las palabras = 말을 거두다. 외교 대화에서 발언을 정정할 때 쓴다
++ sin compromiso = 구속력 없이, 부담 없이
++ qué descaro / qué franqueza = 뻔뻔함 / 솔직함. 같은 행동에 부정·긍정 어휘를 갈아 끼우는 말장난
++ Por el que usted menos espere = 접속법 현재(espere): 최상급 관계절 뒤에는 불확실성을 나타내는 접속법을 쓴다
+## 비고 항구 — EL MUELLE DE VIGO
+ROSARIO: ¿Usted es el señor del Ministerio? Llevamos cuatro días esperando que alguien se digne a venir. ||| 외교부에서 오신 분이세요? 누군가 와 주기만을 나흘째 기다렸어요.
+ÁLVARO: Soy Álvaro Quintana. Perdone que haya tardado. Quería traer algo más que condolencias. ||| 알바로 킨타나입니다. 늦어서 죄송합니다. 위로의 말 말고 뭔가 더 가져오고 싶었습니다.
+ROSARIO: ¿Y lo trae? ||| 가져오셨나요?
+ÁLVARO: Todavía no. Traigo preguntas. Y creo que ustedes son las únicas que me las pueden contestar. ||| 아직은요. 질문을 가져왔습니다. 그걸 대답해 주실 수 있는 건 여러분뿐이라고 생각하고요.
+ROSARIO: Mi marido, Xosé, es el contramaestre. Veinte años en ese barco. Nunca le había pasado nada así. ||| 제 남편 소세는 갑판장이에요. 그 배에서 20년이에요. 이런 일은 한 번도 없었어요.
+ÁLVARO: ¿Nunca? ¿Ni una inspección, ni una advertencia? ||| 한 번도요? 점검이든 경고든 전혀요?
+ROSARIO: Inspecciones, todos los años. Pero siempre salía bien. Había un trámite en el puerto de Puerto Alba, y todo se arreglaba. ||| 점검이야 해마다 있죠. 하지만 늘 무사히 끝났어요. 푸에르토 알바 항구에서 절차를 밟으면 모든 게 해결됐고요.
+ÁLVARO: ¿Qué clase de trámite? ||| 어떤 절차인가요?
+ROSARIO: Eso no lo sé. Eso lo sabe el capitán. O Chano, el cocinero, que lo sabe todo porque se entera de todo. ||| 그건 몰라요. 선장님이 알죠. 아니면 요리사 차노가요. 모든 걸 듣는 사람이라 모든 걸 알거든요.
+MARINA: Me ha dicho mi padre que hay una radio satelital en la lonja. Los familiares pueden hablar con el barco una vez al día. ||| 아버지가 그러시는데 어시장에 위성 무전기가 있대요. 가족들이 하루에 한 번 배와 통화할 수 있다고요.
+ROSARIO: A las seis de la tarde. Siempre a las seis. Los dejan hablar cinco minutos. ||| 저녁 여섯 시예요. 늘 여섯 시. 5분만 이야기하게 해 줘요.
+ÁLVARO: ¿Podría hablar yo con el capitán? Después de ustedes. ||| 제가 선장님과 이야기해도 될까요? 가족분들 다음에요.
+ROSARIO: Si usted me promete una cosa. ||| 한 가지만 약속해 주시면요.
+ÁLVARO: Dígame. ||| 말씀하세요.
+ROSARIO: Que no me va a decir «estamos trabajando en ello». Eso ya me lo han dicho tres veces. ||| '해결을 위해 노력하고 있습니다'라고는 안 하신다고요. 그 말은 벌써 세 번이나 들었어요.
+ÁLVARO: Se lo prometo. Le diré lo que sé, lo que no sé y lo que pienso hacer. En ese orden. ||| 약속드립니다. 아는 것, 모르는 것, 하려는 일을 말씀드리겠습니다. 그 순서로요.
+ROSARIO: Eso sí me gusta. ||| 그건 마음에 드네요.
+BARREIRO: Aquí Virgen de la Barca. Capitán Barreiro. Cambio. ||| 여기는 비르헨 데 라 바르카. 바레이로 선장입니다. 오버.
+ÁLVARO: Capitán, soy Álvaro Quintana, del Ministerio de Asuntos Exteriores. Estoy en el muelle de Vigo con las familias. Cambio. ||| 선장님, 외교부 알바로 킨타나입니다. 지금 비고 부두에서 가족분들과 함께 있습니다. 오버.
+BARREIRO: Gracias a Dios. ¿Va a sacarnos de aquí? Cambio. ||| 하느님 감사합니다. 우릴 여기서 빼내 주실 겁니까? 오버.
+ÁLVARO: Voy a intentarlo, y para eso necesito su ayuda. ¿Cómo están los hombres? Cambio. ||| 시도해 보겠습니다. 그러려면 선장님 도움이 필요해요. 선원들 상태는 어떻습니까? 오버.
+BARREIRO: Cansados. Asustados los jóvenes. Nos dejan comer a bordo y no nos han puesto esposas. Pero hay un hombre armado en cada pasarela. Cambio. ||| 지쳤습니다. 젊은 친구들은 겁먹었고요. 배 안에서 식사는 허용해 주고 수갑은 안 채웠어요. 하지만 트랩마다 무장한 사람이 서 있습니다. 오버.
+ÁLVARO: Capitán, ¿se les ha explicado por escrito de qué se les acusa? Cambio. ||| 선장님, 혐의에 대해 서면으로 설명을 받으셨습니까? 오버.
+BARREIRO: Un papel en francés. No lo entiende nadie. Ni siquiera nuestro oficial, que estudió un año. Cambio. ||| 프랑스어로 된 종이 한 장이요. 아무도 이해 못 합니다. 1년 공부한 항해사도요. 오버.
+ÁLVARO: Hágame una foto y envíela por correo, si puede. Capitán, necesito preguntarle algo más delicado. Cambio. ||| 사진을 찍어서 이메일로 보내 주십시오, 가능하면요. 선장님, 좀 더 민감한 걸 여쭙겠습니다. 오버.
+BARREIRO: Pregunte. Cambio. ||| 말씀하세요. 오버.
+ÁLVARO: ¿Alguna vez han pagado algo en Puerto Alba que no figure en los papeles? Cambio. ||| 푸에르토 알바에서 서류에 없는 비용을 내 본 적이 있습니까? 오버.
+BARREIRO: Eso... no es algo que se hable por radio, señor Quintana. Cambio. ||| 그건… 무전으로 할 얘기가 아닙니다, 킨타나 씨. 오버.
+ÁLVARO: Entiendo. Entonces, ¿hay alguien a bordo que pueda hablar con más libertad? Cambio. ||| 알겠습니다. 그럼 배 안에 좀 더 자유롭게 말할 수 있는 분이 있습니까? 오버.
+BARREIRO: Pásame al Chano, que a este hombre le hace falta oír una voz que no sea la mía. Cambio. ||| 차노 바꿔줘, 이 양반한테는 내 목소리 말고 다른 목소리가 필요해. 오버.
+CHANO: Buenas tardes, señor. Soy Luciano Ferreiro. Aquí todos me llaman Chano. Cambio. ||| 안녕하십니까. 루시아노 페레이로입니다. 여기선 다들 차노라고 불러요. 오버.
+ÁLVARO: Chano, el capitán dice que usted sabe todo lo que pasa en ese barco. Cambio. ||| 차노 씨, 선장님이 그 배에서 일어나는 모든 걸 안다고 하시던데요. 오버.
+CHANO: Es lo que pasa cuando uno cocina. La gente habla con la boca llena. Cambio. ||| 요리하다 보면 그렇게 돼요. 사람들이 입에 음식 물고 말하거든요. 오버.
+ÁLVARO: Pues cuénteme lo que oye cuando lleva el café a la cabina del capitán. Cambio. ||| 그럼 선장실에 커피를 가져다줄 때 들은 걸 말해 주세요. 오버.
+CHANO: Antes de entrar en Puerto Alba, siempre preparan un sobre. Del armador, con dinero. Se lo llevan al agente del puerto, un tal Mamadou. Cambio. ||| 푸에르토 알바에 들어가기 전에는 늘 봉투를 하나 준비합니다. 선주 쪽에서 돈을 넣어서요. 항구 대리인, 마마두라는 사람한테 갖다 주죠. 오버.
+ÁLVARO: ¿Y qué le dice Mamadou al recibirlo? Cambio. ||| 마마두는 그걸 받으면서 뭐라고 합니까? 오버.
+CHANO: «Para el general». Siempre lo mismo: «para el general». Cambio. ||| '장군님 몫'이라고요. 늘 똑같아요. '장군님 몫'. 오버.
+ÁLVARO: ¿Y este año? Cambio. ||| 올해는요? 오버.
+CHANO: Este año, el armador dijo que no había dinero. Que la licencia ya estaba pagada por contrato y que no iba a dar más. Cambio. ||| 올해는 선주가 돈이 없다고 했어요. 면허는 이미 계약으로 냈으니 더 주지 않겠다고요. 오버.
+ÁLVARO: Y entonces... Cambio. ||| 그래서… 오버.
+CHANO: Y entonces nos retuvieron. Mire, señor, yo no soy diplomático. Pero a mí me parece que a esta gente no le ofende el pescado. Le ofende quién se lleva el sobre. Cambio. ||| 그래서 우리가 억류됐죠. 저는 외교관은 아니지만요, 제 생각에 이 사람들은 고기 때문에 화난 게 아니에요. 봉투를 누가 가져가느냐 때문에 화난 겁니다. 오버.
+ÁLVARO: Repita eso, Chano. Despacio. Cambio. ||| 방금 그 말 다시 해 주세요, 차노 씨. 천천히요. 오버.
+CHANO: Que no les ofende el pescado. Les ofende quién se lleva el sobre. Cambio. ||| 고기에 화난 게 아니라, 봉투를 누가 가져가느냐에 화난 거라고요. 오버.
+ÁLVARO: Chano, acaba usted de explicarme en diez segundos lo que me han estado diciendo tres días. Cambio y cierro. ||| 차노 씨, 사흘 동안 다들 제게 말해 준 걸 방금 10초 만에 설명하셨습니다. 오버, 교신 종료합니다.
+MARINA: ¿Qué ha entendido usted, exactamente? ||| 정확히 뭘 이해하신 거예요?
+ÁLVARO: Que la multa no es una sanción. Es una factura. Alguien quiere cobrar lo que antes cobraba por debajo de la mesa. ||| 벌금은 제재가 아니라는 거야. 청구서지. 누군가 전에 탁자 밑으로 받던 걸 다시 받고 싶은 거야.
+MARINA: Entonces el general Bah... ||| 그럼 바 장군이…
+ÁLVARO: El general Bah, o quien cobraba a través de él. Pero hay algo más. Si el armador pagaba «extra» todos los años, ¿por qué dijo este año que la licencia ya estaba pagada? ||| 바 장군이거나, 장군을 통해 받던 누군가겠지. 하지만 더 있어. 선주가 해마다 '추가금'을 냈다면, 왜 올해는 면허가 이미 지불됐다고 했을까?
+MARINA: Porque alguien le dijo que ya no hacía falta. ||| 누군가 이제 필요 없다고 말했으니까요.
+ÁLVARO: Exacto. ¿Quién en Madrid le dijo a un armador gallego que podía dejar de pagar el sobre? ||| 맞아. 마드리드의 누가 갈리시아 선주에게 봉투를 그만 줘도 된다고 말했을까?
+MARINA: No lo sé. Pero me da mala espina que lo pregunte usted en voz baja. ||| 모르겠어요. 하지만 선배님이 그걸 낮은 목소리로 묻는 게 영 불길해요.
+ÁLVARO: Porque la respuesta me preocupa más que el barco. ||| 답이 배보다 더 걱정되니까.
+ROSARIO: ¿Y bien? ¿Qué me va a decir, señor Quintana? ||| 그래서요? 뭐라고 말씀해 주실 거예요, 킨타나 씨?
+ÁLVARO: Le digo lo que sé: su marido está bien, no está maltratado y esto no es un problema de pesca, es un problema de dinero. Lo que no sé: quién lo ha provocado. Y lo que pienso hacer: dejar de hablar de la multa y empezar a hablar de quién cobra. ||| 아는 걸 말씀드리죠. 남편분은 무사하고 학대받지 않고 있으며, 이건 어업 문제가 아니라 돈 문제입니다. 모르는 건 누가 일으켰는가입니다. 하려는 일은 벌금 얘기를 그만두고 누가 돈을 받는지 얘기하는 겁니다.
+ROSARIO: Eso es lo más claro que me han dicho en cuatro días. ||| 나흘 동안 들은 말 중에서 제일 분명하네요.
+ÁLVARO: Se lo debía. ||| 그럴 의무가 있었죠.
++ cambio y cierro = 무전 용어. cambio(오버, 교대) / cierro(교신 종료). 라디오 통신에서 말을 주고받는 규칙
++ papel en francés = 구어체에서 문서를 papel이라 부른다. 칸다라의 공용어가 프랑스어인 설정
++ me da mala espina = 불길한 예감이 든다. espina는 '가시'
++ por debajo de la mesa = 탁자 밑으로, 뒷거래로. sobre(봉투)가 뇌물을 뜻하는 구어 표현
++ ofender / ofenderse = 모욕하다 / 모욕을 느끼다. Chano의 le ofende quién se lleva el sobre처럼 의문사절이 주어가 된다
++ estar maltratado = 학대받다. 수동 상태를 estar + 과거분사로 표현
+## 밤의 전화 — LA LLAMADA DE LA NOCHE
+VALDÉS: Álvaro, son las once. Espero que sea importante. ||| 알바로, 밤 열한 시야. 중요한 일이길 바라네.
+ÁLVARO: Lo es. Acabo de hablar con el barco. El problema no es la zona norte, es dinero. Alguien cobraba un extra por cada licencia. ||| 중요합니다. 방금 배와 통화했어요. 문제는 북부 해역이 아니라 돈입니다. 누군가 면허마다 추가금을 받고 있었어요.
+VALDÉS: Corrupción local. Es lo habitual en esos países. No es asunto nuestro. ||| 현지 부패네. 그런 나라에선 흔한 일이지. 우리 일이 아니야.
+ÁLVARO: Lo sería si este año el armador no hubiera dejado de pagar. Y dejó de pagar porque alguien en Madrid le dijo que ya no hacía falta. ||| 올해 선주가 지불을 끊지 않았다면 그렇겠죠. 그리고 선주가 끊은 건 마드리드의 누군가가 이제 필요 없다고 말했기 때문이고요.
+VALDÉS: ¿Quién te ha dicho eso? ||| 누가 그런 말을 하던가?
+ÁLVARO: Nadie. Lo deduzco. Pero usted ha preguntado «quién me lo ha dicho» antes que «es verdad». ||| 아무도요. 제가 추론한 겁니다. 그런데 차관님은 '사실이냐'보다 '누가 말했느냐'를 먼저 물으셨네요.
+VALDÉS: No juegues conmigo a estas horas. ||| 이 시간에 나랑 말장난하지 말게.
+ÁLVARO: Perdone. Es un defecto del oficio. ||| 죄송합니다. 직업병이에요.
+VALDÉS: Escucha bien lo que te voy a decir. Paga la multa y cierra el asunto. No remuevas lo que está enterrado. ||| 잘 들어. 벌금을 내고 일을 마무리해. 묻혀 있는 걸 들쑤시지 말고.
+ÁLVARO: ¿Enterrado? Yo no he hablado de nada enterrado. ||| 묻혀 있다고요? 저는 묻혀 있는 것에 대해서는 말한 적 없는데요.
+VALDÉS: Es una forma de hablar. Buenas noches, Álvaro. ||| 말버릇일 뿐이야. 잘 자게, 알바로.
+MARINA: ¿Y bien? ||| 어떻게 됐어요?
+ÁLVARO: Ha dicho «enterrado». Una persona que no esconde nada no usa esa palabra. ||| '묻혀 있다'고 했어. 숨기는 게 없는 사람은 그 말을 쓰지 않아.
+MARINA: ¿Qué hacemos mañana? ||| 내일은 뭘 하죠?
+ÁLVARO: Pedimos a Archivo todo lo que haya del acuerdo de pesca con Kandara. Desde el primer borrador. Y buscas quién firmó qué y cuándo. ||| 문서고에 칸다라 어업협정 관련 자료를 전부 요청해. 첫 초안부터. 그리고 누가 언제 뭘 서명했는지 찾아봐.
+MARINA: ¿Hasta qué año? ||| 몇 년도까지요?
+ÁLVARO: Hasta donde haga falta. Empieza por los noventa. ||| 필요한 데까지. 90년대부터 시작해.
+MARINA: ¿Por qué los noventa? ||| 왜 90년대죠?
+ÁLVARO: Porque es cuando se firmó el acuerdo. Y porque, si hay algo enterrado, ahí es donde se entierra. ||| 협정이 체결된 때니까. 그리고 뭔가 묻혀 있다면, 거기에 묻었을 테니까.
+
+## 딸의 목소리 — LUCÍA
+LUCÍA: Papá, ¿tú no duermes nunca? ||| 아빠, 아빠는 잠도 안 자?
+ÁLVARO: Lucía, ¿qué haces despierta? Mañana tienes clase. ||| 루시아, 안 자고 뭐 하니? 내일 학교 가야지.
+LUCÍA: He visto el telediario. Salías detrás de la ministra, con cara de funeral. ||| 뉴스 봤어. 장관님 뒤에 서 있더라, 장례식 같은 얼굴로.
+ÁLVARO: ¿Tan mal se me veía? ||| 그렇게 안 좋아 보였어?
+LUCÍA: Un poco. Mamá dice que cuando sales así, es que alguien va a perder algo. ||| 조금. 엄마가 그러는데 아빠가 그런 얼굴로 나올 때는 누군가 뭘 잃게 된대.
+ÁLVARO: Tu madre me conoce demasiado bien. ||| 네 엄마는 날 너무 잘 알아.
+LUCÍA: ¿Es verdad que hay un barco secuestrado? ||| 배가 납치됐다는 거 사실이야?
+ÁLVARO: Retenido, no secuestrado. Y sí, estoy intentando traerlo de vuelta. ||| 납치가 아니라 억류야. 그리고 맞아, 배를 데려오려고 애쓰는 중이야.
+LUCÍA: ¿Vas a pagar? ||| 돈 낼 거야?
+ÁLVARO: No lo sé todavía. Hoy he aprendido que lo importante no es cuánto pagas, sino a quién. ||| 아직 모르겠어. 오늘 알게 된 건, 중요한 건 얼마를 내느냐가 아니라 누구에게 내느냐라는 거야.
+LUCÍA: Eso suena como algo que diría un abuelo muy sabio o un mafioso. ||| 아주 현명한 할아버지가 하는 말 같기도 하고 마피아가 하는 말 같기도 해.
+ÁLVARO: Espero parecerme más al abuelo. ||| 할아버지를 더 닮았으면 좋겠구나.
+LUCÍA: Yo también. Buenas noches, papá. Duerme. ||| 나도. 잘 자, 아빠. 자요.
+ÁLVARO: Buenas noches, cariño. ||| 잘 자, 우리 딸.
++ remover lo enterrado = 묻힌 것을 들쑤시다. 격언 'No hay que remover el pasado'에 가까운 이디엄
++ cara de funeral = 장례식 같은 얼굴. cara de + 명사 구문은 표정을 묘사한다
++ lo importante no es cuánto, sino a quién = 중요한 건 얼마가 아니라 누구에게. no ... sino ... 대조 구문
++ defecto del oficio = 직업병. 직업에서 비롯된 버릇은 deformación profesional이라고도 한다
++ hasta donde haga falta = 필요한 데까지. 접속법 haga는 아직 정해지지 않은 범위를 나타낸다
++ Duerme. = (자라는) 명령형. 딸이 아빠를 걱정하며 하는 다정한 명령
