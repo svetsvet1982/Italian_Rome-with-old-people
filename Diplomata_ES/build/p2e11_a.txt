@@ -1,0 +1,62 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 11
+@title La controversia
+@ko 논쟁
+@setting 12월 21일 토요일 제네바 빌라 대회의실 + 푼타 살 마을 광장(화상 연결) 생중계
+@level B2-C1
+@cast ELISE | 위원회 의장, 54세
+@cast BERG | 보레알 수석 변호사, 38세
+@cast KHADY | 칸다라 위원, 변호사, 31세
+@cast AWA | 칸다라 위원, 푼타 살 시장 상인 대표
+@cast IBOU | 칸다라 위원, 어부 대표
+@cast EVARISTO | 문서고 수석 관리인, 스페인 위원, 72세
+@cast OLMEDO | 판사, 스페인 위원
+@cast SALAS | 의사, 스페인 위원
+@cast MOUSSA | 푼타 살 장로, 화상 연결, 82세
+@cast FATOU | 아픈 아이의 어머니, 화상 연결
+@cast ÁLVARO | 에바리스토의 자문
+@note 2부의 클라이맥스입니다. 이 화의 형식은 바야돌리드 논쟁(1550–51)을 본뜬 공개 토론입니다. 두 입장이 각각 발언하고 판단은 위원들이 합니다. 토론 어휘(tesis 주장, réplica 반론, dúplica 재반론, argumentar 논증하다, rebatir 반박하다)와 공개 표결 어법에 주목하세요. 해법은 마을의 '열린 회의(concejo abierto)'가 하한 결의를 받아들이고 포시토 규약을 승인하는 데 있습니다.
+@next 2부 12화 — «La residencia»(레지덴시아) — 알바로에 대한 공개 검토가 열린다. 알다스는 소송의 문을 두드리고, 이반의 이름이 나온다. 그리고 한 사람이 마지막 의자에 앉을 차례가 다가온다.
+
+## 논쟁의 규칙 — LAS REGLAS DE VALLADOLID
+ELISE: Señoras y señores, buenos días. Hoy celebramos la audiencia pública final antes de la votación de la resolución previa sobre el piso. La emisión se hace en directo y se proyecta en la plaza de Punta Sal, donde hay, según me informan, ciento ochenta personas. ||| 여러분, 좋은 아침입니다. 오늘은 하한 선행 결의 표결 전 마지막 공개 청문을 엽니다. 방송은 생중계되고 푼타 살 광장에도 상영되고 있습니다. 보고에 따르면 그곳에 백팔십 명이 모여 있다고 합니다.
+AWA: Ciento ochenta y tres. Me acaba de decir mi nieto. ||| 백팔십삼 명이에요. 방금 손자가 말해 줬어요.
+ELISE: Ciento ochenta y tres. Disculpe. ||| 백팔십삼 명이군요. 실례했습니다.
+EVARISTO: Señora presidenta, me atrevo a proponer una forma de debate. En mil quinientos cincuenta, el emperador Carlos V reunió en Valladolid a los teólogos y juristas más importantes de su reino para resolver una cuestión muy grave: con qué derecho se conquistaba y se gobernaba a los pueblos de América. ||| 의장님, 토론 방식을 하나 제안하겠소. 1550년에 황제 카를 5세는 가장 중요한 신학자와 법학자들을 바야돌리드에 모아 아주 중대한 문제를 정하게 했소. 어떤 권리로 아메리카 민족들을 정복하고 통치하느냐는 문제였지.
+OLMEDO: La famosa controversia. Entre fray Bartolomé de las Casas y Juan Ginés de Sepúlveda. ||| 유명한 논쟁이죠. 바르톨로메 데 라스 카사스 수사와 후안 히네스 데 세풀베다 사이의.
+EVARISTO: Exacto. No hubo un vencedor oficial, pero pasó algo importante: dos posturas opuestas se expusieron ante un tribunal, con tiempo equivalente, sin interrupciones, y con la obligación de que cada una respondiera a la otra. Aquello fue más valioso que cualquier sentencia. ||| 맞소. 공식적인 승자는 없었지만 중요한 일이 일어났소. 정반대의 두 입장이 같은 시간으로, 중단 없이, 서로에게 답하는 의무와 함께 재판부 앞에 펼쳐졌지. 그건 어떤 판결보다 가치가 있었소.
+ELISE: ¿Y cómo lo aplicamos hoy? ||| 그럼 오늘 어떻게 적용합니까?
+EVARISTO: Una postura a favor de que cada familia pueda firmar libremente la oferta simplificada sin piso alguno. Otra a favor del piso. Quince minutos cada una, réplica de cinco, dúplica de cinco. La señorita Berg defiende la primera, si quiere. Y la señora Khady, la segunda. ||| 각 가구가 하한 없이 간이 제안에 자유롭게 서명할 수 있어야 한다는 입장이 하나, 하한에 찬성하는 입장이 하나요. 각 15분, 반론 5분, 재반론 5분. 베르그 씨가 첫 번째를 변호하고 싶다면 하고, 카디 부인이 두 번째를 맡는 거지.
+BERG: Acepto. Es un formato justo. ||| 수락합니다. 공정한 형식입니다.
+KHADY: Acepto, con una condición. Que quienes han de decidir, las familias, puedan hacer preguntas desde la plaza. Controversia con voz de los afectados. ||| 수락합니다. 조건이 하나 있습니다. 결정할 당사자인 가족들이 광장에서 질문할 수 있게 해 주세요. 피해 당사자의 목소리가 있는 논쟁으로요.
+ELISE: Concedido. Tendrán diez minutos de preguntas después de las réplicas. ¿Se aprueba? ||| 승인합니다. 반론 후 10분간 질문 시간을 드리겠습니다. 가결입니까?
+VARIOS: Aprobado. ||| 가결.
+ELISE: Señorita Berg, tiene la palabra. Quince minutos. ||| 베르그 씨, 발언하세요. 15분입니다.
++ controversia de Valladolid (1550–51) = 카를 5세가 소집한 토론회. 라스 카사스와 세풀베다가 원주민 정복·통치의 정당성을 놓고 맞섰다. 이 화의 토론 방식의 모델
++ réplica / dúplica = 반론 / 재반론. 토론·소송에서 상대 주장에 대한 응답 순서
++ tesis = 주장, 논제. 'tesis' 복수형도 'tesis'
++ equivalente = 동등한. 'tiempo equivalente'
++ concedido = 승인한다. 의장이 요청을 받아들일 때 쓰는 짧은 표현
++ con voz de los afectados = 피해 당사자의 목소리와 함께. 'voz'는 발언권·의견
+
+## 첫 번째 입장 — LA TESIS DE BOREAL
+BERG: Gracias, señora presidenta. Voy a defender un principio que creo que nadie en esta sala discute en abstracto: la libertad de contratar. Las doscientas catorce familias de Punta Sal son personas adultas. Pueden decidir qué hacen con su futuro. ||| 감사합니다, 의장님. 이 방에서 추상적으로는 아무도 반박하지 않을 원칙을 변호하겠습니다. 계약의 자유입니다. 푼타 살 214가구는 성인입니다. 자기 미래를 어떻게 할지 결정할 수 있습니다.
+BERG: Boreal ofrece un pago inmediato. No el año que viene. No dentro de cinco años y tres comisiones. Hoy. Una familia con un hijo enfermo necesita dinero hoy. ¿Con qué derecho se le dice que espere? ||| 보레알은 즉각 지급을 제안합니다. 내년이 아닙니다. 위원회 셋을 거친 5년 뒤가 아니에요. 오늘입니다. 아픈 아이가 있는 가족은 오늘 돈이 필요합니다. 무슨 권리로 기다리라고 합니까?
+BERG: Un piso fijado por esta Comisión es, aunque se presente con buenas intenciones, una forma de paternalismo. Dice a las familias: «Nosotros sabemos mejor que ustedes cuánto vale su sufrimiento». ¿No es esa una arrogancia? ||| 이 위원회가 정하는 하한은 좋은 뜻으로 제시되더라도 가부장주의의 한 형태입니다. 가족들에게 '당신들 고통이 얼마의 값인지 우리가 더 잘 안다'고 말하는 거죠. 그건 오만이 아닙니까?
+BERG: Y recuerdo a esta Comisión que ninguna de las doscientas catorce familias ha sido obligada a firmar. Quienes lo han hecho, y son pocos, lo hicieron libremente. ||| 그리고 이 위원회에 상기시킵니다. 214가구 중 누구도 서명을 강요받지 않았습니다. 서명한 가구는 소수이며 자유롭게 했습니다.
+BERG: Concluyo. La Comisión debe proteger la libertad de las familias para firmar o no firmar. No debe sustituirla. Gracias. ||| 결론입니다. 위원회는 가족들이 서명하거나 하지 않을 자유를 보호해야 합니다. 그것을 대신해서는 안 됩니다. 감사합니다.
+ELISE: Gracias, señorita Berg. Un excelente alegato. Señora Khady, tiene la palabra para su tesis. Quince minutos. ||| 감사합니다, 베르그 씨. 훌륭한 변론이었습니다. 카디 부인, 주장을 발언하세요. 15분입니다.
+KHADY: Gracias. Mi colega ha dicho algo muy cierto: nadie es obligado a firmar. Y algo muy falso: que quien firma lo hace libremente. ||| 감사합니다. 동료께서 아주 맞는 말씀을 하셨습니다. 아무도 서명을 강요받지 않았다는 것. 그리고 아주 틀린 말씀도요. 서명하는 사람이 자유롭게 한다는 것.
+KHADY: Un consentimiento es libre cuando es informado. Las familias de Punta Sal recibieron un documento que su agente local calificó de «recibo». Un documento que no existía en wolof. Un documento que contenía una cesión de créditos y de derechos reales de los que no se les informó. Eso no es libertad. Eso es una trampa con buena letra. ||| 동의는 정보를 알 때 자유롭습니다. 푼타 살 가족들은 현지 대리인이 '영수증'이라 부른 서류를 받았습니다. 월로프어로는 존재하지 않던 서류입니다. 채권과 물권 양도가 들어 있었는데 알려 주지 않았죠. 그건 자유가 아닙니다. 예쁜 글씨의 함정입니다.
+KHADY: Mi colega habla de paternalismo. Pero un piso no impide a ninguna familia firmar. Solo dice: si firma por menos de tanto, podrá deshacer el trato. Es una red de seguridad. Quien no la necesita, no la usa. ||| 동료는 가부장주의를 말합니다. 하지만 하한은 어느 가족도 서명하는 걸 막지 않습니다. 그저 이만큼보다 적게 서명하면 거래를 무를 수 있다고 말할 뿐이죠. 안전망입니다. 필요 없는 사람은 쓰지 않습니다.
+KHADY: Y existe desde hace ochocientos años. Las Partidas de Alfonso X, en el siglo trece, ya establecían que quien vendiera por menos de la mitad del justo precio podía deshacer el trato. Hace ochocientos años, un rey sabio entendió que la libertad de contratar no incluye la libertad de ser engañado. ||| 그리고 8백 년 전부터 있었습니다. 13세기 알폰소 10세의 『7부법전』은 정당한 값의 절반 미만으로 판 사람이 거래를 무를 수 있다고 이미 정했습니다. 8백 년 전 현명한 왕이 계약의 자유에 속임을 당할 자유는 포함되지 않는다고 이해했죠.
+KHADY: Mi colega dice que los pobres necesitan dinero hoy. Es verdad. Por eso el Fondo de Tasas Transparentes ya ha entregado mil euros a cada familia, sin renunciar a nada. La urgencia ya no es un argumento a favor de la oferta. Es un argumento contra ella. ||| 동료는 가난한 이들이 오늘 돈이 필요하다고 말합니다. 맞습니다. 그래서 투명 접근료 기금이 이미 가구마다 1천 유로를 아무것도 포기하지 않고 지급했습니다. 이제 긴급성은 제안을 지지하는 논거가 아닙니다. 제안에 반대하는 논거입니다.
+KHADY: Concluyo. La Comisión debe proteger la libertad de las familias. Y la mejor forma de proteger la libertad de contratar es garantizar que, cuando se contrate, se sepa qué se contrata. Gracias. ||| 결론입니다. 위원회는 가족들의 자유를 보호해야 합니다. 계약의 자유를 지키는 가장 좋은 방법은 계약할 때 무엇을 계약하는지 알도록 보장하는 것입니다. 감사합니다.
++ alegato = 변론, 주장서. 'un excelente alegato'
++ libertad de contratar = 계약의 자유. 'contratar'는 계약하다
++ consentimiento informado = 정보에 입각한 동의. 의료·계약 모두에서 쓰는 개념
++ paternalismo = 가부장주의. 당사자의 판단을 대신하려는 태도
++ red de seguridad = 안전망. 'quien no la necesita, no la usa'
++ trampa con buena letra = 예쁜 글씨의 함정. 4화의 'obra de arte jurídica' 주제와 이어진다

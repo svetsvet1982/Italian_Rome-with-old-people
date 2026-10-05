@@ -1,0 +1,218 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 11
+@title La controversia
+@ko 논쟁
+@setting 12월 21일 토요일 제네바 빌라 대회의실 + 푼타 살 마을 광장(화상 연결) 생중계
+@level B2-C1
+@cast ELISE | 위원회 의장, 54세
+@cast BERG | 보레알 수석 변호사, 38세
+@cast KHADY | 칸다라 위원, 변호사, 31세
+@cast AWA | 칸다라 위원, 푼타 살 시장 상인 대표
+@cast IBOU | 칸다라 위원, 어부 대표
+@cast EVARISTO | 문서고 수석 관리인, 스페인 위원, 72세
+@cast OLMEDO | 판사, 스페인 위원
+@cast SALAS | 의사, 스페인 위원
+@cast MOUSSA | 푼타 살 장로, 화상 연결, 82세
+@cast FATOU | 아픈 아이의 어머니, 화상 연결
+@cast ÁLVARO | 에바리스토의 자문
+@note 2부의 클라이맥스입니다. 이 화의 형식은 바야돌리드 논쟁(1550–51)을 본뜬 공개 토론입니다. 두 입장이 각각 발언하고 판단은 위원들이 합니다. 토론 어휘(tesis 주장, réplica 반론, dúplica 재반론, argumentar 논증하다, rebatir 반박하다)와 공개 표결 어법에 주목하세요. 해법은 마을의 '열린 회의(concejo abierto)'가 하한 결의를 받아들이고 포시토 규약을 승인하는 데 있습니다.
+@next 2부 12화 — «La residencia»(레지덴시아) — 알바로에 대한 공개 검토가 열린다. 알다스는 소송의 문을 두드리고, 이반의 이름이 나온다. 그리고 한 사람이 마지막 의자에 앉을 차례가 다가온다.
+
+## 논쟁의 규칙 — LAS REGLAS DE VALLADOLID
+ELISE: Señoras y señores, buenos días. Hoy celebramos la audiencia pública final antes de la votación de la resolución previa sobre el piso. La emisión se hace en directo y se proyecta en la plaza de Punta Sal, donde hay, según me informan, ciento ochenta personas. ||| 여러분, 좋은 아침입니다. 오늘은 하한 선행 결의 표결 전 마지막 공개 청문을 엽니다. 방송은 생중계되고 푼타 살 광장에도 상영되고 있습니다. 보고에 따르면 그곳에 백팔십 명이 모여 있다고 합니다.
+AWA: Ciento ochenta y tres. Me acaba de decir mi nieto. ||| 백팔십삼 명이에요. 방금 손자가 말해 줬어요.
+ELISE: Ciento ochenta y tres. Disculpe. ||| 백팔십삼 명이군요. 실례했습니다.
+EVARISTO: Señora presidenta, me atrevo a proponer una forma de debate. En mil quinientos cincuenta, el emperador Carlos V reunió en Valladolid a los teólogos y juristas más importantes de su reino para resolver una cuestión muy grave: con qué derecho se conquistaba y se gobernaba a los pueblos de América. ||| 의장님, 토론 방식을 하나 제안하겠소. 1550년에 황제 카를 5세는 가장 중요한 신학자와 법학자들을 바야돌리드에 모아 아주 중대한 문제를 정하게 했소. 어떤 권리로 아메리카 민족들을 정복하고 통치하느냐는 문제였지.
+OLMEDO: La famosa controversia. Entre fray Bartolomé de las Casas y Juan Ginés de Sepúlveda. ||| 유명한 논쟁이죠. 바르톨로메 데 라스 카사스 수사와 후안 히네스 데 세풀베다 사이의.
+EVARISTO: Exacto. No hubo un vencedor oficial, pero pasó algo importante: dos posturas opuestas se expusieron ante un tribunal, con tiempo equivalente, sin interrupciones, y con la obligación de que cada una respondiera a la otra. Aquello fue más valioso que cualquier sentencia. ||| 맞소. 공식적인 승자는 없었지만 중요한 일이 일어났소. 정반대의 두 입장이 같은 시간으로, 중단 없이, 서로에게 답하는 의무와 함께 재판부 앞에 펼쳐졌지. 그건 어떤 판결보다 가치가 있었소.
+ELISE: ¿Y cómo lo aplicamos hoy? ||| 그럼 오늘 어떻게 적용합니까?
+EVARISTO: Una postura a favor de que cada familia pueda firmar libremente la oferta simplificada sin piso alguno. Otra a favor del piso. Quince minutos cada una, réplica de cinco, dúplica de cinco. La señorita Berg defiende la primera, si quiere. Y la señora Khady, la segunda. ||| 각 가구가 하한 없이 간이 제안에 자유롭게 서명할 수 있어야 한다는 입장이 하나, 하한에 찬성하는 입장이 하나요. 각 15분, 반론 5분, 재반론 5분. 베르그 씨가 첫 번째를 변호하고 싶다면 하고, 카디 부인이 두 번째를 맡는 거지.
+BERG: Acepto. Es un formato justo. ||| 수락합니다. 공정한 형식입니다.
+KHADY: Acepto, con una condición. Que quienes han de decidir, las familias, puedan hacer preguntas desde la plaza. Controversia con voz de los afectados. ||| 수락합니다. 조건이 하나 있습니다. 결정할 당사자인 가족들이 광장에서 질문할 수 있게 해 주세요. 피해 당사자의 목소리가 있는 논쟁으로요.
+ELISE: Concedido. Tendrán diez minutos de preguntas después de las réplicas. ¿Se aprueba? ||| 승인합니다. 반론 후 10분간 질문 시간을 드리겠습니다. 가결입니까?
+VARIOS: Aprobado. ||| 가결.
+ELISE: Señorita Berg, tiene la palabra. Quince minutos. ||| 베르그 씨, 발언하세요. 15분입니다.
++ controversia de Valladolid (1550–51) = 카를 5세가 소집한 토론회. 라스 카사스와 세풀베다가 원주민 정복·통치의 정당성을 놓고 맞섰다. 이 화의 토론 방식의 모델
++ réplica / dúplica = 반론 / 재반론. 토론·소송에서 상대 주장에 대한 응답 순서
++ tesis = 주장, 논제. 'tesis' 복수형도 'tesis'
++ equivalente = 동등한. 'tiempo equivalente'
++ concedido = 승인한다. 의장이 요청을 받아들일 때 쓰는 짧은 표현
++ con voz de los afectados = 피해 당사자의 목소리와 함께. 'voz'는 발언권·의견
+
+## 첫 번째 입장 — LA TESIS DE BOREAL
+BERG: Gracias, señora presidenta. Voy a defender un principio que creo que nadie en esta sala discute en abstracto: la libertad de contratar. Las doscientas catorce familias de Punta Sal son personas adultas. Pueden decidir qué hacen con su futuro. ||| 감사합니다, 의장님. 이 방에서 추상적으로는 아무도 반박하지 않을 원칙을 변호하겠습니다. 계약의 자유입니다. 푼타 살 214가구는 성인입니다. 자기 미래를 어떻게 할지 결정할 수 있습니다.
+BERG: Boreal ofrece un pago inmediato. No el año que viene. No dentro de cinco años y tres comisiones. Hoy. Una familia con un hijo enfermo necesita dinero hoy. ¿Con qué derecho se le dice que espere? ||| 보레알은 즉각 지급을 제안합니다. 내년이 아닙니다. 위원회 셋을 거친 5년 뒤가 아니에요. 오늘입니다. 아픈 아이가 있는 가족은 오늘 돈이 필요합니다. 무슨 권리로 기다리라고 합니까?
+BERG: Un piso fijado por esta Comisión es, aunque se presente con buenas intenciones, una forma de paternalismo. Dice a las familias: «Nosotros sabemos mejor que ustedes cuánto vale su sufrimiento». ¿No es esa una arrogancia? ||| 이 위원회가 정하는 하한은 좋은 뜻으로 제시되더라도 가부장주의의 한 형태입니다. 가족들에게 '당신들 고통이 얼마의 값인지 우리가 더 잘 안다'고 말하는 거죠. 그건 오만이 아닙니까?
+BERG: Y recuerdo a esta Comisión que ninguna de las doscientas catorce familias ha sido obligada a firmar. Quienes lo han hecho, y son pocos, lo hicieron libremente. ||| 그리고 이 위원회에 상기시킵니다. 214가구 중 누구도 서명을 강요받지 않았습니다. 서명한 가구는 소수이며 자유롭게 했습니다.
+BERG: Concluyo. La Comisión debe proteger la libertad de las familias para firmar o no firmar. No debe sustituirla. Gracias. ||| 결론입니다. 위원회는 가족들이 서명하거나 하지 않을 자유를 보호해야 합니다. 그것을 대신해서는 안 됩니다. 감사합니다.
+ELISE: Gracias, señorita Berg. Un excelente alegato. Señora Khady, tiene la palabra para su tesis. Quince minutos. ||| 감사합니다, 베르그 씨. 훌륭한 변론이었습니다. 카디 부인, 주장을 발언하세요. 15분입니다.
+KHADY: Gracias. Mi colega ha dicho algo muy cierto: nadie es obligado a firmar. Y algo muy falso: que quien firma lo hace libremente. ||| 감사합니다. 동료께서 아주 맞는 말씀을 하셨습니다. 아무도 서명을 강요받지 않았다는 것. 그리고 아주 틀린 말씀도요. 서명하는 사람이 자유롭게 한다는 것.
+KHADY: Un consentimiento es libre cuando es informado. Las familias de Punta Sal recibieron un documento que su agente local calificó de «recibo». Un documento que no existía en wolof. Un documento que contenía una cesión de créditos y de derechos reales de los que no se les informó. Eso no es libertad. Eso es una trampa con buena letra. ||| 동의는 정보를 알 때 자유롭습니다. 푼타 살 가족들은 현지 대리인이 '영수증'이라 부른 서류를 받았습니다. 월로프어로는 존재하지 않던 서류입니다. 채권과 물권 양도가 들어 있었는데 알려 주지 않았죠. 그건 자유가 아닙니다. 예쁜 글씨의 함정입니다.
+KHADY: Mi colega habla de paternalismo. Pero un piso no impide a ninguna familia firmar. Solo dice: si firma por menos de tanto, podrá deshacer el trato. Es una red de seguridad. Quien no la necesita, no la usa. ||| 동료는 가부장주의를 말합니다. 하지만 하한은 어느 가족도 서명하는 걸 막지 않습니다. 그저 이만큼보다 적게 서명하면 거래를 무를 수 있다고 말할 뿐이죠. 안전망입니다. 필요 없는 사람은 쓰지 않습니다.
+KHADY: Y existe desde hace ochocientos años. Las Partidas de Alfonso X, en el siglo trece, ya establecían que quien vendiera por menos de la mitad del justo precio podía deshacer el trato. Hace ochocientos años, un rey sabio entendió que la libertad de contratar no incluye la libertad de ser engañado. ||| 그리고 8백 년 전부터 있었습니다. 13세기 알폰소 10세의 『7부법전』은 정당한 값의 절반 미만으로 판 사람이 거래를 무를 수 있다고 이미 정했습니다. 8백 년 전 현명한 왕이 계약의 자유에 속임을 당할 자유는 포함되지 않는다고 이해했죠.
+KHADY: Mi colega dice que los pobres necesitan dinero hoy. Es verdad. Por eso el Fondo de Tasas Transparentes ya ha entregado mil euros a cada familia, sin renunciar a nada. La urgencia ya no es un argumento a favor de la oferta. Es un argumento contra ella. ||| 동료는 가난한 이들이 오늘 돈이 필요하다고 말합니다. 맞습니다. 그래서 투명 접근료 기금이 이미 가구마다 1천 유로를 아무것도 포기하지 않고 지급했습니다. 이제 긴급성은 제안을 지지하는 논거가 아닙니다. 제안에 반대하는 논거입니다.
+KHADY: Concluyo. La Comisión debe proteger la libertad de las familias. Y la mejor forma de proteger la libertad de contratar es garantizar que, cuando se contrate, se sepa qué se contrata. Gracias. ||| 결론입니다. 위원회는 가족들의 자유를 보호해야 합니다. 계약의 자유를 지키는 가장 좋은 방법은 계약할 때 무엇을 계약하는지 알도록 보장하는 것입니다. 감사합니다.
++ alegato = 변론, 주장서. 'un excelente alegato'
++ libertad de contratar = 계약의 자유. 'contratar'는 계약하다
++ consentimiento informado = 정보에 입각한 동의. 의료·계약 모두에서 쓰는 개념
++ paternalismo = 가부장주의. 당사자의 판단을 대신하려는 태도
++ red de seguridad = 안전망. 'quien no la necesita, no la usa'
++ trampa con buena letra = 예쁜 글씨의 함정. 4화의 'obra de arte jurídica' 주제와 이어진다
+## 반론과 재반론 — RÉPLICA Y DÚPLICA
+ELISE: Réplica de la señorita Berg. Cinco minutos. ||| 베르그 씨 반론입니다. 5분입니다.
+BERG: Mi colega ha dicho algo muy elocuente sobre la información. Pero no ha respondido a mi pregunta central. ¿Con qué derecho una comisión de nueve personas, tres de ellas extranjeras, fija el precio del sufrimiento de otros? ||| 동료는 정보에 대해 아주 설득력 있게 말씀하셨습니다. 하지만 제 핵심 질문에는 답하지 않았습니다. 아홉 사람, 그중 셋은 외국인인 위원회가 무슨 권리로 남의 고통의 값을 정합니까?
+BERG: Un piso es un precio. Y los precios los fija el mercado, no los comités. ||| 하한은 값입니다. 그리고 값은 위원회가 아니라 시장이 정합니다.
+KHADY: Dúplica. ||| 재반론입니다.
+ELISE: Cinco minutos. ||| 5분입니다.
+KHADY: Me sorprende que Boreal hable de mercado. Un mercado supone que los dos lados conocen lo que se intercambia. En Punta Sal, un lado conocía el contenido de la salmuera, los datos geológicos, el valor de los terrenos. El otro, no. Eso no es un mercado. Es un monopolio de información. ||| 보레알이 시장을 말하는 게 놀랍습니다. 시장은 양쪽이 교환하는 걸 안다고 전제합니다. 푼타 살에서는 한쪽이 염수의 성분, 지질 자료, 땅의 가치를 알고 다른 쪽은 몰랐습니다. 그건 시장이 아니라 정보 독점입니다.
+BERG: Esa es una acusación... ||| 그건 고발…
+KHADY: Una descripción, señorita Berg. Su empresa mandó a un muchacho en moto con una hoja. ¿Quiere que le recuerde su texto? ||| 묘사입니다, 베르그 씨. 귀사는 젊은이를 오토바이로 서류 한 장과 함께 보냈죠. 그 문구를 상기시켜 드릴까요?
+ELISE: Señora Khady, modere el tono. ||| 카디 부인, 어조를 낮추세요.
+KHADY: Gracias, señora presidenta. Moderado. Pero el texto sigue siendo el mismo. ||| 감사합니다, 의장님. 낮췄습니다. 하지만 문구는 그대로입니다.
+ELISE: Pasamos a la ronda de preguntas de la plaza de Punta Sal. Señor Moussa, tiene la palabra. ||| 푼타 살 광장의 질문 순서로 넘어갑니다. 무사 어르신, 발언하세요.
+MOUSSA: Gracias, hija. Tengo ochenta y dos años y no entiendo de mercados. Entiendo de preguntas. Quiero preguntarle algo a la señorita Berg. ||| 고맙네, 아가. 나는 여든두 살이고 시장은 모르오. 질문은 안다오. 베르그 양에게 묻고 싶은 게 있소.
+BERG: Dígame, señor. ||| 말씀하세요, 어르신.
+MOUSSA: ¿Usted firmaría un papel que no puede leer en su propia lengua? ||| 아가씨는 자기 언어로 읽을 수 없는 종이에 서명하겠소?
+BERG: ... Soy abogada. Leo todo lo que firmo. ||| …저는 변호사입니다. 서명하는 건 다 읽습니다.
+MOUSSA: Eso no es lo que le pregunto. Le pregunto si firmaría un papel que no pudiera leer en su lengua. ||| 그건 내가 묻는 게 아니오. 자기 언어로 읽을 수 없는 종이에 서명하겠느냐고 묻는 거요.
+BERG: No. ||| 아니요.
+MOUSSA: Gracias. Eso es lo único que necesitaba saber. ||| 고맙소. 내가 알아야 할 건 그게 전부였소.
+ELISE: Señora Fatou. ||| 파투 부인.
+FATOU: Gracias. Quiero hablar para las que no hablan. A mí vino ese muchacho. Me dijo: «Es un recibo». Mi hijo necesita una operación. Yo estuve a punto de firmar. Lo que me salvó fue que un señor español preguntó: «¿Puede leerlo en voz alta?». ||| 감사합니다. 말하지 못하는 사람들을 대신해 말하고 싶어요. 그 젊은이가 저한테 왔어요. '영수증입니다'라고 했죠. 제 아들은 수술이 필요해요. 저는 서명하기 직전이었어요. 저를 구한 건 한 스페인 분이 '소리 내어 읽어 줄 수 있습니까?'라고 물은 거였어요.
+FATOU: Mi hijo se opera mañana en Puerto Alba. Con mil euros del Fondo y mil euros de un pósito de un señor al que llaman «archivero». No he firmado nada. Quiero que quede escrito. ||| 제 아들은 내일 푸에르토 알바에서 수술을 받아요. 기금의 1천 유로와 '문서 관리인'이라 불리는 분의 포시토 1천 유로로요. 저는 아무것도 서명하지 않았어요. 기록에 남기고 싶어요.
+ELISE: Constará, señora Fatou. Con gran alegría. ||| 기록되겠습니다, 파투 부인. 큰 기쁨으로요.
+EVARISTO: Señora presidenta, permítame ceder la palabra al señor Quintana, que ha sido asesor de esta delegación y que quiere decir algo sobre la oferta de Boreal. ||| 의장님, 이 대표단의 자문을 맡았고 보레알 제안에 대해 말하고 싶어 하는 킨타나 씨에게 발언권을 넘기겠소.
+ELISE: Señor Quintana, tiene voz, no voto. ||| 킨타나 씨, 발언권이 있고 투표권은 없습니다.
+ÁLVARO: Gracias, señora presidenta. Lo que voy a decir lo he dicho ya al señor Strand, a bordo de un barco, delante de dos testigos: la oferta de Boreal ha mejorado. Treinta mil euros por familia. Es una cifra seria. Pero un aspecto sigue sin cambiar. ||| 감사합니다, 의장님. 제가 말할 내용은 이미 배 위에서 두 증인 앞에 스트란드 씨에게 말씀드렸습니다. 보레알의 제안은 개선됐습니다. 가구당 3만 유로입니다. 진지한 금액이죠. 하지만 한 가지는 여전히 바뀌지 않았습니다.
+BERG: ¿Cuál? ||| 뭡니까?
+ÁLVARO: La asimetría de información sobre el litio. Mientras las familias no conozcan el valor de lo que ceden, no hay consentimiento libre. Por eso propongo, a título personal, que la Comisión añada un segundo punto al piso. ||| 리튬에 대한 정보 비대칭입니다. 가족들이 양도하는 것의 가치를 모르는 한 자유로운 동의는 없습니다. 그래서 개인 자격으로 위원회가 하한에 두 번째 항목을 더하길 제안합니다.
+ELISE: Adelante. ||| 말씀하세요.
+ÁLVARO: Que cualquier cesión de derechos reales sobre los terrenos comunales de Punta Sal solo sea válida si ha sido aprobada por el concejo abierto de la comunidad, tras recibir un estudio geológico independiente. Y que el concejo abierto decida por votación pública. ||| 푼타 살 공동 토지에 대한 어떤 물권 양도든 독립적인 지질 조사를 받은 뒤 공동체의 열린 회의에서 승인된 경우에만 유효하다는 항목입니다. 그리고 열린 회의가 공개 표결로 결정한다는 것이죠.
+IBOU: ¿Concejo abierto? ||| 열린 회의요?
+EVARISTO: Una institución española muy antigua. Cuando un pueblo es pequeño, no elige representantes: se reúnen todos los vecinos en la plaza, bajo un árbol, y deciden en común. Todavía existen cientos en España. ||| 아주 오래된 스페인 제도요. 마을이 작으면 대표를 뽑지 않고 모든 주민이 광장의 나무 아래 모여 함께 결정하지. 지금도 스페인에는 수백 개가 있소.
+AWA: Eso es lo que hacemos nosotros en Punta Sal bajo el baobab. ||| 우리가 푼타 살 바오바브나무 아래서 하는 일이네요.
+EVARISTO: Exacto. ||| 맞소.
++ elocuente = 설득력 있는, 웅변적인. 'un discurso elocuente'
++ monopolio de información = 정보 독점. 시장이 성립하지 않는 상황을 비판하는 표현
++ a título personal = 개인 자격으로. 'a título de + 자격'
++ concejo abierto = 열린 회의(마을 주민 직접 민주제). 스페인의 작은 마을에서 모든 주민이 광장에서 모여 결정하는 제도. 이 화의 해법 논거
++ estar a punto de + 원형 = 막 ~하려던 참이다. 'estuve a punto de firmar'
++ constará = 기록되겠습니다. 'constar'의 미래형. 의장이 기록하겠다고 약속할 때
+
+## 열린 회의 — EL CONCEJO ABIERTO
+AWA: Señora presidenta, me ha pedido mi gente que le diga algo. Aquí hay ciento ochenta y tres personas en la plaza. El anciano Moussa dice que lo que ha propuesto el señor Quintana les parece justo. Pero antes de que lo decida la Comisión, quieren decidirlo ellos. ||| 의장님, 우리 사람들이 말씀드려 달라고 했어요. 광장에 백팔십삼 명이 있어요. 무사 어르신은 킨타나 씨가 제안한 게 정당해 보인다고 하십니다. 하지만 위원회가 결정하기 전에 그들이 스스로 결정하고 싶어 해요.
+ELISE: ¿Un concejo abierto en directo? ||| 생중계로 열린 회의를요?
+AWA: Ahora mismo. Con una pregunta. ||| 지금 당장요. 질문 하나로요.
+ELISE: ¿Cuál? ||| 어떤 질문입니까?
+AWA: Que lo pregunte el anciano. ||| 어르신이 묻게 하세요.
+MOUSSA: Vecinos. Que levante la mano quien quiera que el Pósito de Punta Sal tenga tres reglas. Primera: que las cuentas estén siempre en un libro abierto, que cualquiera pueda leer. Segunda: que quien reparte se quede con la última parte. Tercera: que ninguna tierra de esta aldea se ceda sin que la plaza lo decida antes. ||| 이웃들이여. 푼타 살 포시토에 세 가지 규칙이 있기를 원하는 사람은 손을 드시오. 첫째, 장부는 누구든 읽을 수 있게 언제나 열려 있을 것. 둘째, 나누는 사람이 마지막 몫을 가질 것. 셋째, 이 마을의 어떤 땅도 광장이 먼저 결정하지 않고는 양도되지 않을 것.
+AWA: Se ven manos. Muchas manos. Las cuento. Ciento setenta y seis. ||| 손이 보입니다. 아주 많아요. 세겠어요. 백칠십육 명이에요.
+MOUSSA: ¿En contra? ||| 반대는?
+AWA: Una mano. Ibrahima, el del puesto de las redes. ||| 한 명. 그물 가게의 이브라히마예요.
+IBRAHIMA: Es que no estoy de acuerdo con la tercera. Mi hermano vive en Dakar y quiere vender su parte. ||| 세 번째에 동의하지 않아서요. 제 형은 다카르에 사는데 자기 몫을 팔고 싶어 해요.
+MOUSSA: Entonces la plaza decidirá cuando tu hermano venda, Ibrahima. Y le escucharemos. Eso es lo que significa «abierto». ||| 그럼 네 형이 팔 때 광장이 결정할 것이다, 이브라히마. 그리고 우리가 그의 말을 들을 것이다. 그게 '열린'의 뜻이다.
+IBRAHIMA: Entonces retiro mi mano. ||| 그럼 제 손을 내리겠습니다.
+MOUSSA: Ciento ochenta y tres. Decidido. Que conste en acta. ||| 백팔십삼. 결정됐소. 기록에 남기시오.
+ELISE: Consta, señor Moussa. Con la fecha y la hora. ||| 기록되었습니다, 무사 어르신. 날짜와 시각과 함께요.
+EVARISTO: Es la primera vez en mi vida que veo cumplido un concejo abierto en directo por una pantalla. Se me están empañando las gafas. ||| 평생 화면으로 생중계되는 열린 회의가 이뤄지는 걸 보는 건 처음이오. 안경이 뿌예지는군.
+OLMEDO: A mí también, don Evaristo. Y le ruego que no lo comente. ||| 저도요, 에바리스토 씨. 그리고 말씀하지 말아 주세요.
++ levantar la mano = 손을 들다. 공개 표결 방식
++ puesto de las redes = 그물 가게. 'puesto'는 시장의 가판·가게
++ cumplido = 이행된, 완수된. 여기서는 열린 회의가 실제로 이루어졌다는 뜻
++ empañarse = 김이 서리다, 뿌예지다. 'se me empañan las gafas'
++ que conste en acta = 회의록에 남기시오. 접속법 현재의 명령
++ ¿en contra? = 반대는? 표결 진행 용어
+
+## 하한의 표결 — LA VOTACIÓN
+ELISE: Votamos ahora la resolución previa. El texto es el siguiente. Uno: el piso se fija en veinticuatro mil euros por familia, calculado según el baremo público anexo. Cualquier renuncia a acciones por una cantidad inferior será rescindible. ||| 이제 선행 결의를 표결합니다. 문안은 다음과 같습니다. 하나, 하한은 첨부된 공개 산정표에 따라 계산된 가구당 2만 4천 유로로 정한다. 그보다 적은 금액으로의 소송 포기는 취소할 수 있다.
+ELISE: Dos: cualquier cesión de derechos reales sobre los terrenos comunales de Punta Sal exigirá la aprobación del concejo abierto, tras recibir un estudio geológico independiente. ||| 둘, 푼타 살 공동 토지에 대한 모든 물권 양도는 독립적인 지질 조사를 받은 뒤 열린 회의의 승인을 요한다.
+ELISE: Tres: se reconoce el Pósito de Punta Sal, con las tres reglas aprobadas por la plaza, como destinatario de las aportaciones que se determinen. ||| 셋, 마을 광장이 승인한 세 규칙을 가진 푼타 살 포시토를 확정될 출연금의 수취 기관으로 인정한다.
+ELISE: Votos a favor. ||| 찬성하는 분.
+AWA: A favor. ||| 찬성.
+IBOU: A favor. ||| 찬성.
+KHADY: A favor. ||| 찬성.
+EVARISTO: A favor. ||| 찬성.
+OLMEDO: A favor. Y quiero añadir que lo hago convencida. ||| 찬성입니다. 그리고 확신을 갖고 한다는 걸 덧붙이겠습니다.
+SALAS: A favor. ||| 찬성.
+CATARINA: A favor. ||| 찬성.
+WEBER: A favor. ||| 찬성.
+ELISE: A favor, por supuesto. Nueve votos a favor, cero en contra. Queda aprobada la resolución previa de Punta Sal. ||| 저도 찬성입니다. 찬성 아홉, 반대 없음. 푼타 살 선행 결의가 가결되었습니다.
+BERG: Señora presidenta, Boreal desea hacer constar su protesta formal y su reserva de acciones ante los tribunales competentes. ||| 의장님, 보레알은 공식 항의와 관할 법원에서의 소송 권리 유보를 기록해 줄 것을 요청합니다.
+ELISE: Consta, señorita Berg. Y le informo de que la Comisión no considera esto como una derrota de Boreal, sino como un procedimiento transparente. Si Boreal desea ofrecer lo mismo que ofrecía, puede hacerlo ahora, con el piso y con el consentimiento del concejo abierto. ||| 기록됩니다, 베르그 씨. 그리고 위원회는 이를 보레알의 패배가 아니라 투명한 절차로 본다고 알립니다. 보레알이 제안하던 걸 그대로 제안하길 원한다면 이제 하한과 열린 회의의 동의를 거쳐 가능합니다.
+BERG: Tomo nota. ||| 유념하겠습니다.
+ÁLVARO: Don Evaristo. ||| 에바리스토 선생님.
+EVARISTO: Dime, Álvaro. ||| 말해 보게, 알바로.
+ÁLVARO: No era una controversia. Era una lección. ||| 논쟁이 아니라 수업이었습니다.
+EVARISTO: Las mejores controversias lo son. En Valladolid nadie ganó. Pero salieron las Leyes Nuevas de Indias. Y aquí, hoy, un pueblo ha decidido con su mano qué hacer con su tierra. Eso sí es ganar. ||| 최고의 논쟁은 그렇지. 바야돌리드에서는 아무도 이기지 못했지만 인디아스 신법이 나왔소. 그리고 오늘 이곳에서 한 마을이 손으로 자기 땅을 어떻게 할지 결정했지. 그게 이기는 거요.
+ÁLVARO: Hoy tiene una nieta en Punta Sal. ||| 오늘 푼타 살에 손녀가 한 명 생기셨네요.
+EVARISTO: Una nieta, y ciento ochenta y tres nietos más. Y un limonero del que no tengo noticia. ||| 손녀 하나, 그리고 백팔십삼 명의 손주들. 그리고 내가 소식을 모르는 레몬나무 하나.
++ resolución previa = 선행 결의. 최종 결정에 앞서 기준을 정하는 결의
++ rescindible = 취소할 수 있는. 5화에서 나온 계약법 어휘
++ aportaciones = 출연금. 'aportación'의 복수
++ reserva de acciones = 소송 권리 유보. 이후 소송할 수 있는 권리를 남겨 둔다는 선언
++ ante los tribunales competentes = 관할 법원 앞에서. 'competente'는 관할권이 있는
++ no era una controversia, era una lección = 'no era A, era B' 대조. 알바로의 요약 문장
+## 표결 뒤의 복도 — EL PASILLO TRAS EL VOTO
+MARINA: ¡Álvaro! ¡Nueve a cero! ||| 알바로! 아홉 대 영이에요!
+ÁLVARO: Lo he oído. Tengo todavía los oídos calientes. ||| 들었어. 아직 귀가 뜨거워.
+MARINA: ¿Y la señora Berg? Salió con una cara de póker. ||| 베르그 씨는요? 포커페이스로 나갔어요.
+ÁLVARO: Una cara de póker con la mandíbula muy tensa. Se defiende con las cartas que tiene. ||| 턱이 아주 굳은 포커페이스였지. 가진 카드로 방어하는 거야.
+MARINA: ¿Cree que Boreal va a abandonar? ||| 보레알이 포기할 거라고 보세요?
+ÁLVARO: No. Strand me lo dijo en el ferry: su socio es más impaciente de lo que él cree. Y los inversores impacientes hacen dos cosas: se retiran con un portazo o se vuelven peligrosos. ||| 아니. 스트란드가 페리에서 말했지. 파트너는 자기가 생각하는 것보다 성급하다고. 그리고 성급한 투자자는 둘 중 하나를 해. 문을 쾅 닫고 철수하거나 위험해지거나.
+MARINA: ¿Cuál cree que escogerán? ||| 어느 쪽을 택할 것 같아요?
+ÁLVARO: La segunda. Porque no tienen costumbre de perder. ||| 두 번째. 지는 데 익숙하지 않으니까.
+MARINA: Hay otra cosa. Verbeke me ha pedido que le diga que quiere hablar con usted. Después de la votación. En su despacho. ||| 하나 더 있어요. 베르베케 국장님이 선배님과 이야기하고 싶다고 전해 달라고 했어요. 표결 뒤에요. 자기 사무실에서.
+ÁLVARO: ¿Para qué? ||| 무슨 일로?
+MARINA: No me lo ha dicho. Pero ha sonreído. Eso, en ella, es peor que una amenaza. ||| 말해 주지 않았어요. 하지만 미소를 지었어요. 그 사람에게는 위협보다 나쁜 신호예요.
+ÁLVARO: Voy. ||| 갈게.
+ELISE: Álvaro. Gracias por venir. ||| 알바로. 와 주셔서 감사합니다.
+ÁLVARO: Directora. ||| 국장님.
+ELISE: Voy a ser breve. La Comisión acaba de tomar una decisión histórica. Pero ha creado una dificultad práctica. Nos hace falta una secretaría ejecutiva para el Pósito de Punta Sal. Una persona que ayude a la plaza a gobernar el libro abierto, sin gobernarlo ella. ||| 간단히 하겠습니다. 위원회는 방금 역사적인 결정을 내렸습니다. 하지만 실무적 어려움도 만들었어요. 푼타 살 포시토를 위한 사무국이 필요합니다. 광장이 열린 장부를 운영하도록 돕되 자신이 운영하지는 않는 사람이요.
+ÁLVARO: Un perfil muy difícil. ||| 아주 어려운 인재상이군요.
+ELISE: Es un perfil de funcionario con humildad. Una especie rara. ||| 겸손한 공무원의 인재상이죠. 희귀종입니다.
+ÁLVARO: Directora, voy a ser embajador en Ulán Bator en febrero. ||| 국장님, 저는 2월에 울란바토르 대사가 됩니다.
+ELISE: Lo sé. Marina me lo contó. Por eso no se lo propongo a usted. Quiero que nos recomiende a alguien. ||| 압니다. 마리나가 말했어요. 그래서 당신에게 제안하는 게 아닙니다. 누군가 추천해 달라는 거예요.
+ÁLVARO: ¿Alguien que sea una especie rara? ||| 희귀종인 누군가를요?
+ELISE: Alguien que sepa preguntar «¿puede leerlo en voz alta?». ||| '소리 내어 읽어 줄 수 있습니까?'라고 물을 줄 아는 사람이요.
+ÁLVARO: ... Conozco a una. Se llama Marina Ortega. ||| …한 명 압니다. 이름은 마리나 오르테가입니다.
+ELISE: Es lo que me temía que dijera. Ya lo había pensado. Pero se lo pregunto a usted, porque ella no me creerá si se lo propongo yo. ||| 그렇게 말씀하실까 걱정했어요. 이미 생각해 봤죠. 하지만 당신에게 묻는 건, 제가 제안하면 본인이 믿지 않을 테니까요.
+ÁLVARO: Se lo diré yo. Y ella dirá que no. Y luego aceptará. ||| 제가 말하겠습니다. 그러면 처음엔 거절하고 나중에 수락할 겁니다.
+ELISE: Es un mecanismo muy español. ||| 아주 스페인다운 메커니즘이군요.
+ÁLVARO: Lo llamamos «hacerse de rogar». ||| '빼기'라고 부릅니다.
++ cara de póker = 포커페이스. 무표정을 가리키는 관용구
++ portazo = 문을 쾅 닫는 것. 'darle un portazo a alguien'은 갑자기 관계를 끊다
++ secretaría ejecutiva = 사무국. 'secretario ejecutivo'는 사무총장급 실무 책임자
++ especie rara = 희귀종. 사람의 특성을 유머로 말하는 표현
++ me temía = 걱정했다. 'temerse'는 불길하게 예상하다
++ hacerse de rogar = 빼다, 못 이기는 척하다. 부탁받길 기다리며 사양하는 태도
+
+## 밤의 약속 — LA CENA PENDIENTE
+LUCÍA: Papá, he visto la votación. ¡Nueve a cero! ||| 아빠, 표결 봤어. 아홉 대 영!
+ÁLVARO: ¿Dónde lo has visto? ||| 어디서 봤어?
+LUCÍA: En la tele de la cocina, con mamá. Se ha puesto de pie cuando salió el viejo con el baobab y levantó la mano. ||| 부엌 텔레비전으로 엄마랑. 바오바브나무 이야기하던 어르신이 손을 들자 엄마가 일어섰어.
+ÁLVARO: ¿Tu madre se ha puesto de pie? ||| 네 엄마가 일어섰다고?
+LUCÍA: Y ha dicho: «Eso es derecho». Después se ha puesto a llorar y ha dicho que era por la cebolla. ||| 그리고 '저게 법이지'라고 했어. 그러고 울면서 양파 때문이라고 했고.
+ÁLVARO: Qué mujer más difícil. ||| 참 어려운 사람이야.
+LUCÍA: Papá, hemos pensado una cosa. Mamá y yo. La cena que debes. ||| 아빠, 엄마랑 둘이 생각한 게 있어. 아빠가 빚진 저녁 식사.
+ÁLVARO: Dime. ||| 말해 봐.
+LUCÍA: Mañana. En casa. Sin móviles. Yo cocino. Mamá pone el vino. Tú pones la conversación. ||| 내일. 집에서. 휴대폰 없이. 내가 요리하고 엄마가 와인을 내고 아빠가 대화를 가져오는 거야.
+ÁLVARO: ¿Qué cocinas? ||| 뭘 요리해?
+LUCÍA: Tortilla de patatas. Con una cebolla muy bien caramelizada. Y de postre, limones. ||| 감자 토르티야. 아주 잘 캐러멜라이즈한 양파로. 그리고 후식은 레몬.
+ÁLVARO: ¿Limones? ||| 레몬이요?
+LUCÍA: Los de tu despacho. Me los ha pasado un funcionario que dice que ya no los cuentas. ||| 아빠 사무실 거야. 이제 세지 않는다고 하는 직원이 줬어.
+ÁLVARO: Eso sí es una conspiración. ||| 이건 정말 음모네.
+LUCÍA: Mañana a las nueve. Con tres testigos: tú, mamá y yo. ||| 내일 아홉 시. 증인 셋과 함께. 아빠, 엄마, 나.
+ÁLVARO: Tres testigos es el número perfecto. ||| 증인 셋이면 완벽한 숫자지.
+LUCÍA: Papá. ¿Te voy a ver sin la cara de lunes? ||| 아빠. 월요일 얼굴 없이 아빠를 볼 수 있을까?
+ÁLVARO: Voy a intentarlo con todos mis recursos. ||| 가진 모든 수단을 다해 노력해 볼게.
+LUCÍA: Eso suena a político. ||| 정치인 말처럼 들려.
+ÁLVARO: Pues entonces voy a intentarlo sin recursos. Solo con ganas. ||| 그럼 수단 없이 해 볼게. 의욕만으로.
+LUCÍA: Eso suena mejor. ||| 그게 더 낫네.
++ ponerse de pie = 일어서다. 'ponerse de pie'
++ ponerse a + 원형 = ~하기 시작하다. 'se ha puesto a llorar'
++ eso es derecho = 저게 법이다. 법적 정의가 구현됐다는 감탄
++ la cena que debes = 네가 빚진 저녁. 'deber'의 현재형으로 빚을 말한다
++ cara de lunes = 월요일 얼굴. 피곤하고 우울한 표정을 가리키는 구어
++ conspiración = 음모. 가족 사이의 장난스러운 계획에 쓴 반어
