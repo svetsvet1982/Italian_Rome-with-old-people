@@ -1,0 +1,94 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 1
+@title El barco de rescate
+@ko 구조선
+@setting 1월 말 월요일 마드리드 외교부 5층 레몬나무 사무실 → 차관실 → 오후 타마지아 대사관 → 밤 무선 통화
+@level B2-C1
+@cast ÁLVARO | 외교관 · 울란바토르 대사 내정자, 44세
+@cast ARRIETA | 외교부 차관급 Secretario de Estado, 58세
+@cast CALVO | 하원 외교위원회 위원장, 58세
+@cast BENSAÏD | 타마지아 왕국 주스페인 대사, 55세
+@cast ZUBIRI | 구조선 선장, 41세 (무선 통화)
+@cast PIÑEIRO | 구조선 요리사, 59세 (무선 통화)
+@cast MARINA | 브뤼셀 직원, 전화 연결
+@note 3부 A사건(1~3화)의 시작입니다. 3부는 한 화에 사건 하나가 아니라 네 개의 사건이 각각 세 화에 걸쳐 풀립니다. 이 화에서는 2부에서 받은 '사전 통지 의무'가 실제 절차로 등장합니다. 인도주의 구조 어휘(rescate 구조·몸값, náufragos 조난자, puerto seguro 안전항, custodia 보호·구금)와, 같은 단어 'rescate'가 가진 두 가지 뜻(구조와 몸값)에 주목하세요. 해법의 논거는 메르세드 수도회(1218)의 포로 구속 전통입니다.
+@next 3부 2화 — «El cautivo de Argel»(알제의 포로) — 직함 없는 방문객으로만 입국이 허락된 알바로는 살마라의 낡은 서점에서 한 노인을 만난다. 그의 서가에는 4백 년 전 한 스페인 군인의 몸값 영수증이 꽂혀 있다.
+
+## 사전 통지 — EL AVISO
+ÁLVARO: Señora Calvo, buenos días. Soy Álvaro Quintana. Le llamo para cumplir un compromiso. ||| 칼보 위원장님, 안녕하십니까. 알바로 킨타나입니다. 약속을 지키려고 전화드립니다.
+CALVO: Señor Quintana. Qué sorpresa. ¿Qué compromiso? ||| 킨타나 씨. 놀랍군요. 무슨 약속이죠?
+ÁLVARO: La resolución del señor Lacalle me obliga a comunicar a su Comisión cualquier operación reservada futura. Todavía no hay operación. Pero es posible que la haya esta tarde. ||| 라칼레 재판관의 결정문은 향후 모든 비공개 작전을 위원회에 통지하도록 의무화합니다. 아직 작전은 없습니다. 하지만 오늘 오후에 생길 수 있습니다.
+CALVO: ¿Me llama para avisarme de que quizá me va a avisar? ||| 곧 알릴지도 모른다고 알리려고 전화하신 겁니까?
+ÁLVARO: Sí, señora presidenta. Es una forma de ensayar. ||| 네, 위원장님. 연습하는 겁니다.
+CALVO: Es lo más raro que me han dicho esta semana. Y ha habido una semana intensa. ¿De qué se trata? ||| 이번 주에 들은 말 중 제일 이상하군요. 그리고 이번 주는 정신없었는데요. 무슨 일입니까?
+ÁLVARO: Un barco de rescate de una fundación española ha sido retenido ayer en un puerto de Tamazia. A bordo, nueve tripulantes españoles y treinta y una personas recogidas en el mar. ||| 스페인 재단의 구조선이 어제 타마지아의 한 항구에서 억류됐습니다. 선내에는 스페인 승무원 아홉 명과 바다에서 구조한 서른한 명이 있습니다.
+CALVO: Dios mío. ¿Hay niños? ||| 맙소사. 아이들도 있습니까?
+ÁLVARO: Ocho. ||| 여덟 명입니다.
+CALVO: ¿Y quién se ocupa? ||| 누가 맡고 있습니까?
+ÁLVARO: Esa es la cuestión. La Unidad de Negociaciones Reservadas sigue suspendida. El señor Arrieta me ha pedido que lo gestione de forma temporal y, al amparo de su resolución, como gestión humanitaria. ||| 그게 문제입니다. 비공개협상실은 여전히 정지 상태입니다. 아리에타 차관님이 임시로 맡아 달라고 했고, 결정문에 따라 인도주의적 조치로 처리합니다.
+CALVO: «Gestión humanitaria comunicada con antelación». Ya la he comunicado a la Mesa. ¿Qué necesita de mí? ||| '사전에 통지된 인도주의적 조치'로군요. 이미 운영위에 통지했습니다. 제게 필요한 건 무엇입니까?
+ÁLVARO: Nada. Solo que lo sepa. Y que, si dentro de tres semanas alguien le pregunta por qué un funcionario sin unidad negoció con un reino africano, usted pueda contestar: «Me avisó el primer día». ||| 없습니다. 알고 계시기만 하면 됩니다. 3주 뒤 누가 부서도 없는 공무원이 왜 아프리카 왕국과 협상했느냐고 묻는다면 '첫날 알려 왔다'고 답하실 수 있도록요.
+CALVO: Señor Quintana, es usted el primer compareciente que me avisa en lugar de explicarse. Gracias. Cuente con mi atención. Y con mi discreción, salvo que la ley me obligue a otra cosa. ||| 킨타나 씨, 해명하는 대신 미리 알려 주는 첫 출석자시군요. 감사합니다. 주의 깊게 지켜보겠습니다. 그리고 법이 달리 요구하지 않는 한 신중하게요.
+ÁLVARO: Eso es todo lo que pido. ||| 제가 바라는 건 그게 전부입니다.
++ aviso = 통지, 알림. 'avisar'는 미리 알리다
++ al amparo de = ~의 보호(근거) 아래. 법적 근거를 말할 때 쓰는 표현
++ de forma temporal = 임시로. 'temporal'은 한시적인
++ ensayar = 연습하다. 2부 9화의 'ensayar'(연설 연습)와 같은 동사
++ ¿de qué se trata? = 무슨 일입니까? 'tratarse de'는 비인칭으로 '~에 관한 일이다'
++ en lugar de + 원형 = ~하는 대신. 'avisa en lugar de explicarse'
+
+## 차관실 — EL DESPACHO DE ARRIETA
+ARRIETA: Pase, Quintana. Me han dicho que ha llamado a la presidenta de la Comisión. ||| 들어오세요, 킨타나. 위원회 위원장께 전화하셨다고 들었습니다.
+ÁLVARO: Para cumplir la resolución. ||| 결정문을 지키려고요.
+ARRIETA: Los funcionarios cumplen la ley. Usted la ensaya. Siéntese. Este es el caso. ||| 공무원은 법을 지키죠. 당신은 연습하고요. 앉으세요. 사건은 이렇습니다.
+ARRIETA: El «Nuestra Señora de la Merced», cuarenta y dos metros, bandera española, propiedad de la Fundación Mar Abierto. Hace cuatro días rescató a treinta y una personas de una balsa hinchable a treinta millas de la costa de Tamazia. ||| '메르세드 성모'호, 42미터, 스페인 선적, 마르 아비에르토 재단 소유입니다. 나흘 전 타마지아 해안에서 30마일 떨어진 곳에서 고무보트의 서른한 명을 구조했습니다.
+ARRIETA: Pidió puerto seguro al centro de coordinación marítima. No hubo respuesta. Con el mar empeorando, entró en aguas tamazias, y una patrullera la escoltó hasta Puerto Nuevo. Ayer el capitán de puerto la declaró retenida. ||| 해상 조정 센터에 안전항을 요청했지만 응답이 없었습니다. 날씨가 나빠지자 타마지아 영해로 들어갔고 순시선이 푸에르토 누에보까지 호송했습니다. 어제 항만장이 억류를 선언했죠.
+ÁLVARO: ¿Cargos? ||| 혐의는요?
+ARRIETA: Tres. Entrada no autorizada en aguas territoriales. Facilitación de inmigración irregular. Y «alteración del orden marítimo». ||| 세 가지입니다. 영해 무허가 진입. 불법 이민 조력. 그리고 '해상 질서 교란'.
+ÁLVARO: Una acusación para cada gusto. ||| 취향대로 고르는 고발이군요.
+ARRIETA: Piden dos millones de euros en concepto de «gastos de custodia». Y una disculpa pública de la fundación. Y la prohibición de operar en la zona durante diez años. ||| 200만 유로의 '보호 비용'을 요구합니다. 재단의 공개 사과, 그리고 10년간 해당 해역 활동 금지도요.
+ÁLVARO: Dos millones. Un precio. ||| 200만이라. 값이군요.
+ARRIETA: Lo llaman «gastos». Pero sí. Es un precio. ||| '비용'이라고 부르지만 맞습니다. 값이죠.
+ÁLVARO: ¿Y quién ha pedido que me ocupe yo? ||| 그래서 제가 맡게 해 달라고 누가 요청했습니까?
+ARRIETA: Yo. Y la ministra. Los Servicios de Salvamento Marítimo dicen que es un asunto político. El Ministerio del Interior, que es humanitario. Y el de Justicia, que es de las dos cosas. Nadie quiere que sea suyo. ||| 저와 장관님입니다. 해상구조청은 정치 문제라 하고, 내무부는 인도주의 문제라 하고, 법무부는 둘 다라고 합니다. 아무도 자기 것으로 하고 싶어 하지 않죠.
+ÁLVARO: Qué buen sistema. ||| 좋은 제도로군요.
+ARRIETA: Quintana, le pido una cosa. Que antes de salir a negociar escuche. Cuando llegue a Salmara no se encontrará con un ministro, sino con un reino. Y los reinos pequeños tienen tres miedos: que los humillen, que los ignoren y que los exploten. ||| 킨타나, 부탁이 하나 있습니다. 협상에 나서기 전에 들어 주세요. 살마라에 가면 장관이 아니라 왕국을 만나게 될 겁니다. 그리고 작은 왕국에는 세 가지 두려움이 있습니다. 모욕당하는 것, 무시당하는 것, 이용당하는 것.
+ÁLVARO: Lo tendré presente. ¿Quién me recibirá? ||| 명심하겠습니다. 누가 저를 맞이합니까?
+ARRIETA: Nadie, oficialmente. El Reino de Tamazia no recibe «funcionarios españoles» mientras dure la retención. Solo «visitantes a título privado». ||| 공식적으로는 아무도요. 타마지아 왕국은 억류 기간 동안 '스페인 공무원'을 받지 않습니다. '개인 자격의 방문객'만 받습니다.
+ÁLVARO: Un funcionario sin unidad, sin firma y de visita privada. Hay que reconocer que mi perfil mejora. ||| 부서도 서명도 없는 공무원이 개인 방문이라. 제 이력이 나아지는 건 인정해야겠군요.
+ARRIETA: Hoy a las cinco el embajador tamazio, Karim Bensaïd, le espera en su residencia. No es una reunión. Es un té. ||| 오늘 다섯 시에 타마지아 대사 카림 벤사이드가 관저에서 기다립니다. 회의가 아니라 차 한 잔입니다.
++ concepto de = ~ 명목으로. 'en concepto de gastos'는 비용 명목으로
++ puerto seguro = 안전항. 조난자를 하선시킬 수 있는 항구
++ facilitación = 조력, 편의 제공. 'facilitar'는 가능하게 하다
++ a título privado = 개인 자격으로. 2부 11화의 'a título personal'과 비슷
++ patrullera = 순시선. 해안 경비정
++ cada gusto = 각자의 취향. 'para cada gusto'는 입맛대로 고를 수 있게 많다는 뜻
+
+## 대사관저의 차 — EL TÉ DEL EMBAJADOR
+BENSAÏD: Señor Quintana. Bienvenido. No es una reunión. Es un té. ||| 킨타나 씨. 환영합니다. 회의가 아닙니다. 차 한 잔입니다.
+ÁLVARO: Así me lo ha explicado el señor secretario de Estado. ||| 차관님이 그렇게 설명하셨습니다.
+BENSAÏD: Siéntese. Mi esposa ha preparado dátiles rellenos. No los rechace, que se ofendería. ||| 앉으세요. 아내가 속 채운 대추야자를 준비했습니다. 거절하지 마세요, 서운해하니까요.
+ÁLVARO: Con mucho gusto. ¿Cuánto tiempo lleva en Madrid? ||| 기꺼이요. 마드리드에는 얼마나 계셨습니까?
+BENSAÏD: Siete años. Estudié en la Complutense. Me casé con una española, de Albacete. Mi hija habla mejor castellano que árabe. Y lo que me dice mi hija es que nadie debería hacer sufrir a unos niños en un barco. ||| 7년입니다. 콤플루텐세 대학에서 공부했고 알바세테 출신 스페인 여자와 결혼했어요. 딸은 아랍어보다 스페인어를 더 잘합니다. 그리고 딸이 제게 하는 말은 아무도 배 위의 아이들을 고통받게 해서는 안 된다는 겁니다.
+ÁLVARO: Estoy de acuerdo con su hija. ||| 따님 말에 동의합니다.
+BENSAÏD: Pero yo no mando en Puerto Nuevo. Soy embajador de un reino con un rey, tres ministros y mil intereses. Y le diré, con toda sinceridad, que lo de la «retención» no ha sido idea del rey. ||| 하지만 저는 푸에르토 누에보를 지휘하지 않습니다. 왕 한 분과 장관 셋과 천 가지 이해관계를 가진 왕국의 대사입니다. 그리고 솔직히 말하면 '억류'는 왕의 생각이 아니었습니다.
+ÁLVARO: ¿De quién? ||| 누구 생각이었습니까?
+BENSAÏD: De la Autoridad Portuaria. Y de un grupo de armadores locales. ||| 항만청과 현지 선주들 모임입니다.
+ÁLVARO: ¿Por qué un grupo de armadores querría retener un barco de rescate? ||| 왜 선주들이 구조선을 억류하려 할까요?
+BENSAÏD: Esa es la pregunta que yo le haría al cocinero del barco. ||| 제가 선박 요리사에게 묻고 싶은 질문이에요.
+ÁLVARO: ¿El cocinero? ||| 요리사요?
+BENSAÏD: Se llama Piñeiro. Un gallego grande con barba. El oficial de la patrullera me dijo que fue el único que le preguntó por la salud de su madre. En un barco retenido, quien pregunta por tu madre es un diplomático. ||| 피녜이로라는 이름의 덩치 큰 갈리시아 사람이에요. 순시선 장교가 말하기를 자기 어머니의 건강을 물어본 건 그 사람뿐이었답니다. 억류된 배에서 어머니 안부를 묻는 사람은 외교관이죠.
+ÁLVARO: Hablaré con él. ¿Se puede? ||| 그와 이야기해 보겠습니다. 가능합니까?
+BENSAÏD: A las nueve de esta noche, el barco tiene hora de radio con la fundación. Yo puedo conseguir que usted oiga. ||| 오늘 밤 아홉 시에 배가 재단과 무선 교신 시간이 있습니다. 제가 들으실 수 있게 해 드리죠.
+ÁLVARO: Gracias, señor embajador. ||| 감사합니다, 대사님.
+BENSAÏD: No me dé las gracias. Dígale al cocinero que el embajador le agradece lo de la madre. Y escuche con atención lo que dice. A veces los cocineros saben más que los almirantes. ||| 감사하지 마세요. 요리사에게 대사가 어머니 안부 일을 고맙게 여긴다고 전해 주세요. 그리고 그가 하는 말을 주의 깊게 들으세요. 가끔 요리사가 제독보다 더 많이 압니다.
+ÁLVARO: Eso me lo han dicho antes. ||| 전에도 그런 말을 들었습니다.
+BENSAÏD: Entonces es una ley. ||| 그럼 법칙이군요.
++ dátiles rellenos = 속 채운 대추야자. 아랍·북아프리카 환대 음식
++ Autoridad Portuaria = 항만청. 항구를 관리하는 공공기관
++ en toda sinceridad / con toda sinceridad = 아주 솔직하게. 'con toda sinceridad'
++ complutense = 마드리드 콤플루텐세 대학. 'la Complutense'
++ mandar en = ~을 지휘하다, 좌우하다. 'no mando en Puerto Nuevo'
++ a veces los cocineros saben más = 가끔 요리사가 더 많이 안다. 1부 1화의 차노 모티프가 이어진다
