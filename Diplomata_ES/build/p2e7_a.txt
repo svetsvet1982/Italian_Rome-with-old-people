@@ -1,0 +1,96 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 7
+@title Las cuentas del Gran Capitán
+@ko 그란 카피탄의 장부
+@setting 일요일 저녁 마드리드 알바로의 집 → 월요일 새벽 레티로 공원 → 화요일 낮 알바로의 사무실 → 밤 부엌
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast LUCÍA | 알바로의 딸, 16세
+@cast ELENA | 알바로의 전처, 변호사, 43세
+@cast MARINA | 브뤼셀 직원, 전화 연결
+@note 이 화는 '더러운 수단' 화입니다. 알바로는 1부에서 쓴 방패가 이번에는 칼이 되길 요구받습니다. 스페인 역사의 '그란 카피탄의 장부(cuentas del Gran Capitán)' 일화는 재정 보고를 비꼬는 유명한 이야기로, 공개 회계 요구와 비밀 자금의 차이를 가르는 논거가 됩니다. 도덕적 질문을 대화로 푸는 방식(찬성·반대·재정의)에 주목하세요.
+@next 2부 8화 — «La Brevísima»(간추린 보고서) — 알다스와 룬드의 역공이 시작된다. 신문 1면에 알바로의 핀 드라이브 이야기가 실리고, 기자 파올라는 그에게 한 가지를 묻는다. '진실은 누구 편입니까.'
+
+## 일요일 밤의 방문 — LA VISITA DE REBECA
+REBECA: Buenas noches. No me has invitado, así que me invito yo. ||| 안녕. 초대는 안 했지만 내가 나를 초대했어.
+ÁLVARO: Rebeca. Pasa. ¿Cómo has entrado en el portal? ||| 레베카. 들어와. 현관은 어떻게 들어왔어?
+REBECA: Soy espía. Es una pregunta ofensiva. ||| 난 첩보원이야. 모욕적인 질문이네.
+ÁLVARO: Perdona. ¿Quieres café? ||| 미안. 커피 줄까?
+REBECA: Con leche. Y sin preguntas por una hora. ||| 우유 넣어서. 그리고 한 시간 동안 질문 없이.
+ÁLVARO: Eso es un contrato difícil. ||| 어려운 계약이네.
+REBECA: Todos los contratos conmigo lo son. Ya has visto que en Ginebra la comisión fijó un calendario. Yo he seguido a Boreal estas semanas. Hay una pieza que no encaja. ||| 나와의 계약은 다 어려워. 제네바에서 위원회가 일정을 정한 건 알지. 나는 그동안 보레알을 쫓았어. 맞지 않는 조각이 하나 있어.
+ÁLVARO: ¿Cuál? ||| 어떤 조각이야?
+REBECA: Toda su operación, el once por ciento, la fiduciaria, las ofertas, está pensada para llegar a un punto: el treinta y uno de diciembre. Pero Boreal no es una empresa que haga cosas por una fecha. Hace cosas por un contrato. ||| 그들의 모든 작전은, 지분 11퍼센트, 신탁회사, 제안들, 한 시점을 향해 설계돼 있어. 12월 31일. 하지만 보레알은 날짜 때문에 움직이는 회사가 아니야. 계약 때문에 움직이지.
+ÁLVARO: ¿Qué contrato? ||| 어떤 계약?
+REBECA: Eso es lo que no sé. Pero sé dónde está. En un servidor de Estocolmo, en una oficina de la calle Birger Jarlsgatan. Los correos de Strand y de Berg. ||| 그건 몰라. 하지만 어디 있는지는 알아. 스톡홀름 비르게르 야를스가탄의 사무실 서버에. 스트란드와 베르그의 이메일이야.
+ÁLVARO: ¿Y qué propones? ||| 그래서 무엇을 제안해?
+REBECA: Que te vengas conmigo a Estocolmo. Una semana. Entramos en la oficina un sábado, instalamos un dispositivo y copiamos lo que haya. Yo me ocupo de la técnica. Tú, de la puerta. ||| 나와 같이 스톡홀름에 가자는 거야. 일주일. 토요일에 사무실에 들어가서 장치를 설치하고 있는 걸 복사해. 기술은 내가 맡을게. 너는 문을 맡아.
+ÁLVARO: Una operación ilegal, en un país amigo, de un funcionario suspendido. ||| 우방국에서, 정직된 공무원이 하는 불법 작전이군.
+REBECA: Lo has resumido mejor que yo. ||| 나보다 요약을 잘했네.
+ÁLVARO: Rebeca, hace dos meses dije ante una comisión del Congreso que la próxima vez tomaría una decisión así «a la vista de ustedes». ||| 레베카, 두 달 전 의회 위원회 앞에서 다음에 이런 결정을 하면 '여러분의 눈앞에서' 하겠다고 말했어.
+REBECA: ¿Y eso qué significa? ||| 그게 무슨 뜻이야?
+ÁLVARO: Que no puedo ir a Estocolmo sin que lo sepan. ||| 알리지 않고는 스톡홀름에 갈 수 없다는 뜻이야.
+REBECA: Si lo saben, no es una operación. Es una excursión. ||| 알려지면 작전이 아니라 소풍이지.
+ÁLVARO: Exacto. ||| 바로 그거야.
+REBECA: Álvaro. Tienes una deuda conmigo. Te pido que la pagues así. ||| 알바로. 넌 내게 빚이 있어. 이렇게 갚으라고 부탁하는 거야.
+ÁLVARO: Rebeca, lo que te pido a ti es que me ayudes a pagar de otra manera. No esto. ||| 레베카, 내가 네게 부탁하는 건 다른 방식으로 갚게 해 달라는 거야. 이건 아니고.
+REBECA: ¿Qué manera? ||| 어떤 방식?
+ÁLVARO: Dame veinticuatro horas. Si en veinticuatro horas no he encontrado un camino legal, iré contigo. ||| 24시간만 줘. 24시간 안에 합법적인 길을 못 찾으면 너와 가겠어.
+REBECA: ¿Lo prometes? ||| 약속해?
+ÁLVARO: Lo prometo. ||| 약속해.
+REBECA: Te llamaré mañana a las once. ||| 내일 열한 시에 전화할게.
+ÁLVARO: Una pregunta antes de que te vayas. ¿Por qué ahora? ¿Por qué esta urgencia? ||| 가기 전에 하나 물을게. 왜 지금이야? 이 급박함은 뭐야?
+REBECA: Porque encontré el nombre de la empresa de mi hermano en un correo reciente de Berg. «Östra Logistik». ||| 최근 베르그의 이메일에서 오빠 회사 이름을 찾았거든. '외스트라 로지스티크'.
+ÁLVARO: Rebeca. ||| 레베카.
+REBECA: No me des tu pésame. Dame tu tiempo. ||| 위로하지 마. 시간을 줘.
++ pieza que no encaja = 맞지 않는 조각. 'encajar'는 맞물리다
++ dispositivo = 장치. 'instalar un dispositivo'는 기기를 설치하다
++ excursión = 소풍. 알려지면 비밀 작전이 소풍이 된다는 반어
++ dar el pésame = 조의를 표하다. 여기서는 위로한다는 뜻의 완곡 표현
++ ocuparse de = ~을 맡다. 'yo me ocupo de la técnica'
++ calle Birger Jarlsgatan = 스톡홀름의 번화가 거리. 가상 사무실의 주소로 쓰였다
+
+## 루시아의 숙제 — LA TAREA DE LUCÍA
+LUCÍA: Papá, te veo con cara de que me vas a decir algo. ||| 아빠, 뭔가 말하려는 얼굴이야.
+ÁLVARO: Siéntate. ¿Qué haces despierta? ||| 앉아. 안 자고 뭐 하니?
+LUCÍA: Tarea de Historia. Los cuentos de los reyes. Me ha tocado «Las cuentas del Gran Capitán». Y no sé cómo explicarlo. ||| 역사 숙제야. 왕들의 이야기. '그란 카피탄의 장부'가 걸렸는데 설명할 방법을 모르겠어.
+ÁLVARO: Qué casualidad. Es una de mis historias favoritas. ||| 우연이네. 내가 제일 좋아하는 이야기 중 하나인데.
+LUCÍA: ¿De verdad? ||| 정말?
+ÁLVARO: Gonzalo Fernández de Córdoba. El Gran Capitán. Ganó Nápoles para los Reyes Católicos a principios del siglo dieciséis. Era el militar más admirado de Europa. ||| 곤살로 페르난데스 데 코르도바. 그란 카피탄. 16세기 초 가톨릭 부부 왕을 위해 나폴리를 얻었지. 유럽에서 가장 존경받는 군인이었어.
+LUCÍA: ¿Y las cuentas? ||| 그럼 장부는?
+ÁLVARO: El rey Fernando le pidió que justificara los gastos. Y el Gran Capitán presentó una lista. «Doscientos mil setecientos treinta y seis ducados y nueve reales en frailes, monjas y pobres, para que rogasen a Dios por la prosperidad de las armas españolas». ||| 페르난도 왕이 비용 정산을 요구했어. 그러자 그란 카피탄이 목록을 제출했지. '수사, 수녀, 가난한 이들에게 스페인 군대의 번영을 하느님께 기도하게 한 비용으로 20만 736두카도 9레알'.
+LUCÍA: ¿Se lo inventó? ||| 지어낸 거야?
+ÁLVARO: Es la versión popular. Y la mejor: «Cien millones en picos, palas y azadones para enterrar a los muertos del enemigo». «Cien mil ducados en guantes perfumados para que los soldados no oliesen la pólvora». «Y diez millones por la paciencia con que he tolerado que el rey me pidiera cuentas». ||| 대중에 알려진 판본이야. 가장 좋은 건 이거지. '적의 전사자를 묻기 위한 곡괭이, 삽, 괭이 값 1억'. '병사들이 화약 냄새를 맡지 않도록 한 향수 장갑 값 10만 두카도'. '그리고 왕이 정산을 요구하는 걸 참아 낸 인내심 값 1천만'.
+LUCÍA: ¿Eso es un chiste? ||| 그게 농담이야?
+ÁLVARO: Es una rebeldía. Un hombre que ha dado un reino a su rey y a quien su rey pide una cuenta mezquina, responde con una lista absurda. ||| 반항이지. 왕에게 왕국을 안겨 준 사람에게 왕이 쩨쩨한 정산을 요구하자 터무니없는 목록으로 답한 거야.
+LUCÍA: ¿Y qué pasó? ||| 그래서 어떻게 됐어?
+ÁLVARO: El rey no le perdonó. Y el Gran Capitán acabó apartado de la corte. Ganó las batallas y perdió el favor. ||| 왕은 용서하지 않았어. 그란 카피탄은 궁정에서 밀려났지. 전투는 이겼지만 총애를 잃었어.
+LUCÍA: Pero la historia lo recuerda por eso. ||| 하지만 역사는 그걸로 그를 기억하네.
+ÁLVARO: Lo recuerda por las dos cosas. Y yo creo que hay una lección para cada lado. Para el rey: no humilles a quien te ha servido con una cuenta de tendero. Para el capitán: no responder con una burla cuando te piden cuentas, porque la burla no te absuelve. ||| 두 가지로 기억하지. 그리고 나는 양쪽에 교훈이 있다고 생각해. 왕에게는, 너를 섬긴 사람에게 장사꾼의 계산서로 모욕하지 말 것. 대장에게는, 정산을 요구받을 때 조롱으로 답하지 말 것. 조롱은 너를 무죄로 만들지 못하니까.
+LUCÍA: Entonces ¿las cuentas hay que rendirlas? ||| 그럼 장부는 보고해야 하는 거네?
+ÁLVARO: Siempre. Aunque duela. Sobre todo cuando se manejan fondos que no son tuyos. ||| 언제나. 아프더라도. 특히 네 것이 아닌 돈을 다룰 때는.
+LUCÍA: ¿Y el dinero secreto? ¿Los fondos reservados? ||| 그럼 비밀 자금은? 기밀비는?
+ÁLVARO: Esa es la pregunta. ¿Quién te lo ha dicho? ||| 그게 질문이야. 누가 알려 줬니?
+LUCÍA: Nadie. Estaba leyendo en el móvil. Dice que los servicios secretos tienen fondos reservados. ¿Y esos nadie los vigila? ||| 아무도. 휴대폰으로 읽었어. 비밀 정보기관에는 기밀비가 있대. 그건 아무도 감시하지 않아?
+ÁLVARO: Debería vigilarlos una comisión parlamentaria, en secreto pero con control. A veces ocurre y a veces, no. ||| 의회 위원회가 비밀리에, 하지만 통제를 갖고 감시해야 하지. 가끔은 그렇고 가끔은 아니야.
+LUCÍA: Papá, ¿tú has usado dinero secreto? ||| 아빠, 아빠도 비밀 돈을 쓴 적 있어?
+ÁLVARO: Nunca he gestionado fondos reservados. Pero he pedido a otras personas que hicieran cosas por mí. Y eso también es una cuenta que algún día hay que rendir. ||| 기밀비를 직접 운용한 적은 없어. 하지만 다른 사람에게 나 대신 일을 해 달라고 부탁한 적은 있지. 그것도 언젠가 보고해야 하는 장부야.
+LUCÍA: ¿Estás ahora en una situación así? ||| 지금 그런 상황이야?
+ÁLVARO: ... Sí. ||| …응.
+LUCÍA: ¿Qué te piden? ||| 무엇을 요구받아?
+ÁLVARO: Que haga algo sin que nadie lo sepa. Algo que probablemente sea útil y probablemente sea ilegal. ||| 아무도 모르게 뭔가를 하라는 거야. 아마 유용하고 아마 불법일 일을.
+LUCÍA: ¿Y qué piensas hacer? ||| 어떻게 할 거야?
+ÁLVARO: Buscar otra manera. Tengo hasta mañana a las once. ||| 다른 방법을 찾을 거야. 내일 열한 시까지 시간이 있어.
+LUCÍA: ¿Y si no la encuentras? ||| 못 찾으면?
+ÁLVARO: Entonces iré, y aceptaré lo que venga. Con las cuentas a la vista. ||| 그럼 가고 오는 건 받아들일 거야. 장부를 공개해 둔 채로.
+LUCÍA: Eso no me gusta. Es como decir «voy a hacer algo malo, pero con recibo». ||| 그건 마음에 안 들어. '나쁜 일을 하지만 영수증을 끊을게'라는 말 같아.
+ÁLVARO: ...Tienes razón. Los recibos no limpian. ||| …맞는 말이야. 영수증이 깨끗하게 해 주진 않지.
++ cuentas del Gran Capitán = 그란 카피탄의 장부. 곤살로 페르난데스 데 코르도바(1453–1515)가 페르난도 왕의 정산 요구에 '수사·수녀 기도비', '곡괭이와 삽' 같은 터무니없는 항목으로 응수했다는 일화. 오늘날 '터무니없이 부풀린 정산'을 가리키는 관용구
++ picos, palas y azadones = 곡괭이, 삽, 괭이. 그란 카피탄 장부의 유명한 항목
++ rendir cuentas = 정산·보고하다, 책임을 지다. 'rendir cuentas ante el Parlamento'
++ fondos reservados = 기밀비. 정보기관·정부가 사용 내역을 공개하지 않는 자금
++ cuenta de tendero = 장사꾼의 계산. 쩨쩨하게 따지는 정산을 비유
++ los recibos no limpian = 영수증이 깨끗하게 하지는 않는다. 루시아와 알바로의 도덕적 요약

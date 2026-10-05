@@ -1,0 +1,100 @@
+## 월요일 새벽의 전화 — ELENA, ABOGADA
+ÁLVARO: Elena, perdona la hora. Son las siete. ||| 엘레나, 시간이 이른 걸 이해해 줘. 일곱 시야.
+ELENA: Llevo despierta desde las seis. Los jueces no madrugan, pero los abogados sí. ¿Qué pasa? ||| 여섯 시부터 깨 있었어. 판사는 일찍 안 일어나지만 변호사는 일어나지. 무슨 일이야?
+ÁLVARO: Necesito una consulta jurídica. Y que no me preguntes para qué. ||| 법률 자문이 필요해. 그리고 뭐에 쓰는지 묻지 마.
+ELENA: Ya empezamos. Mi trabajo consiste en preguntar para qué. ||| 또 시작이네. 내 일은 뭐에 쓰느냐고 묻는 거야.
+ÁLVARO: Tienes razón. Te lo cuento a medias. Hay una comisión internacional con un calendario y una empresa privada que quiere participar como observadora. La comisión le ha puesto la condición de presentar sus documentos. Si no los presenta, no se sienta. ¿Qué pasa con una parte que se niega a mostrar documentos relevantes? ||| 맞아. 반만 얘기할게. 일정이 있는 국제 위원회가 있고 참관인으로 참여하려는 민간 기업이 있어. 위원회가 문서 제출을 조건으로 걸었지. 제출하지 않으면 앉지 못해. 관련 문서 제출을 거부하는 당사자는 어떻게 돼?
+ELENA: Depende del reglamento. En muchos sistemas, el tribunal puede extraer una inferencia desfavorable. Si no muestras lo que se te pide, el juez puede presumir que lo que escondes te perjudica. ||| 규칙에 따라 달라. 여러 법제에서 재판부가 불리한 추론을 끌어낼 수 있어. 요구받은 걸 보여 주지 않으면 숨기는 게 네게 불리하다고 판사가 추정할 수 있지.
+ÁLVARO: Inferencia desfavorable. Qué buen nombre. ||| 불리한 추론. 이름이 좋네.
+ELENA: En España hay una figura parecida: las diligencias preliminares de exhibición de documentos. No siempre aplica en el extranjero. Pero el principio es antiguo. Ya en el derecho romano, quien se negaba a mostrar un documento debía asumir que el juez entendiera lo peor. ||| 스페인에는 비슷한 제도가 있어. 문서 제시를 위한 사전 조사 절차. 외국에서 늘 적용되진 않지만 원칙은 오래됐어. 로마법에서도 문서 제시를 거부하는 사람은 판사가 최악으로 이해해도 감수해야 했지.
+ÁLVARO: Entonces el rechazo es una respuesta. ||| 그럼 거부도 하나의 답이군.
+ELENA: El silencio es una forma de hablar. Eso lo has dicho tú alguna vez. ||| 침묵은 말하는 한 방식이지. 당신이 한 말이야.
+ÁLVARO: Qué mala memoria tengo para mis propias frases. ||| 내 문장은 참 기억을 못 하네.
+ELENA: Para las frases de los demás tienes una memoria excelente. ¿Es para el asunto de Punta Sal? ||| 남의 문장은 아주 잘 기억하면서. 푼타 살 건이야?
+ÁLVARO: Te dije que no preguntaras. ||| 묻지 말라고 했잖아.
+ELENA: Soy abogada. Pregunto y luego sé. Mira, Álvaro. Si la empresa presenta documentos, perfecto. Si no, ya sabes qué hacer. Pero si lo que buscas es algo concreto, formula el requerimiento de forma muy precisa. Una lista general invita a una respuesta general. ||| 난 변호사야. 묻고 나서 알지. 이봐, 알바로. 기업이 문서를 제출하면 완벽하고, 안 하면 어떻게 할지 알겠지. 하지만 구체적인 걸 찾는다면 요구서를 아주 정밀하게 써. 일반 목록은 일반적인 답을 부르니까.
+ÁLVARO: Una lista precisa. ¿Qué incluye? ||| 정밀한 목록. 뭘 포함해?
+ELENA: Tipos de contratos, fechas, partes, importes y destinatarios. «Todos los contratos con terceros relativos a los créditos de Punta Sal». Con fecha de inicio y fin. ||| 계약 유형, 날짜, 당사자, 금액, 수신자. '푼타 살 채권과 관련된 제3자와의 모든 계약'. 시작일과 종료일을 붙여서.
+ÁLVARO: Gracias. Te debo una. ||| 고마워. 하나 빚졌어.
+ELENA: Me debes muchas. Con una me conformo si es una cena con Lucía y conmigo. En una mesa. Sin móviles. ||| 많이 빚졌지. 하나로 만족할게. 루시아와 나와 함께하는 저녁이면. 한 탁자에서. 휴대폰 없이.
+ÁLVARO: Hecho. ||| 약속할게.
++ inferencia desfavorable = 불리한 추론. 증거 제출을 거부한 당사자에게 불리하게 추정하는 법리
++ diligencias preliminares = 사전 조사 절차(민사소송 전 절차). 문서 제시 등을 청구할 수 있다
++ exhibición de documentos = 문서 제시. 소송에서 상대에게 문서를 보여 주도록 요구하는 절차
++ el silencio es una forma de hablar = 침묵은 말하는 한 방식. 알바로의 옛 문장으로 되돌아온다
++ conformarse con = ~에 만족하다. 'me conformo con una'
++ formular el requerimiento = 요구서를 작성하다. 'formular'는 공식적으로 진술·작성하다
+
+## 정밀한 목록 — EL REQUERIMIENTO
+MARINA: Tengo a la directora Verbeke al teléfono. Está en la sala de al lado. ||| 베르베케 국장님이 전화 연결돼 있어요. 옆방에 계세요.
+ÁLVARO: Elise, buenos días. Tengo una propuesta para la presidencia. ||| 엘리제, 좋은 아침입니다. 의장님께 드릴 제안이 있습니다.
+ELISE: Dígame, Álvaro. ||| 말씀하세요, 알바로.
+ÁLVARO: La condición que impusimos a Boreal fue presentar «todos sus documentos relativos a Punta Sal». Es una frase demasiado general. Propongo que la presidencia envíe un requerimiento específico. Con una lista cerrada. ||| 보레알에 건 조건은 '푼타 살과 관련된 모든 문서' 제출이었습니다. 너무 일반적인 문구입니다. 의장님이 구체적인 요구서를 보내 달라고 제안합니다. 닫힌 목록으로요.
+ELISE: ¿Qué incluiría? ||| 무엇이 포함됩니까?
+ÁLVARO: Primero: todos los contratos de Boreal, de Fiduciaria del Tajo y de sus filiales con terceros, relativos a créditos de Punta Sal, desde el primero de agosto. Segundo: toda comunicación con Atlántica Química y con el señor Rodrigo Aldaz sobre ese tema. Tercero: los presupuestos de campaña, incluyendo agentes locales y empresas de asesoría. Cuarto: la lista completa de familias contactadas, con fecha y resultado. ||| 첫째, 8월 1일 이후 보레알, 피두시아리아 델 타호와 그 계열사가 제3자와 맺은 푼타 살 채권 관련 모든 계약. 둘째, 아틀란티카 키미카와 로드리고 알다스 씨와의 해당 주제에 관한 모든 교신. 셋째, 현지 대리인과 자문사를 포함한 캠페인 예산. 넷째, 접촉한 가족 전체 명단과 날짜, 결과.
+ELISE: Es una lista que ellos van a leer como una declaración de guerra. ||| 그들은 선전포고처럼 읽을 목록이군요.
+ÁLVARO: Es una lista que una buena presidenta redacta para que no haya excusa. Y si se niegan, la Comisión puede dejar constancia de que lo que no se muestra se presume desfavorable. ||| 좋은 의장이 변명할 여지가 없도록 작성하는 목록입니다. 그리고 거부하면 위원회는 보이지 않는 것은 불리한 것으로 추정한다고 기록할 수 있습니다.
+ELISE: ¿Es eso una regla de nuestro reglamento? ||| 우리 규칙에 있는 겁니까?
+KHADY: Lo es. En el artículo doce, párrafo segundo. «La negativa injustificada a presentar un documento permite a la Comisión extraer las consecuencias que estime pertinentes». Yo misma redacté el artículo. ||| 있습니다. 제12조 2항에요. '정당한 이유 없는 문서 제출 거부는 위원회가 적절하다고 판단하는 결과를 끌어내도록 허용한다'. 제가 직접 쓴 조항이에요.
+ELISE: Entonces redactemos el requerimiento hoy mismo. Plazo de respuesta: el martes. ||| 그럼 오늘 요구서를 작성합시다. 답변 기한은 화요일입니다.
+MARINA: Yo lo preparo y se lo envío a Khady para que lo revise. ||| 제가 작성해서 카디 부인께 검토하도록 보내겠습니다.
+ELISE: Álvaro, una cosa. ¿Esto es suyo o es de la presidencia? ||| 알바로, 하나만요. 이건 당신 것입니까, 의장석 것입니까?
+ÁLVARO: Es de la presidencia. Yo solo he aprendido a hacer listas. ||| 의장석 것입니다. 저는 목록 만드는 법을 배웠을 뿐이에요.
+ELISE: Una buena respuesta. Y una mala excusa. Pero la acepto. ||| 좋은 대답이고 나쁜 변명이군요. 하지만 받아들입니다.
++ requerimiento = 요구서, 독촉장. 공식적으로 무언가를 제출·이행하라고 요구하는 문서
++ lista cerrada = 닫힌 목록. 항목이 정해져 추가 해석 여지가 없는 목록
++ declaración de guerra = 선전포고. 과장된 반응을 비유
++ negativa injustificada = 정당한 이유 없는 거부. 'negativa'는 거부
++ estime pertinentes = 적절하다고 판단하는. 접속법 현재 'estime'는 불확실한 판단
++ dejar constancia = 기록으로 남기다. 'constancia'는 증거·기록
+
+## 열한 시의 전화 — LAS ONCE
+REBECA: Son las once. Dime qué has encontrado. ||| 열한 시야. 뭘 찾았는지 말해.
+ÁLVARO: Un camino legal. No es tan rápido como el tuyo. Pero deja huella a la vista. ||| 합법적인 길. 네 방식만큼 빠르진 않아. 하지만 눈에 보이는 흔적을 남겨.
+REBECA: Cuéntamelo. ||| 말해 봐.
+ÁLVARO: La Comisión ha emitido un requerimiento a Boreal. Una lista cerrada de contratos y presupuestos. Si los presentan, tendremos exactamente lo que buscas, sin entrar en ninguna oficina. Si no, la Comisión podrá presumir lo peor. ||| 위원회가 보레알에 요구서를 보냈어. 계약과 예산의 닫힌 목록이야. 제출하면 사무실에 들어가지 않고도 네가 찾는 걸 정확히 얻게 돼. 제출하지 않으면 위원회가 최악을 추정할 수 있고.
+REBECA: ¿Y si presentan una versión recortada? ||| 잘라 낸 판본을 제출하면?
+ÁLVARO: Entonces tendremos una versión recortada que podremos comparar con lo que tú ya sabes. ||| 그럼 네가 이미 아는 것과 비교할 수 있는 잘린 판본을 갖게 되겠지.
+REBECA: Eres muy listo y muy lento. Las dos cosas me irritan. ||| 넌 아주 영리하고 아주 느려. 둘 다 짜증 나.
+ÁLVARO: Rebeca. No te he dicho que no. Te he dicho que lo hagamos al revés: primero lo legal, después, si hace falta, lo otro. Y si hace falta, lo haré. Pero con una diferencia. ||| 레베카. 안 한다고 하지 않았어. 거꾸로 하자고 한 거야. 먼저 합법적인 것, 그다음 필요하면 다른 것. 필요하면 하겠어. 하지만 차이가 하나 있어.
+REBECA: ¿Cuál? ||| 뭐야?
+ÁLVARO: Lo habré probado todo antes. ||| 먼저 모든 걸 시도해 봤을 거라는 것.
+REBECA: ... Eres el primer hombre que me hace cambiar de plan por un recibo. ||| …영수증 때문에 내 계획을 바꾸게 만든 첫 남자네.
+ÁLVARO: Fue mi hija. ||| 내 딸이었어.
+REBECA: Pues dile a tu hija que me debe una cena. ||| 그럼 네 딸에게 내게 저녁 한 끼 빚졌다고 말해.
+ÁLVARO: Se lo diré. Y sobre Östra Logistik, sigue investigando por tu cuenta. Lo que encuentres, me lo cuentas. Es una instrucción, no una petición. ||| 그렇게 말할게. 그리고 외스트라 로지스티크는 네가 계속 조사해. 찾는 건 말해 줘. 부탁이 아니라 지시야.
+REBECA: Yo no recibo instrucciones. ||| 나는 지시를 받지 않아.
+ÁLVARO: Entonces, una sugerencia con mucha educación. ||| 그럼 아주 정중한 제안이라고 하자.
+REBECA: Mucho mejor. ||| 훨씬 낫네.
++ al revés = 거꾸로. 3화·4화에서 나온 표현
++ por una (mala) razón / por un recibo = ~ 때문에. 'por + 명사'는 원인
++ lo habré probado todo = 미래완료: 모든 걸 시도했을 것이다. 가정적 완료 시점
++ me irritan = 나를 짜증 나게 한다. 'irritar'는 자극하다
++ versión recortada = 잘라 낸(축약된) 판본. 'recortar'는 잘라 내다
++ por tu cuenta = 네 판단으로, 독자적으로
+
+## 보레알의 답변 — LA LISTA DE BOREAL
+MARINA: Álvaro. Ha llegado la respuesta de Boreal al requerimiento. Ocho días antes del plazo. ||| 알바로. 요구서에 대한 보레알의 답변이 도착했어요. 기한보다 8일 일찍이요.
+ÁLVARO: ¿Ocho días antes? Eso significa que la tenían preparada. ||| 8일이나 일찍? 준비해 뒀다는 뜻이지.
+MARINA: Tienen documentos. Un anexo de presupuestos. Mire el apartado «Gestión de comunidades»: «Dieciocho millones de euros». ||| 문서가 있어요. 예산 부록이요. '공동체 관리' 항목을 보세요. '1,800만 유로'.
+ÁLVARO: Dieciocho millones para doscientas catorce familias. ||| 214가구에 1,800만이라.
+MARINA: Doscientas catorce por tres mil quinientos son setecientos cuarenta y nueve mil. Los dieciocho millones no son indemnizaciones. Son «gestión». ||| 214 곱하기 3,500은 74만 9천이에요. 1,800만은 보상이 아니라 '관리'예요.
+ÁLVARO: ¿Qué incluye «gestión»? ||| '관리'에 뭐가 포함돼요?
+MARINA: Agentes locales, asesores jurídicos, «construcción de percepción», «comunicación comunitaria», «gestión de actores clave» y... «mitigación de riesgos de transparencia». ||| 현지 대리인, 법률 자문, '인식 형성', '공동체 커뮤니케이션', '핵심 행위자 관리', 그리고… '투명성 위험 완화'요.
+ÁLVARO: «Mitigación de riesgos de transparencia». Es decir, el coste de que nosotros hagamos nuestro trabajo. ||| '투명성 위험 완화'. 우리가 우리 일을 하는 비용이란 뜻이지.
+MARINA: Total del presupuesto de campaña: veintiséis millones. ||| 캠페인 예산 총액은 2,600만이에요.
+ÁLVARO: Veintiséis millones para pagar setecientos cuarenta y nueve mil. Es la lista del Gran Capitán. «Doscientos mil ducados en frailes y monjas para que rezaran por la prosperidad». ||| 74만 9천을 지급하려고 2,600만을 쓰는 거네. 그란 카피탄의 목록이야. '번영을 위해 기도하게 한 수사·수녀 값 20만 두카도'.
+MARINA: Solo que esta vez no hay broma. ||| 이번에는 농담이 아니라는 점만 다르죠.
+ÁLVARO: Hay una broma. Y la contamos nosotros. Porque cuando una empresa gasta veintiséis millones en construir una percepción para pagar setecientos mil, es que el problema no es lo que va a pagar. Es lo que no quiere que se vea. ||| 농담은 있어. 그리고 우리가 말하지. 기업이 74만을 지급하려고 인식을 만드는 데 2,600만을 쓴다면 문제는 지급액이 아니라 보이지 않길 원하는 것이니까.
+MARINA: ¿Y qué quiere que no se vea? ||| 무엇이 보이지 않길 원하는 거죠?
+ÁLVARO: Eso lo vamos a descubrir. Mira la partida «Östra». ||| 그건 알아낼 거야. '외스트라' 항목을 봐.
+MARINA: «Östra Logistik: servicios de seguridad, doce millones». ||| '외스트라 로지스티크: 보안 서비스, 1,200만'.
+ÁLVARO: Doce millones en seguridad. Para unas aldeas de pescadores. ||| 어촌 마을에 보안비 1,200만.
+MARINA: No es seguridad para las aldeas. ||| 마을을 위한 보안이 아니에요.
+ÁLVARO: No. Es seguridad para algo que está allí y que alguien quiere proteger. ||| 아니. 거기 있는 무언가를 누군가 지키고 싶어서 쓰는 보안이지.
++ gestión de comunidades = 공동체 관리. 마케팅·로비 업계 용어로 지역 주민을 설득·통제하는 활동
++ construcción de percepción = 인식 형성. 여론을 만드는 활동을 완곡하게 말하는 표현
++ mitigación de riesgos = 위험 완화. 'mitigar'는 누그러뜨리다
++ partida = (예산·회계의) 항목. 'partida presupuestaria'
++ servicios de seguridad = 보안 서비스. 어촌 마을에는 어울리지 않는 큰 항목이 숨은 목적을 암시한다
++ es la lista del Gran Capitán = 그란 카피탄의 목록이다. 터무니없는 부풀린 장부를 가리키는 관용적 비유

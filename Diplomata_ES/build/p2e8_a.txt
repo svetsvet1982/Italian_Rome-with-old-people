@@ -1,0 +1,105 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 8
+@title La Brevísima
+@ko 간추린 보고서
+@setting 12월 15일 월요일 아침 알바로의 집 → 오전 마드리드 카페 → 정오 알바로의 사무실 → 저녁
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast PALOMA | 탐사보도 기자, 38세 (일간지 La Crónica)
+@cast MARINA | 브뤼셀 직원, 전화 연결
+@cast CALVO | 하원 외교위원회 위원장
+@cast LUCÍA | 알바로의 딸, 16세
+@note 이 화는 '언론전' 화입니다. 알바로를 겨냥한 보도가 우연이 아니라 '시점'으로 설계되었음을 밝혀내는 과정이 중심입니다. 언론 어휘(portada 1면, titular 제목, fuente 출처, desmentir 부인하다, rectificar 정정하다)와, 진실을 말하면서 어떻게 피해를 막는가를 다루는 어법에 주목하세요. 해법의 논거는 라스 카사스의 『인디아스의 파괴에 대한 간추린 보고서』(1552)와 신법(1542)입니다.
+@next 2부 9화 — «El sexto compromisario»(여섯 번째 위원) — 위원회 안에서 누군가 일정과 문서를 바깥으로 흘리고 있다. 알바로는 서명 날짜의 순서에서 한 이름에 이르고, 마리나는 스톡홀름의 서류 한 장을 찾아낸다.
+
+## 1면 — LA PORTADA
+MARINA: Álvaro, ¿estás despierto? ||| 알바로, 일어나 있어요?
+ÁLVARO: Desde las cinco. Lucía se ha levantado porque tenía una pesadilla con la profesora de Historia. ¿Qué pasa? ||| 다섯 시부터요. 루시아가 역사 선생님이 나오는 악몽을 꿔서 일어났어. 무슨 일이야?
+MARINA: Mire la portada de «El Observador Financiero». ||| '엘 옵세르바도르 피난시에로' 1면을 보세요.
+ÁLVARO: «El funcionario que espió a un general». Qué titular tan limpio. ||| '장군을 염탐한 공무원'. 제목이 참 깔끔하군.
+MARINA: Firma Gabriel Soto. Dice que usted «utilizó información financiera obtenida ilegalmente de un servicio secreto español para presionar al ministro de Defensa de Kandara». ||| 가브리엘 소토 기자예요. 선배님이 '스페인 비밀 기관에서 불법으로 입수한 금융 정보를 이용해 칸다라 국방장관을 압박했다'고 써요.
+ÁLVARO: Es cierto. Lo declaré yo mismo en el Congreso. ||| 사실이야. 내가 직접 의회에서 말했잖아.
+MARINA: Pero Soto añade tres cosas que usted no dijo. Una: que cenó con una agente del CNI en Tiflis. Dos: que en la cena se concertó un pago en especie. Tres: que usted «prometió favores futuros a cambio de datos». ||| 하지만 소토는 선배님이 말하지 않은 세 가지를 덧붙였어요. 하나, 트빌리시에서 CNI 요원과 저녁을 먹었다. 둘, 그 저녁에서 현물 지급이 합의됐다. 셋, 선배님이 '데이터의 대가로 향후 호의를 약속했다'.
+ÁLVARO: Tiflis fue hace tres años. Lo conoce una persona viva y una muerta. ||| 트빌리시는 3년 전 일이야. 살아 있는 사람 한 명과 죽은 사람 한 명만 알아.
+MARINA: ¿Quién es la muerta? ||| 죽은 사람은 누구예요?
+ÁLVARO: Una mujer que sirvió el vino. Una broma. Solo lo sabemos Rebeca y yo. ||| 와인을 따라 준 여자. 농담이야. 레베카와 나만 알아.
+MARINA: Entonces, lo ha contado ella. ||| 그럼 그분이 말한 거네요.
+ÁLVARO: No. Ella no. Rebeca no cuenta nada que no le paguen en dólares. Hay otra posibilidad: que ella esté vigilada. ||| 아니. 레베카는 달러로 사지 않은 건 말하지 않아. 다른 가능성이 있어. 그녀가 감시받고 있다는 것.
+MARINA: Eso es peor. ||| 그게 더 나빠요.
+ÁLVARO: Mira la hora de publicación. ||| 발행 시각을 봐.
+MARINA: A las cinco de la mañana. En digital. ||| 새벽 다섯 시요. 온라인에요.
+ÁLVARO: Hoy es quince de diciembre. A las diez, el general Bah declara ante la Comisión en directo desde Punta Sal. A las doce de la misma mañana, la prensa estará hablando de otra cosa: de mí. ||| 오늘은 12월 15일이야. 열 시에 바 장군이 푼타 살에서 위원회에 생중계로 진술해. 같은 날 정오쯤이면 언론은 다른 걸 말하고 있겠지. 나에 대해서.
+MARINA: Es la distracción perfecta. ||| 완벽한 주의 분산이네요.
+ÁLVARO: Es un arma de precisión. No se dispara al azar. Se dispara el día en que una persona va a decir la verdad. ||| 정밀 무기야. 아무렇게나 쏘지 않아. 누군가 진실을 말하는 날 쏘는 거지.
++ portada / titular = 1면 / 제목. 신문 어휘
++ concertar un pago = 지급을 합의하다. 'concertar'는 조율해 합의하다
++ pago en especie = 현물 지급. 돈이 아닌 물건·호의로 치르는 지급
++ arma de precisión = 정밀 무기. 시점을 겨냥한 언론 공격을 비유
++ al azar = 아무렇게나, 무작위로. 'disparar al azar'
++ distracción perfecta = 완벽한 주의 분산. 'distraer'는 주의를 돌리다
+
+## 파올라의 냅킨 — LA SERVILLETA
+PALOMA: Gracias por venir sin traer abogado. ||| 변호사 없이 와 주셔서 감사해요.
+ÁLVARO: Los abogados son para los que tienen algo que esconder. ||| 변호사는 숨길 게 있는 사람들을 위한 거죠.
+PALOMA: Y usted tiene algo que esconder. Lo dijo en el Congreso. ||| 그리고 당신은 숨길 게 있잖아요. 의회에서 말했듯이.
+ÁLVARO: Algo que no escondí. Lo conté. ||| 숨기지 않았죠. 말했으니까요.
+PALOMA: Yo sé que lo contó. Lo que me preocupa es otra cosa. He leído tres veces el texto de Soto. Es un texto muy bueno. Demasiado. ||| 말씀하신 건 알아요. 제가 걱정하는 건 다른 거예요. 소토의 글을 세 번 읽었어요. 아주 좋은 글이에요. 너무 좋아요.
+ÁLVARO: ¿Cómo puede ser «demasiado» bueno un texto? ||| 글이 어떻게 '너무' 좋을 수 있습니까?
+PALOMA: Cuando tiene la información justa y ninguna de más. Un periodista que averigua cosas recoge de todo: datos útiles, datos inútiles, contradicciones. Un periodista que recibe un paquete recoge lo que le han puesto. Es un texto empaquetado. ||| 딱 맞는 정보만 있고 군더더기가 없을 때요. 알아내는 기자는 모든 걸 모아요. 쓸모 있는 것, 없는 것, 모순까지. 꾸러미를 받는 기자는 담아 준 것만 담죠. 포장된 글이에요.
+ÁLVARO: Una nota de prensa con firma. ||| 서명이 붙은 보도자료군요.
+PALOMA: Y yo he hecho algo que no suelo hacer. He pedido que me cuenten cuándo llegó cada pieza de información a cada redacción. Dibujé esto en una servilleta. ||| 그리고 저는 평소 하지 않는 일을 했어요. 정보 조각 하나하나가 각 편집국에 언제 도착했는지 말해 달라고 했죠. 이걸 냅킨에 그렸어요.
+ÁLVARO: ¿Qué es? ||| 이게 뭐죠?
+PALOMA: Un calendario. Cada vez que la Comisión de los Nueve ha tenido un acto importante, ha aparecido un ataque contra usted o contra sus aliados. El doce de diciembre, audiencia del notario Diouf. El mismo día, una nota sobre «irregularidades» de su archivero amigo, don Evaristo. ||| 달력이에요. 9인 위원회가 중요한 일정을 가질 때마다 당신이나 동맹을 겨냥한 공격이 나타났어요. 12월 12일 공증인 디우프 청문. 같은 날 당신의 문서고 친구 에바리스토 씨의 '불법성'에 관한 보도.
+ÁLVARO: No lo vi. ||| 못 봤습니다.
+PALOMA: Era un breve de tres líneas. Pasó inadvertido. Pero existe. El día cinco, cuando la presidenta fijó el calendario, aparecieron rumores sobre la magistrada Olmedo: que había cobrado de una consultora. Desmentido a las dos horas. ||| 3줄짜리 단신이었어요. 눈에 띄지 않았죠. 하지만 있었어요. 5일에 의장이 일정을 확정하자 올메도 판사에 대한 소문이 나왔어요. 컨설팅 회사에서 돈을 받았다는. 두 시간 만에 부인됐고요.
+ÁLVARO: Ahora que lo dice, Olmedo me contó espontáneamente que había estado en una conferencia en Estocolmo. ||| 듣고 보니 올메도 판사가 스톡홀름 컨퍼런스에 갔다고 먼저 말해 줬어요.
+PALOMA: ¿Espontáneamente? ||| 먼저요?
+ÁLVARO: Sin que se lo preguntara. ||| 제가 묻지 않았는데요.
+PALOMA: Qué detalle. Cuando alguien explica antes de que lo pregunten, a menudo está protegiéndose de algo. O protegiendo a alguien. ||| 흥미로운 점이네요. 누가 묻기 전에 설명한다면 흔히 무언가로부터 자신을 보호하는 거죠. 아니면 누군가를 보호하거나요.
+ÁLVARO: Paloma, ¿dónde quiere llegar? ||| 파올라, 어디로 가려는 겁니까?
+PALOMA: A esto. El calendario del ataque es el calendario de la Comisión. Pero ese calendario no es público. Lo conocen los nueve miembros, la secretaría, los asesores. Alguien informa a quien dispara. ||| 이겁니다. 공격의 달력이 위원회의 달력이에요. 하지만 그 달력은 공개가 아니에요. 아홉 위원, 간사, 자문들만 알죠. 누군가 쏘는 사람에게 알려 주는 겁니다.
+ÁLVARO: Está diciéndome que hay un topo en la Comisión. ||| 위원회에 첩자가 있다는 말이군요.
+PALOMA: No. Estoy diciéndole que tal vez haya más de una puerta abierta. Y que usted debería averiguarlo antes de que el tiempo se acabe. ||| 아니요. 열린 문이 하나 이상 있을지도 모른다는 거예요. 그리고 시간이 다 되기 전에 알아내셔야 한다고요.
+ÁLVARO: ¿Por qué me lo cuenta? ||| 왜 제게 말해 주시는 겁니까?
+PALOMA: Porque cumplió su palabra. Me dio una exclusiva con nombres cuando se resolvió lo del barco. Y porque no soporto que me usen para repartir basura. ||| 약속을 지키셨으니까요. 배 문제가 해결됐을 때 이름까지 붙인 단독 기사를 주셨죠. 그리고 쓰레기를 나눠 주는 데 이용당하는 게 참을 수 없어서요.
++ nota empaquetada / paquete = 포장된 글, 꾸러미. 출처가 미리 만든 정보를 전달한 기사를 가리키는 업계 은어
++ breve = (신문의) 단신. 짧은 기사
++ pasar inadvertido = 눈에 띄지 않고 지나가다. 'inadvertido'는 알아차려지지 않은
++ desmentir = 부인하다. 공식적으로 사실이 아니라고 말하는 것
++ a menudo = 자주, 흔히. 빈도 표현
++ no soporto que me usen = 접속법 현재. 'no soportar que + 접속법'은 '~하는 걸 참을 수 없다'
+
+## 간추린 보고서 — LA BREVÍSIMA
+PALOMA: Ahora hablemos de lo suyo. Soto escribe que usted prometió «favores futuros». ¿Es verdad? ||| 이제 당신 이야기를 하죠. 소토는 당신이 '향후 호의'를 약속했다고 씁니다. 사실입니까?
+ÁLVARO: Es verdad. Y le diré exactamente lo que es: una persona que me ayudó me pidió que la ayudara algún día a encontrar a su hermano. ||| 사실입니다. 그리고 정확히 무엇인지 말씀드리죠. 저를 도운 사람이 언젠가 자기 오빠를 찾는 걸 도와 달라고 했습니다.
+PALOMA: ¿Un hermano? ||| 오빠요?
+ÁLVARO: Desaparecido hace ocho años. Y no voy a decir más, porque ese hombre existe y quizá esté vivo. ||| 8년 전 실종됐습니다. 더는 말하지 않겠습니다. 그 사람이 존재하고 어쩌면 살아 있을 수 있으니까요.
+PALOMA: Es una historia muy diferente a la que cuenta Soto. ||| 소토가 쓴 이야기와 아주 다르네요.
+ÁLVARO: Es la misma historia con el contexto que él ha quitado. Eso es lo más difícil de desmentir: una media verdad. Si la desmiento, parece que niego todo. ||| 소토가 맥락을 빼 버린 같은 이야기죠. 가장 부인하기 어려운 게 그겁니다. 반쪽 진실. 부인하면 전부 부정하는 것처럼 보이죠.
+PALOMA: Fray Bartolomé de las Casas lo sabía. ||| 바르톨로메 데 라스 카사스 수사는 알고 있었죠.
+ÁLVARO: ¿La «Brevísima relación»? ||| '인디아스의 파괴에 대한 간추린 보고서'요?
+PALOMA: Mil quinientos cincuenta y dos. Las Casas escribió la verdad más dura: crueldades de los conquistadores contra los indios, sin adornos. Y funcionó, porque movió leyes. En quince cuarenta y dos, las Leyes Nuevas limitaron las encomiendas. ||| 1552년. 라스 카사스는 가장 혹독한 진실을 썼어요. 정복자들이 원주민에게 저지른 잔혹 행위를 꾸밈없이요. 그리고 효과가 있었죠. 법을 움직였으니까요. 1542년 신법이 엔코미엔다를 제한했습니다.
+ÁLVARO: Pero la «Brevísima» también la usaron los enemigos de España. Holandeses, ingleses. La tradujeron, la ilustraron y la convirtieron en un arma. ||| 하지만 그 보고서는 스페인의 적들도 이용했습니다. 네덜란드인, 영국인. 번역하고 삽화를 넣어 무기로 만들었죠.
+PALOMA: Y de ahí viene mucho de lo que llamamos «Leyenda Negra». ||| 그리고 그로부터 우리가 '검은 전설'이라 부르는 것의 많은 부분이 나왔고요.
+ÁLVARO: ¿Qué hizo mal Las Casas? ||| 라스 카사스가 뭘 잘못했습니까?
+PALOMA: Nada. Dijo la verdad. Pero hizo falta que alguien la acompañara de un remedio. Leyes Nuevas, controversia de Valladolid. Una verdad sola se la apropia quien la usa mejor. Una verdad con remedio se la apropia quien la repara. ||| 아무것도요. 진실을 말했죠. 하지만 누군가 그것에 구제책을 곁들여야 했어요. 신법, 바야돌리드 논쟁. 진실만 있으면 가장 잘 쓰는 사람이 차지하고, 구제책이 딸린 진실은 고치는 사람이 차지합니다.
+ÁLVARO: Es una distinción muy buena. ¿La ha pensado ahora? ||| 아주 좋은 구별입니다. 지금 생각하셨습니까?
+PALOMA: La he pensado esta mañana, para decírsela a usted. ||| 오늘 아침에 생각했어요. 당신에게 하려고요.
+ÁLVARO: Entonces, ¿qué me propone? ||| 그럼 제게 무엇을 제안하십니까?
+PALOMA: Que no se defienda. ||| 방어하지 마세요.
+ÁLVARO: ¿Cómo? ||| 뭐라고요?
+PALOMA: Que no desmienta a Soto punto por punto. Es lo que quieren: que pase el día entero explicándose. Que haga otra cosa. Que ofrezca su propio remedio. ||| 소토를 하나하나 부인하지 마세요. 그게 그들이 원하는 거예요. 하루 종일 해명하며 보내는 것. 다른 걸 하세요. 당신만의 구제책을 내놓으세요.
+ÁLVARO: ¿Qué remedio? ||| 어떤 구제책입니까?
+PALOMA: Usted sabrá. Pero yo, en su lugar, pediría que alguien me investigara. Públicamente. Alguien independiente. Que lo revisara todo, desde Tiflis. ||| 당신이 아실 거예요. 하지만 제가 당신이라면 누군가 저를 조사해 달라고 요청하겠어요. 공개적으로요. 독립적인 사람이. 트빌리시부터 전부 검토하게요.
+ÁLVARO: Una auditoría de mi propia conducta. ||| 제 행동에 대한 감사군요.
+PALOMA: En España se llamaba «juicio de residencia». Cuando un virrey o un gobernador terminaba su cargo, otro juez venía a revisar cómo había gobernado. Y le preguntaba a todos: «¿Quién tiene una queja?». ||| 스페인에서는 '레지덴시아 재판'이라고 했어요. 총독이나 부왕이 임기를 마치면 다른 판사가 와서 어떻게 통치했는지 검토했죠. 그리고 모두에게 물었어요. '불만 있는 사람 누구요?'
+ÁLVARO: «¿Quién tiene una queja?». ||| '불만 있는 사람 누구요?'
+PALOMA: Mejor que esperar a que un periodista lo haga a su manera. ||| 기자가 자기 방식대로 하길 기다리는 것보다 낫죠.
++ Brevísima relación de la destrucción de las Indias (1552) = 라스 카사스가 쓴 『인디아스의 파괴에 대한 간추린 보고서』. 정복자의 잔혹 행위를 폭로해 개혁을 이끌었지만 스페인의 적들이 '검은 전설' 선전에 이용하기도 했다
++ Leyes Nuevas (1542) = 신법. 엔코미엔다를 제한하고 원주민 보호를 강화한 법
++ controversia de Valladolid (1550–51) = 라스 카사스와 세풀베다가 원주민의 지위를 두고 벌인 공개 토론
++ juicio de residencia = 레지덴시아 재판. 임기를 마친 관리가 재임 중 행적을 심사받던 제도. 12화의 제목 모티프
++ encomienda = 엔코미엔다. 원주민 노동을 정복자에게 위탁하던 제도
++ apropiarse = 차지하다, 자기 것으로 삼다. 'se la apropia'
