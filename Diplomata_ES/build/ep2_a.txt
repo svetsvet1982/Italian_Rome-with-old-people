@@ -1,0 +1,91 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 2
+@title La cena de los jueves
+@ko 목요일 만찬
+@setting 목요일 오후 레티로 공원 근처 카페 → 같은 날 밤 푸에르타 데 이에로 칸다라 대사관저 → 귀가길 마드리드
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast BERNI | 은퇴 대사, 알바로의 스승 (베르나르도 살라사르, 68세)
+@cast AMINATA | 칸다라 공화국 주스페인 대사, 52세
+@cast IBRAHIMA | 아미나타의 남편, 퇴직한 역사학 교수
+@cast MARINA | UNR 분석관
+@note 1화에서 칸다라 차관 카마라가 말한 "가장 예상치 못할 경로"가 이 화에서 열립니다. 공식 라인 밖의 식탁에서 오가는 말은 겉으로는 잡담이지만, 한 문장마다 의미가 숨어 있습니다. 대사들이 서로 usted에서 tú로 넘어가는 순간과, 음식 이야기가 어떻게 협상 이야기로 바뀌는지 주목하세요.
+@next 1부 3화 — «El archivo de Alcalá»(알칼라 문서고) — 알바로와 마리나는 국가 문서고를 뒤져 1996년 어업협정 서류를 펼친다. 그런데 상자 속에서 어떤 장부 한 줄이 이상하게 어긋나 있다.
+
+## 베르니의 조언 — EL CAFÉ DEL RETIRO
+BERNI: Llegas tarde, y eso en ti significa que estás nervioso. ||| 늦었구나. 자네가 늦을 땐 긴장했다는 뜻이지.
+ÁLVARO: Llego tarde porque tengo una cena esta noche y una hora para decidir qué me pongo en la cabeza. ||| 오늘 밤 만찬이 있고, 머릿속에 뭘 담고 갈지 정할 시간이 한 시간뿐이라서요.
+BERNI: ¿Una cena con quién? ||| 누구와 하는 만찬인데?
+ÁLVARO: Aminata Sy, la embajadora de Kandara. Me ha invitado a su residencia. Sin séquito, sin actas. ||| 칸다라 대사 아미나타 시입니다. 관저로 초대받았어요. 수행원도 기록도 없이.
+BERNI: Ah. Una cena a solas. Eso no es una invitación, es una oferta. ||| 아. 단둘이 하는 만찬이라. 그건 초대가 아니라 제안이야.
+ÁLVARO: Yo también lo creo. Lo que no sé es qué ofrece. ||| 저도 그렇게 생각해요. 뭘 제안하는지를 모를 뿐이죠.
+BERNI: Te diré lo que te enseñé hace veinte años: una cena es una negociación con los cubiertos puestos. ||| 20년 전에 가르친 걸 말해 주지. 만찬은 식기가 차려진 협상이다.
+ÁLVARO: Y la primera regla era no pedir nada antes del postre. ||| 그리고 첫 번째 규칙은 후식 전에는 아무것도 요구하지 않는 거였죠.
+BERNI: Sí. Y la segunda, que quien más habla de comida es quien menos quiere hablar de lo que importa. ||| 맞아. 두 번째는, 음식 얘기를 제일 많이 하는 사람이 정작 중요한 얘기를 제일 하기 싫어하는 사람이라는 거고.
+ÁLVARO: ¿Y la tercera? ||| 세 번째는요?
+BERNI: La tercera no te la voy a decir, porque la aprendí hace poco y todavía me escuece. ||| 세 번째는 말 안 해 주겠네. 얼마 전에 알게 된 거라 아직 쓰라리거든.
+ÁLVARO: ¿Me va a hacer perder una hora de mi vida con acertijos? ||| 수수께끼로 제 한 시간을 날리게 하실 건가요?
+BERNI: Te la voy a hacer ganar. Mira, Álvaro. Esa embajadora lleva seis años en Madrid y nunca ha pedido una cena privada a nadie de tu nivel. Si lo hace ahora, es que algo la tiene desesperada. ||| 벌게 해 주려는 거야. 보게, 알바로. 그 대사는 마드리드에 6년째 있지만 자네 급의 누구에게도 사적인 만찬을 청한 적이 없어. 지금 그런다면, 뭔가가 그녀를 절박하게 만들고 있다는 뜻이야.
+ÁLVARO: ¿Desesperada? Hablaba por teléfono con una calma admirable. ||| 절박하다고요? 전화에선 놀랍도록 차분했는데요.
+BERNI: Los desesperados de verdad no levantan la voz. Hablan bajo, para que no se rompa nada. ||| 진짜 절박한 사람들은 목소리를 높이지 않아. 아무것도 깨지지 않도록 낮게 말하지.
+ÁLVARO: Entonces, ¿qué hago? ||| 그럼 어떻게 해야 합니까?
+BERNI: Escuchar. Y cuando creas que ya has entendido, escucha cinco minutos más. ||| 듣게. 그리고 다 이해했다고 생각되면 5분 더 듣게.
+ÁLVARO: ¿Y si me pregunta por el barco? ||| 배에 대해 물으면요?
+BERNI: Respóndele con una pregunta. Si te hace una oferta, devuélvele otra. Una cena no se gana, se sobrevive. ||| 질문으로 답하게. 제안을 하면 다른 제안으로 돌려주고. 만찬은 이기는 게 아니라 버텨내는 거야.
+ÁLVARO: Qué optimista es usted. ||| 참 낙관적이시군요.
+BERNI: Lo bastante para seguir vivo. Ve, anda. Y lleva un detalle. Nunca vayas con las manos vacías a la casa de una mujer que cocina. ||| 살아 있을 만큼은 그렇지. 가 봐, 어서. 그리고 선물을 하나 들고 가게. 요리하는 여자의 집에는 빈손으로 가는 법이 아니야.
+ÁLVARO: ¿Una botella? ||| 술병이요?
+BERNI: No. Es musulmana practicante. Unas flores no, que parecen un funeral. Unos dátiles de Elche. Y no te olvides de quitarte los zapatos si te lo piden. ||| 아니. 독실한 무슬림이야. 꽃도 안 돼, 장례식 같으니까. 엘체 대추야자가 좋겠군. 그리고 신발을 벗으라고 하면 잊지 말고 벗게.
++ cubiertos = 식기(포크·나이프·스푼). 'poner los cubiertos'는 상을 차린다는 뜻
++ escocer = 쓰라리다, 따갑다. 상처뿐 아니라 아픈 기억에도 쓴다 ('todavía me escuece')
++ acertijo = 수수께끼. 상대가 직설을 피할 때 쓰는 말
++ no se gana, se sobrevive = 'A, no B' 대비 구문. 격언처럼 압축된 표현
++ quitarse los zapatos = 신발을 벗다. 재귀동사 + 신체/의복 + 정관사 구조
++ lo bastante para + 원형 = ~하기에 충분할 만큼 ('lo bastante para seguir vivo')
+
+## 관저의 식탁 — LA RESIDENCIA
+AMINATA: Señor Quintana. Bienvenido a mi casa. Pase, por favor. ||| 킨타나 씨. 저희 집에 오신 걸 환영합니다. 들어오세요.
+ÁLVARO: Embajadora, gracias por la invitación. Traigo unos dátiles de Elche. Espero que no sea una torpeza. ||| 대사님, 초대 감사합니다. 엘체 대추야자를 가져왔어요. 실례가 되지 않았으면 좋겠습니다.
+AMINATA: Al contrario. Lo han elegido bien. Alguien le ha aconsejado. ||| 오히려 잘 고르셨네요. 누가 조언해 주셨겠군요.
+ÁLVARO: Un viejo maestro. Siempre me dice que no se llega con las manos vacías. ||| 늙은 스승이요. 늘 빈손으로 가지 말라고 하십니다.
+AMINATA: Un hombre sensato. Le presento a mi marido, el profesor Ibrahima Sy. ||| 현명한 분이군요. 제 남편, 이브라히마 시 교수를 소개합니다.
+IBRAHIMA: Un placer, señor Quintana. No se asuste con el humo, mi mujer cocina como si estuviera negociando una guerra. ||| 반갑습니다, 킨타나 씨. 연기에 놀라지 마세요, 제 아내는 전쟁이라도 협상하듯 요리하거든요.
+AMINATA: Ibrahima, no empieces. ||| 이브라히마, 시작하지 마요.
+IBRAHIMA: Solo digo la verdad. Hoy hace thieboudienne. El plato más caro de nuestra mesa, en tiempo y en paciencia. ||| 사실을 말할 뿐이오. 오늘은 체부젠을 합니다. 우리 식탁에서 시간과 인내심이 제일 많이 드는 요리죠.
+ÁLVARO: Huele extraordinariamente bien. ||| 냄새가 정말 훌륭합니다.
+AMINATA: Siéntese. Esta noche no hay protocolo. Aquí me llamo Aminata, y no quiero oír la palabra «embajadora» hasta el postre. ||| 앉으세요. 오늘 밤엔 의전이 없습니다. 여기서 저는 아미나타이고, 후식 전까지는 '대사'라는 말을 듣고 싶지 않아요.
+ÁLVARO: Entonces yo soy Álvaro. Hasta el postre. ||| 그럼 저는 알바로입니다. 후식 전까지요.
+AMINATA: Ibrahima, sirve el té. Este se llama ataya. Se prepara tres veces. La primera es amarga como la muerte, la segunda dulce como la vida, la tercera suave como el amor. ||| 이브라히마, 차를 따라요. 이건 아타야라고 해요. 세 번 우립니다. 첫 잔은 죽음처럼 쓰고, 둘째는 삶처럼 달고, 셋째는 사랑처럼 부드럽죠.
+ÁLVARO: Una buena manera de aprender a esperar. ||| 기다림을 배우기에 좋은 방법이네요.
+IBRAHIMA: Es la mejor escuela de diplomacia que conozco. Tres vasos, una hora, ningún ultimátum. ||| 제가 아는 최고의 외교 학교죠. 세 잔, 한 시간, 최후통첩은 없고요.
+AMINATA: Cuénteme, Álvaro. ¿Cómo es su día normal? ||| 말씀해 보세요, 알바로. 평소 하루는 어떻습니까?
+ÁLVARO: Muy poco glamuroso. Reuniones, llamadas, café malo. Y de vez en cuando, un barco retenido. ||| 별로 화려하지 않습니다. 회의, 전화, 맛없는 커피. 그리고 가끔 억류된 배 한 척이요.
+AMINATA: Ya. Salió el barco antes de la sopa. ||| 그래요. 수프도 나오기 전에 배 이야기가 나왔네요.
+ÁLVARO: Perdón. Quería hacerlo de otra manera, pero soy previsible. ||| 죄송합니다. 다르게 하고 싶었는데, 저는 뻔한 사람이라서요.
+AMINATA: No lo es. Un hombre previsible no habría llamado a mi viceministro para hablar de un mapa. Me lo contó él mismo. ||| 아니에요. 뻔한 사람이라면 제 차관에게 전화해서 지도 얘기를 하진 않았을 겁니다. 본인이 직접 제게 얘기했어요.
+ÁLVARO: Así que fue usted el «camino que menos esperaba». ||| 그러니까 '가장 예상치 못한 경로'가 대사님이었군요.
+AMINATA: Camara es un hombre prudente. No se atreve a decirle por teléfono lo que yo sí puedo decirle a la mesa. ||| 카마라는 신중한 사람입니다. 전화로는 말하지 못하는 걸 저는 식탁에서 말할 수 있고요.
+ÁLVARO: Pues le escucho. ||| 그럼 듣겠습니다.
+AMINATA: Después del plato. Mi padre decía que quien habla antes de comer, miente; y quien habla después de comer, perdona. ||| 식사 후에요. 아버지는 식사 전에 말하는 사람은 거짓말을 하고, 식사 후에 말하는 사람은 용서한다고 하셨어요.
+ÁLVARO: Su padre era un hombre de proverbios. ||| 아버님은 속담의 사람이셨군요.
+AMINATA: Era ministro de Pesca de Kandara. Durante veinte años. Los ministros se hacen proverbios para no tener que dar explicaciones. ||| 칸다라의 수산부 장관이셨어요. 20년 동안요. 장관들은 설명하지 않으려고 속담을 만들죠.
+ÁLVARO: ¿Su padre fue ministro cuando se firmó el acuerdo con España? ||| 아버님이 스페인과의 협정이 체결됐을 때 장관이셨습니까?
+AMINATA: Él lo firmó. En el noventa y seis. En Madrid, en el mismo palacio donde usted trabaja. ||| 직접 서명하셨죠. 96년, 마드리드의, 당신이 일하는 바로 그 궁에서요.
+ÁLVARO: No lo sabía. ||| 몰랐습니다.
+AMINATA: Pocos lo saben. Mi padre murió el año pasado, en París. En el exilio. ||| 아는 사람이 드물죠. 아버지는 작년에 파리에서 돌아가셨습니다. 망명 중에요.
+ÁLVARO: Lo siento mucho. ||| 정말 유감입니다.
+AMINATA: Gracias. Ibrahima, el arroz. ||| 고마워요. 이브라히마, 밥을요.
+IBRAHIMA: Aquí está. El mejor trozo es el del fondo, el que se pega a la olla. Lo llamamos xooñ. Se lo dejamos siempre al invitado. ||| 여기 있습니다. 제일 맛있는 건 냄비 바닥에 눌어붙은 부분이죠. 우린 그걸 쑨이라고 합니다. 늘 손님에게 드리고요.
+ÁLVARO: ¿Lo quemado? ||| 탄 걸요?
+IBRAHIMA: Lo que se queda pegado. Lo que no se ve a primera vista y se descubre al final. En nuestra cultura, lo mejor está siempre abajo. ||| 눌어붙은 거죠. 처음엔 보이지 않다가 마지막에 드러나는 것. 우리 문화에서는 제일 좋은 건 늘 밑에 있습니다.
+AMINATA: Ibrahima es historiador. Todo lo convierte en una lección. ||| 이브라히마는 역사학자예요. 뭐든 가르침으로 만들죠.
+IBRAHIMA: Es una enfermedad profesional. ||| 직업병입니다.
+ÁLVARO: Conozco bien esa enfermedad. ||| 저도 그 병을 잘 압니다.
++ ataya = 세네갈·서아프리카식 차 의식. 세 번 우리는 것이 관례. 칸다라는 가상국이지만 문화 배경은 서아프리카에서 차용
++ torpeza = 서투름, 실수. 'una torpeza'는 의전상 실례가 될 행동을 가리킨다
++ no se atreve a decir = ~하지 못한다. atreverse a + 원형은 '감히 ~하다'
++ quien habla antes de comer, miente = 'quien + 직설법' 속담 구문. 일반적 진리를 말한다
++ lo que se queda pegado = 'lo que + 직설법'은 사물을 총칭하는 중성 관계절
++ enfermedad profesional = 직업병. Berni의 deformación profesional과 같은 계열

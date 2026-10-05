@@ -1,5 +1,5 @@
 ## 비고 항구 — EL MUELLE DE VIGO
-ROSARIO: ¿Usted es el señor del Ministerio? Llevamos cuatro días esperando que alguien se digne a venir. ||| 외교부에서 오신 분이세요? 누군가 와 주기만을 나흘째 기다렸어요.
+ROSARIO: ¿Usted es el señor del Ministerio? Llevamos tres días esperando que alguien se digne a venir. ||| 외교부에서 오신 분이세요? 누군가 와 주기만을 사흘째 기다렸어요.
 ÁLVARO: Soy Álvaro Quintana. Perdone que haya tardado. Quería traer algo más que condolencias. ||| 알바로 킨타나입니다. 늦어서 죄송합니다. 위로의 말 말고 뭔가 더 가져오고 싶었습니다.
 ROSARIO: ¿Y lo trae? ||| 가져오셨나요?
 ÁLVARO: Todavía no. Traigo preguntas. Y creo que ustedes son las únicas que me las pueden contestar. ||| 아직은요. 질문을 가져왔습니다. 그걸 대답해 주실 수 있는 건 여러분뿐이라고 생각하고요.
@@ -42,7 +42,7 @@ CHANO: Este año, el armador dijo que no había dinero. Que la licencia ya estab
 CHANO: Y entonces nos retuvieron. Mire, señor, yo no soy diplomático. Pero a mí me parece que a esta gente no le ofende el pescado. Le ofende quién se lleva el sobre. Cambio. ||| 그래서 우리가 억류됐죠. 저는 외교관은 아니지만요, 제 생각에 이 사람들은 고기 때문에 화난 게 아니에요. 봉투를 누가 가져가느냐 때문에 화난 겁니다. 오버.
 ÁLVARO: Repita eso, Chano. Despacio. Cambio. ||| 방금 그 말 다시 해 주세요, 차노 씨. 천천히요. 오버.
 CHANO: Que no les ofende el pescado. Les ofende quién se lleva el sobre. Cambio. ||| 고기에 화난 게 아니라, 봉투를 누가 가져가느냐에 화난 거라고요. 오버.
-ÁLVARO: Chano, acaba usted de explicarme en diez segundos lo que me han estado diciendo tres días. Cambio y cierro. ||| 차노 씨, 사흘 동안 다들 제게 말해 준 걸 방금 10초 만에 설명하셨습니다. 오버, 교신 종료합니다.
+ÁLVARO: Chano, acaba usted de explicarme en diez segundos lo que me han estado diciendo estos días. Cambio y cierro. ||| 차노 씨, 며칠 동안 다들 제게 말해 준 걸 방금 10초 만에 설명하셨습니다. 오버, 교신 종료합니다.
 MARINA: ¿Qué ha entendido usted, exactamente? ||| 정확히 뭘 이해하신 거예요?
 ÁLVARO: Que la multa no es una sanción. Es una factura. Alguien quiere cobrar lo que antes cobraba por debajo de la mesa. ||| 벌금은 제재가 아니라는 거야. 청구서지. 누군가 전에 탁자 밑으로 받던 걸 다시 받고 싶은 거야.
 MARINA: Entonces el general Bah... ||| 그럼 바 장군이…
@@ -53,7 +53,7 @@ MARINA: No lo sé. Pero me da mala espina que lo pregunte usted en voz baja. |||
 ÁLVARO: Porque la respuesta me preocupa más que el barco. ||| 답이 배보다 더 걱정되니까.
 ROSARIO: ¿Y bien? ¿Qué me va a decir, señor Quintana? ||| 그래서요? 뭐라고 말씀해 주실 거예요, 킨타나 씨?
 ÁLVARO: Le digo lo que sé: su marido está bien, no está maltratado y esto no es un problema de pesca, es un problema de dinero. Lo que no sé: quién lo ha provocado. Y lo que pienso hacer: dejar de hablar de la multa y empezar a hablar de quién cobra. ||| 아는 걸 말씀드리죠. 남편분은 무사하고 학대받지 않고 있으며, 이건 어업 문제가 아니라 돈 문제입니다. 모르는 건 누가 일으켰는가입니다. 하려는 일은 벌금 얘기를 그만두고 누가 돈을 받는지 얘기하는 겁니다.
-ROSARIO: Eso es lo más claro que me han dicho en cuatro días. ||| 나흘 동안 들은 말 중에서 제일 분명하네요.
+ROSARIO: Eso es lo más claro que me han dicho en tres días. ||| 사흘 동안 들은 말 중에서 제일 분명하네요.
 ÁLVARO: Se lo debía. ||| 그럴 의무가 있었죠.
 + cambio y cierro = 무전 용어. cambio(오버, 교대) / cierro(교신 종료). 라디오 통신에서 말을 주고받는 규칙
 + papel en francés = 구어체에서 문서를 papel이라 부른다. 칸다라의 공용어가 프랑스어인 설정

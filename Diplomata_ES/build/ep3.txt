@@ -1,0 +1,215 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 3
+@title El archivo de Alcalá
+@ko 알칼라 문서고
+@setting 금요일 오전 아토차발 통근열차 → 알칼라 데 에나레스 국가행정문서고(AGA) → 오후 귀경 열차
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast ROSA | 문서고 접수 담당 직원
+@cast EVARISTO | 문서고 수석 관리인, 72세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@note 이 화는 거의 전부가 '종이'를 둘러싼 대화입니다. 관공서 용어(solicitud 신청서, autorización 허가, préstamo 대출, folio 장)와 허락을 받아내는 말투를 눈여겨보세요. 알바로는 규정을 어기지 않고 규정의 빈틈으로 들어갑니다.
+@next 1부 4화 — «El hombre del maletín»(서류가방의 남자) — 문서고가 가리킨 이름은 28년 전 번역을 맡았던 늙은 통역관. 라바피에스의 좁은 아파트에서, 서류가방을 안고 사는 남자가 문을 연다.
+
+## 알칼라행 열차 — EL TREN DE CERCANÍAS
+MARINA: Anoche no dormí. He repasado el acuerdo de pesca tres veces buscando una cláusula cero. ||| 어젯밤에 못 잤어요. 영 조항을 찾느라 어업협정을 세 번 다시 읽었어요.
+ÁLVARO: ¿Y? ||| 그래서?
+MARINA: Nada. Tres anexos, numerados del uno al tres. Pero hay algo raro. La paginación. ||| 아무것도요. 부속서 세 개, 1부터 3까지 번호가 붙어 있고요. 하지만 이상한 게 있어요. 쪽수 매김이요.
+ÁLVARO: Explícate. ||| 설명해 봐.
+MARINA: El anexo tres acaba en el folio doscientos once. Pero el siguiente documento del expediente, un acta de ratificación, empieza en el doscientos veinticuatro. ||| 부속서 3은 211장에서 끝나요. 그런데 파일의 다음 문서인 비준 기록은 224장에서 시작해요.
+ÁLVARO: Faltan doce folios. ||| 열두 장이 빠졌군.
+MARINA: Del doscientos doce al doscientos veintitrés. Y no hay nota de ninguna clase. ||| 212장부터 223장까지요. 그런데 어떤 메모도 없어요.
+ÁLVARO: Un folio perdido es un descuido. Doce seguidos, con número intacto a ambos lados, es una decisión. ||| 한 장 없어진 건 부주의야. 열두 장이 연달아, 양쪽 번호는 멀쩡한 채로 빠졌다면 그건 결정이지.
+MARINA: ¿Quién tomaría esa decisión? ||| 누가 그런 결정을 할까요?
+ÁLVARO: Alguien con autoridad para sacar papeles de un expediente cerrado. Y que no necesitase explicárselo a nadie. ||| 닫힌 파일에서 서류를 꺼낼 권한이 있는 사람. 그리고 누구에게도 설명할 필요가 없던 사람이겠지.
+MARINA: ¿Valdés? ||| 발데스 차관님이요?
+ÁLVARO: No saques conclusiones. Todavía no hemos visto nada. ||| 결론 내리지 마. 아직 아무것도 보지 못했어.
+MARINA: Las conclusiones no se sacan, vienen solas. ||| 결론은 꺼내는 게 아니라 알아서 오는 거예요.
+ÁLVARO: Ahí estás equivocada. Las conclusiones vienen cuando uno las quiere. Y cuando uno las quiere demasiado, se equivoca. ||| 그건 틀렸어. 결론은 원할 때 와. 그리고 너무 간절히 원하면 틀리게 되지.
+MARINA: Mi padre dice lo mismo de la pesca. «Si quieres demasiado el pez, se te escapa». ||| 아버지도 낚시에 대해 같은 말을 하세요. '물고기를 너무 원하면 놓친다'고.
+ÁLVARO: Tu padre y Berni deberían conocerse. ||| 너희 아버지와 베르니는 만나 봐야겠다.
+MARINA: Se llevarían fatal. Los dos creen que tienen razón. ||| 사이가 아주 나쁠걸요. 둘 다 자기가 옳다고 믿거든요.
+ÁLVARO: Como todo el mundo. ||| 모든 사람이 그렇지.
+MARINA: ¿Tenemos permiso para entrar en el archivo? ||| 문서고에 들어갈 허가는 받았어요?
+ÁLVARO: Tenemos una solicitud. Que es muy distinto. ||| 신청서는 받았지. 그건 아주 다른 거야.
+MARINA: Eso significa que nos pueden decir que no. ||| 그 말은 거절당할 수 있다는 뜻이잖아요.
+ÁLVARO: Eso significa que lo vamos a intentar con muy buena cara. ||| 아주 좋은 표정으로 시도해 보자는 뜻이야.
++ folio = (문서의) 장·쪽. 앞면에만 번호를 매기는 행정 문서의 낱장을 가리킨다
++ sacar conclusiones = 결론을 내리다. 아래 대사의 '(결론이) 알아서 온다'와 대비되는 말장난
++ llevarse fatal = 사이가 몹시 나쁘다. llevarse bien/mal/fatal (상호 관계)
++ expediente cerrado = 종결된 파일. expediente는 한 사안의 서류 철 전체
++ con muy buena cara = 좋은 얼굴로, 밝은 표정으로
++ tener razón / estar equivocado = 옳다 / 틀리다. 'estar equivocada'는 일시적 상태
+
+## 접수대 — LA VENTANILLA
+ROSA: Buenos días. Este es un archivo de acceso restringido. ¿Tienen cita? ||| 안녕하세요. 이곳은 출입이 제한된 문서고입니다. 예약하셨나요?
+ÁLVARO: Álvaro Quintana, Ministerio de Asuntos Exteriores. Mi compañera es Marina Ortega. Presentamos la solicitud ayer por la tarde, por vía electrónica. ||| 외교부 알바로 킨타나입니다. 이쪽은 동료 마리나 오르테가고요. 어제 오후에 전자 방식으로 신청서를 냈습니다.
+ROSA: Un momento. Voy a mirar. Quintana, Ortega... Sí, aquí está. Pero hay un problema. ||| 잠시만요. 확인해 볼게요. 킨타나, 오르테가… 네, 있네요. 그런데 문제가 하나 있어요.
+ÁLVARO: ¿Cuál? ||| 어떤 문제입니까?
+ROSA: Su solicitud está marcada como «pendiente de autorización de la Subdirección». Y esa autorización no ha llegado. ||| 신청서에 '부서장 허가 대기 중'이라고 표시돼 있어요. 그리고 그 허가가 아직 오지 않았습니다.
+MARINA: Es viernes. Quizá llegue esta tarde. ||| 금요일이잖아요. 오늘 오후에는 올지도 몰라요.
+ROSA: Quizá. Pero sin autorización no puedo dejarles entrar. Es el reglamento. ||| 어쩌면요. 하지만 허가 없이는 들여보낼 수 없습니다. 규정이에요.
+ÁLVARO: Lo entiendo perfectamente y no voy a pedirle que lo incumpla. Solo una pregunta. ¿Quién firma esa autorización? ||| 충분히 이해하고, 규정을 어기라고 하지는 않겠습니다. 질문 하나만요. 그 허가는 누가 서명합니까?
+ROSA: El subdirector general. Don Evaristo, de forma interina, desde el año pasado. ||| 부서장이요. 작년부터 에바리스토 씨가 임시로 맡고 계십니다.
+ÁLVARO: ¿Don Evaristo, el archivero? ||| 문서고 관리인 에바리스토 씨요?
+ROSA: Sí. Lleva en esta casa cuarenta años. Se jubilará en diciembre. ||| 네. 이 건물에서 40년을 일하셨어요. 12월에 퇴직하시고요.
+ÁLVARO: ¿Y está hoy? ||| 오늘 계십니까?
+ROSA: Siempre está. Vive en el sótano, como las ratas de biblioteca, dice él. ||| 늘 계시죠. 지하에 사세요, 도서관 쥐처럼, 이라고 본인이 그러세요.
+ÁLVARO: ¿Podría avisarle de que estamos aquí? Solo para saludar. No para pedirle nada. ||| 저희가 왔다고 전해 주실 수 있을까요? 인사만 드리려고요. 부탁드릴 건 없습니다.
+ROSA: Eso nunca es verdad. Todo el mundo que viene a saludar viene a pedir. ||| 그건 한 번도 사실인 적이 없어요. 인사하러 오는 사람은 다 부탁하러 오죠.
+ÁLVARO: Tiene razón. Digamos que vengo a pedir con educación. ||| 맞는 말씀입니다. 예의를 갖춰서 부탁하러 왔다고 하죠.
+ROSA: Don Evaristo, hay dos señores del Ministerio. ||| 에바리스토 씨, 부처에서 두 분이 오셨습니다.
+EVARISTO: ¿Del Ministerio de qué? ||| 무슨 부처요?
+ROSA: Exteriores. ||| 외교부요.
+EVARISTO: Exteriores. Hacía años que no venía nadie de Exteriores. Ahora subo. No toquen nada. ||| 외교부라. 외교부 사람이 온 지 몇 년 됐군. 올라가겠소. 아무것도 만지지 말고.
+ROSA: Siéntense. Don Evaristo tarda en subir. Tiene la rodilla mal. ||| 앉으세요. 에바리스토 씨는 올라오시는 데 시간이 걸립니다. 무릎이 안 좋으세요.
+MARINA: ¿Cuánto tarda? ||| 얼마나 걸리죠?
+ROSA: Depende de lo que tenga en la cabeza. Hoy, unos diez minutos. ||| 머릿속에 뭐가 있느냐에 따라 달라요. 오늘은 10분쯤이요.
+ÁLVARO: Tiempo suficiente para un café de máquina. ||| 자판기 커피 한 잔 마실 시간이네요.
+ROSA: No les recomiendo el café de máquina. Es una prueba de que el archivo conserva incluso lo malo. ||| 자판기 커피는 권하지 않아요. 문서고가 나쁜 것까지 보존한다는 증거거든요.
++ interino = 임시의, 직무대행의. 'de forma interina'는 정식 임명이 아닌 임시 직무
++ dos señores del Ministerio = 이름 대신 소속으로 부르는 방식. 공식 안내방송 말투
++ ratas de biblioteca = 도서관 쥐. 책벌레를 뜻하는 'rata de biblioteca'
++ hacía años que no venía nadie = 'hacer + 기간 + que + 직설법 부정'. 몇 년째 ~하지 않았다
++ vengo a pedir con educación = venir a + 원형: ~하러 오다. 'con educación'은 예의를 갖춰
++ tarda en subir = tardar en + 원형: ~하는 데 시간이 걸리다
+## 지하 서고 — EL SÓTANO
+EVARISTO: ¿Son ustedes los de Exteriores? Yo soy Evaristo. No me den la mano, que tengo polvo. ||| 외교부에서 오신 분들이오? 에바리스토요. 악수는 마시오, 먼지가 묻었으니.
+ÁLVARO: Álvaro Quintana. Ella es Marina Ortega. Gracias por bajar a recibirnos. ||| 알바로 킨타나입니다. 이쪽은 마리나 오르테가고요. 내려와서 맞아 주셔서 감사합니다.
+EVARISTO: He subido, no he bajado. Esto es la planta baja. El archivo está abajo. Dicen que su solicitud está parada. ||| 내려온 게 아니라 올라온 거요. 여긴 1층이고, 문서고는 아래에 있소. 신청서가 멈춰 있다더군요.
+ÁLVARO: En la Subdirección. Que, según me han dicho, es usted. ||| 부서장실에서요. 듣기로는 그게 선생님이시라던데요.
+EVARISTO: Cierto. Soy un subdirector interino. Interino significa que me han dado el cargo para que no tenga que ascenderme nadie. ||| 맞소. 나는 임시 부서장이오. 임시라는 건 아무도 나를 승진시킬 필요가 없도록 직함만 준다는 뜻이지.
+MARINA: Entonces la autorización está en su mesa. ||| 그럼 허가서는 선생님 책상에 있겠네요.
+EVARISTO: No. Está en un ordenador que no sé abrir. Mi nieto me lo instaló y se fue a Alemania. ||| 아니오. 내가 열 줄 모르는 컴퓨터에 있소. 손자가 설치해 주고 독일로 가 버렸지.
+ÁLVARO: ¿Y si se la pido por escrito? A mano, en papel. ||| 그럼 서면으로 요청드리면요? 종이에 손으로 써서요.
+EVARISTO: ¿A mano? ¿Con pluma? ||| 손으로? 펜으로?
+ÁLVARO: Con bolígrafo. No me fío de mi pulso con pluma. ||| 볼펜으로요. 만년필로는 제 손떨림을 못 믿겠어서요.
+EVARISTO: Hágalo. Y firme con nombre y cargo. Aquí, en esta libreta. ||| 하시오. 이름과 직함을 쓰고 서명하시오. 여기, 이 공책에.
+ÁLVARO: Hecho. «Solicito consultar el expediente del acuerdo de pesca con Kandara, 1996». ||| 했습니다. '1996년 칸다라 어업협정 파일 열람을 신청합니다'.
+EVARISTO: ¿Kandara? ||| 칸다라요?
+ÁLVARO: Sí. ¿Le dice algo? ||| 네. 짚이는 게 있으십니까?
+EVARISTO: Me dice mucho. Vengan. Bajamos por aquí. Cuidado con el escalón, que mató a un ministro. ||| 많은 걸 말해 주지. 오시오. 이쪽으로 내려갑니다. 계단 조심하시오, 장관 한 명을 죽인 계단이니.
+MARINA: ¿Mató a un ministro? ||| 장관을 죽였다고요?
+EVARISTO: Se torció un tobillo y dimitió. Aquí la historia es así de pequeña. ||| 발목을 삐고 사임했소. 여기 역사는 그렇게 작지.
+ÁLVARO: Tiene usted un humor muy seco, don Evaristo. ||| 선생님은 유머가 아주 메마르셨군요, 에바리스토 선생님.
+EVARISTO: Los papeles envejecen mejor en seco. Las personas, también. Aquí está la caja catorce. ||| 서류는 건조할수록 잘 늙소. 사람도 그렇고. 여기 14번 상자요.
+ÁLVARO: ¿Podemos abrirla? ||| 열어 봐도 됩니까?
+EVARISTO: Con guantes. Y sin bolígrafo. Solo lápiz. ||| 장갑 끼고요. 볼펜은 안 되오. 연필만.
+MARINA: Aquí está el anexo tres. Termina en el folio doscientos once. ||| 여기 부속서 3이 있네요. 211장에서 끝나요.
+EVARISTO: Siga. ||| 계속하시오.
+MARINA: Y el siguiente es el doscientos veinticuatro. ||| 다음은 224장이에요.
+EVARISTO: Doce folios. Del doscientos doce al doscientos veintitrés. ||| 열두 장. 212장부터 223장까지.
+ÁLVARO: ¿Lo sabía usted? ||| 알고 계셨습니까?
+EVARISTO: Ay, hijo. Lo sé desde hace veintiocho años. Mire en el interior de la tapa. ||| 아이고, 젊은이. 28년 전부터 알고 있었소. 뚜껑 안쪽을 보시오.
+MARINA: Hay una anotación a lápiz. «Folios 212–223. Retirados en préstamo temporal. I. V. 21-X-96». ||| 연필 메모가 있어요. '212~223장. 임시 대출로 반출. I. V. 96년 10월 21일'.
+EVARISTO: Lo escribió mi predecesor, don Anselmo, que en paz descanse. Y yo lo confirmé con mi inicial, aquí. ||| 내 전임자인 안셀모 씨가 썼소, 편히 쉬시길. 그리고 내가 여기 내 머리글자로 확인했고.
+ÁLVARO: ¿Y quién es «I. V.»? ||| 'I. V.'가 누구입니까?
+EVARISTO: Eso no está en la tapa. Está en el libro de préstamos. ||| 그건 뚜껑에는 없소. 대출 장부에 있지.
++ interino = 임시 직무를 맡은. 아래 풍자 'para que no tenga que ascenderme nadie'는 관료 조직을 비꼬는 농담
++ no me fío de = 믿지 못하다. fiarse de + 명사. 'confiar en'과 같은 뜻이지만 구어적
++ que mató a un ministro = 관계절로 이어지는 과장 농담. 'se torció un tobillo y dimitió'로 반전
++ en préstamo temporal = 임시 대출 상태로. 문서고의 일시 반출 용어
++ que en paz descanse (q.e.p.d.) = 고인을 언급한 뒤 붙이는 관용구. 접속법 현재
++ por escrito / a mano / con bolígrafo = 서면으로 / 손으로 / 볼펜으로. 수단·방식을 나타내는 전치사구
+
+## 대출 장부 — EL LIBRO DE PRÉSTAMOS
+EVARISTO: Aquí está. El libro de préstamos de mil novecientos noventa y seis. Veintiuno de octubre. ||| 여기 있소. 1996년 대출 장부. 10월 21일.
+MARINA: «Caja catorce. Folios doscientos doce a doscientos veintitrés. Solicitante: I. Valdés, Subdirección General de África Occidental. Motivo: traducción jurada». ||| '14번 상자. 212장부터 223장까지. 신청자: I. 발데스, 서아프리카 담당 부서장. 사유: 공증 번역'.
+ÁLVARO: Inmaculada Valdés. Con treinta y tres años y una subdirección. ||| 이마쿨라다 발데스. 서른셋에 부서장이었군요.
+EVARISTO: La recuerdo. Delgada, con prisa. Vino con un hombre con un maletín. Pasaron tres horas en la sala tres. ||| 기억하오. 마른 몸에 서두르는 모습이었지. 서류가방 든 남자와 같이 왔소. 3번 열람실에서 세 시간을 보냈지.
+ÁLVARO: ¿Un hombre con un maletín? ||| 서류가방을 든 남자요?
+EVARISTO: Un intérprete. Lo sé por las libretas. Los intérpretes siempre llevan libretas. ||| 통역관이오. 공책들을 보고 알았지. 통역관은 늘 공책을 들고 다니거든.
+MARINA: ¿Y los folios volvieron? ||| 그 장들은 돌아왔나요?
+EVARISTO: Mire la columna de devolución. ||| 반납 칸을 보시오.
+MARINA: Está en blanco. ||| 비어 있어요.
+EVARISTO: En blanco veintiocho años. Ella me dijo al salir: «Es secreto de Estado, Evaristo. Olvide que me ha visto». ||| 28년째 비어 있소. 그녀가 나가면서 말했지. '국가 기밀이에요, 에바리스토. 저를 본 걸 잊으세요'.
+ÁLVARO: ¿Y usted lo olvidó? ||| 그래서 잊으셨습니까?
+EVARISTO: Yo no olvido nada. Es mi oficio. Olvidar es de políticos. ||| 나는 아무것도 잊지 않소. 그게 내 직업이오. 잊는 건 정치인들 일이지.
+ÁLVARO: ¿Por qué no habló nunca? ||| 왜 한 번도 말씀하지 않으셨습니까?
+EVARISTO: ¿A quién? ¿A un ministro que no me iba a escuchar? Un archivero que habla pierde el trabajo. Un archivero que calla pierde la conciencia. Yo perdí un poco de las dos cosas. ||| 누구한테 말이오? 내 말을 들어 주지 않을 장관한테? 말하는 문서 관리인은 일자리를 잃고, 입 다무는 문서 관리인은 양심을 잃소. 나는 둘 다 조금씩 잃었지.
+MARINA: ¿Hay más entradas en el libro? ¿Alguien más ha pedido esta caja? ||| 장부에 다른 기록도 있습니까? 이 상자를 요청한 사람이 또 있나요?
+EVARISTO: Sí. Y esa es la que me quita el sueño. Busque este año. Este es el libro nuevo. ||| 있소. 그리고 그게 나를 잠 못 들게 하는 거요. 올해 걸 보시오. 이게 새 장부요.
+MARINA: «Tres de septiembre. Caja catorce completa. Consulta. Solicitante: G. Linares. Autorizado: por orden de la Secretaria de Estado. Devuelta el cinco de septiembre». ||| '9월 3일. 14번 상자 전체. 열람. 신청자: G. 리나레스. 승인: 차관의 지시에 의함. 9월 5일 반납'.
+ÁLVARO: Gaspar. ||| 가스파르.
+MARINA: ¿El jefe de gabinete del ministro? ||| 장관 비서실장이요?
+ÁLVARO: El mismo. Hace un mes. Antes de que se retuviera el barco. ||| 그 사람이야. 한 달 전에. 배가 억류되기 전에.
+EVARISTO: Un joven impecable, de traje. Me pidió que no anotase su nombre. Lo anoté igualmente, a lápiz, en el margen. ||| 흠잡을 데 없는 양복 차림의 젊은이였소. 이름을 적지 말라고 하더군. 그래도 적었소, 연필로, 여백에.
+ÁLVARO: ¿Por qué lo anotó? ||| 왜 적으셨습니까?
+EVARISTO: Porque yo anoto todo. Hasta lo que no debo. Los archivos no mienten porque no tienen miedo. Yo sí, pero el libro no. ||| 나는 모든 걸 적으니까. 적어선 안 되는 것까지. 문서고는 겁이 없어서 거짓말을 안 하오. 나는 겁이 있지만 장부는 없소.
+MARINA: Pero él dice «por orden de la Secretaria de Estado». ¿Y si Valdés no sabía nada? ||| 하지만 그는 '차관의 지시'라고 했어요. 만약 발데스 차관님이 아무것도 몰랐다면요?
+ÁLVARO: O sabía y no quiso decírmelo. O Gaspar usó su nombre sin que lo supiera. Las dos opciones son malas. ||| 알았지만 내게 말하고 싶지 않았거나, 가스파르가 모르는 사이에 이름을 썼겠지. 어느 쪽이든 나빠.
+EVARISTO: Hay una tercera. ||| 세 번째가 있소.
+ÁLVARO: ¿Cuál? ||| 뭡니까?
+EVARISTO: Que los dos supieran lo mismo y cada uno pensase que el otro era el culpable. En este oficio es lo más corriente. ||| 둘이 같은 걸 알고 있으면서 각자 상대가 죄인이라고 생각하는 거요. 이 직업에서 제일 흔한 일이지.
++ me quita el sueño = 나를 잠 못 들게 하다. quitar el sueño는 '걱정되게 하다'
++ por orden de = ~의 지시로. 서류의 권한 표시 문구
++ pensase / supiera = 접속법 불완전과거. 가정이나 비현실적 상황을 말하는 구문. '(~한다고) 가정해 보면'
++ lo más corriente = 가장 흔한 일. 'lo + 최상급' 구조
++ yo anoto todo. Hasta lo que no debo. = 'hasta + 목적어'는 '~까지도'. 'lo que no debo'는 상관 구문
++ perder la conciencia = 양심을 잃다. consciencia(의식)와 conciencia(양심)를 가르는 단어
+
+## 예비 대장 — EL REGISTRO DE RESERVA
+ÁLVARO: Don Evaristo, esos doce folios. Si salieron en el noventa y seis y nunca volvieron, ¿se han perdido? ||| 에바리스토 선생님, 그 열두 장 말입니다. 96년에 나가서 돌아오지 않았다면 사라진 겁니까?
+EVARISTO: Joven, en un archivo las cosas no se pierden. Se cambian de sitio. ||| 젊은이, 문서고에서는 물건이 사라지지 않소. 자리를 바꿀 뿐이지.
+ÁLVARO: ¿Se cambian de sitio? ||| 자리를 바꾼다고요?
+EVARISTO: Todo lo que sale de aquí deja un hueco en el libro de préstamos y una huella en el registro de reserva. Eso me lo enseñó don Anselmo. ||| 여기서 나간 모든 것은 대출 장부에 빈자리를 남기고 예비 대장에 흔적을 남기오. 안셀모 씨가 가르쳐 준 거요.
+MARINA: ¿Qué es el registro de reserva? ||| 예비 대장이 뭔가요?
+EVARISTO: Es donde se anotan los traslados reservados. Cuando un documento sale a otro organismo, se archiva un recibo. Nadie lo mira jamás. Por eso nadie lo ha tocado. ||| 기밀 이송을 기록하는 대장이오. 문서가 다른 기관으로 나갈 때 영수증을 보관하지. 아무도 들여다보지 않소. 그래서 아무도 손대지 않았고.
+ÁLVARO: ¿Podemos verlo? ||| 볼 수 있을까요?
+EVARISTO: Es la tercera estantería. Tomo cuarenta y dos. Aguarde, que me duele la rodilla. ||| 세 번째 서가요. 42권. 잠깐만, 무릎이 아프니.
+MARINA: Lo cojo yo. Octubre del noventa y seis. «Traslado reservado de doce folios. Destino: Servicio de Interpretación del Ministerio de Asuntos Exteriores. Receptor: F. Cuesta, intérprete jurado. Fecha: veintidós de octubre». ||| 제가 꺼낼게요. 96년 10월. '12장 기밀 이송. 목적지: 외교부 통역 서비스. 수령인: F. 쿠에스타, 공증 통역관. 날짜: 10월 22일'.
+ÁLVARO: F. Cuesta. El hombre del maletín. ||| F. 쿠에스타. 서류가방의 남자.
+EVARISTO: Un intérprete jurado no se desprende de lo que traduce. Es la ley de su gremio. Ese hombre guardó una copia. Se lo juro. ||| 공증 통역관은 번역한 걸 놓지 않소. 그 조합의 규칙이오. 그 사람은 사본을 보관했을 거요. 맹세하오.
+ÁLVARO: ¿Cómo lo sabe? ||| 어떻게 아십니까?
+EVARISTO: Porque yo hago lo mismo con lo mío. Los que protegemos papeles tenemos la misma enfermedad. ||| 내가 내 것에 그렇게 하니까. 서류를 지키는 사람들은 같은 병을 앓지.
+ÁLVARO: Entonces el cero no se ha perdido. Está guardado. En casa de alguien. ||| 그럼 영은 사라진 게 아니에요. 보관돼 있는 거죠. 누군가의 집에.
+EVARISTO: Eso es lo que he dicho. ||| 내가 한 말이 바로 그거요.
+MARINA: Don Evaristo, ¿y esto? Parece un sello. Al margen del recibo. ||| 에바리스토 선생님, 이건요? 영수증 여백에 도장 같은 게 있어요.
+EVARISTO: ¿Dónde? Ay. Eso es un sello de «Presidencia del Gobierno». No lo había visto. ||| 어디요? 아이고. 그건 '총리실' 도장이오. 못 봤던 건데.
+ÁLVARO: ¿Qué hace un sello de Presidencia en un traslado de Exteriores? ||| 외교부 이송 건에 총리실 도장이 왜 있습니까?
+EVARISTO: Esa es una pregunta que no me corresponde. Pero le diré una cosa. Cuando un sello así aparece, el papel deja de ser un papel y pasa a ser un problema. ||| 그건 내가 답할 질문이 아니오. 하지만 한 가지는 말해 주지. 그런 도장이 나타나면 서류는 서류가 아니라 문제가 되오.
+ÁLVARO: ¿Me permite hacer una copia compulsada de estas páginas? ||| 이 쪽들을 공증 사본으로 떠도 되겠습니까?
+EVARISTO: Eso sí puedo autorizarlo. Un papel con sello vale más que una opinión. Traiga. ||| 그건 내가 승인할 수 있소. 도장 찍힌 서류가 의견보다 값어치가 있지. 이리 주시오.
++ en un archivo las cosas no se pierden, se cambian de sitio = 이 화의 '해법 트리거'. 사라짐(perder)과 이동(cambiar de sitio)을 가르는 관점
++ recibo = 영수증. 'acuse de recibo'는 수령 확인
++ copia compulsada = (원본과 대조해 확인한) 공증 사본. compulsar는 대조 확인하다
++ gremio = 동업자 조합, 업계. 'ley de su gremio'는 직업 윤리 규칙
++ no me corresponde = 내가 할 일이 아니다. corresponder + 간접목적어
++ aguarde = 기다리십시오. aguardar의 usted 명령형 (접속법 현재형과 동일)
+
+## 귀경 열차 — DE VUELTA
+MARINA: Llevamos las copias. Y una libreta con tres nombres. Valdés, Linares, Cuesta. ||| 사본이 있고, 이름 세 개가 적힌 수첩이 있네요. 발데스, 리나레스, 쿠에스타.
+ÁLVARO: Y un sello de Presidencia. Eso es lo que más me preocupa. ||| 그리고 총리실 도장. 그게 제일 마음에 걸려.
+MARINA: ¿Qué piensa hacer? ||| 어떻게 하실 거예요?
+ÁLVARO: Buscar a Cuesta. Un hombre de setenta y un años que se llama Fermín y ya no figura en ninguna nómina. ||| 쿠에스타를 찾아야지. 일흔한 살에 이름은 페르민이고, 이제 어떤 급여 명단에도 없는 남자를.
+MARINA: Eso lo hallo en una hora. Los jubilados dejan rastro en la Seguridad Social. ||| 그건 한 시간이면 찾아요. 퇴직자는 사회보장에 흔적을 남기거든요.
+ÁLVARO: Hazlo discretamente. Sin pedir nada al Ministerio. Que no quede registro. ||| 눈에 띄지 않게 해. 부처에는 아무것도 요청하지 말고. 기록이 남지 않게.
+MARINA: Mi móvil. Es Valdés. ||| 전화예요. 발데스 차관님이네요.
+ÁLVARO: Pásamelo. ||| 이리 줘.
+VALDÉS: Álvaro, ¿dónde estás? ||| 알바로, 어디에 있나?
+ÁLVARO: En un tren, señora secretaria. Dando un paseo. ||| 기차 안입니다, 차관님. 산책 중이에요.
+VALDÉS: ¿Un paseo a Alcalá de Henares? ||| 알칼라 데 에나레스로 산책을 가?
+ÁLVARO: Veo que el archivo informa más rápido que mis propios empleados. ||| 문서고가 제 부하 직원들보다 보고가 빠르군요.
+VALDÉS: Me han llamado de la Subdirección. Una solicitud tuya sin autorización previa. ¿Qué buscabas? ||| 부서장실에서 연락이 왔어. 사전 허가 없는 자네 신청서였다고. 뭘 찾고 있었나?
+ÁLVARO: Antecedentes. Para no repetir errores en la negociación. Es mi trabajo. ||| 선례요. 협상에서 같은 실수를 반복하지 않으려고요. 제 일이니까요.
+VALDÉS: Tu trabajo es liberar a veintidós marinos. No escribir la historia del Ministerio. ||| 자네 일은 선원 스물두 명을 석방시키는 거야. 부처의 역사를 쓰는 게 아니라.
+ÁLVARO: A veces son la misma cosa, señora secretaria. ||| 가끔은 같은 일입니다, 차관님.
+VALDÉS: Vuelve a Madrid. Gaspar quiere verte esta tarde. ||| 마드리드로 돌아오게. 가스파르가 오늘 오후에 자네를 만나고 싶어 해.
+ÁLVARO: Qué casualidad. Yo también quería hablar con él. ||| 우연이네요. 저도 그와 얘기하고 싶었는데.
+VALDÉS: No me gusta que lo digas con esa voz. ||| 그런 목소리로 말하는 게 마음에 들지 않네.
+ÁLVARO: Es la voz del tren, señora secretaria. Llego a las cuatro. ||| 기차 소리 때문입니다, 차관님. 네 시에 도착합니다.
+MARINA: Colgó. ¿Qué va a hacer con Gaspar? ||| 끊었어요. 가스파르는 어떻게 하실 거예요?
+ÁLVARO: Nada. Voy a dejar que me lo cuente él. Quien llega a una reunión sabiendo que le espero no sabe que ya he leído su nombre en un libro. ||| 아무것도. 그가 직접 말하게 둘 거야. 내가 기다린다는 걸 알고 회의에 오는 사람은, 내가 이미 장부에서 그의 이름을 읽었다는 건 모르거든.
+MARINA: Es la primera vez que le veo sonreír en toda la semana. ||| 이번 주 내내 웃으시는 건 처음 봐요.
+ÁLVARO: No es una sonrisa. Es un gesto de cálculo. ||| 웃는 게 아니야. 계산하는 표정이지.
+MARINA: Que, en su caso, se parecen. ||| 선배님 경우엔 둘이 닮았죠.
+ÁLVARO: Alguien más estaba buscando el cero, Marina. Y llegó un mes antes que nosotros. ||| 누군가 영을 찾고 있었던 거야, 마리나. 그것도 우리보다 한 달 먼저.
++ no figura en ninguna nómina = 어떤 급여 명단에도 이름이 없다. figurar는 '(명단에) 올라 있다'
++ dejar rastro = 흔적을 남기다. 'rastro'는 추적 가능한 흔적
++ que no quede registro = 기록이 남지 않도록. 접속법 현재 quede는 목적·바람의 절
++ señora secretaria = 직함 + 존칭 호칭. 'Secretaria de Estado'를 줄인 표현으로, 알바로가 격식을 높여 선을 긋는 말투
++ gesto de cálculo = 계산하는 표정. gesto는 표정·몸짓
++ que, en su caso, se parecen = que 절만 말하는 대답 구문. '그런 점에서 둘은 비슷하다'

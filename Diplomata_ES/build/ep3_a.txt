@@ -1,0 +1,78 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 3
+@title El archivo de Alcalá
+@ko 알칼라 문서고
+@setting 금요일 오전 아토차발 통근열차 → 알칼라 데 에나레스 국가행정문서고(AGA) → 오후 귀경 열차
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast ROSA | 문서고 접수 담당 직원
+@cast EVARISTO | 문서고 수석 관리인, 72세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@note 이 화는 거의 전부가 '종이'를 둘러싼 대화입니다. 관공서 용어(solicitud 신청서, autorización 허가, préstamo 대출, folio 장)와 허락을 받아내는 말투를 눈여겨보세요. 알바로는 규정을 어기지 않고 규정의 빈틈으로 들어갑니다.
+@next 1부 4화 — «El hombre del maletín»(서류가방의 남자) — 문서고가 가리킨 이름은 28년 전 번역을 맡았던 늙은 통역관. 라바피에스의 좁은 아파트에서, 서류가방을 안고 사는 남자가 문을 연다.
+
+## 알칼라행 열차 — EL TREN DE CERCANÍAS
+MARINA: Anoche no dormí. He repasado el acuerdo de pesca tres veces buscando una cláusula cero. ||| 어젯밤에 못 잤어요. 영 조항을 찾느라 어업협정을 세 번 다시 읽었어요.
+ÁLVARO: ¿Y? ||| 그래서?
+MARINA: Nada. Tres anexos, numerados del uno al tres. Pero hay algo raro. La paginación. ||| 아무것도요. 부속서 세 개, 1부터 3까지 번호가 붙어 있고요. 하지만 이상한 게 있어요. 쪽수 매김이요.
+ÁLVARO: Explícate. ||| 설명해 봐.
+MARINA: El anexo tres acaba en el folio doscientos once. Pero el siguiente documento del expediente, un acta de ratificación, empieza en el doscientos veinticuatro. ||| 부속서 3은 211장에서 끝나요. 그런데 파일의 다음 문서인 비준 기록은 224장에서 시작해요.
+ÁLVARO: Faltan doce folios. ||| 열두 장이 빠졌군.
+MARINA: Del doscientos doce al doscientos veintitrés. Y no hay nota de ninguna clase. ||| 212장부터 223장까지요. 그런데 어떤 메모도 없어요.
+ÁLVARO: Un folio perdido es un descuido. Doce seguidos, con número intacto a ambos lados, es una decisión. ||| 한 장 없어진 건 부주의야. 열두 장이 연달아, 양쪽 번호는 멀쩡한 채로 빠졌다면 그건 결정이지.
+MARINA: ¿Quién tomaría esa decisión? ||| 누가 그런 결정을 할까요?
+ÁLVARO: Alguien con autoridad para sacar papeles de un expediente cerrado. Y que no necesitase explicárselo a nadie. ||| 닫힌 파일에서 서류를 꺼낼 권한이 있는 사람. 그리고 누구에게도 설명할 필요가 없던 사람이겠지.
+MARINA: ¿Valdés? ||| 발데스 차관님이요?
+ÁLVARO: No saques conclusiones. Todavía no hemos visto nada. ||| 결론 내리지 마. 아직 아무것도 보지 못했어.
+MARINA: Las conclusiones no se sacan, vienen solas. ||| 결론은 꺼내는 게 아니라 알아서 오는 거예요.
+ÁLVARO: Ahí estás equivocada. Las conclusiones vienen cuando uno las quiere. Y cuando uno las quiere demasiado, se equivoca. ||| 그건 틀렸어. 결론은 원할 때 와. 그리고 너무 간절히 원하면 틀리게 되지.
+MARINA: Mi padre dice lo mismo de la pesca. «Si quieres demasiado el pez, se te escapa». ||| 아버지도 낚시에 대해 같은 말을 하세요. '물고기를 너무 원하면 놓친다'고.
+ÁLVARO: Tu padre y Berni deberían conocerse. ||| 너희 아버지와 베르니는 만나 봐야겠다.
+MARINA: Se llevarían fatal. Los dos creen que tienen razón. ||| 사이가 아주 나쁠걸요. 둘 다 자기가 옳다고 믿거든요.
+ÁLVARO: Como todo el mundo. ||| 모든 사람이 그렇지.
+MARINA: ¿Tenemos permiso para entrar en el archivo? ||| 문서고에 들어갈 허가는 받았어요?
+ÁLVARO: Tenemos una solicitud. Que es muy distinto. ||| 신청서는 받았지. 그건 아주 다른 거야.
+MARINA: Eso significa que nos pueden decir que no. ||| 그 말은 거절당할 수 있다는 뜻이잖아요.
+ÁLVARO: Eso significa que lo vamos a intentar con muy buena cara. ||| 아주 좋은 표정으로 시도해 보자는 뜻이야.
++ folio = (문서의) 장·쪽. 앞면에만 번호를 매기는 행정 문서의 낱장을 가리킨다
++ sacar conclusiones = 결론을 내리다. 아래 대사의 '(결론이) 알아서 온다'와 대비되는 말장난
++ llevarse fatal = 사이가 몹시 나쁘다. llevarse bien/mal/fatal (상호 관계)
++ expediente cerrado = 종결된 파일. expediente는 한 사안의 서류 철 전체
++ con muy buena cara = 좋은 얼굴로, 밝은 표정으로
++ tener razón / estar equivocado = 옳다 / 틀리다. 'estar equivocada'는 일시적 상태
+
+## 접수대 — LA VENTANILLA
+ROSA: Buenos días. Este es un archivo de acceso restringido. ¿Tienen cita? ||| 안녕하세요. 이곳은 출입이 제한된 문서고입니다. 예약하셨나요?
+ÁLVARO: Álvaro Quintana, Ministerio de Asuntos Exteriores. Mi compañera es Marina Ortega. Presentamos la solicitud ayer por la tarde, por vía electrónica. ||| 외교부 알바로 킨타나입니다. 이쪽은 동료 마리나 오르테가고요. 어제 오후에 전자 방식으로 신청서를 냈습니다.
+ROSA: Un momento. Voy a mirar. Quintana, Ortega... Sí, aquí está. Pero hay un problema. ||| 잠시만요. 확인해 볼게요. 킨타나, 오르테가… 네, 있네요. 그런데 문제가 하나 있어요.
+ÁLVARO: ¿Cuál? ||| 어떤 문제입니까?
+ROSA: Su solicitud está marcada como «pendiente de autorización de la Subdirección». Y esa autorización no ha llegado. ||| 신청서에 '부서장 허가 대기 중'이라고 표시돼 있어요. 그리고 그 허가가 아직 오지 않았습니다.
+MARINA: Es viernes. Quizá llegue esta tarde. ||| 금요일이잖아요. 오늘 오후에는 올지도 몰라요.
+ROSA: Quizá. Pero sin autorización no puedo dejarles entrar. Es el reglamento. ||| 어쩌면요. 하지만 허가 없이는 들여보낼 수 없습니다. 규정이에요.
+ÁLVARO: Lo entiendo perfectamente y no voy a pedirle que lo incumpla. Solo una pregunta. ¿Quién firma esa autorización? ||| 충분히 이해하고, 규정을 어기라고 하지는 않겠습니다. 질문 하나만요. 그 허가는 누가 서명합니까?
+ROSA: El subdirector general. Don Evaristo, de forma interina, desde el año pasado. ||| 부서장이요. 작년부터 에바리스토 씨가 임시로 맡고 계십니다.
+ÁLVARO: ¿Don Evaristo, el archivero? ||| 문서고 관리인 에바리스토 씨요?
+ROSA: Sí. Lleva en esta casa cuarenta años. Se jubilará en diciembre. ||| 네. 이 건물에서 40년을 일하셨어요. 12월에 퇴직하시고요.
+ÁLVARO: ¿Y está hoy? ||| 오늘 계십니까?
+ROSA: Siempre está. Vive en el sótano, como las ratas de biblioteca, dice él. ||| 늘 계시죠. 지하에 사세요, 도서관 쥐처럼, 이라고 본인이 그러세요.
+ÁLVARO: ¿Podría avisarle de que estamos aquí? Solo para saludar. No para pedirle nada. ||| 저희가 왔다고 전해 주실 수 있을까요? 인사만 드리려고요. 부탁드릴 건 없습니다.
+ROSA: Eso nunca es verdad. Todo el mundo que viene a saludar viene a pedir. ||| 그건 한 번도 사실인 적이 없어요. 인사하러 오는 사람은 다 부탁하러 오죠.
+ÁLVARO: Tiene razón. Digamos que vengo a pedir con educación. ||| 맞는 말씀입니다. 예의를 갖춰서 부탁하러 왔다고 하죠.
+ROSA: Don Evaristo, hay dos señores del Ministerio. ||| 에바리스토 씨, 부처에서 두 분이 오셨습니다.
+EVARISTO: ¿Del Ministerio de qué? ||| 무슨 부처요?
+ROSA: Exteriores. ||| 외교부요.
+EVARISTO: Exteriores. Hacía años que no venía nadie de Exteriores. Ahora subo. No toquen nada. ||| 외교부라. 외교부 사람이 온 지 몇 년 됐군. 올라가겠소. 아무것도 만지지 말고.
+ROSA: Siéntense. Don Evaristo tarda en subir. Tiene la rodilla mal. ||| 앉으세요. 에바리스토 씨는 올라오시는 데 시간이 걸립니다. 무릎이 안 좋으세요.
+MARINA: ¿Cuánto tarda? ||| 얼마나 걸리죠?
+ROSA: Depende de lo que tenga en la cabeza. Hoy, unos diez minutos. ||| 머릿속에 뭐가 있느냐에 따라 달라요. 오늘은 10분쯤이요.
+ÁLVARO: Tiempo suficiente para un café de máquina. ||| 자판기 커피 한 잔 마실 시간이네요.
+ROSA: No les recomiendo el café de máquina. Es una prueba de que el archivo conserva incluso lo malo. ||| 자판기 커피는 권하지 않아요. 문서고가 나쁜 것까지 보존한다는 증거거든요.
++ interino = 임시의, 직무대행의. 'de forma interina'는 정식 임명이 아닌 임시 직무
++ dos señores del Ministerio = 이름 대신 소속으로 부르는 방식. 공식 안내방송 말투
++ ratas de biblioteca = 도서관 쥐. 책벌레를 뜻하는 'rata de biblioteca'
++ hacía años que no venía nadie = 'hacer + 기간 + que + 직설법 부정'. 몇 년째 ~하지 않았다
++ vengo a pedir con educación = venir a + 원형: ~하러 오다. 'con educación'은 예의를 갖춰
++ tarda en subir = tardar en + 원형: ~하는 데 시간이 걸리다

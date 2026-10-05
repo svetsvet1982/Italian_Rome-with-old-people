@@ -4,7 +4,7 @@
 @ep 1
 @title El atunero retenido
 @ko 억류된 참치잡이배
-@setting 월요일 아침 마드리드 산타크루스 궁 위기대책실 → 칸다라 차관과의 통화 → 목요일 비고 항구
+@setting 월요일 아침 마드리드 산타크루스 궁 위기대책실 → 칸다라 차관과의 통화 → 화요일 비고 항구
 @level B2-C1
 @cast ÁLVARO | 외교관 · 외교부 비공개협상실(UNR) 실장, 44세
 @cast MARINA | UNR 분석관, 갈리시아 어부 집안 출신
@@ -43,7 +43,7 @@ VALDÉS: Entonces ponte a ello. Llama a Puerto Alba. Hoy. ||| 그럼 착수하�
 ÁLVARO: Con una condición: que nadie más hable con ellos mientras yo lo hago. Ni por la vía diplomática ni por la vía oficiosa. ||| 한 가지 조건이 있습니다. 제가 하는 동안 아무도 그쪽과 접촉하지 않을 것. 외교 경로로도, 비공식 경로로도요.
 VALDÉS: ¿Por qué lo dices así? ||| 왜 그렇게 말하나?
 ÁLVARO: Porque cuando hay demasiadas voces, el otro lado elige la que más le conviene. ||| 목소리가 너무 많으면, 상대가 자기한테 가장 유리한 목소리를 고르니까요.
-VALDÉS: Concedido. Tienes hasta el miércoles. ||| 받아들이겠네. 수요일까지야.
+VALDÉS: Concedido. Tienes hasta el viernes. ||| 받아들이겠네. 금요일까지야.
 MARINA: Álvaro, un segundo. Fuera de la sala. ||| 알바로, 잠깐만요. 밖에서요.
 ÁLVARO: Dime. ||| 말해 봐.
 MARINA: Es la tercera vez que Valdés repite «paga y calla». No es su estilo. Ella normalmente quiere entender el problema antes de resolverlo. ||| 발데스 차관님이 '돈 내고 조용히 하자'를 세 번째 반복하셨어요. 그분 스타일이 아니에요. 보통은 해결하기 전에 문제부터 이해하려는 분이잖아요.

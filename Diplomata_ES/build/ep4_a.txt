@@ -1,0 +1,109 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 4
+@title El hombre del maletín
+@ko 서류가방의 남자
+@setting 금요일 오후 산타크루스 궁 비서실장실 → 토요일 오전 라바피에스 4층 아파트
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast GASPAR | 장관 비서실장, 47세
+@cast FERMÍN | 전 공증 통역관, 71세, 1996년 부속서 번역자
+@note 이 화의 핵심은 '번역'입니다. 한 단어(compensación / contraprestación)가 바뀌면 같은 돈이 합법적 보상에서 침묵의 대가로 변합니다. 번역가의 시선으로 법률 문서의 어휘를 읽어 보세요. 장면 전환이 두 번 있습니다(정치적 대화 → 오래된 증인).
+@next 1부 5화 — «Mesa en Bruselas»(브뤼셀 협상) — 알바로는 EU 집행위 어업총국 회의실로 간다. 스페인·프랑스·포르투갈 대표가 마주 앉은 테이블에서, 프랑스 대표의 농담 한마디가 칸다라의 '봉투'를 없앨 방법을 던져 준다.
+
+## 가스파르와의 면담 — EL DESPACHO DE GASPAR
+GASPAR: Álvaro, pasa, pasa. ¿Qué tal el paseo? ||| 알바로, 들어와요, 어서. 산책은 어땠어요?
+ÁLVARO: Instructivo. Alcalá tiene un cordero muy digno. ||| 유익했어요. 알칼라는 양고기가 꽤 훌륭하더군요.
+GASPAR: ¿Fuiste a comer cordero? ||| 양고기 먹으러 간 거예요?
+ÁLVARO: Y a ver papeles, ya que estaba. Soy un hombre de costumbres mixtas. ||| 겸해서 서류도 봤죠. 습관이 여러 가지 섞인 사람이라서요.
+GASPAR: Valdés me ha dicho que pediste acceso al archivo de la administración. ¿Para qué? ||| 발데스 차관님이 자네가 행정문서고 열람을 신청했다고 하더군요. 무슨 일로요?
+ÁLVARO: Antecedentes del acuerdo de pesca. Quiero saber si en el noventa y seis alguien ya había previsto el problema de las zonas. ||| 어업협정의 선례요. 96년에 누군가 해역 문제를 이미 예견했는지 알고 싶어서요.
+GASPAR: ¿Y encontraste algo? ||| 뭐 찾았어요?
+ÁLVARO: Un archivero encantador y una rodilla mala. De momento, nada. ||| 매력적인 문서 관리인과 안 좋은 무릎이요. 아직은 아무것도.
+GASPAR: Te lo digo como amigo. Hay cosas del noventa y seis que están cerradas por razones de Estado. No conviene removerlas. ||| 친구로서 말하는 겁니다. 96년에는 국가적 이유로 닫아 둔 일들이 있어요. 건드리지 않는 게 좋습니다.
+ÁLVARO: Qué curioso. Es el mismo consejo que me dio la señora Valdés. Con otras palabras. ||| 흥미롭군요. 발데스 차관님이 해 주신 충고와 같아요. 다른 말로요.
+GASPAR: Será porque es de sentido común. ||| 상식이라서 그렇겠죠.
+ÁLVARO: O será porque alguien lo ha repetido en los pasillos. Dime, Gaspar. ¿Tú has estado alguna vez en el archivo de Alcalá? ||| 아니면 누군가 복도에서 되풀이해서 그럴 수도 있고. 말해 봐요, 가스파르. 알칼라 문서고에 가 본 적 있습니까?
+GASPAR: ¿Yo? Nunca. Me mareo en los archivos. Todo ese polvo. ||| 제가요? 한 번도요. 문서고에 가면 어지러워요. 그 먼지 때문에.
+ÁLVARO: Qué lástima. Es un sitio muy tranquilo. ||| 아쉽네요. 아주 조용한 곳인데.
+GASPAR: No es mi estilo. Yo me dedico a las personas, no a los papeles. ||| 제 스타일이 아니에요. 저는 사람을 상대하지 서류를 상대하지 않아요.
+ÁLVARO: Qué envidiable. Los papeles tienen mejor memoria. ||| 부럽군요. 서류가 기억력이 더 좋거든요.
+GASPAR: ¿Y las personas? ||| 사람은요?
+ÁLVARO: Las personas tienen mejor imaginación. ||| 사람은 상상력이 더 좋죠.
+GASPAR: Bien. Hablemos de lo que importa. La ministra quiere un calendario. Una fecha de salida del barco. ||| 좋아요. 중요한 얘기를 하죠. 장관님은 일정을 원하십니다. 배가 나오는 날짜요.
+ÁLVARO: Dentro de cinco semanas se reúne el Consejo de Kandara. Esa es la fecha real. ||| 5주 뒤에 칸다라 위원회가 열립니다. 그게 실제 날짜입니다.
+GASPAR: ¿Cinco semanas? ¿Quién te ha dicho eso? ||| 5주요? 누가 그런 말을 했죠?
+ÁLVARO: Un contacto. No me pidas el nombre. ||| 연락책이요. 이름은 묻지 마세요.
+GASPAR: Cinco semanas es una eternidad para la prensa. ||| 5주는 언론에게 영원이에요.
+ÁLVARO: Entonces dile a la ministra que lo mejor que puede hacer es no prometer fechas. Que prometa resultados. ||| 그럼 장관님께 날짜를 약속하지 마시라고 하세요. 결과를 약속하시라고.
+GASPAR: Eso es lo mismo que no prometer nada. ||| 그건 아무것도 약속하지 않는 거나 마찬가지예요.
+ÁLVARO: Exacto. A veces lo más honesto es lo más parecido a nada. ||| 맞아요. 때로는 가장 정직한 게 아무것도 아닌 것과 가장 닮았죠.
+GASPAR: Eres el único en este edificio que habla así. ||| 이 건물에서 그렇게 말하는 사람은 자네뿐입니다.
+ÁLVARO: Por eso me han dejado en el sótano. Si me disculpas, tengo que preparar el fin de semana. ||| 그래서 저를 지하에 두신 거죠. 실례하겠습니다, 주말을 준비해야 해서요.
+GASPAR: ¿Trabajas el sábado? ||| 토요일에도 일해요?
+ÁLVARO: Hay gente que no entiende de calendarios. Los marineros, por ejemplo. ||| 달력을 모르는 사람들이 있죠. 예를 들어 선원들요.
++ razones de Estado = 국가 사유. 정치인이 비밀을 정당화할 때 쓰는 표현
++ cordero digno = 격이 있는 양고기. digno는 '품위 있는, 쓸 만한'. 가벼운 반어
++ soy un hombre de costumbres mixtas = 습관이 섞여 있다. 직접 답을 피하는 농담
++ me mareo = (어지러워서) 멀미가 난다. marearse는 재귀 동사
++ lo más honesto es lo más parecido a nada = 'lo más + 형용사' 최상급 구조. 정직함과 무(無)를 동일시하는 역설
++ no entender de calendarios = 달력을 모르다. entender de + 명사는 '~에 정통하다 / ~을 모르다(부정)'
+
+## 마리나의 발견 — EL DIRECTORIO
+MARINA: Lo tengo. Fermín Cuesta Lara, setenta y un años. Domicilio en Lavapiés, calle del Salitre, cuarto sin ascensor. ||| 찾았어요. 페르민 쿠에스타 라라, 일흔한 살. 라바피에스 살리트레 거리, 엘리베이터 없는 4층에 삽니다.
+ÁLVARO: ¿Cómo lo has conseguido tan rápido? ||| 어떻게 이렇게 빨리 찾았어?
+MARINA: Pensión de jubilación. Y una cuota de la asociación de intérpretes que sigue pagando religiosamente. ||| 퇴직 연금이요. 그리고 통역사 협회 회비를 지금도 꼬박꼬박 내고 있어요.
+ÁLVARO: Gente leal, los intérpretes. ||| 충직한 사람들이야, 통역관들은.
+MARINA: Gente invisible, más bien. Hay otra cosa. El portal tiene un telefonillo, pero su nombre está tachado del buzón. ||| 보이지 않는 사람들이라고 해야죠. 하나 더 있어요. 현관에 인터폰이 있는데, 우편함에서 그 사람 이름이 지워져 있어요.
+ÁLVARO: Alguien que no quiere ser encontrado. ||| 찾아지고 싶지 않은 사람이군.
+MARINA: Mañana por la mañana, entonces. ¿Voy yo sola? ||| 그럼 내일 아침이네요. 저 혼자 갈까요?
+ÁLVARO: No. Irnos los dos. Un hombre que se esconde abrirá antes a una joven. Y se quedará a escuchar más tiempo si hay un hombre mayor que no habla mucho. ||| 아니야. 둘이 가자. 숨어 사는 사람은 젊은 여자에게 먼저 문을 열고, 말수 적은 나이 든 남자가 있으면 더 오래 들어 줄 거야.
+MARINA: ¿Eso es una táctica o una descripción de usted mismo? ||| 그건 전술이에요, 아니면 본인에 대한 묘사예요?
+ÁLVARO: Las dos cosas. ||| 둘 다.
++ pensión de jubilación = 퇴직 연금. 'jubilación'은 은퇴
++ religiosamente = 꼬박꼬박, 어김없이. 종교 어휘를 쓴 부사
++ telefonillo = 인터폰 (현관의 작은 전화기)
++ irnos los dos = 우리 둘이 가자. 'irnos' 형태의 명령 (Vamos가 아니라 부정사를 명령처럼 쓰는 구어)
++ más bien = 오히려, 차라리
++ buzón = 우편함
+
+## 라바피에스 4층 — LA CALLE DEL SALITRE
+FERMÍN: ¿Quién es? ||| 누구요?
+MARINA: Buenos días. Somos del Ministerio de Asuntos Exteriores. Buscamos al señor Fermín Cuesta. ||| 안녕하세요. 외교부에서 왔습니다. 페르민 쿠에스타 씨를 찾고 있어요.
+FERMÍN: Aquí no vive ningún Cuesta. ||| 여기엔 쿠에스타라는 사람 안 삽니다.
+MARINA: Es que tenemos su nombre en un documento de mil novecientos noventa y seis. Un traslado reservado. ||| 1996년 서류에 선생님 성함이 있어서요. 기밀 이송 영수증이에요.
+FERMÍN: ¿Quién les ha dado ese documento? ||| 그 서류를 누가 줬소?
+ÁLVARO: Un archivero. Se llama Evaristo y cree que usted guardó una copia. ||| 문서 관리인이요. 에바리스토 씨인데, 선생님이 사본을 보관했을 거라고 하더군요.
+FERMÍN: Evaristo. Ese viejo es peor que un notario. ||| 에바리스토라. 그 노인네는 공증인보다 더하군.
+ÁLVARO: Señor Cuesta, no venimos a detenerle ni a molestarle. Venimos a escucharle. Hay veintidós hombres retenidos y creo que usted tiene la clave. ||| 쿠에스타 선생님, 체포하거나 귀찮게 하러 온 게 아닙니다. 들으러 왔습니다. 스물두 명이 억류돼 있고, 선생님이 열쇠를 갖고 계신 것 같아서요.
+FERMÍN: ¿Veintidós? ¿Hombres de un barco? ||| 스물두 명? 배에 탄 사람들이오?
+ÁLVARO: Del Virgen de la Barca. Kandara. ||| 비르헨 데 라 바르카호요. 칸다라에서요.
+FERMÍN: Kandara. Cuántos años. Pasen. No miren el desorden. Ni al gato. Se llama Cicerón y muerde a los que no le caen bien. ||| 칸다라라. 몇 년 만에 듣는지. 들어오시오. 어지러운 건 보지 마시고, 고양이도 보지 마시오. 키케로라는 놈인데 마음에 안 드는 사람은 문다오.
+MARINA: Encantada, Cicerón. ||| 반가워, 키케로.
+FERMÍN: Les ofrezco café. Es de sobre. Soy un hombre de pocas pretensiones. ||| 커피 드시겠소. 인스턴트요. 나는 바라는 게 적은 사람이라.
+ÁLVARO: Con gusto. ||| 기꺼이요.
+FERMÍN: Siéntense. Ahí, no, ahí hay un diccionario de francés de mil novecientos treinta que no soporta el peso de una persona. Ahí. ||| 앉으시오. 거기 말고, 거기엔 1930년판 프랑스어 사전이 있는데 사람 무게를 못 견디오. 저기요.
+ÁLVARO: Es una casa llena de palabras. ||| 말로 가득 찬 집이군요.
+FERMÍN: Es una casa llena de lenguas muertas y de gente que ya no habla. Mi mujer murió hace seis años. Desde entonces solo hablo con el gato. ||| 죽은 언어와 이제 말하지 않는 사람들로 가득 찬 집이오. 아내는 6년 전에 죽었소. 그 뒤로는 고양이하고만 말하지.
+ÁLVARO: Lo siento. ||| 안됐군요.
+FERMÍN: No lo sienta. Él es un buen oyente. ||| 안됐다고 마시오. 고양이는 좋은 청자라오.
+MARINA: Señor Cuesta, usted tradujo en mil novecientos noventa y seis doce folios reservados. ||| 쿠에스타 선생님, 선생님은 1996년에 기밀 서류 열두 장을 번역하셨죠.
+FERMÍN: Traduje. Mala palabra. Traducir es traicionar un poco. ||| 번역했지. 고약한 단어요. 번역은 조금 배신하는 일이거든.
+ÁLVARO: ¿Traduttore, traditore? ||| '번역가는 반역자'라는 말이군요?
+FERMÍN: Veo que ha leído. Pero lo dicen los que nunca han traducido. Una traducción buena no traiciona. Escoge a quién deshonra. ||| 읽으신 분이군. 하지만 그건 번역해 본 적 없는 사람들이 하는 말이오. 좋은 번역은 배신하지 않소. 누구를 욕되게 할지 고를 뿐이지.
+ÁLVARO: ¿Y a quién deshonró usted? ||| 선생님은 누구를 욕되게 하셨습니까?
+FERMÍN: Todavía no lo sé. Llevo veintiocho años intentando averiguarlo. ||| 아직 모르오. 28년째 알아내려는 중이지.
+MARINA: ¿Lo conserva? ¿La traducción? ||| 가지고 계신가요? 그 번역본요?
+FERMÍN: Primero díganme quién les ha enviado. Y no me digan que han venido solos. ||| 먼저 누가 보냈는지 말하시오. 그리고 둘이서만 왔다고는 하지 마시오.
+ÁLVARO: He venido solo en el sentido de que nadie lo sabe. Mi jefa ha pedido que lo deje estar. ||| 아무도 모른다는 의미에서는 혼자 온 겁니다. 제 상사가 그만두라고 했어요.
+FERMÍN: ¿Valdés? ||| 발데스요?
+ÁLVARO: ¿La conoce? ||| 아십니까?
+FERMÍN: Se casó con una mentira y se la llevó a todas partes. Perdone. Es lo que pienso. ||| 거짓말과 결혼해서 어디든 데리고 다녔지. 미안하오. 내 생각이 그렇소.
++ de sobre = 봉지 커피, 인스턴트. 커피를 'de sobre'(봉지로 된)라고 부른다
++ traduttore, traditore = 이탈리아어 격언 '번역가는 반역자'. 번역이 원문을 배신한다는 말의 원형
++ escoge a quién deshonra = 'a quién'는 간접의문. '누구를 욕되게 할지 고른다'는 번역가의 윤리를 요약한 말
++ no lo sienta = 안됐다고 하지 마시오. 'lo siento'를 상대가 사양하는 표현
++ dejarlo estar = 내버려 두다, 그만두다. 'dejar + 목적어 + estar'
++ casarse con una mentira = 거짓말과 결혼하다. 비유 표현으로 평생 거짓과 함께 살았다는 뜻
