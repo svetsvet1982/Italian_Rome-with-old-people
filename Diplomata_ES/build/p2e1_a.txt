@@ -1,0 +1,88 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 1
+@title El precio
+@ko 대가
+@setting 11월 월요일 아침 하원(Congreso de los Diputados) 외교위원회 → 오후 증인 심문 → 밤 알바로의 임시 사무실
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast CALVO | 하원 외교위원회 위원장, 58세
+@cast BELTRÁN | 야당 의원, 외교위원회 위원
+@cast ARRIETA | 신임 외교부 차관급 Secretario de Estado, 58세
+@cast EVARISTO | 문서고 수석 관리인, 증인, 72세
+@cast MARINA | 브뤼셀 주재 어업총국 직원, 전화 연결
+@cast REBECA | 국가정보원(CNI) 연락관
+@note 2부의 시작입니다. 1부에서 알바로가 쓴 '더러운 수단'의 청구서가 의회의 청문 형식으로 도착합니다. 의회 어휘(comparecer 출석하다, ponente 보고 의원, orden del día 안건, turno de réplica 반론 시간)와 질문을 받는 사람의 방어 어법에 주목하세요. 이 화의 해법은 카디스 의회(1812)의 '회의 공개' 원칙에서 나옵니다.
+@next 2부 2화 — «Las Lanzas»(창들) — 프라도 미술관 벨라스케스 앞에서 알바로는 스웨덴 투자자 미카엘 스트란드를 만난다. 그가 내민 건 '가구당 3,500유로'라는 숫자였다.
+
+## 청문회 전 — EL PASILLO DEL CONGRESO
+ARRIETA: Álvaro Quintana. Por fin nos conocemos. Federico Arrieta. Me han dicho que prefiere que le llamen Álvaro. ||| 알바로 킨타나 씨. 드디어 만나는군요. 페데리코 아리에타입니다. 알바로라고 불리는 걸 선호한다고 들었습니다.
+ÁLVARO: Prefiero que me llamen cuando hay trabajo, señor secretario. El nombre es lo de menos. ||| 일이 있을 때 불러 주시는 쪽이 낫습니다, 차관님. 이름은 부차적이죠.
+ARRIETA: Qué buena respuesta. Y qué inútil. Escuche: la ministra me ha encargado la Secretaría de Estado desde hace cuatro semanas, y mi primera instrucción es limpiar la casa. ||| 좋은 대답이군요. 그리고 쓸모없는 대답이고요. 들어요. 장관님이 4주 전에 제게 차관직을 맡기셨고 첫 지시는 집안을 정리하라는 것이었습니다.
+ÁLVARO: ¿Limpiar de qué? ||| 무엇을 정리한다는 겁니까?
+ARRIETA: De ruido. Esta crisis ha dejado demasiado. La Comisión, la prensa, esas historias del anexo. Lo que yo quiero es que hoy salga de aquí sin ruido. ||| 소음이요. 이번 위기는 너무 많은 걸 남겼습니다. 위원회, 언론, 부속서 이야기들. 오늘은 소음 없이 나오길 원합니다.
+ÁLVARO: Qué difícil es comparecer sin ruido. Es como hablar sin boca. ||| 소음 없이 출석하는 건 어렵죠. 입 없이 말하는 것과 같으니까요.
+ARRIETA: Respuestas breves, sin adjetivos. Y sobre todo, no hable de fuentes. ||| 짧게 대답하고 형용사는 쓰지 마세요. 무엇보다 출처에 대해서는 말하지 마십시오.
+ÁLVARO: ¿Me pide que no mienta o que no hable? ||| 거짓말을 하지 말라는 겁니까, 말을 하지 말라는 겁니까?
+ARRIETA: Le pido que no haga las dos cosas a la vez. ||| 둘을 동시에 하지 말라는 겁니다.
+ÁLVARO: Eso lo puedo cumplir. ||| 그건 지킬 수 있습니다.
+ARRIETA: Otra cosa. La Unidad de Negociaciones Reservadas está en suspenso. Tiene usted un despacho temporal en la quinta planta, junto a los archivadores. ||| 하나 더. 비공개협상실은 정지 상태입니다. 5층 서류 보관실 옆에 임시 사무실을 쓰세요.
+ÁLVARO: ¿Con ventana? ||| 창문은 있습니까?
+ARRIETA: Con ventana al patio. Se ve un limonero. ||| 안뜰 쪽 창이요. 레몬나무가 보입니다.
+ÁLVARO: Entonces no me puedo quejar. Gracias. ||| 그럼 불평할 수 없겠군요. 감사합니다.
+ARRIETA: No me dé las gracias todavía. Hoy decidimos si aún merece despacho. ||| 아직 감사하지 마세요. 오늘 사무실을 가질 자격이 있는지 정해지니까요.
++ comparecer = (공식 기관에) 출석하다. 'comparecer ante una comisión'
++ limpiar la casa = 집안을 정리하다. 조직의 문제를 정리·청산한다는 관용적 표현
++ en suspenso = 정지된, 보류된. 12화에서 장관이 한 말이 이어진다
++ lo de menos = 부차적인 것. 'lo de menos es el nombre'
++ merecer = ~할 자격이 있다. merecer + 명사: 'merecer despacho'
++ una respuesta breve, sin adjetivos = 짧고 형용사 없는 답변. 공식 증언의 요령을 말하는 대화체
+
+## 외교위원회 — LA COMPARECENCIA
+CALVO: Se abre la sesión de la Comisión de Asuntos Exteriores. Comparece don Álvaro Quintana Roldán, diplomático. Señor Quintana, tiene usted la palabra para una exposición inicial de diez minutos. ||| 하원 외교위원회 회의를 개회합니다. 외교관 알바로 킨타나 롤단 씨가 출석했습니다. 킨타나 씨, 10분간 모두 발언 하십시오.
+ÁLVARO: Gracias, señora presidenta. Seré más breve. Hace cinco semanas, veintidós marineros españoles y kandareños estaban retenidos en un barco. Hoy están en sus casas. Para llegar a ese resultado, cometí errores y tomé una decisión que debo explicar: obtuve datos bancarios por una vía que no fue plenamente legal. ||| 감사합니다, 위원장님. 더 짧게 하겠습니다. 5주 전 스페인과 칸다라 선원 스물두 명이 배에 억류돼 있었습니다. 오늘 그들은 집에 있습니다. 그 결과에 이르기 위해 저는 실수를 했고 설명해야 할 결정을 내렸습니다. 완전히 합법적이지는 않은 경로로 은행 자료를 얻었습니다.
+CALVO: Es una declaración llamativa para un inicio. ||| 시작치고는 눈에 띄는 진술이군요.
+ÁLVARO: Prefiero que lo sepan por mí, señora presidenta. ||| 제게서 알게 하는 쪽이 낫습니다, 위원장님.
+CALVO: Señor Beltrán, tiene el turno de preguntas. ||| 벨트란 의원, 질문 순서입니다.
+BELTRÁN: Gracias. Señor Quintana, ha dicho «una vía no plenamente legal». ¿Quiere decirnos cuál? ||| 감사합니다. 킨타나 씨, '완전히 합법적이지는 않은 경로'라고 하셨습니다. 어떤 경로였는지 말씀해 주시겠습니까?
+ÁLVARO: Un servicio amigo. No revelaré su identidad. Asumo personalmente la responsabilidad. ||| 우방 기관입니다. 그 신원은 밝히지 않겠습니다. 책임은 제가 개인적으로 지겠습니다.
+BELTRÁN: ¿Un servicio español? ||| 스페인 기관입니까?
+ÁLVARO: Un servicio que no figura en el registro de esta Comisión. ||| 이 위원회의 등록부에 없는 기관입니다.
+BELTRÁN: Es una respuesta muy cómoda. ||| 아주 편리한 답변이군요.
+ÁLVARO: Es una respuesta honesta, señor diputado. A veces coinciden. ||| 정직한 답변입니다, 의원님. 가끔은 둘이 일치하죠.
+BELTRÁN: ¿Cuánto le costó al Estado esa información? ||| 그 정보로 국가가 얼마를 썼습니까?
+ÁLVARO: Al Estado, nada. A mí, una cena y una deuda. ||| 국가에는 한 푼도요. 제게는 저녁 한 끼와 빚 하나입니다.
+BELTRÁN: ¿Una deuda con quién? ||| 누구에 대한 빚입니까?
+ÁLVARO: Con una persona que algún día me pedirá algo. Y que yo pagaré. ||| 언젠가 제게 뭔가를 청할 사람에게요. 그리고 저는 갚을 겁니다.
+BELTRÁN: ¿Y si lo que pida es ilegal? ||| 그 사람이 청하는 게 불법이라면요?
+ÁLVARO: Entonces no lo haré, y tendré que buscar otra manera de pagar. ||| 그럼 하지 않을 겁니다. 그리고 갚을 다른 방법을 찾아야겠죠.
+BELTRÁN: Señora presidenta, esto es un diplomático que reconoce haber cometido una irregularidad y se atreve a decir que no lo volverá a hacer, pero no a explicarnos cómo. ||| 위원장님, 불법을 저질렀다고 인정하는 외교관이 다시는 하지 않겠다고 감히 말하면서 어떻게 그런지는 설명하지 않고 있습니다.
+CALVO: Señor Beltrán, formule la pregunta. ||| 벨트란 의원님, 질문을 하세요.
+BELTRÁN: ¿Cómo se asegura la Comisión de que no volverá a hacerlo? ||| 위원회는 어떻게 그가 다시 하지 않으리라 확신합니까?
+ÁLVARO: No puede. Y yo tampoco puedo asegurar que no volveré a enfrentarme a una decisión parecida. Lo que puedo prometer es que la próxima vez la tomaré a la vista de ustedes. ||| 확신할 수 없습니다. 저도 비슷한 결정에 다시 직면하지 않으리라 장담할 수 없고요. 약속할 수 있는 건 다음에는 여러분의 눈앞에서 결정하겠다는 것입니다.
+CALVO: ¿Quiere explicar qué significa «a la vista de ustedes»? ||| '여러분의 눈앞에서'가 무슨 뜻인지 설명해 주시겠습니까?
+ÁLVARO: Que cualquier operación reservada futura de la Unidad se comunicará previamente a esta Comisión, en sesión secreta si hace falta. Es una propuesta. ||| 부서의 향후 모든 비공개 작전은 필요하면 비밀회의로라도 이 위원회에 사전 통지하겠다는 겁니다. 제안입니다.
+BELTRÁN: Eso es impracticable. ||| 실행할 수 없는 일입니다.
+ÁLVARO: Es difícil. No es lo mismo. ||| 어려운 겁니다. 같은 말이 아니죠.
+CALVO: Continúe, señor Beltrán. ||| 계속하세요, 벨트란 의원님.
+BELTRÁN: El señor Rodrigo Aldaz presentó una querella contra usted por revelación de secretos. ¿La conoce? ||| 로드리고 알다스 씨가 당신에 대해 비밀 누설 혐의로 고소장을 냈습니다. 알고 계십니까?
+ÁLVARO: La recibí el viernes. ||| 금요일에 받았습니다.
+BELTRÁN: ¿Qué opina? ||| 어떻게 생각하십니까?
+ÁLVARO: Que el señor Aldaz tiene derecho a defenderse. Y yo, a mostrar los papeles que lo implican: un recibo con un sello de Presidencia, un texto sustitutivo dictado en octubre de mil novecientos noventa y seis, y una hoja con sus iniciales. ||| 알다스 씨가 자신을 방어할 권리가 있다고요. 그리고 저는 그를 연루시키는 서류를 보여 줄 권리가 있고요. 총리실 도장이 찍힌 영수증, 1996년 10월에 구술된 대체 문안, 그의 머리글자가 있는 한 장입니다.
+BELTRÁN: ¿Esos papeles obran en poder de esta Comisión? ||| 그 서류는 이 위원회가 갖고 있습니까?
+ÁLVARO: Los entregué a la señora ministra. Y todo lo que obra en poder del Ministerio, esta Comisión puede solicitarlo. ||| 장관님께 제출했습니다. 그리고 부처가 가진 모든 건 이 위원회가 요청할 수 있습니다.
+CALVO: Anotado. Esta Presidencia solicitará los documentos. Señor Quintana, ¿puedo hacerle una pregunta? ||| 기록했습니다. 위원장석이 서류를 요청하겠습니다. 킨타나 씨, 질문 하나 해도 되겠습니까?
+ÁLVARO: Por supuesto. ||| 물론입니다.
+CALVO: ¿Cuánto ha costado esta crisis, en total? Quiero una cifra. ||| 이번 위기에 총 얼마가 들었습니까? 숫자를 원합니다.
+ÁLVARO: ¿En euros o en otra moneda? ||| 유로로요, 다른 통화로요?
+CALVO: ¿Qué otra moneda tiene usted? ||| 다른 어떤 통화가 있습니까?
+ÁLVARO: Credibilidad, señora presidenta. En euros, el coste directo ha sido de unos trescientos mil, en viajes, un informe jurídico y una indemnización de fletes. En credibilidad, todavía no lo sé. Depende de lo que esta Comisión decida hoy. ||| 신뢰입니다, 위원장님. 유로로는 직접 비용이 약 30만, 출장, 법률 보고서, 운임 보상입니다. 신뢰로는 아직 모릅니다. 오늘 위원회가 무엇을 결정하느냐에 달려 있습니다.
+CALVO: Es usted un hombre que sabe poner la pelota en nuestro tejado. ||| 우리 쪽으로 공을 잘 넘기는 분이군요.
+ÁLVARO: Lo aprendí de un maestro que juega al ajedrez. ||| 체스를 두는 스승에게서 배웠습니다.
++ turno de preguntas = 질문 순서. 의회·청문회의 정해진 발언 순서
++ revelación de secretos = 비밀 누설(죄). 형법상 범죄 명칭
++ querella = 고소장. 형사소송에서 피해자가 제기하는 형식
++ obrar en poder de = ~의 수중에 있다. 공문서에서 쓰는 표현
++ poner la pelota en el tejado de alguien = 공을 누구 지붕에 올리다. 책임을 상대에게 넘기는 관용구
++ a la vista de ustedes = 여러분의 눈앞에서, 공개적으로. 1부의 'a la vista de todos'와 같은 계열

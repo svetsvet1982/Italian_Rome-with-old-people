@@ -12,7 +12,7 @@ def load(name, var):
     return getattr(m, var)
 
 SERIES = [load("plan_ru","RU"), load("plan_nl","NL"), load("plan_it","IT"),
-          load("plan_de","DE"), load("plan_br","BR"), load("plan_jp","JP")]
+          load("plan_de","DE"), load("plan_br","BR"), load("plan_jp","JP"), load("plan_fr","FR")]
 
 FONT = "Malgun Gothic"
 NAVY = "1F2A44"; ACCENT = "8A1C2B"; SAND = "F3EEE6"; BLUE = "EEF1F7"
@@ -51,7 +51,7 @@ wb = Workbook()
 
 # ---------- 개요 ----------
 ws = wb.active; ws.title = "개요"
-title(ws, "외교관 시리즈 3부작 기획안 (6개 언어)", "언어별 완전히 독립된 세계·사건·인물 / 3부 × 12화 = 36화 / 화당 100~200턴 / B2–C1 / 해법의 근거로 해당국 역사 사례를 사용")
+title(ws, "외교관 시리즈 3부작 기획안 (7개 언어)", "언어별 완전히 독립된 세계·사건·인물 / 3부 × 12화 = 36화 / 화당 100~200턴 / B2–C1 / 해법의 근거로 해당국 역사 사례를 사용")
 header(ws, 4, ["언어","시리즈 제목","주인공","1부","2부","3부","핵심 해법 방식","한 줄 소개"])
 for i, s in enumerate(SERIES):
     r = 5 + i
@@ -70,10 +70,10 @@ ws.freeze_panes = "B5"
 r = 12
 ws.cell(row=r, column=1, value="참고").font = f(True, 11, NAVY)
 notes = [
- "· 스페인어 버전(EL AGREGADO)은 별도로 1부 12화를 완성했습니다(Diplomata_ES 폴더). 이 파일은 나머지 6개 언어의 기획안입니다.",
- "· 프랑스어 버전은 이번 요청 목록에 없어 제외했습니다. 필요하면 같은 형식으로 추가합니다.",
+ "· 스페인어 버전(EL AGREGADO)은 별도로 1부 12화를 완성했습니다(Diplomata_ES 폴더). 이 파일은 나머지 7개 언어의 기획안입니다.",
+ "· 프랑스어 버전(LA NUANCE)을 추가해 스페인어를 제외한 7개 언어가 모두 포함됩니다(총 8개 언어 중 스페인어는 제작 중).",
  "· 모든 국가·정치인·기업은 가상이며, 역사 사례만 실제 사건을 인용합니다. 사례의 연도·내용은 집필 단계에서 다시 한 번 검증합니다.",
- "· '에피소드 종합' 시트는 216화 전체를 한 표로 모아 필터·정렬할 수 있습니다.",
+ "· '에피소드 종합' 시트는 252화 전체를 한 표로 모아 필터·정렬할 수 있습니다.",
 ]
 for k, t in enumerate(notes):
     ws.cell(row=r+1+k, column=1, value=t).font = f()
@@ -170,7 +170,7 @@ for s in SERIES:
 
 # ---------- 종합 ----------
 ws = wb.create_sheet("에피소드 종합")
-title(ws, "에피소드 종합 (216화)", "필터로 언어·부·협상 유형·역사 사례를 걸러 볼 수 있음")
+title(ws, "에피소드 종합 (252화)", "필터로 언어·부·협상 유형·역사 사례를 걸러 볼 수 있음")
 header(ws, 4, ["언어","부","화","원어 제목","한국어 제목","협상 유형","줄거리","해법이 떠오르는 순간","역사 사례(논거)"])
 for i, row in enumerate(allrows):
     r = 5 + i
@@ -183,6 +183,6 @@ ws.auto_filter.ref = f"A4:I{4+len(allrows)}"
 ws.freeze_panes = "A5"
 widths(ws, [22,6,6,28,24,12,52,44,44])
 
-out = HERE / "외교관시리즈_6개국어_3부작_기획안.xlsx"
+out = HERE / "외교관시리즈_7개국어_3부작_기획안.xlsx"
 wb.save(out)
 print(out, len(allrows))
