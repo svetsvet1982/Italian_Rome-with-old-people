@@ -181,6 +181,13 @@ REBECA: Sigo teniendo el expediente. ||| 파일은 여전히 갖고 있어.
 REBECA: No te prometo eso. Te prometo que no lo usaré sin avisarte. ||| 그건 약속 못 해. 네게 알리지 않고는 쓰지 않겠다고 약속하지.
 ÁLVARO: No es lo mismo. ||| 같은 게 아니잖아.
 REBECA: Es lo que puedo ofrecer. Soy espía, no monja. ||| 내가 제공할 수 있는 건 그거야. 나는 첩보원이지 수녀가 아냐.
+ÁLVARO: No me dices nada nuevo. Es un oficio sucio. ||| 새로운 얘긴 아니야. 더러운 직업이지.
+REBECA: Es un oficio más viejo que tú y que yo. Bernardino de Mendoza, embajador de Felipe Segundo en Londres y luego en París, sobornaba cortesanos, pagaba espías y financiaba conspiraciones. El servicio exterior español nació sucio. ||| 너나 나보다 훨씬 오래된 직업이야. 펠리페 2세의 런던 대사였다가 파리 대사가 된 베르나르디노 데 멘도사는 궁정 신하를 매수하고 첩자를 사고 음모에 자금을 댔어. 스페인 외교는 더럽게 태어났지.
+ÁLVARO: Y su información excelente no evitó el desastre de la Armada. ||| 그리고 훌륭한 정보도 무적함대의 참사를 막지 못했죠.
+REBECA: Le faltó método para usarla. La información no gana batallas; las gana quien sabe qué quiere conseguir con ella. ||| 사용할 방법이 부족했지. 정보가 전투를 이기는 게 아니야. 정보로 무엇을 얻고 싶은지 아는 사람이 이기는 거지.
+ÁLVARO: Por eso será un escudo, no una espada. ||| 그래서 방패이고 칼이 아닌 겁니다.
++ Bernardino de Mendoza = 펠리페 2세의 런던·파리 주재 대사. 첩보망과 매수로 유명했으나 무적함대 원정(1588)은 실패했다. 스페인 외교의 '더러운 수단' 전통과 한계를 함께 보여 주는 인물
++ nació sucio = 더럽게 태어났다. 'nacer + 형용사'는 출발 상태를 말한다
 ÁLVARO: Está bien. ||| 알았어.
 REBECA: Y ahora lo de siempre. Me debes una. ||| 이제 늘 하던 거. 너는 나에게 하나 빚졌어.
 ÁLVARO: Me debo a mí mismo unas cuantas más. ||| 나는 나 자신에게 몇 개 더 빚졌지.

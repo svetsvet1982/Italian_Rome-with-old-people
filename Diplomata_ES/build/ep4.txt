@@ -95,6 +95,12 @@ FERMÍN: Traduje. Mala palabra. Traducir es traicionar un poco. ||| 번역했지
 FERMÍN: Veo que ha leído. Pero lo dicen los que nunca han traducido. Una traducción buena no traiciona. Escoge a quién deshonra. ||| 읽으신 분이군. 하지만 그건 번역해 본 적 없는 사람들이 하는 말이오. 좋은 번역은 배신하지 않소. 누구를 욕되게 할지 고를 뿐이지.
 ÁLVARO: ¿Y a quién deshonró usted? ||| 선생님은 누구를 욕되게 하셨습니까?
 FERMÍN: Todavía no lo sé. Llevo veintiocho años intentando averiguarlo. ||| 아직 모르오. 28년째 알아내려는 중이지.
+MARINA: Los intérpretes siempre cargan con la culpa. ||| 통역관은 늘 책임을 떠안죠.
+FERMÍN: Pregúntele a la Malinche. Sin ella, Cortés no habría podido decir ni buenos días en Tenochtitlan. Quinientos años después la sigue cargando la palabra «traidora». Nadie pregunta qué le dejaron decir. ||| 말린체에게 물어보시오. 그녀가 없었다면 코르테스는 테노치티틀란에서 인사 한마디 못 했을 거요. 500년이 지난 지금도 '배신자'라는 말이 그녀를 짓누르지. 그녀가 뭘 말하도록 허락받았는지는 아무도 묻지 않소.
+ÁLVARO: Una intérprete que traducía bajo las órdenes de otros. ||| 남의 지시 아래서 통역한 사람이군요.
+FERMÍN: Como yo. La historia no perdona a quien traduce, y olvida a quien dicta. ||| 나처럼. 역사는 통역한 사람은 용서하지 않고, 불러 준 사람은 잊어버리오.
++ La Malinche = 코르테스의 통역관이자 협력자. 오랫동안 '배신자'로 불렸으나, 통역자가 지시자의 책임까지 떠안는 구조를 보여 주는 역사 사례
++ la historia no perdona a quien traduce y olvida a quien dicta = 'a quien + 직설법' 구문. 지시자와 통역자의 책임 불균형을 압축한 문장
 MARINA: ¿Lo conserva? ¿La traducción? ||| 가지고 계신가요? 그 번역본요?
 FERMÍN: Primero díganme quién les ha enviado. Y no me digan que han venido solos. ||| 먼저 누가 보냈는지 말하시오. 그리고 둘이서만 왔다고는 하지 마시오.
 ÁLVARO: He venido solo en el sentido de que nadie lo sabe. Mi jefa ha pedido que lo deje estar. ||| 아무도 모른다는 의미에서는 혼자 온 겁니다. 제 상사가 그만두라고 했어요.

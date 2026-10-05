@@ -78,6 +78,15 @@ EVARISTO: Que los dos supieran lo mismo y cada uno pensase que el otro era el cu
 EVARISTO: Joven, en un archivo las cosas no se pierden. Se cambian de sitio. ||| 젊은이, 문서고에서는 물건이 사라지지 않소. 자리를 바꿀 뿐이지.
 ÁLVARO: ¿Se cambian de sitio? ||| 자리를 바꾼다고요?
 EVARISTO: Todo lo que sale de aquí deja un hueco en el libro de préstamos y una huella en el registro de reserva. Eso me lo enseñó don Anselmo. ||| 여기서 나간 모든 것은 대출 장부에 빈자리를 남기고 예비 대장에 흔적을 남기오. 안셀모 씨가 가르쳐 준 거요.
+MARINA: ¿Esa regla es de este archivo o de todos? ||| 그 규칙은 이 문서고만의 것인가요, 모든 문서고의 것인가요?
+EVARISTO: De todos los buenos. Simancas, que fundó Carlos Quinto en mil quinientos cuarenta, ya lo sabía. Un Estado que no archiva no recuerda. Y uno que archiva mal recuerda solo lo que le conviene. ||| 좋은 문서고라면 다 그렇소. 1540년에 카를 5세가 세운 시만카스는 이미 알고 있었지. 기록하지 않는 국가는 기억하지 못하고, 잘못 기록하는 국가는 자기에게 유리한 것만 기억하오.
+ÁLVARO: Y los secretos acaban saliendo. ||| 그리고 비밀은 결국 새어 나오죠.
+EVARISTO: Siempre. Fontainebleau, mil ochocientos siete. Godoy firmó con Napoleón el reparto de Portugal, con cláusulas secretas. Se comentaba en las tabernas antes que en las Cortes. Seis meses después, el motín de Aranjuez. Y luego, la guerra. ||| 늘 그렇소. 1807년 퐁텐블로. 고도이가 나폴레옹과 포르투갈 분할을 비밀 조항과 함께 서명했지. 의회보다 술집에서 먼저 얘기가 돌았소. 몇 달 뒤 아랑후에스 폭동이 났고, 그 뒤엔 전쟁이었지.
+ÁLVARO: ¿Dice que un papel secreto derribó un reino? ||| 비밀 문서 하나가 왕국을 무너뜨렸다고 하시는 겁니까?
+EVARISTO: Digo que ningún secreto de Estado ha vivido más que el papel que lo sostiene. Lo único que se decide es quién lo cuenta primero. ||| 어떤 국가 기밀도 그것을 지탱하는 종이보다 오래 살지 못했다는 말이오. 결정할 수 있는 건 누가 먼저 말하느냐뿐이지.
++ Archivo de Simancas = 스페인 최초의 국가 문서고. 카를 5세가 1540년 설립. 기록과 국가 기억의 관계를 보여 주는 상징
++ Tratado de Fontainebleau (1807) = 고도이가 나폴레옹과 맺은 포르투갈 분할 조약. 비밀 조항이 알려지며 아랑후에스 폭동(1808)과 독립전쟁으로 이어졌다. '비밀 문서의 파괴력'을 보여 주는 역사 사례
++ las Cortes = 스페인 의회. 역사적으로는 신분제 의회를 가리킨다
 MARINA: ¿Qué es el registro de reserva? ||| 예비 대장이 뭔가요?
 EVARISTO: Es donde se anotan los traslados reservados. Cuando un documento sale a otro organismo, se archiva un recibo. Nadie lo mira jamás. Por eso nadie lo ha tocado. ||| 기밀 이송을 기록하는 대장이오. 문서가 다른 기관으로 나갈 때 영수증을 보관하지. 아무도 들여다보지 않소. 그래서 아무도 손대지 않았고.
 ÁLVARO: ¿Podemos verlo? ||| 볼 수 있을까요?

@@ -62,6 +62,13 @@ BERNI: Que quien ofrece primero elige el terreno. Si Valdés quiere ocultar el c
 BERNI: Contarlo ella. Primero. En sus palabras. Quien confiesa antes de que lo descubran elige cómo se cuenta la historia. ||| 그녀 자신이 말하는 거지. 먼저. 자기 말로. 들키기 전에 고백하는 사람이 이야기를 어떻게 풀지 고르는 법이야.
 ÁLVARO: Una confesión controlada. ||| 통제된 고백이군요.
 BERNI: No es una trampa. Es una puerta. Una puerta que, por cierto, yo mismo no supe abrir. ||| 함정이 아니야. 문이지. 그런데 나 자신도 열 줄 몰랐던 문이야.
+BERNI: Y no es una idea nueva. Mil ochocientos treinta y nueve. El Convenio de Vergara. Maroto, general carlista; Espartero, liberal. Siete años de guerra civil. ¿Cómo acabó? ||| 새로운 생각도 아니야. 1839년. 베르가라 협약. 카를로스파 장군 마로토와 자유주의자 에스파르테로. 7년간의 내전이었지. 어떻게 끝났나?
+ÁLVARO: Con un abrazo. Delante de los dos ejércitos. ||| 포옹으로요. 두 군대 앞에서요.
+BERNI: Con un abrazo y una cláusula: los oficiales carlistas que aceptaran la paz conservarían sus grados. Nadie perdió la cara. Quienes cedían lo hacían con dignidad. Esa es la puerta: no se trata de vencer, sino de que el otro pueda ceder sin que parezca que se rinde. ||| 포옹과 한 가지 조항으로요. 평화를 받아들이는 카를로스파 장교들은 계급을 유지한다는. 아무도 체면을 잃지 않았지. 양보하는 쪽이 존엄을 지키며 양보했어. 그게 문이야. 이기는 게 아니라 상대가 항복한 듯 보이지 않게 양보할 수 있게 해 주는 것.
+ÁLVARO: Una salida con honor. ||| 명예로운 출구요.
+BERNI: Con honor. Eso Valdés puede aceptarlo. Un castigo, no. ||| 명예로운. 그건 발데스가 받아들일 수 있어. 처벌은 못 받아들이지.
++ Convenio de Vergara (1839) = 1차 카를로스 전쟁을 끝낸 협약. 마로토와 에스파르테로의 '베르가라의 포옹'. 카를로스파 장교들의 계급을 인정해 체면을 지키게 한 해법. 이 화의 '통제된 고백'이 가진 논리의 역사적 근거
++ no se trata de vencer, sino de que + 접속법 = 이기는 게 아니라 ~하게 하는 문제이다. 'no se trata de A, sino de B'
 ÁLVARO: Pero ella no querrá. ||| 하지만 그분은 원하지 않을 겁니다.
 BERNI: Seguramente. Pero tendrás que ofrecérselo, aunque solo sea para que no puedas decir que no se lo ofreciste. ||| 아마 그렇겠지. 그래도 제안은 해야 하네. 제안하지 않았다고 말할 수 없도록.
 ÁLVARO: ¿Y si dice que no? ||| 거절하면요?

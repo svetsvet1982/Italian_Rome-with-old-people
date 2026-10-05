@@ -36,6 +36,12 @@ GASPAR: O sea, que han movido la línea y no han avisado. ||| 그러니까 선�
 VALDÉS: Escúchame bien, Álvaro. No quiero heroicidades. Hay una solución sencilla: se paga la multa, se pide disculpas y el barco sale el miércoles. ||| 잘 듣게, 알바로. 영웅적인 짓은 원치 않아. 간단한 해법이 있어. 벌금을 내고, 사과하고, 수요일에 배가 나오는 거지.
 ÁLVARO: ¿Pagar cuatro millones por una licencia que teníamos? Eso sentaría un precedente. Mañana nos retienen otro barco. ||| 갖고 있던 면허 때문에 400만을 낸다고요? 선례가 됩니다. 내일이면 또 다른 배를 억류할 거예요.
 VALDÉS: Prefiero un precedente a veintidós familias en la tele. ||| 나는 스물두 가구가 텔레비전에 나오는 것보다 선례 쪽이 낫네.
+ÁLVARO: Hay otro precedente, señora secretaria. En mil novecientos noventa y cinco Canadá apresó al Estai, un arrastrero gallego, en aguas internacionales. ||| 다른 선례도 있습니다, 차관님. 1995년에 캐나다가 국제 해역에서 갈리시아 선적 트롤선 에스타이호를 나포했죠.
+MARINA: Y España no resolvió aquello pagando lo que pedía Canadá. Lo resolvió Bruselas, con un acuerdo entre la Unión Europea y Canadá. Había observadores a bordo, y el barco volvió a Vigo. ||| 그리고 스페인은 캐나다가 요구한 걸 내서 해결하지 않았어요. 브뤼셀이 해결했죠. 유럽연합과 캐나다 사이의 합의로요. 배에 관측원이 승선했고, 배는 비고로 돌아왔어요.
+GASPAR: Fue otro océano, otro país y otro Gobierno. Eso fue hace treinta años. ||| 다른 바다, 다른 나라, 다른 정부였어요. 30년 전 일이에요.
+ÁLVARO: Cambia el país, no la lección: un apresamiento se resuelve cambiando el marco, no pagando la factura. Cuando uno paga la factura, acepta que la factura era justa. ||| 나라는 바뀌어도 교훈은 같습니다. 나포는 청구서를 내서가 아니라 틀을 바꿔서 풀리죠. 청구서를 내면 그 청구서가 정당했다고 인정하는 게 됩니다.
++ crisis del Estai (1995) = 캐나다가 갈리시아 선적 트롤선 Estai를 국제 해역에서 나포한 사건. 스페인 단독이 아니라 EU–캐나다 합의(관측원 승선 등)로 풀렸다. 이 화의 해법 방향(청구서가 아니라 틀을 바꾼다)의 역사적 논거
++ cambiar el marco = 틀을 바꾸다. 협상에서 '쟁점이 놓인 구조'를 바꾼다는 뜻의 핵심 표현
 GASPAR: La ministra habla esta tarde en el Congreso. Necesita una frase que pueda decir sin tropezar. ||| 장관님이 오늘 오후 의회에서 발언하십니다. 걸려 넘어지지 않고 말할 수 있는 문장이 필요해요.
 ÁLVARO: Pues démosle una: «Estamos negociando la liberación inmediata de nuestros marinos». Es verdad y no nos compromete a nada. ||| 그럼 한 문장 드리죠. '우리 선원들의 즉각 석방을 협상하고 있다'. 사실이고, 아무것도 약속하지 않습니다.
 GASPAR: Me sirve. Pero que sea verdad de aquí a las cuatro. ||| 그거면 됩니다. 단, 네 시까지는 진짜 사실이어야 해요.

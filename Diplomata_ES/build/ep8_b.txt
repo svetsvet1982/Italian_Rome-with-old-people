@@ -37,6 +37,12 @@ PALOMA: ¿Adónde quiere llegar? ||| 어디로 가려는 겁니까?
 ÁLVARO: Quien filtra solo la mitad sabe qué parte no quiere que se lea. Y la parte que no quiere que se lea suele ser la que cambia el significado de todo lo demás. ||| 절반만 유출하는 사람은 어떤 부분이 읽히길 원치 않는지 압니다. 그리고 읽히길 원치 않는 부분은 대개 나머지 전체의 의미를 바꾸는 부분이죠.
 PALOMA: Eso es una hipótesis muy elegante. ||| 아주 우아한 가설이네요.
 ÁLVARO: Es lo que tengo. ||| 제가 가진 건 그것뿐입니다.
+PALOMA: No sería la primera vez que alguien filtra la mitad de un secreto. ||| 비밀의 절반만 유출하는 사람이 처음은 아닐 테죠.
+ÁLVARO: Antonio Pérez. Secretario de Felipe Segundo. Huyó de España, publicó sus «Relaciones» con parte de los secretos del rey y calló la parte que lo comprometía a él. ||| 안토니오 페레스. 펠리페 2세의 비서관이었죠. 스페인을 탈출해 왕의 비밀 일부를 담은 『보고서(Relaciones)』를 펴냈고, 자신을 곤란하게 하는 부분은 침묵했습니다.
+PALOMA: Y alimentó la Leyenda Negra. ||| 그리고 '검은 전설'을 키웠죠.
+ÁLVARO: Una media verdad sirvió para fabricar una imagen de España que costó siglos corregir. Por eso le pido que espere: una verdad a medias hace daño mucho más tiempo que una mentira entera. ||| 반쪽 진실이 스페인에 대한 이미지를 만들어 냈고 그걸 바로잡는 데 수 세기가 걸렸습니다. 그래서 기다려 달라는 겁니다. 반쪽 진실은 완전한 거짓보다 훨씬 오래 해를 입히니까요.
++ Antonio Pérez = 펠리페 2세의 비서관. 몰락 후 망명해 『Relaciones』를 출간하며 군주의 비밀 일부를 폭로, 이른바 '검은 전설(Leyenda Negra)' 형성에 영향을 줬다. '절반만 유출하는 자는 무엇을 감추는가'라는 이 화의 논점을 보여 주는 사례
++ Leyenda Negra = 스페인 제국에 대한 부정적 이미지(검은 전설). 선택적 정보로 형성된 이미지의 대표 사례
 PALOMA: ¿Y qué dice esa cláusula final? ||| 그 마지막 조항에는 뭐라고 쓰여 있나요?
 ÁLVARO: La versión que conozco dice una cosa. Pero no estoy seguro de que sea la correcta. ||| 제가 아는 판본에는 이렇게 쓰여 있습니다. 하지만 그게 맞는지는 확신이 없습니다.
 PALOMA: ¿Cómo que no está seguro de que sea la correcta? ||| 그게 맞는지 확신이 없다니요?

@@ -4,7 +4,7 @@
 @ep 1
 @title El atunero retenido
 @ko 억류된 참치잡이배
-@setting 월요일 아침 마드리드 산타크루스 궁 위기대책실 → 칸다라 차관과의 통화 → 목요일 비고 항구
+@setting 월요일 아침 마드리드 산타크루스 궁 위기대책실 → 칸다라 차관과의 통화 → 화요일 비고 항구
 @level B2-C1
 @cast ÁLVARO | 외교관 · 외교부 비공개협상실(UNR) 실장, 44세
 @cast MARINA | UNR 분석관, 갈리시아 어부 집안 출신
@@ -36,6 +36,12 @@ GASPAR: O sea, que han movido la línea y no han avisado. ||| 그러니까 선�
 VALDÉS: Escúchame bien, Álvaro. No quiero heroicidades. Hay una solución sencilla: se paga la multa, se pide disculpas y el barco sale el miércoles. ||| 잘 듣게, 알바로. 영웅적인 짓은 원치 않아. 간단한 해법이 있어. 벌금을 내고, 사과하고, 수요일에 배가 나오는 거지.
 ÁLVARO: ¿Pagar cuatro millones por una licencia que teníamos? Eso sentaría un precedente. Mañana nos retienen otro barco. ||| 갖고 있던 면허 때문에 400만을 낸다고요? 선례가 됩니다. 내일이면 또 다른 배를 억류할 거예요.
 VALDÉS: Prefiero un precedente a veintidós familias en la tele. ||| 나는 스물두 가구가 텔레비전에 나오는 것보다 선례 쪽이 낫네.
+ÁLVARO: Hay otro precedente, señora secretaria. En mil novecientos noventa y cinco Canadá apresó al Estai, un arrastrero gallego, en aguas internacionales. ||| 다른 선례도 있습니다, 차관님. 1995년에 캐나다가 국제 해역에서 갈리시아 선적 트롤선 에스타이호를 나포했죠.
+MARINA: Y España no resolvió aquello pagando lo que pedía Canadá. Lo resolvió Bruselas, con un acuerdo entre la Unión Europea y Canadá. Había observadores a bordo, y el barco volvió a Vigo. ||| 그리고 스페인은 캐나다가 요구한 걸 내서 해결하지 않았어요. 브뤼셀이 해결했죠. 유럽연합과 캐나다 사이의 합의로요. 배에 관측원이 승선했고, 배는 비고로 돌아왔어요.
+GASPAR: Fue otro océano, otro país y otro Gobierno. Eso fue hace treinta años. ||| 다른 바다, 다른 나라, 다른 정부였어요. 30년 전 일이에요.
+ÁLVARO: Cambia el país, no la lección: un apresamiento se resuelve cambiando el marco, no pagando la factura. Cuando uno paga la factura, acepta que la factura era justa. ||| 나라는 바뀌어도 교훈은 같습니다. 나포는 청구서를 내서가 아니라 틀을 바꿔서 풀리죠. 청구서를 내면 그 청구서가 정당했다고 인정하는 게 됩니다.
++ crisis del Estai (1995) = 캐나다가 갈리시아 선적 트롤선 Estai를 국제 해역에서 나포한 사건. 스페인 단독이 아니라 EU–캐나다 합의(관측원 승선 등)로 풀렸다. 이 화의 해법 방향(청구서가 아니라 틀을 바꾼다)의 역사적 논거
++ cambiar el marco = 틀을 바꾸다. 협상에서 '쟁점이 놓인 구조'를 바꾼다는 뜻의 핵심 표현
 GASPAR: La ministra habla esta tarde en el Congreso. Necesita una frase que pueda decir sin tropezar. ||| 장관님이 오늘 오후 의회에서 발언하십니다. 걸려 넘어지지 않고 말할 수 있는 문장이 필요해요.
 ÁLVARO: Pues démosle una: «Estamos negociando la liberación inmediata de nuestros marinos». Es verdad y no nos compromete a nada. ||| 그럼 한 문장 드리죠. '우리 선원들의 즉각 석방을 협상하고 있다'. 사실이고, 아무것도 약속하지 않습니다.
 GASPAR: Me sirve. Pero que sea verdad de aquí a las cuatro. ||| 그거면 됩니다. 단, 네 시까지는 진짜 사실이어야 해요.
@@ -43,7 +49,7 @@ VALDÉS: Entonces ponte a ello. Llama a Puerto Alba. Hoy. ||| 그럼 착수하�
 ÁLVARO: Con una condición: que nadie más hable con ellos mientras yo lo hago. Ni por la vía diplomática ni por la vía oficiosa. ||| 한 가지 조건이 있습니다. 제가 하는 동안 아무도 그쪽과 접촉하지 않을 것. 외교 경로로도, 비공식 경로로도요.
 VALDÉS: ¿Por qué lo dices así? ||| 왜 그렇게 말하나?
 ÁLVARO: Porque cuando hay demasiadas voces, el otro lado elige la que más le conviene. ||| 목소리가 너무 많으면, 상대가 자기한테 가장 유리한 목소리를 고르니까요.
-VALDÉS: Concedido. Tienes hasta el miércoles. ||| 받아들이겠네. 수요일까지야.
+VALDÉS: Concedido. Tienes hasta el viernes. ||| 받아들이겠네. 금요일까지야.
 MARINA: Álvaro, un segundo. Fuera de la sala. ||| 알바로, 잠깐만요. 밖에서요.
 ÁLVARO: Dime. ||| 말해 봐.
 MARINA: Es la tercera vez que Valdés repite «paga y calla». No es su estilo. Ella normalmente quiere entender el problema antes de resolverlo. ||| 발데스 차관님이 '돈 내고 조용히 하자'를 세 번째 반복하셨어요. 그분 스타일이 아니에요. 보통은 해결하기 전에 문제부터 이해하려는 분이잖아요.
@@ -106,7 +112,7 @@ MARINA: ¿El general? ||| 장군이요?
 + qué descaro / qué franqueza = 뻔뻔함 / 솔직함. 같은 행동에 부정·긍정 어휘를 갈아 끼우는 말장난
 + Por el que usted menos espere = 접속법 현재(espere): 최상급 관계절 뒤에는 불확실성을 나타내는 접속법을 쓴다
 ## 비고 항구 — EL MUELLE DE VIGO
-ROSARIO: ¿Usted es el señor del Ministerio? Llevamos cuatro días esperando que alguien se digne a venir. ||| 외교부에서 오신 분이세요? 누군가 와 주기만을 나흘째 기다렸어요.
+ROSARIO: ¿Usted es el señor del Ministerio? Llevamos tres días esperando que alguien se digne a venir. ||| 외교부에서 오신 분이세요? 누군가 와 주기만을 사흘째 기다렸어요.
 ÁLVARO: Soy Álvaro Quintana. Perdone que haya tardado. Quería traer algo más que condolencias. ||| 알바로 킨타나입니다. 늦어서 죄송합니다. 위로의 말 말고 뭔가 더 가져오고 싶었습니다.
 ROSARIO: ¿Y lo trae? ||| 가져오셨나요?
 ÁLVARO: Todavía no. Traigo preguntas. Y creo que ustedes son las únicas que me las pueden contestar. ||| 아직은요. 질문을 가져왔습니다. 그걸 대답해 주실 수 있는 건 여러분뿐이라고 생각하고요.
@@ -149,7 +155,7 @@ CHANO: Este año, el armador dijo que no había dinero. Que la licencia ya estab
 CHANO: Y entonces nos retuvieron. Mire, señor, yo no soy diplomático. Pero a mí me parece que a esta gente no le ofende el pescado. Le ofende quién se lleva el sobre. Cambio. ||| 그래서 우리가 억류됐죠. 저는 외교관은 아니지만요, 제 생각에 이 사람들은 고기 때문에 화난 게 아니에요. 봉투를 누가 가져가느냐 때문에 화난 겁니다. 오버.
 ÁLVARO: Repita eso, Chano. Despacio. Cambio. ||| 방금 그 말 다시 해 주세요, 차노 씨. 천천히요. 오버.
 CHANO: Que no les ofende el pescado. Les ofende quién se lleva el sobre. Cambio. ||| 고기에 화난 게 아니라, 봉투를 누가 가져가느냐에 화난 거라고요. 오버.
-ÁLVARO: Chano, acaba usted de explicarme en diez segundos lo que me han estado diciendo tres días. Cambio y cierro. ||| 차노 씨, 사흘 동안 다들 제게 말해 준 걸 방금 10초 만에 설명하셨습니다. 오버, 교신 종료합니다.
+ÁLVARO: Chano, acaba usted de explicarme en diez segundos lo que me han estado diciendo estos días. Cambio y cierro. ||| 차노 씨, 며칠 동안 다들 제게 말해 준 걸 방금 10초 만에 설명하셨습니다. 오버, 교신 종료합니다.
 MARINA: ¿Qué ha entendido usted, exactamente? ||| 정확히 뭘 이해하신 거예요?
 ÁLVARO: Que la multa no es una sanción. Es una factura. Alguien quiere cobrar lo que antes cobraba por debajo de la mesa. ||| 벌금은 제재가 아니라는 거야. 청구서지. 누군가 전에 탁자 밑으로 받던 걸 다시 받고 싶은 거야.
 MARINA: Entonces el general Bah... ||| 그럼 바 장군이…
@@ -160,7 +166,7 @@ MARINA: No lo sé. Pero me da mala espina que lo pregunte usted en voz baja. |||
 ÁLVARO: Porque la respuesta me preocupa más que el barco. ||| 답이 배보다 더 걱정되니까.
 ROSARIO: ¿Y bien? ¿Qué me va a decir, señor Quintana? ||| 그래서요? 뭐라고 말씀해 주실 거예요, 킨타나 씨?
 ÁLVARO: Le digo lo que sé: su marido está bien, no está maltratado y esto no es un problema de pesca, es un problema de dinero. Lo que no sé: quién lo ha provocado. Y lo que pienso hacer: dejar de hablar de la multa y empezar a hablar de quién cobra. ||| 아는 걸 말씀드리죠. 남편분은 무사하고 학대받지 않고 있으며, 이건 어업 문제가 아니라 돈 문제입니다. 모르는 건 누가 일으켰는가입니다. 하려는 일은 벌금 얘기를 그만두고 누가 돈을 받는지 얘기하는 겁니다.
-ROSARIO: Eso es lo más claro que me han dicho en cuatro días. ||| 나흘 동안 들은 말 중에서 제일 분명하네요.
+ROSARIO: Eso es lo más claro que me han dicho en tres días. ||| 사흘 동안 들은 말 중에서 제일 분명하네요.
 ÁLVARO: Se lo debía. ||| 그럴 의무가 있었죠.
 + cambio y cierro = 무전 용어. cambio(오버, 교대) / cierro(교신 종료). 라디오 통신에서 말을 주고받는 규칙
 + papel en francés = 구어체에서 문서를 papel이라 부른다. 칸다라의 공용어가 프랑스어인 설정

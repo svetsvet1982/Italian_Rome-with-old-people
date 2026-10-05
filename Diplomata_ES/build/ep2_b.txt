@@ -23,6 +23,14 @@ AMINATA: Hay un original y hay una traducción. Y en mi experiencia, entre ambos
 AMINATA: Mi padre se arrepintió de esa página hasta el día que murió. Me pidió que el cero se acabase. ||| 아버지는 돌아가시는 날까지 그 한 장을 후회하셨어요. 영번이 끝나도록 해 달라고 제게 부탁하셨습니다.
 ÁLVARO: ¿Y por eso me lo cuenta a mí? ||| 그래서 제게 말씀해 주시는 겁니까?
 AMINATA: Se lo cuento porque usted preguntó por un mapa y no por dinero. Un hombre que pregunta por un mapa busca el territorio, no el botín. ||| 당신이 돈이 아니라 지도를 물었기 때문이에요. 지도를 묻는 사람은 전리품이 아니라 영토를 찾는 사람이니까요.
+IBRAHIMA: Permítame una nota de historiador. En mil cuatrocientos noventa y cuatro, Castilla y Portugal se disputaban el océano. No hubo guerra. Hubo el Tratado de Tordesillas: una línea trazada sobre un mapa. ||| 역사학자로서 한마디 하겠습니다. 1494년에 카스티야와 포르투갈이 대양을 두고 다퉜습니다. 전쟁은 없었죠. 토르데시야스 조약이 있었습니다. 지도 위에 그은 선 하나였죠.
+ÁLVARO: Trescientas setenta leguas al oeste de las islas de Cabo Verde. Lo estudié en el instituto. ||| 카보베르데 제도에서 서쪽으로 370레구아. 고등학교 때 배웠습니다.
+IBRAHIMA: Lo que no le enseñaron es que la línea del Papa estaba mucho más cerca, a cien leguas. Portugal pidió moverla y se movió. Dos reinos resolvieron un problema enorme moviendo una línea, no ganando una batalla. ||| 가르쳐 주지 않은 건, 교황의 선이 훨씬 가까운 100레구아에 있었다는 겁니다. 포르투갈이 옮겨 달라고 했고 옮겨졌죠. 두 왕국은 거대한 문제를 전투에서 이겨서가 아니라 선을 옮겨서 풀었습니다.
+AMINATA: Mi marido cree que todos los conflictos se arreglan con una línea. ||| 제 남편은 모든 갈등이 선 하나로 풀린다고 믿어요.
+ÁLVARO: Quizá no todos. Pero el mapa de zonas de Kandara cambió de nombre hace tres meses. ||| 전부는 아닐지도요. 하지만 칸다라의 해역 지도는 석 달 전에 이름이 바뀌었습니다.
+IBRAHIMA: Entonces quien movió esa línea quería hablar de otra cosa. Siempre se mueve una línea para hablar de otra cosa. ||| 그렇다면 그 선을 옮긴 사람은 다른 얘기를 하고 싶었던 겁니다. 선은 늘 다른 얘기를 하려고 옮기는 법이죠.
++ Tratado de Tordesillas (1494) = 카스티야와 포르투갈이 대서양 분할선을 교황 칙서의 100레구아에서 서쪽 370레구아로 옮겨 합의한 조약. '선(지도)을 옮겨 문제를 푼다'는 선례
++ leguas = 레구아(옛 거리 단위, 약 5.5km). 'trescientas setenta leguas'는 370레구아
 ÁLVARO: Embajadora, ¿qué quiere de mí? ||| 대사님, 제게 무엇을 원하십니까?
 AMINATA: Que averigüe qué sabe su propio gobierno. Que me diga si el cero está vivo o muerto. ||| 당신 정부가 무엇을 알고 있는지 알아봐 주세요. 영번이 살아 있는지 죽었는지 말해 주시고요.
 ÁLVARO: ¿Y a cambio? ||| 그 대가는요?

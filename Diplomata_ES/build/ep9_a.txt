@@ -1,0 +1,172 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 1
+@ep 9
+@title Gaspar
+@ko 가스파르
+@setting 화요일 오후 산타크루스 궁 지하 사무실 → 수요일 저녁 레티로 공원 연못가 벤치 → 밤 귀갓길
+@level B2-C1
+@cast ÁLVARO | 외교관 · UNR 실장, 44세
+@cast MARINA | UNR 분석관, 29세
+@cast GASPAR | 장관 비서실장, 47세
+@cast VALDÉS | 외교부 차관급 Secretaria de Estado
+@note 이 화는 '신뢰와 배신'의 대화입니다. 가스파르는 자신의 행동을 정당화하는 말(justificación)을 정교하게 구사합니다. 변명의 어휘와, 알바로가 그 말을 하나씩 해체하는 방식을 눈여겨보세요. 반대로 증거는 팩스 머리글처럼 사소한 곳에서 나옵니다.
+@next 1부 10화 — «Ginebra a ciegas»(제네바 맹인 협상) — 서로의 얼굴을 볼 수 없는 두 개의 방. 문서는 통역관의 입을 거쳐서만 오간다. 칸다라 측 통역관이 한 문장을 입 밖에 내는 순간, 알바로의 귀가 열린다.
+
+## 지하 사무실 — LA OFICINA DEL SÓTANO
+MARINA: Venga, tiene que ver esto. ||| 와서 이것 좀 보세요.
+ÁLVARO: ¿Qué es? ||| 뭔데?
+MARINA: La imagen del documento que publicó «La Crónica». Está recortada, pero en el borde superior se ve una franja gris. ||| '라 크로니카'가 실은 문서 사진이에요. 잘려 있지만 위쪽 가장자리에 회색 띠가 보여요.
+ÁLVARO: ¿Un defecto de la fotocopia? ||| 복사 결함이야?
+MARINA: Es la cabecera de un fax. He aplicado un filtro de contraste y se lee: «... INETE DEL MINIS... 11:42... 02/10». ||| 팩스 머리글이에요. 대비 필터를 적용했더니 이렇게 읽혀요. '…관실장…장관… 11:42… 10월 2일'.
+ÁLVARO: Gabinete del Ministro. ||| 장관 비서실.
+MARINA: Eso creo. Y hay algo más. La única máquina de fax que sigue funcionando en este edificio está en la antesala del Gabinete. La mantienen para las comunicaciones con el Vaticano. ||| 저도 그렇게 생각해요. 그리고 하나 더 있어요. 이 건물에서 아직 작동하는 유일한 팩스는 비서실 접견실에 있어요. 바티칸과의 연락용으로 유지하고 있대요.
+ÁLVARO: Qué rareza. ||| 별난 일이군.
+MARINA: Pedí al servicio de mantenimiento el registro de la máquina. Dijeron que no existía. Entonces fui a la empresa del contrato. ||| 시설 관리 부서에 기기 기록을 요청했는데 없다고 했어요. 그래서 계약 업체에 갔죠.
+ÁLVARO: ¿Y? ||| 그래서?
+MARINA: Tienen un registro mensual. El dos de octubre, a las once y cuarenta y dos, se envió un fax de cinco páginas al número de la redacción de «La Crónica». ||| 월간 기록이 있더라고요. 10월 2일 오전 11시 42분, '라 크로니카' 편집국 번호로 5쪽짜리 팩스가 나갔어요.
+ÁLVARO: Cinco páginas. Exactas. ||| 다섯 장. 딱 맞네.
+MARINA: Hay más. Pregunté quién tiene llave de la antesala. Tres personas: la ministra, la secretaria del Gabinete y el jefe de gabinete. ||| 더 있어요. 접견실 열쇠를 가진 사람이 누구냐고 물었어요. 세 명이에요. 장관님, 비서실 비서, 그리고 비서실장.
+ÁLVARO: La secretaria, Pilar, está de baja desde septiembre. ||| 비서 필라는 9월부터 병가 중이지.
+MARINA: Y la ministra el dos de octubre estaba en Lisboa. ||| 그리고 장관님은 10월 2일에 리스본에 계셨어요.
+ÁLVARO: Entonces solo queda uno. ||| 그럼 한 명만 남는군.
+MARINA: Gaspar. ||| 가스파르요.
+ÁLVARO: Esto no es una prueba. Es un conjunto de circunstancias. Un abogado lo haría pedazos. ||| 이건 증거가 아니야. 정황의 집합이지. 변호사라면 산산조각 낼 거야.
+MARINA: ¿Y un diplomático? ||| 외교관이라면요?
+ÁLVARO: Un diplomático lo usa para empezar una conversación. ||| 외교관은 이걸로 대화를 시작하지.
+MARINA: ¿Cuándo? ||| 언제요?
+ÁLVARO: Mañana por la tarde. Y no en su despacho. Un sitio donde nadie nos conozca. ||| 내일 오후. 그리고 그의 사무실이 아니라, 아무도 우리를 모르는 곳에서.
+MARINA: ¿Quiere que vaya? ||| 저도 갈까요?
+ÁLVARO: No. Un hombre acorralado necesita un solo testigo, y ese testigo tiene que ser el que lo acorrala. Pero quédate cerca. A cuarenta metros, con el móvil encendido. ||| 아니. 궁지에 몰린 사람에게는 증인이 한 명만 있어야 하고, 그 증인은 그를 몰아붙이는 사람이어야 해. 하지만 가까이 있어. 40미터 거리에서 휴대폰을 켜 두고.
+MARINA: Eso es muy de película. ||| 영화 같은 얘기네요.
+ÁLVARO: Las películas copian la realidad con peores diálogos. ||| 영화는 현실을 베끼되 대사가 더 나쁘지.
++ cabecera de un fax = 팩스 머리글(발신 정보가 인쇄되는 윗부분)
++ filtro de contraste = 대비 필터. 영상·이미지를 분석할 때 쓰는 보정 기법
++ antesala = 접견실, 대기실. 고위 인사 집무실 앞의 방
++ acorralar = 궁지에 몰다. 'corral'(우리)에서 온 동사
++ conjunto de circunstancias = 정황의 집합. 법률 용어로 '정황 증거'를 뜻한다
++ hacer pedazos = 산산조각 내다. 논리를 반박한다는 비유로도 쓴다
+
+## 연못가 — EL ESTANQUE
+GASPAR: Una cita en el Retiro. A las siete de la tarde. ¿Ya no se cita uno en los despachos? ||| 레티로 공원에서의 약속이라니. 저녁 일곱 시에. 이제는 사무실에서는 만나지 않나요?
+ÁLVARO: Los despachos tienen oídos. Los estanques tienen patos. ||| 사무실에는 귀가 있고 연못에는 오리가 있죠.
+GASPAR: Los patos no saben español. ||| 오리는 스페인어를 못 하죠.
+ÁLVARO: Lo cual es una ventaja. Siéntate. ||| 그건 장점이죠. 앉아요.
+GASPAR: ¿Qué quieres, Álvaro? Tengo una cena a las nueve. ||| 뭘 원해요, 알바로? 아홉 시에 저녁 약속이 있어요.
+ÁLVARO: Una confirmación. El dos de octubre a las once y cuarenta y dos de la mañana alguien envió un fax de cinco páginas desde la antesala del Gabinete a un periódico. ||| 확인 하나요. 10월 2일 오전 11시 42분에 누군가 비서실 접견실에서 신문사로 5쪽짜리 팩스를 보냈습니다.
+GASPAR: ¿Y? ||| 그래서요?
+ÁLVARO: Tres personas tenían llave. La ministra estaba en Lisboa. La secretaria, de baja. Quedas tú. ||| 열쇠를 가진 사람은 세 명이에요. 장관님은 리스본에 계셨고, 비서는 병가 중이고요. 남은 건 당신입니다.
+GASPAR: Eso es circunstancial. ||| 정황일 뿐이에요.
+ÁLVARO: Lo sé. Por eso te lo digo aquí y no ante la ministra. ||| 압니다. 그래서 장관님 앞이 아니라 여기서 말하는 겁니다.
+GASPAR: ... ¿Qué quieres de mí? ||| …내게 뭘 원합니까?
+ÁLVARO: Que me lo cuentes tú. Mejor que enterarme por otro lado. ||| 당신이 직접 말해 주는 겁니다. 다른 데서 알게 되는 것보다 낫죠.
+GASPAR: Eres insoportable cuando tienes razón. ||| 당신은 옳을 때 참 견디기 힘들어요.
+ÁLVARO: Es un defecto de familia. ||| 집안 내력이죠.
+GASPAR: Vale. Fui yo. ||| 좋아요. 제가 했습니다.
+ÁLVARO: Gracias por la sinceridad. ¿Por qué? ||| 솔직하게 말해 줘서 고맙습니다. 왜죠?
+GASPAR: Porque llevo veinte años haciéndole la sombra a gente que firma cosas que no puede contar. Y estoy cansado. ||| 20년 동안 말할 수 없는 걸 서명하는 사람들의 그림자 노릇을 했으니까요. 지쳤어요.
+ÁLVARO: ¿Eso es todo? ||| 그게 전부입니까?
+GASPAR: No es todo. Valdés lleva veintiocho años mintiendo. El país tiene derecho a saberlo. Yo solo aceleré lo inevitable. ||| 전부는 아니죠. 발데스 차관은 28년째 거짓말을 해 왔어요. 국민은 알 권리가 있고요. 저는 필연을 앞당겼을 뿐입니다.
+ÁLVARO: Qué hermosas palabras. ¿Las has ensayado? ||| 아름다운 말이군요. 연습했습니까?
+GASPAR: Hace tres semanas, en la ducha. ||| 3주 전에 샤워하면서요.
+ÁLVARO: Se nota. Ahora dime la parte que no has ensayado. ||| 티가 나요. 이제 연습하지 않은 부분을 말해 줘요.
+GASPAR: No hay otra parte. ||| 다른 부분은 없어요.
+ÁLVARO: Gaspar. Entregaste cinco folios. Hay doce. ||| 가스파르. 당신은 다섯 장을 넘겼어요. 열두 장이 있고요.
+GASPAR: Eso es lo que tenía. ||| 제가 가진 게 그거였어요.
+ÁLVARO: No. Eso es lo que decidiste dar. Un hombre que filtra por principios filtra todo. Tú filtraste lo que te convenía. ||| 아닙니다. 당신이 주기로 결정한 거죠. 원칙으로 유출하는 사람은 전부 유출합니다. 당신은 유리한 것만 유출했어요.
+GASPAR: Mi copia estaba incompleta. ||| 제 사본이 불완전했어요.
+ÁLVARO: ¿Tu copia? ¿De dónde? ||| 당신 사본이요? 어디서 난?
+GASPAR: Me la dieron. ||| 누가 줬어요.
+ÁLVARO: ¿Quién? ||| 누가요?
+GASPAR: No te voy a decir su nombre. ||| 이름은 말하지 않겠어요.
+ÁLVARO: Entonces te lo diré yo. Lund & Partners. Una consultora de Londres. ||| 그럼 제가 말하죠. 룬드 앤드 파트너스. 런던의 컨설팅 회사입니다.
+GASPAR: ¿Cómo...? ||| 어떻게…?
+ÁLVARO: Es una larga historia. Cuéntame la tuya. ||| 긴 이야기예요. 당신 이야기를 해 봐요.
++ hacer la sombra = 그림자 노릇을 하다. 누군가의 뒤에서 보조하는 위치
++ sinceridad = 솔직함. 'sincero'의 명사형
++ lo inevitable = 필연적인 것. 'lo + 형용사' 중성 명사
++ es un defecto de familia = 집안 내력이다. 'de familia'는 '가문에서 물려받은'
++ ensayar = 연습하다, 리허설하다. 연설을 미리 연습할 때 쓴다
++ por principios = 원칙에 따라, 신념으로. 'por'는 동기·이유를 나타낸다
+
+## 룬드 — EL RELATO DE GASPAR
+GASPAR: En agosto, un hombre se presentó en mi despacho. Un inglés, bien vestido, hablaba un español perfecto. Dijo que trabajaba para «interesados en la transparencia». ||| 8월에 한 남자가 제 사무실에 왔어요. 영국인이고 옷을 잘 입었고, 스페인어가 완벽했죠. '투명성에 관심 있는 사람들'을 위해 일한다고 했어요.
+ÁLVARO: ¿Su nombre? ||| 이름은요?
+GASPAR: Anders. Anders Lund. ||| 안데르스. 안데르스 룬드.
+ÁLVARO: El socio principal. ||| 대표 파트너로군요.
+GASPAR: Me dijo que sabía de un documento del noventa y seis. Un anexo reservado a un acuerdo de pesca. Y que si yo quería hacer un servicio al país, podía ayudar a que saliera a la luz. ||| 96년 문서를 알고 있다고 했어요. 어업협정의 비공개 부속서라고. 제가 나라를 위해 봉사하고 싶다면, 그게 세상에 드러나도록 도울 수 있다고요.
+ÁLVARO: ¿Y qué te ofrecía? ||| 그 대가로 뭘 제안하던가요?
+GASPAR: Nada. Al principio, nada. Solo información. Una copia, la «copia dos». Y un consejo: que fuese yo quien la filtrase. Con mi cargo, nadie sospecharía de un funcionario menor. ||| 처음엔 아무것도요. 정보뿐이었죠. '2부 사본'과 충고 하나. 제가 직접 유출하라는 거였어요. 제 직급이면 하급 공무원을 의심하진 않을 거라고요.
+ÁLVARO: ¿«Menor»? Eres jefe de gabinete de la ministra. ||| '하급'이라고요? 당신은 장관 비서실장입니다.
+GASPAR: Eso mismo le dije. Se rio. ||| 제가 똑같이 말했죠. 웃더군요.
+ÁLVARO: Y luego te prometieron algo. ||| 그리고 나서 뭔가를 약속했겠죠.
+GASPAR: La Secretaría de Estado. En cuanto Valdés cayera. «Una vacante natural», dijo. ||| 차관직이요. 발데스가 물러나는 즉시. '자연스러운 공석'이라고 했어요.
+ÁLVARO: ¿Quién te lo prometió? ¿Lund? ¿O alguien detrás? ||| 누가 약속했죠? 룬드입니까, 아니면 그 뒤의 누구입니까?
+GASPAR: Lund dijo que un amigo suyo en Presidencia lo garantizaba. ||| 룬드는 총리실의 친구가 보장한다고 했어요.
+ÁLVARO: ¿El nombre del amigo? ||| 그 친구 이름은?
+GASPAR: No lo dijo. Pero un día, al despedirse, mencionó: «Rodrigo les manda recuerdos». ||| 말하지 않았어요. 하지만 하루는 헤어지면서 이렇게 말하더군요. '로드리고가 안부 전합니다'.
+ÁLVARO: Rodrigo Aldaz. ||| 로드리고 알다스.
+GASPAR: ¿Lo conoces? ||| 아십니까?
+ÁLVARO: Desde hace cuatro días. ||| 나흘 전부터요.
+GASPAR: ¿Por qué lo dices así? ||| 왜 그렇게 말해요?
+ÁLVARO: Porque Aldaz es el hombre que ordenó sellar con Presidencia el traslado reservado en el noventa y seis. Es quien obligó a Valdés a cambiar una palabra. Hoy preside el consejo de Atlántica Química. ||| 알다스는 96년에 기밀 이송 영수증에 총리실 도장을 찍으라고 지시한 사람입니다. 발데스 차관에게 단어를 바꾸게 한 사람이고요. 지금은 아틀란티카 키미카 이사회 의장이에요.
+GASPAR: ¿Atlántica Química? Eso no me lo dijeron. ||| 아틀란티카 키미카요? 그건 말해 주지 않았어요.
+ÁLVARO: Claro que no. Si lo hubieran dicho, te habrías preguntado por qué un hombre de una química quiere destapar un anexo que lo salpica a él. ||| 물론이죠. 말했다면 화학 회사 사람이 왜 자기에게도 튀는 부속서를 드러내려 하는지 궁금해했을 테니까요.
+GASPAR: Salpica a Valdés. A él no. ||| 발데스 차관에게 튀는 거죠. 그에게는 아니에요.
+ÁLVARO: Salpica a quien lo firmó. Y a quien lo pagó. Aldaz lo ordenó, la empresa lo pagó, el Estado lo disimuló. ¿Por qué iba a querer que se supiera? ||| 서명한 사람과 돈을 낸 사람에게 튑니다. 알다스가 지시했고 기업이 돈을 냈고 국가가 은폐했죠. 그가 왜 세상에 알려지길 원하겠어요?
+GASPAR: ¿Porque lo que se publicó es solo la mitad? ||| 공개된 게 절반뿐이라서요?
+ÁLVARO: Esa es la pregunta correcta. Han soltado el escándalo y han retenido la cláusula final. ||| 그게 올바른 질문입니다. 스캔들은 풀어 놓고 마지막 조항은 쥐고 있는 거죠.
+GASPAR: Eso es lo que no entendía. Lund me insistió. Tres veces. «No publique los últimos folios». ||| 제가 이해하지 못한 게 그거예요. 룬드는 세 번이나 강조했어요. '마지막 장들은 보도하지 마십시오'.
+ÁLVARO: ¿Dijo por qué? ||| 이유를 말했습니까?
+GASPAR: Dijo que eran «material de seguridad». Y que la última página era «la cláusula de autodestrucción». Lo dijo riéndose. ||| '안전 자료'라고 했어요. 그리고 마지막 쪽은 '자폭 조항'이라고요. 웃으면서 말했죠.
+ÁLVARO: ¿Cómo dijo? ||| 뭐라고 했습니까?
+GASPAR: Autodestrucción. Como en las películas de espías. Creí que era un chiste. ||| 자폭이요. 첩보 영화처럼요. 농담인 줄 알았어요.
+ÁLVARO: ¿Autodestrucción? ||| 자폭이라고요?
+GASPAR: ¿Por qué te quedas así? ||| 왜 그런 표정이에요?
+ÁLVARO: Porque la cláusula final, según la traducción que tengo, habla de responsabilidad por daños. No de autodestrucción. ||| 제가 가진 번역본에서 마지막 조항은 손해 책임을 말하고 있거든요. 자폭이 아니라요.
+GASPAR: ¿Tienes una traducción? ||| 번역본이 있어요?
+ÁLVARO: Sí. De una persona que anotó una duda. Y una palabra francesa: «libère». ||| 네. 의문을 메모해 둔 사람의 것입니다. 그리고 프랑스어 단어 하나, 'libère'.
+GASPAR: Libera. ||| 풀어 준다.
+ÁLVARO: Libera. O libere, en subjuntivo. Autodestrucción y libera. Dos pistas para una misma frase. ||| 풀어 준다. 접속법이면 풀어 줄지도. 자폭과 풀어 준다. 같은 문장을 가리키는 두 개의 단서죠.
++ interesados en la transparencia = 투명성에 관심 있는 이해관계자들. 가짜 선의의 포장
++ vacante natural = 자연스러운 공석. 누군가 물러나서 생기는 자리
++ salpicar = (물이나 흙탕이) 튀다. 스캔들이 연루된 사람에게 번진다는 비유
++ lo hubieran dicho / te habrías preguntado = 접속법 대과거 + 조건법 완료. 과거에 대한 가정문(si + 접속법 대과거, 조건법 완료)
++ cláusula de autodestrucción = 자폭 조항. 룬드가 농담처럼 부른 말이 이 화의 핵심 단서가 된다
++ dos pistas para una misma frase = 같은 문장을 가리키는 두 개의 단서. 'pista'는 수사의 단서
+
+## 거래의 제안 — LA PROPUESTA
+GASPAR: Álvaro, escúchame. Si Valdés cae, tú ganas. La Unidad se salva, tu cabeza se queda donde está. Tienes mis votos. ||| 알바로, 들어요. 발데스가 물러나면 당신이 이깁니다. 부서는 살고 당신 목도 안전하고요. 제 표를 드리죠.
+ÁLVARO: ¿Tus votos? ||| 당신 표요?
+GASPAR: Mi apoyo ante la ministra. Mi silencio sobre tus visitas a Alcalá. Mi firma en lo que necesites. ||| 장관님 앞에서의 지지. 당신의 알칼라 방문에 대한 침묵. 필요한 문서에 제 서명.
+ÁLVARO: ¿Y a cambio? ||| 그 대가는요?
+GASPAR: Que no digas de dónde salió el fax. ||| 팩스가 어디서 나갔는지 말하지 않는 것.
+ÁLVARO: Qué buena oferta. Me ofreces comprar mi silencio. Con el mismo método con que la Administración compró el de Kandara durante veintiocho años. ||| 좋은 제안이군요. 내 침묵을 사겠다고요. 정부가 28년 동안 칸다라의 침묵을 사던 방식 그대로.
+GASPAR: No es lo mismo. ||| 같지 않아요.
+ÁLVARO: Es exactamente lo mismo. Cambia la divisa. ||| 정확히 같습니다. 통화만 바뀌었을 뿐이에요.
+GASPAR: Me estás diciendo que no. ||| 안 된다는 말씀이군요.
+ÁLVARO: Te estoy diciendo que no compro silencios. Ni te voy a hundir por ahora. Me sirves más vivo. ||| 침묵은 사지 않는다는 말입니다. 당분간 당신을 매장하지도 않을 거고요. 살아 있는 쪽이 더 쓸모 있으니까요.
+GASPAR: ¿Qué quieres decir? ||| 무슨 뜻입니까?
+ÁLVARO: Que me contarás cada vez que Lund o Aldaz te llame. Cada vez que te ofrezcan algo. La copia uno, la tres, un puesto nuevo. Todo. ||| 룬드나 알다스가 연락할 때마다 제게 말해 달라는 겁니다. 뭔가 제안할 때마다요. 1부, 3부 사본, 새 직책. 전부.
+GASPAR: Me estás pidiendo que me vuelva un topo. ||| 저더러 첩자가 되라는 거네요.
+ÁLVARO: Te estoy pidiendo que dejes de ser un pelele. Es mejor. ||| 꼭두각시를 그만두라는 겁니다. 그게 낫죠.
+GASPAR: ¿Y si digo que no? ||| 거절하면요?
+ÁLVARO: Entonces mañana la ministra recibe, por correo interno, un informe con el registro de la máquina, las llaves y la hora del fax. Y tú recibes una llamada de Lund diciendo que ya no les sirves. ||| 그럼 내일 장관님이 내부 우편으로 기기 기록, 열쇠 명단, 팩스 시각이 담긴 보고서를 받습니다. 그리고 당신은 더는 쓸모없다는 룬드의 전화를 받겠죠.
+GASPAR: Eso es chantaje. ||| 그건 협박이에요.
+ÁLVARO: No. Es información. El chantaje pide dinero. Yo solo pido lealtad. ||| 아닙니다. 정보예요. 협박은 돈을 요구하죠. 저는 충성을 요구할 뿐이고요.
+GASPAR: Es peor. ||| 더 나쁘네요.
+ÁLVARO: Sí. Es más caro. ||| 그렇죠. 더 비쌉니다.
+GASPAR: ... Acepto. ||| …받아들이겠습니다.
+ÁLVARO: Una cosa más. ¿Te pidió Valdés que fueras a Alcalá en septiembre? ||| 하나 더. 발데스 차관이 9월에 알칼라에 가라고 시켰습니까?
+GASPAR: No. Fui por mi cuenta. Usé su nombre. ||| 아니요. 제 판단으로 갔어요. 차관님 이름을 썼고요.
+ÁLVARO: Me lo temía. Se lo dirás tú. Esta noche. ||| 그럴 줄 알았습니다. 당신이 직접 말하세요. 오늘 밤.
+GASPAR: ¿A Valdés? ||| 발데스 차관에게요?
+ÁLVARO: A Valdés. Con tu propia boca. Un hombre que confiesa lo que ha hecho cae mejor que uno al que descubren. ||| 발데스 차관에게. 당신 입으로. 자기가 한 일을 고백하는 사람은 들킨 사람보다 덜 아프게 넘어지죠.
+GASPAR: Eso suena a Berni. ||| 베르니 같은 말이네요.
+ÁLVARO: Todos acabamos hablando como él. Es lo que pasa con los buenos maestros. ||| 우린 결국 다 그 사람처럼 말하게 되죠. 좋은 스승이란 그런 겁니다.
++ topo = 두더지. 구어로 '첩자, 내부 정보원'
++ pelele = 꼭두각시, 허수아비. 남에게 이용당하는 사람
++ cambia la divisa = 통화(화폐 단위)만 바뀐다. 같은 거래가 다른 형태라는 뜻
++ por mi cuenta = 내 판단으로, 독자적으로
++ me sirves más vivo = 살아 있는 편이 더 쓸모 있다. 'servir'는 쓸모가 있다
++ cae mejor = 더 부드럽게 떨어진다. 'caer mejor'는 '더 호감을 산다'는 뜻도 있는 중의적 표현
