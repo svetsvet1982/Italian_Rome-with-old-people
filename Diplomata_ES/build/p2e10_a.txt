@@ -1,0 +1,113 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 10
+@title El ferry de Tallin
+@ko 탈린행 페리
+@setting 12월 19일 저녁 스톡홀름 항 → 발트해 야간 페리 선상 식당·갑판·선실 → 12월 20일 아침 탈린 항
+@level B2-C1
+@cast ÁLVARO | 외교관 · 에바리스토의 자문, 44세
+@cast STRAND | 보레알 캐피털 대표, 55세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세 (전화·메시지)
+@cast CAMARERO | 페리 식당 종업원
+@cast MARINA | 브뤼셀 직원, 전화 연결
+@note 이 화는 '물밑 협상' 화입니다. 좁은 공간(페리 선상)과 제한된 시간(밤새)이라는 틀 속에서 두 사람이 서로를 읽는 장면이 중심입니다. 협상 어휘(oferta 제안, contraoferta 반대 제안, línea roja 한계선, margen 여지)와 상대의 말투에서 진심을 읽는 방법에 주목하세요. 해법의 논거는 사아베드라 파하르도와 뮌스터 평화 협상(1648)입니다.
+@next 2부 11화 — «La controversia»(논쟁) — 제네바 공개 청문. 푼타 살 마을 대표들이 보레알의 변호사와 같은 탁자에서 마주 앉는다. 바야돌리드 논쟁의 방식으로, 하한 결의는 표결에 부쳐진다.
+
+## 승선 — EMBARQUE
+STRAND: Señor Quintana. Puntual. Me gusta. ||| 킨타나 씨. 시간을 지키셨군요. 마음에 듭니다.
+ÁLVARO: Es una costumbre de diplomático sin cargo. Hay que llegar pronto a donde no te esperan. ||| 직함 없는 외교관의 버릇입니다. 기다리지 않는 곳에는 일찍 가야 하죠.
+STRAND: Bienvenido a bordo del «Baltic Aurora». Cuarenta y ocho horas, si quiere. Hasta Tallin, y de vuelta. Camarote doble, el mío y el suyo, contiguos. ||| '발틱 오로라'호에 오신 걸 환영합니다. 원하시면 48시간. 탈린까지 갔다가 돌아옵니다. 2인실, 제 방과 선생님 방이 이웃입니다.
+ÁLVARO: ¿Por qué un ferry? ||| 왜 페리입니까?
+STRAND: Es un espacio sin teléfonos. Una vez pasadas las doce millas, la cobertura es mala. Y no hay nadie conocido. Es un lugar donde dos personas pueden hablar de lo que de verdad importa. ||| 전화가 없는 공간입니다. 12해리를 넘으면 통신이 나빠지죠. 아는 사람도 없고요. 두 사람이 정말 중요한 것을 이야기할 수 있는 곳입니다.
+ÁLVARO: Una cárcel flotante, con buffet. ||| 뷔페가 있는 떠다니는 감옥이로군요.
+STRAND: Esa es una forma pesimista de verlo. Yo lo llamo «un lugar sin escapatoria de cortesía». ||| 비관적으로 보시는군요. 저는 '예의상 빠져나갈 수 없는 장소'라고 부릅니다.
+ÁLVARO: ¿Viene la señorita Berg? ||| 베르그 씨도 옵니까?
+STRAND: No. Le he pedido que descanse. Esta noche somos usted y yo. Y no hay actas. ||| 아니요. 쉬라고 했습니다. 오늘 밤은 선생님과 저뿐입니다. 회의록도 없고요.
+ÁLVARO: Entonces tampoco hay testigos. ||| 그럼 증인도 없군요.
+STRAND: Exacto. ¿Cena? ||| 그렇죠. 저녁 하시겠습니까?
+ÁLVARO: Antes, una cosa. ¿Le molesta que alguien sepa dónde estoy? ||| 먼저 하나 묻죠. 제가 어디 있는지 누가 아는 게 불편하십니까?
+STRAND: Pregunta sorprendente. ¿Por qué lo pregunta? ||| 놀라운 질문이군요. 왜 묻습니까?
+ÁLVARO: Porque en octubre prometí ante una comisión parlamentaria que nunca volvería a tomar una decisión reservada sin que ellos lo supieran. He enviado un mensaje a la presidenta Calvo: «Estoy en un ferry con el señor Strand. Mañana les cuento». ||| 10월에 의회 위원회 앞에서 비공개 결정을 위원회가 모르게 내리지 않겠다고 약속했기 때문입니다. 칼보 위원장님께 메시지를 보냈습니다. '스트란드 씨와 페리에 있습니다. 내일 말씀드리겠습니다'.
+STRAND: ... Qué hombre tan peculiar. Me parece perfecto. Yo también envié un mensaje a mi directora jurídica. Casi lo mismo. ||| …참 독특한 분이군요. 아주 좋습니다. 저도 법무이사에게 거의 같은 메시지를 보냈습니다.
+ÁLVARO: Entonces ya hay dos testigos. ||| 그럼 이미 증인이 두 명이네요.
+STRAND: Sin actas. ¿Cena? ||| 회의록 없이요. 저녁 하시겠습니까?
++ camarote = (배의) 선실. 'camarote doble'은 2인실
++ cobertura = (통신) 수신 범위. 'cobertura móvil'
++ escapatoria = 빠져나갈 구멍. 'escapatoria de cortesía'는 예의라는 도피처
++ a bordo de = ~에 승선하여. 9화에서도 쓰였다
++ hay que llegar pronto = 일찍 도착해야 한다. 'hay que + 원형'은 비인칭 의무
++ peculiar = 독특한. 'un hombre peculiar'
+
+## 선상 식당 — LA CENA
+CAMARERO: Buenas noches. Hoy tenemos salmón ahumado, arenque en vinagre y albóndigas suecas. ||| 안녕하십니까. 오늘은 훈제 연어, 식초 절임 청어, 스웨덴식 미트볼이 있습니다.
+STRAND: Albóndigas para mí. Y para el señor Quintana, lo que prefiera. ||| 저는 미트볼로 하겠습니다. 킨타나 씨는 원하시는 걸로요.
+ÁLVARO: Arenque. Cuando uno viaja por el Báltico, hay que cumplir con la tradición. ||| 청어로 하죠. 발트해를 여행할 때는 전통을 지켜야 하니까요.
+STRAND: Buen pescador. ||| 훌륭한 어부시군요.
+ÁLVARO: No. Mala memoria. En Punta Sal la gente dice que lo mejor del pescado es que no se queja. ||| 아니요, 기억력이 안 좋을 뿐입니다. 푼타 살 사람들은 생선의 가장 좋은 점이 불평하지 않는 거라고 하더군요.
+STRAND: Qué cruel. ||| 잔인하군요.
+ÁLVARO: Es una forma de humor. ||| 유머의 한 방식이죠.
+STRAND: Señor Quintana, voy a ser claro con usted. Boreal ha perdido bastante dinero en este asunto. No tanto como dicen, pero lo suficiente para que mis socios empiecen a hacer preguntas. ||| 킨타나 씨, 분명히 말씀드리겠습니다. 보레알은 이 일에서 꽤 많은 돈을 잃었습니다. 말하는 만큼은 아니지만 제 파트너들이 질문을 시작하기엔 충분하죠.
+ÁLVARO: ¿Y qué pregunta su socio principal? ||| 그래서 대표 파트너는 무엇을 묻습니까?
+STRAND: ¿Quién es su socio principal? ||| 대표 파트너가 누굽니까?
+ÁLVARO: No lo sé. Dígamelo usted. ||| 모릅니다. 말씀해 보세요.
+STRAND: Un fondo soberano. «Septentrio». No es público. ||| 국부 펀드입니다. '셉텐트리오'. 공개되지 않았죠.
+ÁLVARO: ¿De qué país? ||| 어느 나라 것입니까?
+STRAND: No se lo diré. Pero le diré lo que quiere. ||| 말씀드리지 않겠습니다. 하지만 무엇을 원하는지는 말씀드리죠.
+ÁLVARO: Se lo agradecería. ||| 감사하겠습니다.
+STRAND: Litio. ||| 리튬입니다.
+ÁLVARO: ¿Litio? ||| 리튬이요?
+STRAND: Bajo las salinas de Punta Sal hay una salmuera con una concentración de litio entre las más altas de África Occidental. Descubierta hace tres años en un estudio geológico. No publicado. ||| 푼타 살 염전 아래에는 서아프리카에서 가장 높은 축에 드는 리튬 농도의 염수가 있습니다. 3년 전 지질 조사에서 발견됐고 공개되지 않았죠.
+ÁLVARO: Las salinas. ||| 염전이군요.
+STRAND: Las salinas pertenecen, desde hace siglos, a las doscientas catorce familias. Un título comunal. Nadie puede explotarlas sin su consentimiento. Y si las familias litigan contra Atlántica por los barriles, un juez puede declarar que esos terrenos están contaminados. Y un terreno contaminado no se vende. ||| 염전은 수 세기 전부터 214가구의 소유입니다. 공동 소유권이죠. 그들의 동의 없이는 아무도 채굴할 수 없습니다. 그리고 가족들이 드럼통 문제로 아틀란티카를 소송하면 판사가 그 땅이 오염됐다고 선언할 수 있고, 오염된 땅은 팔 수 없습니다.
+ÁLVARO: Entonces la renuncia a toda acción... ||| 그래서 모든 소송 포기가…
+STRAND: ...y la cesión de créditos incluyen, en letra pequeña, la cesión de «cualquier derecho real sobre los terrenos de la marisma de Punta Sal». ||| …그리고 채권 양도에는 작은 글씨로 '푼타 살 습지 땅에 대한 모든 물권'의 양도가 들어 있습니다.
+ÁLVARO: Les compraban las tierras con el recibo. ||| 영수증으로 땅을 사들이는 셈이었군요.
+STRAND: «Compra» no es la palabra. Yo diría «consolidación». ||| '매입'이라는 말은 아닙니다. 저라면 '통합'이라고 하겠습니다.
+ÁLVARO: Qué hermosa palabra para un robo. ||| 도둑질에 쓰기엔 아름다운 말이군요.
+STRAND: No hay robo, señor Quintana. Hay valoración. Los activos valen más en manos de quien puede explotarlos. ||| 도둑질이 아닙니다, 킨타나 씨. 평가입니다. 자산은 개발할 수 있는 사람 손에서 더 값이 나갑니다.
+ÁLVARO: Y por eso hay veintiséis millones en gestión y doce en seguridad. ||| 그래서 관리에 2,600만, 보안에 1,200만이 있는 거군요.
+STRAND: Una inversión. ||| 투자죠.
+ÁLVARO: ¿Por qué me lo cuenta? ||| 왜 제게 말하는 겁니까?
+STRAND: Porque usted ya lo sabe, o lo sabrá. Y porque quiero proponerle algo. ||| 이미 알고 계시거나 곧 알게 될 테니까요. 그리고 제안하고 싶은 게 있어서입니다.
++ litio / salmuera = 리튬 / 염수. 리튬이 염전의 염수에 녹아 있는 형태
++ título comunal = 공동 소유권. 공동체가 공유하는 토지 소유 권원
++ derecho real = 물권. 토지처럼 물건에 대한 직접적 권리
++ consolidación = 통합, 정리. 구매를 완곡하게 표현하는 금융 용어
++ valoración = 평가, 가치 산정. 'los activos valen más'
++ marisma = 습지, 갯벌. 'marisma de Punta Sal'
+
+## 제안 — LA OFERTA
+STRAND: Boreal está dispuesta a retirar la cláusula de cesión de derechos reales. Ya. Esta noche. A cambio de una cosa. ||| 보레알은 물권 양도 조항을 철회할 용의가 있습니다. 지금 당장. 오늘 밤. 한 가지 대가를 받고요.
+ÁLVARO: ¿Cuál? ||| 뭡니까?
+STRAND: Que la Comisión de los Nueve no dicte la resolución sobre el piso el veintiuno de diciembre. Que la aplace. Un mes. ||| 9인 위원회가 12월 21일에 하한 결의를 내리지 않는 것입니다. 연기하는 거죠. 한 달.
+ÁLVARO: Un mes. ||| 한 달이요.
+STRAND: Y que Boreal, en ese mes, negocie con las familias directamente, con garantías. Un pósito, como dicen ustedes. Pero con Boreal como socio. ||| 그리고 그 한 달 동안 보레알이 가족들과 직접 협상하는 겁니다. 보증 아래에서요. 여러분 말로 포시토. 하지만 보레알이 파트너로 참여하고요.
+ÁLVARO: Un pósito con un genovés dentro. ||| 제노바 사람이 들어간 포시토군요.
+STRAND: No entiendo. ||| 이해가 안 됩니다.
+ÁLVARO: Es una historia española. Se la contaré otro día. Sigamos. ¿Y qué ganan las familias? ||| 스페인 이야기입니다. 다른 날 말씀드리죠. 계속하세요. 가족들은 무엇을 얻습니까?
+STRAND: Treinta mil euros por familia. En lugar de tres mil quinientos. ||| 가구당 3만 유로입니다. 3,500유로 대신에요.
+ÁLVARO: Treinta mil. Ocho veces más. ||| 3만이라. 여덟 배 가까이군요.
+STRAND: Una mejora sustancial. Que garantiza el bienestar de las familias y, de paso, hace innecesaria la resolución previa. ||| 상당한 개선입니다. 가족들의 복지를 보장하고, 겸사겸사 선행 결의를 불필요하게 만들죠.
+ÁLVARO: ¿Y las salinas? ||| 염전은요?
+STRAND: Los derechos reales, bajo licencia de explotación a favor de un consorcio en que las familias tendrán una participación del cinco por ciento. ||| 물권은 가족들이 5퍼센트를 갖는 컨소시엄에 대한 채굴 라이선스 형태로 갑니다.
+ÁLVARO: Cinco por ciento de un tesoro que es suyo cien por cien. ||| 100퍼센트 그들 것인 보물의 5퍼센트로군요.
+STRAND: Cinco por ciento de un tesoro que sin Boreal no valdría nada. Nadie puede extraer litio de una salmuera sin dos mil millones de inversión. ||| 보레알이 없으면 가치가 없는 보물의 5퍼센트죠. 20억 투자 없이는 아무도 염수에서 리튬을 뽑을 수 없습니다.
+ÁLVARO: Es una oferta muy sofisticada. Y le diré lo que pienso: es mejor que la anterior, y por eso es más peligrosa. ||| 아주 정교한 제안이군요. 제 생각을 말씀드리죠. 이전 것보다 낫고, 그래서 더 위험합니다.
+STRAND: ¿Peligrosa para quién? ||| 누구에게 위험합니까?
+ÁLVARO: Para las familias. Un contrato en que una parte tiene todo el conocimiento y la otra, ninguno. Treinta mil euros hoy, y cuarenta años de una explotación que no pueden evaluar. ||| 가족들에게요. 한쪽은 모든 지식을 갖고 다른 쪽은 아무것도 모르는 계약입니다. 오늘 3만 유로를 받고 평가할 수 없는 40년의 채굴이 따라오죠.
+STRAND: Es un riesgo que corre cualquier socio minoritario. ||| 소수 파트너라면 누구나 지는 위험입니다.
+ÁLVARO: Y ese riesgo se llama asimetría de información. En derecho, esa asimetría, cuando es muy grande, vicia el consentimiento. ||| 그 위험을 정보 비대칭이라고 하죠. 법에서 이 비대칭이 아주 크면 동의를 무효로 만듭니다.
+STRAND: ¿Me está diciendo que no? ||| 안 된다는 말씀입니까?
+ÁLVARO: Le estoy diciendo que no puedo aceptar ni rechazar una oferta que no me corresponde. No soy un miembro de la Comisión. Soy un asesor sin voto. Pero le diré qué haría si fuera uno de ellos. ||| 제게 속하지 않은 제안을 받아들이거나 거절할 수 없다는 말입니다. 저는 위원이 아니라 투표권 없는 자문입니다. 하지만 제가 위원이라면 어떻게 할지는 말씀드리죠.
+STRAND: Hágalo. ||| 말씀하세요.
+ÁLVARO: Pediría un estudio geológico independiente. Pagado por Boreal, realizado por un tercero designado por la Comisión, con acceso a los datos originales. Y pediría que las familias recibieran el estudio antes de firmar nada. ||| 독립적인 지질 조사를 요구하겠습니다. 비용은 보레알이 내고, 위원회가 지정한 제3자가 원자료에 접근해 실시하는 조사로요. 그리고 가족들이 서명하기 전에 그 조사를 받도록 요구하겠습니다.
+STRAND: Eso llevaría seis meses. ||| 6개월이 걸립니다.
+ÁLVARO: Una semana, si tiene los datos. Y los tiene. ||| 자료가 있다면 일주일입니다. 그리고 갖고 계시죠.
+STRAND: ... Tengo que pensarlo. ||| …생각해 봐야겠습니다.
++ de paso = 겸사겸사, 그 김에. 'de paso hace innecesaria'
++ vicia el consentimiento = 동의를 무효로 한다. 'viciar'는 하자가 있게 하다. 계약법 용어
++ asimetría de información = 정보 비대칭. 경제학·계약법 용어
++ socio minoritario = 소수 파트너. 'mayoritario'는 다수
++ participación = 지분 참여. 'una participación del cinco por ciento'
++ licencia de explotación = 채굴(개발) 허가. 광업 용어

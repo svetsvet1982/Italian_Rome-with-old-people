@@ -1,0 +1,115 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 9
+@title El sexto compromisario
+@ko 여섯 번째 위원
+@setting 12월 17일 밤 브뤼셀 전화 → 12월 18일 아침 제네바 호텔 응접실 → 같은 날 오후 9인 위원회 3차 회의
+@level B2-C1
+@cast ÁLVARO | 외교관 · 에바리스토의 자문, 44세
+@cast MARINA | 브뤼셀 직원, 위원회 간사, 29세
+@cast EVARISTO | 문서고 수석 관리인, 스페인 위원, 72세
+@cast OLMEDO | 판사, 스페인 위원, 61세
+@cast IGNACIO | 올메도 판사의 법원 비서관, 31세
+@cast ELISE | 위원회 의장, 54세
+@cast BERG | 보레알 수석 변호사, 38세
+@note 이 화는 '배신' 화입니다. 의심이 가장 크게 쏠린 사람이 아니라 그 곁의 사람이 정보를 흘리는 반전이 있습니다. 증거를 읽는 어휘(rastro 흔적, coartada 알리바이, indicio 정황, cotejar 대조하다)와, 사람을 모욕하지 않고 의심을 전하는 어법(condicional, 완곡 표현)에 주목하세요. 절차의 논거는 카스페 합의(1412)에서 위원들이 겪은 외부 압력과 그에 맞선 공개 선서입니다.
+@next 2부 10화 — «El ferry de Tallin»(탈린행 페리) — 보레알 대표 스트란드가 알바로를 발트해의 야간 페리로 초대한다. 이틀 밤 사이, 외스트라 로지스티크 이름 아래 숨은 푼타 살의 비밀이 한 겹 벗겨진다.
+
+## 밤의 분석 — LA IMAGEN
+MARINA: Álvaro, tengo algo. Llevo cuatro horas con la imagen que le mandó Rebeca. ||| 알바로, 알아낸 게 있어요. 레베카가 보낸 이미지를 네 시간째 보고 있어요.
+ÁLVARO: ¿Quién es el tercer hombre? ||| 세 번째 남자가 누구야?
+MARINA: Lo primero que se ve es la espalda y el hombro. Una chaqueta gris. Pelo corto. Un maletín con un asa de cuero. ||| 먼저 등과 어깨가 보여요. 회색 재킷. 짧은 머리. 가죽 손잡이가 달린 서류가방.
+ÁLVARO: Eso lo lleva medio Madrid. ||| 마드리드 절반이 들고 다니는 거야.
+MARINA: Pero el maletín tiene una etiqueta colgando. Una de esas pequeñas, de las que se usan en los juzgados para identificar el material. He mejorado la resolución. Pone: «CGPJ. Gabinete de la magistrada T. Olmedo». ||| 하지만 가방에 작은 꼬리표가 달려 있어요. 법원에서 비품 식별에 쓰는 종류요. 해상도를 높였어요. '사법위원회. T. 올메도 판사 사무실'이라고 쓰여 있어요.
+ÁLVARO: ¿Olmedo? ||| 올메도?
+MARINA: El maletín es del gabinete de Olmedo. No necesariamente suyo. Cuidado. ||| 가방이 올메도 판사 사무실 것이에요. 반드시 본인 것은 아니고요. 조심하세요.
+ÁLVARO: ¿Quién más usa el gabinete? ||| 사무실을 또 누가 써?
+MARINA: Dos letrados de apoyo. Una funcionaria. Y un secretario de gabinete, Ignacio Prieto Lund. Treinta y un años. ||| 지원 법원 서기 두 명. 직원 한 명. 그리고 사무실 비서관 이그나시오 프리에토 룬드. 서른한 살이에요.
+ÁLVARO: ¿Lund? ||| 룬드요?
+MARINA: Es el apellido de la madre. Sueca. Él se firma «Prieto». Pero en su perfil universitario, «Prieto Lund». Y participó en la conferencia de Estocolmo hace dos años. ||| 어머니 성이에요. 스웨덴 사람. 본인은 '프리에토'로 서명하지만 대학 프로필에는 '프리에토 룬드'로 돼 있어요. 그리고 2년 전 스톡홀름 컨퍼런스에 참가했고요.
+ÁLVARO: El «joven Lund» de la conferencia. ||| 컨퍼런스의 '젊은 룬드'.
+MARINA: Y ahora algo más feo. Ignacio Prieto es quien lleva el calendario de la magistrada. Y quien se ocupa de enviar los documentos a los demás miembros. ||| 그리고 더 나쁜 게 있어요. 이그나시오 프리에토가 판사님의 일정을 관리해요. 그리고 다른 위원들에게 문서를 보내는 일도 하고요.
+ÁLVARO: Entonces tiene acceso al calendario y a todos los documentos reservados. ||| 그러니까 일정과 모든 비공개 문서에 접근할 수 있군.
+MARINA: Y mire esto. Fecha del restaurante, jueves doce de diciembre. Ese día, la magistrada estaba en una vista en Madrid. Su asistente, libre. ||| 이걸 보세요. 식당 날짜는 12월 12일 목요일이에요. 그날 판사님은 마드리드에서 변론에 있었어요. 비서관은 자유였죠.
+ÁLVARO: Tenemos un indicio. No una prueba. ||| 정황이 있군. 증거는 아니고.
+MARINA: ¿Qué hacemos? ||| 어떻게 해요?
+ÁLVARO: Lo primero, no acusar a nadie. Lo segundo, hablar con la magistrada antes de la sesión. Y lo tercero, no dejar que esto salga de aquí. ||| 첫째, 누구도 고발하지 않는다. 둘째, 회의 전에 판사님과 이야기한다. 셋째, 이 일이 이 밖으로 새지 않게 한다.
+MARINA: ¿Y si la magistrada está implicada? ||| 판사님이 연루돼 있다면요?
+ÁLVARO: Entonces la manera de averiguarlo es la misma: hablando con ella con respeto. ||| 그래도 알아내는 방법은 같아. 존중하면서 이야기하는 거지.
++ etiqueta colgando = 달려 있는 꼬리표. 현재분사 'colgando'가 상태를 묘사
++ letrado de apoyo = 지원 법원 서기(법률 보좌). 법관을 보좌하는 법률가
++ indicio / prueba = 정황 / 증거. 둘의 구별이 수사·재판에서 중요하다
++ mejorar la resolución = 해상도를 높이다. 이미지 분석 용어
++ ocuparse de + 원형 = ~하는 일을 맡다. 'se ocupa de enviar los documentos'
++ implicada = 연루된. 'implicar'는 연루시키다
+
+## 응접실의 판사 — EL SALÓN
+OLMEDO: Señor Quintana. Me sorprende su invitación. Normalmente no desayuno con asesores. ||| 킨타나 씨. 초대가 의외군요. 저는 보통 자문들과 아침을 먹지 않습니다.
+ÁLVARO: Magistrada, le pido disculpas. Le voy a hablar con franqueza y le ruego que me escuche hasta el final. ||| 판사님, 사과드립니다. 솔직하게 말씀드릴 테니 끝까지 들어 주십시오.
+OLMEDO: Soy jueza. Escuchar hasta el final es mi trabajo. ||| 저는 판사입니다. 끝까지 듣는 게 제 일이죠.
+ÁLVARO: Alguien de esta Comisión, o muy próximo a ella, ha estado informando a la parte contraria. No sabemos quién. Y quiero que usted lo sepa por mí, antes de que lo sepa por otros, porque la persona más afectada podría ser usted. ||| 이 위원회나 아주 가까운 누군가가 상대측에 정보를 알려 왔습니다. 누군지는 모릅니다. 그리고 판사님이 다른 사람에게서 듣기 전에 제게서 알게 하고 싶습니다. 가장 영향을 받을 사람이 판사님일 수 있어서요.
+OLMEDO: Habla usted con rodeos. ||| 돌려 말하시는군요.
+ÁLVARO: Tengo una imagen. De una cena en Madrid, el doce de diciembre. Con el señor Lund y el periodista Gabriel Soto. Hay una tercera persona, de espaldas. Lleva un maletín con una etiqueta de su gabinete. ||| 이미지가 하나 있습니다. 12월 12일 마드리드에서의 저녁 식사입니다. 룬드 씨와 기자 가브리엘 소토와 함께요. 세 번째 사람이 등을 돌리고 있습니다. 판사님 사무실 꼬리표가 달린 서류가방을 들고요.
+OLMEDO: ... Enséñemela. ||| …보여 주세요.
+ÁLVARO: Aquí. ||| 여기 있습니다.
+OLMEDO: ¿Quién la tomó? ||| 누가 찍었습니까?
+ÁLVARO: Una persona que no puedo nombrar. Pero que tiene el prestigio de saber cuándo ver. ||| 이름을 말할 수 없는 사람입니다. 하지만 언제 봐야 하는지 아는 평판을 가진 사람이죠.
+OLMEDO: Es una frase muy elegante para decir «una espía». ||| '첩보원'이라는 말을 아주 우아하게 돌려 하셨군요.
+ÁLVARO: Eso creo. ||| 그렇게 생각합니다.
+OLMEDO: ¿Y usted viene a decirme que yo estaba en esa cena? ||| 그래서 제가 그 저녁 자리에 있었다고 말하러 오신 겁니까?
+ÁLVARO: No. Vengo a decirle que usted estaba en una vista en Madrid. Que lo he comprobado. Y que su secretario, Ignacio Prieto, estaba libre. ||| 아니요. 판사님은 마드리드에서 변론 중이셨다는 걸 말하러 왔습니다. 확인했습니다. 그리고 비서관 이그나시오 프리에토는 자유였고요.
+OLMEDO: Ignacio. ||| 이그나시오.
+ÁLVARO: Magistrada, no le acuso. Le pregunto: ¿puede ser? ||| 판사님, 고발하는 게 아닙니다. 묻는 겁니다. 그럴 수 있습니까?
+OLMEDO: ... Ignacio lleva tres años conmigo. Es brillante. Trabajador. Nunca ha cobrado un euro de más. Y me ha acompañado a todas partes. ||| …이그나시오는 3년째 저와 일했습니다. 뛰어나고 성실해요. 한 푼도 더 받은 적이 없고요. 어디든 저와 함께 다녔습니다.
+ÁLVARO: ¿Y su madre? ||| 어머니는요?
+OLMEDO: Sueca. Lo sé. Me contó que su abuelo trabajó en un banco de Estocolmo. Nunca le di importancia. ||| 스웨덴 사람이죠. 압니다. 외할아버지가 스톡홀름의 은행에서 일했다고 하더군요. 중요하게 생각한 적이 없어요.
+ÁLVARO: Y el «joven Lund» de la conferencia de Estocolmo. ||| 그리고 스톡홀름 컨퍼런스의 '젊은 룬드'.
+OLMEDO: ... Se lo conté yo, a usted, sin saber que... Dios mío. ||| …제가 말씀드렸죠, 몰랐던 채로… 맙소사.
+ÁLVARO: Magistrada. ||| 판사님.
+OLMEDO: Me lo había presentado como «un colega de la universidad». Nunca pensé. Era ese Lund. Él mismo. ||| 제게 '대학 동료'라고 소개했어요. 생각도 못 했습니다. 그 룬드였군요. 바로 그 사람이.
+ÁLVARO: Creo que usted le habló del joven Lund porque no sabía que era él. ||| 판사님이 젊은 룬드에 대해 말씀하신 건 그가 그 사람인 줄 몰랐기 때문이라고 믿습니다.
+OLMEDO: Me conoce poco, señor Quintana. Si hubiera sabido, no lo habría dicho. Pero tampoco me habría callado. Es una diferencia. ||| 저를 잘 모르시는군요, 킨타나 씨. 알았다면 말하지 않았겠죠. 하지만 숨기지도 않았을 겁니다. 차이가 있죠.
+ÁLVARO: La conozco lo suficiente. ||| 충분히 압니다.
++ hablar con rodeos = 돌려 말하다. 'rodeo'는 우회
++ coartada = 알리바이. 'tener coartada'
++ con rodeos / con franqueza = 돌려서 / 솔직하게. 판사의 'habla usted con rodeos'는 알바로의 완곡한 접근을 지적한다
++ dar importancia = 중요하게 여기다. 'nunca le di importancia'
++ no me habría callado = 조건법 완료. 과거에 대한 가정의 결과('알았다면 숨기지 않았을 것')
++ lo suficiente = 충분히. 'lo suficiente' 정도 부사
+
+## 비서관과의 통화 — IGNACIO
+OLMEDO: Voy a llamarle. Delante de usted. ||| 전화하겠습니다. 당신 앞에서요.
+ÁLVARO: ¿Está segura? ||| 확실하십니까?
+OLMEDO: Si lo hago a escondidas, soy una jueza que investiga a su secretario a espaldas. Si lo hago delante de un testigo, soy una jueza que busca la verdad. ||| 몰래 하면 저는 비서를 뒤에서 조사하는 판사가 됩니다. 증인 앞에서 하면 진실을 찾는 판사가 되고요.
+IGNACIO: Magistrada, buenos días. ¿Todo bien? ||| 판사님, 좋은 아침입니다. 별일 없으십니까?
+OLMEDO: Ignacio, te voy a hacer una pregunta y quiero una respuesta clara. ¿Dónde estabas el jueves doce de diciembre por la noche? ||| 이그나시오, 질문 하나 하겠습니다. 분명한 답을 원합니다. 12월 12일 목요일 밤에 어디 있었습니까?
+IGNACIO: ¿Por qué? ||| 왜요?
+OLMEDO: Porque te lo pregunto. ||| 제가 묻기 때문입니다.
+IGNACIO: Estaba... en casa. Con un resfriado. ||| 집에 있었습니다. 감기에 걸려서요.
+OLMEDO: ¿Seguro? ||| 확실합니까?
+IGNACIO: Sí, seguro. ||| 네, 확실합니다.
+OLMEDO: Muy bien. Hay una foto de ti en un restaurante de la calle Serrano. Con el señor Lund. ||| 좋습니다. 세라노 거리 식당에서 찍힌 당신 사진이 있습니다. 룬드 씨와 함께요.
+IGNACIO: ... ||| …
+OLMEDO: Ignacio. ||| 이그나시오.
+IGNACIO: Magistrada, puedo explicarlo. ||| 판사님, 설명할 수 있습니다.
+OLMEDO: Hazlo. ||| 해 보세요.
+IGNACIO: Es un amigo de mi madre. Un primo lejano. Me invitó a cenar. No hablamos de nada de la Comisión. ||| 어머니의 친구예요. 먼 친척이고요. 저녁에 초대했어요. 위원회 얘기는 하나도 안 했습니다.
+OLMEDO: ¿Y el periodista Soto? ||| 기자 소토는요?
+IGNACIO: No sé quién es. ||| 누군지 모릅니다.
+OLMEDO: Ignacio. En la foto hay tres personas. Tú llevas el maletín del gabinete. ||| 이그나시오. 사진에는 세 사람이 있습니다. 당신은 사무실 가방을 들고 있어요.
+IGNACIO: ... Magistrada, ¿puedo verla en persona? ||| …판사님, 직접 뵐 수 있을까요?
+OLMEDO: Estoy en Ginebra. ||| 저는 제네바에 있습니다.
+IGNACIO: Entonces, por teléfono. No me deje mal. Por favor. Yo... ellos me ofrecieron un puesto. En Estocolmo. Una colaboración. Mi madre está enferma y mi padre no tiene trabajo. ||| 그럼 전화로요. 저를 나쁘게 만들지 말아 주세요. 제발. 그들이 제게 자리를 제안했어요. 스톡홀름에서요. 협력 관계로요. 어머니가 아프고 아버지는 직업이 없어요.
+OLMEDO: ¿Qué les has dado? ||| 그들에게 무엇을 줬습니까?
+IGNACIO: El calendario. Las convocatorias. Las actas provisionales. Nada que no fuera a ser público. ||| 일정. 소집 통지. 임시 회의록. 어차피 공개될 것들요.
+OLMEDO: «Nada que no fuera a ser público». Esa es la frase de todo infiel. ||| '어차피 공개될 것'. 모든 배신자의 문장이군요.
+IGNACIO: Magistrada... ||| 판사님…
+OLMEDO: Te doy dos horas. Prepararás una declaración escrita con todo lo que has entregado, cuándo y a quién. Y la enviarás a la presidenta de la Comisión, con copia a mí. Y a las seis de la tarde, presentarás tu renuncia al gabinete. ||| 두 시간을 주겠습니다. 무엇을 언제 누구에게 넘겼는지 전부 담은 서면 진술을 준비하세요. 위원회 의장에게 보내고 저에게도 사본을 주세요. 그리고 오후 여섯 시에 사무실에 사직서를 제출하세요.
+IGNACIO: Entendido. ||| 알겠습니다.
++ a espaldas = 등 뒤에서, 몰래. 'a espaldas de alguien'
++ resfriado = 감기. 'estar resfriado'는 감기에 걸리다
++ infiel = 배신자, 신의를 저버린 사람. 형용사이자 명사
++ convocatorias = 소집 통지. 회의 소집을 알리는 문서
++ actas provisionales = 임시 회의록. 아직 확정되지 않은 회의록
++ no me deje mal = 저를 나쁘게 만들지 마세요. 'dejar mal'은 평판을 해치다
