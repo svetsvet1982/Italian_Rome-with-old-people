@@ -1,0 +1,187 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 2
+@title Las Lanzas
+@ko 창들
+@setting 토요일 오전 프라도 미술관 제9B실(벨라스케스 <브레다의 항복>) → 같은 날 미술관 카페 → 저녁 전화
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast LUCÍA | 알바로의 딸, 16세
+@cast STRAND | 보레알 캐피털 대표, 스웨덴인, 55세
+@cast BERG | 보레알 수석 변호사, 38세
+@cast AMINATA | 칸다라 주스페인 대사
+@note 이 화는 미술 작품이 협상의 논거가 되는 화입니다. 벨라스케스의 <브레다의 항복>(1635년경)은 승자가 패자에게 무릎을 꿇리지 않는 장면으로, 협상에서 상대의 체면을 지키는 일이 왜 중요한지를 보여 줍니다. 그림 설명 어휘(lanza 창, mirada 시선, gesto 몸짓)와 '숫자 하나가 정보를 드러내는' 장면의 어법에 주목하세요.
+@next 2부 3화 — «Punta Sal»(푼타 살) — 알바로, 에바리스토, 아미나타는 칸다라 해안 마을로 간다. 이백십사 가구를 찾아온 건 서류가 아니라 돈다발을 든 낯선 사람들이었다.
+
+## 프라도의 두 사람 — LA SALA NUEVE B
+LUCÍA: Papá, ¿puedes dejar de mirar el móvil? Hemos venido a ver un cuadro. ||| 아빠, 휴대폰 좀 그만 볼래? 그림 보러 왔잖아.
+ÁLVARO: Perdona. Me ha escrito un colega de Bruselas. Ya está guardado. ||| 미안. 브뤼셀 동료가 연락했어. 이제 넣었다.
+LUCÍA: Tengo que hacer un trabajo para Historia del Arte sobre «La rendición de Breda». Mamá dice que tú sabes de rendiciones. ||| 미술사 과제로 '브레다의 항복'에 대해 써야 해. 엄마가 아빠는 항복에 대해 잘 안대.
+ÁLVARO: Tu madre es muy generosa conmigo hoy. ||| 오늘따라 네 엄마가 나한테 아주 관대하구나.
+LUCÍA: No, es sarcástica. Pero cuéntame. ¿Qué es esto? ||| 아니, 빈정거리는 거야. 그래도 말해 줘. 이게 뭐야?
+ÁLVARO: Mil seiscientos veinticinco. Después de diez meses de asedio, la ciudad holandesa de Breda se rinde a las tropas españolas. El general español es Ambrosio de Spínola, un genovés al servicio del rey. ||| 1625년. 10개월의 포위 끝에 네덜란드 도시 브레다가 스페인군에게 항복해. 스페인 쪽 장군은 왕을 섬기던 제노바 사람 암브로시오 데 스피놀라야.
+LUCÍA: ¿Y el que le da la llave? ||| 열쇠를 건네는 사람은?
+ÁLVARO: Justino de Nassau, el gobernador de la plaza. Mira cómo se inclina. Pero fíjate en lo que hace Spínola. ||| 요스티누스 판 나사우, 도시 총독이지. 그가 몸을 어떻게 숙이는지 봐. 그리고 스피놀라가 뭘 하는지 주목해.
+LUCÍA: Le pone la mano en el hombro. ||| 어깨에 손을 올려.
+ÁLVARO: Para impedir que se arrodille. ||| 무릎을 꿇지 못하게 하려고.
+LUCÍA: ¿Eso es lo que quería decir el cuadro? ||| 그게 그림이 말하려던 거야?
+ÁLVARO: Eso dice la tradición. Velázquez lo pintó diez años más tarde, para el Salón de Reinos del palacio del Buen Retiro. En lugar de pintar al vencedor humillando al vencido, pinta a dos hombres que se tratan con respeto. ||| 전통에 따르면 그래. 벨라스케스는 10년 뒤에 부엔 레티로 궁의 왕국의 방을 위해 그렸어. 승자가 패자를 모욕하는 대신 서로를 존중하는 두 사람을 그렸지.
+LUCÍA: ¿Y por qué tantas lanzas? ||| 그럼 창은 왜 이렇게 많아?
+ÁLVARO: Por eso el cuadro se llama «Las Lanzas». Son verticales, ordenadas. Hay un ejército entero, pero ninguna lanza apunta a nadie. ||| 그래서 그림 이름이 '창들'이야. 수직으로 정돈돼 있지. 군대 전체가 있지만 어느 창도 누구를 겨누지 않아.
+LUCÍA: Es verdad. Están todas hacia arriba. ||| 정말이네. 전부 위쪽을 향해.
+ÁLVARO: Lucía, la gran lección de este cuadro no es que España ganó. Es que ganar se puede hacer de manera que el otro conserve su dignidad. Eso es lo más difícil de la diplomacia. ||| 루시아, 이 그림의 큰 교훈은 스페인이 이겼다는 게 아니야. 이기는 방식이 상대의 존엄을 지켜 줄 수 있다는 거지. 그게 외교에서 가장 어려운 일이야.
+LUCÍA: Lo apunto. «Ganar sin humillar». ||| 적을게. '모욕하지 않고 이기기'.
+ÁLVARO: Ponlo entre comillas. Es de Spínola. O de Velázquez. O de mí, que lo acabo de inventar. ||| 따옴표 안에 넣어. 스피놀라 말이거나 벨라스케스 말이거나, 방금 지어낸 내 말이거나.
+LUCÍA: Te pondré en la bibliografía. Con asterisco. ||| 참고 문헌에 넣을게. 별표를 달아서.
+ÁLVARO: ¿Qué significa el asterisco? ||| 별표는 무슨 뜻이야?
+LUCÍA: «Fuente poco fiable». ||| '신뢰하기 어려운 출처'.
++ asedio = 포위. 'asediar'는 포위하다
++ rendición = 항복. 'rendirse'는 항복하다. 이 화의 핵심 어휘
++ Salón de Reinos = 부엔 레티로 궁의 '왕국의 방'. 스페인 군주의 여러 왕국과 승리를 기리는 그림으로 장식됐다
++ arrodillarse = 무릎을 꿇다. 재귀 동사
++ ganar sin humillar = 모욕하지 않고 이기다. 이 화의 외교 원칙
++ fuente poco fiable = 신뢰하기 어려운 출처. 'poco + 형용사'는 완곡한 부정
+
+## 낯선 신사 — EL CABALLERO SUECO
+STRAND: Perdone que interrumpa. ¿Señor Quintana? ||| 방해해서 죄송합니다. 킨타나 씨 되십니까?
+ÁLVARO: Depende de quién pregunte. ||| 누가 묻느냐에 따라 다르죠.
+STRAND: Mikael Strand. Boreal Capital. Le escribí hace dos días. ||| 미카엘 스트란드입니다. 보레알 캐피털. 이틀 전에 편지를 드렸죠.
+ÁLVARO: Recibí la carta. Es la primera vez que me citan en un museo. ||| 편지 받았습니다. 미술관에서 만나자고 한 건 처음이네요.
+STRAND: Los museos son buenos sitios para hablar. Nadie grita. ||| 미술관은 대화하기 좋은 곳이죠. 아무도 소리 지르지 않으니까요.
+LUCÍA: Papá, ¿quién es? ||| 아빠, 누구야?
+ÁLVARO: Un señor que quiere hablar de negocios. Lucía, ¿puedes escribir un rato en la cafetería? Esta es mi tarjeta. Pide un chocolate. ||| 사업 얘기를 하고 싶어 하는 분이야. 루시아, 카페에서 잠깐 쓰고 있을래? 이 카드로 초콜릿 시켜.
+LUCÍA: Estoy a tres metros. ||| 3미터 옆에 있을 거야.
+ÁLVARO: Y yo agradezco los tres metros. ||| 그 3미터가 고맙구나.
+STRAND: Tiene una hija maravillosa. ||| 따님이 아주 훌륭하시군요.
+ÁLVARO: Se lo diré cuando la vea. Señor Strand, ¿en qué puedo ayudarle? ||| 만나면 전하죠. 스트란드 씨, 무엇을 도와드릴까요?
+STRAND: Soy yo quien quiere ayudar. Boreal ha adquirido el once por ciento de Atlántica Química. Eso nos convierte en un actor interesado en la reparación de Punta Sal. ||| 돕고 싶은 쪽은 저입니다. 보레알은 아틀란티카 키미카 지분 11퍼센트를 인수했습니다. 그래서 푼타 살 배상에 이해관계를 갖게 됐죠.
+ÁLVARO: Una forma elegante de decir que ahora le debe dinero a doscientas familias. ||| 이제 이백 가구에 빚을 졌다는 걸 우아하게 말하는 방식이군요.
+STRAND: Una forma elegante de decir que quiero pagar rápido. ||| 빨리 지급하고 싶다는 걸 우아하게 말하는 방식이죠.
+ÁLVARO: Un pago rápido no es lo mismo que un pago justo. ||| 빠른 지급이 공정한 지급과 같지는 않습니다.
+STRAND: Ni un pago lento es un pago justo. En mi experiencia, el tiempo erosiona la justicia. Cuanto más se espera, menos se recibe. ||| 느린 지급도 공정한 지급은 아니죠. 제 경험상 시간은 정의를 깎아 먹습니다. 기다릴수록 덜 받게 되죠.
+ÁLVARO: Eso suena a lo que dice quien paga. ||| 돈을 내는 사람이 하는 말처럼 들리는군요.
+STRAND: También es lo que dicen las familias. Los pescadores de Punta Sal necesitan hoy el dinero. No dentro de cinco años y tres comisiones. ||| 가족들도 같은 말을 합니다. 푼타 살 어부들은 지금 돈이 필요해요. 5년 뒤 위원회 셋을 거친 뒤가 아니라요.
+ÁLVARO: ¿Cuánto ofrece Boreal? ||| 보레알은 얼마를 제안합니까?
+STRAND: Tres mil quinientos euros por familia. En efectivo o transferencia. Una única vez. ||| 가구당 3,500유로입니다. 현금이든 계좌이체든요. 일회성으로.
+ÁLVARO: Y a cambio, las familias renuncian a toda acción. ||| 그 대가로 가족들은 모든 소송을 포기하고요.
+STRAND: Es lo normal en un acuerdo. ||| 합의에서는 흔한 일입니다.
+ÁLVARO: Y confidencialidad. ||| 그리고 비밀유지.
+STRAND: Es lo normal en un acuerdo. ||| 합의에서는 흔한 일입니다.
+ÁLVARO: Y cesión de cualquier crédito futuro a una entidad designada por Boreal. ||| 그리고 모든 향후 채권을 보레알이 지정한 기관에 양도하고요.
+STRAND: Es lo normal en un acuerdo. ||| 합의에서는 흔한 일입니다.
+ÁLVARO: Señor Strand, ha dicho la misma frase tres veces. ||| 스트란드 씨, 같은 문장을 세 번 말씀하셨습니다.
+STRAND: Porque es verdad tres veces. ||| 세 번 다 사실이니까요.
+ÁLVARO: Este cuadro tiene mucho que decir sobre lo que es «normal» en una rendición. ||| 이 그림은 항복에서 무엇이 '정상'인지에 대해 할 말이 많습니다.
+STRAND: Es una pintura preciosa. ¿Qué dice? ||| 아름다운 그림이죠. 뭐라고 하나요?
+ÁLVARO: Que el vencedor no debería cobrar al vencido su dignidad. Spínola pone la mano en el hombro de Justino para que no se arrodille. Usted ofrece tres mil quinientos euros para que se arrodillen doscientas familias. ||| 승자가 패자에게 존엄을 요구하지 않아야 한다는 거죠. 스피놀라는 요스티누스가 무릎 꿇지 않게 어깨에 손을 올립니다. 당신은 이백 가구가 무릎 꿇도록 3,500유로를 제안하고요.
+STRAND: Qué retórica tan española. ||| 참 스페인다운 수사네요.
+ÁLVARO: Es el idioma en que mejor sé decir verdades incómodas. ||| 불편한 진실을 가장 잘 말할 수 있는 언어라서요.
++ actor interesado = 이해관계자. 'actor'는 정치·경제 행위자를 뜻하는 학술적 용법
++ erosionar = 침식하다, 약화시키다. 'el tiempo erosiona la justicia'
++ cuanto más ... menos ... = 더 ~할수록 덜 ~하다. 비교 구문 'cuanto más se espera, menos se recibe'
++ es lo normal en un acuerdo = 합의에서는 흔한 일이다. 같은 문장을 반복하는 방어적 어법
++ renunciar a toda acción = 모든 소송(청구권)을 포기하다. 법률 용어
++ qué retórica tan española = 참 스페인다운 수사. 'qué + 명사 + tan + 형용사' 감탄문
+## 숫자의 습관 — LA CIFRA
+STRAND: Permítame que le presente a mi colega. Elsa Berg, directora jurídica de Boreal. ||| 제 동료를 소개하겠습니다. 엘사 베르그, 보레알 법무이사입니다.
+BERG: Señor Quintana. Es un placer. Hemos seguido su comparecencia con interés. ||| 킨타나 씨. 반갑습니다. 출석 장면을 흥미롭게 봤습니다.
+ÁLVARO: Qué atentos. ||| 참 꼼꼼하시군요.
+BERG: Boreal siempre sigue de cerca los asuntos en que tiene intereses. Le ofrecemos una colaboración. Estamos dispuestos a financiar con dos millones de euros el funcionamiento de la Comisión de los Nueve. ||| 보레알은 이해관계가 있는 사안을 늘 가까이서 지켜봅니다. 협력을 제안드립니다. 9인 위원회 운영비로 200만 유로를 지원할 용의가 있습니다.
+ÁLVARO: Muy generoso. ¿Con qué condición? ||| 아주 관대하군요. 어떤 조건으로요?
+BERG: Con una sola. Que la oferta simplificada se reconozca como una opción alternativa válida, de manera que cada familia pueda elegir libremente entre la vía rápida o la vía de la Comisión. ||| 하나뿐입니다. 간이 제안을 유효한 대안 선택지로 인정해 각 가족이 신속한 길과 위원회의 길 중 자유롭게 고르도록 하는 것입니다.
+ÁLVARO: Libertad de elección. Una expresión preciosa. ||| 선택의 자유. 아름다운 표현이군요.
+STRAND: Es un derecho básico. ||| 기본적인 권리입니다.
+ÁLVARO: Lo es. Pero un derecho que caduca el treinta y uno de diciembre, antes de que la Comisión haya decidido nada, no es libertad. Es prisa. ||| 그렇죠. 하지만 위원회가 아무것도 결정하기 전인 12월 31일에 만료되는 권리는 자유가 아니라 서두름입니다.
+BERG: Es una oferta con plazo, como todas. ||| 모든 제안이 그렇듯 기한이 있는 제안입니다.
+ÁLVARO: Como todas las ofertas que quieren ser aceptadas antes de ser entendidas. ||| 이해되기 전에 수락되길 원하는 모든 제안이 그렇듯이요.
+STRAND: Señor Quintana, ¿no cree que usted es un poco paternalista? Los pescadores son adultos. Saben lo que les conviene. ||| 킨타나 씨, 당신은 좀 가부장적이라고 생각하지 않으십니까? 어부들은 성인입니다. 자기에게 무엇이 이로운지 압니다.
+ÁLVARO: Lo saben mejor que nadie. Pero para elegir bien hay que saber qué se elige. ¿Han leído ya el texto completo de la cesión de créditos? ||| 누구보다 잘 알죠. 하지만 제대로 고르려면 무엇을 고르는지 알아야 합니다. 채권 양도 조항 전문을 읽어 봤습니까?
+BERG: Está traducido al francés y al inglés. ||| 프랑스어와 영어로 번역돼 있습니다.
+ÁLVARO: ¿Al wolof? ||| 월로프어로는요?
+BERG: Hay una versión oral. ||| 구두판이 있습니다.
+ÁLVARO: Una versión oral. Qué conveniente. Una versión que nadie puede comparar con el original. ||| 구두판이라. 편리하군요. 아무도 원본과 비교할 수 없는 판본이죠.
+STRAND: No sea suspicaz. ||| 의심하지 마십시오.
+ÁLVARO: No soy suspicaz. Soy alguien que ha pasado un mes aprendiendo lo que ocurre cuando un texto se lee distinto en dos idiomas. ||| 의심하는 게 아닙니다. 한 달 동안 두 언어에서 텍스트가 다르게 읽힐 때 무슨 일이 일어나는지 배운 사람일 뿐이죠.
+STRAND: Aquello fue un caso muy particular. ||| 그건 아주 특수한 사례였죠.
+ÁLVARO: Todos los casos son particulares hasta que se repiten. Dígame, señor Strand, ¿cuántas familias van a recibir su oferta? ||| 모든 사례는 반복되기 전까지는 특수하죠. 말씀해 보세요, 스트란드 씨. 몇 가구가 제안을 받게 됩니까?
+STRAND: Doscientas catorce. ||| 214가구입니다.
+ÁLVARO: ¿Doscientas catorce? ||| 214요?
+STRAND: Eso es. Doscientas catorce familias de Punta Sal. ||| 맞습니다. 푼타 살 214가구.
+ÁLVARO: Qué cifra tan exacta. En toda la prensa, en todos los informes, se habla de «unas doscientas familias». ||| 참 정확한 숫자군요. 모든 언론과 보고서는 '약 이백 가구'라고 합니다.
+STRAND: Nuestros asesores han hecho un trabajo de campo. ||| 저희 자문단이 현장 조사를 했습니다.
+ÁLVARO: ¿Con nombres y apellidos? ||| 이름과 성까지요?
+BERG: Mikael, creo que deberíamos terminar. ||| 미카엘, 이제 마무리하는 게 좋겠습니다.
+ÁLVARO: ¿Por qué? Era una pregunta sencilla. ||| 왜요? 간단한 질문이었는데요.
+STRAND: Señor Quintana, esa cifra procede de una fuente fiable. ||| 킨타나 씨, 그 숫자는 믿을 만한 출처에서 나온 겁니다.
+ÁLVARO: Estoy seguro. Y esa fuente fiable tiene acceso a un registro que, que yo sepa, solo existía en tres lugares: el Consejo de Pesca de Kandara, la oficina del viceministro Camara y la caja de una notaría. ||| 확실하겠죠. 그리고 그 믿을 만한 출처는 제가 아는 한 세 곳에만 있던 명부에 접근했습니다. 칸다라 어업위원회, 카마라 차관 사무실, 그리고 한 공증 사무소의 금고요.
+STRAND: No sé de qué me habla. ||| 무슨 말씀인지 모르겠습니다.
+ÁLVARO: No me sorprende. Es más fácil no saber que explicar. ||| 놀랍지 않군요. 설명하는 것보다 모르는 쪽이 쉬우니까요.
+BERG: Hemos terminado. Señor Quintana, nuestra oferta sigue en pie. Le agradeceremos que la comunique a quien corresponda. ||| 끝났습니다. 킨타나 씨, 우리 제안은 유효합니다. 담당자에게 전달해 주시면 감사하겠습니다.
+ÁLVARO: Yo no soy nadie. No tengo cargo, ni firma, ni escolta. Pero se la comunicaré a todo el mundo. Y a doscientas catorce familias, en wolof y por escrito. ||| 저는 아무도 아닙니다. 직함도 서명도 경호도 없어요. 하지만 모두에게 전하겠습니다. 214가구에게, 월로프어로 서면으로요.
+STRAND: Es usted un hombre testarudo. ||| 고집이 센 분이시군요.
+ÁLVARO: Lo prefiero a ser un hombre rápido. ||| 빠른 사람보다는 낫습니다.
+STRAND: Hasta pronto, señor Quintana. ||| 곧 뵙죠, 킨타나 씨.
+ÁLVARO: Hasta pronto. Y gracias por la cifra. Es lo más honesto que me ha dado. ||| 곧 뵙겠습니다. 그리고 숫자 고맙습니다. 당신이 제게 준 가장 정직한 것이었어요.
++ vía rápida = 신속 경로. 'vía'는 절차·길
++ ¿al wolof? = 월로프어로는요? 서아프리카 세네갈·감비아 등에서 쓰이는 언어. 칸다라는 가상국이지만 언어 문화는 서아프리카에서 차용
++ suspicaz = 의심 많은. 'suspicacia'는 의심
++ que yo sepa = 제가 아는 한. 접속법 현재의 제한 표현
++ sigue en pie = 유효하다, 여전히 서 있다. 1부 2화의 'la multa sigue en pie'와 같은 표현
++ doscientas catorce = 214. 200대 수는 'doscientos/doscientas'로 성(性) 일치를 한다
+
+## 카페의 딸 — EL CHOCOLATE
+LUCÍA: ¿Se ha ido? ||| 갔어?
+ÁLVARO: Se ha ido. ¿Has oído algo? ||| 갔어. 뭐 들었니?
+LUCÍA: Lo suficiente. Hablaba como en las películas de mafia. Pero con buenos modales. ||| 충분히. 마피아 영화처럼 말하더라. 예의는 바르지만.
+ÁLVARO: Una buena descripción. ¿Qué has anotado? ||| 좋은 묘사네. 뭘 적었니?
+LUCÍA: «Ganar sin humillar». Y debajo: «¿Cómo se gana cuando el otro ofrece dinero y lo único que tienes es la verdad?». ||| '모욕하지 않고 이기기'. 그 밑에: '상대가 돈을 제안하는데 내게 있는 건 진실뿐일 때 어떻게 이길까?'
+ÁLVARO: Esa es la pregunta de mi vida, Lucía. ||| 내 인생의 질문이다, 루시아.
+LUCÍA: ¿Y la respuesta? ||| 대답은?
+ÁLVARO: Todavía la estoy escribiendo. ||| 아직 쓰고 있어.
+LUCÍA: Papá. ¿Y si en vez de que ellos elijan entre el dinero rápido o la comisión lenta, hicieras que la comisión fuese rápida? ||| 아빠. 사람들이 빠른 돈과 느린 위원회 중에서 고르게 하는 대신, 위원회를 빠르게 만들면 어때?
+ÁLVARO: ¿Cómo? ||| 어떻게?
+LUCÍA: No lo sé. Yo solo digo que la prisa es una ventaja de ellos. Si se la quitas, quedan igual que todos. ||| 모르겠어. 그냥 서두름이 저쪽의 장점이라는 거야. 그걸 빼앗으면 다른 사람들과 똑같아지잖아.
+ÁLVARO: Si se la quito. ||| 그걸 빼앗으면.
+LUCÍA: ¿He dicho una tontería? ||| 내가 바보 같은 소리 했어?
+ÁLVARO: Has dicho lo mejor que he oído hoy. Una comisión rápida. Con un anticipo. ||| 오늘 들은 최고의 말이야. 빠른 위원회. 선지급과 함께.
+LUCÍA: ¿Qué es un anticipo? ||| 선지급이 뭐야?
+ÁLVARO: Dinero que se entrega antes de que termine el proceso. Una parte hoy y el resto después. Si las familias reciben una parte ya, sin renunciar a nada, la oferta de Boreal pierde su prisa. ||| 절차가 끝나기 전에 미리 주는 돈이야. 일부는 오늘, 나머지는 나중에. 가족들이 아무것도 포기하지 않고 일부를 지금 받는다면 보레알 제안은 서두름이라는 힘을 잃지.
+LUCÍA: ¿Y quién paga ese anticipo? ||| 그 선지급은 누가 내?
+ÁLVARO: Esa es la parte difícil. Alguien que no quiera comprar silencios. ||| 그게 어려운 부분이지. 침묵을 사고 싶어 하지 않는 누군가.
+LUCÍA: ¿Y existe? ||| 그런 사람이 있어?
+ÁLVARO: Existe una embajadora. Y un presidente historiador. Y quizá un Estado que debe una reparación y no se atreve a decirlo. ||| 대사가 있고, 역사학자인 대통령이 있고, 어쩌면 배상할 빚이 있는데 말하지 못하는 한 국가가 있지.
+LUCÍA: ¿España? ||| 스페인?
+ÁLVARO: Esa. ||| 그 나라.
+LUCÍA: Pues díselo a España. ||| 그럼 스페인한테 말해.
+ÁLVARO: España está sentada en la quinta planta y me ha dado un despacho con un limonero. ||| 스페인은 5층에 앉아서 내게 레몬나무가 있는 사무실을 줬어.
+LUCÍA: Entonces cuéntaselo a los limones. ||| 그럼 레몬한테 말해.
++ anticipo = 선지급, 선금. 일부를 먼저 주는 돈
++ en vez de que + 접속법 = ~하는 대신. 'en vez de que ellos elijan'
++ fuese = 접속법 불완전과거(ser). 'hicieras que la comisión fuese rápida'
++ quedar igual que todos = 다른 모두와 똑같아지다. 'quedar + 형용사'는 결과 상태
++ no se atreve a decirlo = 감히 말하지 못한다. atreverse a + 원형
++ cuéntaselo a los limones = 레몬한테 말해라. 'cuéntaselo'는 'cuenta + se(le) + lo' 명령형 대명사 결합
+
+## 대사의 전화 — AMINATA
+AMINATA: Señor Quintana. Me han dicho que ha comparecido. Y que ha ganado. ||| 킨타나 씨. 출석하셨다고 들었어요. 그리고 이기셨다고요.
+ÁLVARO: Los diputados no ganan ni pierden, embajadora. Se limitan a votar. Tengo una pregunta urgente. ¿Cuántas familias hay en el registro de víctimas de Punta Sal? ||| 의원들은 이기거나 지지 않습니다, 대사님. 표결할 뿐이죠. 급한 질문이 있습니다. 푼타 살 피해자 명부에는 몇 가구가 있습니까?
+AMINATA: Doscientas catorce. Lo supe ayer, cuando revisé el registro con el viceministro Camara. Por qué lo pregunta. ||| 214가구입니다. 어제 카마라 차관과 명부를 검토하다 알았어요. 왜 물으시죠?
+ÁLVARO: Porque un sueco elegante acaba de decirme esa cifra exacta. En la prensa solo se habla de «unas doscientas». ||| 우아한 스웨덴 사람이 방금 그 정확한 숫자를 말했습니다. 언론에서는 '약 이백'이라고만 하죠.
+AMINATA: El registro no es público. ||| 명부는 공개되지 않습니다.
+ÁLVARO: Eso mismo pensé. ¿Quién lo tuvo, desde que el general Bah se quedó sin acceso? ||| 저도 그렇게 생각했습니다. 바 장군이 접근권을 잃은 뒤에 누가 그걸 갖고 있었습니까?
+AMINATA: El viceministro. Y un notario en Puerto Alba, que lo custodia desde la época de mi padre. ||| 차관, 그리고 푸에르토 알바의 한 공증인이요. 아버지 시절부터 보관하고 있죠.
+ÁLVARO: ¿Su nombre? ||| 이름은요?
+AMINATA: Maître Diouf. Setenta y cuatro años. Trabaja en el mismo despacho desde mil novecientos setenta y nueve. ||| 디우프 변호사. 일흔네 살. 1979년부터 같은 사무실에서 일해요.
+ÁLVARO: Hay que ir a verle. ||| 만나러 가야겠군요.
+AMINATA: Yo voy mañana a Puerto Alba. El presidente me ha convocado. ¿Puede acompañarme? ||| 저는 내일 푸에르토 알바에 갑니다. 대통령이 소집했어요. 동행하실 수 있나요?
+ÁLVARO: No tengo cargo ni firma. Pero tengo un pasaporte. ||| 직함도 서명도 없습니다. 하지만 여권은 있죠.
+AMINATA: Entonces ya tiene lo esencial. Y llévese al archivero. Su fama ha cruzado el Mediterráneo. ||| 그럼 필수는 갖추셨네요. 그리고 문서 관리인을 데려오세요. 명성이 지중해를 건넜어요.
+ÁLVARO: Evaristo no ha salido de España desde mil novecientos ochenta y nueve. ||| 에바리스토는 1989년 이후 스페인을 떠난 적이 없습니다.
+AMINATA: Entonces va a ser un viaje histórico. ||| 그럼 역사적인 여행이 되겠군요.
++ limitarse a + 원형 = ~하는 데 그치다. 'se limitan a votar'
++ registro de víctimas = 피해자 명부. 비공개 문서임을 강조한다
++ custodiar = 보관하다, 수호하다. 'custodia desde la época de mi padre'
++ maître = 프랑스어 '변호사·공증인에 대한 존칭'. 칸다라의 공용어가 프랑스어라는 설정
++ convocar = 소집하다. 'me ha convocado'
++ lo esencial = 필수적인 것. 'lo + 형용사'

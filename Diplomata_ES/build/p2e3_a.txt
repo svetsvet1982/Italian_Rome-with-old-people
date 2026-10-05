@@ -1,0 +1,105 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 3
+@title Punta Sal
+@ko 푼타 살
+@setting 화요일 푸에르토 알바 공항 → 해안 도로 → 푼타 살 마을 학교 마당 → 밤 바오바브나무 아래 마을 회의
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast EVARISTO | 문서고 수석 관리인, 9인 위원회 스페인 위원, 72세
+@cast AMINATA | 칸다라 주스페인 대사
+@cast CAMARA | 칸다라 수산 차관
+@cast AWA | 푼타 살 어시장 상인 대표, 60세
+@cast IBOU | 어부 대표, 51세
+@cast MOUSSA | 마을 장로, 82세
+@cast FATOU | 아픈 아이의 어머니, 33세
+@cast AGENTE | 보레알 측 현지 대리인, 26세
+@note 1부의 무대였던 칸다라로 알바로가 '직함 없이' 돌아옵니다. 이 화의 대화는 서류가 아니라 사람들의 목소리에서 나옵니다. 해법의 논거는 스페인의 '포시토(pósito)' 제도(마을이 공동으로 곡식과 기금을 쌓아 두고 필요한 사람에게 빌려주던 전통)입니다. 공동체의 결정 방식, 존중 표현(abuelo, señora), 설명하는 말투에 주목하세요.
+@next 2부 4화 — «La notaría»(공증 사무소) — 푸에르토 알바의 공증인 디우프 변호사는 28년간 한 번도 열지 않은 금고를 가지고 있다. 214가구의 이름이 어떻게 스웨덴으로 건너갔는지, 그의 입이 열린다.
+
+## 에바리스토의 첫 비행 — EL VUELO
+EVARISTO: Álvaro, ¿tú sabes que hace treinta y cinco años que no subo a un avión? ||| 알바로, 내가 35년 동안 비행기를 타지 않았다는 걸 아나?
+ÁLVARO: Lo sé. Me lo ha dicho tres veces. ||| 압니다. 세 번 말씀하셨어요.
+EVARISTO: Es que el último avión que tomé fue a Lisboa y se retrasó cuatro horas. Los aviones, como los archivos, tienen su propio ritmo. ||| 마지막으로 탄 비행기는 리스본행이었는데 네 시간 지연됐거든. 비행기도 문서고처럼 자기 리듬이 있지.
+ÁLVARO: Este llega a su hora. Tiene mejor reputación. ||| 이건 제시간에 도착합니다. 평판이 더 좋아요.
+EVARISTO: La reputación es lo único que no se pierde en el equipaje. Mira por la ventanilla. ¡Qué grande es el mar! ||| 평판은 수하물에 안 들어가는 유일한 거지. 창밖 좀 보게. 바다가 정말 크군!
+ÁLVARO: Es el Atlántico. ||| 대서양입니다.
+EVARISTO: He pasado cuarenta años estudiando papeles sobre él. Es la primera vez que lo veo con mis propios ojos. ||| 40년간 대서양에 관한 서류를 연구했는데, 내 눈으로 보는 건 처음이야.
+ÁLVARO: ¿Y qué le parece? ||| 어떻습니까?
+EVARISTO: Que los papeles no le hacen justicia. Pero tampoco los ojos. Hace falta las dos cosas. ||| 서류는 그에게 공정하지 못해. 눈도 마찬가지고. 둘 다 있어야 해.
+ÁLVARO: Eso es lo que me gusta de usted. Que no se deja deslumbrar ni por los papeles ni por el mar. ||| 그게 선생님의 좋은 점입니다. 서류에도 바다에도 눈이 부시지 않으시죠.
+EVARISTO: Me deslumbra una sola cosa: cuando alguien lee un documento hasta el final. Tú lo hiciste. ||| 나를 눈부시게 하는 건 하나야. 누가 문서를 끝까지 읽는 것. 자네가 그랬지.
+ÁLVARO: Lo hizo una intérprete, en realidad. ||| 사실은 통역관이 했습니다.
+EVARISTO: Pues que le den una medalla a la intérprete. Y a la persona que escribió «libère» en la última página. ||| 그럼 통역관에게 훈장을 줘야지. 그리고 마지막 쪽에 '리베르'를 쓴 사람에게도.
+AMINATA: Se la daremos a mi padre. Aunque sea póstuma. ||| 아버지께 드리겠어요. 사후이긴 하지만요.
+EVARISTO: Señora embajadora, no la había visto. Perdone mi cháchara. ||| 대사님, 못 뵀습니다. 수다를 용서하십시오.
+AMINATA: Don Evaristo, a mí la cháchara me tranquiliza. Es una de las pocas cosas que se parecen entre España y Kandara. ||| 에바리스토 선생님, 저는 수다가 마음을 편하게 해요. 스페인과 칸다라가 닮은 몇 안 되는 점이죠.
++ cháchara = 수다, 잡담. 'estar de cháchara'는 수다를 떨다
++ hacer justicia = 공정하게 대하다. 'los papeles no le hacen justicia'
++ póstuma = 사후의. 'una medalla póstuma'는 추서된 훈장
++ deslumbrar = 눈부시게 하다, 현혹하다. 재귀형 'deslumbrarse'는 눈이 부시다
++ tomar un avión = 비행기를 타다. 스페인에서는 'coger un avión'도 쓰나 라틴아메리카에서는 비속어가 될 수 있어 'tomar'가 안전하다
++ no se deja deslumbrar = 현혹되지 않는다. dejarse + 원형은 '~당하다·~되게 두다'
+
+## 해안 도로 — EL CAMINO A PUNTA SAL
+CAMARA: Señor Quintana. Don Evaristo. Les presento a mi chófer, Adama. Es el mejor conductor de Kandara y el peor cantante. ||| 킨타나 씨. 에바리스토 선생님. 제 운전사 아다마를 소개합니다. 칸다라 최고의 운전사이자 최악의 가수죠.
+ÁLVARO: Viceministro, gracias por recogernos. ||| 차관님, 마중 나와 주셔서 감사합니다.
+CAMARA: Es lo menos. Usted me llamó hace cinco semanas para hablar de un mapa. Hoy le enseño el territorio. ||| 당연한 일입니다. 5주 전 지도 얘기를 하려고 전화하셨죠. 오늘은 땅을 보여 드리겠습니다.
+EVARISTO: Qué verde está todo. ||| 온통 얼마나 푸른지.
+CAMARA: Es la estación de lluvias. Dentro de dos meses estará amarillo. Ahí delante, lo que ve usted a la derecha, son las salinas. ||| 우기라서요. 두 달 뒤에는 누렇게 변할 겁니다. 저 앞 오른쪽에 보이는 게 염전입니다.
+ÁLVARO: De ahí el nombre de Punta Sal. ||| 그래서 푼타 살이라는 이름이군요.
+CAMARA: Sí. Aunque mi abuela decía que se llama así por las lágrimas. Hace treinta años lloró mucha gente allí. ||| 네. 제 할머니는 눈물 때문에 그렇게 부른다고 하셨지만요. 30년 전에 그곳에서 많은 사람이 울었습니다.
+EVARISTO: ¿Por los barriles? ||| 드럼통 때문에요?
+CAMARA: Por los barriles. Aparecieron en la playa durante tres semanas. Al principio, los niños jugaban con ellos. Eran de plástico grueso, azules, muy bonitos. ||| 드럼통 때문이죠. 3주 동안 해변에 떠밀려 왔습니다. 처음엔 아이들이 갖고 놀았어요. 두꺼운 플라스틱이고 파란색에 아주 예뻤죠.
+ÁLVARO: No sabían lo que contenían. ||| 안에 뭐가 든지 몰랐군요.
+CAMARA: Nadie lo sabía. Hasta que las manos empezaron a pelarse. ||| 아무도 몰랐습니다. 손이 벗겨지기 시작할 때까지요.
+EVARISTO: Perdone la pregunta, viceministro. ¿Usted dónde estaba? ||| 질문을 용서하십시오, 차관님. 그때 어디 계셨습니까?
+CAMARA: Era estudiante en París. Me enteré por una carta de mi madre. Una carta de tres líneas. «Tu hermana está enferma. No vuelvas. No hay dinero.» ||| 파리 유학생이었습니다. 어머니 편지로 알았죠. 세 줄짜리 편지였어요. '네 누이가 아프다. 오지 마라. 돈이 없다'.
+ÁLVARO: ¿Su hermana? ||| 누이분이요?
+CAMARA: Mi hermana vive. Tiene una cicatriz de aquí a aquí. Pero vive. Por eso trabajo en la pesca. Por eso acepté ser el viceministro de un gobierno al que no le gustaba hablar de Punta Sal. ||| 누이는 살아 있습니다. 여기서 여기까지 흉터가 있지만요. 그래서 수산 일을 합니다. 그래서 푼타 살 이야기를 싫어하던 정부의 차관직을 받아들였고요.
+ÁLVARO: Nunca me lo había dicho. ||| 한 번도 말씀하지 않으셨습니다.
+CAMARA: Usted tampoco me había dicho que su Ministerio llevaba veintiocho años pagando por mi silencio. ||| 당신도 당신 부처가 28년 동안 제 침묵을 위해 돈을 내 왔다고 말하지 않았죠.
+ÁLVARO: No lo sabía. ||| 몰랐습니다.
+CAMARA: Yo tampoco. Ahora los dos sabemos. Y los dos tenemos cosas que hacer. ||| 저도 몰랐어요. 이제 우린 둘 다 압니다. 그리고 둘 다 해야 할 일이 있죠.
++ pelarse = (피부가) 벗겨지다. 재귀 동사. 'las manos empezaron a pelarse'
++ de ahí el nombre = 그래서 이름이 ~이다. 이름의 유래를 설명하는 정형 표현
++ es lo menos = 당연한 일이다, 최소한이다. 'es lo menos que puedo hacer'의 줄임
++ de aquí a aquí = 여기서 여기까지. 손으로 가리키며 길이를 나타내는 구어
++ hubiera / había = 직설법 과거완료 대비. 'nunca me lo había dicho'
++ salinas = 염전. 소금과 관련된 지명 유래
+
+## 학교 마당 — EL PATIO DE LA ESCUELA
+AWA: Bienvenidos a Punta Sal. Soy Awa. Llevo cuarenta años vendiendo pescado en este mercado y diez presidiendo la asociación de las mujeres. ||| 푼타 살에 오신 걸 환영합니다. 아와예요. 이 시장에서 40년째 생선을 팔고 10년째 여성 협회 회장을 맡고 있죠.
+ÁLVARO: Señora Awa, soy Álvaro Quintana. Él es don Evaristo, que será el representante de España en la comisión de reparación. ||| 아와 부인, 알바로 킨타나입니다. 이분은 에바리스토 선생님이고 배상 위원회의 스페인 대표가 될 겁니다.
+AWA: ¿Un anciano? ||| 노인이요?
+EVARISTO: Setenta y dos años, señora. Pero con la memoria de un tipo de ochenta. ||| 일흔두 살입니다, 부인. 하지만 기억력은 여든 살 노인만 하지요.
+AWA: Eso me gusta. Aquí las memorias largas mandan. Venga, que mi abuelo quiere conocerles. ||| 마음에 들어요. 여기서는 긴 기억이 권위를 가지죠. 오세요, 할아버지가 만나고 싶어 하세요.
+MOUSSA: Es una visita larga. Han tardado treinta años. ||| 긴 방문이로군. 30년이 걸렸어.
+ÁLVARO: Abuelo Moussa, perdone el retraso. ||| 무사 할아버지, 늦어서 죄송합니다.
+MOUSSA: Los países son lentos. Los niños, en cambio, crecen rápido. Hace treinta años aquí había doscientos niños que jugaban en la playa. Hoy son hombres con la piel como un mapa. ||| 나라들은 느리지. 하지만 아이들은 빨리 자라. 30년 전 이곳엔 해변에서 노는 아이가 이백 명 있었어. 지금은 피부가 지도 같은 어른들이 됐지.
+IBOU: Soy Ibou, de los pescadores. Hemos oído que se está formando una comisión de nueve personas. ¿Es verdad? ||| 어부 대표 이부입니다. 아홉 명 위원회가 꾸려진다고 들었는데 사실입니까?
+ÁLVARO: Es verdad. Tres de ustedes, elegidos por ustedes. Tres de España. Tres de Europa. ||| 사실입니다. 여러분이 뽑은 세 명, 스페인 세 명, 유럽 세 명이죠.
+IBOU: ¿Y qué va a decidir esa comisión? ||| 그 위원회는 무엇을 결정합니까?
+ÁLVARO: Cuánto se debe, quién lo paga y cómo se reparte. ||| 얼마가 빚이고, 누가 내고, 어떻게 나눌지요.
+IBOU: Eso suena muy bien. Pero esta mañana ha venido un muchacho en moto. Con papeles. Y con dinero. ||| 아주 좋게 들립니다. 하지만 오늘 아침 젊은이가 오토바이로 왔어요. 서류와 돈을 들고요.
+ÁLVARO: ¿Con dinero? ||| 돈이요?
+IBOU: Mire. Al otro lado del patio. ||| 보세요. 마당 건너편이요.
+AGENTE: ¡Bienvenidos, bienvenidos! ¡Hoy es un día histórico para Punta Sal! Boreal Capital les ofrece una compensación inmediata. Tres mil quinientos euros por familia, en efectivo, hoy mismo. ||| 환영합니다, 환영합니다! 오늘은 푼타 살의 역사적인 날입니다! 보레알 캐피털이 즉각적인 보상을 제안합니다. 가구당 3,500유로, 오늘 현금으로요.
+FATOU: ¿Hoy mismo? ||| 오늘 당장요?
+AGENTE: Hoy mismo, señora. Solo tiene que firmar aquí, y aquí, y aquí. ||| 오늘 당장입니다, 부인. 여기, 여기, 여기에 서명만 하시면 돼요.
+FATOU: ¿Y qué firmo? ||| 무엇에 서명하는 건가요?
+AGENTE: Un recibo. Es solo un recibo. ||| 영수증이에요. 그냥 영수증입니다.
+EVARISTO: Perdone, joven. ¿Me deja ver ese recibo? ||| 실례합니다, 젊은이. 그 영수증 좀 볼 수 있을까요?
+AGENTE: ¿Usted quién es? ||| 누구십니까?
+EVARISTO: Un archivero. Una persona que ha leído muchos recibos. ||| 문서 관리인입니다. 영수증을 많이 읽은 사람이죠.
+AGENTE: Esto es un documento privado. ||| 이건 개인 문서입니다.
+EVARISTO: Entonces hágame el favor de leerlo en voz alta para que lo oigan todos. Un documento que no puede leerse en voz alta no es un recibo. ||| 그럼 모두가 들을 수 있게 소리 내어 읽어 주시오. 소리 내어 읽을 수 없는 문서는 영수증이 아니오.
+AGENTE: No tengo obligación. ||| 의무는 없습니다.
+EVARISTO: Pues yo sí. Aquí está el texto. Don Álvaro, ¿me ayuda con el francés? ||| 그럼 내가 하지. 여기 텍스트가 있군. 알바로, 프랑스어를 도와주겠나?
++ en cambio = 반면에. 대조를 나타내는 접속 부사구
++ piel como un mapa = 지도 같은 피부. 흉터와 반점을 가리키는 비유
++ firmar aquí, y aquí, y aquí = 'y'를 반복하는 열거. 서명 위치를 반복해 압박하는 어법
++ hacerme el favor de + 원형 = ~해 주시겠습니까. 공손하지만 단호한 요청
++ hágame el favor = 부탁합니다. 명령형 + 간접목적어 대명사 결합
++ tener obligación = 의무가 있다. 'no tengo obligación'은 법적 의무가 없다는 방어

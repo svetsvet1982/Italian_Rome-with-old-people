@@ -1,0 +1,175 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 1
+@title El precio
+@ko 대가
+@setting 11월 월요일 아침 하원(Congreso de los Diputados) 외교위원회 → 오후 증인 심문 → 밤 알바로의 임시 사무실
+@level B2-C1
+@cast ÁLVARO | 외교관 · 전 UNR 실장(직무 정지), 44세
+@cast CALVO | 하원 외교위원회 위원장, 58세
+@cast BELTRÁN | 야당 의원, 외교위원회 위원
+@cast ARRIETA | 신임 외교부 차관급 Secretario de Estado, 58세
+@cast EVARISTO | 문서고 수석 관리인, 증인, 72세
+@cast MARINA | 브뤼셀 주재 어업총국 직원, 전화 연결
+@cast REBECA | 국가정보원(CNI) 연락관
+@note 2부의 시작입니다. 1부에서 알바로가 쓴 '더러운 수단'의 청구서가 의회의 청문 형식으로 도착합니다. 의회 어휘(comparecer 출석하다, ponente 보고 의원, orden del día 안건, turno de réplica 반론 시간)와 질문을 받는 사람의 방어 어법에 주목하세요. 이 화의 해법은 카디스 의회(1812)의 '회의 공개' 원칙에서 나옵니다.
+@next 2부 2화 — «Las Lanzas»(창들) — 프라도 미술관 벨라스케스 앞에서 알바로는 스웨덴 투자자 미카엘 스트란드를 만난다. 그가 내민 건 '가구당 3,500유로'라는 숫자였다.
+
+## 청문회 전 — EL PASILLO DEL CONGRESO
+ARRIETA: Álvaro Quintana. Por fin nos conocemos. Federico Arrieta. Me han dicho que prefiere que le llamen Álvaro. ||| 알바로 킨타나 씨. 드디어 만나는군요. 페데리코 아리에타입니다. 알바로라고 불리는 걸 선호한다고 들었습니다.
+ÁLVARO: Prefiero que me llamen cuando hay trabajo, señor secretario. El nombre es lo de menos. ||| 일이 있을 때 불러 주시는 쪽이 낫습니다, 차관님. 이름은 부차적이죠.
+ARRIETA: Qué buena respuesta. Y qué inútil. Escuche: la ministra me ha encargado la Secretaría de Estado desde hace cuatro semanas, y mi primera instrucción es limpiar la casa. ||| 좋은 대답이군요. 그리고 쓸모없는 대답이고요. 들어요. 장관님이 4주 전에 제게 차관직을 맡기셨고 첫 지시는 집안을 정리하라는 것이었습니다.
+ÁLVARO: ¿Limpiar de qué? ||| 무엇을 정리한다는 겁니까?
+ARRIETA: De ruido. Esta crisis ha dejado demasiado. La Comisión, la prensa, esas historias del anexo. Lo que yo quiero es que hoy salga de aquí sin ruido. ||| 소음이요. 이번 위기는 너무 많은 걸 남겼습니다. 위원회, 언론, 부속서 이야기들. 오늘은 소음 없이 나오길 원합니다.
+ÁLVARO: Qué difícil es comparecer sin ruido. Es como hablar sin boca. ||| 소음 없이 출석하는 건 어렵죠. 입 없이 말하는 것과 같으니까요.
+ARRIETA: Respuestas breves, sin adjetivos. Y sobre todo, no hable de fuentes. ||| 짧게 대답하고 형용사는 쓰지 마세요. 무엇보다 출처에 대해서는 말하지 마십시오.
+ÁLVARO: ¿Me pide que no mienta o que no hable? ||| 거짓말을 하지 말라는 겁니까, 말을 하지 말라는 겁니까?
+ARRIETA: Le pido que no haga las dos cosas a la vez. ||| 둘을 동시에 하지 말라는 겁니다.
+ÁLVARO: Eso lo puedo cumplir. ||| 그건 지킬 수 있습니다.
+ARRIETA: Otra cosa. La Unidad de Negociaciones Reservadas está en suspenso. Tiene usted un despacho temporal en la quinta planta, junto a los archivadores. ||| 하나 더. 비공개협상실은 정지 상태입니다. 5층 서류 보관실 옆에 임시 사무실을 쓰세요.
+ÁLVARO: ¿Con ventana? ||| 창문은 있습니까?
+ARRIETA: Con ventana al patio. Se ve un limonero. ||| 안뜰 쪽 창이요. 레몬나무가 보입니다.
+ÁLVARO: Entonces no me puedo quejar. Gracias. ||| 그럼 불평할 수 없겠군요. 감사합니다.
+ARRIETA: No me dé las gracias todavía. Hoy decidimos si aún merece despacho. ||| 아직 감사하지 마세요. 오늘 사무실을 가질 자격이 있는지 정해지니까요.
++ comparecer = (공식 기관에) 출석하다. 'comparecer ante una comisión'
++ limpiar la casa = 집안을 정리하다. 조직의 문제를 정리·청산한다는 관용적 표현
++ en suspenso = 정지된, 보류된. 12화에서 장관이 한 말이 이어진다
++ lo de menos = 부차적인 것. 'lo de menos es el nombre'
++ merecer = ~할 자격이 있다. merecer + 명사: 'merecer despacho'
++ una respuesta breve, sin adjetivos = 짧고 형용사 없는 답변. 공식 증언의 요령을 말하는 대화체
+
+## 외교위원회 — LA COMPARECENCIA
+CALVO: Se abre la sesión de la Comisión de Asuntos Exteriores. Comparece don Álvaro Quintana Roldán, diplomático. Señor Quintana, tiene usted la palabra para una exposición inicial de diez minutos. ||| 하원 외교위원회 회의를 개회합니다. 외교관 알바로 킨타나 롤단 씨가 출석했습니다. 킨타나 씨, 10분간 모두 발언 하십시오.
+ÁLVARO: Gracias, señora presidenta. Seré más breve. Hace cinco semanas, veintidós marineros españoles y kandareños estaban retenidos en un barco. Hoy están en sus casas. Para llegar a ese resultado, cometí errores y tomé una decisión que debo explicar: obtuve datos bancarios por una vía que no fue plenamente legal. ||| 감사합니다, 위원장님. 더 짧게 하겠습니다. 5주 전 스페인과 칸다라 선원 스물두 명이 배에 억류돼 있었습니다. 오늘 그들은 집에 있습니다. 그 결과에 이르기 위해 저는 실수를 했고 설명해야 할 결정을 내렸습니다. 완전히 합법적이지는 않은 경로로 은행 자료를 얻었습니다.
+CALVO: Es una declaración llamativa para un inicio. ||| 시작치고는 눈에 띄는 진술이군요.
+ÁLVARO: Prefiero que lo sepan por mí, señora presidenta. ||| 제게서 알게 하는 쪽이 낫습니다, 위원장님.
+CALVO: Señor Beltrán, tiene el turno de preguntas. ||| 벨트란 의원, 질문 순서입니다.
+BELTRÁN: Gracias. Señor Quintana, ha dicho «una vía no plenamente legal». ¿Quiere decirnos cuál? ||| 감사합니다. 킨타나 씨, '완전히 합법적이지는 않은 경로'라고 하셨습니다. 어떤 경로였는지 말씀해 주시겠습니까?
+ÁLVARO: Un servicio amigo. No revelaré su identidad. Asumo personalmente la responsabilidad. ||| 우방 기관입니다. 그 신원은 밝히지 않겠습니다. 책임은 제가 개인적으로 지겠습니다.
+BELTRÁN: ¿Un servicio español? ||| 스페인 기관입니까?
+ÁLVARO: Un servicio que no figura en el registro de esta Comisión. ||| 이 위원회의 등록부에 없는 기관입니다.
+BELTRÁN: Es una respuesta muy cómoda. ||| 아주 편리한 답변이군요.
+ÁLVARO: Es una respuesta honesta, señor diputado. A veces coinciden. ||| 정직한 답변입니다, 의원님. 가끔은 둘이 일치하죠.
+BELTRÁN: ¿Cuánto le costó al Estado esa información? ||| 그 정보로 국가가 얼마를 썼습니까?
+ÁLVARO: Al Estado, nada. A mí, una cena y una deuda. ||| 국가에는 한 푼도요. 제게는 저녁 한 끼와 빚 하나입니다.
+BELTRÁN: ¿Una deuda con quién? ||| 누구에 대한 빚입니까?
+ÁLVARO: Con una persona que algún día me pedirá algo. Y que yo pagaré. ||| 언젠가 제게 뭔가를 청할 사람에게요. 그리고 저는 갚을 겁니다.
+BELTRÁN: ¿Y si lo que pida es ilegal? ||| 그 사람이 청하는 게 불법이라면요?
+ÁLVARO: Entonces no lo haré, y tendré que buscar otra manera de pagar. ||| 그럼 하지 않을 겁니다. 그리고 갚을 다른 방법을 찾아야겠죠.
+BELTRÁN: Señora presidenta, esto es un diplomático que reconoce haber cometido una irregularidad y se atreve a decir que no lo volverá a hacer, pero no a explicarnos cómo. ||| 위원장님, 불법을 저질렀다고 인정하는 외교관이 다시는 하지 않겠다고 감히 말하면서 어떻게 그런지는 설명하지 않고 있습니다.
+CALVO: Señor Beltrán, formule la pregunta. ||| 벨트란 의원님, 질문을 하세요.
+BELTRÁN: ¿Cómo se asegura la Comisión de que no volverá a hacerlo? ||| 위원회는 어떻게 그가 다시 하지 않으리라 확신합니까?
+ÁLVARO: No puede. Y yo tampoco puedo asegurar que no volveré a enfrentarme a una decisión parecida. Lo que puedo prometer es que la próxima vez la tomaré a la vista de ustedes. ||| 확신할 수 없습니다. 저도 비슷한 결정에 다시 직면하지 않으리라 장담할 수 없고요. 약속할 수 있는 건 다음에는 여러분의 눈앞에서 결정하겠다는 것입니다.
+CALVO: ¿Quiere explicar qué significa «a la vista de ustedes»? ||| '여러분의 눈앞에서'가 무슨 뜻인지 설명해 주시겠습니까?
+ÁLVARO: Que cualquier operación reservada futura de la Unidad se comunicará previamente a esta Comisión, en sesión secreta si hace falta. Es una propuesta. ||| 부서의 향후 모든 비공개 작전은 필요하면 비밀회의로라도 이 위원회에 사전 통지하겠다는 겁니다. 제안입니다.
+BELTRÁN: Eso es impracticable. ||| 실행할 수 없는 일입니다.
+ÁLVARO: Es difícil. No es lo mismo. ||| 어려운 겁니다. 같은 말이 아니죠.
+CALVO: Continúe, señor Beltrán. ||| 계속하세요, 벨트란 의원님.
+BELTRÁN: El señor Rodrigo Aldaz presentó una querella contra usted por revelación de secretos. ¿La conoce? ||| 로드리고 알다스 씨가 당신에 대해 비밀 누설 혐의로 고소장을 냈습니다. 알고 계십니까?
+ÁLVARO: La recibí el viernes. ||| 금요일에 받았습니다.
+BELTRÁN: ¿Qué opina? ||| 어떻게 생각하십니까?
+ÁLVARO: Que el señor Aldaz tiene derecho a defenderse. Y yo, a mostrar los papeles que lo implican: un recibo con un sello de Presidencia, un texto sustitutivo dictado en octubre de mil novecientos noventa y seis, y una hoja con sus iniciales. ||| 알다스 씨가 자신을 방어할 권리가 있다고요. 그리고 저는 그를 연루시키는 서류를 보여 줄 권리가 있고요. 총리실 도장이 찍힌 영수증, 1996년 10월에 구술된 대체 문안, 그의 머리글자가 있는 한 장입니다.
+BELTRÁN: ¿Esos papeles obran en poder de esta Comisión? ||| 그 서류는 이 위원회가 갖고 있습니까?
+ÁLVARO: Los entregué a la señora ministra. Y todo lo que obra en poder del Ministerio, esta Comisión puede solicitarlo. ||| 장관님께 제출했습니다. 그리고 부처가 가진 모든 건 이 위원회가 요청할 수 있습니다.
+CALVO: Anotado. Esta Presidencia solicitará los documentos. Señor Quintana, ¿puedo hacerle una pregunta? ||| 기록했습니다. 위원장석이 서류를 요청하겠습니다. 킨타나 씨, 질문 하나 해도 되겠습니까?
+ÁLVARO: Por supuesto. ||| 물론입니다.
+CALVO: ¿Cuánto ha costado esta crisis, en total? Quiero una cifra. ||| 이번 위기에 총 얼마가 들었습니까? 숫자를 원합니다.
+ÁLVARO: ¿En euros o en otra moneda? ||| 유로로요, 다른 통화로요?
+CALVO: ¿Qué otra moneda tiene usted? ||| 다른 어떤 통화가 있습니까?
+ÁLVARO: Credibilidad, señora presidenta. En euros, el coste directo ha sido de unos trescientos mil, en viajes, un informe jurídico y una indemnización de fletes. En credibilidad, todavía no lo sé. Depende de lo que esta Comisión decida hoy. ||| 신뢰입니다, 위원장님. 유로로는 직접 비용이 약 30만, 출장, 법률 보고서, 운임 보상입니다. 신뢰로는 아직 모릅니다. 오늘 위원회가 무엇을 결정하느냐에 달려 있습니다.
+CALVO: Es usted un hombre que sabe poner la pelota en nuestro tejado. ||| 우리 쪽으로 공을 잘 넘기는 분이군요.
+ÁLVARO: Lo aprendí de un maestro que juega al ajedrez. ||| 체스를 두는 스승에게서 배웠습니다.
++ turno de preguntas = 질문 순서. 의회·청문회의 정해진 발언 순서
++ revelación de secretos = 비밀 누설(죄). 형법상 범죄 명칭
++ querella = 고소장. 형사소송에서 피해자가 제기하는 형식
++ obrar en poder de = ~의 수중에 있다. 공문서에서 쓰는 표현
++ poner la pelota en el tejado de alguien = 공을 누구 지붕에 올리다. 책임을 상대에게 넘기는 관용구
++ a la vista de ustedes = 여러분의 눈앞에서, 공개적으로. 1부의 'a la vista de todos'와 같은 계열
+## 오후의 증인 — EL TESTIGO DE ALCALÁ
+CALVO: Se reanuda la sesión. Comparece como testigo don Evaristo Maldonado, jefe de sala del Archivo General de la Administración. Don Evaristo, jura o promete decir verdad. ||| 회의를 재개합니다. 행정 일반문서고 열람실장 에바리스토 말도나도 씨가 증인으로 출석했습니다. 에바리스토 씨, 진실을 말할 것을 맹세 또는 서약합니까?
+EVARISTO: Lo juro. Y le advierto que lo voy a decir despacio, porque la rodilla me duele más que los diputados. ||| 맹세합니다. 그리고 천천히 말하겠다고 미리 말씀드립니다. 무릎이 국회의원들보다 더 아프니까요.
+CALVO: Tómese su tiempo. ||| 천천히 하세요.
+EVARISTO: Señora presidenta, usted me pregunta por unos folios que salieron de mi archivo en mil novecientos noventa y seis. Le contesto con un libro. El libro de préstamos. Está aquí, certificado. ||| 위원장님, 1996년에 제 문서고에서 반출된 장들에 대해 물으셨죠. 책으로 답하겠습니다. 대출 장부입니다. 여기 공증해서 가져왔습니다.
+BELTRÁN: Don Evaristo, ¿no le parece extraño que un archivero guarde silencio veintiocho años? ||| 에바리스토 씨, 문서 관리인이 28년 동안 침묵한 게 이상하지 않습니까?
+EVARISTO: Me parece extraño que un diputado lo pregunte con esa cara de sorpresa. ||| 의원이 그렇게 놀란 얼굴로 묻는 게 이상해 보입니다.
+BELTRÁN: Pregunto lo que debo. ||| 물어야 할 걸 묻는 겁니다.
+EVARISTO: Y yo respondo lo que puedo. Calló quien tenía miedo. El libro no calló. ||| 저도 답할 수 있는 걸 답합니다. 입을 다문 건 두려웠던 사람입니다. 장부는 입을 다물지 않았죠.
+CALVO: Don Evaristo, ¿qué le parece lo que ha ocurrido en estas semanas? ||| 에바리스토 씨, 이 몇 주간 일어난 일을 어떻게 보십니까?
+EVARISTO: Me parece lo que ya pasó una vez, señora presidenta. En Cádiz, en mil ochocientos once, cuando las Cortes abrieron sus puertas. Los diputados debatían con el público mirándoles. Las sesiones eran públicas. ||| 한 번 일어난 일 같습니다, 위원장님. 1811년 카디스에서 의회가 문을 열었을 때요. 의원들은 방청객이 지켜보는 가운데 토론했습니다. 회의가 공개였죠.
+CALVO: Es cierto. Las Cortes de Cádiz establecieron la publicidad de las sesiones. ||| 맞습니다. 카디스 의회는 회의 공개를 확립했죠.
+EVARISTO: Y eso incomodaba a muchos, porque cuando todo es público, nada se puede arreglar en un pasillo. Pero fue lo que sostuvo la legitimidad de aquella Constitución. ||| 그리고 많은 사람이 불편해했습니다. 모든 게 공개되면 복도에서 아무것도 조율할 수 없으니까요. 하지만 그것이 그 헌법의 정당성을 떠받쳤습니다.
+BELTRÁN: ¿Adónde quiere llegar? ||| 어디로 가려는 겁니까?
+EVARISTO: A que lo que el señor Quintana ha hecho de manera clandestina, usando datos que no debía, esta Comisión puede hacerlo bien: de manera abierta. Que los documentos del anexo se publiquen enteros. Que las cuentas del Consejo de Pesca se publiquen enteras. Y que quien tenga miedo de la publicidad, lo diga. ||| 알바로 킨타나 씨가 몰래, 쓰면 안 되는 자료로 한 일을 이 위원회는 제대로 할 수 있다는 겁니다. 공개적으로요. 부속서 문서를 전문 공개하고, 어업위원회 계좌를 전부 공개하십시오. 그리고 공개가 두려운 사람이 있다면 그렇게 말하라고 하십시오.
+CALVO: Eso es una propuesta formal. ||| 공식 제안이군요.
+EVARISTO: Es una costumbre de archivero. Los papeles que se publican se defienden solos. ||| 문서 관리인의 버릇입니다. 공개된 서류는 스스로를 지킵니다.
+ÁLVARO: Señora presidenta, ¿puedo intervenir? ||| 위원장님, 발언해도 되겠습니까?
+CALVO: Tiene la palabra. ||| 발언하세요.
+ÁLVARO: Apoyo la propuesta del testigo. Y añado algo: la publicación debe incluir los doce folios en francés y en español, para que cualquier ciudadano compruebe la diferencia entre original y traducción. ||| 증인의 제안을 지지합니다. 그리고 덧붙이겠습니다. 공개에는 12장의 프랑스어본과 스페인어본이 함께 포함돼야 합니다. 어떤 시민이든 원본과 번역의 차이를 확인할 수 있게요.
+BELTRÁN: ¿Y los datos bancarios de ese servicio amigo? ||| 그 우방 기관의 은행 자료는요?
+ÁLVARO: Esos no se publican. Porque no se obtuvieron conforme a derecho, y publicarlos sería cometer el mismo error dos veces. ||| 그건 공개하지 않습니다. 적법하게 얻은 게 아니고, 공개하면 같은 실수를 두 번 저지르는 셈이니까요.
+BELTRÁN: Es una contradicción. ||| 모순입니다.
+ÁLVARO: Es una distinción, señor diputado. Lo que se hace a la vista de todos se defiende. Lo que se hace a escondidas se paga. ||| 구별입니다, 의원님. 모두가 보는 곳에서 한 일은 변호되고, 숨어서 한 일은 값을 치르죠.
+CALVO: Se somete a votación la propuesta de publicación íntegra del anexo y las cuentas, sin los datos del servicio. ||| 부속서와 계좌의 전문 공개를, 기관 자료는 제외하고, 표결에 부칩니다.
+CALVO: Votos a favor. Diecisiete. En contra. Cuatro. Abstenciones. Dos. Queda aprobada. ||| 찬성 열일곱. 반대 네 명. 기권 두 명. 가결되었습니다.
+BELTRÁN: Dejo constancia de mi voto particular. ||| 제 개별 의견을 기록으로 남깁니다.
+CALVO: Constará. Señor Quintana, esta Presidencia considera que su comparecencia ha sido útil. No es una absolución. Es un punto de partida. ||| 기록됩니다. 킨타나 씨, 위원장석은 당신의 출석이 유익했다고 봅니다. 무죄 선고가 아니라 출발점입니다.
+ÁLVARO: Lo prefiero, señora presidenta. Las absoluciones no obligan a nada. ||| 그쪽이 낫습니다, 위원장님. 무죄 선고는 아무것도 요구하지 않으니까요.
++ jurar o prometer = 맹세하거나 서약하다. 스페인 의회는 종교적 의미를 피해 '약속(promesa)'도 허용한다
++ debatían con el público mirándoles = 'con + 명사 + 현재분사'는 동시 상황 묘사. '방청객이 지켜보는 가운데'
++ Cortes de Cádiz (1810–1812) = 나폴레옹 점령기에 열린 스페인 제헌의회. '회의 공개(publicidad de las sesiones)' 원칙을 채택했다. 이 화의 해법 논거
++ voto particular = 개별 의견(소수 의견). 표결 후 반대 의견을 기록에 남기는 제도
++ a escondidas = 몰래. 'a la vista de todos'의 반대말
++ se somete a votación = 표결에 부쳐진다. 'someter a + 명사'는 '~에 맡기다·부치다'
+
+## 복도에서 — LA SALIDA
+ARRIETA: Ha estado bien. Demasiado bien. ||| 잘하셨습니다. 지나치게요.
+ÁLVARO: ¿Eso es un elogio o una advertencia? ||| 칭찬입니까, 경고입니까?
+ARRIETA: Las dos cosas. Mañana el periódico dirá «Quintana gana la batalla de la Comisión». Y a mí me preguntarán por qué mi Ministerio tiene un funcionario que gana batallas. ||| 둘 다예요. 내일 신문은 '킨타나, 위원회 전투에서 승리'라고 쓸 겁니다. 그리고 제게는 우리 부처에 왜 전투에서 이기는 공무원이 있느냐고 물을 거고요.
+ÁLVARO: No pretendía ganar ninguna batalla, señor secretario. ||| 어떤 전투에서도 이기려던 게 아닙니다, 차관님.
+ARRIETA: Eso es lo peor. Que no lo pretendía y lo consiguió. ||| 그게 가장 나쁜 점이죠. 의도하지 않았는데 이뤄냈다는 것.
+ÁLVARO: ¿Y qué sigue? ||| 그럼 이제 어떻게 됩니까?
+ARRIETA: La Unidad seguirá en suspenso hasta fin de año. Usted me hará informes semanales desde su despacho del limonero. Y no tendrá firma, ni cargo, ni escolta. ||| 부서는 연말까지 정지 상태입니다. 레몬나무 사무실에서 주간 보고서를 쓰세요. 서명도 직함도 경호도 없습니다.
+ÁLVARO: Parece una jubilación anticipada. ||| 조기 은퇴 같군요.
+ARRIETA: Es una cuarentena. Se parece, pero hay una diferencia: de la cuarentena se sale. ||| 격리입니다. 비슷하지만 차이가 있죠. 격리에서는 나옵니다.
+ÁLVARO: Siempre y cuando no haya otra epidemia. ||| 다른 전염병이 돌지 않는다면요.
+ARRIETA: Siempre hay otra epidemia. Buenas tardes, Quintana. ||| 전염병은 늘 있죠. 안녕히 가세요, 킨타나.
++ cuarentena = 격리(40일). 원래 'cuarenta'(40)에서 온 말
++ jubilación anticipada = 조기 은퇴. 'anticipado'는 '앞당겨진'
++ siempre y cuando + 접속법 = ~하는 한. 조건을 강조하는 접속사구
++ despacho del limonero = 레몬나무 사무실. 불평 대신 소박한 위안을 말하는 유머
++ sin firma, ni cargo, ni escolta = 부정 병렬. 'sin A, ni B, ni C'
++ la batalla = 전투. 여기서는 정치적 승패를 비유
+
+## 임시 사무실의 밤 — EL DESPACHO DEL LIMONERO
+MARINA: ¿Cómo ha ido? Me han dicho que aprobaron la publicación íntegra. ||| 어떻게 됐어요? 전문 공개가 가결됐다고 들었어요.
+ÁLVARO: Diecisiete a favor. Gracias a un archivero con rodilla mala. ||| 찬성 열일곱. 무릎이 안 좋은 문서 관리인 덕분에요.
+MARINA: Se lo merece. ¿Y usted? ||| 그분은 그럴 자격이 있죠. 선배님은요?
+ÁLVARO: Estoy en cuarentena. Con un limonero. Se ven tres limones. Los he contado. ||| 격리 중이야. 레몬나무와 함께. 레몬이 세 개 보여. 세어 봤어.
+MARINA: Eso es peligroso. Cuando uno cuenta los limones es que no tiene nada que hacer. ||| 위험해요. 레몬을 세기 시작하면 할 일이 없다는 뜻이에요.
+ÁLVARO: Algo tengo. Me ha llegado una carta. Sin remite. Bueno, con membrete. Sueco. ||| 뭔가는 있어. 편지가 왔어. 발신인 주소는 없고, 아니 머리글은 있지. 스웨덴이야.
+MARINA: ¿Boreal? ||| 보레알이에요?
+ÁLVARO: «Boreal Capital AB, Estocolmo». Dice que han adquirido participaciones relevantes en Atlántica Química y que desean «contribuir de manera constructiva a la reparación de las familias de Punta Sal». ||| '보레알 캐피털 AB, 스톡홀름'. 아틀란티카 키미카 지분을 상당량 취득했고 '푼타 살 가족들의 배상에 건설적으로 기여하길 원한다'고 쓰여 있어.
+MARINA: Qué amables. ||| 참 친절하네요.
+ÁLVARO: Adjuntan un modelo de acuerdo. A cada familia, tres mil quinientos euros. A cambio: renuncia a toda acción, confidencialidad absoluta y cesión de cualquier crédito futuro a favor de «una entidad designada por Boreal». ||| 합의서 양식을 첨부했어. 가구마다 3,500유로. 그 대가로 모든 소송 포기, 절대적 비밀유지, 그리고 향후 모든 채권을 '보레알이 지정한 기관'에 양도하는 거야.
+MARINA: Es el sobre. ||| 봉투네요.
+ÁLVARO: Es el sobre con membrete sueco. El mismo precio del silencio, en una moneda más educada. ||| 스웨덴 머리글이 달린 봉투지. 침묵의 값이 똑같고, 통화만 더 예의 바를 뿐이야.
+MARINA: ¿Qué piensa hacer? ||| 어떻게 하실 거예요?
+ÁLVARO: No tengo cargo, ni firma, ni escolta. Tengo un limonero. Pero tengo algo más: la fecha. La carta dice que la oferta caduca el treinta y uno de diciembre. ||| 직함도 서명도 경호도 없어. 레몬나무가 있지. 하지만 하나 더 있어. 날짜. 편지는 제안이 12월 31일에 만료된다고 쓰여 있어.
+MARINA: Siete semanas. ||| 7주네요.
+ÁLVARO: Siete semanas para que nueve personas de tres continentes decidan una reparación antes de que doscientas familias firmen un papel por tres mil quinientos euros. ||| 대륙 세 곳의 아홉 사람이 이백 가구가 3,500유로에 서명하기 전에 배상을 결정해야 하는 7주지.
+MARINA: Los Nueve. ¿Ya los han nombrado? ||| 아홉 위원회요. 이미 지명됐어요?
+ÁLVARO: Evaristo, de España. Falta el segundo y el tercero. Los kandareños los han elegido los pescadores. Los europeos, la directora Verbeke. ||| 스페인 쪽은 에바리스토. 두 번째와 세 번째가 남았어. 칸다라 쪽은 어부들이 뽑았고. 유럽 쪽은 베르베케 국장이 맡았지.
+MARINA: Yo me ocupo de lo europeo. ||| 유럽 쪽은 제가 맡을게요.
+ÁLVARO: Tú ya no tienes ese cargo. ||| 너는 이제 그 직책이 아니야.
+MARINA: Tengo un teléfono. Y una directora que me debe un favor. ||| 전화는 있어요. 그리고 제게 빚진 국장님도요.
+ÁLVARO: Qué buena escuela, Bruselas. ||| 브뤼셀이 좋은 학교로군.
+MARINA: Es lo que me enseñó usted. Es más fácil devolver favores que pedirlos. ||| 선배님께 배운 거예요. 호의는 청하기보다 갚기가 더 쉽다고.
+ÁLVARO: Yo nunca dije eso. ||| 난 그런 말 한 적 없는데.
+MARINA: Lo dijo con la cara. ||| 얼굴로 하셨어요.
++ membrete = (문서의) 머리글, 로고 영역. 8화에서도 나온 어휘
++ cesión de crédito = 채권 양도. 법률 용어로 받을 권리를 제3자에게 넘기는 것
++ participaciones relevantes = 상당한 지분. 'participación'은 지분
++ remite / remitente = 발신인 / 발송자. 'sin remite'는 발신 주소가 없는
++ caduca = 만료된다. 'caducar'는 기한이 지나 효력을 잃다
++ me ocupo de = ~을 맡다. 'ocuparse de'
