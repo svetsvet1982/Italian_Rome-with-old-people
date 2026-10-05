@@ -1,0 +1,110 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 5
+@title Los Nueve
+@ko 아홉 사람
+@setting 12월 초 제네바 호숫가 빌라 대회의실, 9인 위원회 첫 정식 회의 → 휴식 시간 → 저녁
+@level B2-C1
+@cast ÁLVARO | 외교관 · 에바리스토의 자문, 44세
+@cast EVARISTO | 문서고 수석 관리인, 스페인 위원, 72세
+@cast OLMEDO | 판사, 스페인 위원, 61세
+@cast ELISE | 유럽 위원, 위원장 후보, 54세
+@cast AWA | 칸다라(푼타 살) 위원, 60세
+@cast IBOU | 칸다라(푼타 살) 위원, 51세
+@cast KHADY | 칸다라 위원, 변호사, 31세
+@cast BERG | 보레알 수석 변호사, 38세
+@cast MARINA | 엘리제 베르베케의 보좌역, 브뤼셀 직원
+@note 이 화는 '일반 협상' 화입니다. 위원회의 규칙을 정하는 절차 협상(rules of procedure)이 중심이며, 의사규칙 어휘(orden del día 안건, quórum 정족수, mayoría cualificada 특별다수, voz y voto 발언권과 투표권, declaración de intereses 이해관계 신고)를 익힐 수 있습니다. 해법의 논거는 카스페 합의(1412)의 표결 규칙과 스페인 어부 조합(cofradía)의 공개 분배 관습입니다.
+@next 2부 6화 — «El enviado a Ulán Bator»(울란바토르 특사) — 신임 차관 아리에타는 보레알의 제안을 받아들이는 편이 국가 재정에 이롭다고 보고 알바로를 먼 곳으로 보내려 한다. 알바로는 늙은 스승의 서재를 찾아간다.
+
+## 회의 전 — EL VESTÍBULO
+MARINA: ¡Álvaro! Por fin. Mira qué traje llevo. ||| 알바로! 드디어요. 제 정장 좀 보세요.
+ÁLVARO: Muy elegante. Parece una funcionaria de Bruselas. ||| 아주 우아해. 브뤼셀 직원 같네.
+MARINA: Es que soy una funcionaria de Bruselas. Pero hoy trabajo para la directora Verbeke como secretaria de la Comisión. Y te informo de que nadie sabe que eres el autor de este caos. ||| 브뤼셀 직원 맞아요. 하지만 오늘은 베르베케 국장님의 위원회 간사로 일해요. 그리고 알려 드리자면, 이 혼란의 장본인이 선배님이라는 건 아무도 몰라요.
+ÁLVARO: Qué discreta. ||| 참 신중하군.
+MARINA: Como me enseñó usted. Tienes un pase de «asesor de la delegación española». No tienes voto ni voz, salvo que don Evaristo te ceda la palabra. ||| 선배님이 가르쳐 주신 대로요. 선배님 출입증은 '스페인 대표단 자문'이에요. 투표권도 발언권도 없고요, 에바리스토 선생님이 발언권을 넘겨 주시는 경우만 빼고.
+ÁLVARO: Una voz prestada. Muy conveniente para un hombre sin cargo. ||| 빌린 목소리라. 직함 없는 사람에게 아주 편리하군.
+MARINA: Los nueve están llegando. Los kandareños vienen en grupo, con trajes alquilados en Ginebra. La señora Awa se ha negado a ponerse zapatos nuevos. Dice que sus pies tienen derecho a una opinión. ||| 아홉 분이 도착하고 있어요. 칸다라 분들은 제네바에서 빌린 정장으로 함께 오세요. 아와 부인은 새 구두를 신지 않겠다고 했어요. 발에도 의견을 낼 권리가 있다면서요.
+ÁLVARO: Tiene razón. ¿Y los europeos? ||| 맞는 말씀이네요. 유럽 쪽은요?
+MARINA: Elise, Catarina Moura y el profesor Weber. Ya están dentro. Los españoles son don Evaristo, la magistrada Olmedo y el doctor Salas. ||| 엘리제, 카타리나 모우라, 베버 교수요. 이미 안에 있어요. 스페인 쪽은 에바리스토 선생님, 올메도 판사님, 살라스 박사님이고요.
+ÁLVARO: ¿Qué sabes de la magistrada Olmedo? ||| 올메도 판사에 대해 아는 게 있어?
+MARINA: Teresa Olmedo, sesenta y un años. Magistrada del Tribunal Supremo, sala de lo Civil. Pulcra, brillante, sin una mancha. La recomendó el Consejo General del Poder Judicial. ||| 테레사 올메도, 예순한 살. 대법원 민사부 판사. 깔끔하고 뛰어나고 흠이 없죠. 사법위원회가 추천했어요.
+ÁLVARO: Qué buena recomendación. ||| 좋은 추천이군.
+MARINA: ¿Por qué lo dice así? ||| 왜 그렇게 말하세요?
+ÁLVARO: Porque cuando alguien no tiene ni una mancha, a veces es que la ha limpiado muy bien. Es una frase de Berni. No me hagas caso. ||| 얼룩 하나 없는 사람은 가끔 아주 잘 닦은 사람이라서. 베르니가 한 말이야. 신경 쓰지 마.
+MARINA: Yo sí le hago caso. A Berni, no a usted. ||| 저는 신경 써요. 베르니 선생님 말씀에요. 선배님 말에는 아니고요.
+ÁLVARO: Qué crueldad. ||| 잔인하군.
+MARINA: Es mi nueva forma de cariño. ||| 제 새로운 애정 표현이에요.
++ ceder la palabra = 발언권을 넘기다. 회의 용어
++ voz y voto = 발언권과 투표권. 'sin voz ni voto'는 둘 다 없이
++ pase = 출입증. 'pase de asesor'
++ hacer caso = 귀담아듣다. 'no me hagas caso'는 '신경 쓰지 마'
++ Consejo General del Poder Judicial = 스페인 사법부 최고 관리 기구
++ pulcra = 깔끔한, 흠잡을 데 없는. 'pulcro'의 여성형
+
+## 첫 회의 — LA SESIÓN CONSTITUTIVA
+ELISE: Señoras y señores, declaro abierta la sesión constitutiva de la Comisión de los Nueve para la Reparación de Punta Sal. Quiero empezar con una pregunta práctica: ¿en qué lenguas trabajamos? ||| 여러분, 푼타 살 배상 9인 위원회의 구성 회의를 개회합니다. 실무적인 질문으로 시작하겠습니다. 어떤 언어로 일합니까?
+AWA: En wolof, primero. Si no lo entendemos en wolof, no lo entendemos. ||| 월로프어가 먼저예요. 월로프어로 이해하지 못하면 이해하지 못한 거죠.
+KHADY: Y en francés, que es la lengua de los documentos. ||| 그리고 프랑스어요, 서류의 언어니까요.
+EVARISTO: Y español, que es la que yo hablo. Y la que me da más trabajo. ||| 그리고 스페인어요, 내가 하는 언어이자 가장 일을 많이 시키는 언어지.
+WEBER: Y inglés, por una cuestión de equilibrio, aunque confieso que me sentiré poco a gusto. ||| 그리고 영어도요, 균형을 위해서입니다, 솔직히 편치는 않겠지만요.
+ELISE: Cuatro lenguas. Propongo que cada intervención se interprete a las otras tres, y que las actas se redacten en las cuatro. ¿Alguna objeción? ||| 언어 네 개입니다. 모든 발언을 나머지 세 언어로 통역하고, 회의록은 네 언어로 작성하자고 제안합니다. 이의 있습니까?
+OLMEDO: Ninguna. Aunque el coste será considerable. ||| 없습니다. 다만 비용이 상당할 겁니다.
+ELISE: El coste de no entenderse es mayor. ¿Se aprueba? ||| 이해하지 못하는 비용이 더 큽니다. 승인합니까?
+VARIOS: Aprobado. ||| 가결.
+ELISE: Segundo punto: la publicidad de las sesiones. Propongo que sean públicas y se retransmitan en directo. ||| 두 번째 안건. 회의 공개입니다. 회의를 공개하고 생중계할 것을 제안합니다.
+OLMEDO: Señora presidenta, hablo con la experiencia de una jueza. Las deliberaciones de un tribunal son reservadas por una razón: que cada miembro pueda cambiar de opinión sin sufrir un linchamiento. Propongo que las audiencias sean públicas, pero las deliberaciones, no. ||| 의장님, 판사로서의 경험으로 말씀드립니다. 재판부의 합의는 비공개입니다. 각 위원이 린치를 당하지 않고 의견을 바꿀 수 있도록요. 심문은 공개하되 합의는 공개하지 않는 걸 제안합니다.
+EVARISTO: Magistrada, permítame una objeción de archivero. En las Cortes de Cádiz, las sesiones fueron públicas, también las más difíciles. Y ninguna Constitución se defendió mejor. ||| 판사님, 문서 관리인으로서 이의를 제기하겠습니다. 카디스 의회에서는 회의가 공개였고 가장 어려운 회의도 그랬습니다. 그러고 나서 그 헌법만큼 잘 방어된 헌법도 없었죠.
+OLMEDO: Don Evaristo, esto no es un parlamento. Es una comisión que decide el destino de doscientas catorce familias. Tiene que poder deliberar con serenidad. ||| 에바리스토 씨, 이건 의회가 아닙니다. 214가구의 운명을 결정하는 위원회입니다. 차분하게 논의할 수 있어야 해요.
+EVARISTO: Con serenidad sí. A escondidas, no. ||| 차분하게는 좋소. 숨어서는 안 되고.
+OLMEDO: La publicidad de las deliberaciones puede condicionar el voto de los miembros. ||| 합의 공개는 위원들의 표결을 구속할 수 있습니다.
+IBOU: Señora jueza, ¿le puedo contar cómo reparten el pescado en mi barca? ||| 판사님, 제 배에서 생선을 어떻게 나누는지 말씀드려도 될까요?
+ELISE: Tiene la palabra, señor Ibou. ||| 발언하세요, 이부 씨.
+IBOU: En una barca, el patrón no reparte solo en la sombra. El pescado se pone en el suelo, delante de todos. Cada uno ve cuántas partes hay y para quién. Y el que reparte se queda con la última parte. ||| 배에서는 선장이 그늘에서 혼자 나누지 않습니다. 생선을 바닥에 모두 앞에 놓습니다. 누구든 몇 몫이 있고 누구 것인지 봅니다. 그리고 나누는 사람이 마지막 몫을 가집니다.
+EVARISTO: Eso es exactamente la costumbre de las cofradías de pescadores del Cantábrico. Desde el siglo trece. El «partidor» reparte delante de todos y se queda con la última parte, para que no tenga motivo de repartir mal. ||| 칸타브리아 어부 조합(코프라디아)의 관습과 정확히 같소. 13세기부터요. '분배인(partidor)'이 모두 앞에서 나누고 마지막 몫을 가져서 잘못 나눌 이유가 없게 하지.
+IBOU: Entonces mi abuelo era un jurista español. ||| 그럼 제 할아버지는 스페인 법학자였군요.
+EVARISTO: Su abuelo era un hombre sensato. En el caso de la cofradía, además, todos sabían quién era el último. ||| 할아버지는 분별 있는 분이었지. 조합에서는 게다가 누가 마지막인지 모두가 알았고.
+ELISE: Señor Ibou, ¿qué propone? ||| 이부 씨, 무엇을 제안하십니까?
+IBOU: Que lo que se decida, se vea. Pero que cada uno vote primero según su conciencia, sin que le miren la mano. ||| 결정되는 건 보이게 하자는 겁니다. 하지만 각자 먼저 양심에 따라 투표하되 손을 지켜보지는 않게 하자고요.
+OLMEDO: Es lo que yo decía. ||| 제가 한 말입니다.
+IBOU: No exactamente, señora. Usted dice que nadie debería ver cómo se decide. Yo digo que todos deben ver cuánto se reparte y a quién, pero cada uno decide su parte. ||| 정확히 그렇진 않습니다, 부인. 판사님은 아무도 어떻게 결정하는지 보지 말아야 한다고 하셨죠. 저는 얼마를 누구에게 나누는지는 모두가 봐야 하고, 각자 자기 몫은 스스로 정한다고 말하는 겁니다.
+ELISE: Una distinción útil. Propongo: audiencias y votaciones finales, públicas. Las deliberaciones intermedias, reservadas, pero con acta íntegra que se publica al cerrar el caso. ||| 유용한 구별입니다. 제안합니다. 심문과 최종 표결은 공개, 중간 합의는 비공개로 하되 사건 종결 시 전체 회의록을 공개합니다.
+OLMEDO: Lo acepto como solución intermedia. ||| 중간 해법으로 받아들이겠습니다.
+ELISE: ¿Se aprueba? ||| 승인합니까?
+VARIOS: Aprobado. ||| 가결.
++ sesión constitutiva = 구성 회의. 위원회가 처음 열려 조직을 정하는 회의
++ a escondidas = 몰래, 숨어서. 2부 1화에서 나온 어휘의 반복
++ linchamiento = 린치, 여론의 집단 공격
++ partidor = (옛) 분배인. 어부 조합에서 어획물을 나누는 사람. 나누는 사람이 마지막 몫을 가져 공정을 보장했다. 이 화의 논거
++ cofradía de pescadores = 어부 조합. 스페인 해안 지역 어부들의 전통적인 자치 조직
++ acta íntegra = 전문 회의록. 'íntegro'는 '완전한'
+
+## 표결 규칙과 관찰자 — LA REGLA DE CASPE
+ELISE: Tercer punto: la regla de decisión. ¿Cómo adoptamos una resolución? ||| 세 번째 안건. 의결 규칙입니다. 결의는 어떻게 합니까?
+OLMEDO: Mayoría simple. Cinco votos de nueve. Es lo habitual en todos los tribunales colegiados. ||| 단순 과반입니다. 아홉 중 다섯 표. 모든 합의제 재판부에서 흔한 방식이죠.
+EVARISTO: Magistrada, perdone otra vez. En mil cuatrocientos doce, nueve compromisarios decidieron en Caspe quién sería rey de Aragón. Eran tres por cada reino: Aragón, Valencia y Cataluña. La regla era que para decidir se necesitaban seis votos, y que entre ellos hubiera al menos uno de cada reino. ||| 판사님, 또 죄송합니다. 1412년 카스페에서 아홉 명의 합의 위원이 누가 아라곤의 왕이 될지 결정했소. 왕국별로 세 명씩, 아라곤, 발렌시아, 카탈루냐였지. 규칙은 결정에 여섯 표가 필요하고 그중 각 왕국 출신이 적어도 한 명씩 있어야 한다는 것이었소.
+OLMEDO: Una anécdota histórica no es un criterio jurídico. ||| 역사적 일화는 법적 기준이 아닙니다.
+EVARISTO: Es un precedente de nueve personas de tres orígenes que tenían que decidir sin que nadie ganara de antemano. Aquí también somos nueve y de tres orígenes. ||| 세 출신의 아홉 사람이 누구도 미리 이기지 않고 결정해야 했던 선례요. 여기도 아홉 명이고 세 출신이오.
+KHADY: Con cinco votos de nueve, una sola procedencia más dos votos de otra pueden decidir contra la tercera. Con seis incluyendo cada procedencia, nadie queda fuera. ||| 아홉 중 다섯 표라면 한 출신 전원과 다른 출신 두 표로 세 번째 출신에 반해 결정할 수 있습니다. 각 출신을 포함한 여섯 표라면 누구도 소외되지 않죠.
+WEBER: Admito que eso refuerza la legitimidad. Aunque complica la decisión. ||| 정당성을 강화한다는 건 인정합니다. 결정은 복잡해지지만요.
+ELISE: Una decisión debe ser difícil si afecta a doscientas catorce vidas. ||| 214명의 삶에 영향을 주는 결정이라면 어려워야 합니다.
+OLMEDO: Si no se alcanza la mayoría cualificada, ¿qué ocurre? ||| 특별다수에 이르지 못하면 어떻게 됩니까?
+EVARISTO: Se sigue hablando. Como en Caspe. Dos años duró el proceso. Aquí no tenemos dos años, pero sí unas semanas. ||| 계속 이야기하는 거요. 카스페처럼. 그곳은 과정이 2년이었지. 여기는 2년은 없지만 몇 주는 있소.
+OLMEDO: Lo someteré a votación. Pero hago constar mi reserva: seis de nueve es un listón alto. ||| 표결에 부치겠습니다. 하지만 제 유보를 기록해 두죠. 아홉 중 여섯은 높은 문턱입니다.
+ELISE: Constará. Votos a favor de la mayoría cualificada de seis, con al menos un miembro de cada grupo. ||| 기록하겠습니다. 각 그룹에서 최소 한 명을 포함한 여섯 표의 특별다수에 찬성하시는 분.
+ELISE: Siete a favor. Dos en contra. Aprobada. ||| 찬성 일곱, 반대 둘. 가결되었습니다.
+BERG: Señora presidenta, ¿puedo intervenir? ||| 의장님, 발언해도 되겠습니까?
+ELISE: ¿Con qué calidad, señorita Berg? Esta es una sesión de los miembros. ||| 어떤 자격으로요, 베르그 씨? 이건 위원들의 회의입니다.
+BERG: En calidad de representante de Boreal Capital, parte interesada, que solicita ser admitida como observadora con derecho a intervención. ||| 이해당사자인 보레알 캐피털의 대표 자격으로, 발언권이 있는 참관인으로 인정해 달라고 요청합니다.
+IBOU: ¿Parte interesada en qué? ||| 무엇에 이해당사자입니까?
+BERG: En el resultado, naturalmente. Y en el mecanismo. ||| 물론 결과에요. 그리고 절차에요.
+OLMEDO: Creo que la presencia de la parte que va a pagar es útil para que el proceso sea realista. ||| 지급할 당사자의 참여가 절차를 현실적으로 만드는 데 도움이 된다고 생각합니다.
+EVARISTO: Magistrada, la parte que paga ya tiene sus propios abogados. ||| 판사님, 지급할 당사자는 이미 자기 변호사들이 있소.
+OLMEDO: Y la parte que cobra, los suyos. Se llama contradicción. ||| 그리고 받을 당사자도 자기 변호사가 있죠. 대심(對審) 원칙이라고 합니다.
++ sesión de los miembros = 위원들의 회의. 'miembro'는 위원
++ mayoría cualificada = 특별다수(가중 다수). 단순 과반보다 높은 요건
++ listón alto = 높은 문턱. 'listón'은 높이뛰기 막대에서 온 말로 기준을 비유
++ hacer constar mi reserva = 유보 의견을 기록에 남기다
++ calidad = 자격. 'en calidad de'는 ~의 자격으로
++ contradicción = 대심(對審), 반박. 양측이 모두 의견을 말하는 소송 원칙

@@ -1,0 +1,103 @@
+## 참관인 문제 — LA OBSERVADORA
+ELISE: Señorita Berg, entiendo su solicitud. Antes de decidir, quiero oír a los miembros. Señora Awa. ||| 베르그 씨, 요청은 이해합니다. 결정 전에 위원들의 말을 듣고 싶습니다. 아와 부인.
+AWA: Yo no tengo nada contra esta señorita. Tiene buena letra. Pero hace una semana vino un muchacho a mi pueblo diciendo que unos papeles eran un recibo. Hoy ella dice que quiere sentarse con nosotros. ||| 저는 이 아가씨에게 아무 감정이 없어요. 글씨는 예쁘시죠. 하지만 일주일 전 한 젊은이가 우리 마을에 와서 어떤 서류가 영수증이라고 했어요. 오늘 이분은 우리와 같이 앉고 싶다고 하고요.
+BERG: El empleado que usted menciona ya no trabaja con nosotros. ||| 말씀하신 직원은 더는 저희와 일하지 않습니다.
+AWA: Qué rápido se despide a la gente cuando se descubren los papeles. Eso lo aprendí hace cuarenta años en el mercado. ||| 서류가 들통나면 사람을 참 빨리 내보내네요. 40년 전 시장에서 배운 거예요.
+KHADY: Señora presidenta, propongo una solución. Que Boreal pueda observar, con voz pero sin voto. Pero con dos condiciones: primera, que sus intervenciones se produzcan siempre en último lugar, después de los representantes de las familias. Segunda, que su presencia vaya acompañada de la presentación pública de todos sus documentos relativos a Punta Sal. ||| 의장님, 해법을 제안합니다. 보레알이 발언권은 있으나 투표권은 없는 참관인이 될 수 있게 하되 두 조건을 붙입니다. 첫째, 발언은 항상 가족 대표들 이후 마지막 순서로 할 것. 둘째, 참석과 함께 푼타 살과 관련된 모든 문서를 공개 제출할 것.
+BERG: ¿Todos los documentos? ||| 모든 문서요?
+KHADY: Todos. El modelo de acuerdo, la lista de familias contactadas, las cuentas de pagos y las comunicaciones con la fiduciaria. ||| 전부요. 합의서 양식, 접촉한 가족 명단, 지급 계정, 신탁회사와의 교신까지.
+BERG: Eso incluye información comercial confidencial. ||| 그건 영업상 기밀 정보를 포함합니다.
+IBOU: En la barca, cuando uno entra, enseña su red. Delante de todos. Así se sabe quién la usa y para qué. ||| 배에서는 누가 타면 자기 그물을 보여 줍니다. 모두 앞에서요. 그래야 누가 어디에 쓰는지 알죠.
+OLMEDO: Señora presidenta, me parece excesivo exigir la totalidad de las comunicaciones. Propongo limitar la presentación a los documentos directamente relativos a la oferta de acuerdo. ||| 의장님, 모든 교신을 요구하는 건 지나쳐 보입니다. 제출을 합의 제안과 직접 관련된 문서로 한정할 것을 제안합니다.
+EVARISTO: Magistrada, la frase «directamente relativos» ha servido en muchos archivos para esconder lo que más interesaba. ||| 판사님, '직접 관련된'이라는 표현은 많은 문서고에서 가장 중요한 걸 숨기는 데 쓰였소.
+OLMEDO: Me ofende la insinuación, don Evaristo. ||| 그 암시는 모욕적이군요, 에바리스토 씨.
+EVARISTO: No era insinuación. Era experiencia. Y no ofende: me enseña a mí a disculparme. Pido disculpas, magistrada. Pero mantengo la objeción. ||| 암시가 아니라 경험이었소. 그리고 모욕이 아니라 나에게 사과를 가르쳐 주는 거지. 사과드리오, 판사님. 하지만 이의는 유지하겠소.
+ELISE: Votemos. Primero la propuesta de la señora Khady: observadora con voz y sin voto, en último lugar, con presentación íntegra de documentos. ||| 표결하겠습니다. 먼저 카디 부인의 제안입니다. 발언권만 있고 투표권 없는 마지막 순서의 참관인, 문서 전체 제출.
+ELISE: A favor, siete. En contra, uno. Abstención, uno. Aprobada. ||| 찬성 일곱. 반대 한 명. 기권 한 명. 가결되었습니다.
+BERG: Boreal necesitará consultar con sus asesores antes de aceptar las condiciones. ||| 보레알은 조건을 수락하기 전에 자문단과 협의해야 합니다.
+ELISE: Tiene hasta el próximo martes. Hasta entonces, no hay sitio para Boreal en la mesa. ||| 다음 화요일까지 하세요. 그때까지 탁자에 보레알의 자리는 없습니다.
+BERG: Entendido. ||| 알겠습니다.
++ con voz pero sin voto = 발언권은 있으나 투표권은 없는. 참관인의 지위
++ en último lugar = 마지막 순서로. 'primero... en último lugar'
++ presentación íntegra = 전체 제출. 'íntegro'는 완전한
++ me ofende la insinuación = 그 암시가 모욕적이다. 'ofenderse'는 모욕을 느끼다
++ no hay sitio para = ~의 자리는 없다. 'hacer sitio'는 자리를 내주다
++ hasta el próximo martes = 다음 화요일까지. 'hasta'는 기한
+
+## 이해관계 신고 — LAS DECLARACIONES
+ELISE: Cuarto punto: declaración de intereses. Cada miembro declarará por escrito y en voz alta cualquier relación económica, profesional o familiar con las partes: Atlántica Química, Boreal Capital, Fiduciaria del Tajo, el Consejo de Pesca de Kandara y los gobiernos de España y Kandara. ||| 네 번째 안건. 이해관계 신고입니다. 각 위원은 아틀란티카 키미카, 보레알 캐피털, 피두시아리아 델 타호, 칸다라 어업위원회, 스페인·칸다라 정부와의 경제적·직업적·가족 관계를 서면과 구두로 신고합니다.
+WEBER: Declaro que no tengo relación alguna. Soy catedrático de derecho internacional y mi único cliente es mi biblioteca. ||| 신고합니다. 어떤 관계도 없습니다. 저는 국제법 교수이고 제 유일한 고객은 도서관입니다.
+CATARINA: Declaro lo mismo. Salvo que mi marido fue contratista de una de las empresas de Atlántica hace veinte años. No cobró. Lo dejo constar. ||| 저도 같습니다. 다만 남편이 20년 전 아틀란티카 계열사의 하청업자였습니다. 돈은 받지 못했어요. 기록해 둡니다.
+ELISE: Gracias por la transparencia. ||| 투명하게 말씀해 주셔서 감사합니다.
+KHADY: Declaro que mi padre, maître Faye, redactó el registro original. Y que mi familia vive en Punta Sal desde hace cuatro generaciones. ||| 저의 아버지 파이 변호사가 원본 명부를 작성하셨습니다. 그리고 저희 가족은 푼타 살에서 4대째 살고 있습니다.
+AWA: Yo vivo en Punta Sal. Mi hijo tiene la piel mala. Declaro que tengo mucho interés, y es la clase de interés que se tiene cuando un niño es tuyo. ||| 저는 푼타 살에 삽니다. 제 아들은 피부가 안 좋아요. 아주 큰 이해관계가 있다고 신고합니다. 아이가 내 아이일 때 갖는 종류의 이해관계예요.
+IBOU: Igual. ||| 저도 같습니다.
+OLMEDO: Declaro que no tengo relación económica con ninguna de las partes. Mi independencia es mi único patrimonio. ||| 어느 당사자와도 경제적 관계가 없음을 신고합니다. 제 독립성은 유일한 재산입니다.
+ELISE: ¿Ningún contacto profesional con Boreal o con sus representantes? ||| 보레알이나 그 대리인들과 직업적 접촉은 없습니까?
+OLMEDO: He participado como ponente en una conferencia sobre «Derecho y mercados de capital» en Estocolmo, hace dos años. Pudo haber un patrocinador. No recuerdo cuál. ||| 2년 전 스톡홀름에서 '법과 자본시장' 컨퍼런스 발표자로 참석했습니다. 후원사가 있었을 수 있습니다. 어디였는지는 기억나지 않습니다.
+ELISE: Lo dejaremos constar y lo verificaremos. ||| 기록하고 확인하겠습니다.
+OLMEDO: Es lo que corresponde. ||| 마땅한 절차죠.
+EVARISTO: Yo declaro mi interés. Tengo un interés económico: he adelantado mil euros de mi bolsillo a una madre de Punta Sal, a modo de pósito, y espero que me los devuelva cuando llegue la reparación. ||| 저는 제 이해관계를 신고하겠소. 경제적 이해관계가 있소. 푼타 살의 한 어머니에게 포시토 형식으로 내 주머니에서 1천 유로를 선지급했고, 배상이 나오면 돌려받기를 기대하오.
+OLMEDO: ¿Eso es compatible con su condición de miembro imparcial? ||| 그건 공정한 위원이라는 지위와 양립합니까?
+EVARISTO: Ese es el punto, magistrada. Si lo oculto, no soy imparcial. Si lo declaro, soy un hombre con un interés a la vista de todos, y todos pueden juzgar si me desvía o no. ||| 바로 그 점이오, 판사님. 숨기면 공정하지 않고, 밝히면 이해관계가 모두의 눈앞에 있는 사람이 되어 내가 치우치는지 아닌지 모두가 판단할 수 있소.
+ELISE: Aceptamos su declaración como ejemplo. ||| 그 신고를 모범으로 받아들입니다.
++ declaración de intereses = 이해관계 신고. 공직자·위원이 이해충돌을 막기 위해 하는 공개 신고
++ catedrático = (대학의) 정교수. 'catedrático de derecho internacional'
++ ponente = 발표자, 보고자. 학술·의회 용어
++ patrimonio = 재산, 자산. 'patrimonio'는 개인의 재산 총체
++ a modo de = ~의 방식으로, ~처럼. 'a modo de pósito'
++ desviar = 치우치게 하다. 'si me desvía'는 '내가 한쪽으로 치우치는지'
+
+## 정당한 값 — EL JUSTO PRECIO
+ELISE: Quinto punto: calendario. El plazo que ha fijado Boreal para su oferta vence el treinta y uno de diciembre. Si las familias firman antes, la Comisión pierde su objeto. ¿Qué proponen? ||| 다섯 번째 안건. 일정입니다. 보레알이 정한 제안 기한이 12월 31일에 만료됩니다. 그 전에 가족들이 서명하면 위원회는 존재 이유를 잃습니다. 어떻게 하자는 겁니까?
+WEBER: Podríamos intentar dictar una resolución definitiva antes de esa fecha. ||| 그 날짜 이전에 최종 결의를 내려 볼 수 있겠죠.
+CATARINA: Imposible. Hay doscientas catorce familias, un informe médico para cada una y tres expertos por contratar. Llevará meses. ||| 불가능해요. 214가구에 가구별 의료 보고서와 전문가 세 명을 구해야 하고요. 몇 달 걸릴 겁니다.
+KHADY: Señora presidenta, hay otra manera. En derecho francés, y en el nuestro, existe la «lésion»: la lesión. Cuando una parte recibe menos de lo que le correspondía en una proporción muy grande, el contrato puede anularse. ||| 의장님, 다른 방법이 있습니다. 프랑스법과 우리 법에는 '레지옹', 즉 현저한 불공정 손해가 있습니다. 한쪽이 마땅히 받아야 할 것보다 아주 크게 적은 걸 받았을 때 계약을 취소할 수 있습니다.
+EVARISTO: Y el derecho castellano también. Las Partidas de Alfonso X, la Quinta, hablan del «engaño en más de la mitad del justo precio». Si uno vende por menos de la mitad de lo que vale, puede deshacer el trato. ||| 카스티야 법도 그렇소. 알폰소 10세의 『7부법전』 제5부는 '정당한 값의 절반을 넘는 기망'을 말하오. 가치의 절반 미만으로 팔았다면 거래를 되돌릴 수 있지.
+ÁLVARO: ¿Puedo, don Evaristo? ||| 에바리스토 선생님, 제가 말해도 되겠습니까?
+EVARISTO: Tienes mi palabra. ||| 내 발언권을 주겠네.
+ÁLVARO: Señora presidenta, con la venia. Si la Comisión fija, antes del treinta y uno, no la reparación definitiva, sino el «justo precio» mínimo, es decir, una cifra por debajo de la cual cualquier renuncia sería rescindible por lesión, la oferta de tres mil quinientos euros dejaría de ser una opción segura. ||| 의장님, 허락해 주십시오. 위원회가 12월 31일 전에 최종 배상이 아니라 '정당한 값'의 하한, 즉 그 아래로의 어떤 포기든 불공정 손해로 취소할 수 있게 되는 금액을 정한다면 3,500유로 제안은 더 이상 안전한 선택지가 아니게 됩니다.
+KHADY: Una resolución previa sobre el piso, no sobre el techo. ||| 상한이 아니라 하한에 대한 선행 결의군요.
+ÁLVARO: Eso es. Sin decidir cuánto, decidimos al menos cuánto no. Quien firme por menos de ese piso podrá deshacer el trato. ||| 그렇습니다. 얼마인지는 정하지 않고 최소한 얼마가 아닌지를 정하는 겁니다. 그 하한 아래로 서명한 사람은 거래를 되돌릴 수 있죠.
+OLMEDO: Una resolución previa de esa clase es inusual. ||| 그런 종류의 선행 결의는 이례적입니다.
+ÁLVARO: También lo fue el Compromiso de Caspe. ||| 카스페 합의도 이례적이었죠.
+ELISE: ¿Cuándo podríamos dictarla? ||| 언제 낼 수 있습니까?
+KHADY: Con tres audiencias públicas. El notario Diouf, el general Bah y las familias. Una semana. ||| 공개 청문 세 번이면 됩니다. 공증인 디우프, 바 장군, 가족들. 일주일이요.
+ELISE: Entonces fijo el calendario. Doce de diciembre, audiencia en Punta Sal. Quince, declaración del general. Dieciocho, Boreal presenta documentos. Veintiuno, votación de la resolución previa sobre el piso. ||| 그럼 일정을 정하겠습니다. 12월 12일 푼타 살 청문, 15일 장군 진술, 18일 보레알 문서 제출, 21일 하한 선행 결의 표결.
+OLMEDO: Es un calendario muy comprimido. ||| 아주 압축된 일정이군요.
+ELISE: Es el calendario que nos deja un plazo ajeno. Quien lo fijó fue Boreal. ||| 남이 정한 기한이 우리에게 주는 일정입니다. 정한 건 보레알이죠.
++ lésion / lesión = 현저한 불공정 손해. 대가가 정당한 값의 일정 비율 미만일 때 계약을 취소할 수 있게 하는 법리. 프랑스 민법의 7/12 기준이 유명하다
++ Partidas V (Alfonso X) = 『7부법전』 제5부. 매매·계약법을 다루며 '정당한 값의 절반을 넘는 기망'이 있으면 거래를 무를 수 있다는 법리를 담았다. 이 화의 해법 논거
++ rescindible = 취소(해제)할 수 있는. 'rescindir un contrato'
++ piso / techo = 하한 / 상한. 협상·가격 용어로 '바닥'과 '천장'
++ con la venia = 허락을 구하며. 법정·회의에서 발언 전에 쓰는 격식 표현
++ plazo ajeno = 남이 정한 기한. 'ajeno'는 '타인의'
+
+## 복도의 판사 — EL PASILLO
+OLMEDO: Señor Quintana, ¿tiene un minuto? ||| 킨타나 씨, 잠깐 시간 있으십니까?
+ÁLVARO: Magistrada. Claro. ||| 판사님. 물론입니다.
+OLMEDO: Quería felicitarle. La idea del piso es ingeniosa. ||| 축하드리고 싶었습니다. 하한이라는 생각은 기발했어요.
+ÁLVARO: No es mía. Es de Alfonso X. ||| 제 생각이 아닙니다. 알폰소 10세의 것이죠.
+OLMEDO: Suyo es el uso que le da. Pero le advierto algo, con la franqueza que dan los años. Usted es un hombre de acción. Una comisión es un órgano de deliberación. Si usted la convierte en un campo de batalla, perderá. ||| 그걸 쓰는 방식은 당신의 것이죠. 하지만 나이가 주는 솔직함으로 하나 경고하겠습니다. 당신은 행동의 사람입니다. 위원회는 숙의 기관이고요. 전장으로 만들면 질 겁니다.
+ÁLVARO: Se lo agradezco. ¿Por qué lo dice? ||| 감사합니다. 왜 그렇게 말씀하십니까?
+OLMEDO: Porque he visto a muchos hombres de acción convertir una comisión en un tribunal de excepción. Y siempre acaban pagando el precio. ||| 많은 행동의 사람들이 위원회를 특별재판소로 만드는 걸 봤으니까요. 그리고 늘 대가를 치르게 되죠.
+ÁLVARO: Lo tendré presente. ||| 명심하겠습니다.
+OLMEDO: Otra cosa. La conferencia de Estocolmo. Prefiero que sepa que, entre los ponentes, había un joven abogado que ahora trabaja en Boreal. No tuve trato con él, pero por si surge su nombre. ||| 하나 더요. 스톡홀름 컨퍼런스 말입니다. 발표자 중에 지금 보레알에서 일하는 젊은 변호사가 있었다는 걸 알려 드립니다. 접촉은 없었지만 이름이 나올 경우를 위해서요.
+ÁLVARO: ¿Su nombre? ||| 이름은요?
+OLMEDO: Lund. Un joven Lund. Es un apellido común en Suecia. ||| 룬드. 젊은 룬드. 스웨덴에서는 흔한 성이죠.
+ÁLVARO: Muy común. ||| 아주 흔하죠.
+OLMEDO: Hasta el martes, señor Quintana. ||| 화요일에 뵙죠, 킨타나 씨.
+MARINA: ¿De qué hablaba? ||| 무슨 얘기를 하셨어요?
+ÁLVARO: De Estocolmo. Me ha contado lo de Lund sin que yo se lo preguntara. ||| 스톡홀름요. 제가 묻지도 않았는데 룬드 얘기를 해 줬어.
+MARINA: Eso es honestidad. ||| 정직함이네요.
+ÁLVARO: O es la manera de quedar limpia antes de que alguien lo descubra. Dime, ¿cuántos «Lund» hay en Boreal? ||| 아니면 누가 알아내기 전에 깨끗해지는 방법이거나. 말해 봐, 보레알에 '룬드'가 몇 명이야?
+MARINA: Anders Lund, socio. Y un tal Erik Lund, abogado júnior. ¿Por qué? ||| 안데르스 룬드, 파트너. 그리고 에릭 룬드, 주니어 변호사요. 왜요?
+ÁLVARO: Porque ella ha dicho «un joven Lund». Y nunca ha dicho cuál. ||| '젊은 룬드'라고 했지 어느 쪽인지는 말하지 않았거든.
+MARINA: Voy a averiguarlo. ||| 알아볼게요.
+ÁLVARO: Sin ruido. ||| 소리 없이.
++ campo de batalla = 전장. 위원회와 대비되는 비유
++ tribunal de excepción = 특별재판소. 일반 절차를 벗어난 재판소
++ por si surge = 혹시 ~가 나올 경우를 위해. 'por si + 직설법'
++ quedar limpia = 깨끗해지다, 깨끗이 남다. 'quedar + 형용사'
++ sin ruido = 소리 없이, 조용히. 2부 1화의 '소음' 모티프가 이어진다
++ un joven Lund = 젊은 룬드. 'un + 성'은 그 성을 가진 어떤 사람
