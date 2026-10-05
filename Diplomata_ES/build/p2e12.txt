@@ -1,0 +1,214 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 2
+@ep 12
+@title La residencia
+@ko 레지덴시아
+@setting 12월 22일 밤 알바로 집 식탁 → 1월 14일 마드리드 공개 검토 청문 → 알다스와의 면담 → 1월 18일 푼타 살 해변 오두막
+@level B2-C1
+@cast ÁLVARO | 외교관, 44세
+@cast LUCÍA | 알바로의 딸, 16세
+@cast ELENA | 알바로의 전처, 변호사, 43세
+@cast LACALLE | 공개 검토 담당관, 전직 대법관, 70세
+@cast ALDAZ | 아틀란티카 키미카 이사회 의장, 전 총리 비서실장, 71세
+@cast MARINA | 브뤼셀 직원, 29세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast CAMARA | 칸다라 수산 차관
+@note 2부의 마지막 화입니다. 제목의 '레지덴시아(residencia)'는 임기를 마친 관리를 심사하던 스페인 제도(juicio de residencia)로, 알바로가 스스로 요청한 공개 검토가 이 화의 중심입니다. 책임을 지는 방식을 다루는 어휘(responsabilidad 책임, amonestación 견책, sanción 제재, resolución 결정문, recurso 항소)와 사적 장면(저녁 식사, 해변)의 대화 톤 차이에 주목하세요.
+@next 3부 1화 — «El barco de rescate»(구조선) — 새 분기의 첫 사건. 알바로가 울란바토르로 떠나기 전, 스페인 구조선이 지중해 건너편 왕국에 억류된다. 3부는 한 화에 사건 하나가 아니라 네 개의 사건이 각각 세 화에 걸쳐 풀린다.
+
+## 토르티야의 밤 — LA CENA PENDIENTE
+ELENA: Huele a cebolla. A cebolla muy bien hecha. ||| 양파 냄새가 나네. 아주 잘 익은 양파.
+LUCÍA: Ocho minutos más de lo que dice la receta. Es un secreto. ||| 레시피보다 8분 더 익혔어. 비밀이야.
+ÁLVARO: ¿Puedo ayudar? ||| 도와줄까?
+LUCÍA: Puedes sentarte. Es tu única tarea. ||| 앉아 있으면 돼. 아빠의 유일한 일이야.
+ÁLVARO: Qué cocina tan severa. ||| 아주 엄격한 주방이군.
+ELENA: Sentado. Sin móvil. Sin hablar de trabajo. Esas son las reglas. ||| 앉아서. 휴대폰 없이. 일 얘기 없이. 규칙이야.
+ÁLVARO: ¿Y de qué se puede hablar? ||| 그럼 무슨 얘길 할 수 있어?
+ELENA: De cosas pequeñas. Que es como hablan las familias. ||| 작은 것들. 가족이 대화하는 방식이야.
+ÁLVARO: Elena, gracias por haber aceptado. ||| 엘레나, 수락해 줘서 고마워.
+ELENA: No me des las gracias. Tu hija me chantajeó. ||| 감사하지 마. 당신 딸이 날 협박했어.
+LUCÍA: Es un chantaje de afecto. Es legal. ||| 애정 협박이야. 합법이지.
+ELENA: En mi despacho eso se llama «presión indebida». ||| 내 사무실에서는 그걸 '부당한 압력'이라고 불러.
+LUCÍA: En mi casa se llama «cena». Sentaos. ||| 우리 집에서는 '저녁'이라고 불러요. 앉으세요.
+ELENA: Mmm. Está buenísima. ¿Quién te ha enseñado a hacer una tortilla así? ||| 음. 정말 맛있네. 누가 이렇게 토르티야를 하라고 가르쳤니?
+LUCÍA: Una señora de Burela que se llama Marina. Marina me llamó por teléfono ayer. ||| 부르엘라 출신의 마리나라는 분이요. 어제 마리나 씨가 전화했어요.
+ÁLVARO: ¿Marina? ||| 마리나가?
+LUCÍA: Sí. Dijo: «Para que una tortilla salga bien, hay que tener paciencia con la cebolla y poca con las personas». ||| 네. '토르티야가 잘되려면 양파에게는 인내심이 필요하고 사람에게는 별로 필요 없다'고 했어요.
+ELENA: Esa chica me cae bien. ||| 그 아가씨 마음에 들어.
+ÁLVARO: A mí también. Tengo que decirle una cosa. Que no es su culpa que me vaya a Ulán Bator. ||| 나도. 말해야 할 게 있어. 내가 울란바토르로 가는 건 그 아이 탓이 아니라고.
+LUCÍA: Papá, hablábamos de cosas pequeñas. ||| 아빠, 작은 얘기를 하기로 했잖아.
+ÁLVARO: Perdón. Ulán Bator es una cosa pequeña. Tiene millón y medio de habitantes y una estufa. ||| 미안. 울란바토르는 작은 일이야. 인구 150만에 난로 하나.
+LUCÍA: ¿Y cuándo me voy a ver en verano? ||| 그럼 여름에 나는 언제 아빠를 보러 가?
+ELENA: Julio. Cuatro semanas. Con una condición. ||| 7월. 4주. 조건이 하나 있어.
+ÁLVARO: Lo que sea. ||| 뭐든지.
+ELENA: Que la lleves a ver la estepa. Y que te quedes con ella. Todos los días. Que no te escondas en la embajada. ||| 그 애를 초원에 데려가. 그리고 그 애와 함께 있어. 매일. 대사관에 숨지 말고.
+ÁLVARO: Lo prometo. ||| 약속할게.
+LUCÍA: ¿A la vista de testigos? ||| 증인들 앞에서?
+ÁLVARO: A la vista de dos. Tu madre y tú. ||| 두 명 앞에서. 네 엄마와 너.
+LUCÍA: Anotado. ||| 기록했어.
+ELENA: Álvaro. Una cosa más. He visto el calendario de la residencia. Catorce de enero. Si quieres, me siento detrás de ti. ||| 알바로. 하나 더. 레지덴시아 일정을 봤어. 1월 14일. 원하면 당신 뒤에 앉아 있을게.
+ÁLVARO: ¿Como abogada? ||| 변호사로서?
+ELENA: Como la madre de tu hija. Es una función más larga y menos pagada. ||| 당신 딸의 엄마로서. 더 오래 가고 보수는 더 적은 직책이야.
++ chantaje de afecto = 애정 협박. 아이가 부모에게 부탁하는 장난스러운 압박
++ presión indebida = 부당한 압력. 법률 용어
++ lo que sea = 뭐든지. 'lo que sea'는 접속법 현재 'ser'의 불특정 표현
++ esconderse en la embajada = 대사관에 숨다. 일 속에 숨는 알바로의 버릇을 가리킨다
++ a la vista de testigos = 증인들 앞에서. 2부 6화·1부에서 반복된 모티프
++ cae bien = 마음에 든다. 'caer bien a alguien'은 호감을 주다
+
+## 레지덴시아 — LA RESIDENCIA
+LACALLE: Se abre el acto. Soy Fernando Lacalle, magistrado jubilado del Tribunal Supremo. He sido designado por la Presidencia del Congreso para llevar a cabo una revisión pública de la conducta de don Álvaro Quintana Roldán durante la crisis de Kandara. ||| 개회합니다. 퇴직 대법관 페르난도 라칼레입니다. 칸다라 위기 중 알바로 킨타나 롤단 씨의 행적에 대한 공개 검토를 진행하도록 하원 의장단이 저를 지명했습니다.
+LACALLE: Este acto se inspira en una antigua institución española: el juicio de residencia. Cuando un gobernador o un virrey terminaba su mandato, otro juez llegaba y pregonaba que quien tuviera una queja contra él que se presentara. Hernán Cortés fue sometido a uno en mil quinientos veintiséis. Nadie, ni los más grandes, estaba exento. ||| 이 절차는 오래된 스페인 제도인 레지덴시아 재판에서 영감을 얻었습니다. 총독이나 부왕이 임기를 마치면 다른 판사가 와서 그에 대한 불만이 있는 사람은 나서라고 공고했죠. 에르난 코르테스도 1526년에 한 번 받았습니다. 아무도, 가장 위대한 사람조차 면제되지 않았습니다.
+LACALLE: Se abrió un plazo de treinta días para quejas. Se han recibido ciento treinta y nueve comunicaciones. Las leeré por categorías. Primera: quejas sobre el uso de información obtenida irregularmente. Cuarenta y una. ||| 불만 접수 기간은 30일이었습니다. 139건이 접수됐습니다. 범주별로 읽겠습니다. 첫째, 비정규 경로로 얻은 정보 사용에 대한 불만. 41건.
+LACALLE: Segunda: quejas por «tratar con servicios de inteligencia sin autorización ministerial». Diecisiete. Tercera: quejas por «excederse en las atribuciones de un funcionario suspendido». Veintidós. ||| 둘째, '장관의 승인 없이 정보기관과 접촉'에 대한 불만. 17건. 셋째, '정직된 공무원의 권한 초과'에 대한 불만. 22건.
+LACALLE: Cuarta: comunicaciones de respaldo. Cincuenta y nueve. Entre ellas, una firmada por doscientas catorce familias de Punta Sal. ||| 넷째, 지지 서한. 59건. 그중 하나는 푼타 살 214가구가 서명한 것입니다.
+ÁLVARO: ¿Doscientas catorce? ||| 214가구요?
+LACALLE: Con doscientas catorce firmas, que pasaron en un papel de pescadero, y que no puedo no mencionar. ||| 214명의 서명이 어물전 포장지에 적혀 왔습니다. 언급하지 않을 수 없네요.
+LACALLE: Don Álvaro, ¿quiere hablar? ||| 알바로 씨, 말씀하시겠습니까?
+ÁLVARO: Sí, señor magistrado. Quiero hacer una declaración inicial de quince líneas. ||| 네, 재판관님. 열다섯 줄짜리 모두 진술을 하고 싶습니다.
+LACALLE: Quince líneas. Qué raro. ||| 열다섯 줄이라. 드문 일이군요.
+ÁLVARO: Durante la crisis, tomé una decisión que no se ajustaba a la ley. Obtuve información bancaria de un ministro extranjero a través de una persona de un servicio amigo. La usé para formarme una opinión sobre el origen de la crisis. No la usé en público. Eso fue un error. No lo fue de intención, sino de método. Y asumo la responsabilidad. ||| 위기 동안 저는 법에 맞지 않는 결정을 내렸습니다. 우방 기관의 한 사람을 통해 외국 장관의 은행 정보를 얻었습니다. 위기의 원인을 파악하는 데 썼습니다. 공개적으로 쓰지는 않았습니다. 그건 잘못이었습니다. 의도가 아니라 방법의 잘못이었습니다. 그리고 책임을 집니다.
+ÁLVARO: En cuanto a los hechos que otros me atribuyen y que no son ciertos, les pido que los verifiquen. Sobre los ciertos, no pido atenuantes. ||| 다른 사람들이 제게 돌리는 사실 가운데 사실이 아닌 것은 확인해 주시길 요청합니다. 사실인 것에 대해서는 감경을 요청하지 않습니다.
+ÁLVARO: Una última cosa. Todo lo que hice, lo hice con la idea de que veintidós hombres volvieran a sus casas. Eso no me justifica. Pero explica qué me movía. ||| 마지막으로 하나. 제가 한 모든 일은 스물두 명이 집으로 돌아오게 하겠다는 생각으로 했습니다. 그것이 저를 정당화하진 않습니다. 하지만 무엇이 저를 움직였는지는 설명합니다.
+LACALLE: Gracias. Es la declaración más breve que he escuchado de un sometido a residencia. Y la única sin adjetivos. ||| 감사합니다. 레지덴시아를 받는 사람의 진술 중 가장 짧았고 형용사가 하나도 없는 유일한 진술입니다.
+LACALLE: Primera pregunta del tribunal. ¿Quién tiene una queja contra don Álvaro Quintana? ||| 재판부의 첫 질문입니다. 알바로 킨타나 씨에 대해 불만 있는 사람은 누구입니까?
+BELTRÁN: Yo, señor magistrado. Compareciente sin cargo. ||| 접니다, 재판관님. 직함 없는 출석자로서요.
+LACALLE: ¿Señor Beltrán? Creía que no podía intervenir como parlamentario. ||| 벨트란 의원님? 의원 자격으로는 발언할 수 없다고 알았는데요.
+BELTRÁN: Intervengo como ciudadano. Tengo una queja. Es simple. El señor Quintana tiene demasiada razón. Y eso me resulta sospechoso. ||| 시민으로서 발언합니다. 불만이 하나 있습니다. 간단합니다. 킨타나 씨는 지나치게 옳습니다. 그게 수상쩍어요.
+LACALLE: Es una queja curiosa. ¿Tiene algo concreto? ||| 흥미로운 불만이군요. 구체적인 건 있습니까?
+BELTRÁN: Concreto, no. Pero he repasado todos los documentos que nos ha entregado. Y no he encontrado una sola contradicción. ||| 구체적인 건 없습니다. 하지만 그가 제출한 모든 서류를 검토했는데 모순 하나 발견하지 못했습니다.
+LACALLE: Retiro la queja del tribunal por falta de objeto. Aunque la anoto como cumplido. ||| 대상이 없으므로 재판부는 그 불만을 철회합니다. 다만 칭찬으로 적어 두겠습니다.
++ juicio de residencia = 레지덴시아 재판. 임기를 마친 관리가 재임 중 행적에 대한 불만을 공개적으로 심사받던 스페인 식민지 제도. 코르테스도 1526년 심사를 받았다. 이 화의 제목이자 핵심 모티프
++ pregonar = (공개적으로) 알리다, 공고하다. 'pregonero'는 공고하는 사람
++ estar exento = 면제되다. 'nadie estaba exento'
++ atenuantes = 감경 사유. 형사·징계에서 책임을 줄이는 사정
++ papel de pescadero = 어물전 포장지. 소박한 종이에 쓴 서명을 강조
++ resultar sospechoso = 수상하게 느껴지다. 'resultar + 형용사'
+## 결정문 — LA RESOLUCIÓN
+LACALLE: Esta tarde se hará pública mi resolución. Se las adelanto en síntesis. Primero: no encuentro indicios de delito en la conducta del señor Quintana. Segundo: encuentro una irregularidad administrativa grave: el uso de información obtenida por un cauce no autorizado. ||| 오늘 오후 결정문이 공개됩니다. 요약해서 미리 알려 드립니다. 첫째, 킨타나 씨의 행위에서 범죄의 정황은 발견하지 못했습니다. 둘째, 승인되지 않은 경로로 얻은 정보를 이용한 중대한 행정상 위반을 발견했습니다.
+LACALLE: Por ello, propongo: amonestación escrita; obligación de informar a la Comisión de Asuntos Exteriores de toda operación reservada futura; y la inhabilitación durante cinco años para dirigir una unidad con facultad de contratar servicios de inteligencia. ||| 그에 따라 제안합니다. 서면 견책, 향후 모든 비공개 작전을 외교위원회에 보고할 의무, 그리고 정보서비스를 계약할 권한을 가진 부서를 5년 동안 이끌 수 없는 자격 정지입니다.
+ÁLVARO: Acepto. ||| 받아들입니다.
+LACALLE: Ni siquiera me ha preguntado qué más he escrito. ||| 제가 무엇을 더 썼는지 묻지도 않으셨군요.
+ÁLVARO: Lo leeré con mucha atención. Pero ya sé que es justo. ||| 아주 주의 깊게 읽겠습니다. 하지만 이미 공정하다는 건 압니다.
+LACALLE: Ha sido el residenciado más cooperativo que he conocido. Y le diré algo personal. En cuarenta y cinco años como juez, nunca había visto que un sometido pidiera él mismo que lo investigaran. ||| 제가 만난 레지덴시아 대상자 중 가장 협조적이었습니다. 그리고 개인적으로 말씀드리죠. 45년 판사 생활에서 조사받는 사람이 직접 조사를 요청하는 건 처음 봤습니다.
+ÁLVARO: Me lo sugirió una periodista. ||| 한 기자가 제안했습니다.
+LACALLE: Una periodista lista. Anótela como cómplice. ||| 영리한 기자로군요. 공범으로 적어 두세요.
+ÁLVARO: Lo hará ella misma en su próximo artículo. ||| 다음 기사에서 본인이 직접 할 겁니다.
+LACALLE: Se levanta el acto. ||| 폐회합니다.
+ELENA: ¿Cómo te sientes? ||| 기분이 어때?
+ÁLVARO: Ligero. Como cuando uno devuelve un libro a la biblioteca con mucho retraso. ||| 가벼워. 도서관에 책을 아주 늦게 반납한 느낌이야.
+ELENA: Qué comparación tan tuya. ||| 정말 당신다운 비유네.
+ÁLVARO: ¿Te quedas a comer? ||| 점심 먹고 갈래?
+ELENA: Tengo vista a las cuatro. Pero acepto un café. Y que me cuentes dónde vas a esconder a los fantasmas cuando llegues a Mongolia. ||| 네 시에 재판이 있어. 하지만 커피는 마실게. 그리고 몽골에 가면 유령들을 어디에 숨길지 말해 줘.
+ÁLVARO: En una yurta, con el té. ||| 게르 안에서 차와 함께.
++ cauce = 경로, 수로. 'por un cauce no autorizado'는 승인되지 않은 경로로
++ amonestación = 견책, 경고. 징계 중 가장 가벼운 형태
++ inhabilitación = 자격 정지. 'inhabilitar'는 자격을 박탈하다
++ residenciado = 레지덴시아 대상자. 'sometido a residencia'와 같은 뜻
++ retraso = 지연. 'devolver con retraso'는 늦게 반납하다
++ cómplice = 공범. 유머로 쓴 표현
+
+## 알다스의 클럽 — EL CASINO
+ALDAZ: Don Álvaro. Gracias por aceptar. No suelo recibir a quien me denuncia. ||| 알바로 씨. 수락해 주셔서 감사합니다. 저를 고발한 사람을 만나는 일은 드뭅니다.
+ÁLVARO: Yo no le he denunciado. Yo mostré papeles. ||| 저는 고발하지 않았습니다. 서류를 보여 줬을 뿐입니다.
+ALDAZ: Los papeles también acusan. Siéntese. ¿Café? ¿Coñac? ||| 서류도 고발합니다. 앉으세요. 커피? 코냑?
+ÁLVARO: Agua. ||| 물이요.
+ALDAZ: Tiene usted modales de hombre peligroso. ||| 위험한 사람의 예절을 갖고 계시군요.
+ÁLVARO: ¿Cuáles? ||| 어떤 거요?
+ALDAZ: Pide agua en un club de caballeros. Es una manera de decir que no va a dejarse invitar. ||| 신사 클럽에서 물을 시키죠. 초대받지 않겠다는 방식입니다.
+ÁLVARO: Eso es sed. ||| 갈증이에요.
+ALDAZ: Entonces seré directo, porque tengo setenta y un años y he renunciado a las frases lentas. Mi querella contra usted sigue en pie. Pero puedo retirarla. ||| 그럼 직설적으로 말하죠. 일흔한 살이고 느린 문장은 포기했으니까요. 당신에 대한 제 고소는 유효합니다. 하지만 철회할 수 있습니다.
+ÁLVARO: ¿A cambio de? ||| 그 대가로?
+ALDAZ: Algo muy pequeño. Que usted, en Mongolia, tenga la prudencia de no hablar de Punta Sal. De Atlántica, de Boreal, de mí. ||| 아주 작은 겁니다. 당신이 몽골에서 푼타 살에 대해 말하지 않는 신중함을 갖는 것. 아틀란티카, 보레알, 그리고 저에 대해서요.
+ÁLVARO: Una cláusula de silencio. ||| 침묵 조항이군요.
+ALDAZ: Una cortesía entre caballeros. ||| 신사 사이의 예의입니다.
+ÁLVARO: Señor Aldaz. Usted y yo conocemos el precio del silencio. En mil novecientos noventa y seis, lo pagó el Estado. Hoy lo paga una comunidad de pescadores. ¿Qué precio pone al mío? ||| 알다스 씨. 우리 둘 다 침묵의 값을 압니다. 1996년에는 국가가 냈고 오늘은 어부 공동체가 내고 있죠. 제 침묵에는 얼마를 매깁니까?
+ALDAZ: No hablo de dinero. Hablo de tranquilidad. Usted tiene una hija. Una exmujer abogada. Una carrera que, con una mancha más, puede acabar en un archivo. ||| 돈 이야기가 아닙니다. 평온 이야기죠. 딸이 있고 변호사인 전처가 있고, 얼룩 하나만 더 생기면 서류철에서 끝날 경력이 있습니다.
+ÁLVARO: Acaba usted de hacer una amenaza. En un club de caballeros. Con testigos. ||| 방금 위협하셨습니다. 신사 클럽에서, 증인들 앞에서요.
+ALDAZ: ¿Testigos? ||| 증인이요?
+ÁLVARO: El camarero que ha traído el agua. La señora de la mesa de la ventana, que no me quita ojo. Y dos mensajes que he enviado a la presidenta de la Comisión de Asuntos Exteriores antes de entrar. ||| 물을 가져온 종업원. 창가 테이블에서 눈을 떼지 않는 부인. 그리고 들어오기 전에 외교위원회 위원장께 보낸 메시지 두 통요.
+ALDAZ: Es usted un hombre desagradable. ||| 불쾌한 분이시군요.
+ÁLVARO: Soy un hombre con un método. «A la vista de ustedes». Lo aprendí de usted: la manera más eficaz de perder poder es esconderlo. ||| 방법이 있는 사람입니다. '여러분의 눈앞에서'. 당신에게 배웠죠. 권력을 잃는 가장 효과적인 방법은 숨기는 겁니다.
+ALDAZ: Yo no he perdido ningún poder. ||| 저는 어떤 권력도 잃지 않았습니다.
+ÁLVARO: La Fiscalía Anticorrupción ha abierto diligencias sobre el Anexo Cero. La señora Valdés ha declarado. El general Bah ha declarado. El notario Diouf ha declarado. Y esta tarde el Congreso va a votar una comisión de investigación sobre Atlántica Química. ||| 반부패 검찰이 부속서 0에 대한 조사를 시작했습니다. 발데스 씨가 진술했습니다. 바 장군이 진술했고요. 공증인 디우프도요. 그리고 오늘 오후 의회는 아틀란티카 키미카에 대한 조사위원회를 표결합니다.
+ALDAZ: Los delitos de mil novecientos noventa y seis están prescritos. ||| 1996년의 범죄는 시효가 지났습니다.
+ÁLVARO: Probablemente. Pero hay algo que no prescribe. ||| 아마도요. 하지만 시효가 없는 게 있습니다.
+ALDAZ: ¿Qué? ||| 뭡니까?
+ÁLVARO: El nombre. Con el tiempo, la historia le pone nombre a lo que firmó. «El que dictó la cláusula». Y eso se cuenta en los libros. ||| 이름이죠. 시간이 지나면 역사가 서명한 것에 이름을 붙입니다. '조항을 구술한 사람'. 그건 책에 쓰입니다.
+ALDAZ: ... He sido el hombre que más ha hecho por este país. ||| …내가 이 나라를 위해 가장 많이 일한 사람이오.
+ÁLVARO: Quizá. Pero quien firma, paga. Y quien dicta, también. ||| 어쩌면요. 하지만 서명한 자가 대가를 치르고, 구술한 자도 그렇습니다.
+ALDAZ: Dígale a su hija que tiene un padre que no sabe cuándo callar. ||| 따님에게 언제 입을 다물어야 할지 모르는 아버지가 있다고 전하시오.
+ÁLVARO: Se lo diré. Seguramente le gustará. ||| 전하겠습니다. 아마 좋아할 겁니다.
++ querella = 고소. 2부 1화부터 이어진 알다스의 법적 공격
++ cláusula de silencio = 침묵 조항. 1부 '영 조항'의 반대 개념
++ prescritos = 시효가 지난. 'prescribir'는 시효가 완성되다
++ no quitar ojo = 눈을 떼지 않다. 'no me quita ojo'
++ Fiscalía Anticorrupción = 반부패 검찰. 부패 범죄를 전담하는 스페인 검찰 조직
++ diligencias = 수사 절차. 'abrir diligencias'는 수사를 개시하다
+
+## 마리나의 대답 — MARINA DICE QUE NO
+MARINA: Álvaro, no puedo aceptarlo. ||| 알바로, 받아들일 수 없어요.
+ÁLVARO: ¿El qué? ||| 뭘?
+MARINA: La secretaría ejecutiva del Pósito. Elise me lo ha ofrecido. Está en Punta Sal, tres años, con un sueldo que apenas me alcanza para alquilar. ||| 포시토 사무국장 자리요. 엘리제 국장님이 제안했어요. 푼타 살에서 3년, 월세 겨우 낼 수준의 보수로요.
+ÁLVARO: Tienes razón. Es una locura. ||| 맞아. 미친 짓이지.
+MARINA: ¿No me va a convencer? ||| 설득하지 않으실 거예요?
+ÁLVARO: No. Te pido que lo pienses con mucha calma. Una semana. ||| 아니. 아주 차분하게 생각해 보라고 부탁할게. 일주일.
+MARINA: ¿Y si digo que sí? ||| 제가 한다고 하면요?
+ÁLVARO: Serás la mejor persona para el cargo. Y la más pobre de toda la cooperación española. ||| 그 자리에 최적의 사람이 될 거야. 그리고 스페인 협력 사업에서 가장 가난한 사람이 되겠지.
+MARINA: Mi padre dice que una gallega pobre es una gallega libre. ||| 아버지는 가난한 갈리시아 여자는 자유로운 갈리시아 여자라고 하세요.
+ÁLVARO: Tu padre y Berni deberían conocerse. ||| 네 아버지와 베르니는 만나 봐야겠다.
+MARINA: Se llevarían fatal. ||| 사이가 아주 나쁠 거예요.
+ÁLVARO: Como todo el mundo que tiene razón. ||| 옳은 사람들은 다 그렇지.
+MARINA: Lo pensaré. ||| 생각해 볼게요.
+ÁLVARO: Hazte de rogar. Es una costumbre española. ||| 빼 봐. 스페인 관습이야.
+MARINA: Y gallega. ||| 갈리시아 관습이기도 하고요.
++ apenas me alcanza = 겨우 충분하다. 'alcanzar'는 충분하다
++ cooperación española = 스페인 개발협력. 'cooperación al desarrollo'
++ lo pensaré = 생각해 볼게요. 미래형으로 완곡한 보류
++ se llevarían fatal = 사이가 아주 나쁠 것이다. 조건법으로 가정적 관계를 말한다
++ hazte de rogar = 빼 봐. 'hacerse de rogar' 명령형. 11화의 표현이 이어진다
++ costumbre = 관습. 'es una costumbre española'
+
+## 빈 오두막 — LA CABAÑA VACÍA
+REBECA: Es aquí. ||| 여기야.
+ÁLVARO: ¿La casa del jefe de seguridad? ||| 보안 책임자의 집이야?
+REBECA: Una cabaña de madera junto a la playa. Con un generador. Sin vecinos. ||| 해변 옆 목조 오두막. 발전기가 있고 이웃은 없어.
+CAMARA: Mis hombres están en el camino. Nadie ha entrado desde hace dos semanas. ||| 제 부하들이 길목에 있습니다. 2주 동안 아무도 들어가지 않았어요.
+REBECA: Voy yo primero. ||| 내가 먼저 들어갈게.
+ÁLVARO: Rebeca. A la vista de alguien. ||| 레베카. 누군가의 눈앞에서.
+REBECA: Entra conmigo. ||| 같이 들어와.
+ÁLVARO: Hay una cama hecha. Una tetera. Un libro. ||| 정리된 침대. 주전자. 책 한 권.
+REBECA: «Don Quijote». En edición escolar. Con subrayados a lápiz. ||| 『돈키호테』야. 교과서판. 연필로 밑줄을 쳤어.
+ÁLVARO: Tu hermano. ||| 네 오빠야.
+REBECA: Mi hermano. Me lo regaló mi madre y se lo quedó él. Tiene mis iniciales en la primera página. «R. S.». ||| 오빠야. 엄마가 내게 선물한 건데 오빠가 가졌어. 첫 쪽에 내 머리글자가 있어. 'R. S.'
+ÁLVARO: Rebeca, hay una nota sobre la mesa. ||| 레베카, 탁자 위에 쪽지가 있어.
+REBECA: «Rebe. Si lees esto, es que has venido. No me busques aquí. Me han movido. Busca donde acaba mi mapa. Muelle nueve. Tallin. Ivar». ||| '레베. 이걸 읽는다면 네가 왔다는 뜻이야. 여기서 날 찾지 마. 날 옮겼어. 내 지도가 끝나는 곳을 찾아. 9번 부두. 탈린. 이바르'.
+ÁLVARO: «Donde acaba mi mapa». ||| '내 지도가 끝나는 곳'.
+REBECA: Mira. Un mapa pegado en la pared. Con el Báltico. Y una cruz roja en un puerto. ||| 봐. 벽에 붙은 지도야. 발트해야. 그리고 한 항구에 빨간 십자가.
+ÁLVARO: Tallin. El muelle nueve. Es donde el ferry atracó. Hace tres semanas. ||| 탈린. 9번 부두. 페리가 정박했던 곳이야. 3주 전에.
+REBECA: Strand lo sabía. ||| 스트란드는 알았어.
+ÁLVARO: Strand me dejó en ese muelle. Me dijo: «Hay vuelos a Ginebra por Helsinki». Me estaba mostrando el sitio. ||| 스트란드가 나를 그 부두에 내려 줬어. '헬싱키 경유 제네바행 항공편이 있습니다'라고 하면서. 장소를 보여 준 거야.
+REBECA: ¿Una invitación? ||| 초대였어?
+ÁLVARO: O una trampa con buena letra. En este oficio, a veces son lo mismo. ||| 아니면 예쁜 글씨의 함정이거나. 이 직업에서는 가끔 같은 거야.
+REBECA: Voy a ir. ||| 갈 거야.
+ÁLVARO: Yo me voy a Ulán Bator en febrero. Pero te prometí algo. Dime cuándo. ||| 나는 2월에 울란바토르에 가. 하지만 네게 약속한 게 있어. 언제인지 말해.
+REBECA: ¿Sin cargo, sin firma y sin escolta? ||| 직함도 서명도 경호도 없이?
+ÁLVARO: Con un pasaporte. Y con una hija que me ha dado un calendario de verano. ||| 여권 하나와, 내게 여름 일정표를 준 딸과 함께.
+REBECA: Cuando salgas de Mongolia. ||| 몽골에서 나올 때.
+ÁLVARO: Antes. En primavera. Con un permiso para investigar «asuntos de servicio» que el señor Lacalle ha tenido la amabilidad de no prohibirme. ||| 그 전에. 봄에. 라칼레 씨가 친절하게도 금지하지 않은 '업무 사안' 조사 허가를 받아서.
+REBECA: ¿Qué es eso? ||| 그게 뭐야?
+ÁLVARO: Una resolución muy bien escrita. Lee la tercera línea del punto cuarto. ||| 아주 잘 쓴 결정문이야. 4항 세 번째 줄을 읽어 봐.
+REBECA: «...salvo las gestiones humanitarias comunicadas con antelación». ||| '…사전에 통지된 인도주의적 조치는 제외한다'.
+ÁLVARO: Ahí está mi puerta. Y la tuya. Un hermano desaparecido hace ocho años es una gestión humanitaria. ||| 거기에 내 문이 있어. 네 문이기도 하고. 8년 전 실종된 오빠는 인도주의적 조치야.
+REBECA: Eres un hombre insoportablemente legal. ||| 넌 견딜 수 없이 합법적인 남자야.
+ÁLVARO: Una hija me enseñó a serlo. ||| 딸이 가르쳐 줬어.
+REBECA: Entonces la próxima vez, la invito a una cena yo. Y a la madre. ||| 그럼 다음에는 내가 저녁에 초대할게. 그 애와 그 어머니를.
+ÁLVARO: Será un honor. ||| 영광이야.
+REBECA: Será una tortilla. ||| 토르티야일 거야.
++ cabaña = 오두막. 목조 소형 주택
++ edición escolar = 교과서판. 학생용으로 만든 판본
++ muelle = 부두. 'muelle nueve'는 9번 부두
++ gestiones humanitarias = 인도주의적 조치. 'gestión'은 처리, 조치
++ trampa con buena letra = 예쁜 글씨의 함정. 11화에서 카디가 쓴 표현이 이어진다
++ insoportablemente = 견딜 수 없을 만큼. '-mente' 부사
