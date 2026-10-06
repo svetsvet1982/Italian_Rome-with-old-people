@@ -1,0 +1,110 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 6
+@title Oom Herman
+@ko 헤르만 선생
+@setting 금요일 밤 암스테르담 암스텔 강변 · 스승의 배 'De Zwijger' 갑판과 선실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast HERMAN | 은퇴 대사, 스승, 블라우베르흐 이사, 70세
+@note 2부 6화는 '내부 대결'입니다. 요스트가 가장 믿던 스승이 의심받는 재단의 이사였다는 사실을 마주합니다. 역사 논거는 네덜란드의 중립 전통입니다. 빌럼 이후 상인 공화국이 선택한 '거리 두기'가 장점이자 면책의 구실이 된 역사를 짚으며 '중립은 침묵이 아니라 호의로부터의 자유'라는 정의가 나옵니다. 어휘는 우정·배신·고백(vertrouwen, beschaamd, toegeven, schaamte)과 어른의 어조에 주목하세요.
+@next 2부 7화 — «Vuile handen»(더러운 손) — 산네가 실종된 중재인의 통화 기록을 불법적으로 확보합니다. 딸 노르의 질문: '증거를 훔치면 그래도 증거야?'
+
+## 갑판 — OP HET DEK
+HERMAN: Joost? Het is elf uur. Wat een verrassing. ||| 요스트? 밤 열한 시군. 뜻밖이네.
+JOOST: Herman. Ik zag licht. ||| 헤르만. 불이 켜져 있어서요.
+HERMAN: Mijn licht brandt altijd. Dat zegt mijn buurvrouw. Kom aan boord. ||| 내 불은 늘 켜져 있지. 이웃 여자가 그러더군. 올라오게.
+JOOST: Ik blijf liever aan de kade staan. ||| 부두에 서 있는 게 낫겠습니다.
+HERMAN: Dat is nieuw. Je stond altijd binnen drie seconden op mijn dek. ||| 새로운 일이군. 늘 3초면 내 갑판에 서 있었는데.
+JOOST: Ik moet u iets vragen. En ik wil dat u me recht aankijkt als u antwoordt. ||| 하나 여쭤야 합니다. 대답하실 때 똑바로 봐 주셨으면 합니다.
+HERMAN: Dan kom ik naar je toe. ||| 그럼 내가 가지.
+JOOST: Herman. Bent u lid van het bestuur van de Stichting Blauwberg? ||| 헤르만. 블라우베르흐 재단 이사이십니까?
+HERMAN: ... ||| …
+JOOST: Ja of nee. ||| 예, 아니요로요.
+HERMAN: Ja. ||| 예.
+JOOST: Sinds wanneer? ||| 언제부터요?
+HERMAN: Vijf jaar. ||| 5년입니다.
+JOOST: Waarom hebt u mij dat nooit verteld? ||| 왜 한 번도 말하지 않으셨습니까?
+HERMAN: Omdat ik wist wat je zou denken. ||| 제가 어떻게 생각할지 아셨으니까요.
+JOOST: Wat zou ik denken? ||| 제가 뭘 생각했겠습니까?
+HERMAN: Dat ik erbij betrokken was. ||| 제가 연루됐다고요.
+JOOST: En bent u dat? ||| 그리고 연루돼 있습니까?
+HERMAN: Dat is een moeilijke vraag. ||| 어려운 질문이군.
+JOOST: Het is een eenvoudige. ||| 간단한 질문입니다.
+HERMAN: Ik zal het uitleggen. Maar laat me eerst een kop koffie zetten. Mijn handen trillen. ||| 설명하겠네. 하지만 먼저 커피를 끓이게 해 주게. 손이 떨려.
+JOOST: Zet maar. Ik kom aan boord. ||| 끓이세요. 올라가겠습니다.
+HERMAN: Dank je. ||| 고맙네.
+## 선실 — IN DE KAJUIT
+HERMAN: Vijf jaar geleden vroeg Lex Stuyvenberg me om koffie. We kenden elkaar van de Raad voor Juridische Zaken, dertig jaar terug. Hij zei: «Herman, ik zoek een man met gezag voor een stichting die jonge juristen steunt». ||| 5년 전 렉스 스타위벤베르흐가 커피를 하자고 했네. 30년 전 법무 위원회에서 안 사이지. 그가 말했어. "헤르만, 젊은 법률가를 후원하는 재단에 권위 있는 사람이 필요하네."
+JOOST: En u zei ja. ||| 그리고 승낙하셨고요.
+HERMAN: Ik zei ja. Ik was net met pensioen. Ik had een boot, een kleinkind en een gat in mijn agenda. ||| 승낙했지. 막 은퇴했고 배 한 척과 손주 하나와 비어 버린 일정이 있었으니까.
+JOOST: Wat deed u in dat bestuur? ||| 이사회에서 무엇을 하셨습니까?
+HERMAN: Vergaderen. Vier keer per jaar. We keurden de jaarrekening goed. De beurzen. De zomerschool. ||| 회의했지. 1년에 네 번. 결산, 장학금, 여름학교를 승인했어.
+JOOST: En de bron van het geld? ||| 돈의 출처는요?
+HERMAN: Er was een legaat. Van een oude reder. Het geld werd belegd. De opbrengsten betaalden de beurzen. ||| 유산이 있었네. 늙은 선주의 것이었지. 투자해서 그 수익으로 장학금을 줬어.
+JOOST: En daarna? ||| 그 뒤에는요?
+HERMAN: Daarna kwamen er giften bij. ||| 그 뒤에 기부금이 들어왔지.
+JOOST: Van wie? ||| 누구에게서요?
+HERMAN: Dat stond niet in de papieren. «Anonieme schenking». ||| 서류에 없었네. '익명 기부'라고만.
+JOOST: Hoeveel? ||| 얼마요?
+HERMAN: Eerst klein. Tweehonderdduizend. Dan één komma vijf miljoen. Vorig jaar drie komma twee. ||| 처음에는 작았지. 20만. 그다음엔 150만. 작년엔 320만.
+JOOST: Wanneer begon u vragen te stellen? ||| 언제부터 질문하기 시작하셨습니까?
+HERMAN: Twee jaar geleden. Na de schenking van drie komma twee. Ik vroeg aan Lex: «Van wie is dit?» ||| 2년 전입니다. 320만 기부 뒤에요. 렉스에게 물었네. "이거 누구 건가?"
+JOOST: En wat zei hij? ||| 그가 뭐라고 했습니까?
+HERMAN: «Herman, een gulle schenker die anoniem wil blijven. Je weet hoe dat gaat». ||| "헤르만, 익명을 원하는 너그러운 기부자일세. 어떻게 돌아가는지 알지 않나."
+JOOST: En u wist hoe dat gaat. ||| 그리고 어떻게 돌아가는지 아셨죠.
+HERMAN: Ik wist het. Ik heb vijfendertig jaar gezeten in rooms waar mensen anoniem wilden blijven. ||| 알았지. 35년간 익명을 원하는 사람들이 있는 자리에 앉아 있었으니까.
+JOOST: En u hebt niet doorgevraagd. ||| 그런데 더 캐묻지 않으셨고요.
+HERMAN: Nee. ||| 그래.
+JOOST: Waarom niet? ||| 왜죠?
+HERMAN: Omdat ik bang was dat hij zou antwoorden. ||| 그가 대답할까 봐 두려워서였네.
+JOOST: Dat is een eerlijk antwoord. Het is ook een vreselijk antwoord. ||| 정직한 대답이네요. 그리고 끔찍한 대답이기도 하고요.
+HERMAN: Ik weet het. ||| 알아.
+JOOST: U vertelde me over Willem de Zwijger. Er zijn twee soorten zwijgen, zei u. Het beschermende en het eigen. ||| 침묵공 빌럼 이야기를 해 주셨죠. 침묵에는 두 가지가 있다고요. 보호하는 침묵과 자기를 위한 침묵.
+HERMAN: Dat heb ik gezegd. ||| 그렇게 말했지.
+JOOST: En welke was die van u? ||| 그럼 선생님 것은 어느 쪽이었습니까?
+HERMAN: ... Die tweede. ||| …두 번째일세.
+JOOST: Dank u dat u het zegt. ||| 말씀해 주셔서 감사합니다.
+HERMAN: Ik had gehoopt dat je het niet zou vragen. ||| 자네가 묻지 않기를 바랐지.
+JOOST: Ik ook. ||| 저도요.
+## 중립 — NEUTRALITEIT
+HERMAN: Joost, mag ik je iets zeggen over mijn generatie? ||| 요스트, 우리 세대에 대해 한마디 해도 되겠나?
+JOOST: Zeg het. ||| 하세요.
+HERMAN: Wij zijn opgevoed met neutraliteit. Het was onze trots. Het Vredespaleis. Het Hof. De boekhouders van de wereld. We waren de mensen die nooit partij kozen. ||| 우리는 중립을 배우며 자랐네. 자랑이었지. 평화궁, 재판소, 세계의 회계사들. 결코 편을 들지 않는 사람들이었어.
+JOOST: En dat is een mooie traditie. ||| 아름다운 전통이죠.
+HERMAN: Het is een zwakke traditie. Weet je waar het begon? ||| 약한 전통이기도 하네. 어디서 시작됐는지 아나?
+JOOST: In de Republiek? ||| 공화국에서요?
+HERMAN: Na Willem. Na de oorlog. De Republiek was een land van kooplieden. Ze wilden handelen met iedereen: met de Spanjaarden, de Fransen, de Engelsen, de Turken. Neutraliteit was geen moraal. Het was een verdienmodel. ||| 빌럼 이후, 전쟁 뒤에. 공화국은 상인의 나라였네. 스페인, 프랑스, 영국, 튀르크 사람 모두와 거래하고 싶어 했지. 중립은 도덕이 아니라 수익 모델이었어.
+JOOST: Dat is een cynische lezing. ||| 냉소적인 해석이군요.
+HERMAN: Het is een eerlijke. En het verklaart waarom we zo goed zijn in zwijgen. Als je met iedereen handelt, ben je met niemand ruzie. ||| 정직한 해석일세. 그리고 우리가 침묵에 그토록 능한 이유를 설명하지. 모두와 거래하면 누구와도 싸울 일이 없으니까.
+JOOST: Maar neutraliteit is niet zwijgen. ||| 하지만 중립은 침묵이 아닙니다.
+HERMAN: Wat is het dan? ||| 그럼 뭔가?
+JOOST: Neutraliteit is vrij zijn van gunsten. ||| 중립은 호의로부터 자유로운 것입니다.
+HERMAN: Dat is een mooie definitie. ||| 아름다운 정의로군.
+JOOST: Het is van Femke. Ze zei het gisteren in de auto. ||| 페므커 말입니다. 어제 차 안에서 했어요.
+HERMAN: Dan is zij wijzer dan wij. ||| 그럼 그 아이가 우리보다 현명하군.
+JOOST: Dat zijn jonge mensen vaak. ||| 젊은 사람들이 종종 그렇죠.
+HERMAN: En de Stichting is geen neutrale instelling. ||| 그리고 재단은 중립 기관이 아니네.
+JOOST: Nee. ||| 네.
+HERMAN: Ze deelt gunsten uit. Dat is het hele idee. ||| 호의를 나눠 주는 곳이야. 그게 발상의 전부지.
+JOOST: Aan wie? ||| 누구에게요?
+HERMAN: Aan mensen die later belangrijk zijn. ||| 나중에 중요해질 사람들에게.
+JOOST: Aan arbiters. Aan griffiers. Aan hoogleraren. ||| 중재인, 서기, 교수들에게요.
+HERMAN: Ja. En aan ambassadeurs. ||| 그리고 대사들에게도.
+JOOST: Wat heeft u gekregen? ||| 선생님은 뭘 받으셨습니까?
+HERMAN: Een vergoeding. Achtduizend euro per jaar voor bestuursleden. ||| 보수지. 이사 한 명당 연 8천 유로.
+JOOST: En een zomerschool-lezing. ||| 그리고 여름학교 강연도요.
+HERMAN: Ook dat. Ik heb er twaalfduizend voor gekregen. ||| 그것도. 1만 2천 받았네.
+JOOST: Dat is niet veel. ||| 많지는 않군요.
+HERMAN: Het is genoeg om niet te vragen. ||| 묻지 않기엔 충분한 액수지.
++ legaat = 유산 기증(유언에 의한 기부)
++ een gulle schenker = 후한 기부자
++ belegd = 투자된. 'beleggen'은 투자하다
++ jaarrekening = 결산서
++ een verdienmodel = 수익 모델
++ vrij van gunsten = 호의로부터 자유로운
++ bestuursvergoeding = 이사 보수
++ een gat in de agenda = 일정의 빈틈
++ kooplieden = 상인들
++ anoniem = 익명의
