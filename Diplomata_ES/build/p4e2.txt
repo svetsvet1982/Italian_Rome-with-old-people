@@ -1,0 +1,238 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 2
+@title La Paz de las Damas
+@ko 귀부인들의 평화
+@setting 2월 3일 타마지아 살마라 고서점 → 구궁의 '두 문의 집' 안뜰 → 밤의 서점 옥상
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 45세
+@cast SEFIA | 서점 손녀, 23세
+@cast MARIAM | 구조된 여성이자 항구 '수용 기금' 사무원, 28세
+@cast NADIA | 이드리스 왕의 미망인, 라일라의 어머니, 66세
+@cast SORAYA | 시디 바시르 장군의 부인, 62세 (나디아의 동생)
+@cast HAMID | 고서점 주인, 79세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@note 2화는 남자들의 협상이 막힌 뒤 열린 '여성 비공식 채널'입니다. 이드리스 왕의 미망인 나디아와 그의 동생이자 시디 바시르 장군의 부인인 소라야가 구궁의 '두 문의 집'에서 문안을 직접 짭니다. 역사 논거는 캉브레 '귀부인들의 평화'(1529): 카를 5세의 숙모 마르가리타와 프랑수아 1세의 어머니 루이즈가 서로 이웃한 집에서 통로로 오가며 협정을 만든 사례입니다. 해법의 씨앗은 '쓰는 사람은 서명하지 않고, 서명하는 사람은 쓰지 않는다'는 상호 검증 방식입니다. 어휘는 협상 문안(cláusula, tregua, redactar, rubricar)과 가족 관계 표현에 주목하세요.
+@next 3화: 유언 사본의 출처를 추적합니다. 문서는 '한 곳'에 모아야 합니다. 시망카스 문서고가 열쇠입니다.
+
+## 서점 — LA LIBRERÍA DE HAMID
+SEFIA: Señor Quintana, pase. Entre por la puerta de atrás. ||| 킨타나 씨, 들어오세요. 뒷문으로 오세요.
+ÁLVARO: ¿Hay alguien vigilando? ||| 감시하는 사람이 있습니까?
+SEFIA: Un hombre en el café de enfrente. Lleva dos días con el mismo té. ||| 맞은편 카페에 한 남자가 있어요. 이틀째 같은 차 한 잔을 들고 있어요.
+ÁLVARO: Del ejército. ||| 군 사람이군요.
+SEFIA: O de los navieros. A estas alturas no sé distinguirlos. ||| 아니면 선주들이요. 이쯤 되면 구분이 안 가요.
+ÁLVARO: Vengo a título privado, como siempre. ¿Está su abuelo? ||| 늘 그렇듯 개인 자격으로 왔습니다. 할아버지는 계십니까?
+SEFIA: Está arriba, con los libros. No quiere bajar. ||| 위에서 책들과 계세요. 내려오려 하지 않으세요.
+ÁLVARO: ¿Está bien? ||| 괜찮으십니까?
+SEFIA: Está esperando. No sé qué. ||| 기다리고 계세요. 뭘 기다리시는지는 모르겠지만요.
+ÁLVARO: Sefia, ¿para qué me ha llamado usted? ||| 세피아, 저를 왜 부르셨죠?
+SEFIA: Porque hay una conversación que los hombres han dejado de tener. ||| 남자들이 더는 하지 않는 대화가 있어서요.
+ÁLVARO: ¿Cuál? ||| 어떤 대화요?
+SEFIA: La de dos hermanas. ||| 두 자매의 대화요.
+ÁLVARO: No entiendo. ||| 이해가 안 됩니다.
+MARIAM: Yo se lo explico. ||| 제가 설명할게요.
+ÁLVARO: Mariam. ¡Qué alegría! ¿Y la pequeña? ||| 마리암. 반갑군요! 아기는요?
+MARIAM: Merced cumplió un año en enero. Anda sujetándose a los muebles. ||| 메르세드가 1월에 돌이 됐어요. 가구를 붙잡고 걸어 다녀요.
+ÁLVARO: Mil felicidades. ||| 정말 축하합니다.
+MARIAM: Gracias. Trabajo desde hace seis meses en el fondo de acogida del puerto. Y allí he conocido a las dos hermanas. ||| 감사해요. 저는 6개월 전부터 항구의 수용 기금에서 일해요. 거기서 두 자매를 알게 됐어요.
+ÁLVARO: ¿Qué hermanas? ||| 어떤 자매요?
+MARIAM: Nadia y Soraya. Nadia es la reina viuda, la madre de la princesa Laila. Soraya es la esposa del general. ||| 나디아와 소라야요. 나디아는 미망인 왕비이고 라일라 공주의 어머니예요. 소라야는 장군의 부인이고요.
+ÁLVARO: Son hermanas. ||| 자매였군요.
+MARIAM: Se casaron con dos hermanos. Una con el rey. La otra con el general. ||| 두 형제와 결혼했어요. 한 사람은 왕과, 다른 사람은 장군과요.
+ÁLVARO: Y ahora los dos hermanos se disputan el trono. ||| 그리고 이제 두 형제가 왕좌를 다투고요.
+MARIAM: Y las dos mujeres no se hablan desde el funeral. ||| 두 여인은 장례식 이후로 말을 하지 않아요.
+ÁLVARO: ¿Cuándo fue el funeral? ||| 장례가 언제였죠?
+SEFIA: Hace dos días. Y ayer, en la mezquita, Soraya no se sentó con su hermana. ||| 이틀 전이에요. 어제 모스크에서 소라야는 언니 옆에 앉지 않았어요.
+ÁLVARO: ¿Y qué quieren ustedes? ||| 그래서 두 분은 무엇을 원합니까?
+MARIAM: Que se hablen. ||| 두 사람이 말을 나누는 거요.
+ÁLVARO: ¿Para qué? ||| 무엇을 위해서요?
+MARIAM: Para escribir un papel. Antes de que los hombres escriban otro. ||| 문서 하나를 쓰기 위해서요. 남자들이 다른 문서를 쓰기 전에.
+ÁLVARO: Eso me recuerda algo. ||| 뭔가 떠오르는군요.
+SEFIA: ¿Una historia? ||| 이야기요?
+ÁLVARO: Una muy vieja. Mil quinientos veintinueve. Cambrai, una ciudad del norte de Francia. ||| 아주 오래된 이야기죠. 1529년 프랑스 북부의 도시 캉브레.
+SEFIA: Cuente. ||| 들려주세요.
+ÁLVARO: España y Francia llevaban años en guerra. El emperador Carlos y el rey Francisco. Los dos eran obstinados. Los dos tenían generales que querían seguir. ||| 스페인과 프랑스는 몇 해째 전쟁 중이었어요. 카를 황제와 프랑수아 왕은 둘 다 고집이 셌고, 둘 다 계속 싸우길 원하는 장군들이 있었죠.
+MARIAM: Y los generales no podían parar. ||| 그리고 장군들은 멈출 수 없었죠.
+ÁLVARO: Exacto. Entonces intervinieron dos mujeres. Margarita de Austria, tía del emperador. Y Luisa de Saboya, madre del rey de Francia. ||| 그때 두 여인이 나섰습니다. 황제의 숙모 마르가리타 데 아우스트리아, 프랑스 왕의 어머니 루이즈 드 사부아입니다.
+SEFIA: ¿Se conocían? ||| 서로 아는 사이였나요?
+ÁLVARO: Desde jóvenes. Margarita se había criado en la corte de Francia. Se conocían desde niñas. ||| 젊을 때부터요. 마르가리타는 프랑스 궁정에서 자랐어요. 어릴 때부터 알았죠.
+MARIAM: ¿Y qué hicieron? ||| 그래서 뭘 했나요?
+ÁLVARO: Se instalaron en dos casas contiguas. Y abrieron un pasadizo en la pared entre las dos. Para no tener que salir a la calle. ||| 이웃한 두 집에 머물렀어요. 그리고 두 집 사이 벽에 통로를 냈습니다. 거리로 나가지 않아도 되게요.
+SEFIA: Una puerta entre dos casas. ||| 두 집 사이의 문이네요.
+ÁLVARO: Allí negociaron durante semanas. Sin ministros. Sin generales. Solo ellas y sus secretarios. ||| 거기서 몇 주 동안 협상했습니다. 장관도 장군도 없이, 두 사람과 서기들만요.
+MARIAM: ¿Y el resultado? ||| 결과는요?
+ÁLVARO: El tratado de Cambrai. Lo llamaron «la Paz de las Damas». El rey renunció a Italia, el emperador a Borgoña. Se rescataron los hijos del rey por una suma enorme. ||| 캉브레 조약입니다. '귀부인들의 평화'라고 불렀죠. 왕은 이탈리아를, 황제는 부르고뉴를 포기했고, 왕의 아들들은 거액으로 풀려났습니다.
+SEFIA: Y lo que los hombres no pudieron en diez años… ||| 남자들이 10년간 못 한 걸…
+ÁLVARO: Lo hicieron ellas en cinco semanas. ||| 그녀들은 5주 만에 해냈죠.
+MARIAM: ¿Por qué pudieron? ||| 왜 가능했죠?
+ÁLVARO: Porque no tenían nada que demostrar. Los hombres necesitan ganar. Ellas necesitaban acabar. ||| 증명할 게 없었으니까요. 남자들은 이겨야 했고, 그녀들은 끝내야 했습니다.
+SEFIA: Aquí hay una casa así. ||| 여기에도 그런 집이 있어요.
+ÁLVARO: ¿Una casa? ||| 집이요?
+SEFIA: En el palacio viejo. Se llama «la casa de las dos puertas». Dos pabellones para las esposas del rey, antes de que existiera el palacio nuevo. Entre los dos hay una puerta. Cerrada desde hace cuarenta años. ||| 구궁에 있어요. '두 문의 집'이라고 불러요. 새 궁이 생기기 전 왕의 부인들이 쓰던 별채 둘인데, 그 사이에 문이 있어요. 40년 동안 잠겨 있었죠.
+ÁLVARO: ¿Quién tiene la llave? ||| 열쇠는 누가 갖고 있습니까?
+MARIAM: Yo. ||| 제가요.
+ÁLVARO: ¿Usted? ||| 당신이요?
+MARIAM: Me la dio la reina Nadia cuando me trajeron del barco. Me dijo: «Guárdala. Un día alguien la necesitará». ||| 배에서 데려왔을 때 나디아 왕비님이 주셨어요. '간직해라. 언젠가 누군가 필요로 할 거다'라고 하셨죠.
+ÁLVARO: Es una mujer prudente. ||| 사려 깊은 분이시군요.
+MARIAM: Es una mujer que sabe esperar. ||| 기다릴 줄 아는 분이에요.
++ vigilar = 감시하다
++ contiguo = 인접한
++ pasadizo = 통로
++ suma = 금액
++ obstinado = 고집 센
++ pabellón = 별채, 파빌리온
++ viuda = 미망인
++ Paz de las Damas = '귀부인들의 평화'(1529 캉브레 조약)
+
+## 두 문의 집 — LA CASA DE LAS DOS PUERTAS
+MARIAM: Majestad, hermana. Gracias por venir. ||| 왕비님, 소라야 님. 와 주셔서 감사합니다.
+NADIA: Mariam. Nos has citado con una nota en el sobre del fondo. Aquí estamos. ||| 마리암. 기금 봉투 속 쪽지로 우리를 불렀구나. 이렇게 왔다.
+SORAYA: Yo vengo porque tú me lo has pedido. No por ella. ||| 나는 네가 부탁해서 온 거다. 저 사람 때문이 아니라.
+NADIA: «Ella». Soy tu hermana mayor. ||| '저 사람'이라니. 나는 네 언니다.
+SORAYA: Fuiste mi hermana mayor. Ahora eres la viuda del rey. ||| 언니였지. 지금은 왕의 미망인이고.
+NADIA: Y tú eres la mujer del hombre que quiere la corona. ||| 너는 왕관을 탐내는 남자의 아내고.
+MARIAM: Señoras, antes de que sigan, una regla. ||| 두 분, 계속하시기 전에 규칙이 하나 있어요.
+NADIA: ¿Una regla? ||| 규칙이요?
+MARIAM: Hay un invitado fuera. Un extranjero. Quiere ayudar. No entra. Solo escucha desde el patio. ||| 밖에 손님이 한 분 계세요. 외국인이에요. 돕고 싶어 하세요. 들어오지 않고 안뜰에서 듣기만 합니다.
+SORAYA: ¿Un extranjero? ||| 외국인이요?
+NADIA: El español. El de la fundación. El que salvó el barco. ||| 스페인 사람이다. 재단 사람. 배를 구한 사람이지.
+SORAYA: ¿Y qué hace aquí? ||| 여기서 뭘 하는 거죠?
+ÁLVARO: Perdone la intromisión, señoras. Les ofrezco solo una idea. ||| 끼어들어 죄송합니다, 부인들. 아이디어 하나만 드리겠습니다.
+NADIA: Hable desde el patio, señor. ||| 안뜰에서 말씀하세요.
+ÁLVARO: Hace casi quinientos años, dos mujeres como ustedes, en una situación como esta, firmaron la paz entre dos reyes. Se llama la Paz de las Damas. ||| 거의 500년 전, 두 분 같은 두 여인이 이런 상황에서 두 왕 사이의 평화에 서명했습니다. '귀부인들의 평화'라고 하죠.
+SORAYA: ¿Y qué reglas usaron? ||| 어떤 규칙을 썼습니까?
+ÁLVARO: Tres. Primera: nadie más en la sala. Ni ministros, ni abogados. Segunda: cada una escribía, y la otra corregía. Tercera: no se levantaban hasta tener una página. ||| 세 가지였습니다. 첫째, 방에는 다른 사람 없음. 장관도 변호사도 안 됩니다. 둘째, 한 사람이 쓰면 다른 사람이 고친다. 셋째, 한 쪽을 채울 때까지 일어서지 않는다.
+NADIA: Una página. ||| 한 쪽.
+ÁLVARO: Una sola. En un papel que quepa en un bolsillo. ||| 딱 한 쪽이요. 주머니에 들어갈 종이에요.
+SORAYA: Mi marido no lo permitiría. ||| 남편이 허락하지 않을 겁니다.
+NADIA: Mi marido está enterrado. ||| 내 남편은 묻혔다.
+SORAYA: Nadia. ||| 언니.
+NADIA: Es verdad. ||| 사실이잖니.
+MARIAM: Si me permiten, traigo té. Y papel. ||| 괜찮으시다면 차와 종이를 가져올게요.
+SORAYA: Trae dos plumas. ||| 펜은 두 개를 가져와라.
+NADIA: Y una mesa pequeña. Para que no nos sentemos lejos. ||| 작은 탁자도. 멀리 앉지 않게.
+MARIAM: Aquí tienen. ||| 여기 있습니다.
+SORAYA: Una pregunta. ¿Quién escribe primero? ||| 질문 하나. 누가 먼저 쓰죠?
+NADIA: La menor. ||| 동생이.
+SORAYA: Siempre la menor. ||| 늘 동생이군.
+NADIA: Así empezó nuestra madre. ||| 어머니가 그렇게 시작하셨지.
+SORAYA: Bien. Primer artículo. «Durante cuarenta días de luto, ninguna fuerza armada se desplazará dentro del puerto.» ||| 좋아요. 제1조. "40일의 복상 기간 동안 무장 병력은 항구 안에서 이동하지 않는다."
+NADIA: Lo corrijo. «Ninguna fuerza armada, ni oficial ni privada.» ||| 내가 고치지. "공식 병력이든 사병이든 무장 병력은."
+SORAYA: «Privada». ¿Por los guardias de Mansour? ||| '사병'이요? 만수르의 경비들 때문에요?
+NADIA: Por los tuyos y los suyos. ||| 네 쪽 사람들과 저쪽 모두.
+SORAYA: De acuerdo. ||| 좋아요.
+ÁLVARO: Perdonen que intervenga un momento. Hay un detalle del procedimiento que conviene recordar. ||| 잠시 끼어들어 죄송합니다. 절차상 기억해 둘 사항이 하나 있습니다.
+NADIA: Hable. ||| 말씀하세요.
+ÁLVARO: En Cambrai, la que escribía no firmaba el artículo. Lo firmaba la otra. Así ninguna podía decir mañana: «Eso lo redactó mi hermana». ||| 캉브레에서는 쓴 사람이 그 조항에 서명하지 않았습니다. 다른 사람이 서명했죠. 그래야 누구도 훗날 '그건 언니가 쓴 거다'라고 말할 수 없었으니까요.
+SORAYA: La que escribe no firma. ||| 쓰는 사람은 서명하지 않는다.
+NADIA: Y la que firma no escribe. ||| 그리고 서명하는 사람은 쓰지 않는다.
+SORAYA: Es astuto. ||| 영리하네요.
+NADIA: Es justo. ||| 공정하기도 하고.
+SORAYA: Es lo mismo cuando no hay confianza. ||| 신뢰가 없을 땐 같은 말이죠.
+NADIA: Entonces firmo yo el primer artículo. ||| 그럼 제1조는 내가 서명하마.
+SORAYA: Y yo el segundo. ||| 제2조는 내가 하죠.
+NADIA: Escribe. ||| 쓰렴.
+SORAYA: «Artículo dos. El puerto de Puerto Nuevo se reabrirá al amanecer, para los ferris y los cargueros. Las patrullas militares permanecerán en el muelle norte.» ||| "제2조. 푸에르토 누에보 항은 새벽에 재개되어 여객선과 화물선이 드나든다. 군 순찰대는 북쪽 부두에 머문다."
+NADIA: Lo corrijo. «Y las patrullas de rescate, en el muelle sur.» ||| 고치마. "그리고 구조 순찰대는 남쪽 부두에."
+SORAYA: Las patrullas de rescate. ¿Por qué? ||| 구조 순찰대요? 왜죠?
+NADIA: Porque cada vez que se cierra un puerto, mueren personas en el mar. Eso lo aprendí de la chica del barco. ||| 항구가 닫힐 때마다 바다에서 사람이 죽으니까. 배에서 온 그 아가씨에게 배웠다.
+MARIAM: Gracias, Majestad. ||| 감사합니다, 왕비님.
+NADIA: No me des las gracias. Dame una pluma que escriba. ||| 감사는 됐다. 글이 나오는 펜을 다오.
+SORAYA: Artículo tres. «Los tres testamentos quedan en suspenso hasta que un órgano independiente verifique su lugar, su fecha y su notario.» ||| 제3조. "세 개의 유언은 독립 기구가 장소, 날짜, 공증인을 검증할 때까지 효력을 유예한다."
+NADIA: Eso lo ha dicho el español. ||| 스페인 사람이 말한 거다.
+SORAYA: Es lo que dice mi sentido común. ||| 내 상식이 말하는 거예요.
+NADIA: Lo firmo. ||| 서명하마.
+SORAYA: ¿Sin corregir? ||| 고치지 않고요?
+NADIA: Sin corregir. Hay veces en que la mejor corrección es el silencio. ||| 고치지 않고. 침묵이 최선의 교정일 때도 있다.
+SORAYA: ¿Y el cuatro? ||| 4조는요?
+NADIA: El cuatro es el difícil. ||| 4조가 어렵지.
+SORAYA: El trono. ||| 왕좌요.
+NADIA: El trono. ¿Quién escribe? ||| 왕좌. 누가 쓰지?
+SORAYA: Tú. Eres la mayor. ||| 언니가요. 맏이잖아요.
+NADIA: Escribo. «Artículo cuatro. Nadie será proclamado rey o reina durante el luto.» ||| 쓴다. "제4조. 복상 기간 동안 누구도 왕이나 여왕으로 선포되지 않는다."
+SORAYA: Lo firmo. Con una corrección. ||| 서명하죠. 고쳐서요.
+NADIA: Dime. ||| 말해 봐라.
+SORAYA: «Y nadie será proclamado regente.» ||| "그리고 누구도 섭정으로 선포되지 않는다."
+NADIA: Eso afecta a tu marido. ||| 네 남편에게 해당되는 말이구나.
+SORAYA: Y tu hija. ||| 언니의 딸에게도요.
+NADIA: Lo firmo. ||| 서명하마.
+SORAYA: Entonces tenemos cuatro artículos. ||| 그럼 조항이 네 개 됐네요.
+NADIA: En una página. ||| 한 쪽에.
+SORAYA: En una página. ||| 한 쪽에.
+ÁLVARO: Señoras, ¿puedo decir algo? ||| 부인들, 한마디 해도 될까요?
+NADIA: Ya lo ha hecho. ||| 이미 하셨죠.
+ÁLVARO: Falta algo. Un artículo cinco. ||| 하나 빠졌습니다. 제5조요.
+SORAYA: ¿Cuál? ||| 어떤 거요?
+ÁLVARO: Quién verifica que ustedes cumplen. ||| 두 분이 지키는지를 누가 확인하는가요.
+NADIA: Nosotras. ||| 우리가요.
+ÁLVARO: ¿Y si una incumple? ||| 한 사람이 어기면요?
+NADIA: La otra lo dice en voz alta. En la plaza. ||| 다른 사람이 큰 소리로 말하겠죠. 광장에서.
+ÁLVARO: «En voz alta.» ||| '큰 소리로'.
+SORAYA: Es la costumbre de mi padre. ||| 아버지의 관습이에요.
+NADIA: «Artículo cinco. Quien incumpla este papel lo oirá leído en la plaza, con su nombre y su fecha.» ||| "제5조. 이 문서를 어기는 자는 이름과 날짜와 함께 광장에서 낭독되는 것을 듣게 된다."
+SORAYA: Lo firmo. ||| 서명하죠.
+NADIA: Y yo firmo el que acabas de escribir tú, el que no escribiste. ||| 그리고 방금 네가 쓴 조항에 내가 서명하마. 네가 쓰지 않은 부분까지 포함해서.
+SORAYA: Nadia. ||| 언니.
+NADIA: Soraya. ||| 소라야.
+SORAYA: Hace dos días me senté lejos. ||| 이틀 전 나는 멀리 앉았죠.
+NADIA: Lo vi. ||| 봤단다.
+SORAYA: Perdón. ||| 미안해요.
+NADIA: No hay nada que perdonar. Hay un papel que firmar. ||| 용서할 게 없다. 서명할 종이가 있을 뿐이야.
++ luto = 복상, 애도 기간
++ en suspenso = 유예된, 보류된
++ proclamar = 선포하다
++ regente = 섭정
++ redactar = 문안을 작성하다
++ firmar / rubricar = 서명하다 / 약식으로 서명하다
++ astuto = 영리한, 꾀바른
++ incumplir = 어기다, 이행하지 않다
++ patrulla = 순찰대
+
+## 밤의 옥상 — LA AZOTEA DE NOCHE
+HAMID: Señor Quintana. Ya sabía que vendría. ||| 킨타나 씨. 오실 줄 알았소.
+ÁLVARO: Señor Hamid. ¿Ha dormido? ||| 하미드 어르신. 주무셨습니까?
+HAMID: No. Los viejos duermen poco y mal. Dígame, ¿han firmado? ||| 아니오. 노인은 적게, 나쁘게 자지. 말해 보시오, 서명했소?
+ÁLVARO: Han firmado cinco artículos. En una página. ||| 다섯 조항에 서명했습니다. 한 쪽에요.
+HAMID: Qué bien. ¿Y quién escribió el último? ||| 잘됐군. 마지막은 누가 썼소?
+ÁLVARO: Nadia lo escribió. Soraya lo firmó. ||| 나디아가 쓰고 소라야가 서명했어요.
+HAMID: Ese es el que dice lo de la plaza. ||| 광장 이야기가 들어간 거로군.
+ÁLVARO: Sí. ¿Cómo lo sabe? ||| 네. 어떻게 아십니까?
+HAMID: Porque mi rey no hablaba de otra cosa en los últimos meses. ||| 마지막 몇 달 내 왕께서 다른 이야기는 하지 않으셨으니까.
+ÁLVARO: ¿Qué decía? ||| 뭐라고 하셨습니까?
+HAMID: Que un país no se gobierna con un papel. Se gobierna con una voz. ||| 나라는 종이로 다스리는 게 아니라 목소리로 다스리는 거라고요.
+ÁLVARO: Eso me parece una frase suya. ||| 그분 문장 같군요.
+HAMID: Es una frase mía. Pero la repetía tanto que se la quedó. ||| 내 문장이오. 하도 되풀이해서 왕께서 가져가셨지.
+ÁLVARO: ¿Y la última frase? ||| 그럼 마지막 문장은요?
+HAMID: ¿Cuál? ||| 어떤 거요?
+ÁLVARO: La del cuarto testamento. ||| 네 번째 유언의 문장이요.
+HAMID: Señor Quintana, no he dicho que exista. ||| 킨타나 씨, 있다고 말한 적 없소.
+ÁLVARO: Lo sé. Pero usted me habló de un lugar. ||| 압니다. 하지만 장소 이야기를 하셨죠.
+HAMID: Hablé de un sitio. Todavía no he dicho cuál. ||| 장소 이야기를 했소. 어딘지는 아직 말하지 않았고.
+ÁLVARO: ¿Cuándo lo dirá? ||| 언제 말씀하시겠습니까?
+HAMID: Cuando haya alguien que quiera escucharlo en voz alta. ||| 큰 소리로 듣고 싶어 하는 사람이 생길 때요.
+ÁLVARO: Yo quiero. ||| 저는 그러고 싶습니다.
+HAMID: Usted quiere. Pero no es suficiente. Tiene que quererlo la plaza. ||| 당신은 원하겠지. 하지만 충분치 않소. 광장이 원해야 하오.
+ÁLVARO: ¿Cómo hago que la plaza lo quiera? ||| 광장이 원하게 하려면 어떻게 합니까?
+HAMID: No se hace. Se espera. Como el pan. ||| 만들 수 없소. 기다리는 거지. 빵처럼.
+KADER: Perdón por interrumpir. ||| 끼어들어 미안합니다.
+ÁLVARO: Kader. ¿Qué ocurre? ||| 카데르. 무슨 일입니까?
+KADER: El general sabe lo de las damas. Lo sabe desde hace una hora. ||| 장군이 부인들 일을 알아요. 한 시간 전부터요.
+ÁLVARO: ¿Y qué hace? ||| 어떻게 합니까?
+KADER: Ha llamado a su mujer. Ha gritado. Ella ha colgado. ||| 아내에게 전화해서 고함을 질렀어요. 부인은 끊었고요.
+ÁLVARO: ¿Ha colgado? ||| 끊었다고요?
+KADER: Es la primera vez en cuarenta años. ||| 40년 만에 처음입니다.
+ÁLVARO: Entonces el papel funciona. ||| 그럼 문서가 효과를 내는군요.
+KADER: Funciona demasiado bien. Mañana a las nueve, el general convoca una reunión del Estado Mayor. ||| 너무 잘 통해서 문제죠. 내일 아침 9시에 장군이 참모회의를 소집했어요.
+ÁLVARO: ¿Para qué? ||| 무슨 일로요?
+KADER: Para decidir si reconoce el papel. O si lo ignora. ||| 이 문서를 인정할지 무시할지 결정하려고요.
+ÁLVARO: Y yo, ¿qué puedo hacer? ||| 제가 할 수 있는 일은 뭡니까?
+KADER: Nada. Esa es su única función esta noche. Esperar. ||| 아무것도요. 오늘 밤 당신의 유일한 역할은 기다리는 겁니다.
+HAMID: Como el pan. ||| 빵처럼.
+ÁLVARO: Como el pan. ||| 빵처럼요.
++ azotea = 옥상
++ el Estado Mayor = 참모부, 참모회의
++ colgar = 전화를 끊다
++ convocar = 소집하다
++ interrumpir = 끊다, 방해하다
++ A estas alturas = 지금쯤이면, 이 단계에 와서는

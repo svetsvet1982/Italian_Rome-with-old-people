@@ -1,0 +1,86 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 2
+@title La Paz de las Damas
+@ko 귀부인들의 평화
+@setting 2월 3일 타마지아 살마라 고서점 → 구궁의 '두 문의 집' 안뜰 → 밤의 서점 옥상
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 45세
+@cast SEFIA | 서점 손녀, 23세
+@cast MARIAM | 구조된 여성이자 항구 '수용 기금' 사무원, 28세
+@cast NADIA | 이드리스 왕의 미망인, 라일라의 어머니, 66세
+@cast SORAYA | 시디 바시르 장군의 부인, 62세 (나디아의 동생)
+@cast HAMID | 고서점 주인, 79세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@note 2화는 남자들의 협상이 막힌 뒤 열린 '여성 비공식 채널'입니다. 이드리스 왕의 미망인 나디아와 그의 동생이자 시디 바시르 장군의 부인인 소라야가 구궁의 '두 문의 집'에서 문안을 직접 짭니다. 역사 논거는 캉브레 '귀부인들의 평화'(1529): 카를 5세의 숙모 마르가리타와 프랑수아 1세의 어머니 루이즈가 서로 이웃한 집에서 통로로 오가며 협정을 만든 사례입니다. 해법의 씨앗은 '쓰는 사람은 서명하지 않고, 서명하는 사람은 쓰지 않는다'는 상호 검증 방식입니다. 어휘는 협상 문안(cláusula, tregua, redactar, rubricar)과 가족 관계 표현에 주목하세요.
+@next 3화: 유언 사본의 출처를 추적합니다. 문서는 '한 곳'에 모아야 합니다. 시망카스 문서고가 열쇠입니다.
+
+## 서점 — LA LIBRERÍA DE HAMID
+SEFIA: Señor Quintana, pase. Entre por la puerta de atrás. ||| 킨타나 씨, 들어오세요. 뒷문으로 오세요.
+ÁLVARO: ¿Hay alguien vigilando? ||| 감시하는 사람이 있습니까?
+SEFIA: Un hombre en el café de enfrente. Lleva dos días con el mismo té. ||| 맞은편 카페에 한 남자가 있어요. 이틀째 같은 차 한 잔을 들고 있어요.
+ÁLVARO: Del ejército. ||| 군 사람이군요.
+SEFIA: O de los navieros. A estas alturas no sé distinguirlos. ||| 아니면 선주들이요. 이쯤 되면 구분이 안 가요.
+ÁLVARO: Vengo a título privado, como siempre. ¿Está su abuelo? ||| 늘 그렇듯 개인 자격으로 왔습니다. 할아버지는 계십니까?
+SEFIA: Está arriba, con los libros. No quiere bajar. ||| 위에서 책들과 계세요. 내려오려 하지 않으세요.
+ÁLVARO: ¿Está bien? ||| 괜찮으십니까?
+SEFIA: Está esperando. No sé qué. ||| 기다리고 계세요. 뭘 기다리시는지는 모르겠지만요.
+ÁLVARO: Sefia, ¿para qué me ha llamado usted? ||| 세피아, 저를 왜 부르셨죠?
+SEFIA: Porque hay una conversación que los hombres han dejado de tener. ||| 남자들이 더는 하지 않는 대화가 있어서요.
+ÁLVARO: ¿Cuál? ||| 어떤 대화요?
+SEFIA: La de dos hermanas. ||| 두 자매의 대화요.
+ÁLVARO: No entiendo. ||| 이해가 안 됩니다.
+MARIAM: Yo se lo explico. ||| 제가 설명할게요.
+ÁLVARO: Mariam. ¡Qué alegría! ¿Y la pequeña? ||| 마리암. 반갑군요! 아기는요?
+MARIAM: Merced cumplió un año en enero. Anda sujetándose a los muebles. ||| 메르세드가 1월에 돌이 됐어요. 가구를 붙잡고 걸어 다녀요.
+ÁLVARO: Mil felicidades. ||| 정말 축하합니다.
+MARIAM: Gracias. Trabajo desde hace seis meses en el fondo de acogida del puerto. Y allí he conocido a las dos hermanas. ||| 감사해요. 저는 6개월 전부터 항구의 수용 기금에서 일해요. 거기서 두 자매를 알게 됐어요.
+ÁLVARO: ¿Qué hermanas? ||| 어떤 자매요?
+MARIAM: Nadia y Soraya. Nadia es la reina viuda, la madre de la princesa Laila. Soraya es la esposa del general. ||| 나디아와 소라야요. 나디아는 미망인 왕비이고 라일라 공주의 어머니예요. 소라야는 장군의 부인이고요.
+ÁLVARO: Son hermanas. ||| 자매였군요.
+MARIAM: Se casaron con dos hermanos. Una con el rey. La otra con el general. ||| 두 형제와 결혼했어요. 한 사람은 왕과, 다른 사람은 장군과요.
+ÁLVARO: Y ahora los dos hermanos se disputan el trono. ||| 그리고 이제 두 형제가 왕좌를 다투고요.
+MARIAM: Y las dos mujeres no se hablan desde el funeral. ||| 두 여인은 장례식 이후로 말을 하지 않아요.
+ÁLVARO: ¿Cuándo fue el funeral? ||| 장례가 언제였죠?
+SEFIA: Hace dos días. Y ayer, en la mezquita, Soraya no se sentó con su hermana. ||| 이틀 전이에요. 어제 모스크에서 소라야는 언니 옆에 앉지 않았어요.
+ÁLVARO: ¿Y qué quieren ustedes? ||| 그래서 두 분은 무엇을 원합니까?
+MARIAM: Que se hablen. ||| 두 사람이 말을 나누는 거요.
+ÁLVARO: ¿Para qué? ||| 무엇을 위해서요?
+MARIAM: Para escribir un papel. Antes de que los hombres escriban otro. ||| 문서 하나를 쓰기 위해서요. 남자들이 다른 문서를 쓰기 전에.
+ÁLVARO: Eso me recuerda algo. ||| 뭔가 떠오르는군요.
+SEFIA: ¿Una historia? ||| 이야기요?
+ÁLVARO: Una muy vieja. Mil quinientos veintinueve. Cambrai, una ciudad del norte de Francia. ||| 아주 오래된 이야기죠. 1529년 프랑스 북부의 도시 캉브레.
+SEFIA: Cuente. ||| 들려주세요.
+ÁLVARO: España y Francia llevaban años en guerra. El emperador Carlos y el rey Francisco. Los dos eran obstinados. Los dos tenían generales que querían seguir. ||| 스페인과 프랑스는 몇 해째 전쟁 중이었어요. 카를 황제와 프랑수아 왕은 둘 다 고집이 셌고, 둘 다 계속 싸우길 원하는 장군들이 있었죠.
+MARIAM: Y los generales no podían parar. ||| 그리고 장군들은 멈출 수 없었죠.
+ÁLVARO: Exacto. Entonces intervinieron dos mujeres. Margarita de Austria, tía del emperador. Y Luisa de Saboya, madre del rey de Francia. ||| 그때 두 여인이 나섰습니다. 황제의 숙모 마르가리타 데 아우스트리아, 프랑스 왕의 어머니 루이즈 드 사부아입니다.
+SEFIA: ¿Se conocían? ||| 서로 아는 사이였나요?
+ÁLVARO: Desde jóvenes. Margarita se había criado en la corte de Francia. Se conocían desde niñas. ||| 젊을 때부터요. 마르가리타는 프랑스 궁정에서 자랐어요. 어릴 때부터 알았죠.
+MARIAM: ¿Y qué hicieron? ||| 그래서 뭘 했나요?
+ÁLVARO: Se instalaron en dos casas contiguas. Y abrieron un pasadizo en la pared entre las dos. Para no tener que salir a la calle. ||| 이웃한 두 집에 머물렀어요. 그리고 두 집 사이 벽에 통로를 냈습니다. 거리로 나가지 않아도 되게요.
+SEFIA: Una puerta entre dos casas. ||| 두 집 사이의 문이네요.
+ÁLVARO: Allí negociaron durante semanas. Sin ministros. Sin generales. Solo ellas y sus secretarios. ||| 거기서 몇 주 동안 협상했습니다. 장관도 장군도 없이, 두 사람과 서기들만요.
+MARIAM: ¿Y el resultado? ||| 결과는요?
+ÁLVARO: El tratado de Cambrai. Lo llamaron «la Paz de las Damas». El rey renunció a Italia, el emperador a Borgoña. Se rescataron los hijos del rey por una suma enorme. ||| 캉브레 조약입니다. '귀부인들의 평화'라고 불렀죠. 왕은 이탈리아를, 황제는 부르고뉴를 포기했고, 왕의 아들들은 거액으로 풀려났습니다.
+SEFIA: Y lo que los hombres no pudieron en diez años… ||| 남자들이 10년간 못 한 걸…
+ÁLVARO: Lo hicieron ellas en cinco semanas. ||| 그녀들은 5주 만에 해냈죠.
+MARIAM: ¿Por qué pudieron? ||| 왜 가능했죠?
+ÁLVARO: Porque no tenían nada que demostrar. Los hombres necesitan ganar. Ellas necesitaban acabar. ||| 증명할 게 없었으니까요. 남자들은 이겨야 했고, 그녀들은 끝내야 했습니다.
+SEFIA: Aquí hay una casa así. ||| 여기에도 그런 집이 있어요.
+ÁLVARO: ¿Una casa? ||| 집이요?
+SEFIA: En el palacio viejo. Se llama «la casa de las dos puertas». Dos pabellones para las esposas del rey, antes de que existiera el palacio nuevo. Entre los dos hay una puerta. Cerrada desde hace cuarenta años. ||| 구궁에 있어요. '두 문의 집'이라고 불러요. 새 궁이 생기기 전 왕의 부인들이 쓰던 별채 둘인데, 그 사이에 문이 있어요. 40년 동안 잠겨 있었죠.
+ÁLVARO: ¿Quién tiene la llave? ||| 열쇠는 누가 갖고 있습니까?
+MARIAM: Yo. ||| 제가요.
+ÁLVARO: ¿Usted? ||| 당신이요?
+MARIAM: Me la dio la reina Nadia cuando me trajeron del barco. Me dijo: «Guárdala. Un día alguien la necesitará». ||| 배에서 데려왔을 때 나디아 왕비님이 주셨어요. '간직해라. 언젠가 누군가 필요로 할 거다'라고 하셨죠.
+ÁLVARO: Es una mujer prudente. ||| 사려 깊은 분이시군요.
+MARIAM: Es una mujer que sabe esperar. ||| 기다릴 줄 아는 분이에요.
++ vigilar = 감시하다
++ contiguo = 인접한
++ pasadizo = 통로
++ suma = 금액
++ obstinado = 고집 센
++ pabellón = 별채, 파빌리온
++ viuda = 미망인
++ Paz de las Damas = '귀부인들의 평화'(1529 캉브레 조약)
