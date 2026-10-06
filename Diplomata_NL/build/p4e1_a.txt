@@ -1,0 +1,90 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 1
+@title Het stijgende peil
+@ko 오르는 수위
+@setting 8월 월요일 아침 헤이그 외무부 → 칸다르 수자원부 상황실 → 밤의 옥상
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast NOOR | 요스트의 딸, 라이덴 법학과 1학년, 18세
+@cast FEMKE | 분석관, 33세
+@cast SANNE | 국내정보기관(AIVD) 연락관, 45세
+@cast SURYO | 메란티 수자원부 장관, 54세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast BASUKI | 국방·민방위 총책 장군, 58세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@note 4부 「DE LAATSTE POLDER」의 첫 화이자 12일 카운트다운(D−12)의 시작입니다. 열대 저기압 '락슈미'가 메란티 삼각주로 다가오고, 수도 칸다르를 지키려면 상류의 사와 폴더(농민 3만 명)를 범람시켜야 한다는 계산이 나옵니다. 역사 논거는 1255년 라인란트 수자원 위원회(hoogheemraadschap): 물을 나누는 자가 권력도 나눈다는 원리입니다. 어휘는 기상·수문(depressie, stormvloed, afvoer, peil)과 결정 과정(bevoegdheid, noodtoestand, draagvlak)에 주목하세요.
+@next 2화: 요스트는 범람 대상인 사와 폴더의 농민 대표 랄리타를 논두렁에서 만납니다. 공식 채널이 아닌 곳에서 시작합니다.
+
+## 월요일 아침 — HET MINISTERIE IN DEN HAAG
+FEMKE: Meneer Hartog, u moet even kijken. Dit is geen routinebericht. ||| 하르토흐 씨, 잠깐 보셔야 해요. 일상 보고가 아닙니다.
+JOOST: Laten we even gaan zitten. Wat is het? ||| 잠깐 앉읍시다. 뭡니까?
+FEMKE: Een tropische depressie boven de Golf van Meranti. Gisteravond nog tropisch onweer, vanochtend al een cycloon. Ze noemen hem Laksmi. ||| 메란티만 위의 열대 저기압이에요. 어젯밤엔 열대 뇌우였는데 오늘 아침엔 벌써 사이클론이고, 이름이 '락슈미'입니다.
+JOOST: Hoe lang nog? ||| 얼마나 남았습니까?
+FEMKE: Twaalf dagen tot de landing, als de baan klopt. Het Europese model zegt twaalf, het Amerikaanse elf. ||| 상륙까지 12일이에요, 경로가 맞다면요. 유럽 모델은 12일, 미국 모델은 11일을 말합니다.
+JOOST: Twaalf dagen is lang voor een voorspelling. ||| 12일이면 예보로선 긴 시간이군요.
+FEMKE: Dat is het probleem. Lang genoeg om iets te doen, te kort om alles te doen. ||| 그게 문제예요. 뭔가 하기엔 충분히 길고 전부 하기엔 너무 짧아요.
+JOOST: Waar slaat hij neer? ||| 어디를 칩니까?
+FEMKE: De monding van de Meranti, vlak bij Kandar. En dan komt de stormvloed samen met de afvoer van de rivier. ||| 메란티 강 하구, 칸다르 바로 옆이에요. 폭풍 해일이 강의 유량과 겹치게 됩니다.
+JOOST: Beide tegelijk. ||| 둘이 동시에.
+FEMKE: Precies. Zee die naar binnen duwt en rivier die naar buiten wil. Daartussen zit de stad. ||| 맞아요. 안으로 미는 바다와 밖으로 나가려는 강, 그 사이에 도시가 있죠.
+JOOST: Hoeveel mensen? ||| 몇 명이죠?
+FEMKE: Kandar heeft acht miljoen inwoners. ||| 칸다르 인구는 800만이에요.
+JOOST: En wie heeft ons gebeld? ||| 그리고 누가 우리에게 전화했습니까?
+FEMKE: Minister Suryo. Persoonlijk, en niet via de ambassade. ||| 수리요 장관이요. 대사관을 거치지 않고 직접요.
+JOOST: Dat doet hij alleen als het echt is. ||| 진짜일 때만 그렇게 하는 사람이죠.
+FEMKE: Hij vraagt om u. Met naam en toenaam. ||| 당신을 지목했어요. 이름과 성까지 대면서요.
+JOOST: En de minister van Buitenlandse Zaken? ||| 외무부 장관은요?
+FEMKE: Die wil u om half twaalf spreken. Maar het vliegtuig vertrekt om twee uur. ||| 11시 반에 만나고 싶어 합니다. 그런데 비행기는 2시에 떠나요.
+JOOST: Dan ga ik om twee uur. ||| 그럼 2시에 가겠습니다.
+NOOR: Pap? Ik ben er. ||| 아빠? 저 왔어요.
+JOOST: Noor. Ik had je pas om tien uur verwacht. ||| 노르. 10시에나 올 줄 알았는데.
+NOOR: Ik heb de trein van half acht genomen. Ik ben vrijwilliger bij Delta Diplomatie, weet je nog? Eerste dag. ||| 7시 반 기차를 탔어요. 델타 외교 자원봉사자잖아요, 기억하세요? 첫날이에요.
+JOOST: Ik herinner het me. Maar vandaag is niet de gewone eerste dag. ||| 기억하지. 하지만 오늘은 평범한 첫날이 아니야.
+NOOR: Wat is er? ||| 무슨 일이에요?
+FEMKE: Kom, ik laat het zien. Dit is de baan van Laksmi. ||| 와 봐요, 보여 줄게요. 이게 락슈미의 경로예요.
+NOOR: Meranti? Het land van het Zwarte Water? ||| 메란티요? 검은 물의 나라?
+JOOST: Hetzelfde land. Ander water. ||| 같은 나라야. 다른 물이고.
+NOOR: Gaat u erheen? ||| 가시는 거예요?
+JOOST: Vanmiddag. ||| 오늘 오후에.
+NOOR: Dan ga ik mee. ||| 그럼 저도 가요.
+JOOST: Nee. Je bent achttien, je bent student, en je hebt over twee weken je eerste tentamen. ||| 안 돼. 너는 열여덟이고, 학생이고, 2주 뒤에 첫 시험이 있어.
+NOOR: Mijn tentamen is Staatsrecht. Ik kan het daar leren. ||| 제 시험은 헌법이에요. 거기서 공부하면 돼요.
+JOOST: Noor. ||| 노르.
+NOOR: Pap, jij hebt me het notitieboekje gegeven. Je zei: ik moet erbij zijn. ||| 아빠, 아빠가 저한테 수첩을 줬잖아요. 거기 있어야 한다고 하셨죠.
+JOOST: Ik zei: erbij zijn is een werkwoord. Dat betekent niet: overal heen gaan waar het natgaat. ||| '그 자리에 있다'는 동사라고 했지. 물이 닥치는 곳마다 간다는 뜻은 아니야.
+FEMKE: Mag ik iets zeggen? ||| 제가 한마디 해도 될까요?
+JOOST: Zeg het. ||| 말해요.
+FEMKE: Ik heb haar de baan laten zien omdat ze het zou googelen. Beter dat ze het hier hoort. ||| 어차피 검색할 테니까 여기서 듣는 게 낫다 싶어 보여 줬어요.
+JOOST: Goed. Ze blijft hier. Ze werkt met Femke. Elke dag dezelfde cijfers die ik krijg. ||| 좋아요. 노르는 여기 남아서 페므커와 일합니다. 내가 받는 숫자를 매일 똑같이 받아 보는 거예요.
+NOOR: Elke dag? ||| 매일요?
+JOOST: Hardop. Net als vroeger. ||| 소리 내어서. 예전처럼.
+NOOR: Afgesproken. ||| 약속해요.
+SANNE: Meneer Hartog, heeft u een minuut? ||| 하르토흐 씨, 잠깐 시간 있어요?
+JOOST: Sanne. Vandaag is een slechte dag. ||| 산네. 오늘은 안 좋은 날인데요.
+SANNE: Dat weet ik. Daarom kom ik nu. Kent u een bedrijf dat Landwinning heet? ||| 알아요. 그래서 지금 온 거예요. '란트빈닝'이라는 회사를 아세요?
+JOOST: Land winnen. Een Nederlands woord. ||| 땅을 얻다. 네덜란드어네요.
+SANNE: Een bv, vier maanden geleden ingeschreven op Cyprus. Aandeelhouders: drie lege vennootschappen. En de directeur is een man die ooit bij Noordvaarder zat. ||| 4개월 전 키프로스에 등록된 유한회사예요. 주주는 빈 껍데기 회사 셋이고, 대표는 한때 노르트파르더에 있던 사람입니다.
+JOOST: Noordvaarder is geliquideerd. ||| 노르트파르더는 청산됐는데요.
+SANNE: De stichting wel. De mensen niet. ||| 재단은요. 사람들은 아니고요.
+JOOST: En wat wil Landwinning? ||| 그래서 란트빈닝이 뭘 원합니까?
+SANNE: Land kopen in Meranti. Veel land. Juist de laatste weken, juist langs de rivier. ||| 메란티의 땅을 사요. 많이요. 하필 최근 몇 주, 하필 강을 따라서요.
+JOOST: Wie verkoopt er land langs een rivier vlak voor een storm? ||| 폭풍 직전에 강가 땅을 누가 팝니까?
+SANNE: Mensen die niet weten wat er komt. ||| 다가오는 걸 모르는 사람들이겠죠.
+JOOST: Of mensen die denken dat ze het moeten verkopen. ||| 아니면 팔아야 한다고 믿는 사람들이거나.
+SANNE: Dat ook. Ik weet het niet. Ik geef het u mee. ||| 그것도 있고요. 저도 몰라요. 드릴게요.
+JOOST: Waarom aan mij? ||| 왜 저한테요?
+SANNE: Omdat u de enige bent die het hardop zegt. ||| 소리 내어 말하는 사람이 당신뿐이니까요.
++ tropische depressie = 열대 저기압
++ stormvloed = 폭풍 해일
++ afvoer = (강의) 유출량, 유량
++ landing = (태풍의) 상륙
++ met naam en toenaam = 이름과 성까지 대며, 정확히 지목하여
++ vrijwilliger = 자원봉사자
++ tentamen = (대학의) 시험
++ vennootschap = 회사, 법인
++ aandeelhouder = 주주
++ ingeschreven = 등록된
++ erbij zijn = 그 자리에 있다(1~3부의 모티프)
++ hardop = 소리 내어
