@@ -11,7 +11,7 @@ AGUIRRE: Lo guardé en la caja fuerte de mi despacho. Luego salí a tomar un caf
 ÁLVARO: ¿Con quién? ||| 누구와요?
 AGUIRRE: Solo. ||| 혼자서요.
 PILAR: ¿En qué local? ||| 어느 가게에서요?
-AGUIRRE: En el Starbucks de la esquina. ||| 모퉁이 스타벅스요.
+AGUIRRE: En la cafetería de la esquina. ||| 모퉁이 카페요.
 ÁLVARO: Hay una cámara en ese local. Y yo tengo una grabación. Usted estuvo allí a las diez y veinte, con un hombre alto y rubio que le dio la mano. ||| 그 가게에는 카메라가 있습니다. 그리고 제게 녹화본이 있어요. 열 시 이십 분에 키 크고 금발인 남자와 악수하는 장면이죠.
 AGUIRRE: ... ¿Me ha seguido? ||| …저를 미행했습니까?
 ÁLVARO: No. Pilar pidió el vídeo hace una hora, en el procedimiento reglado. Y usted no estuvo solo. ||| 아니요. 필라르가 한 시간 전 정해진 절차로 영상을 요청했습니다. 혼자가 아니셨어요.

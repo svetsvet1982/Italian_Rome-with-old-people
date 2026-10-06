@@ -1,0 +1,222 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 12
+@title La última silla
+@ko 마지막 의자
+@setting 6월 6일 · 뉴욕 유엔 본부 기자실 → 복도 → 총회장 → 방청석
+@level B2-C1
+@cast ÁLVARO | 안보리 입후보 특사, 44세
+@cast ALBORNOZ | 외무부 장관, 60세
+@cast MORENO | 주유엔 스페인 대사, 55세
+@cast HEDLUND | 노르드마르크 주유엔 대사, 58세
+@cast HANNE | 유럽 일간지 기자, 39세
+@cast SEFIA | 살마라의 낭독자, 22세 (화상)
+@cast MUNKH | 하르 우스의 젊은 목동, 24세 (화상)
+@cast AWA | 푼타 살 어부 지도자 (화상)
+@cast STRAND | 보레알 캐피털 대표, 55세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast LUCÍA | 알바로의 딸, 17세
+@cast ELENA | 알바로의 전처, 43세
+@note 시리즈의 마지막 화입니다. 세 개의 공개 장부를 소리 내어 읽는 장면으로 시작해, 다섯 번째 투표의 동점과 '임기 나누기'로 이어집니다. 역사 논거는 1661년 런던 마차 사건과 1662년 펠리페 4세의 서열 양보: 형식(서열)을 내주고 실질(평화)을 지킨 선례입니다. 어휘는 표결·타협(empate, escrutinio, resolución, ceder la precedencia)과 감정을 말하는 어휘에 주목하세요. 3부작 전체의 반복 문장 '모두가 보는 앞에서, 소리 내어'가 마지막으로 돌아옵니다.
+@next (시리즈 완결) 스페인어판 「EL AGREGADO」 3부작은 여기서 끝납니다. 알바로의 수첩 마지막 쪽에는 이렇게 적혀 있습니다. '장부는 읽혔다. 의자는 나눠졌다. 남은 건 쓰는 사람의 몫이다.'
+
+## 기자실 — LA SALA DE PRENSA
+HANNE: Señor Quintana. Soy Hanne Brandt. Fui yo quien llamó anoche a su colega. ||| 킨타나 씨. 한네 브란트입니다. 어젯밤 동료분께 전화한 사람이 접니다.
+ÁLVARO: Señora Brandt. Gracias por venir. ||| 브란트 씨. 와 주셔서 감사합니다.
+HANNE: Tengo que decirle que mi artículo salió a las seis. Y que incluye casi todo lo que tenía. ||| 제 기사는 여섯 시에 나갔다는 걸 말씀드려야겠군요. 가진 걸 거의 다 실었습니다.
+ÁLVARO: Lo he leído. Es un artículo muy bien escrito. Y casi todo lo que dice es cierto. ||| 읽었습니다. 아주 잘 쓰셨더군요. 그리고 말씀하신 대부분이 사실입니다.
+HANNE: ¿«Casi»? ||| '대부분'이요?
+ÁLVARO: Lo que dice es cierto. Lo que implica, no. Y eso es lo que le propongo comprobar. Esta mañana, delante de usted y de todos los que quieran quedarse. ||| 쓰신 것은 사실입니다. 암시하는 것은 아니고요. 그걸 확인해 보자는 제안입니다. 오늘 아침 기자님과 남고 싶은 모든 분 앞에서요.
+HANNE: ¿Cómo? ||| 어떻게요?
+ÁLVARO: Con tres libros de cuentas. Los tres, leídos en voz alta por quienes los escribieron. ||| 장부 세 권으로요. 세 권 모두 쓴 사람들이 소리 내어 읽습니다.
+HANNE: ¿Por videoconferencia? ||| 화상으로요?
+ÁLVARO: Por videoconferencia. Hay tres pantallas. Salmara, el Gobi y Punta Sal. ||| 화상으로요. 화면이 세 개 있습니다. 살마라, 고비, 푼타 살.
+SEFIA: ¿Se me oye? Soy Sefia, desde la librería de mi abuelo, en Salmara. Es de noche aquí. ||| 제 소리 들리나요? 살마라의 할아버지 서점에서 세피아입니다. 여기는 밤이에요.
+ÁLVARO: Se oye perfectamente, Sefia. Cuando quieras. ||| 아주 잘 들립니다, 세피아. 언제든지요.
+SEFIA: «Primer asiento. Concepto: custodia de treinta y una personas rescatadas. Importe: fijado por contrato público. Procedencia: Fondo de Acogida. Destinatario: los armadores. Firma: Hajj Mansour». ||| 「첫째 항목. 명목: 구조된 서른한 명의 보관. 금액: 공공 계약으로 확정. 출처: 수용 기금. 수령인: 선주들. 서명: 하지 만수르.」
+HANNE: ¿Y el segundo asiento? ||| 둘째 항목은요?
+SEFIA: «Segundo asiento. Concepto: rescate de los tripulantes. Importe: ninguno. Observaciones: no se paga a quien captura». ||| 「둘째 항목. 명목: 승무원 구속. 금액: 없음. 비고: 붙잡은 쪽에는 지불하지 않는다.」
+HANNE: ¿Y los doscientos mil euros de España? ||| 스페인의 20만 유로는요?
+SEFIA: «Tercer asiento. Aportación de España al Fondo: doscientos mil euros. Fecha: antes de la votación. Condiciones: ninguna». ||| 「셋째 항목. 스페인의 기금 출연금: 20만 유로. 날짜: 표결 이전. 조건: 없음.」
+HANNE: ¿Ninguna? ||| 조건이 없다고요?
+SEFIA: Aquí no hay ninguna. Y le digo, señora, que si usted viniera a Salmara y preguntara a los armadores, a mi abuelo o al capitán Kader, le dirían lo mismo. ||| 여기에는 없어요. 그리고 기자님이 살마라에 와서 선주들, 할아버지, 카데르 항만장에게 물어보시면 같은 말을 할 거예요.
+HANNE: Gracias, Sefia. Siguiente. ||| 고마워요, 세피아. 다음.
+MUNKH: Buenas tardes desde Khar Us. Soy Munkh. Leo el Libro del Camino. ||| 하르 우스에서 안녕하세요. 뭉흐입니다. 길의 장부를 읽습니다.
+HANNE: Adelante. ||| 하세요.
+MUNKH: «Tercera partida. El Fondo del Pasto. Tres por ciento de los ingresos netos de la mina, por canon de uso de la ruta. Administra: un consejo de siete pastores. Auditoría: cada seis meses, leída en esta plaza». ||| 「셋째 항목. 목초 기금. 길 사용료로서 광산 순수익의 3퍼센트. 관리: 목동 일곱 명 위원회. 감사: 6개월마다 이 광장에서 낭독.」
+HANNE: ¿Y qué papel tiene España? ||| 스페인은 어떤 역할이죠?
+MUNKH: Ninguno. Los pagos los hace una empresa. Pero un embajador español estuvo presente cuando se acordó. Y lo escribimos. ||| 없습니다. 지불은 회사가 합니다. 하지만 합의될 때 스페인 대사가 있었고 우리가 그걸 적었어요.
+HANNE: ¿Y eso por qué? ||| 왜 적었죠?
+MUNKH: Porque aquí se escribe a todos los que ayudan. Como mi abuelo dice: «Nuestro Clavijo». ||| 여기서는 도운 모든 사람을 적으니까요. 할아버지 말씀대로 '우리의 클라비호'죠.
+HANNE: ¿Clavijo? ||| 클라비호요?
+MUNKH: Es un señor castellano. Muy antiguo. ||| 카스티야의 아주 옛날 사람이에요.
+AWA: Buenas tardes. Soy Awa, de Punta Sal. No tengo libro. Tengo la voz. ||| 안녕하세요. 푼타 살의 아와입니다. 장부는 없고 목소리만 있어요.
+HANNE: Señora Awa, ¿qué quiere decirnos? ||| 아와 씨, 하실 말씀이 무엇입니까?
+AWA: Que cuando el señor Quintana vino a Punta Sal, no ofreció dinero. Nos dijo: «Escriban lo que quieren, y que lo lea toda la plaza». Y lo escribimos. Veintiún folios. ||| 킨타나 씨가 푼타 살에 왔을 때 돈을 제안하지 않았어요. "원하는 걸 적어서 광장 전체가 읽게 하세요"라고 했죠. 그리고 우리는 스물한 장을 썼습니다.
+HANNE: ¿Y qué ponían los folios? ||| 그 스물한 장에는 뭐라고 쓰여 있습니까?
+AWA: Que no queremos dinero para olvidar. Queremos un hospital para recordar. ||| 잊기 위한 돈은 원치 않는다고요. 기억하기 위한 병원을 원한다고요.
+HANNE: Voy a incluir esa frase. ||| 그 문장을 넣겠습니다.
+AWA: Pues inclúyala. Se la regalo. ||| 넣으세요. 선물로 드릴게요.
+HANNE: Señor Quintana, he cambiado de opinión sobre la mitad de mi artículo. ||| 킨타나 씨, 제 기사의 절반에 대한 생각을 바꿨습니다.
+ÁLVARO: Se lo agradezco. Y le diré algo: el titular no era falso. Era incompleto. Y lo incompleto, en este oficio, es lo más difícil de corregir. ||| 감사합니다. 그리고 말씀드리죠. 헤드라인은 거짓이 아니었습니다. 불완전했어요. 그리고 이 직업에서 불완전한 건 가장 고치기 어렵습니다.
+HANNE: Publicaré una segunda pieza esta tarde. Se llamará «Un libro abierto». ||| 오늘 오후 두 번째 기사를 내겠습니다. 제목은 '열린 장부'예요.
+ÁLVARO: Es un buen título. Lo he leído en otros sitios. ||| 좋은 제목이군요. 다른 곳에서도 읽었습니다.
+## 복도 — EL PASILLO
+HEDLUND: Quintana. ¿Tiene dos minutos? ||| 킨타나 씨. 이 분만 시간 있으십니까?
+ÁLVARO: Embajador. Todo el día. ||| 대사님. 하루 종일요.
+HEDLUND: Ayer por la noche recibí una llamada de mi ministro. Había leído el informe que le envié hace tres semanas. Y lo había leído hasta el final. ||| 어젯밤 우리 장관의 전화를 받았습니다. 3주 전에 보낸 보고서를 읽었는데 끝까지 읽었더군요.
+ÁLVARO: ¿Qué informe? ||| 무슨 보고서요?
+HEDLUND: El que le debía a usted. El de la conversación con la abogada delante. ||| 당신께 빚졌던 보고서입니다. 변호사가 동석했던 대화에 대한 것이죠.
+ÁLVARO: ¿Y qué ha ocurrido? ||| 어떻게 됐습니까?
+HEDLUND: Mi Gobierno ha abierto una investigación sobre Septentrio. Ha suspendido a su director. Y ha ordenado que se retiren todas las operaciones en España. ||| 우리 정부가 셉텐트리오 조사에 착수했습니다. 이사장을 직무 정지했고 스페인 내 모든 작전을 철수하라고 지시했어요.
+ÁLVARO: Es una buena noticia. ||| 좋은 소식이군요.
+HEDLUND: Es una noticia necesaria. Pero también hay un problema. Mi Gobierno no puede retirar la candidatura. Sería admitir que Nordmark sabía. ||| 필요한 소식이죠. 하지만 문제가 있습니다. 우리 정부는 입후보를 철회할 수 없습니다. 노르드마르크가 알았다는 걸 인정하는 게 되니까요.
+ÁLVARO: Y España tampoco puede retirarla. Sería admitir que perdió. ||| 스페인도 철회할 수 없죠. 졌다고 인정하는 게 되니까요.
+HEDLUND: ¿Entonces? ||| 그럼요?
+ÁLVARO: Entonces, hoy, tras la quinta ronda, usted y yo vamos a hablar otra vez. Con una propuesta ya preparada. ||| 그럼 오늘 다섯 번째 투표 뒤 대사님과 제가 다시 이야기합니다. 이미 준비된 제안을 가지고요.
+HEDLUND: ¿Cuál? ||| 어떤 제안입니까?
+ÁLVARO: Que cada uno ocupe el asiento un año. Y que el primer año le toque a Nordmark. ||| 각자 1년씩 의석에 앉는 것. 그리고 첫해는 노르드마르크 몫이라는 것.
+HEDLUND: ¿El primero? ¿Por qué nos lo ofrece? ||| 첫해요? 왜 우리에게 먼저 주십니까?
+ÁLVARO: Porque el primer año tiene la silla de la presidencia el mes que corresponda por orden alfabético. Y ese mes le toca a usted. ||| 첫해에는 알파벳 순으로 의장직 달이 오는데 그 달이 귀국 몫이기 때문입니다.
+HEDLUND: ¿Y a cambio? ||| 그 대신은요?
+ÁLVARO: A cambio, una declaración conjunta sobre transparencia de los fondos soberanos. Con su firma y la nuestra. Y el nombre de Septentrio no se pronuncia. ||| 대신 국부 펀드의 투명성에 관한 공동 선언입니다. 귀국과 우리의 서명으로요. 그리고 셉텐트리오의 이름은 입에 올리지 않습니다.
+HEDLUND: ¿Usted va a callar el nombre? ||| 당신이 이름을 침묵한다고요?
+ÁLVARO: No lo callo. Lo dejo sin pronunciar. Es distinto. ||| 침묵하는 게 아닙니다. 발음하지 않고 두는 거예요. 다릅니다.
+HEDLUND: Parece una cesión. ||| 양보처럼 보이는군요.
+ÁLVARO: Lo es. En mil seiscientos sesenta y uno, hubo un incidente en Londres entre las carrozas del embajador francés y el español. Era un asunto de precedencia: quién entraba primero. ||| 양보입니다. 1661년 런던에서 프랑스 대사와 스페인 대사의 마차 사이에 사건이 있었습니다. 서열 문제였죠. 누가 먼저 들어가느냐.
+HEDLUND: Lo conozco. Los españoles hirieron los caballos franceses. ||| 압니다. 스페인 사람들이 프랑스 말들을 다치게 했죠.
+ÁLVARO: Ganaron la precedencia aquel día. Y al año siguiente, el rey Felipe IV, para evitar una guerra, aceptó que sus embajadores no volverían a disputar la precedencia a los franceses. ||| 그날은 서열을 얻었습니다. 그리고 이듬해 펠리페 4세는 전쟁을 피하려고 스페인 대사들이 다시는 프랑스 대사들과 서열을 다투지 않겠다고 받아들였죠.
+HEDLUND: Una humillación. ||| 굴욕이군요.
+ÁLVARO: Una cesión. Con el tiempo, una de las pocas que salvaron algo. ||| 양보였습니다. 나중에 보면 무언가를 구한 몇 안 되는 양보 중 하나죠.
+HEDLUND: ¿Y qué salvaron? ||| 무엇을 구했습니까?
+ÁLVARO: La paz. Y la libertad para pelear por otras cosas. ||| 평화요. 그리고 다른 것을 위해 싸울 자유요.
+HEDLUND: Hablaré con mi ministro. Antes de la quinta ronda. ||| 장관과 이야기하겠습니다. 다섯 번째 투표 전에.
+ÁLVARO: Gracias. No es una victoria, embajador. Es un acuerdo. ||| 감사합니다. 승리가 아니라 합의입니다, 대사님.
+HEDLUND: Los que ganan sin humillar son los que duran. ||| 모욕하지 않고 이기는 사람들이 오래갑니다.
+ÁLVARO: Lo sé. Lo he leído en un libro. ||| 압니다. 책에서 읽었습니다.
++ sala de prensa = 기자실
++ asiento (장부) / asiento (의석) = 'asiento'는 장부 항목이기도 하고 의석이기도 하다. 이 화의 말장난
++ incompleto = 불완전한. 'falso'(거짓)와 구분되는 표현
++ cesión = 양보. 'ceder'는 양보하다
++ precedencia = 서열. 의전상 누가 먼저 가느냐
++ carroza = 마차. 17세기 외교관의 의전용 탈것
++ declaración conjunta = 공동 선언
++ investigación = 조사, 수사
++ suspender = 직무 정지하다
+## 총회장 — LA ASAMBLEA
+PRESIDENTE: Señoras y señores delegados, se procede al escrutinio de la primera ronda. Votos emitidos: ciento noventa. Han obtenido votos: España, ciento uno. Nordmark, ochenta y nueve. ||| 대표 여러분, 1차 투표 개표를 진행합니다. 투표 190표. 득표: 스페인 101표, 노르드마르크 89표.
+MORENO: Ninguno llega a ciento veintisiete. Hace falta repetir. ||| 둘 다 127표에 못 미칩니다. 다시 해야 해요.
+ÁLVARO: Es lo que esperábamos. ||| 예상한 대로입니다.
+PRESIDENTE: Segunda ronda. España, noventa y nueve. Nordmark, noventa y uno. ||| 2차 투표. 스페인 99표, 노르드마르크 91표.
+MORENO: Nos están alcanzando. ||| 따라잡히고 있어요.
+ÁLVARO: Nos están alcanzando porque los dudosos están repartiéndose. Es normal. ||| 불확실 표가 나뉘고 있어서 그렇습니다. 정상이에요.
+PRESIDENTE: Tercera ronda. España, noventa y siete. Nordmark, noventa y tres. ||| 3차 투표. 스페인 97표, 노르드마르크 93표.
+PRESIDENTE: Cuarta ronda. España, noventa y cinco. Nordmark, noventa y cinco. ||| 4차 투표. 스페인 95표, 노르드마르크 95표.
+MORENO: Empate. ¿Qué hacemos? ||| 동점입니다. 어떻게 하죠?
+ALBORNOZ: Quintana, es el momento. ¿Lo tiene todo preparado? ||| 킨타나, 지금입니다. 준비는 다 됐습니까?
+ÁLVARO: Falta una cosa. Señora ministra, ¿puede salir un momento al pasillo con la embajadora y conmigo? ||| 한 가지가 남았습니다. 장관님, 대사님과 저와 잠깐 복도로 나가 주시겠습니까?
+ALBORNOZ: Vamos. ||| 갑시다.
+ÁLVARO: Ministra, voy a proponerle algo que usted tiene derecho a rechazar. Que cedamos el primer año a Nordmark. ||| 장관님, 거절할 권리가 있는 제안을 드립니다. 첫해를 노르드마르크에 양보하는 겁니다.
+ALBORNOZ: ¿Que cedamos? ¿Después de seis meses de campaña? ||| 양보요? 6개월 동안 캠페인을 하고서요?
+ÁLVARO: En mil seiscientos sesenta y uno, en Londres, la carroza española venció a la francesa. Un año después, Felipe IV cedió la precedencia por escrito. ||| 1661년 런던에서 스페인 마차가 프랑스 마차를 이겼습니다. 1년 뒤 펠리페 4세는 서면으로 서열을 양보했죠.
+ALBORNOZ: ¿Por qué lo hizo? ||| 왜 그랬습니까?
+ÁLVARO: Porque Luis XIV amenazaba con la guerra. Y Felipe IV comprendió que perder la precedencia costaba menos que perder la paz. ||| 루이 14세가 전쟁을 위협했기 때문입니다. 그리고 펠리페 4세는 서열을 잃는 게 평화를 잃는 것보다 싸다는 걸 깨달았죠.
+MORENO: No estamos en guerra. ||| 우리는 전쟁 중이 아닙니다.
+ÁLVARO: Estamos en una quinta ronda. Que puede acabar con una Asamblea dividida, dos semanas de bloqueo y un titular que dirá «España y Nordmark se destrozan». ||| 다섯 번째 투표를 앞두고 있습니다. 분열된 총회, 2주간의 교착, 그리고 '스페인과 노르드마르크, 서로 망치다'라는 헤드라인으로 끝날 수 있죠.
+ALBORNOZ: ¿Y a cambio de ceder? ||| 양보하면 대가는요?
+ÁLVARO: Nordmark firmará una declaración conjunta sobre transparencia de fondos soberanos. Se compromete a investigar a Septentrio. Y a no volver a operar en España. ||| 노르드마르크가 국부 펀드 투명성에 관한 공동 선언에 서명합니다. 셉텐트리오를 조사하겠다고 약속하고 스페인에서는 다시 활동하지 않기로 합니다.
+ALBORNOZ: ¿Y Aguirre? ¿Y Meridian? ||| 아기레는요? 메리디언은요?
+ÁLVARO: Siguen su curso judicial. Eso no se negocia. ||| 사법 절차는 계속됩니다. 그건 협상 대상이 아닙니다.
+ALBORNOZ: ¿Y mi año? ||| 우리 해는요?
+ÁLVARO: El segundo. Con una ventaja: llegamos con un año de preparación y sin enemigos en la mesa. ||| 둘째 해입니다. 이점이 있죠. 1년 동안 준비하고 탁자에 적이 없는 채로 들어갑니다.
+ALBORNOZ: Es un buen argumento. Odio que lo sea. ||| 좋은 논거군요. 그래서 싫네요.
+MORENO: Ministra, yo lo apoyo. En el pasillo se oye que ya hay cansancio. ||| 장관님, 저는 지지합니다. 복도에서는 이미 피로하다는 말이 들립니다.
+ALBORNOZ: Hable con Hedlund. Si acepta, lo anuncio yo. ||| 헤들룬드와 이야기하세요. 수락하면 제가 발표하겠습니다.
+HEDLUND: No hace falta. Estoy aquí. Mi ministro acaba de decirme que sí. ||| 그럴 필요 없습니다. 여기 있어요. 우리 장관이 방금 승낙했습니다.
+ÁLVARO: Embajador. ||| 대사님.
+HEDLUND: Con una condición. Que el anuncio lo hagamos juntos. Y que se diga que fue una propuesta de ambas delegaciones. ||| 조건 하나. 발표를 함께 하는 것. 그리고 양측 대표단의 공동 제안이라고 하는 겁니다.
+ALBORNOZ: Hecho. ||| 좋습니다.
+PRESIDENTE: Quinta ronda... un momento. Las delegaciones de España y Nordmark solicitan la palabra. ||| 5차 투표… 잠시만요. 스페인과 노르드마르크 대표단이 발언을 요청합니다.
+HEDLUND: Señor presidente. Nordmark y España proponen conjuntamente que el mandato se reparta en dos años. El primero, Nordmark. El segundo, España. ||| 의장님. 노르드마르크와 스페인은 임기를 두 해로 나누자고 공동 제안합니다. 첫해는 노르드마르크, 둘째 해는 스페인입니다.
+ALBORNOZ: España lo apoya. Y lo hace sin condiciones. ||| 스페인이 지지합니다. 조건 없이요.
+PRESIDENTE: Se somete a la Asamblea. ¿Hay objeciones? ||| 총회에 부칩니다. 이의 있습니까?
+PRESIDENTE: No habiendo objeciones, queda adoptado por aclamación. ||| 이의가 없으므로 박수로 채택합니다.
+MORENO: Álvaro. Lo ha logrado. ||| 알바로. 해내셨어요.
+ÁLVARO: Lo hemos logrado entre todos. Y lo hemos hecho a la vista de todos. ||| 모두가 같이 해냈습니다. 그리고 모두가 보는 앞에서 했죠.
+## 스트란드 — STRAND
+STRAND: Quintana. Felicidades. ||| 킨타나 씨. 축하합니다.
+ÁLVARO: Strand. No esperaba verle aquí. ||| 스트란드 씨. 여기서 뵐 줄 몰랐습니다.
+STRAND: Estoy en la galería de visitantes. Como un hombre en el fondo de un teatro. ||| 방청석에 있습니다. 극장 맨 뒤의 남자처럼요.
+ÁLVARO: ¿Qué quiere? ||| 원하는 게 뭡니까?
+STRAND: Acogerme al plazo. Me han dicho que sigue en vigor. ||| 기간의 적용을 받고 싶습니다. 아직 유효하다고 들었습니다.
+ÁLVARO: Venció hace tres semanas. ||| 3주 전에 끝났습니다.
+STRAND: ¿Sin excepciones? ||| 예외 없이요?
+ÁLVARO: Hay una. La abogada Gil decidió que el último en llegar puede hacerlo si colabora sin condiciones. Pero paga lo que paga el último. ||| 하나 있습니다. 힐 변호사가 마지막에 오는 사람도 조건 없이 협조하면 가능하다고 판단했어요. 하지만 마지막이 내는 값을 냅니다.
+STRAND: ¿Y cuánto es? ||| 얼마입니까?
+ÁLVARO: Todo. ||| 전부요.
+STRAND: Es una moneda extraña. ||| 이상한 화폐군요.
+ÁLVARO: La más antigua. ||| 가장 오래된 겁니다.
+STRAND: Está bien. Hablaré con la abogada. ||| 좋습니다. 변호사와 이야기하죠.
+ÁLVARO: Strand. ¿Por qué ahora? ||| 스트란드 씨. 왜 지금입니까?
+STRAND: Porque anoche, por primera vez en treinta años, no pude dormir. Y a mi edad eso es una advertencia. ||| 어젯밤 30년 만에 처음으로 잠을 못 잤으니까요. 제 나이에는 그게 경고입니다.
+## 방청석 — LA GALERÍA
+ALBORNOZ: Quintana, quiero hacerle una oferta. ||| 킨타나, 제안을 하나 하겠습니다.
+ÁLVARO: Ministra. ||| 장관님.
+ALBORNOZ: Dentro de un año, cuando España ocupe el asiento, necesitaré un embajador adjunto ante Naciones Unidas. Con rango. Con despacho. Con silla en la mesa. ||| 1년 뒤 스페인이 의석을 차지하면 주유엔 부대사가 필요합니다. 직급이 있고 사무실이 있고 탁자에 의자가 있는 자리로요.
+ÁLVARO: Es un gran honor. ||| 큰 영광입니다.
+ALBORNOZ: Es un ascenso. Le doy veinticuatro horas para pensarlo. ||| 승진입니다. 생각할 시간을 스물네 시간 드리죠.
+ÁLVARO: No necesito veinticuatro. Necesito una pregunta. ¿Dónde se sienta el embajador adjunto durante las sesiones? ||| 스물네 시간은 필요 없습니다. 질문 하나만요. 부대사는 회의 중 어디에 앉습니까?
+ALBORNOZ: Detrás del embajador. En las sillas de los asesores. ||| 대사 뒤에요. 보좌관 의자에요.
+ÁLVARO: Entonces acepto. Pero con una condición. Que me deje la última silla de la fila. La del fondo. ||| 그럼 수락합니다. 조건 하나가 있습니다. 줄의 마지막 의자를 주십시오. 맨 끝 의자요.
+ALBORNOZ: ¿Por qué la del fondo? ||| 왜 맨 끝입니까?
+ÁLVARO: Porque desde ahí se ve toda la mesa, y nadie le mira a uno. Es la silla donde se escribe. ||| 거기서는 탁자 전체가 보이고 아무도 보지 않으니까요. 글을 쓰는 의자입니다.
+ALBORNOZ: Es la peor silla de la sala. ||| 회의장에서 가장 나쁜 의자예요.
+ÁLVARO: Es la mejor. Se lo digo por experiencia: Clavijo no se sentó en el trono de Timur. Se sentó junto a la puerta. Y por eso lo contó todo. ||| 가장 좋은 의자입니다. 경험으로 말씀드립니다. 클라비호는 티무르의 옥좌에 앉지 않았습니다. 문 옆에 앉았죠. 그래서 전부 이야기할 수 있었습니다.
+ALBORNOZ: Está bien. La última silla es suya. ||| 좋습니다. 마지막 의자는 당신 겁니다.
+LUCÍA: ¡Papá! ¡Papá! ¿Dónde estás? ||| 아빠! 아빠! 어디 있어요?
+ÁLVARO: Aquí, hija. En la galería. ||| 여기, 얘야. 방청석이야.
+LUCÍA: Hemos visto todo desde arriba. Mamá lloraba. ||| 위에서 전부 봤어요. 엄마가 울었어요.
+ELENA: Lucía, no digas eso. ||| 루시아, 그런 말 하지 마.
+LUCÍA: Es verdad. Y tú dijiste que no. ||| 사실이잖아요. 그리고 엄마는 안 운다고 했고요.
+ELENA: Álvaro. Enhorabuena. ||| 알바로. 축하해요.
+ÁLVARO: Elena. Gracias por venir. ||| 엘레나. 와 줘서 고마워요.
+ELENA: Se lo prometí a Lucía. Y a mí. ||| 루시아와 저 자신에게 약속했어요.
+ÁLVARO: ¿Y qué has pensado? ||| 그래서 어떻게 생각했어요?
+ELENA: Que lo has terminado. Por una vez. ||| 당신이 끝냈다고요. 한 번쯤은.
+ÁLVARO: Con ayuda. ||| 도움을 받아서요.
+ELENA: Siempre con ayuda. Eso es lo que no sabías al principio. ||| 항상 도움을 받죠. 처음엔 몰랐던 거예요.
+LUCÍA: Papá, tengo una pregunta. No es una nota a pie de página. ||| 아빠, 질문이 있어요. 각주가 아니에요.
+ÁLVARO: Dime. ||| 말해 봐.
+LUCÍA: ¿En qué silla vas a sentarte? ||| 아빠는 어느 의자에 앉을 거예요?
+ÁLVARO: En la de atrás. La última. ||| 뒤쪽 마지막 의자.
+LUCÍA: ¿Y por qué? ||| 왜요?
+ÁLVARO: Porque desde ahí se escribe lo que pasa. Para que alguien, dentro de seiscientos años, lo pueda leer en voz alta. ||| 거기서 일어나는 일을 쓸 수 있으니까. 6백 년 뒤 누군가 소리 내어 읽을 수 있도록.
+LUCÍA: Eso suena a Clavijo. ||| 클라비호 같아요.
+ÁLVARO: Lo es. ||| 맞아.
+REBECA: ¿Se puede unir una tía? ||| 고모도 껴도 돼?
+ÁLVARO: Rebeca. ¿Y tu hermano? ||| 레베카. 오빠는?
+REBECA: En Madrid. Declarando. Con Kaja y Mikk. Mikk me ha preguntado si tengo ovejas. ||| 마드리드에서 진술하고 있어. 카야와 미크도 같이. 미크가 내가 양이 있냐고 물었어.
+ÁLVARO: ¿Y qué le has dicho? ||| 뭐라고 했어?
+REBECA: Que tengo una. Que se llama Álvaro. ||| 한 마리 있다고. 이름이 알바로라고.
+ELENA: Qué buena respuesta. ||| 좋은 대답이네요.
+REBECA: Señora, soy Rebeca Salas. Soy una amiga. ||| 부인, 레베카 살라스예요. 친구입니다.
+ELENA: Lo sé. Lucía me ha hablado de usted. Tortilla. ||| 알아요. 루시아한테 들었어요. 토르티야요.
+REBECA: Esta noche. A las nueve. En mi casa de Queens. Los cuatro. ||| 오늘 밤 아홉 시. 퀸스의 제 집에서. 넷이서요.
+LUCÍA: ¿Y las cuentas? ||| 계산은요?
+REBECA: Se leen después. En voz alta. ||| 나중에 읽어요. 소리 내어서.
+ÁLVARO: Dejo constancia de que acepto. ||| 수락한다는 사실을 기록해 둡니다.
+LUCÍA: Escríbelo, papá. En el cuaderno. ||| 적어 줘요, 아빠. 수첩에요.
+ÁLVARO: «Seis de junio. Una silla repartida en dos. Una cena de tortilla. Y una última silla, al fondo, con vista a todo». ||| '6월 6일. 둘로 나뉜 의자 하나. 토르티야 저녁 식사. 그리고 맨 뒤, 모든 걸 볼 수 있는 마지막 의자.'
+LUCÍA: Está muy bien. ||| 아주 좋아요.
+ÁLVARO: Te falta la nota a pie de página. ||| 각주가 빠졌네.
+LUCÍA: «Todo esto estaba ya en los libros. Solo había que leerlos». ||| '이 모든 건 이미 책에 있었다. 읽기만 하면 됐다.'
++ escrutinio = 개표. 투표용지를 세는 일
++ por aclamación = 박수로, 이의 없이. 총회에서 표결 없이 채택하는 방식
++ ceder la precedencia = 서열을 양보하다. 1662년 펠리페 4세의 결정을 가리킨다
++ embajador adjunto = 부대사. 대사를 보좌하는 직위
++ galería de visitantes = 방청석
++ silla del fondo = 맨 끝 의자. 이 화의 제목 '마지막 의자'가 가리키는 자리
++ sin condiciones = 조건 없이
++ dejar constancia = 기록으로 남기다. 3부작에서 가장 자주 쓰인 표현의 하나
++ Todo estaba ya en los libros = 이 모든 건 이미 책에 있었다. 3부작의 주제 문장
