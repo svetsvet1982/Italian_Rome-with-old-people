@@ -1,0 +1,58 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 8
+@title De Hollandsche Mercurius
+@ko 홀란트 메르쿠리위스
+@setting D−5 민방위 본부 기자 브리핑 → 사와 학교 라디오실 → 해질녘 운동장 낭독회
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast BASUKI | 민방위 총책 장군, 58세
+@cast ESTHER | 신문 기자, 40세
+@cast SITI | 마을 교사·지역 라디오 진행자, 29세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast RENDI | 기상청 예보관, 36세
+@cast DARMA | 늙은 농부, 71세
+@cast NOOR | 요스트의 딸, 18세
+@cast WAYAN | 젊은 농부, 24세
+@note D−5. 장군 측이 "농민들의 저항이 피해를 키운다"는 프레임을 퍼뜨립니다. 요스트는 구호가 아니라 숫자로 맞섭니다. 매일 18시에 운동장에서 수위를 소리 내어 읽는 '수위 낭독회'입니다. 역사 논거는 『홀란트 메르쿠리위스(Hollandsche Mercurius)』(1650~): 하를럼에서 발행된 연감 형식의 소식지로, 사건을 날짜와 장소와 출처와 함께 기록해 믿을 수 있는 공동의 기록이 되었습니다. 어휘는 언론·정보전(bronvermelding, framing, uitzending, ontkennen, weerleggen)에 주목하세요.
+@next 9화: 헤인이 모델을 장군에게 넘긴 정황이 드러납니다. 증거는 서명이나 날짜가 아니라 '작업 로그의 쉼표'입니다.
+
+## 기자 브리핑 — DE PERSBRIEFING
+ESTHER: Generaal, Esther Bakker, De Nieuwe Courant. Drie ja-nee-vragen. ||| 장군님, 에스터 바커, 신문 '데 니우어 쿠란트'입니다. 예·아니오 질문 세 개입니다.
+BASUKI: U bent de buitenlandse journaliste. ||| 외국 기자시군요.
+ESTHER: Ja. Vraag één: bestaat er een document met de titel «Plan Meranti Nieuw»? ||| 네. 첫째, '새 메란티 계획'이라는 제목의 문서가 존재합니까?
+BASUKI: Nee. ||| 아니오.
+ESTHER: Vraag twee: heeft het bedrijf Landwinning een eerste recht op aankoop van land in de herstelzone? ||| 둘째, 란트빈닝이라는 회사가 복구 구역 토지에 우선 매수권을 가집니까?
+BASUKI: Nee. ||| 아니오.
+ESTHER: Vraag drie: wordt de koopprijs bepaald door de waarde voor de storm min de schade? ||| 셋째, 매수 가격이 폭풍 전 가치에서 피해액을 뺀 값으로 정해집니까?
+BASUKI: Nee. Dit zijn leugens van een buitenlandse agitator. ||| 아니오. 외국 선동가의 거짓말이오.
+ESTHER: Welke buitenlandse agitator? ||| 어느 외국 선동가요?
+BASUKI: Meneer Joost Hartog. ||| 요스트 하르토흐 씨요.
+ESTHER: Hij heeft mij deze vragen niet gesteld. Ik heb ze zelf bedacht. ||| 그분이 이 질문을 시킨 게 아닙니다. 제가 직접 생각했어요.
+BASUKI: Dat doet er niet toe. ||| 상관없소.
+ESTHER: Het doet er wel toe, generaal. Drie keer nee, voor de camera. Ik noteer het. ||| 상관이 있죠, 장군님. 카메라 앞에서 세 번의 '아니오'. 기록해 두겠습니다.
+BASUKI: Schrijft u maar wat u wilt. ||| 쓰고 싶은 대로 쓰시오.
+ESTHER: Dank u. Dat doe ik. ||| 감사합니다. 그렇게 하죠.
+BASUKI: Dames en heren, ik heb nog een mededeling. De zandzakkenkade die in Kandar wordt gebouwd, is illegaal. ||| 여러분, 한 가지 더 알립니다. 칸다르에 쌓고 있는 모래주머니 방벽은 불법입니다.
+ESTHER: Illegaal? ||| 불법이라고요?
+BASUKI: Er is geen vergunning. Boeren die dit organiseren, brengen de stad in gevaar. Zij vertragen de evacuatie. ||| 허가가 없습니다. 이를 조직하는 농민들은 도시를 위험에 빠뜨리고 있습니다. 대피를 지연시킵니다.
+ESTHER: De boeren vertragen de evacuatie? ||| 농민이 대피를 지연시킨다고요?
+BASUKI: Wie weigert te vertrekken, vergroot de schade. Elke dag dat zij blijven, kost levens. ||| 떠나기를 거부하는 자들이 피해를 키웁니다. 그들이 머무는 하루하루가 목숨을 앗아 갑니다.
+ESTHER: Welke levens? ||| 어떤 목숨이죠?
+BASUKI: Die van de soldaten die hen moeten halen. ||| 그들을 데려오러 가야 하는 군인들의 목숨이오.
+ESTHER: Generaal, niemand heeft geweigerd te vertrekken. De storm komt over vijf dagen. ||| 장군님, 아무도 떠나길 거부하지 않았습니다. 폭풍은 5일 뒤에 옵니다.
+BASUKI: Dat zeggen de buitenlanders. ||| 외국인들이 그렇게 말하죠.
+ESTHER: Dat zegt de weerdienst. ||| 기상청이 그렇게 말합니다.
+BASUKI: Die is misleid. ||| 그들은 현혹됐소.
+ESTHER: Door wie? ||| 누구에게요?
+BASUKI: Dit is het einde van de briefing. ||| 브리핑을 마치겠습니다.
++ persbriefing = 기자 브리핑
++ agitator = 선동가
++ mededeling = 공지, 알림
++ vertragen = 지연시키다
++ misleid = 현혹된, 속은
++ noteren = 기록하다, 메모하다
++ evacuatie = 대피, 소개
++ illegaal = 불법적인
++ ja-nee-vraag = 예/아니오 질문
