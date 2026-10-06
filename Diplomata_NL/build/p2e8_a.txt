@@ -1,0 +1,112 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 8
+@title De persconferentie
+@ko 기자회견
+@setting 화요일 오전 평화궁 대회의실 기자회견 → 복도 → 요스트의 사무실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast RADEMAKER | 상설중재재판소 사무총장, 58세
+@cast ESTHER | 일간지 기자, 38세
+@cast JOURNALIST1 | 기자 1 (경제지)
+@cast JOURNALIST2 | 기자 2 (방송)
+@cast FEMKE | 분석관, 31세
+@note 2부 8화는 '언론전'입니다. 기자회견에서 질문마다 같은 단어 '교육(onderwijs)'이 반복되는 것을 요스트가 읽어 냅니다. 이어 한 기자가 평화궁 도서관 복원에 블라우베르흐의 기부가 있었다는 질문을 던져 개최국 자신이 연루되어 있음이 드러납니다. 역사 논거는 1899년 헤이그 평화회의 때 영국 언론인 스테드가 일간 소식지를 발행해 여론을 움직인 사례(회의장 밖의 회의)입니다. 어휘는 언론(persbericht, vraagstelling, framing, onthullen)과 기자회견 용어에 주목하세요.
+@next 2부 9화 — «De derde arbiter»(제3의 중재인) — 후임 중재인 린트 교수의 지명서에서 서명 순서와 날짜가 어긋납니다. 신뢰가 붕괴되는 순간, 빌럼 오라녜 암살(1584)의 기억이 오릅니다.
+
+## 회견장 — DE PERSZAAL
+RADEMAKER: Dames en heren, goedemorgen. Ik ben Emmeline Rademaker, Secretaris-Generaal van het Permanente Hof van Arbitrage. Ik lees eerst een korte verklaring voor. ||| 여러분, 안녕하십니까. 상설중재재판소 사무총장 에멜린 라더마커입니다. 먼저 짧은 성명을 읽겠습니다.
+RADEMAKER: «Het tribunaal in de zaak Zuid-Marinde tegen Karang heeft vorige week een van zijn leden verloren door omstandigheden die wij nog onderzoeken. De voorzitter heeft zich teruggetrokken na een openbare verklaring over zijn banden met een stichting. De zitting wordt hervat zodra een nieuw tribunaal is samengesteld». ||| "남마린데 대 카랑 사건의 재판부는 지난주 우리가 아직 조사 중인 사정으로 구성원 한 명을 잃었습니다. 의장은 한 재단과의 관계에 관한 공개 진술 뒤 물러났습니다. 새 재판부가 구성되는 대로 심리가 재개됩니다."
+RADEMAKER: «Het Hof heeft de afgelopen week een procedure vastgesteld waarbij alle leden hun financiële banden hardop verklaren. Deze procedure geldt vanaf heden voor alle zaken». ||| "재판소는 지난주 모든 위원이 재정적 관계를 소리 내어 진술하는 절차를 정했습니다. 이 절차는 오늘부터 모든 사건에 적용됩니다."
+RADEMAKER: Vragen? ||| 질문 받겠습니다.
+JOURNALIST1: Mevrouw Rademaker, Het Handelsweekblad. Is het niet zo dat de Stichting Blauwberg een van de grootste privésponsors van onderwijs in de rechtswetenschap is? ||| 라더마커 총장님, 경제 주간지입니다. 블라우베르흐 재단은 법학 교육의 가장 큰 민간 후원자 중 하나 아닌가요?
+RADEMAKER: Dat is mij bekend. ||| 알고 있습니다.
+JOURNALIST1: En moet een instelling die onderwijs steunt niet juist worden toegejuicht? ||| 그렇다면 교육을 후원하는 기관은 오히려 박수받아야 하지 않습니까?
+RADEMAKER: Dat is een legitieme vraag. Maar het gaat hier niet om het onderwijs, maar om de onafhankelijkheid van arbiters. ||| 정당한 질문입니다. 하지만 여기서 문제는 교육이 아니라 중재인의 독립성입니다.
+JOURNALIST2: Mevrouw Rademaker, Het Avondjournaal. Wilt u ingaan op de bezorgdheid dat deze zaak het onderwijs in Nederland en in Den Haag zal schaden? ||| 라더마커 총장님, 방송 뉴스입니다. 이 사건이 네덜란드와 헤이그의 교육에 해를 끼칠 거라는 우려에 답해 주시겠습니까?
+RADEMAKER: Ik begrijp de vraag niet helemaal. ||| 질문이 잘 이해되지 않습니다.
+JOURNALIST2: Dat investeren in onderwijs door private fondsen in diskrediet kan raken. ||| 민간 기금의 교육 투자가 불신받을 수 있다는 뜻입니다.
+RADEMAKER: Dat zal ik niet beoordelen. ||| 제가 평가할 일이 아닙니다.
+JOURNALIST3: Mevrouw Rademaker, ik ben van De Stadskrant. Is er een link tussen deze zaak en de slechte financiering van het onderwijs in rechten? ||| 라더마커 총장님, 텔레흐라프 기자입니다. 이 사건과 법학 교육의 열악한 재정 사이에 연관이 있습니까?
+RADEMAKER: Hoe bedoelt u? ||| 무슨 뜻이죠?
+JOURNALIST3: Dat private fondsen nodig zijn omdat de overheid het onderwijs verwaarloost. ||| 정부가 교육을 소홀히 하니 민간 기금이 필요하다는 뜻입니다.
+JOOST: Femke. ||| 페므커.
+FEMKE: Ja? ||| 네?
+JOOST: Hoeveel keer is het woord «onderwijs» nu gezegd? ||| '교육'이라는 말이 지금까지 몇 번 나왔죠?
+FEMKE: Zes. In drie vragen. ||| 여섯 번이요. 질문 세 개에서요.
+JOOST: Schrijf de vragen op. Letterlijk. ||| 질문을 적어 두세요. 그대로요.
+FEMKE: Dat doe ik al. ||| 이미 하고 있어요.
+JOOST: Schrijf ook de media erbij. Welke krant, welke zender. ||| 어느 신문, 어느 방송인지도 같이 적으세요.
+FEMKE: Al gedaan. Alle drie hebben recent een gesponsorde rubriek gehad. «Dossier Onderwijs». ||| 이미 했어요. 세 곳 모두 최근 후원 코너가 있었어요. '교육 특집'.
+JOOST: Wie sponsorde? ||| 누가 후원했죠?
+FEMKE: «Mogelijk gemaakt door een stichting». Geen naam. ||| '한 재단의 후원으로 가능했음'. 이름은 없어요.
+JOOST: Natuurlijk niet. ||| 당연히 없죠.
+## 질문 — DE VRAGEN
+ESTHER: Esther Bakker, De Nieuwe Courant. Mevrouw Rademaker, ik heb een vraag aan de Nederlandse regering. Is meneer Hartog aanwezig? ||| 에스터 바커, 데 니우어 쿠란트입니다. 라더마커 총장님, 네덜란드 정부에 질문이 있습니다. 하르토흐 씨 계십니까?
+JOOST: Ik ben hier. ||| 여기 있습니다.
+ESTHER: Meneer Hartog. Klopt het dat de renovatie van de Vredespaleis-bibliotheek, vijf jaar geleden, deels is betaald door de Stichting Blauwberg? ||| 하르토흐 씨. 5년 전 평화궁 도서관 복원 비용 일부를 블라우베르흐 재단이 냈다는 게 사실입니까?
+JOOST: ... ||| …
+RADEMAKER: Mevrouw Bakker, dat is een vraag die ik moet beantwoorden. ||| 바커 씨, 그건 제가 답해야 할 질문입니다.
+ESTHER: Ik stel hem aan de gastheer. ||| 주인에게 묻는 겁니다.
+JOOST: Ik moet iets zeggen. Ik ben me hier niet van bewust. ||| 말씀드려야겠군요. 저는 알지 못했습니다.
+ESTHER: Dat is eerlijk. ||| 정직하군요.
+JOOST: Mevrouw Rademaker? ||| 라더마커 총장님?
+RADEMAKER: Het klopt. Twee miljoen euro. Vijf jaar geleden. De leeszaal kreeg een nieuwe verlichting en een klimaatsysteem. Er hangt een plaquette. ||| 사실입니다. 5년 전 200만 유로였어요. 열람실에 새 조명과 공조 시스템이 들어갔고 명판도 걸렸습니다.
+ESTHER: Wat staat op de plaquette? ||| 명판에 뭐라고 쓰여 있습니까?
+RADEMAKER: «Blauwberg-leeszaal. Geschonken door vrienden van het recht». ||| '블라우베르흐 열람실. 법의 친구들이 기증함'.
+ESTHER: Vrienden van het recht. ||| 법의 친구들이라.
+RADEMAKER: Zo stond het in de tekst. ||| 문안에 그렇게 있었습니다.
+ESTHER: En de Nederlandse regering heeft dat geaccepteerd? ||| 네덜란드 정부는 그걸 받아들였고요?
+JOOST: Het Rijk was de eigenaar van het gebouw. Er is toen een intentieverklaring ondertekend. Door een ambtenaar van Buitenlandse Zaken. ||| 건물 소유자는 국가였습니다. 당시 의향서가 서명됐고 서명자는 외무부 공무원이었습니다.
+ESTHER: Wie? ||| 누구입니까?
+JOOST: Dat weet ik niet. Maar ik zal het uitzoeken. En ik zal u het antwoord geven voordat een ander het doet. ||| 모릅니다. 알아보겠습니다. 그리고 다른 사람이 말하기 전에 답을 드리겠습니다.
+ESTHER: Dat hoor ik vaker. ||| 자주 듣는 말이네요.
+JOOST: Dan is het hoog tijd dat het waar wordt. ||| 그렇다면 사실이 될 때가 됐군요.
+JOURNALIST1: Meneer Hartog, betekent dit dat Nederland als gastland niet langer neutraal is? ||| 하르토흐 씨, 이는 네덜란드가 개최국으로서 더 이상 중립이 아니라는 뜻입니까?
+JOOST: Het betekent dat Nederland een dossier moet openen. ||| 네덜란드가 서류철을 열어야 한다는 뜻입니다.
+JOURNALIST1: Wat voor dossier? ||| 무슨 서류철입니까?
+JOOST: Een dossier waarin alle schenkingen aan het paleis staan. Van de afgelopen tien jaar. Hardop gelezen. ||| 지난 10년간 궁전에 들어온 모든 기부가 적힌 서류철입니다. 소리 내어 읽힐 겁니다.
+JOURNALIST1: Wanneer? ||| 언제요?
+JOOST: Binnen veertien dagen. ||| 14일 안에요.
+RADEMAKER: Het Hof sluit zich daarbij aan. ||| 재판소도 동참합니다.
+ESTHER: Mevrouw Rademaker, een laatste vraag. Weet u waar mevrouw Wijnaendts is? ||| 라더마커 총장님, 마지막 질문입니다. 바이나엔츠 박사가 어디 있는지 아십니까?
+RADEMAKER: Wij weten dat zij veilig is. ||| 안전하다는 건 압니다.
+ESTHER: Waar? ||| 어디요?
+RADEMAKER: Dat is alles wat wij kunnen zeggen. ||| 말씀드릴 수 있는 건 그게 전부입니다.
+ESTHER: Op wiens gezag? ||| 누구의 권한으로요?
+RADEMAKER: Op dat van het Hof. ||| 재판소의 권한으로요.
+ESTHER: Dank u. ||| 감사합니다.
+## 스테드 — STEAD
+FEMKE: Dat was een zware vragenronde. ||| 힘든 질문 시간이었어요.
+JOOST: Het was een geënsceneerde vragenronde. Behalve de laatste. ||| 연출된 질문 시간이었죠. 마지막 것만 빼고요.
+FEMKE: Hoe weet je dat? ||| 어떻게 알아요?
+JOOST: Zes keer hetzelfde woord. «Onderwijs». Niemand zegt zes keer hetzelfde woord toevallig. Iemand heeft een nota rondgestuurd. ||| 같은 단어가 여섯 번이에요. 우연히 여섯 번 같은 말을 하는 사람은 없습니다. 누군가 메모를 돌렸어요.
+FEMKE: Een persbericht? ||| 보도자료요?
+JOOST: Eerder een leidraad. «Het onderwerp is het onderwijs». ||| 지침에 가깝죠. '주제는 교육이다'.
+FEMKE: Dat heet «framing». ||| '프레이밍'이라고 하죠.
+JOOST: Het heeft een mooier woord in het Nederlands. ||| 네덜란드어로는 더 좋은 말이 있어요.
+FEMKE: Welk? ||| 어떤 거요?
+JOOST: «Regie». ||| '연출'이요.
+FEMKE: Je lijkt wel Stead. ||| 스테드 같으세요.
+JOOST: Wie? ||| 누구요?
+FEMKE: William Stead. De Engelse journalist die in 1899 naar de Vredesconferentie kwam en elke dag een eigen krant uitgaf. «De Oorlog tegen de Oorlog». ||| 윌리엄 스테드요. 1899년 평화회의에 와서 매일 자기 신문을 펴낸 영국 기자요. '전쟁에 맞선 전쟁'.
+JOOST: Hij werd ervan beschuldigd de conferentie te manipuleren. ||| 회의를 조작한다는 비난을 받았죠.
+FEMKE: Hij zei dat hij alleen maakte wat wel gebeurde zichtbaar. ||| 일어나는 일을 보이게 만들 뿐이라고 했어요.
+JOOST: Dat zeg ik ook. ||| 저도 그렇게 말하죠.
+FEMKE: Maar dan ga je twee kanten op. ||| 하지만 그러면 두 방향으로 갑니다.
+JOOST: Hoe bedoel je? ||| 무슨 뜻이에요?
+FEMKE: Stead maakte iets zichtbaar. De mensen achter het onderwijs-verhaal willen iets onzichtbaar maken. Dezelfde techniek. ||| 스테드는 뭔가를 보이게 했고, 교육 이야기 뒤의 사람들은 뭔가를 안 보이게 하려고 해요. 같은 기술이죠.
+JOOST: Techniek is neutraal. Doel niet. ||| 기술은 중립이지만 목적은 아닙니다.
+FEMKE: Dat is wat je zegt over alles. ||| 모든 것에 대해 그렇게 말씀하시네요.
+JOOST: Omdat het vaak waar is. ||| 자주 사실이니까요.
++ persconferentie = 기자회견
++ gesponsorde rubriek = 후원 코너(협찬 기사)
++ geënsceneerd = 연출된, 짜인
++ leidraad = 지침, 길잡이
++ regie = 연출, 감독. 비유로 '배후 조정'
++ plaquette = 명판
++ intentieverklaring = 의향서
++ onderwijs = 교육. 이 화의 반복 키워드
++ toejuichen = 박수치다, 환영하다
++ verwaarlozen = 소홀히 하다
