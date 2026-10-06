@@ -1,0 +1,110 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 7
+@title Dinero de embajador
+@ko 대사의 돈
+@setting 2월 14일 토요일 살마라 광장(봉투 개봉) → 밤의 호텔 방 → 밤의 통화
+@level B2-C1
+@cast ÁLVARO | 외교관 · 안보리 의장 특사, 45세
+@cast REBECA | 국가정보원(CNI) 연락관, 42세
+@cast LUCÍA | 알바로의 딸, 18세 (통화)
+@cast ELENA | 알바로의 전처, 44세 (통화)
+@cast HAMID | 고서점 주인이자 살마라 대표, 79세
+@cast BENITO | 메르세드회 노수사, 78세
+@cast FÁTIMA | 빵집 주인, 52세
+@cast YASSIN | 하역 노동자, 41세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@note 7화는 더러운 수단의 화입니다. 토요일 광장에서 왕의 봉투가 열려 '서약을 모두 장부에 적기 전에는 한 줄을 읽지 말라'는 조건이 나옵니다. 밤에는 레베카가 군부 급여 계좌를 열어 보이고, 루시아가 묻습니다. "아빠, 이기려면 뭐든 해도 돼?" 역사 논거는 곤도마르 백작의 런던 대사 시절(1613~1622): 영국 궁정에 연금과 선물과 도서와 웃음으로 영향력을 샀고, 그 비용과 이득이 오래 논쟁되었습니다. 해법의 씨앗은 '비밀 매수' 대신 '공개 지급'입니다. 내가 값을 치르고 모두가 보게 한다. 어휘는 정보·자금(cuenta, nómina, soborno, pensión, fondo)과 윤리 표현에 주목하세요.
+@next 8화: 노르드마르크가 '스페인의 식민 야망' 프레임을 퍼뜨립니다. 알바로는 질문의 순서와 날짜로 대응합니다.
+
+## 토요일의 광장 — LA PLAZA, SÁBADO
+FÁTIMA: Fray Benito, me llamo Fátima, soy panadera. He venido a pedirle un sobre. Para el señor Hamid. ||| 베니토 수사님, 저는 빵집을 하는 파티마입니다. 봉투를 청하러 왔어요. 하미드 어르신을 위해서요.
+YASSIN: Me llamo Yassin, soy estibador. Yo también. Para el señor Hamid. ||| 하역 노동자 야신입니다. 저도요. 하미드 어르신을 위해서요.
+DOCTORA: Soy la doctora Nuria Benali. Yo, igual. Para el señor Hamid. ||| 의사 누리아 베날리입니다. 저도 같은 마음입니다. 하미드 어르신을 위해서요.
+BENITO: Tres personas. Tres nombres. Cada una de un oficio. ||| 세 사람. 세 이름. 직업은 각각 다르고.
+BENITO: Hamid, hermano. Esto es lo que me dejó Idris. ||| 하미드, 형제여. 이것이 이드리스가 내게 남긴 것이오.
+HAMID: Gracias, fray Benito. Cuarenta años, y nunca le he dado un abrazo. ||| 고맙소, 베니토 수사님. 40년 동안 한 번도 안아 드린 적이 없었소.
+BENITO: Hoy sí. ||| 오늘은 안아 보세.
+SEFIA: Abuelo, ¿lo abres? ||| 할아버지, 여실 거예요?
+HAMID: En voz alta. Delante de todos. ||| 큰 소리로. 모두가 보는 앞에서.
+KADER: Silencio, por favor. El señor Hamid, delegado de Salmara, va a leer. ||| 조용히 해 주십시오. 살마라 대표 하미드 어르신이 읽습니다.
+HAMID: «Hamid, amigo. Si lees esto, es que me he muerto y que tres personas del pueblo han pedido este sobre en tu nombre. Entonces ya sabes qué se puede hacer.» ||| "친구 하미드. 이 글을 읽는다면 내가 죽었고 백성 세 사람이 자네 이름으로 이 봉투를 청했다는 뜻일세. 그렇다면 무엇을 해야 하는지 이미 알겠지."
+HAMID: «En tu libro de cuentas hay una línea mía. No la leas todavía.» ||| "자네의 장부에 내가 쓴 한 줄이 있네. 아직 읽지 말게."
+SEFIA: ¿No la leas todavía? ||| '아직 읽지 말게'라고요?
+HAMID: «Léela solo cuando los que se disputan mi trono hayan firmado, cada uno, un papel donde anoten lo que renuncian. No lo que ganan. Lo que ceden.» ||| "내 왕좌를 다투는 자들이 각자 포기하는 것을 적은 문서에 서명한 뒤에만 읽게. 얻는 것이 아니라 내어놓는 것을."
+HAMID: «Si leéis mi línea antes, la usarán como un arma. Si la leéis después, la usaréis como una ley.» ||| "그 전에 읽으면 무기로 쓰일 걸세. 그 뒤에 읽으면 법으로 쓰일 걸세."
+HAMID: «Perdona la carga. Eres el único en quien confío para llevarla. Idris.» ||| "짐을 지워 미안하네. 이것을 질 사람으로 믿을 이는 자네뿐일세. 이드리스."
+KADER: Es una condición. ||| 조건이군요.
+ÁLVARO: Es una condición muy bien pensada. ||| 아주 잘 생각된 조건입니다.
+KADER: Quiere que firmen sus renuncias. ||| 포기 서약에 서명하길 바라시는군요.
+ÁLVARO: Lo que cada uno cede. En un papel donde se vea. ||| 각자가 내어놓는 것을요. 보이는 문서에.
+KADER: Eso es lo que no quiere hacer nadie. ||| 아무도 하고 싶어 하지 않는 일이죠.
+ÁLVARO: Por eso lo pidió. ||| 그래서 청하신 겁니다.
+HAMID: Señor Quintana. Ahora ya lo sabe. ||| 킨타나 씨. 이제 아시겠구려.
+ÁLVARO: Sí, señor Hamid. Gracias por esperar. ||| 네, 하미드 어르신. 기다려 주셔서 감사합니다.
+HAMID: Los libreros esperamos. Es nuestro oficio. ||| 서점 사람들은 기다리오. 우리의 일이니까.
++ sobre = 봉투
++ en tu nombre = 당신의 이름으로
++ renunciar = 포기하다
++ ceder = 양보하다, 내어주다
++ carga = 짐, 부담
++ delegado = 대표
++ arma = 무기
++ condición = 조건
+
+## 호텔 방 — LA HABITACIÓN DEL HOTEL
+REBECA: Cierra la puerta. ||| 문 닫아요.
+ÁLVARO: Rebeca. No sabía que ibas a venir. ||| 레베카. 온다는 걸 몰랐어요.
+REBECA: Nadie lo sabe. Llegué anoche por Casablanca. Con un pasaporte que dice «gestora de museos». ||| 아무도 몰라요. 어젯밤 카사블랑카 경유로 왔어요. '박물관 운영자'라고 적힌 여권으로요.
+ÁLVARO: ¿Y qué traes? ||| 뭘 가져왔어요?
+REBECA: Dos cosas. La primera: las cuentas de las nóminas del ejército de Tamazia. ||| 두 가지요. 첫째, 타마지아 군 급여 계좌예요.
+ÁLVARO: ¿Cómo las has conseguido? ||| 어떻게 구했어요?
+REBECA: Eso no quieres saberlo. ||| 알고 싶지 않을 거예요.
+ÁLVARO: Rebeca. ||| 레베카.
+REBECA: Digamos que algún funcionario del Banco Central de Tamazia estaba distraído. Y que yo tengo amigos que no se distraen. ||| 타마지아 중앙은행 직원이 잠깐 한눈을 팔았고, 한눈을 팔지 않는 친구들이 제게 있었다고 해 두죠.
+ÁLVARO: Eso es ilegal. ||| 불법입니다.
+REBECA: Es información. ||| 정보예요.
+ÁLVARO: ¿Qué dice? ||| 뭐라고 나와 있습니까?
+REBECA: Que desde noviembre, los soldados no cobran. Seis mil hombres. Tres meses de atraso. ||| 11월부터 병사들이 급여를 받지 못했어요. 6천 명이 석 달째 밀렸죠.
+ÁLVARO: ¿Y los oficiales? ||| 장교들은요?
+REBECA: Los oficiales sí. Con un suplemento. Que paga la Asociación de Navieros. ||| 장교들은 받았어요. 수당까지요. 선주 협회가 줍니다.
+ÁLVARO: Los navieros pagan a los oficiales. ||| 선주들이 장교에게 지급하는군요.
+REBECA: Con el dinero de los cuatro millones de Septentrio. ||| 셉텐트리오에서 온 400만 유로로요.
+ÁLVARO: Es decir, que Nordmark paga a los oficiales y deja a los soldados sin sueldo. ||| 그러니까 노르드마르크가 장교에게 주고 병사들은 급여 없이 둔다는 거군요.
+REBECA: Para que los soldados necesiten un jefe que les prometa pagar. ||| 병사들이 급여를 약속해 줄 지휘관을 필요로 하도록요.
+ÁLVARO: El general. ||| 장군이요.
+REBECA: Exacto. Los soldados le deben lealtad porque les ha prometido pagar. Y el que le da el dinero para prometer es Nordmark. ||| 맞아요. 병사들은 급여를 약속해 줬기에 장군에게 충성하죠. 약속할 돈을 주는 건 노르드마르크고요.
+ÁLVARO: Un ejército comprado a plazos. ||| 할부로 산 군대네요.
+REBECA: Y esta es la segunda cosa. Una propuesta. ||| 그리고 두 번째가 제안이에요.
+ÁLVARO: Dímela. ||| 말해 봐요.
+REBECA: Con esa lista de cuentas, yo puedo hacer que seis mil soldados cobren mañana. Con dinero de una caja negra de mi servicio. Sin que nadie sepa de dónde viene. ||| 그 계좌 목록으로 내일 병사 6천 명에게 급여가 들어가게 할 수 있어요. 우리 기관의 비자금으로요. 어디서 왔는지 아무도 모르게.
+ÁLVARO: Un soborno. ||| 매수군요.
+REBECA: Un adelanto. Los soldados se quedarán con España. No con Nordmark, no con el general. ||| 선지급이죠. 병사들은 스페인 편에 서게 될 거예요. 노르드마르크도 장군도 아니고요.
+ÁLVARO: Rebeca, ¿sabes qué es esto? ||| 레베카, 이게 뭔지 알아요?
+REBECA: ¿Qué? ||| 뭔데요?
+ÁLVARO: Es el conde de Gondomar. ||| 곤도마르 백작이에요.
+REBECA: ¿Quién? ||| 누구요?
+ÁLVARO: Diego Sarmiento de Acuña. Embajador de Felipe Tercero en Londres, de mil seiscientos trece a mil seiscientos veintidós. ||| 디에고 사르미엔토 데 아쿠냐. 펠리페 3세의 런던 대사, 1613년부터 1622년까지였죠.
+REBECA: Ya. El de los pagos. ||| 아, 돈 쓴 사람이죠.
+ÁLVARO: El de los pagos, los regalos y las bromas. Daba pensiones a cortesanos del rey Jacobo. Hacía reír al rey con chistes en latín. Y compraba libros para su biblioteca. ||| 돈, 선물, 농담의 사람이었습니다. 제임스 왕의 신하들에게 연금을 주었고, 라틴어 농담으로 왕을 웃겼고, 자기 서재를 위해 책을 샀어요.
+REBECA: Funcionó. ||| 효과가 있었죠.
+ÁLVARO: Funcionó. Consiguió que el rey Jacobo negociara una boda con la infanta española y que no se atacara a las flotas españolas. Y presionó hasta lograr la ejecución de Raleigh. ||| 있었죠. 제임스 왕이 스페인 공주와의 혼인을 협상하게 했고 스페인 함대가 공격받지 않게 했습니다. 그리고 롤리의 처형을 끌어낼 때까지 압박했어요.
+REBECA: Eso es éxito. ||| 성공이네요.
+ÁLVARO: ¿Y cuánto duró? ||| 얼마나 갔을까요?
+REBECA: Hasta que se fue. ||| 그가 떠날 때까지요.
+ÁLVARO: Hasta que se fue. Y cuando se fue, todos esos amigos dijeron: «Éramos de Gondomar. No de España». ||| 그가 떠날 때까지였습니다. 그가 떠나자 그 친구들은 이렇게 말했어요. '우리는 곤도마르 사람이지 스페인 사람이 아니다'.
+REBECA: Lo que compras es la persona. No el cargo. ||| 사는 건 사람이지 직책이 아니라는 거죠.
+ÁLVARO: Exacto. Y hay otra cosa. Su dinero era secreto. Cuando se supo, se convirtió en escándalo. ||| 맞습니다. 또 하나, 그의 돈은 비밀이었어요. 알려지는 순간 스캔들이 됐죠.
+REBECA: ¿Y tu alternativa? ||| 그럼 당신의 대안은요?
+ÁLVARO: El mismo dinero. Pero a la vista. ||| 같은 돈을 공개적으로 쓰는 겁니다.
++ nómina = 급여, 급여 명세
++ atraso = (급여의) 체불, 연체
++ suplemento = 수당
++ caja negra = 비자금
++ soborno = 매수, 뇌물
++ adelanto = 선지급, 가불
++ pensión = 연금, 정기 지급금
++ a plazos = 할부로
++ gestora de museos = 박물관 운영자(위장 직업)
++ conde de Gondomar = 곤도마르 백작
