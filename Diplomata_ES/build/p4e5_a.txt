@@ -1,0 +1,82 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 5
+@title La Escuela de Toledo
+@ko 톨레도 번역학교
+@setting 2월 9일 뉴욕 유엔 본부 통역 부스 층 → 안보리 협의실 복도 → 밤의 대표부
+@level B2-C1
+@cast ÁLVARO | 주유엔 스페인 부대사, 45세
+@cast FERMÍN | 은퇴한 통역관(1부 증인), 72세
+@cast AMAL | 유엔 아랍어 통역관, 46세
+@cast ÉTIENNE | 유엔 프랑스어 통역관, 51세
+@cast MORENO | 주유엔 스페인 대사, 56세
+@cast LUNDGREN | 노르드마르크 주유엔 대사, 49세
+@cast SEFIA | 서점 손녀, 23세 (화상)
+@cast LUCÍA | 알바로의 딸, 18세 (메시지)
+@note 5화는 폭로의 화입니다. 세 개의 유언에는 아랍어·프랑스어·스페인어 번역본이 있는데, 번역본끼리 서로 다른 곳에서 '원문의 언어'가 드러납니다. 역사 논거는 톨레도 번역학교(12~13세기): 라이문도 대주교와 알폰소 10세 시대에 아랍어·히브리어·라틴어·카스티야어를 오가며 번역한 공동 작업으로, 번역의 오류가 어느 언어에서 왔는지를 거꾸로 추적할 수 있다는 교훈을 남겼습니다. 해법의 씨앗은 '번역의 차이가 곧 위조의 지문'이라는 발견입니다. 어휘는 번역·언어(calco, traducción literal, formato de fecha, cotejar, texto original)에 주목하세요.
+@next 6화: 왕의 고해 신부가 한 유언을 숨깁니다. 고해의 비밀과 증언의 의무가 부딪칩니다.
+
+## 통역 부스 층 — EL PISO DE LAS CABINAS
+ÁLVARO: Amal, Étienne, gracias por quedarse después del turno. Les presento a un colega. ||| 아말, 에티엔, 근무 끝나고도 남아 주셔서 고맙습니다. 동료를 소개하죠.
+FERMÍN: Fermín Cuesta. Intérprete jubilado. Sesenta años de cabina y ningún premio. ||| 페르민 쿠에스타입니다. 은퇴한 통역관이에요. 부스 경력 60년에 상 하나 못 받았죠.
+AMAL: Señor Cuesta, ¡el de los anexos del noventa y seis! Lo conozco por las historias. ||| 쿠에스타 선생님, 96년 부속서 건의 그분이시군요! 이야기로 들어 알아요.
+FERMÍN: Historias que se cuentan mejor de lo que ocurrieron. ||| 실제보다 더 낫게 전해지는 이야기죠.
+ÉTIENNE: ¿Qué necesita de nosotros, señor Quintana? ||| 우리에게 무엇이 필요하십니까, 킨타나 씨?
+ÁLVARO: Una lectura en voz alta. De tres textos. Los tres testamentos del rey de Tamazia, en tres idiomas. ||| 소리 내어 읽기요. 세 텍스트입니다. 타마지아 왕의 유언 세 개를 세 언어로요.
+AMAL: ¿Los tres? ||| 세 개 전부요?
+ÁLVARO: Árabe, francés y español. Cada testamento tiene sus tres versiones. En total, nueve textos. ||| 아랍어, 프랑스어, 스페인어요. 유언마다 세 가지 판본이 있어서 모두 아홉 개입니다.
+ÉTIENNE: Normalmente la versión original es una, y las otras son traducciones. ||| 보통은 원본이 하나고 나머지는 번역이죠.
+ÁLVARO: Normalmente. Aquí, según cada parte, la «original» es distinta. ||| 보통은요. 여기서는 당사자마다 '원본'이 다릅니다.
+AMAL: ¿Y qué quiere que busquemos? ||| 무엇을 찾아 달라는 겁니까?
+ÁLVARO: Diferencias. Las más pequeñas posibles. Un número, un adjetivo, un orden de palabras. ||| 차이요. 가능한 한 작은 것들. 숫자, 형용사, 어순 같은 것요.
+FERMÍN: Cotejar. Como se hacía en Toledo. ||| 대조하는 거죠. 톨레도에서 하던 방식으로요.
+AMAL: ¿En Toledo? ||| 톨레도요?
+FERMÍN: La Escuela de Traductores. Siglos doce y trece. Allí se juntaban un traductor árabe, uno judío y uno cristiano. ||| 번역학교요. 12~13세기에 그곳에선 아랍인, 유대인, 기독교인 번역자가 함께 앉았어요.
+ÉTIENNE: ¿Y cómo trabajaban? ||| 어떻게 일했습니까?
+FERMÍN: Uno leía el texto árabe en voz alta, en romance. El otro lo pasaba al latín. Y entre los dos se corregían. ||| 한 사람은 아랍어 텍스트를 로망스어로 소리 내어 읽었고, 다른 사람은 그것을 라틴어로 옮겼어요. 그리고 서로 고쳐 주었죠.
+ÁLVARO: Y de ahí salieron Aristóteles, Averroes, Avicena… ||| 거기서 아리스토텔레스, 아베로에스, 아비센나가 나왔죠…
+FERMÍN: Y el castellano como lengua de ciencia, cuando Alfonso Décimo ordenó escribir en romance. ||| 그리고 알폰소 10세가 로망스어로 쓰라고 명하면서 카스티야어가 학문의 언어가 되었습니다.
+AMAL: Interesante. Pero ¿cómo ayuda eso a verificar un testamento? ||| 흥미롭네요. 하지만 그게 유언 검증에 어떻게 도움이 되죠?
+FERMÍN: Hay un principio que aprendí en sesenta años: un error de traducción no es aleatorio. Tiene dirección. ||| 60년 동안 배운 원칙이 하나 있어요. 번역 오류는 무작위가 아니라 방향이 있다는 겁니다.
+ÉTIENNE: ¿Dirección? ||| 방향이요?
+FERMÍN: Si en la versión francesa hay una palabra rara, y en la árabe esa palabra rara se explica mejor traducida del francés, entonces el original era francés. ||| 프랑스어판에 이상한 단어가 있는데 아랍어판에서는 그 이상한 단어가 프랑스어를 옮긴 거라고 하면 더 잘 설명된다면, 원본은 프랑스어였다는 겁니다.
+AMAL: Entiendo. La huella del idioma de origen. ||| 알겠어요. 원어의 흔적이네요.
+FERMÍN: Una traducción es una huella dactilar, señorita. ||| 번역은 지문입니다, 아가씨.
+ÉTIENNE: Empecemos por el tercero, el de los navieros. Versión francesa. ||| 세 번째, 선주들의 유언부터 시작하죠. 프랑스어판요.
+ÁLVARO: Léala en voz alta. ||| 소리 내어 읽어 주세요.
+ÉTIENNE: «Fait au palais de Salmara, le douze février deux mille vingt-quatre.» ||| "2024년 2월 12일 살마라 궁에서 작성함."
+ÁLVARO: ¿Doce de febrero? ||| 2월 12일이요?
+ÉTIENNE: Sí. Y ahora lo que usted me dio es la versión española. ||| 네. 그리고 주신 건 스페인어판이군요.
+ÁLVARO: Léala. ||| 읽어 보세요.
+FERMÍN: «Dado en el Palacio de Salmara, el dos de diciembre de dos mil veinticuatro». ||| "2024년 12월 2일 살마라 궁에서 작성함."
+ÁLVARO: ¿Dos de diciembre? ||| 12월 2일이요?
+AMAL: Y mi versión árabe dice: «Escrito en el palacio de Salmara, el día doce del mes de febrero». ||| 그리고 제 아랍어판은 이렇게 적혀 있어요. "살마라 궁에서 2월 12일에 쓰였다."
+ÁLVARO: Dos versiones dicen doce de febrero. Una dice dos de diciembre. ||| 두 판본은 2월 12일이고 한 판본은 12월 2일이군요.
+FERMÍN: ¿Cuál de las tres es la versión española? ||| 스페인어판은 셋 중 어느 겁니까?
+ÁLVARO: La que ha traducido el departamento jurídico de Nordmark. No la oficial de la ONU. ||| 노르드마르크 법무부가 옮긴 겁니다. 유엔 공식판이 아니에요.
+FERMÍN: Entonces ya sabemos algo. ||| 그러면 벌써 하나를 알았군요.
+ÁLVARO: ¿Qué? ||| 뭘요?
+FERMÍN: «Doce de febrero» y «dos de diciembre». Escriba la fecha como la escribiría un anglosajón: mes, día, año. ||| '2월 12일'과 '12월 2일'이요. 영미식으로 날짜를 쓰면 월, 일, 연도죠.
+ÁLVARO: Doce barra cero dos barra veinticuatro. ||| 12/02/24.
+FERMÍN: Y ahora escríbala como la escribe un europeo o un árabe: día, mes, año. ||| 이제 유럽인이나 아랍인처럼 써 보세요. 일, 월, 연도로요.
+ÁLVARO: Doce barra cero dos barra veinticuatro. Es la misma cadena de números. ||| 12/02/24. 숫자열이 같군요.
+FERMÍN: Pero depende de quién la lea. ||| 하지만 누가 읽느냐에 따라 달라지죠.
+ÉTIENNE: Alguien que escribió «12/02/2024». ||| 누군가 '12/02/2024'라고 썼겠군요.
+FERMÍN: Que alguien lea «doce de febrero». Y otro que lea «dos de diciembre». ||| 한 사람은 '2월 12일'로 읽고 다른 사람은 '12월 2일'로 읽을 수 있죠.
+AMAL: Entonces, la fecha original es un número ambiguo. Y el original lo escribió alguien que usa el mes primero. ||| 그러니까 원문 날짜는 모호한 숫자고, 원문을 쓴 사람은 월을 앞에 쓰는 사람이라는 거네요.
+ÁLVARO: Alguien que no es del palacio de Salmara. ||| 살마라 궁 사람이 아닌 누군가요.
+FERMÍN: Alguien que es de un país donde las fechas se escriben con el mes primero. ||| 날짜를 월 먼저 쓰는 나라 사람이죠.
+ÁLVARO: Nordmark escribe día-mes-año, como Europa. ||| 노르드마르크는 유럽처럼 일-월-연도로 씁니다.
+FERMÍN: Quizá no el departamento jurídico. Quizá un despacho de abogados anglosajón, contratado desde fuera. ||| 법무부가 아닐 수도 있죠. 외부에서 고용된 영미계 법률 사무소일 수도 있고요.
+ÁLVARO: Ese despacho tiene nombre. ||| 그 사무소에는 이름이 있겠죠.
+FERMÍN: Todos los despachos lo tienen. ||| 사무소는 다 이름이 있습니다.
++ cotejar = 대조하다
++ calco = 직역투(다른 언어 표현을 그대로 옮긴 것)
++ huella dactilar = 지문
++ jubilado = 은퇴한
++ romance = 로망스어(중세 카스티야어 등 라틴어에서 나온 일상 언어)
++ anglosajón = 영미식의
++ departamento jurídico = 법무 부서
++ despacho de abogados = 법률 사무소
++ cadena de números = 숫자열
