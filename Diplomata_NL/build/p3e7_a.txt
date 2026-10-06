@@ -1,0 +1,107 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 7
+@title Het Dejima-dilemma
+@ko 데지마 딜레마
+@setting 월요일 아침 펠트호번 반도체 장비 회사 '리토스' 공장 → 헤이그 외무부 → 저녁 기차
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast AALBERS | 리토스 대표, 57세
+@cast HARTATI | 카림바 공화국 주네덜란드 대사, 54세
+@cast MINISTER | 외무부 장관 판 베이크, 62세
+@cast SANNE | 국내정보기관(AIVD) 연락관, 44세
+@note 3부 C사건(반도체 장비 수출)의 첫 화입니다. 네덜란드 반도체 장비 회사 '리토스'의 수출 면허를 두고 카림바가 항의합니다. 선적 서류의 '최종 사용자' 한 줄이 쟁점이고, 이 화는 '정공법'입니다. 역사 논거는 에도 시대 데지마 무역(1641~1859): 네덜란드만 교역이 허용되었지만 엄격한 검사와 제한을 감수한 사례로, '독점적 접근은 통제와 한 묶음'이라는 교훈이 해법의 씨앗이 됩니다. 어휘는 수출 통제(uitvoervergunning, eindgebruiker, bestemming, dubbelgebruik)에 주목하세요.
+@next 3부 8화 — «De vergunning»(면허) — 산네가 경쟁사 로비를 도청해 정보를 건넵니다. 딸 노르의 질문: '환경 보호를 위해 불법을 써도 돼?'
+
+## 펠트호번 — VELDHOVEN
+AALBERS: Welkom bij Litos, meneer Hartog. U staat in de schoonste ruimte van Nederland. Er hangt minder stof dan op de maan. ||| 리토스에 오신 걸 환영합니다, 하르토흐 씨. 네덜란드에서 가장 깨끗한 공간에 서 계십니다. 달 위보다 먼지가 적습니다.
+JOOST: Ik zie het. Waarom draag ik dit pak? ||| 보이네요. 제가 이 옷을 입은 이유가 뭡니까?
+AALBERS: Om de machine te beschermen tegen u. ||| 기계를 당신으로부터 보호하려고요.
+JOOST: Ik heb in mijn leven een boel dingen kapotgemaakt. Dit wil ik niet op mijn lijst. ||| 평생 많은 걸 망가뜨렸는데 이건 목록에 올리고 싶지 않군요.
+AALBERS: Dit is een lithografiemachine. Er zitten honderdduizend onderdelen in. Eén bouwt er acht per jaar. Elke machine kost honderdzestig miljoen euro. ||| 리소그래피 장비입니다. 부품이 10만 개 들어가고 1년에 여덟 대 만듭니다. 한 대에 1억 6천만 유로예요.
+FEMKE: Wie koopt zoiets? ||| 누가 삽니까?
+AALBERS: Een handvol bedrijven in de wereld. En nu wil ook een land het hebben: Karimba. ||| 세계에서 몇 안 되는 회사들이요. 그리고 이제 한 나라도 원합니다. 카림바요.
+JOOST: En de regering heeft de uitvoervergunning geweigerd. ||| 정부가 수출 면허를 거부했고요.
+AALBERS: Voor drie machines. Vierhonderdtachtig miljoen. Het is mijn grootste order van het jaar. ||| 세 대요. 4억 8천만 유로입니다. 올해 가장 큰 주문이에요.
+JOOST: Waarom is de vergunning geweigerd? ||| 면허는 왜 거부됐습니까?
+AALBERS: Dat weet ik niet. Dat is een staatsgeheim. Ik hoor het van u. ||| 모릅니다. 국가 기밀이죠. 당신에게서 듣고 싶습니다.
+JOOST: Ik weet het ook niet. Ik ben hier om het te leren. ||| 저도 모릅니다. 배우러 왔어요.
+AALBERS: Ik kan u de documenten laten zien. Mijn exportafdeling heeft ze. ||| 서류를 보여 드릴 수 있습니다. 수출팀이 갖고 있어요.
+JOOST: Graag. ||| 부탁합니다.
+AALBERS: Hier. Het aanvraagdossier. Aanvrager: Litos. Bestemming: Karimba. Eindgebruiker: het Karimba Instituut voor Technologie, «KIT». ||| 여기요. 신청 서류입니다. 신청인 리토스, 목적지 카림바, 최종 사용자는 카림바 기술 연구소 'KIT'입니다.
+FEMKE: Een instituut. ||| 연구소요.
+AALBERS: Een universiteit. Een goede. ||| 대학입니다. 좋은 곳이죠.
+JOOST: En waarom is dat een probleem? ||| 그런데 그게 왜 문제입니까?
+AALBERS: Dat weet ik niet. Maar er is een bijlage. Een lijst met namen. Bij de aanvraag horen ook de afnemers van het KIT. ||| 모릅니다. 하지만 부속서가 있어요. 이름 목록이죠. 신청서에는 KIT의 수요처도 따라붙습니다.
+JOOST: Mag ik de bijlage zien? ||| 부속서를 볼 수 있을까요?
+AALBERS: Pagina vierentwintig. ||| 24쪽입니다.
+FEMKE: Daar. «Na installatie worden de machines mede gebruikt door het Staatsbedrijf voor Defensie-Elektronica». ||| 여기요. '설치 후 장비는 국영 방위 전자회사가 공동 사용한다'.
+AALBERS: Dat is een standaardzin. ||| 표준 문구입니다.
+JOOST: Is het een standaardzin? ||| 표준 문구입니까?
+AALBERS: Het stond in een van de eerdere contracten. ||| 이전 계약에도 있었어요.
+JOOST: En bij die eerdere contracten gaf de regering een vergunning. ||| 그 계약들에서는 정부가 면허를 줬고요.
+AALBERS: Ja. Maar toen was het alleen een mogelijkheid. Nu staat het er zwart op wit. ||| 네. 하지만 그때는 가능성뿐이었어요. 이제는 분명하게 적혀 있죠.
+JOOST: Dus één zin. ||| 한 줄이군요.
+AALBERS: Eén zin, ja. ||| 한 줄입니다.
+## 대사 — DE AMBASSADEUR
+HARTATI: Meneer Hartog. Ik heb mijn uitgebreide briefing uit mijn hoofdstad. Kunt u mij uitleggen waarom een Nederlandse regering een bedrijf verbiedt iets te verkopen aan een universiteit? ||| 하르토흐 씨. 본국 수도에서 자세한 지침을 받았습니다. 네덜란드 정부가 왜 회사가 대학에 물건을 팔지 못하게 하는지 설명해 주시겠습니까?
+JOOST: Mevrouw de ambassadeur, dank dat u wilt komen. Ik ben niet van de vergunningsafdeling. Ik ben hier om te luisteren. ||| 대사님, 와 주셔서 감사합니다. 저는 면허 부서 사람이 아닙니다. 듣기 위해 왔어요.
+HARTATI: Dat is mooi. Maar mijn regering luistert niet meer. Ze heeft besloten dat het een daad van vijandschap is. ||| 좋은 말씀이지만 우리 정부는 더는 듣지 않습니다. 적대 행위라고 결정했어요.
+JOOST: Wat is het besluit? ||| 어떤 결정입니까?
+HARTATI: Wij stoppen met de export van zeldzame aardmetalen naar Nederland. Per eerste van de maand. ||| 네덜란드로의 희토류 수출을 중단합니다. 다음 달 1일부터요.
+JOOST: Dat is... heftig. ||| …강하군요.
+HARTATI: Het is evenredig. Een machine voor een metaal. ||| 비례적입니다. 장비 하나에 금속 하나죠.
+JOOST: En wat zijn de gevolgen voor Nederlandse fabrieken? ||| 네덜란드 공장에는 어떤 영향이 있습니까?
+FEMKE: Zonder zeldzame aarden kunnen we geen magneten maken. Windturbines, elektromotoren, bijna alles. ||| 희토류가 없으면 자석을 못 만들어요. 풍력 터빈, 전기 모터, 거의 모든 것이요.
+HARTATI: Ik ben blij dat uw collega het snapt. ||| 동료분이 이해하셔서 기쁘군요.
+JOOST: Mevrouw de ambassadeur, mag ik een vraag stellen? Over het Karimba Instituut. ||| 대사님, 질문을 하나 해도 될까요? 카림바 연구소에 관해서요.
+HARTATI: Natuurlijk. ||| 물론이죠.
+JOOST: Wie gebruikt de machines na installatie? ||| 설치 뒤 누가 장비를 씁니까?
+HARTATI: Onderzoekers. Studenten. ||| 연구자와 학생들이죠.
+JOOST: En het staatsbedrijf? ||| 국영 기업은요?
+HARTATI: Dat is een samenwerkingspartner. Ze gebruiken de ruimte voor chiptests. ||| 협력 파트너입니다. 공간을 칩 시험에 쓰죠.
+JOOST: Chips voor wat? ||| 무엇을 위한 칩입니까?
+HARTATI: Voor allerlei toepassingen. ||| 여러 용도입니다.
+JOOST: Ook militaire? ||| 군사용도요?
+HARTATI: Wie kan dat zeggen? Een chip weet niet waar hij in zit. ||| 누가 말할 수 있습니까? 칩은 자기가 어디에 들어가는지 모릅니다.
+JOOST: Dat is een eerlijk antwoord. ||| 정직한 대답이군요.
+HARTATI: Het is een diplomatiek antwoord. ||| 외교적인 대답이죠.
+JOOST: In Nederland is dat soms hetzelfde. ||| 네덜란드에서는 때로 같습니다.
+HARTATI: Ik wil dat u begrijpt dat mijn land niet geïnteresseerd is in wapens. Het is geïnteresseerd in eigen technologie. Wij zijn een groot land. We zijn tweehonderdveertig miljoen mensen. We kunnen niet voor altijd afhankelijk blijven van anderen. ||| 우리나라가 무기에 관심 있는 게 아니라는 걸 이해해 주세요. 독자 기술에 관심이 있습니다. 우리는 큰 나라예요. 2억 4천만 명입니다. 영원히 남에게 의존할 수는 없어요.
+JOOST: Dat begrijp ik. ||| 이해합니다.
+HARTATI: Dan begrijpt u waarom mijn regering de zin «Na installatie mede gebruikt door het Staatsbedrijf» niet wil schrappen. ||| 그럼 우리 정부가 '설치 후 국영 기업이 공동 사용한다'는 문장을 삭제하지 않으려는 이유도 이해하시겠죠.
+JOOST: Is dat het geschilpunt? ||| 쟁점이 그겁니까?
+HARTATI: Uw regering vraagt ons de zin te schrappen, en dan geeft ze de vergunning. ||| 귀 정부가 그 문장을 지우라고 하고 그러면 면허를 주겠다고 합니다.
+JOOST: En u weigert. ||| 그리고 거부하시고요.
+HARTATI: Wij zouden onszelf ontkennen. ||| 우리 자신을 부정하는 일입니다.
+## 기차 — IN DE TREIN
+FEMKE: Een hele rare dag. ||| 이상한 하루였어요.
+JOOST: Ja. ||| 그렇죠.
+FEMKE: Beide partijen hebben gelijk. ||| 양쪽 다 옳아요.
+JOOST: Dat is het probleem. ||| 그게 문제입니다.
+FEMKE: Wat doen we? ||| 어떻게 하죠?
+JOOST: Ik denk aan een eiland. ||| 섬 하나가 떠오릅니다.
+FEMKE: Welk eiland? ||| 어떤 섬이요?
+JOOST: Dejima. Een kunstmatig eiland in de baai van Nagasaki. Ongeveer honderdtwintig bij zeventig meter. Van 1641 tot 1859 was dat het enige stukje Japan waar westerlingen mochten handelen. En alleen Nederlanders. ||| 데지마요. 나가사키 만의 인공섬입니다. 약 120미터에 70미터쯤입니다. 1641년부터 1859년까지 서양인이 교역할 수 있던 일본의 유일한 땅이었고, 오직 네덜란드인뿐이었죠.
+FEMKE: Een monopolie. ||| 독점이군요.
+JOOST: Een monopolie met voorwaarden. Geen vrouwen, geen Bijbel, geen wapens aan wal. Elk schip werd doorzocht. Elke lading geteld. De directeur moest elk jaar naar Edo, op reis, om de shogun te groeten. ||| 조건이 붙은 독점이었죠. 여자도 성경도 무기도 상륙 금지였고 모든 배가 수색당했습니다. 화물은 전부 세어졌고 상관은 해마다 에도로 가서 쇼군에게 인사해야 했어요.
+FEMKE: En ze accepteerden dat? ||| 그걸 받아들였어요?
+JOOST: Voor tweehonderd jaar. Weet je waarom? ||| 200년 동안요. 왜인지 아세요?
+FEMKE: Omdat het geld opleverde. ||| 돈이 되니까요.
+JOOST: Ja. En omdat ze begrepen dat wie toegang wil, controle moet aanvaarden. ||| 그렇죠. 그리고 접근을 원하는 쪽은 통제를 받아들여야 한다는 걸 이해했기 때문입니다.
+FEMKE: Toegang tegen controle. ||| 접근 대 통제.
+JOOST: Het is een oude afspraak. En hij heeft nog nooit slecht uitgepakt voor wie hem serieus nam. ||| 오래된 약속입니다. 진지하게 받아들인 쪽에는 한 번도 나쁘게 끝난 적이 없어요.
+FEMKE: Wil je Karimba een Dejima aanbieden? ||| 카림바에 데지마를 제안하겠다는 거예요?
+JOOST: Nee. Ik wil dat zij het ons aanbieden. ||| 아니요. 그들이 우리에게 제안하게 하고 싶습니다.
++ uitvoervergunning = 수출 면허
++ eindgebruiker = 최종 사용자
++ dubbelgebruik = 이중 용도(민간·군사 겸용)
++ lithografie = 리소그래피(반도체 회로 인쇄)
++ schoonste ruimte = 클린룸(작중 표현)
++ zeldzame aardmetalen = 희토류
++ evenredig = 비례적인
++ schrappen = 삭제하다
++ Dejima = 데지마. 나가사키의 인공섬. 1641~1859 네덜란드 상관이 있었다
++ geschilpunt = 쟁점
