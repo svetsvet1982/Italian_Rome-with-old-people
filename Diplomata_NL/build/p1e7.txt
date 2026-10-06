@@ -1,0 +1,169 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 7
+@title Een vuile gunst
+@ko 더러운 호의
+@setting 수요일 아침 스헤베닝언 해변 산책로 → 헤이그 외무부 → 밤 로테르담 집 부엌
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast SANNE | 국내정보기관(AIVD) 연락관, 43세
+@cast NOOR | 요스트의 딸, 16세
+@cast FEMKE | 분석관, 31세
+@cast SURYO | 메란티 수자원부 차관 (전화)
+@note 1부 7화는 '더러운 수단'의 화입니다. 정보 공급자 산네가 메란티 장관의 비공식 자료를 건네며 갚을 빚을 상기시킵니다. 요스트는 어디까지 쓸지 선을 긋고, 딸 노르의 질문이 그 선을 시험합니다. 역사 논거는 1672년 '재앙의 해(Rampjaar)'의 수공(水攻): 자기 땅을 일부러 물에 잠기게 해 나라를 지켰지만, 그 값은 자기 땅이 치렀다는 사례로, 더러운 수단의 '자기 비용'을 묻습니다. 어휘는 정보·도덕(gunst, tegenprestatie, onrechtmatig, besmet)과 가정 대화체에 주목하세요.
+@next 1부 8화 — «Het lek»(유출) — 일간지가 부수서한의 일부를 보도합니다. 기자의 질문 순서가 가진 것과 못 가진 것을 드러내고, 요스트는 그로티위스의 책 상자 탈출 이야기를 떠올립니다.
+
+## 해변 — HET STRAND
+SANNE: Joost. Je bent te laat. Ik sta hier al twintig minuten in de regen. ||| 요스트. 늦었어요. 20분째 비 맞고 서 있었어요.
+JOOST: Ik had een vergadering. Sanne, ik ben hier niet blij mee. ||| 회의가 있었어요. 산네, 저는 이게 달갑지 않아요.
+SANNE: Dat zeg je altijd. En dan loop je toch mee. Kom, we gaan naar de pier. ||| 늘 그렇게 말하고 결국 따라오죠. 갑시다, 부두 쪽으로.
+JOOST: Wat wil je? ||| 뭘 원합니까?
+SANNE: Het gaat niet om wat ik wil. Het gaat om wat jij nodig hebt. Hier. ||| 내가 원하는 게 아니라 당신이 필요한 겁니다. 받아요.
+JOOST: Een usb-stick. ||| USB 메모리군요.
+SANNE: Er staan twee mappen op. In de eerste: peilreeksen van het waterschap Kuala Delta, de laatste dertig dagen. In de tweede: financiële gegevens van de minister van Water. ||| 폴더가 둘 있어요. 첫째는 쿠알라 델타 수자원 위원회의 최근 30일 수위 기록. 둘째는 수자원부 장관의 금융 정보입니다.
+JOOST: Hoe ben je eraan gekomen? ||| 어떻게 구했습니까?
+SANNE: Dat vraag je niet. ||| 묻지 말아요.
+JOOST: Ik vraag het wel. ||| 묻습니다.
+SANNE: Via een kennis die toegang heeft tot een server in Singapore. Meer hoef je niet te weten. ||| 싱가포르 서버에 접근할 수 있는 지인을 통해서요. 더는 알 필요 없어요.
+JOOST: Dus gestolen. ||| 그러니까 훔친 거네요.
+SANNE: Verkregen. ||| 입수한 거죠.
+JOOST: Dat is een mooi woord voor hetzelfde. ||| 같은 걸 말하는 예쁜 단어군요.
+SANNE: Joost. Die minister, meneer Hartono, krijgt elke maand vijftigduizend dollar van een bedrijf in Singapore. Dat bedrijf is eigendom van een baggeraar die Veldhuis wil verdringen in Meranti. ||| 요스트. 그 장관 하르토노는 매달 싱가포르 회사에서 5만 달러를 받아요. 그 회사는 메란티에서 펠트하위스를 밀어내려는 준설업자 소유입니다.
+JOOST: Dus de minister heeft belang bij een schuldige. ||| 그러니까 장관은 죄인이 필요하군요.
+SANNE: Hij heeft belang bij Veldhuis uit Meranti vertrekken. Dat is iets anders, maar het komt op hetzelfde neer. ||| 펠트하위스가 메란티에서 나가는 데 이해관계가 있죠. 다르지만 결과는 같아요.
+JOOST: Waarom geef je mij dit? ||| 왜 이걸 줍니까?
+SANNE: Omdat je het nodig hebt om hem in te dammen. Als jij weet wat hij ontvangt, kun je hem laten zien dat je het weet. ||| 그를 억제하려면 필요하니까요. 그가 뭘 받는지 안다는 걸 보여 줄 수 있잖아요.
+JOOST: Dat heet chantage. ||| 그걸 협박이라고 합니다.
+SANNE: Dat heet druk. ||| 압박이라고 부르죠.
+JOOST: Het ene is het andere met een nette jas aan. ||| 하나는 다른 하나에 단정한 외투를 입힌 것뿐이에요.
+SANNE: Dat is mooi gezegd. Maar twintig procent van mijn werk is druk, en daarmee heb ik tien keer meer levens gered dan jij met je poldermodel. ||| 멋진 말이네요. 하지만 제 일의 20퍼센트는 압박이고 그걸로 당신의 폴더 모델보다 열 배 많은 생명을 구했어요.
+JOOST: Dat is een beschuldiging. ||| 비난이군요.
+SANNE: Het is een berekening. ||| 계산입니다.
+JOOST: Sanne, wat is jouw gunst? ||| 산네, 당신의 호의는 뭡니까?
+SANNE: Ik wil dat je me vertelt wie bij jullie de bron is van het lek in Brussel. ||| 브뤼셀 유출의 출처가 그쪽 누구인지 말해 주길 원해요.
+JOOST: Welk lek? ||| 무슨 유출이요?
+SANNE: Dat Meranti de details van jullie voorstel al een dag voor de bijeenkomst kende. Vertrouwelijk. Alleen ingewijden wisten het. ||| 메란티가 회의 하루 전에 귀측 제안의 세부 사항을 알고 있었어요. 기밀이었죠. 아는 사람은 몇 안 됐고요.
+JOOST: En je denkt dat ik de bron ken. ||| 제가 그 출처를 안다고 생각하는군요.
+SANNE: Ik denk dat je het vermoedt. ||| 짐작은 한다고 봅니다.
+JOOST: Ik vermoed veel. Ik weet weinig. ||| 짐작은 많고 아는 건 적어요.
+SANNE: Dan is dit je kans om het te weten. Ruil. ||| 그럼 알 기회네요. 교환이에요.
+JOOST: Dat is geen ruil. Dat is een val met een lintje eromheen. ||| 교환이 아닙니다. 리본을 맨 함정이에요.
+SANNE: Joost, je bent te streng. ||| 요스트, 너무 엄격해요.
+JOOST: Ik ben precies. ||| 정확한 겁니다.
+## 사무실 — HET MINISTERIE
+FEMKE: Je hebt hem niet teruggegeven? ||| 돌려주지 않았어요?
+JOOST: Nee. Ik heb hem in mijn zak gehouden. Maar ik heb hem niet in mijn computer gestoken. ||| 아니요. 주머니에 넣어 뒀어요. 하지만 컴퓨터에 꽂지는 않았습니다.
+FEMKE: Waarom niet? ||| 왜죠?
+JOOST: Omdat ik wil nadenken over wat ik ermee doe. Als ik de peilreeksen gebruik, gebruik ik gestolen gegevens. ||| 그걸로 뭘 할지 생각하고 싶어서요. 수위 기록을 쓰면 훔친 자료를 쓰는 셈이니까요.
+FEMKE: Maar het zijn dezelfde gegevens die we ook bij Meranti kunnen opvragen. ||| 하지만 메란티에 요청하면 받을 수 있는 같은 자료잖아요.
+JOOST: Dat is precies mijn punt. ||| 바로 그 점입니다.
+FEMKE: Dan bel je Suryo. ||| 그럼 수리요 차관에게 전화하세요.
+JOOST: Ik bel Suryo. ||| 전화하죠.
+SURYO: Meneer Hartog. U belt vroeg. ||| 하르토흐 씨. 일찍 전화하셨군요.
+JOOST: Meneer Suryo, ik heb een verzoek. Kunt u mij de peilreeksen van het waterschap Kuala Delta sturen, van de laatste dertig dagen? ||| 수리요 차관님, 부탁이 있습니다. 쿠알라 델타 수자원 위원회의 최근 30일 수위 기록을 보내 주실 수 있습니까?
+SURYO: Waarom? ||| 왜요?
+JOOST: Voor de meetcommissie. Als vergelijkingsmateriaal. ||| 계측 위원회용 비교 자료입니다.
+SURYO: Ik stuur het vanmiddag. Maar ik wil iets weten. Waarom vraagt u het zo formeel? U had het via een andere weg kunnen krijgen. ||| 오늘 오후에 보내겠습니다. 하나 알고 싶군요. 왜 이렇게 공식적으로 요청하십니까? 다른 경로로도 얻을 수 있었을 텐데요.
+JOOST: Hoe bedoelt u? ||| 무슨 뜻입니까?
+SURYO: Ik bedoel dat men in uw wereld soms de achterdeur neemt. ||| 당신 세계에서는 가끔 뒷문으로 다닌다는 뜻입니다.
+JOOST: Dat is waar. En soms is het verstandig om de voordeur te nemen, ook al is die zwaarder. ||| 사실입니다. 그리고 가끔은 더 무겁더라도 앞문으로 가는 게 현명하죠.
+SURYO: Dat is een bijzondere houding. ||| 특별한 태도군요.
+JOOST: Het is de enige die ik me kan veroorloven. ||| 제가 감당할 수 있는 유일한 태도입니다.
+SURYO: Dan krijgt u de gegevens. En meneer Hartog: ik hoop dat u begrijpt dat in mijn land niet iedereen de voordeur neemt. ||| 그럼 자료를 드리겠습니다. 그리고 하르토흐 씨, 우리나라에서는 모두가 앞문을 쓰지는 않는다는 걸 아시길 바랍니다.
+JOOST: Dat begrijp ik. ||| 이해합니다.
+SURYO: Ik ook niet, altijd. Ik ben ook maar een mens. ||| 저도 늘 그렇지는 않습니다. 저도 사람이니까요.
+JOOST: Dat is een eerlijke zin. ||| 정직한 말씀이군요.
+SURYO: Ik heb er vandaag twee gezegd. Dat is mijn quotum. ||| 오늘은 두 개 했습니다. 제 할당량이죠.
++ gunst = 호의, 부탁. 'een gunst vragen'은 부탁하다
++ tegenprestatie = 대가, 반대급부
++ chantage = 협박(공갈). 'druk uitoefenen'(압박)과 구분되는 말
++ inwijden / ingewijden = 내막을 아는 사람들
++ onrechtmatig = 불법적인, 권리 없는. 'onrechtmatig verkregen bewijs'는 위법 수집 증거
++ lintje = 작은 리본. '리본을 맨 함정'은 예쁘게 포장된 함정
++ de achterdeur / de voordeur = 뒷문 / 앞문. 비공식 vs 공식 경로
++ veroorloven = (여유가 있어) 감당하다
++ quotum = 할당량. 수리요의 농담
++ dammen / indammen = 제방으로 막다, 억제하다
+## 부엌 — DE KEUKEN
+NOOR: Pap, je zit al een halfuur naar die usb-stick te staren. ||| 아빠, 30분째 그 USB를 쳐다보고 있어요.
+JOOST: Het is een lange stick. ||| 긴 USB거든.
+NOOR: Wat staat erop? ||| 안에 뭐가 있어요?
+JOOST: Dat weet ik niet. Dat is het punt. ||| 몰라. 그게 요점이야.
+NOOR: Hoe kan dat nou? ||| 어떻게 그럴 수 있어요?
+JOOST: Iemand heeft hem aan me gegeven. Ik heb hem niet geopend. ||| 누가 줬어. 열어 보지 않았고.
+NOOR: Waarom niet? ||| 왜요?
+JOOST: Omdat ik denk dat de dingen erop op een manier zijn verkregen die niet netjes is. ||| 그 안의 것들이 깔끔하지 않은 방식으로 얻어졌다고 생각해서.
+NOOR: Gestolen? ||| 훔친 거요?
+JOOST: Niet precies. Maar in de buurt. ||| 정확히는 아니지만 근처야.
+NOOR: Maar als het iets bewijst, mag je het dan gebruiken? ||| 하지만 뭔가를 증명한다면 쓸 수 있잖아요?
+JOOST: Dat is nu precies de vraag. ||| 정확히 그게 질문이지.
+NOOR: Ik heb een vraag. Bij maatschappijleer. ||| 저도 질문이 있어요. 사회 시간에요.
+JOOST: Vraag maar. ||| 해 봐.
+NOOR: Als het water in een put vergiftigd is, mag je het dan toch drinken als je zelf stervensdorstig bent? ||| 우물물에 독이 있는데 목말라 죽을 지경이면 그래도 마셔도 돼요?
+JOOST: Is dat een echte vraag of een vraag over mij? ||| 진짜 질문이니, 나에 대한 질문이니?
+NOOR: Allebei. ||| 둘 다요.
+JOOST: Je bent mijn dochter. ||| 내 딸이구나.
+NOOR: Dat is een uitvlucht. ||| 그건 핑계예요.
+JOOST: Goed. Mag je vergiftigd water drinken? Ik zou zeggen: niet als je een andere put hebt. ||| 좋아. 독이 든 물을 마셔도 되냐고? 다른 우물이 있다면 안 돼.
+NOOR: En als je er geen hebt? ||| 없다면요?
+JOOST: Dan moet je eerst het water zuiveren. Koken, filteren. En je moet het iedereen laten weten, zodat niemand het per ongeluk drinkt. ||| 그럼 먼저 정화해야지. 끓이고 거르고. 그리고 아무도 모르고 마시지 않게 모두에게 알려야 해.
+NOOR: Dus je mag het gebruiken, maar niet in het geheim. ||| 그러니까 써도 되지만 비밀로 하면 안 되는 거네요.
+JOOST: Ja. En je moet de kosten aanvaarden. ||| 응. 그리고 비용을 감수해야 하고.
+NOOR: Welke kosten? ||| 무슨 비용요?
+JOOST: Weet je wat het Rampjaar was? ||| 재앙의 해가 뭔지 아니?
+NOOR: Zestienhonderdtweeënzeventig. Het jaar waarin alles misging. ||| 1672년이요. 모든 게 잘못된 해.
+JOOST: Frankrijk viel aan, Engeland, de bisschoppen van Münster en Keulen. Het leger van Lodewijk de Veertiende stond bijna voor Amsterdam. ||| 프랑스가 쳐들어왔고 영국, 뮌스터와 쾰른의 주교들까지 가세했지. 루이 14세의 군대가 암스테르담 앞까지 왔어.
+NOOR: En toen zetten ze het land onder water. ||| 그래서 땅을 물에 잠기게 했죠.
+JOOST: Ze openden de dijken. De Hollandse Waterlinie. Het water stroomde de weilanden in. Boerderijen verdronken. Oogsten verdwenen. ||| 제방을 열었어. 홀란드 수공선이야. 물이 목초지로 흘러들었지. 농장이 잠기고 수확이 사라졌고.
+NOOR: Maar de Fransen konden niet door. ||| 하지만 프랑스군은 못 넘어왔죠.
+JOOST: Precies. Het was een vuil middel. Je maakt je eigen land kapot om te winnen. ||| 맞아. 더러운 수단이었지. 이기려고 자기 땅을 망가뜨린 거야.
+NOOR: En wie betaalde de kosten? ||| 비용은 누가 냈어요?
+JOOST: De boeren. En de rest van het land, jarenlang. ||| 농민들. 그리고 나머지 나라가 몇 해 동안.
+NOOR: Dus je mag het doen, als je de kosten zelf draagt. ||| 비용을 직접 질 때만 해도 되는 거네요.
+JOOST: En als je het vooraf bekendmaakt. De boeren wisten het. Er was een besluit. Er waren namen onder. ||| 그리고 미리 알릴 때. 농민들은 알았어. 결정이 있었고 서명한 이름들이 있었지.
+NOOR: Dat is anders dan stelen. ||| 훔치는 것과는 다르네요.
+JOOST: Ja. Het verschil is: je betaalt zelf, en iedereen ziet het. ||| 응. 차이는 직접 치르고 모두가 본다는 거야.
+NOOR: En de usb-stick? ||| 그래서 USB는요?
+JOOST: Wat denk je? ||| 어떻게 생각하니?
+NOOR: Dat je hem niet gebruikt. ||| 쓰지 않는다고요.
+JOOST: Waarom denk je dat? ||| 왜 그렇게 생각해?
+NOOR: Omdat je hem niet geopend hebt. Als je hem wilde gebruiken, had je hem allang geopend. ||| 열지 않았잖아요. 쓰고 싶었으면 벌써 열었을 거예요.
+JOOST: Je kent me. ||| 날 아는구나.
+NOOR: Ik ben je dochter. ||| 딸이니까요.
+JOOST: Dat is geen uitvlucht, dat is een argument. ||| 그건 핑계가 아니라 논거네.
+NOOR: Pap, ik ben trots op je. ||| 아빠, 자랑스러워요.
+JOOST: Dat heb je nog nooit gezegd. ||| 처음 하는 말이네.
+NOOR: Ik zeg het ook niet vaak. Ik wacht tot het waar is. ||| 자주는 안 해요. 사실이 될 때까지 기다리거든요.
+## 반환 — TERUGGEVEN
+JOOST: Sanne. Je krijgt hem terug. ||| 산네. 돌려줄게요.
+SANNE: Ongeopend? ||| 열지 않고요?
+JOOST: Ongeopend. ||| 열지 않았어요.
+SANNE: Joost, je maakt het jezelf onnodig moeilijk. ||| 요스트, 괜히 스스로를 어렵게 만드는군요.
+JOOST: Dat is de bedoeling. ||| 그게 목적입니다.
+SANNE: Dat is nobel en dom tegelijk. ||| 고귀하면서 멍청하네요.
+JOOST: Het is een combinatie die in Nederland vaak voorkomt. ||| 네덜란드에서는 흔한 조합입니다.
+SANNE: En mijn gunst? ||| 내 호의는요?
+JOOST: Die staat open. Ik weet niet wat jij bedoelt met het lek, maar ik weet dat ik het zelf zal uitzoeken. En als ik het weet, vertel ik het je. Niet omdat je het vraagt. Omdat het jouw taak raakt. ||| 열려 있습니다. 당신이 말하는 유출이 뭔지는 모르지만 제가 직접 알아낼 겁니다. 알게 되면 말해 줄게요. 요구해서가 아니라 당신 임무와 관련되니까요.
+SANNE: Dat is geen gunst, dat is een gelegenheid. ||| 호의가 아니라 기회네요.
+JOOST: Kan zijn. ||| 그럴지도요.
+SANNE: Ik geef je er nog één gratis. ||| 하나는 공짜로 더 줄게요.
+JOOST: Waarom? ||| 왜요?
+SANNE: Omdat ik medelijden met je heb. Visser belt elke week hetzelfde nummer. In Rijswijk. ||| 안쓰러워서요. 비서르가 매주 같은 번호로 전화해요. 레이스베이크로.
+JOOST: Rijswijk. Het hoofdkantoor van Veldhuis. ||| 레이스베이크. 펠트하위스 본사군요.
+SANNE: Ik heb het niet gezegd. ||| 제가 말한 게 아니에요.
+JOOST: Ik heb het niet gehoord. ||| 못 들었습니다.
+SANNE: Zo werkt het. ||| 그렇게 돌아가는 거죠.
+JOOST: Zo werkt het in jouw wereld. In de mijne ga ik het uitzoeken met de voordeur. ||| 당신 세계에서는요. 제 세계에서는 앞문으로 알아봅니다.
+SANNE: Je bent hopeloos. ||| 구제불능이네요.
+JOOST: Dank je. ||| 고마워요.
++ stervensdorstig = 목말라 죽을 지경인. 'sterven'(죽다)+'dorstig'
++ maatschappijleer = 사회 과목(중등)
++ Rampjaar = 재앙의 해(1672). 프랑스·영국·뮌스터·쾰른의 침공으로 공화국이 위기에 빠진 해
++ Hollandse Waterlinie = 홀란드 수공선. 제방을 열어 땅을 물에 잠기게 하는 방어선
++ uitvlucht = 핑계, 회피
++ nobel / dom = 고귀한 / 어리석은. 산네의 평가
++ een gelegenheid = 기회. 'gunst'(호의)와 달리 갚음이 없는 기회라는 뜻
++ medelijden = 동정, 연민
++ hopeloos = 구제불능의. 애정 섞인 핀잔으로도 쓰인다
++ voorkomen = 흔히 나타나다. 'vaak voorkomen'
