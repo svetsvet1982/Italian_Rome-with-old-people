@@ -78,9 +78,9 @@ HAMID: Gracias a usted por llamar. Y por escuchar. ||| 전화해 주셔서, 그�
 + dado en... = ~에서 작성함(공문서의 서식)
 + videollamada = 화상 통화
 
-## 협의실 — LA SALA DE CONSULTAS
-MORENO: Señores, abro las consultas. España preside. Tengo ante mí un proyecto de declaración presidencial. ||| 여러분, 협의를 시작합니다. 스페인이 의장국입니다. 의장 성명 초안이 제 앞에 있습니다.
-LUNDGREN: Embajador, antes de nada, una cuestión de orden. Soy Johanna Lundgren, nueva representante de Nordmark. ||| 대사님, 먼저 절차 문제입니다. 노르드마르크의 신임 대표 요한나 룬트그렌입니다.
+## 비공식 회의 — REUNIÓN INFORMAL (FORMATO ARRIA)
+MORENO: Señores, abro esta reunión informal, con los Estados directamente interesados. España preside el Consejo este mes. Tengo ante mí un proyecto de declaración presidencial que luego discutirán los quince miembros. ||| 여러분, 직접 이해관계가 있는 국가들과 함께하는 이 비공식 회의를 시작합니다. 스페인이 이달 의장국입니다. 이후 15개 이사국이 논의할 의장 성명 초안이 제 앞에 있습니다.
+LUNDGREN: Embajador, antes de nada, una cuestión de orden. Soy Johanna Lundgren, nueva representante de Nordmark. Mi país dejó el Consejo el treinta y uno de diciembre, pero sigue teniendo intereses en Tamazia. ||| 대사님, 먼저 절차 문제입니다. 노르드마르크의 신임 대표 요한나 룬트그렌입니다. 제 나라는 12월 31일 이사국 임기를 마쳤지만 타마지아에는 여전히 이해관계가 있습니다.
 MORENO: Bienvenida, embajadora. ||| 환영합니다, 대사님.
 LUNDGREN: Quiero decir que mi gobierno considera que, en una situación de seguridad, la autoridad de facto es la que garantiza el orden. ||| 제 정부는 안보 상황에서 질서를 보장하는 것은 사실상의 권력이라고 봅니다.
 ÁLVARO: ¿Se refiere al ejército? ||| 군을 말씀하시는 겁니까?
@@ -99,12 +99,12 @@ LUNDGREN: ¿Quién sería ese órgano? ||| 그 기구는 누굽니까?
 ÁLVARO: Eso lo vamos a definir con las partes. ||| 당사자들과 함께 정하겠습니다.
 LUNDGREN: Mi gobierno tiene reservas. ||| 제 정부는 유보 입장입니다.
 MORENO: Anotado. ||| 기록하겠습니다.
-LUNDGREN: Quiero que conste que no hay consenso. ||| 합의가 없다는 점을 기록에 남기고 싶습니다.
-MORENO: Consta. Pero una declaración presidencial no requiere consenso formal. Requiere que nadie bloquee. ||| 기록됩니다. 하지만 의장 성명에는 공식 합의가 필요하지 않습니다. 아무도 막지 않으면 됩니다.
+LUNDGREN: Quiero que conste que mi gobierno no comparte este enfoque. ||| 제 정부가 이 접근에 동의하지 않는다는 점을 기록에 남기고 싶습니다.
+MORENO: Consta. Pero una declaración presidencial no requiere votos. Requiere que ningún miembro la bloquee. ||| 기록됩니다. 하지만 의장 성명에는 표결이 필요하지 않습니다. 어느 이사국도 막지 않으면 됩니다.
 LUNDGREN: ¿Es una pregunta? ||| 질문입니까?
-MORENO: Es una invitación. ||| 초대입니다.
-LUNDGREN: Mi gobierno no bloqueará hoy. ||| 제 정부는 오늘은 막지 않겠습니다.
-MORENO: Gracias, embajadora. ||| 감사합니다, 대사님.
+MORENO: Es una constatación. Y uno de los miembros permanentes, amigo de usted, tendrá que decidir si la bloquea. ||| 확인일 뿐입니다. 그리고 대사님의 친구인 상임이사국 하나가 막을지 결정해야 하겠죠.
+LUNDGREN: El embajador de Kárelia decidirá por sí mismo. ||| 카렐리아 대사가 스스로 결정할 겁니다.
+MORENO: Eso espero. Gracias, embajadora. ||| 그러길 바랍니다. 감사합니다, 대사님.
 ÁLVARO: Embajadora Lundgren. Una cosa más. ||| 룬트그렌 대사님. 하나만 더요.
 LUNDGREN: Dígame. ||| 말씀하세요.
 ÁLVARO: ¿Tiene su gobierno una copia de alguno de los testamentos? ||| 귀국 정부는 유언 사본 중 어느 것이든 가지고 있습니까?

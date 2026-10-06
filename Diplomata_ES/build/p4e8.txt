@@ -114,7 +114,7 @@ HANNE: Una cláusula que le quita a España lo que podría ganar. ||| 스페인�
 + pregonero = 포고꾼
 + ventaja = 장점
 
-## 협의실 — LA SALA DE CONSULTAS
+## 복도 — EL PASILLO DE LAS CONSULTAS
 LUNDGREN: Embajador Moreno, he visto el papel que su adjunto ha distribuido. ||| 모레노 대사님, 부대사님이 배포한 종이를 봤습니다.
 MORENO: Es un papel de preguntas, embajadora. ||| 질문지입니다, 대사님.
 LUNDGREN: Es una insinuación. ||| 암시예요.
