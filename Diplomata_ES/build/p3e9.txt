@@ -1,0 +1,229 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 9
+@title La deuda de Iván
+@ko 이반의 빚
+@setting 새벽 안개 낀 발트해 → 나이사르 섬 폐 병영 → 병영 식당
+@level B2-C1
+@cast ÁLVARO | 주몽골 스페인 대사, 44세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast IVÁN | 레베카의 오빠, '이바르 산델'로 불린 전 보레알 보안 책임자, 46세
+@cast BELTRÁN | 야당 하원의원, 52세
+@cast PILAR | 국가 변호사, 45세
+@cast STRAND | 보레알 캐피털 대표, 55세
+@cast ELSA | 보레알 캐피털 변호사, 38세
+@note 3부 C사건의 결산 화입니다. 8년 만에 만난 남매, 그리고 증언의 대가로 이반이 요구하는 '은혜의 기간'이 중심입니다. 역사 논거는 1481년 스페인의 '은혜 칙령(edicto de gracia)'으로, 종교재판소에서는 끔찍하게 쓰였던 '자진 출두 기간' 장치를 오늘의 법적 보호 장치(협조자 보호, 감형, 책임자 면책 불가)로 바꿔 놓는 과정이 해법입니다. 어휘는 증언·책임(declaración, colaboración eficaz, plazo de gracia, responsabilidad)에 주목하세요.
+@next 3부 10화 — «La candidatura»(입후보) — 이반의 증언으로 셉텐트리오의 주인은 '노르드마르크'라는 이름으로 좁혀집니다. 그 나라는 스페인과 유엔 안보리 비상임 의석을 두고 겨루는 후보국. 알바로에게 뉴욕행 명령이 내려옵니다.
+
+## 안개 속 — LA NIEBLA
+ELSA: Es aquí. Tengan cuidado con los tablones del muelle, están podridos. ||| 여깁니다. 부두 널빤지가 썩었으니 조심하세요.
+PILAR: Soy Pilar Gil, abogada del Estado. Llegué a las seis de la mañana. Me han dicho que me incorporo a una operación humanitaria con un hombre llamado Quintana. ||| 국가 변호사 필라르 힐입니다. 아침 여섯 시에 도착했어요. 킨타나라는 분과 인도주의 작전에 합류한다고 들었습니다.
+ÁLVARO: Álvaro Quintana. Gracias por venir. ||| 알바로 킨타나입니다. 와 주셔서 감사합니다.
+PILAR: No me dé las gracias todavía. Mi trabajo es dejar escrito lo que ocurra. No decidir. ||| 아직은 감사하지 마세요. 제 일은 일어나는 일을 기록하는 겁니다. 결정하는 게 아니라.
+ÁLVARO: Es exactamente lo que necesito. ||| 제게 필요한 바로 그겁니다.
+BELTRÁN: ¿Hay minas en esta isla? ||| 이 섬에 지뢰가 있습니까?
+ELSA: En el agua, no en la tierra. Caminen por el sendero blanco. ||| 물속에요, 땅에는 없어요. 하얀 오솔길로만 걸으세요.
+REBECA: ¿Por qué hay un sendero marcado? ||| 왜 표시된 오솔길이 있죠?
+ELSA: Porque alguien lo marca todas las semanas. Para que no se pierdan las visitas. ||| 누군가 매주 표시하니까요. 방문객이 길을 잃지 않게요.
+REBECA: ¿Qué visitas? ||| 무슨 방문객이요?
+ELSA: Las que trae el señor Strand. Una cada dos meses. Un médico, un abogado, a veces una mujer con un niño. ||| 스트란드 씨가 데려오는 사람들요. 두 달에 한 번이에요. 의사, 변호사, 가끔은 아이를 데리고 온 여자.
+ÁLVARO: ¿Una mujer con un niño? ||| 아이를 데리고 온 여자요?
+ELSA: La esposa de Iván. Kaja. Y su hijo. Viven en Tallin con una pensión que paga Boreal. ||| 이반의 아내 카야와 아들이에요. 보레알이 주는 연금으로 탈린에 살고 있죠.
+REBECA: ¿Tiene un hijo? ||| 아들이 있어요?
+ELSA: Tiene un hijo de seis años. Se llama Mikk. ||| 여섯 살 아들이 있어요. 이름은 미크예요.
+REBECA: Soy tía. Soy tía y no me lo ha dicho nadie. ||| 제가 고모라고요. 고모인데 아무도 말해 주지 않았네요.
+ÁLVARO: Rebeca, respira. ||| 레베카, 숨 쉬어.
+REBECA: Estoy respirando. Es lo único que estoy haciendo. ||| 쉬고 있어. 지금 하는 게 그것뿐이야.
+PILAR: Si lo desea, esto puede quedar fuera del acta. ||| 원하신다면 이 부분은 조서에서 뺄 수 있습니다.
+REBECA: No. Que conste que me enteré aquí, en este muelle. Que conste la hora. ||| 아니에요. 제가 여기 이 부두에서 알게 됐다고 적어 주세요. 시간도 적어 주세요.
+PILAR: Las siete y once. ||| 일곱 시 십일 분입니다.
+## 남매 — LOS HERMANOS
+IVÁN: ¿Rebe? ||| 레베?
+REBECA: ... Iván. ||| …이반.
+IVÁN: Estás igual. Más delgada. Pero igual. ||| 똑같구나. 좀 말랐지만 똑같아.
+REBECA: Tú tienes el pelo blanco. ||| 오빠는 머리가 하얗게 셌네.
+IVÁN: Me hice viejo en ocho años. Es lo que pasa cuando uno cuenta los días. ||| 8년 만에 늙었어. 날을 세다 보면 그래.
+REBECA: ¿Por qué no me escribiste? ||| 왜 편지하지 않았어?
+IVÁN: Porque cada carta tenía copia. Y cada copia, un destinatario. No quería darles tu dirección. ||| 편지마다 사본이 있었으니까. 사본마다 수신자가 있고. 네 주소를 그들에게 주고 싶지 않았어.
+REBECA: Me hicieron creer que habías muerto. ||| 나는 오빠가 죽었다고 믿게 됐어.
+IVÁN: Lo sé. Fue lo mejor que pudo ocurrirte. Si pensaban que no sabías nada, no te buscaban. ||| 알아. 네게 일어날 수 있는 일 중 가장 나았지. 네가 아무것도 모른다고 생각하면 찾지 않거든.
+REBECA: ¡No era lo mejor para mí! ||| 나한테는 최선이 아니었어!
+IVÁN: Perdóname. ||| 미안해.
+REBECA: No sé si puedo. ||| 용서할 수 있을지 모르겠어.
+IVÁN: No te lo pido. Te pido que me escuches. Es mucho menos. ||| 용서해 달라는 게 아냐. 들어 달라는 거지. 훨씬 적은 요구야.
+ÁLVARO: Iván, soy Álvaro Quintana. Estas son Pilar Gil, abogada del Estado, y Marcos Beltrán, diputado del Congreso. Todo lo que diga hoy va a quedar por escrito. ||| 이반, 알바로 킨타나입니다. 이쪽은 국가 변호사 필라르 힐, 하원의원 마르코스 벨트란입니다. 오늘 말씀하시는 건 전부 기록됩니다.
+IVÁN: Sé quién es usted. Mi hermana me hablaba de usted en las cartas que no escribí. ||| 압니다. 쓰지 않은 편지들에서 동생이 당신 이야기를 했죠.
+ÁLVARO: ¿Cómo? ||| 어떻게요?
+IVÁN: Con frases como «Álvaro es un hombre insoportablemente legal». ||| '알바로는 견딜 수 없이 합법적인 남자야' 같은 말로요.
+REBECA: ¡Esa frase es de esta semana! ||| 그 말은 이번 주에 한 말이야!
+IVÁN: Es de hace ocho años. Siempre la dijiste. Ya la conocía. ||| 8년 전에도 했던 말이야. 넌 늘 그렇게 말했어. 이미 알던 말이지.
+ÁLVARO: Iván, quiero decirle lo que no puedo ofrecerle. No puedo ofrecerle impunidad. Solo puedo ofrecerle un plazo y una protección escrita. ||| 이반, 제가 드릴 수 없는 걸 먼저 말씀드리겠습니다. 면책은 드릴 수 없습니다. 기간과 서면 보호만 드릴 수 있습니다.
+IVÁN: Eso es exactamente lo que le pedía a mi hermana en la nota. ||| 쪽지에서 동생에게 요구한 게 정확히 그겁니다.
+ÁLVARO: Lo sé. Es el edicto de gracia. Treinta días para presentarse y colaborar. Una pena reducida. La condición es que usted lo cuente todo. ||| 압니다. 은혜 칙령이죠. 출두해 협조할 30일. 감형. 조건은 전부 말씀하시는 겁니다.
+IVÁN: Y que no haya excusas para los que dieron las órdenes. ||| 그리고 명령을 내린 사람들에게는 변명이 없어야 합니다.
+ÁLVARO: Ninguna. Eso lo pongo yo en el texto. ||| 하나도요. 그 부분은 제가 문서에 넣겠습니다.
+IVÁN: Pues entonces voy a hablar. Pero antes tengo que hacer una cosa. ||| 그럼 말하겠습니다. 하지만 그 전에 할 일이 하나 있습니다.
+ÁLVARO: ¿Qué? ||| 뭡니까?
+IVÁN: Decir quién soy. Mi nombre es Iván Salas Moreno. Nací en Barbate. Hace dieciséis años fui policía. Y desde hace ocho, mentiroso. ||| 제가 누군지 말하는 겁니다. 이름은 이반 살라스 모레노. 바르바테에서 태어났습니다. 16년 전에는 경찰이었고 8년 전부터는 거짓말쟁이입니다.
+PILAR: Lo anoto. «Iván Salas Moreno». ||| 적었습니다. '이반 살라스 모레노'.
+IVÁN: Escriba también esto. Hace seis años, cuando trabajaba para Boreal en Punta Sal, murió un pescador. Cheikh Diop. Un camión de la empresa lo atropelló en la carretera de la salina, de noche. ||| 이것도 적어 주세요. 6년 전 푼타 살에서 보레알 소속으로 일할 때 어부 한 명이 죽었습니다. 셰이크 디오프. 회사 트럭이 밤에 염전 도로에서 그를 치었죠.
+BELTRÁN: ¿Y la investigación? ||| 수사는요?
+IVÁN: La hice yo. Firmé un informe diciendo que fue un accidente. Cobré cuarenta mil euros por firmarlo. ||| 제가 했습니다. 사고라는 보고서에 서명했어요. 서명하고 4만 유로를 받았습니다.
+ÁLVARO: ¿Y por qué lo dice ahora? ||| 왜 지금 말씀하십니까?
+IVÁN: Porque lo he llevado conmigo seis años. Y si voy a cumplir un plazo de gracia, quiero empezarlo diciendo la cosa más fea. Para que lo demás se crea. ||| 6년을 지고 다녔으니까요. 은혜의 기간을 받아들이려면 가장 추한 것부터 말하고 싶어요. 나머지가 믿어지도록요.
+PILAR: Señor Salas, ¿sabe que esto puede suponer una responsabilidad penal para usted? ||| 살라스 씨, 이게 본인에게 형사 책임이 될 수 있다는 걸 아십니까?
+IVÁN: Lo sé. Esa es la razón de que lo diga. Si me quedo en una isla con una pensión, soy un cobarde con buena salud. Si lo digo, soy un hombre con deuda. ||| 압니다. 그래서 말하는 겁니다. 연금을 받으며 섬에 있으면 건강한 겁쟁이고, 말하면 빚을 진 사람입니다.
+REBECA: Iván. ||| 이반.
+IVÁN: Es la deuda de todos, Rebe. Yo solo me la tomé en serio. ||| 모두의 빚이야, 레베. 나만 진지하게 받아들였을 뿐이지.
+## 병영 식당 — EL COMEDOR DEL CUARTEL
+IVÁN: Tomen asiento. Este era el comedor de los soldados soviéticos. Hay ochenta sillas. Ninguna cojea. ||| 앉으세요. 소련 병사들의 식당이었죠. 의자가 여든 개 있고 다리 저는 건 하나도 없어요.
+BELTRÁN: ¿Cuánto tiempo lleva aquí? ||| 여기 얼마나 계셨습니까?
+IVÁN: Un año. Antes, siete años en Punta Sal, como jefe de seguridad. Antes, en Tallin, en un piso pagado. Cada traslado era un favor que yo no había pedido. ||| 1년요. 그 전에는 푼타 살에서 7년간 보안 책임자로 있었고, 그 전에는 탈린에서 비용을 대 준 집에 있었죠. 이동마다 제가 요청하지 않은 호의였어요.
+ÁLVARO: ¿Y por qué no se fue? ||| 왜 떠나지 않으셨습니까?
+IVÁN: Mi hijo. Mi mujer. Y un pasaporte falso que Strand guarda en una caja fuerte. Sin él, no existo. ||| 아들, 아내. 그리고 스트란드가 금고에 보관하는 가짜 여권. 그게 없으면 저는 존재하지 않아요.
+PILAR: ¿Una identidad falsa? ||| 가짜 신분입니까?
+IVÁN: Ivar Sandell. Nacido en Estocolmo. Una vida de papel. Muy bien hecha. ||| 이바르 산델. 스톡홀름 출생. 종이로 된 인생이죠. 아주 잘 만들어졌어요.
+ÁLVARO: Iván, ¿quién le dio esa identidad? ||| 이반, 누가 그 신분을 줬습니까?
+IVÁN: Un hombre en Madrid. Se hace llamar «el consultor». Nunca le vi la cara. Solo el anillo con la brújula. ||| 마드리드의 남자요. '컨설턴트'라고 불립니다. 얼굴은 본 적이 없고 나침반 반지만 봤어요.
+BELTRÁN: ¿Otro anillo con una brújula? ||| 또 나침반 반지요?
+ÁLVARO: Es un distintivo. Los socios de Septentrio llevan el mismo. ||| 표식입니다. 셉텐트리오 파트너들이 같은 걸 끼죠.
+IVÁN: Y hay una cosa más. La llave pequeña que le di a Liis. ¿La tiene? ||| 그리고 하나 더. 리스에게 맡긴 작은 열쇠요. 가지고 계십니까?
+REBECA: Aquí. ||| 여기 있어.
+IVÁN: Es del armario del fondo. El tercero. Ábranlo. Con la señora abogada como testigo. ||| 안쪽 사물함 열쇠야. 세 번째. 열어 봐. 변호사님이 증인이 되도록.
+PILAR: Voy a grabar. ¿Alguien tiene inconveniente? ||| 녹화하겠습니다. 이의 있으신 분?
+BELTRÁN: Ninguno. ||| 없습니다.
+REBECA: Ya está abierto. ¡Madre mía! Hay carpetas. Muchas carpetas. ||| 열었어요. 세상에! 서류철이 있어요. 아주 많이요.
+IVÁN: Veintidós. Una por año. Con los pagos de Meridian a consultores en Madrid. Todos con iniciales. ||| 스물두 권이야. 한 해에 한 권씩. 메리디언이 마드리드 컨설턴트들에게 한 지급 내역이야. 전부 이니셜로.
+ÁLVARO: ¿Iniciales? ||| 이니셜이요?
+IVÁN: «J. L.», «M. R.», «F. A.». ||| 'J. L.', 'M. R.', 'F. A.'.
+ÁLVARO: «F. A.». Cuarenta mil euros al mes. Desde hace seis años. ||| 'F. A.'. 한 달에 4만 유로. 6년째.
+PILAR: Eso es una cantidad considerable. ||| 상당한 금액이군요.
+ÁLVARO: Hay muchos F. A. en este mundo. ||| 세상에 F. A.는 많죠.
+BELTRÁN: ¿Es una pista o una trampa? ||| 단서입니까, 함정입니까?
+ÁLVARO: Las dos cosas. Es lo único seguro en este asunto: que cada pista lleva dentro una trampa. ||| 둘 다입니다. 이 사건에서 유일하게 확실한 건 모든 단서 안에 함정이 있다는 거예요.
+PILAR: Lo dejo anotado: «Iniciales F. A., sin identificar». ||| 적어 두겠습니다. 'F. A. 이니셜, 신원 미상'.
++ plazo de gracia = 유예 기간. 자진 출두와 협조에 주어지는 기간
++ colaboración eficaz = 효과적인 협조. 수사에 실질적으로 도움이 되는 협조
++ responsabilidad penal = 형사 책임
++ identidad falsa = 가짜 신분. 'vida de papel'은 서류로만 존재하는 인생
++ pensión = 연금 / 생활비. 여기서는 보레알이 주는 생활비
++ atropellar = (차로) 치다. 'atropello'는 치임 사고
++ cobarde con buena salud = 건강한 겁쟁이. 이반의 자조적인 표현
++ tomarse en serio = 진지하게 받아들이다
++ llevar algo consigo = ~을 지니고 다니다. 여기서는 죄책감을 지고 다니다
++ F. A. = 6화에서 나온 '메리디언 지급 내역'의 이니셜. 정체는 이후 화에서 드러난다
+## 스트란드 — STRAND
+STRAND: Buenos días. Veo que ya han abierto el armario. ||| 좋은 아침입니다. 벌써 사물함을 여셨군요.
+ÁLVARO: Strand. Esperaba que viniera. ||| 스트란드 씨. 오실 줄 알았습니다.
+STRAND: Yo también. Y le digo que no tengo ninguna intención de interrumpir. Solo quiero estar presente. ||| 저도요. 그리고 방해할 생각은 전혀 없다는 걸 말씀드립니다. 그저 입회하고 싶습니다.
+PILAR: Señor Strand, soy Pilar Gil, abogada del Estado español. Esta reunión está siendo grabada. ¿Tiene objeción? ||| 스트란드 씨, 스페인 국가 변호사 필라르 힐입니다. 이 모임은 녹화되고 있습니다. 이의 있으십니까?
+STRAND: Ninguna. Es más, me alegra. Así quedará constancia de que he venido libremente. ||| 없습니다. 오히려 반갑군요. 제가 자발적으로 왔다는 기록이 남을 테니까요.
+ÁLVARO: Siéntese. Hay ochenta sillas. ||| 앉으시죠. 의자가 여든 개 있습니다.
+STRAND: Prefiero estar de pie. Iván, ¿has decidido hablar? ||| 서 있겠습니다. 이반, 말하기로 했나?
+IVÁN: He decidido empezar. ||| 시작하기로 했습니다.
+STRAND: Te advierto que tu esposa y tu hijo viven de un contrato que puedo anular. ||| 경고하지. 자네 아내와 아들은 내가 해지할 수 있는 계약으로 살고 있어.
+PILAR: Señor Strand, eso podría considerarse una amenaza a un testigo. ||| 스트란드 씨, 그건 증인에 대한 협박으로 간주될 수 있습니다.
+STRAND: Es una descripción de hechos. ||| 사실의 묘사입니다.
+ÁLVARO: Strand, ¿conoce el edicto de gracia? ||| 스트란드 씨, 은혜 칙령을 아십니까?
+STRAND: Me lo ha explicado en la colina. Un plazo para confesar. ||| 언덕에서 설명하셨죠. 자백할 기간.
+ÁLVARO: Hoy se lo ofrezco a usted también. Treinta días. Quien en ese plazo se presente ante la abogada del Estado y colabore sin reservas, tendrá una pena reducida y una protección. Incluida su empresa. ||| 오늘은 당신에게도 제안합니다. 30일입니다. 그 기간에 국가 변호사 앞에 나와 숨김없이 협조하는 사람은 감형과 보호를 받습니다. 당신 회사도 포함해서요.
+STRAND: ¿Me ofrece que confiese? ||| 제게 자백하라고 하시는 겁니까?
+ÁLVARO: Le ofrezco que sea el primero. En una cosa así, el primero es siempre el que menos paga. ||| 첫 번째가 되라고 하는 겁니다. 이런 일에서는 첫 번째가 항상 가장 적게 냅니다.
+STRAND: ¿Y el segundo? ||| 두 번째는요?
+ÁLVARO: Paga un poco más. El tercero, bastante más. Y el último, todo. ||| 조금 더 냅니다. 세 번째는 꽤 더 내고요. 마지막은 전부 내죠.
+STRAND: Es un juego muy antiguo. Se llama «dilema del prisionero». ||| 아주 오래된 게임이군요. '죄수의 딜레마'라고 하죠.
+ÁLVARO: No. Es un edicto del siglo quince. Solo que ahora lo escribimos con garantías. ||| 아닙니다. 15세기의 칙령입니다. 다만 지금은 보호 장치를 붙여 쓸 뿐이죠.
+STRAND: ¿Garantías? ||| 보호 장치요?
+PILAR: Primero: asistencia letrada obligatoria. Segundo: ninguna declaración puede ser usada si se obtiene bajo amenaza. Tercero: el plazo no cubre a quienes dieron las órdenes sin colaborar. ||| 첫째, 변호인 조력 필수. 둘째, 협박으로 얻은 진술은 쓸 수 없음. 셋째, 협조하지 않은 채 명령을 내린 사람은 기간의 보호를 받지 못함.
+STRAND: Es decir, que el plazo protege a los pequeños y castiga a los grandes. ||| 그러니까 기간이 작은 사람은 보호하고 큰 사람은 벌한다는 거군요.
+ÁLVARO: Protege a los que hablan primero. Que casi siempre son los pequeños. ||| 먼저 말하는 사람을 보호합니다. 대개 작은 사람들이죠.
+ELSA: Señor Strand. Yo quiero acogerme. ||| 스트란드 씨. 저는 적용받고 싶습니다.
+STRAND: Elsa. ||| 엘사.
+ELSA: Llevo seis años firmando documentos que sabía que no debía firmar. He dormido mal. Quiero ser la primera. ||| 6년 동안 서명하면 안 된다는 걸 알면서 서류에 서명했어요. 잠을 못 잤어요. 첫 번째가 되고 싶습니다.
+STRAND: Eres mi abogada. ||| 자네는 내 변호사야.
+ELSA: Lo era. Hasta esta mañana. ||| 그랬죠. 오늘 아침까지는요.
+PILAR: Señora Berg, ¿firma usted el acta de acogida al plazo de gracia? ||| 베리 씨, 은혜 기간 적용 조서에 서명하시겠습니까?
+ELSA: La firmo. ||| 서명합니다.
+PILAR: Son las nueve y cuarenta. Queda constancia. ||| 아홉 시 사십 분입니다. 기록에 남깁니다.
+STRAND: Qué previsible. Siempre hay un primero que se pone de parte de los buenos. ||| 예측 가능하군. 늘 선한 쪽에 서는 첫 번째 사람이 있지.
+ELSA: No me pongo de parte de los buenos. Me pongo de parte del segundo cajón. ||| 선한 쪽에 서는 게 아니에요. 두 번째 서랍 쪽에 서는 거죠.
+STRAND: ¿Qué cajón? ||| 무슨 서랍이요?
+ELSA: El que usted no sabe que existe. ||| 대표님이 존재하는지도 모르는 서랍이요.
+REBECA: ¡Iván! Esa llave abre dos cajones. ||| 이반! 그 열쇠로 서랍 두 개가 열려.
+IVÁN: Tres. El tercero es la prueba que yo no te di para que no lo usaras antes de tiempo. ||| 세 개야. 세 번째는 네가 때 이르게 쓰지 못하도록 주지 않은 증거야.
+ÁLVARO: ¿Qué hay en el tercero? ||| 세 번째에는 뭐가 있습니까?
+IVÁN: Una grabación. De hace cuatro años. Una cena en Estocolmo. Strand y un hombre al que no se le ve la cara, pero se le oye. Habla de «el voto de Nueva York». ||| 녹음입니다. 4년 전 스톡홀름의 저녁 식사요. 스트란드와 얼굴이 안 보이는 남자. 하지만 목소리는 들리죠. '뉴욕의 표'에 대해 말합니다.
+STRAND: Eso es ilegal. Una grabación sin consentimiento. ||| 그건 불법입니다. 동의 없는 녹음이에요.
+PILAR: Depende de la jurisdicción. Pero se lo diré en su interés: aunque no sea admisible como prueba, tiene valor como indicio. ||| 관할에 따라 다릅니다. 하지만 당신을 위해 말씀드리죠. 증거로 쓸 수 없더라도 정황으로서의 가치는 있습니다.
+STRAND: ¿Qué dice la grabación? ||| 녹음에는 뭐라고 나옵니까?
+IVÁN: Habla de un país. «Nordmark». Dice que Septentrio es el fondo del Estado de Nordmark. Que Nordmark aspira a un asiento no permanente en el Consejo de Seguridad, el próximo año. ||| 한 나라 이야기를 합니다. '노르드마르크'. 셉텐트리오가 노르드마르크 국가의 펀드라고요. 노르드마르크가 내년 안보리 비상임 의석을 노린다고 하죠.
+BELTRÁN: ¿Nordmark? Es el país que compite con España por el último asiento del grupo occidental. ||| 노르드마르크요? 서방 그룹 마지막 의석을 두고 스페인과 겨루는 나라 아닙니까.
+ÁLVARO: Ahora entiendo. Punta Sal, Khar Us, los astilleros: no son inversiones. Son maneras de debilitar a España antes de la votación. ||| 이제 알겠습니다. 푼타 살, 하르 우스, 조선소는 투자가 아니라 표결 전에 스페인을 약화시키는 방법이었군요.
+STRAND: No hay ninguna prueba de eso. ||| 그건 아무 증거도 없습니다.
+ÁLVARO: La hay. La tengo delante. Y usted también. ||| 있습니다. 제 앞에 있어요. 당신 앞에도요.
+STRAND: Me voy. Tengo derecho a irme. ||| 가겠습니다. 갈 권리가 있습니다.
+PILAR: Tiene derecho. Pero le recuerdo que el plazo de gracia corre desde las nueve y cuarenta. Cada minuto cuenta. ||| 권리가 있습니다. 하지만 은혜 기간은 아홉 시 사십 분부터 흐르고 있다는 걸 알려 드립니다. 일 분이 중요합니다.
+STRAND: Quintana, esto no ha terminado. Hay una votación en Nueva York dentro de cuatro meses. Y el país que se presenta con usted no tiene ni la mitad de mis recursos. ||| 킨타나, 이건 끝나지 않았습니다. 4개월 뒤 뉴욕에서 표결이 있습니다. 당신 곁의 나라는 제 자원의 절반도 없어요.
+ÁLVARO: Tiene la mitad de su historia. Y la historia, al final, también vota. ||| 당신 역사의 절반은 있습니다. 그리고 역사는 결국 표를 던지죠.
+STRAND: Es una frase muy bonita. ||| 아주 멋진 문장이군요.
+ÁLVARO: La he sacado de un libro. ||| 책에서 가져왔습니다.
+STRAND: Siempre lo hace. Buenos días. ||| 늘 그러시죠. 안녕히 계십시오.
+## 가족 — LA FAMILIA
+PILAR: Señor Salas, he preparado un documento. Colaboración eficaz, protección a su familia, y compromiso de que su declaración sea completa, incluida la muerte de Cheikh Diop. ||| 살라스 씨, 문서를 준비했습니다. 효과적 협조, 가족 보호, 그리고 셰이크 디오프의 죽음을 포함한 진술을 완전하게 한다는 약속입니다.
+IVÁN: ¿Y mi condena? ||| 제 형량은요?
+PILAR: Será fijada por un juez. Pero la colaboración se valorará. No puedo prometer más. ||| 판사가 정합니다. 하지만 협조는 참작될 겁니다. 그 이상은 약속할 수 없어요.
+IVÁN: No quiero más. ||| 더 원하지 않습니다.
+REBECA: Iván, eres imbécil. ||| 이반, 바보 같아.
+IVÁN: Lo sé. ||| 알아.
+REBECA: ¿Dónde está Kaja? ||| 카야는 어디 있어?
+IVÁN: En Tallin. En un piso del barrio de Kalamaja. Con Mikk. ||| 탈린. 칼라마야 구역의 아파트. 미크와 같이.
+REBECA: Voy a verlos. Hoy. ||| 오늘 만나러 갈 거야.
+IVÁN: ¿Les vas a decir quién eres? ||| 네가 누군지 말할 거야?
+REBECA: Voy a decirles que soy la tía. ||| 고모라고 말할 거야.
+IVÁN: Mikk te va a preguntar si tienes ovejas. ||| 미크는 양이 있냐고 물을 거야.
+REBECA: ¿Por qué? ||| 왜?
+IVÁN: Porque cree que todos los tíos tienen ovejas. Es una historia larga. ||| 모든 고모와 삼촌에게 양이 있다고 믿거든. 긴 이야기야.
+ÁLVARO: Rebeca. ||| 레베카.
+REBECA: ¿Qué? ||| 뭐?
+ÁLVARO: Una cuenta saldada. Aquí. ||| 청산된 계산이야. 여기서.
+REBECA: ¿Te refieres a la deuda que me tenías? ||| 네가 내게 졌던 빚 말이야?
+ÁLVARO: Me refiero a que hoy, por primera vez en tres años, no te debo nada. ||| 3년 만에 처음으로 오늘은 네게 빚이 없다는 뜻이야.
+REBECA: Te equivocas. Me debes una cena. Con tortilla. ||| 틀렸어. 넌 내게 저녁을 빚졌어. 토르티야로.
+ÁLVARO: Eso ya no es deuda. Es compromiso. ||| 그건 빚이 아니라 약속이지.
+REBECA: En mi oficio es lo mismo. ||| 내 일에서는 같은 거야.
+BELTRÁN: Quintana, tengo que comunicárselo a Calvo. Y debo decirle que el hecho de que Nordmark compita con nosotros por la votación es un asunto de Estado. ||| 킨타나 씨, 칼보 위원장에게 알려야 합니다. 그리고 노르드마르크가 표결에서 우리와 경쟁한다는 사실은 국가 문제라는 점도요.
+ÁLVARO: Lo es. Y hay una cosa que debe saber. Hay un F. A. cobrando cuarenta mil euros al mes desde hace seis años. ||| 그렇습니다. 그리고 아셔야 할 게 있습니다. 6년 전부터 매달 4만 유로를 받는 F. A.가 있습니다.
+BELTRÁN: ¿Quién es F. A.? ||| F. A.가 누굽니까?
+ÁLVARO: No lo sé todavía. Pero hay un Federico Arrieta en el Ministerio. ||| 아직 모릅니다. 하지만 외무부에는 페데리코 아리에타가 있죠.
+BELTRÁN: ¿Federico Arrieta? ¿El subsecretario? ||| 페데리코 아리에타요? 차관?
+ÁLVARO: Hay muchos F. A. Pero hay uno que estuvo en la línea cuando se lo conté a Calvo en Tamazia. ||| F. A.는 많습니다. 하지만 제가 타마지아에서 칼보 위원장에게 보고할 때 통화에 있던 사람이 하나 있죠.
+BELTRÁN: Eso no es una prueba. ||| 증거가 아닙니다.
+ÁLVARO: No. Es una pregunta. Y las preguntas se hacen en voz alta, delante de testigos. ||| 그렇죠. 질문입니다. 그리고 질문은 증인들 앞에서 소리 내어 하는 겁니다.
+BELTRÁN: Prudencia, Quintana. Si se equivoca, destruye a un inocente. ||| 신중하세요, 킨타나 씨. 틀리면 결백한 사람을 파멸시킵니다.
+ÁLVARO: Lo sé. Por eso no voy a decir su nombre en ninguna sala. Voy a pedir que se verifique cada F. A. con un procedimiento reglado. ||| 압니다. 그래서 어떤 자리에서도 그 이름을 말하지 않을 겁니다. F. A.를 하나하나 정해진 절차로 확인해 달라고 요청하겠습니다.
+BELTRÁN: Eso es lo que haría un hombre honrado. ||| 정직한 사람이 할 만한 방법이군요.
+ÁLVARO: Eso es lo que hace un hombre con una hija que lee. ||| 책 읽는 딸을 둔 사람이 하는 방법이죠.
+ÁLVARO: Presidenta Calvo. Soy yo. Son las doce de la mañana aquí. Acabo de salir de una isla. ||| 칼보 위원장님. 접니다. 여기는 낮 열두 시입니다. 방금 섬에서 나왔습니다.
+CALVO: ¿Todo bien? ||| 모두 무사합니까?
+ÁLVARO: Todos vivos. Hay un testigo, una carpeta de veintidós años, y una grabación. Y el nombre de un país. ||| 모두 살아 있습니다. 증인 한 명과 22년 치 서류철, 녹음 하나, 그리고 한 나라의 이름이 있습니다.
+CALVO: ¿Qué país? ||| 어느 나라입니까?
+ÁLVARO: Nordmark. ||| 노르드마르크입니다.
+CALVO: Ay, Dios. Es el rival de la votación del Consejo. ||| 아이고. 안보리 표결의 경쟁국이군요.
+ÁLVARO: Exacto. Presidenta, he de decirle una cosa: la próxima vez que me llame, no quiero que Arrieta esté en la línea. ||| 맞습니다. 위원장님, 드릴 말씀이 있습니다. 다음에 전화하실 때는 아리에타가 같은 선에 있지 않았으면 합니다.
+CALVO: ¿Por qué? ||| 왜죠?
+ÁLVARO: No puedo explicárselo por teléfono. Pero se lo diré por escrito, delante de la abogada del Estado, esta noche. ||| 전화로는 설명할 수 없습니다. 하지만 오늘 밤 국가 변호사 앞에서 서면으로 말씀드리겠습니다.
+CALVO: Entendido. Quintana, tengo órdenes para usted. Vuelva a Madrid. En cuarenta y ocho horas. ||| 알겠습니다. 킨타나, 당신에게 지시가 있습니다. 마드리드로 돌아오세요. 48시간 안에.
+ÁLVARO: ¿Y Mongolia? ||| 몽골은요?
+CALVO: Se queda su embajada. Usted va a Nueva York. ||| 대사관은 그대로 있습니다. 당신은 뉴욕으로 갑니다.
+ÁLVARO: ¿Nueva York? ||| 뉴욕이요?
+CALVO: Para ocuparse de la candidatura. Es lo que se llama «la última silla». ||| 입후보를 맡으러요. 이른바 '마지막 의자'입니다.
++ acogerse a = ~의 적용을 받다. 'acogerse al plazo de gracia'
++ asistencia letrada = 변호인 조력
++ indicio = 정황, 단서. 'prueba'(증거)보다 약한 개념
++ dilema del prisionero = 죄수의 딜레마. 협력과 배신의 선택 구조를 설명하는 게임 이론
++ procedimiento reglado = 정해진 절차. 법적으로 규정된 방식
++ último asiento = 마지막 의석. 안보리 비상임 의석을 두고 경쟁하는 마지막 자리
++ constancia = 기록, 증거 서면. 'dejar constancia'는 기록으로 남기다
++ Nordmark = 가상의 북유럽 국가. 3부 D사건(안보리 입후보)의 경쟁국
++ ponerse de parte de = ~의 편에 서다
