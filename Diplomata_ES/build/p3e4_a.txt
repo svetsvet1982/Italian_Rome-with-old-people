@@ -1,0 +1,103 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 4
+@title El embajador de Ulán Bator
+@ko 울란바토르 대사
+@setting 2월 차강 사르(설) 주간 · 칭기스 칸 공항 → 시내 도로 → 스페인 대사관 → 광업부 청사
+@level B2-C1
+@cast ÁLVARO | 신임 주몽골 대사, 44세
+@cast NARAN | 대사관 운전사, 쿠바 유학 출신 몽골인, 58세
+@cast ESCOBEDO | 대사관 대리대사, 53세
+@cast ARANTXA | 미네라 아랄라르 현지 소장, 46세
+@cast ERDENE | 몽골 광업부 장관, 61세
+@cast LUCÍA | 알바로의 딸, 17세 (영상통화)
+@note 3부 B사건(울란바토르 광산)의 첫 화이며 '정공법'의 화입니다. 새 대사가 규칙대로 장관을 만나지만 첫 만남은 실패로 끝나고, 해법의 실마리는 외교관이 아니라 운전사의 말에서 나옵니다. 역사 논거는 카스티야 왕 엔리케 3세가 티무르에게 보낸 사절 클라비호의 여행(1403~06)으로, 초원의 길과 환대, 기록하는 습관이 이후 화들의 열쇠가 됩니다. 어휘는 신임 대사의 절차(cartas credenciales, copia de estilo, encargado de negocios)와 환대 표현에 주목하세요.
+@next 3부 5화 — «La yurta»(게르) — 알바로는 장관이 아니라 고비의 목동 가족을 먼저 찾아갑니다. 영하의 게르에서 마시는 우유차 한 잔, 그리고 가축이 지나가는 길과 광산 도로가 겹치는 지점.
+
+## 공항에서 — EL AEROPUERTO
+ÁLVARO: ¿Señor Escobedo? Álvaro Quintana. Perdone el retraso: el avión ha dado dos vueltas esperando que se despejase la pista. ||| 에스코베도 씨죠? 알바로 킨타나입니다. 늦어서 죄송합니다. 활주로가 걷히길 기다리느라 비행기가 두 바퀴 돌았어요.
+ESCOBEDO: Bienvenido, embajador. Aunque todavía no lo es, claro. Hasta que presente las cartas credenciales, es usted «embajador designado». ||| 환영합니다, 대사님. 아직은 아니지만요. 신임장을 제정하기 전까지는 '지명 대사'입니다.
+ÁLVARO: Lo sé. Mientras tanto, llámeme Álvaro. Y usted, ¿cuánto tiempo lleva como encargado de negocios? ||| 압니다. 그동안은 알바로라고 불러 주세요. 대리대사로는 얼마나 계셨습니까?
+ESCOBEDO: Catorce meses. Desde que se fue mi predecesor. Aquí los embajadores se van y los inviernos se quedan. ||| 14개월입니다. 전임자가 떠난 뒤로요. 여기서는 대사들은 떠나고 겨울은 남죠.
+ÁLVARO: ¿Cuánto marca el termómetro? ||| 온도계는 몇 도를 가리킵니까?
+ESCOBEDO: Menos treinta y cinco. Hoy es un día suave. ||| 영하 35도입니다. 오늘은 포근한 날이에요.
+ÁLVARO: Ya. Me han dicho que hay que vestirse como una cebolla. ||| 그렇군요. 양파처럼 껴입어야 한다고 들었습니다.
+ESCOBEDO: Como una cebolla con abrigo de piel y gorro de zorro. Tenga, es suyo. Se lo he comprado yo, a mi talla, pero creo que le valdrá. ||| 모피 코트와 여우털 모자를 쓴 양파죠. 자, 대사님 겁니다. 제 치수로 샀는데 맞을 것 같네요.
+ÁLVARO: Es usted un hombre previsor. ||| 선견지명이 있으시군요.
+ESCOBEDO: Soy un hombre que llegó aquí sin abrigo. Una vez. ||| 처음 왔을 때 외투 없이 온 사람일 뿐입니다. 딱 한 번요.
+NARAN: Buenas tardes, señor. Soy Naran, el conductor de la embajada. Bienvenido a Mongolia. ||| 안녕하십니까, 선생님. 대사관 운전사 나란입니다. 몽골에 오신 걸 환영합니다.
+ÁLVARO: ¿Habla usted español? ||| 스페인어를 하십니까?
+NARAN: Un poco. Estudié en La Habana, mil novecientos ochenta y nueve a noventa y tres. Ingeniería de caminos. Luego volví aquí y acabé conduciendo caminos, en vez de construirlos. ||| 조금요. 1989년부터 93년까지 아바나에서 공부했습니다. 도로 공학이요. 돌아와 보니 길을 짓는 대신 길을 운전하고 있네요.
+ÁLVARO: Un ingeniero de caminos al volante. Eso promete. ||| 도로 공학자가 운전대를 잡다니. 기대되는군요.
+NARAN: Prometer es fácil. Cumplir, con este hielo, es otra cosa. ||| 약속은 쉽죠. 이 얼음 위에서 지키는 건 다른 문제고요.
+ESCOBEDO: Naran lleva trece años con la embajada. Conoce el país mejor que el ministerio. ||| 나란은 대사관에 13년째 있습니다. 외교부보다 이 나라를 더 잘 알아요.
+ÁLVARO: ¿Cuánto hay hasta la ciudad? ||| 시내까지 얼마나 걸립니까?
+NARAN: Cincuenta kilómetros. Si el tráfico es bueno, una hora. Si hay festival, dos. Y esta semana es Tsagaan Sar, el Año Nuevo lunar. ||| 50킬로미터입니다. 차가 안 막히면 한 시간. 축제가 있으면 두 시간이고요. 그리고 이번 주가 차강 사르, 음력설이에요.
+ÁLVARO: ¿Y cómo se saluda en esos días? ||| 그 기간에는 어떻게 인사합니까?
+NARAN: Se dice «Sar shinedee mend khürgeye». Feliz año nuevo. Y se estrechan los brazos así, con las palmas hacia arriba. ||| '사르 신에데 멘드 휘르게예'라고 합니다. 새해 복 많이 받으세요. 그리고 이렇게 손바닥을 위로 해서 팔을 맞잡아요.
+ÁLVARO: ¿Con las palmas hacia arriba? ||| 손바닥을 위로요?
+NARAN: Para mostrar que no se esconde nada. ||| 아무것도 숨기지 않았다는 걸 보여 주려고요.
+ESCOBEDO: Yo nunca he conseguido decirlo bien. Siempre me sale «sar chinaldi» o algo parecido. ||| 저는 한 번도 제대로 못 합니다. 늘 '사르 치날디'인지 뭔지로 나와요.
+NARAN: Lo dice «sar chinaldi», sí. Los mongoles lo entienden, y se ríen, pero lo entienden. ||| '사르 치날디'라고 하시죠. 몽골 사람들은 알아듣고 웃지만, 알아듣습니다.
+ÁLVARO: Entonces el primer ejercicio de mañana es aprenderlo bien. ||| 그럼 내일의 첫 과제는 제대로 배우는 거네요.
+ESCOBEDO: Álvaro, hay algo que debería contarle antes de entrar en la ciudad. ||| 알바로, 시내에 들어가기 전에 말씀드릴 게 있습니다.
+ÁLVARO: Adelante. ||| 말씀하세요.
+ESCOBEDO: Hace once días, el Gran Jural recibió una propuesta para revocar la licencia de Minera Aralar en el Gobi. ||| 11일 전 국가대회의에 미네라 아랄라르의 고비 채굴권을 취소하자는 안이 접수됐습니다.
+ÁLVARO: ¿La de Khar Us? ||| 하르 우스 말입니까?
+ESCOBEDO: La de Khar Us. Cuatrocientos millones de euros invertidos, mil doscientos empleos, y una votación en treinta días. ||| 하르 우스입니다. 투자 4억 유로, 일자리 1,200개, 그리고 30일 뒤에 표결이 있습니다.
+ÁLVARO: ¿Por qué quieren revocarla? ||| 왜 취소하려는 겁니까?
+ESCOBEDO: Oficialmente, por «incumplimiento de la consulta previa con las comunidades». Extraoficialmente... por mí. ||| 공식적으로는 '지역 공동체 사전 협의 불이행' 때문입니다. 비공식적으로는… 저 때문이고요.
+ÁLVARO: ¿Por usted? ||| 대리대사님 때문이라고요?
+ESCOBEDO: En noviembre tuve una cena con el ministro Erdene. Me ofreció aguardiente de leche, que es un honor. Yo lo rechacé con la mano. En Mongolia, rechazar la copa con la mano izquierda es una ofensa. ||| 11월에 에르덴 장관과 저녁을 먹었습니다. 우유 증류주를 권했는데 그건 영광의 표시죠. 제가 손으로 거절했습니다. 몽골에서는 왼손으로 잔을 거절하는 건 모욕입니다.
+ÁLVARO: ¿Con la izquierda? ||| 왼손으로요?
+ESCOBEDO: Con la izquierda. Se ha convertido en una leyenda en el ministerio. ||| 왼손으로요. 외교부에서는 전설이 됐어요.
+NARAN: Una leyenda pequeña. Los ministros se ofenden por más. ||| 작은 전설이죠. 장관들은 더 큰 일로도 화를 냅니다.
+ÁLVARO: ¿Y el ministro? ¿Sigue sin hablarle? ||| 장관은요? 지금도 말을 안 합니까?
+ESCOBEDO: Me habla, pero con los ojos en el techo. ||| 말은 하는데 눈은 천장을 봅니다.
+ÁLVARO: Eso lo arreglamos. Pero la licencia es otro asunto. Si fuera solo una cuestión de cortesía, no habría una votación. ||| 그건 고치면 됩니다. 하지만 채굴권은 다른 문제죠. 예의만의 문제라면 표결까지 가지 않았을 겁니다.
+ESCOBEDO: Hay una carta de ochenta y siete pastores que se quejan de que la empresa ha cortado sus rutas de pastoreo. ||| 목동 87명이 회사가 자기들 방목 길을 끊었다며 쓴 편지가 있습니다.
+ÁLVARO: ¿Ha leído esa carta? ||| 그 편지를 읽어 보셨습니까?
+ESCOBEDO: La han publicado en el periódico. Está en mongol. Me han dado un resumen de cinco líneas. ||| 신문에 실렸습니다. 몽골어로요. 다섯 줄 요약을 받았습니다.
+ÁLVARO: Cinco líneas para ochenta y siete personas. ||| 87명의 이야기가 다섯 줄이라.
+## 시내 도로 — LA CARRETERA
+NARAN: Señor, ¿puedo decirle una cosa que no me ha preguntado? ||| 선생님, 묻지 않으신 걸 말씀드려도 될까요?
+ÁLVARO: Siempre. En realidad, es lo que más me interesa. ||| 언제든지요. 사실 그게 제가 가장 궁금한 겁니다.
+NARAN: Mi madre vive en Ömnögovi. A ciento cuarenta kilómetros de Khar Us. Tiene setecientas ovejas y una yurta. Es una de las ochenta y siete firmas. ||| 제 어머니는 옴누고비에 사십니다. 하르 우스에서 140킬로미터 거리예요. 양 칠백 마리와 게르 한 채가 있고요. 87명의 서명자 중 한 분입니다.
+ÁLVARO: ¿Su madre firmó la carta? ||| 어머님이 그 편지에 서명하셨다고요?
+NARAN: Con la huella del pulgar. No sabe escribir. ||| 엄지손가락 지문으로요. 글을 못 쓰시거든요.
+ÁLVARO: ¿Y qué dice su madre de la empresa? ||| 어머님은 회사에 대해 뭐라고 하십니까?
+NARAN: Que no es mala. Que los camiones pasan por el pozo de los camellos y los animales no beben. Pero también que el jefe de la mina les trajo un generador, y por eso tienen luz. ||| 나쁘지 않다고 하세요. 트럭이 낙타 우물 쪽으로 지나가서 동물들이 물을 못 마신다고도 하시고요. 그런데 광산 책임자가 발전기를 가져다줘서 불을 켤 수 있다고도 하세요.
+ÁLVARO: Las dos cosas. ||| 두 가지 다네요.
+NARAN: Siempre las dos cosas. Eso es lo que no entienden en la capital. ||| 늘 두 가지 다예요. 수도에서 이해 못 하는 게 그겁니다.
+ÁLVARO: ¿Cómo se resuelve eso? ||| 그건 어떻게 풀죠?
+NARAN: Con una visita. Pero no con una visita de ministro. ||| 방문으로요. 하지만 장관의 방문은 아니고요.
+ÁLVARO: ¿Con qué clase de visita? ||| 어떤 방문입니까?
+NARAN: Con la de alguien que llega a la yurta, se quita el sombrero, bebe el té con leche aunque esté salado, y se queda a dormir. ||| 게르에 와서 모자를 벗고 짠 우유차라도 마시고 자고 가는 사람의 방문이요.
+ÁLVARO: ¿Se queda a dormir? ||| 자고 간다고요?
+NARAN: Aquí, una visita que no duerme no es una visita. Es una inspección. ||| 여기서는 자지 않고 가는 방문은 방문이 아니라 감찰입니다.
+ESCOBEDO: Naran, el embajador tiene que presentar credenciales en tres semanas. Y reunirse con el ministro antes. ||| 나란, 대사님은 3주 뒤에 신임장을 제정해야 하고 그 전에 장관을 만나야 해요.
+NARAN: Reunirse con un ministro se hace en un despacho. Con un pastor, en la estepa. Son dos idiomas distintos. ||| 장관을 만나는 건 집무실에서 하죠. 목동은 초원에서 만나고요. 서로 다른 두 언어예요.
+ÁLVARO: ¿Y usted domina los dos? ||| 두 가지를 다 하십니까?
+NARAN: Domino el camino que lleva de uno a otro. ||| 한쪽에서 다른 쪽으로 가는 길을 압니다.
+ÁLVARO: Eso es más raro y más útil. ||| 그게 더 드물고 더 쓸모 있죠.
+LUCÍA: ¡Papá! Te veo congelado. Tienes escarcha en las cejas. ||| 아빠! 얼어붙어 보여요. 눈썹에 서리가 앉았어요.
+ÁLVARO: Estoy en el coche, hija. Todavía no he llegado a la residencia. ¿Qué tal el colegio? ||| 차 안이다, 얘야. 아직 관저에 도착도 안 했어. 학교는 어때?
+LUCÍA: Bien. Tengo una pregunta, que es una nota a pie de página, ya sabes. ¿Qué es un «encargado de negocios»? Suena como alguien que vende cosas. ||| 좋아요. 질문이 하나 있는데 각주 같은 거예요. '대리대사'가 뭐예요? 물건 파는 사람 같아요.
+ESCOBEDO: Encantado, Lucía. Soy el encargado de negocios. Efectivamente, vendo cosas: papeles, sellos y a veces disculpas. ||| 반가워요, 루시아. 제가 대리대사예요. 맞아요, 물건을 팔죠. 서류, 도장, 가끔은 사과도요.
+LUCÍA: ¿Disculpas? ||| 사과요?
+ESCOBEDO: Las que se deben a un ministro cuando rechazas su copa con la mano izquierda. ||| 장관의 잔을 왼손으로 거절했을 때 해야 하는 사과요.
+LUCÍA: ¡Papá! ¿Qué le ha pasado a este señor? ||| 아빠! 이분 무슨 일 있었어요?
+ÁLVARO: Una leyenda pequeña, hija. Luego te cuento. ||| 작은 전설이란다, 얘야. 나중에 얘기해 줄게.
+LUCÍA: Pues te dejo. Cuídate. Que estés calentito. ||| 그럼 끊을게요. 몸조심해요. 따뜻하게 지내세요.
+ÁLVARO: Lo estaré. Un beso. ||| 그럴게. 뽀뽀 보낸다.
++ cartas credenciales = 신임장. 대사가 접수국 원수에게 제정하는 문서
++ embajador designado = 지명 대사. 신임장 제정 전의 신분
++ encargado de negocios = 대리대사. 'a.i.'(ad interim)로 쓰기도 한다
++ vestirse como una cebolla = 양파처럼 껴입다. 여러 겹 껴입는 표현
++ aguardiente de leche = 우유 증류주. 몽골 전통 술 '아르히'를 가리킴
++ con las palmas hacia arriba = 손바닥을 위로. 숨기는 게 없다는 몽골식 인사
++ consulta previa = 사전 협의. 개발 전에 지역 공동체에 의견을 묻는 절차
++ huella del pulgar = 엄지 지문. 글을 쓰지 못하는 사람의 서명 대용
++ una visita que no duerme no es una visita = 자지 않는 방문은 방문이 아니다. 몽골식 환대의 감각
++ nota a pie de página = 각주. 루시아의 질문 습관을 가리키는 시리즈의 반복 표현
