@@ -1,0 +1,171 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 12
+@title Rechters en wachters
+@ko 재판관과 파수꾼
+@setting 2주 뒤 평화궁 행정 이사회 · 정원 · 헤르만의 배 · 저녁 경비실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast RADEMAKER | 상설중재재판소 사무총장, 58세
+@cast LOTTE | 중재인 로테 바이나엔츠, 54세
+@cast KARTIKA | 카랑 대리인, 48세
+@cast HERMAN | 은퇴 대사, 70세
+@cast NOOR | 요스트의 딸, 16세
+@cast ZANDSTRA | 평화궁 경비원, 60세
+@note 2부의 마지막 화입니다. 개혁안이 채택되고 새 재판부가 확정되지만, 요스트는 '중립의 대가'로 신뢰를 일부 잃습니다. 결론은 '재판관을 지키는 파수꾼이 필요하다'(Quis custodiet ipsos custodes?)이며, 파수꾼도 눈에 보여야 합니다. 역사 논거는 1907년 제2차 헤이그 평화회의: 1899년에 시작한 것을 8년 뒤 스스로 고치러 모인 선례입니다. 어휘는 제도 개혁(hervorming, toezichthouder, integriteitsfunctionaris, jaarverslag)과 결산·성찰 표현에 주목하세요.
+@next 3부 1화 — «Het geblokkeerde vaarwater»(막힌 항로) — 카랑 해협국이 통행료를 신설해 로테르담 컨테이너 선단이 해협 입구에서 대기합니다. 선장의 한마디: '항로는 땅이 아니라 약속이다.'
+
+## 개혁안 — HET HERVORMINGSPAKKET
+RADEMAKER: Dames en heren, de Administratieve Raad heeft het hervormingspakket vastgesteld. Ik lees de kern voor. ||| 여러분, 행정 이사회가 개혁안을 확정했습니다. 핵심을 읽겠습니다.
+RADEMAKER: «Eén. Een openbaar register voor alle betalingen uit privébron aan leden en medewerkers van het Hof. Twee. Een onafhankelijke integriteitsfunctionaris, benoemd voor zes jaar, niet herbenoembaar, met een eigen budget. Drie. Elk jaar een jaarverslag over integriteit, hardop gepresenteerd in de Grote Rechtszaal. Vier. Alle benoemingen van arbiters en griffiers volgen de procedure van de verklaring». ||| "하나, 재판소 구성원과 직원에 대한 모든 민간 출처 지급의 공개 등록부. 둘, 임기 6년에 재임명이 불가능하고 독자 예산을 가진 독립 청렴 책임관. 셋, 매년 청렴 연차 보고서를 큰 재판정에서 소리 내어 발표. 넷, 중재인과 서기의 모든 임명은 진술서 절차를 따른다."
+KARTIKA: Wie benoemt de integriteitsfunctionaris? ||| 청렴 책임관은 누가 임명합니까?
+RADEMAKER: De Administratieve Raad, op voordracht van een commissie van drie: een voormalig rechter, een voormalig journalist en een voormalig griffier. ||| 행정 이사회가 전직 판사, 전직 기자, 전직 서기로 이루어진 세 사람 위원회의 추천으로 임명합니다.
+KARTIKA: En wie controleert hen? ||| 그들은 누가 감시합니까?
+RADEMAKER: Dat is de vraag die de Romeinen stelden. ||| 로마인들이 던진 질문이죠.
+LOTTE: Quis custodiet ipsos custodes. Wie bewaakt de bewakers? ||| 키스 쿠스토디에트 입소스 쿠스토데스. 파수꾼은 누가 지키는가.
+JOOST: Mag ik een antwoord voorstellen? ||| 답을 제안해도 될까요?
+RADEMAKER: Graag. ||| 부탁합니다.
+JOOST: Niemand. Maar iedereen kijkt. De wachter staat in het licht. Hij is de enige in het paleis die elke dag een verslag moet publiceren, ook van zijn eigen fouten. ||| 아무도요. 하지만 모두가 봅니다. 파수꾼은 불빛 속에 서 있어요. 궁전에서 매일 보고서를 공개해야 하는 유일한 사람이고 자기 실수도 포함해서요.
+KARTIKA: Dat is een gevaarlijke baan. ||| 위험한 직업이군요.
+JOOST: Het is de enige baan waarvoor je na zes jaar niet mag blijven. ||| 6년 뒤에 남아 있을 수 없는 유일한 직업이죠.
+KARTIKA: Zodat niemand er comfortabel in wordt. ||| 누구도 편안해지지 않도록요.
+JOOST: Precies. ||| 맞습니다.
+RADEMAKER: Dan het vijfde punt. De samenstelling van het tribunaal in de zaak Zuid-Marinde tegen Karang. De partijen hebben akkoord bereikt over de volgende leden: voorzitter, professor Ingrid Solheim uit Oslo. Leden: mevrouw Wijnaendts en de heer Okafor. ||| 다섯째 항목입니다. 남마린데 대 카랑 사건의 재판부 구성입니다. 양 당사자가 다음 구성원에 합의했습니다. 의장 오슬로의 잉그리드 솔하임 교수. 위원 바이나엔츠 박사와 오카포르 씨.
+LOTTE: Ik ben tevreden. ||| 만족합니다.
+OKAFOR: En ik ben dankbaar. ||| 감사합니다.
+KARTIKA: Karang is akkoord. ||| 카랑은 동의합니다.
+FERREIRA: Zuid-Marinde is akkoord. ||| 남마린데도 동의합니다.
+RADEMAKER: De zitting wordt hervat op de tiende september. ||| 심리는 9월 10일에 재개됩니다.
+## 1907 — DE TWEEDE CONFERENTIE
+LOTTE: Meneer Hartog, kan ik u even spreken in de tuin? ||| 하르토흐 씨, 정원에서 잠깐 이야기할 수 있을까요?
+JOOST: Natuurlijk. ||| 물론이죠.
+LOTTE: Wat vindt u van de hervorming? ||| 개혁안을 어떻게 보시나요?
+JOOST: Dat het goed is. En dat het niet genoeg is. ||| 좋은 일이고 충분하지는 않다고 봅니다.
+LOTTE: Zo denk ik er ook over. ||| 저도 그렇게 생각해요.
+JOOST: Weet u wat ik denk aan? Aan 1907. De Tweede Vredesconferentie. Hier. In de Ridderzaal. ||| 1907년이 떠오릅니다. 제2차 평화회의요. 여기 리더르잘에서요.
+LOTTE: Waar de landen terugkwamen. ||| 나라들이 돌아왔던 곳이죠.
+JOOST: Acht jaar na de eerste. De eerste had een stoel gebouwd. De tweede kwam terug om te zien waar hij kraakte. Dertien conventies. De procedure van de arbitrage werd herzien. ||| 첫 회의 8년 뒤였죠. 첫 회의가 의자를 지었다면 두 번째는 의자가 어디서 삐걱대는지 보러 돌아왔습니다. 협약 열세 개. 중재 절차가 개정됐어요.
+LOTTE: Ze corrigeerden zichzelf. ||| 스스로 고쳤군요.
+JOOST: Dat is het zeldzaamste wat een instelling kan. ||| 기관이 할 수 있는 가장 드문 일이죠.
+LOTTE: En u? Hebt u zichzelf gecorrigeerd? ||| 그럼 당신은요? 스스로를 고쳤습니까?
+JOOST: Ik heb meer fouten gemaakt dan ik wilde. Ik heb Marloes te lang laten lopen. Ik heb Herman te lang vertrouwd. Ik heb het register te laat bedacht. ||| 원하던 것보다 많은 실수를 했습니다. 마를로스를 너무 오래 놔뒀고 헤르만을 너무 오래 믿었고 등록부를 너무 늦게 생각해 냈죠.
+LOTTE: Dat is veel eerlijkheid voor een diplomaat. ||| 외교관치고는 정직함이 많네요.
+JOOST: Ik heb de gewoonte het hardop te zeggen. ||| 소리 내어 말하는 버릇이 있어서요.
+LOTTE: En het kost u iets. ||| 그리고 대가가 있고요.
+JOOST: Vertrouwen. Een deel ervan. Mensen zeggen dat Nederland als gastheer niet meer dezelfde is. ||| 신뢰요. 그 일부를요. 사람들은 개최국 네덜란드가 더는 같지 않다고 하죠.
+LOTTE: Dat klopt ook. Het is geloofwaardiger. ||| 사실이기도 해요. 더 신뢰할 만해졌죠.
+JOOST: Dat is een merkwaardige formulering. ||| 이상한 표현이군요.
+LOTTE: Vertrouwen dat geen schade heeft opgelopen, is niet getest. ||| 상처를 입은 적 없는 신뢰는 시험받지 않은 거예요.
+JOOST: U zou dat op een tegeltje moeten zetten. ||| 타일에 새겨 두셔야겠어요.
+LOTTE: Mijn hond heeft er al een. ||| 우리 개가 벌써 하나 갖고 있죠.
+JOOST: Piet. ||| 피트요.
+LOTTE: Piet. ||| 피트요.
+## 헤르만 — HERMAN
+HERMAN: Je bent gekomen. ||| 왔군.
+JOOST: Ik zei dat ik niet weg was. ||| 떠나지 않았다고 말씀드렸죠.
+HERMAN: Ik had gehoopt dat je het zou onthouden. ||| 기억해 주길 바랐네.
+JOOST: Ik onthoud alles. Dat is mijn probleem. ||| 전부 기억합니다. 제 문제죠.
+HERMAN: Ik heb getuigd bij het Openbaar Ministerie. Drie uur. ||| 검찰에서 증언했네. 세 시간.
+JOOST: Hoe was het? ||| 어땠습니까?
+HERMAN: Ik was nerveus. Ik ben van de oude generatie. Wij zijn bang voor een uniform. ||| 긴장했지. 구세대라서. 제복이 무섭다네.
+JOOST: En daarna? ||| 그 뒤엔요?
+HERMAN: Ik ben naar huis gegaan. En ik heb de eerste nacht in twee jaar goed geslapen. ||| 집에 갔네. 그리고 2년 만에 처음으로 푹 잤지.
+JOOST: Dat is goed. ||| 다행입니다.
+HERMAN: Joost, ik wil je iets vragen. Mag ik nog je oom Herman zijn? ||| 요스트, 하나 청하네. 내가 아직 자네의 헤르만 아저씨일 수 있나?
+JOOST: U bent mijn leraar. Dat is een andere relatie. ||| 선생님은 제 스승입니다. 다른 관계예요.
+HERMAN: Is dat beter of slechter? ||| 더 낫나, 더 나쁜가?
+JOOST: Het is eerlijker. Een oom is iemand die je vergeeft. Een leraar is iemand die je blijft corrigeren. ||| 더 정직합니다. 아저씨는 용서하는 사람이고 스승은 계속 바로잡아 주는 사람이죠.
+HERMAN: Dan wil ik gecorrigeerd worden. ||| 그럼 바로잡힐 수 있게 해 주게.
+JOOST: Dat doe ik graag. ||| 기꺼이요.
+HERMAN: En wil je een kop koffie? ||| 커피 한 잔 하겠나?
+JOOST: Graag. Met melk. ||| 좋습니다. 우유 넣어서요.
+HERMAN: Koffie verkeerd. ||| 코피 페르케르트.
+JOOST: Hoe weet u dat? ||| 어떻게 아세요?
+HERMAN: Je vader dronk het. ||| 자네 아버지가 마셨지.
++ hervorming = 개혁
++ integriteitsfunctionaris = 청렴 책임관(작중 직위). 기관의 윤리·독립성을 감시
++ herbenoembaar = 재임명이 가능한
++ jaarverslag = 연차 보고서
++ Quis custodiet ipsos custodes = 파수꾼은 누가 지키는가(로마 풍자시인 유베날리스에서 온 문장)
++ Ridderzaal = 리더르잘(기사의 전당). 헤이그 비넨호프에 있는 건물. 1907년 제2차 평화회의가 열린 곳
++ kraken = 삐걱거리다
++ geloofwaardig = 신뢰할 만한
++ getest = 시험받은
++ tegeltje = (속담을 새긴) 작은 타일 장식
+## 정원의 노르 — NOOR IN DE TUIN
+NOOR: Pap! Ik mocht binnen. De meneer bij de poort kende je naam. ||| 아빠! 들어올 수 있었어요. 정문 아저씨가 아빠 이름을 알더라고요.
+JOOST: Meneer Zandstra. Hij kent iedereen. Hoe was school? ||| 잔드스트라 씨야. 모든 사람을 알지. 학교는 어땠니?
+NOOR: Goed. Ik heb een vraag. Staat het register nu online? ||| 좋았어요. 질문이 있어요. 등록부는 지금 온라인에 올라 있어요?
+JOOST: Sinds vanochtend. Waarom? ||| 오늘 아침부터. 왜?
+NOOR: Ik heb gekeken. Er staan al zesendertig namen in. Arbiters, griffiers. Ook de bibliothecaris. ||| 봤어요. 벌써 서른여섯 명 이름이 있어요. 중재인, 서기, 사서도요.
+JOOST: En wat vind je ervan? ||| 그래서 어떻게 생각해?
+NOOR: Dat het er een beetje naakt uitziet. ||| 좀 벌거벗은 것 같아요.
+JOOST: Dat is de bedoeling. ||| 그게 의도야.
+NOOR: Maar het is ook mooi. Het lijkt op een kerkboek. Waar iedereen staat die is gedoopt. ||| 하지만 예쁘기도 해요. 세례받은 사람이 다 적힌 교회 장부 같아요.
+JOOST: Een mooie vergelijking. Maar het is eerder een vrachtbrief. Wat komt er binnen, van wie. ||| 멋진 비유구나. 하지만 오히려 운송장에 가까워. 무엇이 들어오는지, 누구에게서인지.
+NOOR: Pap, staat er een naam in van jou? ||| 아빠, 아빠 이름도 있어요?
+JOOST: Nee. Ik ben geen lid van het Hof. ||| 아니. 나는 재판소 구성원이 아니니까.
+NOOR: Mag ik het dan opschrijven? Iets dat jij hebt ontvangen? ||| 그럼 제가 적을까요? 아빠가 받은 걸요?
+JOOST: Wat heb ik ontvangen? ||| 내가 뭘 받았는데?
+NOOR: Een stropdas van mij. Voor je verjaardag. Hij kost achttien euro. Van mijn zakgeld. ||| 제가 드린 넥타이요. 생일 선물로요. 18유로예요. 용돈으로 샀어요.
+JOOST: En jij wilt dat in het register zetten. ||| 그걸 등록부에 올리고 싶다고?
+NOOR: Als grap. Maar ook niet. ||| 농담으로요. 하지만 아니기도 해요.
+JOOST: Het is een mooi idee. Het register is voor betalingen aan leden van het Hof. Maar ik schrijf het in mijn eigen boekje. ||| 좋은 생각이야. 등록부는 재판소 구성원에 대한 지급용이지만 나는 내 수첩에 적을게.
+NOOR: Met mijn naam erbij. ||| 제 이름과 함께요.
+JOOST: Met jouw naam. «Achttien euro. Van Noor. Voor een stropdas. Met liefde». ||| 네 이름과 함께. '18유로. 노르가. 넥타이 값. 사랑으로.'
+NOOR: Dat laatste hoeft niet. ||| 마지막은 안 써도 돼요.
+JOOST: Het hoeft niet. Het mag. ||| 안 써도 되지만 써도 되지.
+## 카랑의 소식 — KARTIKA
+KARTIKA: Meneer Hartog, mag ik u een minuut spreken? ||| 하르토흐 씨, 잠깐 이야기할 수 있을까요?
+JOOST: Mevrouw Kartika. Gefeliciteerd met het akkoord. ||| 카르티카 대리인. 합의를 축하합니다.
+KARTIKA: Het is geen akkoord. Het is een begin. Maar dank u. ||| 합의가 아니라 시작이죠. 하지만 감사합니다.
+JOOST: Wat kan ik voor u doen? ||| 무엇을 도와 드릴까요?
+KARTIKA: Niets. Ik wil u iets vertellen. Het gaat niet over deze zaak. ||| 없습니다. 말씀드릴 게 있어요. 이 사건과는 상관없는 일입니다.
+JOOST: Zegt u het maar. ||| 하세요.
+KARTIKA: In mijn land is een wet in voorbereiding. Een tol op de Karangstraat. Voor alle schepen. Per container. ||| 우리나라에서 법이 준비되고 있어요. 카랑 해협 통행료. 모든 배에, 컨테이너당으로요.
+JOOST: Een tol. ||| 통행료요.
+KARTIKA: Een regeringsbesluit. Over zes weken. Mijn minister heeft me gevraagd er niet over te praten. Ik doe het toch. ||| 정부 결정이에요. 6주 뒤. 장관이 말하지 말라고 했지만 저는 합니다.
+JOOST: Waarom? ||| 왜죠?
+KARTIKA: Omdat u de eerste man bent die mij niet probeerde te kopen. ||| 저를 사려고 하지 않은 첫 남자라서요.
+JOOST: Dat is een eigenaardig compliment. ||| 묘한 칭찬이군요.
+KARTIKA: Het is de enige die ik heb. En omdat het een zaak is waar de Nederlandse schepen, uw schepen, het eerst door worden getroffen. ||| 제게 있는 유일한 칭찬입니다. 그리고 가장 먼저 영향을 받는 게 네덜란드 배, 당신 나라 배니까요.
+JOOST: De Rotterdamse containervloot. ||| 로테르담 컨테이너 선단이군요.
+KARTIKA: Ja. ||| 네.
+JOOST: Dank u. Ik zal het gebruiken. ||| 감사합니다. 쓰겠습니다.
+KARTIKA: U mag mij niet noemen. ||| 제 이름은 언급하시면 안 됩니다.
+JOOST: Dat zal ik niet doen. ||| 하지 않겠습니다.
+KARTIKA: Een laatste raad. Zoek de kaarten. Bij ons is het niet de wet. Het is een kaart. Een oude. ||| 마지막 조언입니다. 지도를 찾으세요. 우리 쪽에서는 법이 아니라 지도예요. 오래된 지도요.
+JOOST: Een kaart. ||| 지도요.
+KARTIKA: Een kaart van de zeventiende eeuw. Mijn minister is er verliefd op. ||| 17세기 지도예요. 장관이 사랑에 빠져 있죠.
+JOOST: Dank u. ||| 감사합니다.
+## 경비실 — DE PORTIERSLOGE
+ZANDSTRA: Meneer Hartog, kijk. Ik heb de laatste kolom ingevuld. ||| 하르토흐 씨, 보세요. 마지막 칸을 채웠습니다.
+JOOST: «Vertrek. 17.10. L. Wijnaendts». ||| '퇴장. 17시 10분. L. 바이나엔츠'.
+ZANDSTRA: Eindelijk een regel die klopt. Veertig jaar heb ik gewacht op een boek zonder lege kolommen. ||| 마침내 맞는 줄이에요. 40년을 빈 칸 없는 장부를 기다렸습니다.
+JOOST: En is het gelukt? ||| 이뤄졌습니까?
+ZANDSTRA: Voor één dag. Morgen komt een nieuwe leeg vakje. ||| 하루 동안은요. 내일이면 새 빈칸이 생기겠죠.
+JOOST: Dat is het leven van een gastenboek. ||| 방명록의 삶이로군요.
+ZANDSTRA: Meneer Hartog, mag ik u iets zeggen? ||| 하르토흐 씨, 한마디 해도 될까요?
+JOOST: Altijd. ||| 언제든지요.
+ZANDSTRA: U hebt dit paleis een nieuwe lamp gegeven. Niet de verlichting. De andere. ||| 이 궁전에 새 램프를 주셨습니다. 조명이 아니라 다른 램프요.
+JOOST: Welke? ||| 어떤 램프요?
+ZANDSTRA: Die waardoor iedereen elkaar kan zien. ||| 모두가 서로를 볼 수 있게 하는 램프요.
+JOOST: Dat is een mooi compliment. Ik heb het niet alleen gedaan. ||| 멋진 칭찬이네요. 혼자 한 게 아닙니다.
+ZANDSTRA: Dat zegt u altijd. ||| 늘 그렇게 말씀하시죠.
+JOOST: Omdat het waar is. Een dijk is een afspraak. ||| 사실이니까요. 제방은 약속입니다.
+ZANDSTRA: En een paleis? ||| 그럼 궁전은요?
+JOOST: Een paleis is een afspraak die iedereen kan lezen. ||| 궁전은 모두가 읽을 수 있는 약속이죠.
+ZANDSTRA: Dat is mooi. Dat zet ik in het boek. ||| 멋지군요. 장부에 적겠습니다.
+JOOST: Met mijn naam? ||| 제 이름과 함께요?
+ZANDSTRA: Met uw naam. En de tijd. ||| 이름과 시각도요.
++ vrachtbrief = 운송장
++ gedoopt = 세례받은
++ naakt = 벌거벗은
++ een tol = 통행료. 'tol heffen'은 통행료를 걷다
++ regeringsbesluit = 정부 결정
++ eigenaardig = 묘한, 독특한
++ verliefd op = ~에 빠진, 푹 빠진
++ zakgeld = 용돈
++ lege kolom / vakje = 빈 칸
++ een afspraak die iedereen kan lezen = 모두가 읽을 수 있는 약속(2부의 결론 문장)

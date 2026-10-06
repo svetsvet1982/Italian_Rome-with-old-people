@@ -1,0 +1,95 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 12
+@title Rechters en wachters
+@ko 재판관과 파수꾼
+@setting 2주 뒤 평화궁 행정 이사회 · 정원 · 헤르만의 배 · 저녁 경비실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast RADEMAKER | 상설중재재판소 사무총장, 58세
+@cast LOTTE | 중재인 로테 바이나엔츠, 54세
+@cast KARTIKA | 카랑 대리인, 48세
+@cast HERMAN | 은퇴 대사, 70세
+@cast NOOR | 요스트의 딸, 16세
+@cast ZANDSTRA | 평화궁 경비원, 60세
+@note 2부의 마지막 화입니다. 개혁안이 채택되고 새 재판부가 확정되지만, 요스트는 '중립의 대가'로 신뢰를 일부 잃습니다. 결론은 '재판관을 지키는 파수꾼이 필요하다'(Quis custodiet ipsos custodes?)이며, 파수꾼도 눈에 보여야 합니다. 역사 논거는 1907년 제2차 헤이그 평화회의: 1899년에 시작한 것을 8년 뒤 스스로 고치러 모인 선례입니다. 어휘는 제도 개혁(hervorming, toezichthouder, integriteitsfunctionaris, jaarverslag)과 결산·성찰 표현에 주목하세요.
+@next 3부 1화 — «Het geblokkeerde vaarwater»(막힌 항로) — 카랑 해협국이 통행료를 신설해 로테르담 컨테이너 선단이 해협 입구에서 대기합니다. 선장의 한마디: '항로는 땅이 아니라 약속이다.'
+
+## 개혁안 — HET HERVORMINGSPAKKET
+RADEMAKER: Dames en heren, de Administratieve Raad heeft het hervormingspakket vastgesteld. Ik lees de kern voor. ||| 여러분, 행정 이사회가 개혁안을 확정했습니다. 핵심을 읽겠습니다.
+RADEMAKER: «Eén. Een openbaar register voor alle betalingen uit privébron aan leden en medewerkers van het Hof. Twee. Een onafhankelijke integriteitsfunctionaris, benoemd voor zes jaar, niet herbenoembaar, met een eigen budget. Drie. Elk jaar een jaarverslag over integriteit, hardop gepresenteerd in de Grote Rechtszaal. Vier. Alle benoemingen van arbiters en griffiers volgen de procedure van de verklaring». ||| "하나, 재판소 구성원과 직원에 대한 모든 민간 출처 지급의 공개 등록부. 둘, 임기 6년에 재임명이 불가능하고 독자 예산을 가진 독립 청렴 책임관. 셋, 매년 청렴 연차 보고서를 큰 재판정에서 소리 내어 발표. 넷, 중재인과 서기의 모든 임명은 진술서 절차를 따른다."
+KARTIKA: Wie benoemt de integriteitsfunctionaris? ||| 청렴 책임관은 누가 임명합니까?
+RADEMAKER: De Administratieve Raad, op voordracht van een commissie van drie: een voormalig rechter, een voormalig journalist en een voormalig griffier. ||| 행정 이사회가 전직 판사, 전직 기자, 전직 서기로 이루어진 세 사람 위원회의 추천으로 임명합니다.
+KARTIKA: En wie controleert hen? ||| 그들은 누가 감시합니까?
+RADEMAKER: Dat is de vraag die de Romeinen stelden. ||| 로마인들이 던진 질문이죠.
+LOTTE: Quis custodiet ipsos custodes. Wie bewaakt de bewakers? ||| 키스 쿠스토디에트 입소스 쿠스토데스. 파수꾼은 누가 지키는가.
+JOOST: Mag ik een antwoord voorstellen? ||| 답을 제안해도 될까요?
+RADEMAKER: Graag. ||| 부탁합니다.
+JOOST: Niemand. Maar iedereen kijkt. De wachter staat in het licht. Hij is de enige in het paleis die elke dag een verslag moet publiceren, ook van zijn eigen fouten. ||| 아무도요. 하지만 모두가 봅니다. 파수꾼은 불빛 속에 서 있어요. 궁전에서 매일 보고서를 공개해야 하는 유일한 사람이고 자기 실수도 포함해서요.
+KARTIKA: Dat is een gevaarlijke baan. ||| 위험한 직업이군요.
+JOOST: Het is de enige baan waarvoor je na zes jaar niet mag blijven. ||| 6년 뒤에 남아 있을 수 없는 유일한 직업이죠.
+KARTIKA: Zodat niemand er comfortabel in wordt. ||| 누구도 편안해지지 않도록요.
+JOOST: Precies. ||| 맞습니다.
+RADEMAKER: Dan het vijfde punt. De samenstelling van het tribunaal in de zaak Zuid-Marinde tegen Karang. De partijen hebben akkoord bereikt over de volgende leden: voorzitter, professor Ingrid Solheim uit Oslo. Leden: mevrouw Wijnaendts en de heer Okafor. ||| 다섯째 항목입니다. 남마린데 대 카랑 사건의 재판부 구성입니다. 양 당사자가 다음 구성원에 합의했습니다. 의장 오슬로의 잉그리드 솔하임 교수. 위원 바이나엔츠 박사와 오카포르 씨.
+LOTTE: Ik ben tevreden. ||| 만족합니다.
+OKAFOR: En ik ben dankbaar. ||| 감사합니다.
+KARTIKA: Karang is akkoord. ||| 카랑은 동의합니다.
+FERREIRA: Zuid-Marinde is akkoord. ||| 남마린데도 동의합니다.
+RADEMAKER: De zitting wordt hervat op de tiende september. ||| 심리는 9월 10일에 재개됩니다.
+## 1907 — DE TWEEDE CONFERENTIE
+LOTTE: Meneer Hartog, kan ik u even spreken in de tuin? ||| 하르토흐 씨, 정원에서 잠깐 이야기할 수 있을까요?
+JOOST: Natuurlijk. ||| 물론이죠.
+LOTTE: Wat vindt u van de hervorming? ||| 개혁안을 어떻게 보시나요?
+JOOST: Dat het goed is. En dat het niet genoeg is. ||| 좋은 일이고 충분하지는 않다고 봅니다.
+LOTTE: Zo denk ik er ook over. ||| 저도 그렇게 생각해요.
+JOOST: Weet u wat ik denk aan? Aan 1907. De Tweede Vredesconferentie. Hier. In de Ridderzaal. ||| 1907년이 떠오릅니다. 제2차 평화회의요. 여기 리더르잘에서요.
+LOTTE: Waar de landen terugkwamen. ||| 나라들이 돌아왔던 곳이죠.
+JOOST: Acht jaar na de eerste. De eerste had een stoel gebouwd. De tweede kwam terug om te zien waar hij kraakte. Dertien conventies. De procedure van de arbitrage werd herzien. ||| 첫 회의 8년 뒤였죠. 첫 회의가 의자를 지었다면 두 번째는 의자가 어디서 삐걱대는지 보러 돌아왔습니다. 협약 열세 개. 중재 절차가 개정됐어요.
+LOTTE: Ze corrigeerden zichzelf. ||| 스스로 고쳤군요.
+JOOST: Dat is het zeldzaamste wat een instelling kan. ||| 기관이 할 수 있는 가장 드문 일이죠.
+LOTTE: En u? Hebt u zichzelf gecorrigeerd? ||| 그럼 당신은요? 스스로를 고쳤습니까?
+JOOST: Ik heb meer fouten gemaakt dan ik wilde. Ik heb Marloes te lang laten lopen. Ik heb Herman te lang vertrouwd. Ik heb het register te laat bedacht. ||| 원하던 것보다 많은 실수를 했습니다. 마를로스를 너무 오래 놔뒀고 헤르만을 너무 오래 믿었고 등록부를 너무 늦게 생각해 냈죠.
+LOTTE: Dat is veel eerlijkheid voor een diplomaat. ||| 외교관치고는 정직함이 많네요.
+JOOST: Ik heb de gewoonte het hardop te zeggen. ||| 소리 내어 말하는 버릇이 있어서요.
+LOTTE: En het kost u iets. ||| 그리고 대가가 있고요.
+JOOST: Vertrouwen. Een deel ervan. Mensen zeggen dat Nederland als gastheer niet meer dezelfde is. ||| 신뢰요. 그 일부를요. 사람들은 개최국 네덜란드가 더는 같지 않다고 하죠.
+LOTTE: Dat klopt ook. Het is geloofwaardiger. ||| 사실이기도 해요. 더 신뢰할 만해졌죠.
+JOOST: Dat is een merkwaardige formulering. ||| 이상한 표현이군요.
+LOTTE: Vertrouwen dat geen schade heeft opgelopen, is niet getest. ||| 상처를 입은 적 없는 신뢰는 시험받지 않은 거예요.
+JOOST: U zou dat op een tegeltje moeten zetten. ||| 타일에 새겨 두셔야겠어요.
+LOTTE: Mijn hond heeft er al een. ||| 우리 개가 벌써 하나 갖고 있죠.
+JOOST: Piet. ||| 피트요.
+LOTTE: Piet. ||| 피트요.
+## 헤르만 — HERMAN
+HERMAN: Je bent gekomen. ||| 왔군.
+JOOST: Ik zei dat ik niet weg was. ||| 떠나지 않았다고 말씀드렸죠.
+HERMAN: Ik had gehoopt dat je het zou onthouden. ||| 기억해 주길 바랐네.
+JOOST: Ik onthoud alles. Dat is mijn probleem. ||| 전부 기억합니다. 제 문제죠.
+HERMAN: Ik heb getuigd bij het Openbaar Ministerie. Drie uur. ||| 검찰에서 증언했네. 세 시간.
+JOOST: Hoe was het? ||| 어땠습니까?
+HERMAN: Ik was nerveus. Ik ben van de oude generatie. Wij zijn bang voor een uniform. ||| 긴장했지. 구세대라서. 제복이 무섭다네.
+JOOST: En daarna? ||| 그 뒤엔요?
+HERMAN: Ik ben naar huis gegaan. En ik heb de eerste nacht in twee jaar goed geslapen. ||| 집에 갔네. 그리고 2년 만에 처음으로 푹 잤지.
+JOOST: Dat is goed. ||| 다행입니다.
+HERMAN: Joost, ik wil je iets vragen. Mag ik nog je oom Herman zijn? ||| 요스트, 하나 청하네. 내가 아직 자네의 헤르만 아저씨일 수 있나?
+JOOST: U bent mijn leraar. Dat is een andere relatie. ||| 선생님은 제 스승입니다. 다른 관계예요.
+HERMAN: Is dat beter of slechter? ||| 더 낫나, 더 나쁜가?
+JOOST: Het is eerlijker. Een oom is iemand die je vergeeft. Een leraar is iemand die je blijft corrigeren. ||| 더 정직합니다. 아저씨는 용서하는 사람이고 스승은 계속 바로잡아 주는 사람이죠.
+HERMAN: Dan wil ik gecorrigeerd worden. ||| 그럼 바로잡힐 수 있게 해 주게.
+JOOST: Dat doe ik graag. ||| 기꺼이요.
+HERMAN: En wil je een kop koffie? ||| 커피 한 잔 하겠나?
+JOOST: Graag. Met melk. ||| 좋습니다. 우유 넣어서요.
+HERMAN: Koffie verkeerd. ||| 코피 페르케르트.
+JOOST: Hoe weet u dat? ||| 어떻게 아세요?
+HERMAN: Je vader dronk het. ||| 자네 아버지가 마셨지.
++ hervorming = 개혁
++ integriteitsfunctionaris = 청렴 책임관(작중 직위). 기관의 윤리·독립성을 감시
++ herbenoembaar = 재임명이 가능한
++ jaarverslag = 연차 보고서
++ Quis custodiet ipsos custodes = 파수꾼은 누가 지키는가(로마 풍자시인 유베날리스에서 온 문장)
++ Ridderzaal = 리더르잘(기사의 전당). 헤이그 비넨호프에 있는 건물. 1907년 제2차 평화회의가 열린 곳
++ kraken = 삐걱거리다
++ geloofwaardig = 신뢰할 만한
++ getest = 시험받은
++ tegeltje = (속담을 새긴) 작은 타일 장식
