@@ -1,0 +1,81 @@
+## 장부를 구간별로 읽다 — LEER POR ETAPAS
+BELTRÁN: Por etapas. ¿Qué significa eso? ||| 구간별로라니, 무슨 뜻입니까?
+ÁLVARO: Diputado, ¿conoce el Camino Español? ||| 의원님, 스페인 가도를 아십니까?
+BELTRÁN: Algo. La ruta por la que iban los tercios a Flandes. ||| 조금요. 테르시오 부대가 플랑드르로 가던 길이죠.
+ÁLVARO: Eso. Desde mil quinientos sesenta y siete, cuando el duque de Alba marchó con diez mil hombres desde Milán hasta Bruselas. Unos mil kilómetros. Por Saboya, el Franco Condado y Lorena. ||| 그렇습니다. 1567년 알바 공작이 1만 명을 이끌고 밀라노에서 브뤼셀까지 행군한 길이죠. 약 1천 킬로미터. 사보이아, 프랑슈콩테, 로렌을 지났습니다.
+LIIS: Es una ruta famosa en las escuelas de Estonia. Los suecos lo estudiaban para sus propias campañas. ||| 에스토니아 학교에서도 유명한 길이에요. 스웨덴 사람들이 자기 원정을 위해 연구했죠.
+ÁLVARO: Y la clave era la etapa. Cada jornada, una localidad concreta tenía la obligación de alojar y alimentar a los soldados. Y cada etapa llevaba su registro: cuánto pan, cuántas camas, cuánto vino, quién lo había entregado y quién lo había recibido. ||| 그리고 핵심은 구간(에타파)이었습니다. 하루 행군마다 정해진 마을이 병사들을 재우고 먹일 의무를 졌습니다. 구간마다 기록이 있었죠. 빵이 얼마, 침대가 몇 개, 포도주가 얼마, 누가 내주고 누가 받았는지.
+REBECA: Para que nadie se llevara más de lo debido. ||| 아무도 규정 이상을 가져가지 못하도록요.
+ÁLVARO: Y para que, si faltaba algo, se supiera en qué etapa había desaparecido. No «dónde está el problema», sino «entre qué dos etapas». ||| 그리고 뭔가 모자라면 어느 구간에서 사라졌는지 알 수 있도록요. '문제가 어디에 있는가'가 아니라 '어느 두 구간 사이인가'를 묻는 거죠.
+LIIS: Eso es lo que hago yo. No miro si hay una mentira. Miro dónde se rompe la cadena. ||| 제가 하는 일이 그거예요. 거짓말이 있는지는 안 봐요. 사슬이 어디서 끊어지는지를 봅니다.
+BELTRÁN: Muy bien, pero ¿qué cadena? ||| 좋습니다만 무슨 사슬입니까?
+ÁLVARO: La de los barriles de Punta Sal. Strand nos dejó una pista, así que sigamos sus pasos. Liis, ¿puede buscar un consignatario llamado «Meridian Holdings»? ||| 푼타 살 통들의 사슬입니다. 스트란드가 단서를 남겼으니 그의 발자취를 따라가죠. 리스, '메리디언 홀딩스'라는 수하인을 찾아 주시겠어요?
+LIIS: Meridian. Aquí está. Tres entradas en ocho años. ¿Quiere las fechas? ||| 메리디언. 여기 있네요. 8년간 세 건이에요. 날짜가 필요하세요?
+ÁLVARO: Las tres, por favor. En voz alta. ||| 세 건 다 부탁합니다. 소리 내어 읽어 주세요.
+LIIS: «Doce de marzo, hace ocho años. Doce barriles. Origen: Punta Sal. Concepto: sal industrial. Peso declarado: tres mil doscientos kilos. Peso medido en báscula: tres mil novecientos cuarenta. Consignatario: Meridian Holdings, Limassol». ||| 「8년 전 3월 12일. 통 열두 개. 출발지: 푼타 살. 명목: 공업용 소금. 신고 중량: 3,200킬로그램. 계량대 측정: 3,940킬로그램. 수하인: 메리디언 홀딩스, 리마솔.」
+ÁLVARO: Setecientos kilos de diferencia. ||| 700킬로그램 차이군요.
+LIIS: No es sal. La sal no pesa más que su volumen. Es una salmuera concentrada, con otra densidad. ||| 소금이 아니죠. 소금은 부피보다 무겁지 않아요. 농축된 염수라 밀도가 다릅니다.
+REBECA: Lo que Strand llamaba «una salmuera con litio». ||| 스트란드가 말한 '리튬이 든 염수'네요.
+BELTRÁN: ¿Hace ocho años? Eso es anterior a la fecha en que Boreal dice haber descubierto el litio. ||| 8년 전이요? 보레알이 리튬을 발견했다고 말하는 시기보다 앞서잖습니까.
+ÁLVARO: Cinco años antes. Y a quien muestran un estudio geológico «descubierto hace tres años», le conviene que nadie lea esta página. ||| 5년이나 앞섭니다. '3년 전 발견'한 지질 조사를 내세운 사람에게는 아무도 이 쪽을 읽지 않는 편이 낫겠죠.
+LIIS: Segunda entrada. «Cinco de octubre, hace seis años. Veinticuatro barriles. Mismo origen. Mismo consignatario. Esta vez, con acompañante. Firma de recepción: I. Sandell». ||| 「둘째 건. 6년 전 10월 5일. 통 스물네 개. 같은 출발지. 같은 수하인. 이번에는 동행자와 함께. 수령 서명: I. 산델.」
+REBECA: «Con acompañante». ||| '동행자와 함께'.
+LIIS: Es una nota que yo ponía cuando alguien llegaba con el cargamento, y no solo con los papeles. Hay otra letra al margen. No es mía. ||| 서류만이 아니라 화물과 함께 누가 오면 제가 적던 메모예요. 여백에 다른 필체가 있어요. 제 것이 아니에요.
+ÁLVARO: ¿Qué dice? ||| 뭐라고 쓰여 있나요?
+LIIS: «Siguiente etapa: Naissaar». ||| '다음 구간: 나이사르'.
+BELTRÁN: ¿Qué es Naissaar? ||| 나이사르가 뭡니까?
+LIIS: Una isla. A quince kilómetros al norte de Tallin. Un cuartel soviético abandonado, con minas submarinas oxidadas. Hoy casi nadie va. ||| 섬이에요. 탈린 북쪽 15킬로미터. 버려진 소련군 병영과 녹슨 기뢰가 있는 곳이죠. 요즘은 거의 아무도 가지 않아요.
+REBECA: «Siguiente etapa». La letra de mi hermano. ||| '다음 구간'. 오빠의 필체야.
+ÁLVARO: ¿Y la tercera entrada? ||| 셋째 건은요?
+LIIS: «Hace tres semanas. Seis barriles vacíos. Origen: Naissaar. Destino: Punta Sal». ||| 「3주 전. 빈 통 여섯 개. 출발지: 나이사르. 목적지: 푼타 살.」
+BELTRÁN: ¿Vacíos? ||| 비어 있다고요?
+ÁLVARO: Se están llevando los barriles de vuelta para devolverlos al sitio de origen. Para que parezca que nunca se movieron. ||| 통을 원래 자리로 돌려놓는 겁니다. 한 번도 움직이지 않은 것처럼 보이게요.
+REBECA: Están borrando la cadena. ||| 사슬을 지우고 있어요.
+ÁLVARO: Eso significa dos cosas. Que tienen prisa. Y que lo que hay en Naissaar es importante. ||| 두 가지를 뜻합니다. 서두르고 있다는 것, 그리고 나이사르에 있는 게 중요하다는 것.
+LIIS: Si quieren, les hago una copia certificada. Es un documento del puerto, y desde hace cinco años puede consultarse. ||| 원하시면 인증 사본을 만들어 드릴게요. 항만 문서이고 5년이 지나 열람할 수 있습니다.
+BELTRÁN: ¿Y eso es legal? ||| 합법입니까?
+LIIS: Es completamente legal. Es una ley que escribí yo, de hecho, cuando era joven. Con un pequeño comité. ||| 완전히 합법이에요. 사실 제가 젊을 때 작은 위원회와 함께 쓴 법이죠.
+BELTRÁN: Señora Tamm, usted es una funcionaria extraordinaria. ||| 탐 씨, 당신은 대단한 공무원이십니다.
+LIIS: Soy una persona que lleva treinta años esperando que alguien lea esta página. ||| 저는 30년 동안 누군가 이 쪽을 읽어 주길 기다린 사람이에요.
+## 호텔 — EL HOTEL
+BELTRÁN: Quintana, he hablado con Calvo. Dice que un abogado del Estado llegará mañana a las seis de la mañana. ||| 킨타나 씨, 칼보 위원장과 통화했습니다. 내일 새벽 여섯 시에 국가 변호사가 도착한답니다.
+ÁLVARO: ¿Quién? ||| 누굽니까?
+BELTRÁN: Una mujer llamada Pilar Gil. No la conozco. Pero Calvo responde por ella. ||| 필라르 힐이라는 여성입니다. 모르는 사람이지만 칼보 위원장이 보증합니다.
+ÁLVARO: Bien. Hay que dejar todo escrito. Si mañana ocurre algo, quiero que haya un testigo con título. ||| 좋습니다. 모든 걸 기록해 둬야 합니다. 내일 무슨 일이 생기면 자격을 가진 증인이 필요하니까요.
+BELTRÁN: Señor Quintana, una pregunta personal. ¿Por qué hace esto? Usted ya está en Mongolia. Tiene una embajada. Podría desaparecer. ||| 킨타나 씨, 개인적인 질문입니다. 왜 이러십니까? 이미 몽골에 있고 대사관도 있습니다. 사라질 수도 있었잖습니까.
+ÁLVARO: Porque hay una deuda. ||| 빚이 있어서입니다.
+BELTRÁN: ¿Con quién? ||| 누구에게요?
+ÁLVARO: Con la mujer que está en el pasillo mirando un sobre sin abrir. ||| 복도에서 열지 않은 봉투를 보고 있는 여자에게요.
+BELTRÁN: ¿Por qué se lo debe? ||| 왜 빚이 있습니까?
+ÁLVARO: Porque hace tres años, cuando todo esto empezó, alguien me sacó de un problema que a mí no me costó nada y a ella, mucho. Y desde entonces llevo la cuenta. ||| 3년 전 이 모든 일이 시작됐을 때 누군가 저를 곤경에서 꺼내 줬는데, 제게는 아무 비용도 없었고 그녀에게는 큰 비용이 들었습니다. 그 뒤로 계산을 하고 있죠.
+BELTRÁN: Es una deuda honorable. ||| 명예로운 빚이군요.
+ÁLVARO: Es una deuda. El honor es opcional. ||| 빚일 뿐입니다. 명예는 선택 사항이고요.
+REBECA: Ya lo he abierto. ||| 열어 봤어.
+ÁLVARO: ¿Qué hay? ||| 뭐가 있어?
+REBECA: Una fotografía nuestra de cuando éramos niños. En la playa de Barbate. Una llave pequeña. Y una nota. ||| 어렸을 때 우리 사진. 바르바테 해변에서. 작은 열쇠 하나. 그리고 쪽지.
+ÁLVARO: ¿Qué dice la nota? ||| 쪽지에는 뭐라고 쓰여 있어?
+REBECA: «Rebe. Seguramente Strand te ofrecerá el mundo a cambio de que yo no hable. No lo aceptes gratis. Pide la gracia, el plazo. Hay un viejo trato: el que confiesa a tiempo no paga la pena entera. Me lo enseñó un tipo en Valencia. Ivar». ||| '레베. 아마 스트란드는 내가 입을 다무는 대가로 온 세상을 제안할 거야. 공짜로 받지 마. 은혜를, 유예 기간을 요구해. 오래된 거래가 있어. 제때 자백하는 사람은 형벌을 온전히 받지 않아. 발렌시아의 어떤 사람이 알려 줬어. 이바르'.
+ÁLVARO: «Pide la gracia». El edicto de gracia. ||| '은혜를 요구해'. 은혜 칙령이로군.
+REBECA: ¿Qué es eso? ||| 그게 뭐야?
+ÁLVARO: Un mecanismo que usaron los Reyes Católicos en mil cuatrocientos ochenta y uno. Concedía a los acusados un plazo de treinta días para presentarse por su cuenta y confesar, con una pena menor. Fue un instrumento terrible en manos de la Inquisición. Pero el mecanismo, el plazo, es útil si se usa para otra cosa. ||| 가톨릭 부부왕이 1481년에 쓴 장치야. 피고들에게 스스로 나와 자백할 30일의 기간을 주고 형을 가볍게 해 줬지. 종교재판소의 손에서는 끔찍한 도구였어. 하지만 그 장치, 즉 유예 기간은 다른 용도로 쓰면 쓸모 있어.
+REBECA: ¿Para qué? ||| 어디에 쓰는데?
+ÁLVARO: Para que los empleados de Boreal que saben, y que tienen miedo, puedan hablar antes de que alguien les obligue. Con una protección escrita. ||| 사정을 알면서도 두려워하는 보레알 직원들이 누가 강요하기 전에 말할 수 있게 하는 거야. 서면 보호를 걸고.
+REBECA: Mi hermano lo pide. ||| 오빠가 그걸 요구하는 거네.
+ÁLVARO: Tu hermano lo pide desde hace ocho años. Mañana se lo vamos a poner delante de la cara. ||| 네 오빠는 8년 전부터 요구해 왔어. 내일 얼굴 앞에 놓아 줄 거야.
+REBECA: ¿Y la llave pequeña? ||| 이 작은 열쇠는?
+ÁLVARO: Dime si hay algo grabado. ||| 새겨진 게 있나 봐 줘.
+REBECA: «N-9». Naissaar. Nueve. ||| 'N-9'. 나이사르. 아홉.
+ÁLVARO: Es de un cajón. Un cajón de los que se cierran con llave. Mañana, en la isla, lo abriremos delante de testigos. ||| 서랍 열쇠야. 열쇠로 잠그는 서랍. 내일 섬에서 증인들 앞에서 열자.
+REBECA: ¿Tienes miedo? ||| 무서워?
+ÁLVARO: Tengo un cuaderno. Y una cuenta que saldar. Es un buen sustituto. ||| 수첩이 있고 갚을 계산이 있어. 좋은 대용품이지.
+REBECA: Gracias, Álvaro. ||| 고마워, 알바로.
+ÁLVARO: No me des las gracias. Dime mañana lo que sientas cuando lo veas. ||| 감사하지 마. 내일 그를 봤을 때 느끼는 걸 말해 줘.
++ Camino Español = 스페인 가도. 1567년 이후 밀라노에서 플랑드르로 병력을 보내던 군사 도로
++ etapa = 구간, 숙영지. 행군 하루 단위로 정해진 정류 지점
++ certificar / copia certificada = 인증하다 / 인증 사본
++ salmuera = 염수. 소금물
++ edicto de gracia = 은혜 칙령. 1481년 스페인에서 일정 기간 안에 자백하면 형을 줄여 주던 제도(종교재판소가 썼다)
++ saldar una cuenta = 빚을 청산하다. 'saldar'는 결제하다
++ romperse la cadena = 사슬이 끊어지다. 여기서는 화물 이동 기록이 끊기는 지점
++ abogado del Estado = 국가 변호사. 7화에서 나온 표현의 반복
++ con título = 자격을 갖춘. 전문 자격이 있는 사람

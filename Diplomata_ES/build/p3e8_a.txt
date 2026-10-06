@@ -1,0 +1,98 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 8
+@title El Báltico
+@ko 발트해
+@setting 헬싱키-탈린 페리 → 탈린 항구 9번 부두 → 항만 사무실 → 밤의 호텔
+@level B2-C1
+@cast ÁLVARO | 주몽골 스페인 대사(인도주의 조치 허가 휴가 중), 44세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세
+@cast BELTRÁN | 야당 하원의원, 외교위원회 위원, 52세
+@cast ELSA | 보레알 캐피털 변호사, 38세
+@cast LIIS | 탈린 항만 문서 보관 담당, 63세
+@note 3부 C사건의 두 번째 화이며 '조사'의 화입니다. 폭력도 잠입도 없이, 낡은 물류 장부 한 권을 '구간별'로 읽어 물건과 사람의 이동 경로를 복원합니다. 역사 논거는 펠리페 2세 시대의 '스페인 가도'(Camino Español, 1567년 이후)와 그 구간별 병참 기록(etapas)입니다. 어휘는 물류·통관(manifiesto, conocimiento de embarque, consignatario, tránsito)과 조사 표현에 주목하세요.
+@next 3부 9화 — «La deuda de Iván»(이반의 빚) — 안개 낀 나이사르 섬의 폐 병영. 8년 만에 마주한 오빠와 동생, 그가 증언을 하는 대가로 요구하는 '은혜의 기간', 그리고 알바로가 레베카에게 갚아야 할 빚.
+
+## 페리 — EL FERRI
+BELTRÁN: Quintana, le advierto que soy un hombre desconfiado. Mi oficio lo es. ||| 킨타나 씨, 미리 말해 두지만 저는 의심 많은 사람입니다. 직업이 그렇죠.
+ÁLVARO: Es lo que necesito. Un hombre desconfiado y de la oposición. ||| 제게 필요한 겁니다. 의심 많고 야당 소속인 사람이죠.
+BELTRÁN: ¿Y por qué yo, y no uno de su propio partido? ||| 그런데 왜 접니까? 같은 쪽 사람이 아니라.
+ÁLVARO: Porque si algo sale mal, usted será el primero en decirlo. Y si sale bien, será el primero en que le crean. ||| 일이 잘못되면 가장 먼저 말할 사람이고, 잘되면 가장 먼저 믿음을 얻을 사람이니까요.
+BELTRÁN: Es el halago más extraño que me han hecho. ||| 제가 들은 가장 이상한 칭찬이군요.
+REBECA: Marcos, ¿puedo pedirle algo? Cuando lleguemos, no haga ninguna pregunta al primero que veamos. ||| 마르코스, 부탁 하나 해도 될까요? 도착해서 처음 보는 사람에게는 아무 질문도 하지 마세요.
+BELTRÁN: ¿Por qué? ||| 왜죠?
+REBECA: Porque Strand ha elegido el sitio. Y alguien nos espera. Quiero ver quién antes de que sepa que lo hemos visto. ||| 스트란드가 장소를 골랐고 누군가 우리를 기다리니까요. 그 사람이 우리가 봤다는 걸 알기 전에 누군지 보고 싶어요.
+BELTRÁN: Parece usted de la película. ||| 영화 속 인물 같으시네요.
+REBECA: Soy de la película. Solo que sin música. ||| 영화 속 인물 맞아요. 음악만 없을 뿐이고요.
+ÁLVARO: Rebeca, tienes los nudillos blancos. ||| 레베카, 손마디가 하얘.
+REBECA: Es el frío. ||| 추워서 그래.
+ÁLVARO: En el camarote hay calefacción. ||| 객실엔 난방이 있어.
+REBECA: Es el frío de ocho años, Álvaro. ||| 8년 묵은 추위야, 알바로.
+ÁLVARO: ... Te acompaño en la cubierta. Siempre que no hables. ||| …갑판까지 같이 가 줄게. 말하지 않는다면.
+REBECA: Cállate tú. Es mi hermano. ||| 너나 입 다물어. 내 오빠야.
+ÁLVARO: Lo sé. Por eso estoy aquí. ||| 알아. 그래서 내가 여기 있는 거야.
+## 9번 부두 — EL MUELLE NUEVE
+ÁLVARO: Muelle nueve. Es aquí. ||| 9번 부두. 여기네요.
+BELTRÁN: Pues no hay nadie. Contenedores, una grúa y mucha niebla. ||| 아무도 없는데요. 컨테이너, 크레인, 그리고 안개뿐입니다.
+REBECA: Hay alguien. En el segundo piso de aquel almacén. Una luz. ||| 있어요. 저 창고 2층에 불빛이 있어요.
+ELSA: ¡Señor Quintana! Soy Elsa Berg, de Boreal. Esperen, voy a bajar. ||| 킨타나 씨! 보레알의 엘사 베리입니다. 기다리세요, 내려갈게요.
+ÁLVARO: Señora Berg. Me han hablado de usted en Madrid. ||| 베리 씨. 마드리드에서 말씀 들었습니다.
+ELSA: Espero que bien. Mikael me ha pedido que los reciba. Él no vendrá. Dice que sería «una intromisión». ||| 좋은 말이길 바랍니다. 미카엘이 대신 맞이하라고 했어요. 본인은 안 온대요. '간섭'이 된다면서요.
+ÁLVARO: ¿Y quién nos va a llevar a Sandell? ||| 그럼 누가 산델에게 데려다줍니까?
+ELSA: Mañana a las siete sale un barco pequeño hacia una isla. Un amigo suyo, o algo parecido, le espera allí. ||| 내일 아침 일곱 시에 작은 배가 어느 섬으로 떠납니다. 그의 친구, 비슷한 사람이 거기서 기다리죠.
+REBECA: ¿Qué isla? ||| 어느 섬이요?
+ELSA: Se lo diré mañana. Condiciones del señor Strand. ||| 내일 말씀드리죠. 스트란드 씨의 조건입니다.
+REBECA: Eso no me gusta. ||| 마음에 안 드는군요.
+ELSA: A mí tampoco. Pero es lo que hay. ||| 저도요. 하지만 방법이 없습니다.
+BELTRÁN: Señora Berg, ¿por qué nos trae a un muelle abandonado si el encuentro es mañana en otra parte? ||| 베리 씨, 만남이 내일 다른 곳이라면 왜 버려진 부두로 데려왔습니까?
+ELSA: Porque el señor Strand quería que viesen el sitio. Y porque tengo instrucciones de darles esto. ||| 스트란드 씨가 이곳을 보게 하고 싶어 했고, 이걸 드리라는 지시를 받았거든요.
+ÁLVARO: Una llave. ||| 열쇠군요.
+ELSA: De la oficina del muelle. Dice que dentro hay un libro. Que lo lean si quieren entender. ||| 부두 사무실 열쇠예요. 안에 장부가 한 권 있다더군요. 이해하고 싶으면 읽으라고요.
+REBECA: ¿Un libro? ||| 장부요?
+ELSA: Un libro de tránsito. De los años anteriores. No sé nada más. ||| 과거 연도의 통과 장부요. 저는 더 모릅니다.
+ÁLVARO: ¿Y usted, señora Berg? ¿Sabe lo que va a pasar mañana? ||| 베리 씨, 당신은 내일 무슨 일이 일어날지 아십니까?
+ELSA: ... Sé lo que me han dicho que diga. Y sé lo que yo diría si pudiera. ||| …하라고 지시받은 말은 알아요. 그리고 할 수 있다면 제가 했을 말도 알고요.
+ÁLVARO: ¿Y qué diría? ||| 무슨 말을 하시겠습니까?
+ELSA: Que lean el libro con calma. Y que no tengan prisa. ||| 장부를 차분히 읽으시라고요. 서두르지 말고요.
+BELTRÁN: ¿Una advertencia? ||| 경고입니까?
+ELSA: Un consejo de abogada. Es lo único que soy capaz de dar sin firma. ||| 변호사의 조언이죠. 서명 없이 줄 수 있는 유일한 거예요.
+ÁLVARO: Gracias, señora Berg. Ha sido más útil de lo que cree. ||| 감사합니다, 베리 씨. 생각보다 큰 도움이 됐습니다.
+ELSA: No me dé las gracias. No me lo merezco. Buenas noches. ||| 감사하지 마세요. 그럴 자격이 없어요. 안녕히 가세요.
+## 항만 사무실 — LA OFICINA DEL PUERTO
+LIIS: ¿Quiénes son ustedes? Aquí no se entra después de las seis. ||| 누구시죠? 여섯 시 이후에는 출입할 수 없습니다.
+ÁLVARO: Tenemos una llave. Una persona de Boreal nos la ha dado. ||| 열쇠가 있습니다. 보레알 사람이 줬어요.
+LIIS: ¿Boreal? Qué curioso. Pues me parece muy bien. Pasen. ||| 보레알이요? 흥미롭군요. 그럼 좋습니다. 들어오세요.
+BELTRÁN: ¿Habla usted español? ||| 스페인어를 하십니까?
+LIIS: Estudié filología hispánica en Tartu. En mil novecientos ochenta y nueve. Y acabé contando contenedores en un puerto. La vida tiene un sentido del humor muy peculiar. ||| 1989년 타르투에서 스페인 문헌학을 공부했어요. 그리고 항구에서 컨테이너를 세게 됐죠. 인생은 아주 독특한 유머 감각을 가졌어요.
+ÁLVARO: Álvaro Quintana. Estas son Rebeca Salas y el diputado Beltrán. ||| 알바로 킨타나입니다. 이쪽은 레베카 살라스와 벨트란 의원님입니다.
+LIIS: Yo soy Liis Tamm, archivera del puerto, y la única persona que aún escribe a mano. ||| 저는 리스 탐, 항만 문서 보관 담당이고 아직도 손으로 쓰는 유일한 사람입니다.
+REBECA: ¿Por qué a mano? ||| 왜 손으로요?
+LIIS: Porque los sistemas informáticos se corrigen. El papel, no. Cuando alguien quiere borrar algo, se nota. ||| 컴퓨터 시스템은 고쳐지지만 종이는 안 그래요. 누군가 지우면 티가 나죠.
+ÁLVARO: ¿Y usted guardaba el libro del muelle nueve? ||| 9번 부두 장부를 보관하셨나요?
+LIIS: Lo guardo. Desde mil novecientos noventa y dos. Todo lo que entra y sale, con la fecha, el consignatario, el origen y el destino. ||| 보관합니다. 1992년부터요. 들어오고 나가는 모든 것을 날짜, 수하인, 출발지, 목적지와 함께요.
+REBECA: ¿Se lo ha pedido alguien en estos años? ||| 그동안 누가 보여 달라고 한 적 있나요?
+LIIS: Una vez. Hace ocho años. Un hombre alto, con acento extranjero. Dijo que se llamaba Ivar. Vino varias noches. Se sentaba ahí. Copiaba cosas. ||| 한 번요. 8년 전에요. 외국 억양의 키 큰 남자였어요. 이바르라고 했죠. 여러 날 밤 왔어요. 저기 앉아서 베끼더군요.
+REBECA: ... ¿Cómo era? ||| …어떻게 생겼었어요?
+LIIS: Alto. Con una cicatriz en la ceja izquierda. Tosía mucho. ||| 키가 크고 왼쪽 눈썹에 흉터가 있었어요. 기침을 많이 했고요.
+REBECA: Es él. Le dio una pedrada un niño cuando teníamos nueve años. ||| 오빠예요. 우리가 아홉 살 때 어떤 애가 돌을 던졌죠.
+LIIS: Vaya. Entonces es suyo. ||| 저런. 그럼 당신 사람이군요.
+REBECA: Es mi hermano. ||| 제 오빠예요.
+LIIS: Encantada. Le tengo una cosa guardada. Hace ocho años me dijo: «Si alguien viene con mi nombre y un libro de Cervantes, dale esto». ||| 반가워요. 맡아 둔 게 있어요. 8년 전 이렇게 말했죠. "내 이름과 세르반테스 책을 들고 오는 사람이 있으면 이걸 줘요."
+REBECA: ¿Un libro de Cervantes? ||| 세르반테스 책이요?
+ÁLVARO: «Don Quijote». El que había en la cabaña de Punta Sal. ||| 『돈키호테』요. 푼타 살 오두막에 있던 그거예요.
+REBECA: Lo llevo en el bolso. ||| 가방에 있어요.
+LIIS: Pues entonces es usted. Tenga. ||| 그럼 당신이군요. 받으세요.
+REBECA: Es un sobre. ||| 봉투네요.
+ÁLVARO: ¿Lo abres? ||| 열어 볼래?
+REBECA: Todavía no. Dime tú primero qué hacemos con el libro de tránsito. ||| 아직. 먼저 네가 말해. 이 통과 장부를 어떻게 할 거야?
+ÁLVARO: Lo leemos. Por etapas. ||| 읽습니다. 구간별로요.
++ muelle = 부두. 'muelle nueve'는 9번 부두
++ consignatario = 수하인. 화물을 받는 사람이나 회사
++ libro de tránsito = 통과 장부. 항구를 통과하는 화물의 기록
++ intromisión = 간섭, 끼어듦. 'entrometerse'는 간섭하다
++ filología hispánica = 스페인 문헌학. 스페인어와 스페인 문학을 연구하는 학과
++ nudillos = 손마디. 'tener los nudillos blancos'는 긴장해서 주먹을 쥐는 모습
++ pedrada = 돌팔매. 던진 돌에 맞은 상처
++ por etapas = 구간별로. 스페인 가도의 'etapa'에서 따온 방식
++ sentido del humor peculiar = 독특한 유머 감각. 'peculiar'는 별난
