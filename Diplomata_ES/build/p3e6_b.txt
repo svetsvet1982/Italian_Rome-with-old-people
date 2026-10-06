@@ -1,0 +1,85 @@
+## 이본 — IBON
+IBON: Arantxa, ¿querías verme? ||| 아란차, 나 보자고 했어?
+ARANTXA: Siéntate, Ibon. Solo te voy a hacer una pregunta. ¿Quién te presentó a Tömör? ||| 앉아, 이본. 질문 하나만 할게. 퇴메르를 누가 소개했어?
+IBON: ... ¿Por qué lo preguntas? ||| …왜 묻는 거야?
+ARANTXA: Porque mañana lo va a preguntar alguien con menos paciencia que yo. ||| 내일은 나보다 참을성 없는 사람이 물을 테니까.
+IBON: Fue el gobernador. En una cena. Me dijo que un transportista local necesitaba una oportunidad. ||| 도지사였어. 저녁 자리에서. 현지 운송업자에게 기회가 필요하다고 했지.
+ARANTXA: ¿Y a cambio? ||| 대가는?
+IBON: Mi hijo entró en la universidad de Ulán Bator con una beca. No sé quién la movió. ||| 내 아들이 울란바토르 대학에 장학금으로 들어갔어. 누가 힘썼는지는 몰라.
+ARANTXA: Ibon, ¿cuándo me lo ibas a decir? ||| 이본, 언제 말하려고 했어?
+IBON: Cuando me lo preguntaran. Nunca me lo preguntaron. ||| 누가 물으면. 아무도 안 물었잖아.
+ARANTXA: Mañana va a haber una declaración. La vas a firmar tú, con un abogado, antes de que te llame la Autoridad. ¿De acuerdo? ||| 내일 진술서가 있을 거야. 위원회가 부르기 전에 변호사와 같이 네가 서명해. 알겠지?
+IBON: ¿Me van a despedir? ||| 나 해고되는 거야?
+ARANTXA: No lo sé. Pero si hablas antes, es más probable que no. ||| 모르겠어. 하지만 먼저 말하면 안 될 가능성이 더 커.
+IBON: Gracias. ||| 고마워.
+ARANTXA: No me des las gracias. Dímelo todo. ||| 감사하지 말고 전부 말해.
+## 광장 낭독 — LA LECTURA EN LA PLAZA
+MUNKH: Buenos días a todos. Voy a leer en voz alta el «Libro del Camino de Khar Us». ||| 모두 안녕하세요. '하르 우스 길의 장부'를 소리 내어 읽겠습니다.
+BATJARGAL: Más fuerte, nieto. Los de atrás no te oyen. ||| 더 크게, 손자야. 뒷사람들이 안 들린다.
+MUNKH: «Primera partida. La ruta de la colina de las piedras. Anchura: setenta metros. Pastores con derecho de paso: cuarenta y dos familias. Primera firma: Dolgor, hija de Sükh». ||| 「첫째 항목. 돌 언덕 길. 폭: 70미터. 통행권을 가진 목동: 마흔두 가구. 첫 서명: 숙의 딸 돌고르.」
+DOLGOR: ¡Esa soy yo! Que lo sepan. ||| 그게 나다! 알려지게 해라.
+MUNKH: «Segunda partida. Los camiones se detendrán mientras pasen los rebaños. Pagará la empresa, no el pastor». ||| 「둘째 항목. 양 떼가 지나가는 동안 트럭은 멈춘다. 지불은 회사가 하며 목동이 하지 않는다.」
+ARANTXA: Lo confirmo. Lo firmo yo en nombre de Minera Aralar. ||| 확인합니다. 미네라 아랄라르를 대표해 제가 서명합니다.
+MUNKH: «Tercera partida. El Fondo del Pasto. Tres por ciento de los ingresos netos de la mina, por canon de uso de la ruta. Administra: un consejo de siete pastores. Auditoría: cada seis meses, leída en esta plaza». ||| 「셋째 항목. 목초 기금. 길 사용료로서 광산 순수익의 3퍼센트. 관리: 목동 일곱 명으로 이루어진 위원회. 감사: 6개월마다 이 광장에서 낭독.」
+BATJARGAL: Un momento. Dice «canon». ¿No es un regalo? ||| 잠깐. '사용료'라고 했네. 선물이 아닌가?
+ÁLVARO: No, Batjargal. No es un regalo. Es el precio de usar un camino que no es suyo. ||| 아닙니다, 바트자르갈 어르신. 선물이 아니에요. 자기 것이 아닌 길을 쓰는 값입니다.
+BATJARGAL: ¿Y por qué no dice «regalo»? Los regalos se dan con más gusto. ||| 그런데 왜 '선물'이라고 하지 않소? 선물이 더 기꺼이 주어지지.
+ÁLVARO: Porque los regalos se pueden retirar. Los precios, no. Un regalo depende de la generosidad. Un canon depende de un contrato. ||| 선물은 거둬들일 수 있어도 값은 그럴 수 없으니까요. 선물은 후함에 달렸고 사용료는 계약에 달렸습니다.
+DOLGOR: Entonces no somos mendigos. ||| 그럼 우리는 거지가 아니군.
+ÁLVARO: Son acreedores. ||| 채권자입니다.
+DOLGOR: ¿Qué es un acreedor? ||| 채권자가 뭐요?
+NARAN: Madre, es el que te debe... no, el que tiene derecho a cobrar. ||| 어머니, 그건 갚을 게 있다는… 아니, 받을 권리가 있는 사람이에요.
+DOLGOR: Qué palabra tan buena. Nunca había sido nada así. ||| 좋은 말이구나. 그런 게 된 적은 한 번도 없었는데.
+MUNKH: «Cuarta partida. Los nombres de los que han colaborado con esta ruta. Naran, hijo de Dolgor, conductor. Arantxa Etxeberria, jefa de mina. Álvaro Quintana, embajador designado de España». ||| 「넷째 항목. 이 길에 협력한 사람들의 이름. 돌고르의 아들 나란, 운전사. 아란차 에체베리아, 광산 소장. 알바로 킨타나, 스페인 지명 대사.」
+ÁLVARO: ¿Mi nombre? Prefiero que no aparezca. ||| 제 이름이요? 안 나오는 게 좋겠습니다.
+BATJARGAL: Embajador, usted dijo que lo escribía todo. El libro es nuestro y lo escribimos todo. Quien ayudó, queda escrito. ||| 대사, 당신이 다 적는다고 했잖소. 이 책은 우리 거고 우리도 다 적소. 도운 사람은 적히는 법이오.
+ÁLVARO: Como Clavijo. ||| 클라비호처럼요.
+BATJARGAL: ¿Quién es ese Clavijo? ||| 클라비호가 누구요?
+ÁLVARO: Un castellano que hace seiscientos años viajó dos años y medio hasta Samarcanda. Y en su libro dejó escritos los nombres de todos los que le dieron de comer. Hoy ese libro es una de las fuentes principales sobre aquel imperio. ||| 6백 년 전 2년 반을 걸려 사마르칸트까지 간 카스티야 사람입니다. 그리고 책에 자신에게 먹을 것을 준 모든 이의 이름을 남겼습니다. 오늘날 그 책은 그 제국에 관한 주요 사료 중 하나입니다.
+BATJARGAL: Entonces tendremos nuestro Clavijo. Munkh, escribe el nombre del embajador. ||| 그럼 우리에게도 우리의 클라비호가 생기겠군. 뭉흐, 대사 이름을 적어라.
+MUNKH: Ya está escrito. ||| 이미 적었어요.
+## 광업부 — LAS CONDICIONES DEL MINISTRO
+ERDENE: Señor Quintana. He leído el libro. Me lo han enviado esta mañana, en una fotografía que ha hecho un muchacho con el teléfono. ||| 킨타나 씨. 그 책을 읽었소. 오늘 아침 청년 하나가 휴대폰으로 찍어서 보내 줬소.
+ÁLVARO: Munkh. Es un joven con mucho porvenir. ||| 뭉흐요. 장래가 밝은 청년입니다.
+ERDENE: El porvenir de este país está en los jóvenes que leen despacio y escriben rápido. ¿Sabe que mañana la Autoridad contra la Corrupción abre una investigación sobre el gobernador de Ömnögovi? ||| 이 나라의 미래는 천천히 읽고 빨리 쓰는 젊은이들에게 있소. 내일 반부패위원회가 옴누고비 도지사에 대한 수사를 연다는 걸 아시오?
+ÁLVARO: Lo he oído. ||| 들었습니다.
+ERDENE: Y la nota de colaboración de Tömör ha llegado primero. Muy hábil. ||| 그리고 퇴메르의 협조 메모가 먼저 도착했소. 아주 능란하군.
+ÁLVARO: Yo no tuve nada que ver. ||| 저는 아무 관련이 없습니다.
+ERDENE: Claro que no. Usted es un visitante a título privado. ||| 물론 없겠지. 당신은 개인 자격의 방문객이니.
+ÁLVARO: Ya veo que el rumor ha viajado desde Tamazia. ||| 소문이 타마지아에서 여기까지 왔군요.
+ERDENE: Los rumores viajan más deprisa que los embajadores. Hágame caso: la comisión del Jural votará a favor de mantener la licencia. Con una condición. ||| 소문은 대사보다 빨리 여행하오. 내 말을 믿으시오. 대회의 위원회는 채굴권 유지에 찬성할 거요. 한 가지 조건으로.
+ÁLVARO: Dígame. ||| 말씀하십시오.
+ERDENE: Que su empresa no vuelva a utilizar la palabra «generosidad». No quiero un solo comunicado de prensa que diga que Aralar «ayuda» o «dona». Que diga «paga». ||| 귀사가 다시는 '관대함'이라는 말을 쓰지 않는 것이오. 아랄라르가 '돕는다'거나 '기부한다'고 하는 보도자료는 한 장도 원치 않소. '지불한다'고 해야 하오.
+ARANTXA: Aceptado. Lo pongo por escrito hoy mismo. ||| 수락합니다. 오늘 안으로 서면에 넣겠습니다.
+ERDENE: Y otra cosa. El libro de Khar Us se leerá también en el Gran Jural, antes del voto. Leído por el muchacho. ||| 그리고 하나 더. 하르 우스의 장부를 표결 전에 대회의에서도 읽겠소. 그 청년이 읽을 거요.
+ÁLVARO: Se lo agradezco. Será la primera vez que un pastor lee en el Jural. ||| 감사합니다. 목동이 대회의에서 읽는 건 처음이겠군요.
+ERDENE: Será la segunda. La primera fue hace ochocientos años, en tiempos de Gengis Kan, cuando un pastor leyó una ley en voz alta. Los mongoles tenemos memoria. ||| 두 번째요. 첫 번째는 8백 년 전 칭기스 칸 시대에 한 목동이 법을 소리 내어 읽었을 때요. 몽골 사람도 기억은 하오.
+ÁLVARO: Lo apunto. ||| 적어 두겠습니다.
+ERDENE: Un detalle. Mañana, a las diez, le espera el presidente para las credenciales. Lleve botas, no zapatos. ||| 세부 사항 하나. 내일 열 시에 대통령이 신임장 제정을 위해 기다리오. 구두 말고 부츠를 신으시오.
+ÁLVARO: Gracias, ministro. Sar shinedee mend khürgeye. ||| 감사합니다, 장관님. 사르 신에데 멘드 휘르게예.
+ERDENE: Lo dice mejor que su colega. Pero su colega también lo dijo hoy, y eso me ha emocionado. ||| 동료보다 잘하는군. 하지만 동료도 오늘 했는데 그게 감동스러웠소.
+ESCOBEDO: Ministro, yo... ||| 장관님, 저는…
+ERDENE: Sar shinedee, Escobedo. Y la copa de noviembre, olvidada. ||| 사르 신에데, 에스코베도. 11월의 잔은 잊었소.
+ESCOBEDO: Gracias, ministro. ||| 감사합니다, 장관님.
+## 나침반 — LA BRÚJULA
+ARANTXA: Álvaro, una cosa antes de que se vaya. El anillo de Tömör. La brújula. ||| 알바로, 가시기 전에 하나만요. 퇴메르의 반지. 나침반.
+ÁLVARO: ¿Lo ha reconocido? ||| 알아보셨습니까?
+ARANTXA: Es el logotipo de Septentrio. Lo vi en la presentación del fondo en Londres hace dos años. «Septentrio» significa «norte». ||| 셉텐트리오 로고예요. 2년 전 런던의 펀드 설명회에서 봤어요. '셉텐트리오'는 '북쪽'이라는 뜻이죠.
+ÁLVARO: El norte. Con una brújula que nunca apunta a otra cosa. ||| 북쪽. 다른 곳은 가리키지 않는 나침반이군요.
+ARANTXA: Entonces no es un detalle. Es la misma mano que quería el litio de Punta Sal. ||| 그럼 우연이 아니네요. 푼타 살의 리튬을 노린 그 손이에요.
+ÁLVARO: Es la misma mano. Y hoy ha perdido un dedo. ||| 같은 손입니다. 그리고 오늘 손가락 하나를 잃었죠.
+ARANTXA: ¿Cree que se va a vengar? ||| 복수할 거라고 보십니까?
+ÁLVARO: Creo que va a ofrecer algo. No amenazan los que pierden dedos: ofrecen. ||| 무언가를 제안할 겁니다. 손가락을 잃은 쪽은 협박하지 않아요. 제안하죠.
+ARANTXA: ¿Qué podrían ofrecerle? ||| 무엇을 제안할 수 있을까요?
+ÁLVARO: Lo que casi nadie rechaza: una vida tranquila a cambio de no volver a mirar. ||| 거의 아무도 거절하지 못하는 것이죠. 다시는 보지 않는 대가로 얻는 조용한 삶.
+ARANTXA: ¿Y usted la rechazaría? ||| 그걸 거절하시겠어요?
+ÁLVARO: Todavía no me la han ofrecido. ||| 아직 제안받지 않았습니다.
++ canon = 사용료, 사용 대가. 기부(donación)와 달리 계약상 권리를 낳는다
++ acreedor = 채권자. 받을 권리가 있는 사람
++ Fondo del Pasto = 목초 기금. 광산 순수익의 3퍼센트를 목동 공동체가 관리
++ ingresos netos = 순수익
++ nota de colaboración = 협조 메모(앞 장면에서 나온 표현의 반복)
++ fuente = 사료, 출처. 'fuentes históricas'는 사료
++ dar las credenciales = 신임장을 제정하다. 대사가 접수국 원수에게 신임장을 내는 의식
++ no volver a mirar = 다시 보지 않다. 눈을 감아 주는 조건의 거래를 가리킨다
++ Septentrio = 라틴어로 '북쪽(북두칠성)'. 국부 펀드의 이름이자 나침반 문양의 의미
