@@ -1,0 +1,101 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 10
+@title Blind spel
+@ko 눈먼 놀이
+@setting 금요일 평화궁 '일본의 방'과 '동양의 방' 사이 벽(쪽지 구멍) → 복도 → 경비실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast PETERS | 상설중재재판소 직무대행 서기, 41세
+@cast VOS | 평화궁 안내 담당, 은퇴 통역사, 72세
+@cast ZANDSTRA | 평화궁 경비원, 60세
+@cast DEROO | 블라우베르흐 재단 회계(펜닝메이스터), 56세
+@cast FERREIRA | 남마린데 대리인, 57세
+@note 2부 10화는 '물밑 협상'의 변주인 '벽 너머 협상'입니다. 당사자와 중재인이 서로 얼굴을 보지 않고 쪽지만 주고받으며, 쪽지를 소리 내어 읽는 서기가 유일한 통로입니다. 역사 논거는 17세기 공화국의 '레지던트(resident) 외교': 상주 사절이 서신으로 협상을 이어 가며 서면이 곧 증거가 된 전통입니다. 쪽지 글씨체가 바뀌는 순간이 쟁점이 됩니다. 어휘는 서면 협상(briefje, handschrift, schuifluik, voorlezen)과 필적·정체 확인 표현에 주목하세요.
+@next 2부 11화 — «De regel van Bijnkershoek»(빈커르스훅의 원칙) — 이번 사건의 관할 문제. 대포 사거리가 닿는 곳까지가 관할이라는 원칙을 투명성의 논리로 넓혀 매수 구조를 끊는 순간.
+
+## 벽 — DE WAND
+PETERS: Goedemorgen. Ik ben Daniëlle Peters, waarnemend griffier. Ik leg het systeem uit, voor wie het nog niet kent. ||| 안녕하세요. 직무대행 서기 다니엘러 페터르스입니다. 아직 모르시는 분을 위해 방식을 설명하겠습니다.
+PETERS: Er zijn twee kamers, gescheiden door een wand. In de wand zit een schuifluik. Aan de ene kant de partijen. Aan de andere kant het tribunaal. ||| 방이 둘이고 벽으로 나뉘어 있습니다. 벽에는 미닫이 구멍이 있어요. 한쪽에는 당사자들, 다른 쪽에는 재판부가 있습니다.
+FERREIRA: En de arbiters zien ons niet. ||| 그리고 중재인들은 우리를 못 보는군요.
+PETERS: Zij horen u niet. U hoort hen niet. Elke mededeling gaat op papier door het luik. Ik lees haar hardop voor, in beide kamers. ||| 그들은 대사님을 듣지 못하고 대사님도 그들을 듣지 못합니다. 모든 전달은 종이로 구멍을 통해 갑니다. 제가 양쪽 방에서 소리 내어 읽습니다.
+KARTIKA: Dus alles wat we schrijven, wordt voorgelezen. ||| 그러니 우리가 쓴 건 전부 낭독되는군요.
+PETERS: Alles. Zonder uitzondering. ||| 예외 없이 전부요.
+JOOST: Het is een oude manier. In de zeventiende eeuw had de Republiek in elke hoofdstad een resident. Een soort vaste gezant. Hij onderhandelde bijna alleen op papier. Brieven, nota's, memories. ||| 오래된 방식입니다. 17세기 공화국은 수도마다 레지던트를 뒀습니다. 일종의 상주 사절이죠. 거의 서면으로만 협상했어요. 서한, 각서, 비망록으로요.
+KARTIKA: En het werkte? ||| 효과가 있었습니까?
+JOOST: Het bleef bestaan. Papier verdwijnt niet. Als iemand zijn woord brak, lag het ergens in een la. ||| 남았습니다. 종이는 사라지지 않죠. 약속을 깨면 어딘가 서랍에 남아 있었어요.
+KARTIKA: En iemand wist waar die la was. ||| 그리고 서랍이 어딘지 아는 사람이 있었고요.
+JOOST: Altijd. ||| 항상요.
+PETERS: Dan begin ik. Aan de kant van het tribunaal zitten professor Lindt en meneer Okafor. De derde arbiter, mevrouw Wijnaendts, is afwezig. Haar bijdragen komen schriftelijk, via een koerier die ik niet ken. ||| 시작하겠습니다. 재판부 쪽에는 린트 교수와 오카포르 씨가 있습니다. 세 번째 중재인 바이나엔츠 박사는 부재입니다. 그분의 의견은 제가 모르는 전령을 통해 서면으로 옵니다.
+FERREIRA: Een koerier die u niet kent. Is dat verstandig? ||| 모르는 전령이라니, 현명합니까?
+PETERS: Het is de regel. Niemand weet waar ze is. Ook ik niet. ||| 규칙입니다. 아무도 그분이 어디 있는지 모릅니다. 저도요.
+FERREIRA: Een merkwaardig systeem. ||| 이상한 체계군요.
+PETERS: Een zeer veilig systeem. ||| 아주 안전한 체계입니다.
+## 쪽지 — DE BRIEFJES
+PETERS: Briefje een. Van het tribunaal aan de partijen. «De Marinde ontspringt in Zuid-Marinde en stroomt door Karang naar zee. Beide partijen zijn het erover eens dat de stroom in het droge seizoen onvoldoende is. Het tribunaal vraagt: wat is het minimumdebiet dat elke partij nodig denkt te hebben?» ||| 쪽지 하나. 재판부에서 당사자에게. "마린데 강은 남마린데에서 발원해 카랑을 지나 바다로 흐릅니다. 양 당사자는 건기 유량이 부족하다는 데 동의합니다. 재판부가 묻습니다. 각 당사자가 필요하다고 생각하는 최소 유량은 얼마입니까?"
+PETERS: Briefje twee. Van Karang aan het tribunaal. «Karang heeft minimaal zeshonderd kubieke meter per seconde nodig voor de visserij in de delta». ||| 쪽지 둘. 카랑에서 재판부로. "카랑은 삼각주 어업을 위해 최소 초당 600세제곱미터가 필요합니다."
+PETERS: Briefje drie. Van Zuid-Marinde aan het tribunaal. «Zuid-Marinde heeft minimaal achthonderd nodig voor irrigatie en drinkwater voor honderdtwintig miljoen mensen». ||| 쪽지 셋. 남마린데에서 재판부로. "남마린데는 1억 2천만 명의 관개와 식수를 위해 최소 800이 필요합니다."
+PETERS: Briefje vier. Van het tribunaal. «De som is veertienhonderd. De gemiddelde droge stroom is negenhonderdvijftig. Het tribunaal vraagt beide partijen een schatting van de waarde van het verschil». ||| 쪽지 넷. 재판부에서. "합은 1,400입니다. 건기 평균 유량은 950입니다. 재판부는 양 당사자에게 그 차이의 가치를 추정해 달라고 요청합니다."
+KARTIKA: Vierhonderdvijftig kubieke meter. Dat is het geschil. ||| 450세제곱미터. 그게 분쟁이군요.
+FERREIRA: Dat is niet te kwantificeren. Een mens heeft water nodig. ||| 수치로 나타낼 수 없습니다. 사람에게는 물이 필요해요.
+KARTIKA: Een vis ook. ||| 물고기도요.
+JOOST: Mag ik iets zeggen? Dit is wat het blinde spel doet. Het dwingt u om te schrijven wat u echt bedoelt. Zonder gebaren. Zonder stemverheffing. ||| 한마디 해도 될까요? 이게 눈먼 놀이의 효과입니다. 정말 하려는 말을 쓰게 하죠. 몸짓도 목소리 높임도 없이요.
+FERREIRA: Een mens zonder stem is een mens zonder kracht. ||| 목소리 없는 사람은 힘도 없습니다.
+JOOST: Een mens zonder stem is een mens die niet kan intimideren. ||| 목소리 없는 사람은 위협할 수 없는 사람이죠.
+FERREIRA: Dat is een aanklacht. ||| 비난이군요.
+JOOST: Het is een voordeel. ||| 이점입니다.
+PETERS: Briefje vijf. Van Zuid-Marinde. «Wij schatten de waarde van de vierhonderdvijftig kubieke meter op twee miljard euro per jaar». ||| 쪽지 다섯. 남마린데에서. "우리는 450세제곱미터의 가치를 연 20억 유로로 추정합니다."
+PETERS: Briefje zes. Van Karang. «Karang schat de waarde op één miljard, met een ondergrens van achthonderd miljoen». ||| 쪽지 여섯. 카랑에서. "카랑은 가치를 10억 유로로 추정하며 하한은 8억입니다."
+PETERS: Briefje zeven. Van Zuid-Marinde. ||| 쪽지 일곱. 남마린데에서.
+KARTIKA: Is er iets? ||| 무슨 일 있습니까?
+PETERS: Ik lees het voor. «Het tribunaal wordt eraan herinnerd dat voor een zaak van deze orde van grootte het vanzelfsprekend is dat de arbiters, als verstandige mensen, een voorstel zouden doen dat alle partijen recht doet». ||| 읽겠습니다. "이 정도 규모의 사건에서는 중재인들이 현명한 사람으로서 모든 당사자에게 공정한 제안을 내는 것이 당연함을 재판부에 상기시킨다."
+JOOST: Een merkwaardige formulering. ||| 이상한 표현이군요.
+PETERS: Ik heb dezelfde gedachte. ||| 저도 같은 생각입니다.
+JOOST: Mag ik het briefje zien? ||| 쪽지를 볼 수 있을까요?
+PETERS: Het is een gesloten procedure. U mag alles zien, behalve wat in de wand is. ||| 비공개 절차입니다. 벽 안에 있는 것만 빼고 전부 보실 수 있어요.
+JOOST: Het ligt in uw hand. ||| 서기님 손에 있죠.
+PETERS: Dan geef ik het. ||| 그럼 드리겠습니다.
+JOOST: Dit handschrift. ||| 이 필체는…
+PETERS: Wat is ermee? ||| 무슨 문제죠?
+JOOST: De eerste vier briefjes van Zuid-Marinde waren in een grote, ronde letter. Die van meneer Ferreira. ||| 남마린데의 처음 네 장은 크고 둥근 글씨였어요. 페헤이라 대사님 거요.
+PETERS: Klopt. ||| 맞습니다.
+JOOST: Dit is een andere. Klein, smal, met lange verbindingen. ||| 이건 다릅니다. 작고 좁고 연결이 길어요.
+PETERS: Dat is inderdaad niet dezelfde. ||| 같지 않군요.
+JOOST: Wie is er aan de kant van Zuid-Marinde? ||| 남마린데 쪽에 누가 있습니까?
+PETERS: Ambassadeur Ferreira, zijn secretaris, en een raadsman. ||| 페헤이라 대사, 비서, 변호인 한 명입니다.
+JOOST: Wie is de raadsman? ||| 변호인이 누굽니까?
+PETERS: Dat staat in de aanmelding. Een moment. «Mr. P. de Roo». ||| 등록부에 있어요. 잠깐. '데 로 석사'.
+JOOST: De Roo. ||| 데 로.
+## 방명록 — HET GASTENBOEK
+ZANDSTRA: Meneer Hartog. U belt mij op een vrijdag, om kwart voor elf? ||| 하르토흐 씨. 금요일 열 시 사십오 분에 전화하시네요?
+JOOST: Meneer Zandstra, ik heb uw gastenboek nodig. Van vanochtend. ||| 잔드스트라 씨, 방명록이 필요합니다. 오늘 아침 거요.
+ZANDSTRA: Het ligt hier. Ik kom. ||| 여기 있습니다. 가져가죠.
+JOOST: Dank u. Wie heeft zich om negen uur ingeschreven voor de partij Zuid-Marinde? ||| 감사합니다. 9시에 남마린데 쪽으로 등록한 사람이 누굽니까?
+ZANDSTRA: Hier. Ambassadeur Ferreira, negen uur zeven. Zijn secretaris, negen uur zeven. En een derde: «P. de Roo, raadsman Z.-Marinde, negen uur twaalf». ||| 여기요. 페헤이라 대사 9시 7분, 비서 9시 7분. 그리고 셋째 '데 로, 남마린데 변호인, 9시 12분'.
+JOOST: Wie heeft hem aangemeld? ||| 누가 그를 등록했습니까?
+ZANDSTRA: Meneer Ferreira zelf. Hij zei dat het een bijzondere raadsman was. ||| 페헤이라 대사 본인이요. 특별한 변호인이라고 했어요.
+JOOST: Bijzonder. ||| 특별하다고요.
+ZANDSTRA: Hij droeg een stropdas met een kompas erop. ||| 나침반이 새겨진 넥타이를 맸더군요.
+JOOST: Een kompas. ||| 나침반이요.
+ZANDSTRA: Heeft het een betekenis? ||| 무슨 의미가 있습니까?
+JOOST: Nog niet. Maar wel een richting. ||| 아직은요. 하지만 방향은 있죠.
+MEVROUW VOS: Meneer Hartog, ik hoorde van meneer Zandstra dat u een handschrift zoekt. Mag ik? ||| 하르토흐 씨, 잔드스트라 씨에게 들었는데 필체를 찾으신다고요. 제가 봐도 될까요?
+JOOST: Mevrouw Vos. Graag. ||| 보스 씨. 부탁합니다.
+MEVROUW VOS: Dit is geen Hollands handschrift. Het is een gedrilde letter. Lange staarten aan de «g» en de «y». ||| 네덜란드식 필체가 아니에요. 훈련된 글씨죠. 'g'와 'y' 꼬리가 길어요.
+JOOST: Waar zag u dat vaker? ||| 어디서 더 보셨습니까?
+MEVROUW VOS: Op de enveloppen van de jaarboeken die de bibliotheek elk jaar krijgt. Mevrouw Bos liet ze me zien. Alle adressen in dezelfde letter. ||| 도서관이 매년 받는 연감 봉투에서요. 보스 사서가 보여 줬어요. 주소가 전부 같은 글씨였죠.
+JOOST: Dezelfde hand? ||| 같은 손이었습니까?
+MEVROUW VOS: Dezelfde school. Zoals bij kloosterlingen. Iemand heeft ze allemaal leren schrijven, op dezelfde manier. ||| 같은 학교의 글씨였어요. 수도사들처럼요. 누군가 모두에게 같은 방식으로 쓰는 법을 가르쳤죠.
+JOOST: Dan is het het handschrift van de stichting. ||| 그럼 재단의 필체군요.
+MEVROUW VOS: Ik ben geen deskundige. Maar ik herken een stijl. ||| 전문가는 아닙니다. 하지만 스타일은 알아봅니다.
++ schuifluik = 미닫이 구멍(벽의 쪽지 통로)
++ debiet = 유량
++ voorlezen = 소리 내어 읽다
++ koerier = 전령, 배달원
++ raadsman = 변호인, 자문
++ aanmelding = 등록, 신청
++ handschrift = 필체
++ gedrild = 훈련된, 엄하게 익힌
++ resident = 레지던트. 17세기 공화국의 상주 사절
++ gesloten procedure = 비공개 절차
