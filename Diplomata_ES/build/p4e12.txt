@@ -1,0 +1,198 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 12
+@title El testamento de Isabel
+@ko 이사벨의 유언
+@setting 2월 25일 밤 뉴욕 → 이듬해 2월 살마라 광장의 첫 낭독 → 서점 옥상의 저녁
+@level B2-C1
+@cast ÁLVARO | 외교관, 46세
+@cast LUCÍA | 알바로의 딸, 19세
+@cast HAMID | 고서점 주인이자 살마라 대표, 80세
+@cast SEFIA | 서점 손녀, 24세
+@cast LAILA | 타마지아 공주, 39세
+@cast KADER | 푸에르토 누에보 항만장, 58세
+@cast MARIAM | 수용 기금 사무원, 29세
+@cast ZAHRA | 왕실 문서처 수석 기록관, 61세
+@cast BASHIR | 시디 바시르 장군, 62세
+@cast REBECA | 국가정보원(CNI) 연락관, 43세
+@cast ELENA | 알바로의 전처, 45세
+@note 4부이자 시리즈의 마지막 화입니다. 결의 2800호 채택 다음 날의 통화로 시작해, 1년 뒤 살마라 광장의 첫 결산 낭독으로 이어집니다. 하미드가 이드리스 왕의 한 줄을 읽고, 알바로는 수첩 전체를 루시아에게 넘깁니다. 역사 논거는 이사벨 여왕의 유언(1504): 1504년 10월 12일 메디나 델 캄포에서 구술된 유언은 후계, 매장, 그리고 원주민을 선하게 대하라는 당부를 담았지만, 그 뜻은 유언을 읽고 집행하는 사람들의 몫이었다는 교훈을 남깁니다. 어휘는 유언·결산(albacea, codicilo, lectura, cumplir, herencia)과 성찰 표현에 주목하세요.
+@next (시리즈 완결) 스페인어판 「EL AGREGADO」 4부작은 여기서 끝납니다. 루시아의 마지막 각주: '이야기는 읽히기 위해 쓰인다.'
+
+## 결의 다음 날 — AL DÍA SIGUIENTE
+ÁLVARO: ¿Señor Hamid? ||| 하미드 어르신?
+HAMID: Aquí. Estoy en la azotea con una manta. Hace frío en el desierto, aunque no lo creas. ||| 여기 있소. 옥상에서 담요를 두르고 있지. 사막은 춥소, 믿기 어렵겠지만.
+ÁLVARO: La resolución se ha aprobado. Catorce a cero, una abstención. ||| 결의가 채택됐습니다. 찬성 14, 반대 0, 기권 1.
+HAMID: Lo he oído. Lo ha dicho la radio. Y la gente ha salido a la plaza. ||| 들었소. 라디오가 말했지. 사람들이 광장으로 나왔소.
+ÁLVARO: ¿Qué hacen? ||| 무엇을 합니까?
+HAMID: Nada. Están de pie. Escuchando una radio. ||| 아무것도. 서서 라디오를 듣고 있소.
+ÁLVARO: Eso suena a lo mejor que se puede hacer. ||| 할 수 있는 최선처럼 들리는군요.
+HAMID: Lo es. ||| 그렇소.
+ÁLVARO: Señor Hamid, ¿me permite una pregunta? ||| 하미드 어르신, 질문 하나 해도 되겠습니까?
+HAMID: Permitida. ||| 허락하오.
+ÁLVARO: ¿Por qué esperó tanto para decirme dónde estaba el cuarto testamento? ||| 네 번째 유언이 어디 있는지 왜 그렇게 오래 기다렸다가 말씀하셨습니까?
+HAMID: Porque quien se lo dice demasiado pronto a un diplomático, le da un arma. ||| 외교관에게 너무 일찍 말하면 무기를 주는 셈이니까.
+ÁLVARO: Eso me ha dolido. ||| 그 말은 아프군요.
+HAMID: Lo sé. Pero ya me lo has perdonado. ||| 알고 있소. 하지만 이미 용서해 줬지 않소.
+ÁLVARO: Sí. ||| 네.
+HAMID: Hijo, mañana voy a dormir doce horas. ||| 젊은이, 내일은 열두 시간 잘 거요.
+ÁLVARO: Se lo ha ganado. ||| 그럴 자격이 있으십니다.
+HAMID: Una cosa más. Cuando venga el día de la lectura, quiero que estés. ||| 하나 더. 낭독의 날이 오면 자네가 함께 있어 주었으면 하네.
+ÁLVARO: ¿Dentro de un año? ||| 1년 뒤요?
+HAMID: Dentro de un año. En esta plaza. ||| 1년 뒤. 이 광장에서.
+ÁLVARO: Allí estaré. ||| 가 있겠습니다.
+HAMID: Vendrás aunque no te lo pidan. ||| 청하지 않아도 올 사람이지.
+ÁLVARO: Probablemente. ||| 아마도요.
++ azotea = 옥상
++ manta = 담요
++ abstención = 기권
++ permitir = 허락하다
++ ganarse = (노력으로) 얻다
++ lectura = 낭독
+
+## 일 년 뒤의 광장 — UN AÑO DESPUÉS, LA PLAZA
+KADER: Ciudadanos del Reino de Tamazia. Hoy, veinticuatro de febrero, se celebra la primera lectura pública de cuentas. Cada quien leerá lo suyo. En voz alta. ||| 타마지아 왕국의 시민 여러분. 오늘 2월 24일, 첫 공개 결산 낭독을 거행합니다. 각자 자기 몫을 소리 내어 읽겠습니다.
+KADER: Primero, el puerto. Ingresos por tasas: dos millones cuatrocientos mil dinares. Gastos: dos millones trescientos mil. Saldo: cien mil. Tres por ciento al fondo de los estibadores. ||| 먼저 항구입니다. 사용료 수입 240만 디나르. 지출 230만 디나르. 잔액 10만. 3퍼센트는 하역 노동자 기금으로 갑니다.
+MARIAM: Segundo, el fondo de acogida. Soy Mariam. Han llegado este año ciento doce personas por el mar. Se ha atendido a ciento doce. Se han gastado ochocientos mil dinares. Importe por persona: siete mil ciento cuarenta. ||| 둘째, 수용 기금입니다. 마리암입니다. 올해 바다로 112명이 도착했습니다. 112명 모두 돌봤습니다. 80만 디나르를 썼습니다. 1인당 7,140입니다.
+ZAHRA: Tercero, la cancillería. Soy Zahra Idrissi. Un solo libro de sellos, tres llaves. Documentos depositados: cuatro mil setecientos. Ninguno antedatado. ||| 셋째, 문서처입니다. 자라 이드리시입니다. 인장 대장은 하나, 열쇠는 셋입니다. 보관 문서 4,700건. 소급된 문서는 없습니다.
+BASHIR: Cuarto, la Guardia del Puerto. Soy Sidi Bashir. Hace un año era general. Hoy soy asesor sin mando. Pago de sueldos: seis mil doscientos nombres, cobrados todos los meses, publicados todos los meses. ||| 넷째, 항만 경비대입니다. 시디 바시르입니다. 1년 전엔 장군이었고 오늘은 지휘권 없는 고문입니다. 급여 지급: 6,200명의 이름, 매달 수령, 매달 공개.
+SORAYA: Y yo estoy aquí, sentada a su lado. ||| 그리고 저는 남편 곁에 앉아 있어요.
+BASHIR: Lo he comprobado. ||| 확인했소.
+NADIA: Y yo, junto a las dos. ||| 저는 두 사람 곁에 있습니다.
+KADER: Y ahora la plaza pregunta. ¿Hay objeciones? ||| 이제 광장이 묻습니다. 이의 있습니까?
+YASSIN: Una. ||| 하나요.
+KADER: Dígala. ||| 말씀하세요.
+YASSIN: Soy Yassin, estibador. Quiero que se lea qué se pagó a la empresa de limpieza. ||| 하역 노동자 야신입니다. 청소 업체에 얼마가 지급됐는지 읽어 주었으면 합니다.
+KADER: Entendido. La empresa de limpieza cobró diecinueve mil dinares. ||| 알겠습니다. 청소 업체는 1만 9천 디나르를 받았습니다.
+YASSIN: Mi hermano trabaja allí. Me ha dicho que fueron diecisiete. ||| 제 형이 거기서 일합니다. 1만 7천이라고 하던데요.
+KADER: Anotado. Se verificará. ||| 기록했습니다. 검증하겠습니다.
+YASSIN: Gracias. Es la primera vez que pregunto en una plaza. ||| 감사합니다. 광장에서 질문한 건 처음입니다.
+KADER: No será la última. ||| 마지막은 아닐 겁니다.
+ÁLVARO: Señor Hamid. ||| 하미드 어르신.
+HAMID: Hijo. Ya estás aquí. ||| 젊은이. 왔구려.
+ÁLVARO: No me lo perdería. ||| 놓칠 수 없죠.
+HAMID: Una última cosa. Ahora me toca a mí. ||| 마지막 하나. 이제 내 차례요.
+SEFIA: Abuelo, ¿lo haces? ||| 할아버지, 하실 거예요?
+HAMID: Lo hago. Ciudadanos. Soy Hamid, librero. Cuando el rey Idris murió, dejó en mi libro de cuentas una línea. Me pidió que la leyera cuando la plaza quisiera oírla, y después de que se hubieran leído las cuentas. ||| 하겠다. 시민 여러분. 서점 주인 하미드입니다. 이드리스 왕이 돌아가셨을 때 내 장부에 한 줄을 남기셨소. 광장이 듣고 싶어 할 때, 그리고 결산이 읽힌 뒤에 읽어 달라고 하셨지.
+HAMID: Hoy se han leído las cuentas. ¿Quiere la plaza oírla? ||| 오늘 결산이 읽혔소. 광장은 듣고 싶습니까?
+LA PLAZA: ¡Sí! ||| 네!
+HAMID: Entonces la leo. Está escrita a mano, con tinta azul, en la última página. ||| 그럼 읽겠소. 손으로, 푸른 잉크로, 마지막 쪽에 쓰여 있소.
+HAMID: «Este país lo gobierna quien lea sus cuentas en la plaza cada año.» ||| "이 나라는 해마다 광장에서 자기 계산을 읽는 자가 다스린다."
+HAMID: Eso es todo. Así firmó el rey. «Idris». ||| 그게 전부요. 왕은 그렇게 서명하셨소. '이드리스'.
+SEFIA: Es una frase. ||| 한 문장이네요.
+HAMID: Es un testamento, hija. ||| 유언이란다, 얘야.
+LAILA: Una sola frase. ||| 단 한 문장이군요.
+HAMID: Una sola. ¿Y sabéis qué más? No dice quién es el rey. ||| 단 한 문장이오. 그리고 또 아시오? 누가 왕인지는 적혀 있지 않소.
+LAILA: Dice quién gobierna. ||| 누가 다스리는지는 적혀 있죠.
+HAMID: Dice quién gobierna. El que lee. ||| 누가 다스리는지는 적혀 있지. 읽는 사람이오.
+LAILA: Entonces, hoy, la plaza ha gobernado. ||| 그럼 오늘은 광장이 다스렸군요.
+HAMID: Y nosotros, que hemos leído. ||| 그리고 읽은 우리가요.
+KADER: Alteza, ha llegado el momento. ||| 공주님, 때가 되었습니다.
+LAILA: Todavía no. Antes, la lección. ||| 아직이에요. 먼저 교훈을요.
+KADER: ¿Qué lección? ||| 어떤 교훈이요?
+LAILA: Una que le toca a nuestro amigo español. ||| 우리의 스페인 친구 몫이에요.
+ÁLVARO: Alteza, yo no… ||| 공주님, 저는…
+LAILA: Hable. ||| 말씀하세요.
+ÁLVARO: Está bien. Una historia. Corta. ||| 좋습니다. 이야기 하나, 짧게요.
+ÁLVARO: Doce de octubre de mil quinientos cuatro. Medina del Campo. La reina Isabel de Castilla está enferma. Manda llamar a un notario. Y dicta su testamento. ||| 1504년 10월 12일, 메디나 델 캄포입니다. 카스티야의 이사벨 여왕이 병중이었습니다. 공증인을 불러 유언을 구술합니다.
+SEFIA: ¿Y qué decía? ||| 뭐라고 했나요?
+ÁLVARO: Muchas cosas. Que la heredera era su hija Juana. Que su marido, Fernando, gobernaría mientras ella no pudiera. Y una cláusula que a mí me gusta mucho: pide a sus herederos que traten bien a los habitantes de las tierras recién descubiertas. ||| 많은 것을요. 상속인은 딸 후아나이고, 남편 페르난도가 후아나를 대신해 다스릴 수 있다는 것. 그리고 제가 아주 좋아하는 조항이 있습니다. 새로 발견한 땅의 주민들을 선하게 대하라고 상속인들에게 당부하죠.
+LAILA: ¿Y se cumplió? ||| 지켜졌습니까?
+ÁLVARO: A medias. Y esa es la lección. Un testamento no lo cumple quien lo escribe. Lo cumple quien lo lee, y quien se atreve a exigirlo. ||| 반쯤만요. 그리고 그게 교훈입니다. 유언을 이행하는 건 쓴 사람이 아니라 읽는 사람, 그리고 이행을 요구할 용기가 있는 사람입니다.
+LAILA: Quien lo lee. ||| 읽는 사람.
+ÁLVARO: Isabel escribió bien. Pero la mitad de lo que quiso se perdió porque nadie lo leyó cada año. ||| 이사벨은 잘 썼습니다. 하지만 그녀가 바란 것의 절반은 해마다 읽는 사람이 없어서 사라졌습니다.
+LAILA: Aquí lo leeremos cada año. ||| 우리는 해마다 읽겠어요.
+ÁLVARO: Eso es lo que hace distinto este testamento. No lo guarda un archivo. Lo guarda una plaza. ||| 이 유언을 다르게 만드는 점이 그겁니다. 문서고가 아니라 광장이 지키니까요.
+LAILA: Entonces acepto. ||| 그럼 받아들이겠습니다.
+KADER: Alteza, la corona. ||| 공주님, 왕관입니다.
+LAILA: La corona. ||| 왕관이군요.
+NADIA: Hija. ||| 얘야.
+LAILA: Madre. ||| 어머니.
+NADIA: Tu padre habría llorado. ||| 네 아버지가 우셨을 거다.
+LAILA: Y habría disimulado con un libro. ||| 그리고 책으로 감추셨겠죠.
+MARIAM: Alteza, hay alguien que quiere saludarla. ||| 공주님, 인사를 드리고 싶어 하는 아이가 있어요.
+MERCED: ... ||| …
+LAILA: ¿Merced? ||| 메르세드?
+MARIAM: Anda sola desde diciembre. ||| 12월부터 혼자 걸어요.
+LAILA: Ven aquí, pequeña. ||| 이리 오렴, 아가.
+MERCED: Pa. ||| 빠.
+LAILA: ¿Pa? ||| '빠'라고?
+MARIAM: Es lo que dice para todo lo que le gusta. Pan, papá, plaza. ||| 마음에 드는 것엔 다 그렇게 말해요. 빵, 아빠, 광장.
+LAILA: Entonces dice «plaza». ||| 그럼 '광장'이라고 한 거네요.
+MARIAM: O «pan». ||| 아니면 '빵'이거나요.
+HAMID: Es lo mismo. ||| 같은 말이오.
++ cuentas = 결산, 계산
++ lectura pública = 공개 낭독
++ tasas = 사용료
++ saldo = 잔액
++ antedatado = 날짜가 소급된
++ objeción = 이의
++ albacea = 유언 집행인
++ cláusula = 조항
++ cumplir = 이행하다, 지키다
++ a medias = 반쯤만
+
+## 서점 옥상 — LA AZOTEA DE LA LIBRERÍA
+REBECA: ¡Tortilla! ||| 토르티야요!
+ÁLVARO: Rebeca. Has cumplido. ||| 레베카. 약속을 지켰군요.
+REBECA: Siempre. Es de patatas y cebolla. La de Madrid. No me pidas que la haga con otra cosa. ||| 늘 지키죠. 감자와 양파예요. 마드리드식이에요. 다른 걸 넣으라고는 하지 마요.
+ÁLVARO: Jamás. ||| 절대로요.
+REBECA: Te cuento algo. La presidenta Calvo abrió el sobre en septiembre. Con el comité entero. ||| 알려 줄게요. 칼보 위원장이 9월에 위원회 전원 앞에서 봉투를 열었어요.
+ÁLVARO: ¿Y? ||| 그래서요?
+REBECA: A ti, una amonestación por escrito. A mí, seis meses sin acceso a sistemas. Y una felicitación del jefe de mi servicio, en privado, por haberme «dejado ver». ||| 당신은 서면 경고였어요. 저는 6개월 시스템 접근 정지. 그리고 우리 기관장이 사적으로 '보이게 해 줘서' 고맙다고 하더군요.
+ÁLVARO: Es una felicitación rara. ||| 이상한 칭찬이군요.
+REBECA: Es la única que sabe dar. ||| 그분이 할 줄 아는 유일한 칭찬이에요.
+ELENA: Álvaro, ¿puedo sentarme? ||| 알바로, 앉아도 될까요?
+ÁLVARO: Elena. Claro. ||| 엘레나. 물론이죠.
+ELENA: He traído vino. Un riojano. ||| 와인을 가져왔어요. 리오하산이에요.
+ÁLVARO: Qué gusto. ||| 반갑군요.
+LUCÍA: Papá. ||| 아빠.
+ÁLVARO: Lucía. ¿Cómo va la facultad? ||| 루시아. 대학은 어때?
+LUCÍA: Bien. Estoy en segundo semestre. Derecho Constitucional. He sacado un nueve. ||| 잘돼요. 2학기예요. 헌법이에요. 9점 받았어요.
+ÁLVARO: Qué orgullo. ||| 자랑스럽구나.
+LUCÍA: Me han preguntado de dónde saco los argumentos. ||| 논거를 어디서 얻느냐고 묻더라고요.
+ÁLVARO: ¿Y qué respondiste? ||| 뭐라고 답했니?
+LUCÍA: Que de un cuaderno. De mi padre. ||| 아빠의 수첩에서요.
+ÁLVARO: Tengo que darte algo. ||| 줄 게 있다.
+LUCÍA: ¿Qué? ||| 뭔데요?
+ÁLVARO: El cuaderno. Entero. Del primer día. ||| 수첩이다. 전부. 첫날부터 쓴 것.
+LUCÍA: Papá. ||| 아빠.
+ÁLVARO: Lleva años. Lo empecé cuando tú tenías diez. Está lleno de lo que he aprendido. Y de lo que me ha dolido. ||| 몇 해째 쓴 거야. 네가 열 살일 때 시작했지. 내가 배운 것으로 가득하고 아팠던 것도 들어 있다.
+LUCÍA: ¿Y tú? ||| 아빠는요?
+ÁLVARO: Yo tengo otro nuevo. Vacío. ||| 새 수첩이 있다. 비어 있는 거.
+LUCÍA: ¿Por qué me lo das? ||| 왜 저에게 주세요?
+ÁLVARO: Porque quiero que lo leas. Y porque quiero que lo corrijas. Con tus notas al pie. ||| 네가 읽었으면 해서. 그리고 네 각주로 고쳐 주었으면 해서.
+LUCÍA: Eso es mucha responsabilidad. ||| 책임이 크네요.
+ÁLVARO: Es lo que hizo Isabel. Escribió, y dejó que otros leyeran. ||| 이사벨이 한 일이다. 쓰고, 다른 사람들이 읽게 맡겼지.
+LUCÍA: Y que cumplieran. ||| 이행도 맡기고요.
+ÁLVARO: Y que cumplieran. ||| 이행도.
+LUCÍA: Entonces lo acepto. ||| 그럼 받을게요.
+ELENA: Lucía, ¿vas a decir algo? ||| 루시아, 한마디 할 거니?
+LUCÍA: Voy a escribir una nota. En la última página del cuaderno. ||| 수첩 마지막 쪽에 메모를 쓰겠어요.
+ÁLVARO: Léela. ||| 읽어 보렴.
+LUCÍA: «Las historias se escriben para ser leídas. Y lo que se lee en voz alta, cambia.» ||| "이야기는 읽히기 위해 쓰인다. 그리고 소리 내어 읽으면 달라진다."
+ÁLVARO: Es una buena última frase. ||| 좋은 마지막 문장이구나.
+LUCÍA: No es la última. Es la primera de mi cuaderno. ||| 마지막이 아니에요. 제 수첩의 첫 문장이에요.
+ÁLVARO: Entonces, adelante. ||| 그럼 계속해라.
+REBECA: ¡La tortilla se enfría! ||| 토르티야가 식어요!
+ELENA: Siéntate, Álvaro. ||| 앉아요, 알바로.
+ÁLVARO: Me siento. ||| 앉겠습니다.
+SEFIA: Señor Quintana, mi abuelo pregunta si quiere un libro. Uno de la tienda. Como regalo. ||| 킨타나 씨, 할아버지가 가게의 책 한 권을 선물로 드려도 되겠냐고 하세요.
+ÁLVARO: ¿Cuál? ||| 어떤 책이요?
+SEFIA: Dice que ya sabe cuál. ||| 어떤 책인지 이미 아신대요.
+ÁLVARO: ¿Cuál es? ||| 뭐죠?
+SEFIA: «Don Quijote», segunda parte. ||| 『돈키호테』 제2부요.
+ÁLVARO: Aquel de la libertad. ||| 자유에 관한 그 대목이로군요.
+SEFIA: Con una dedicatoria. ||| 헌사가 적혀 있어요.
+ÁLVARO: ¿Qué dice? ||| 뭐라고요?
+SEFIA: «Para el único diplomático que llama dos veces. Hamid.» ||| "두 번 전화하는 유일한 외교관에게. 하미드."
+ÁLVARO: Lo leeré en voz alta. ||| 소리 내어 읽겠습니다.
++ amonestación = 경고, 견책
++ felicitación = 축하, 칭찬
++ facultad = 대학(학부)
++ semestre = 학기
++ dedicatoria = 헌사
++ acceso = 접근
++ riojano = 리오하산(와인)
++ cuaderno = 수첩, 공책
