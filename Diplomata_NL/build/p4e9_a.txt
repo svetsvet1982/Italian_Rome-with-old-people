@@ -1,0 +1,71 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 9
+@title De verrader van Groningen
+@ko 흐로닝언의 배신자
+@setting D−4 칸다르 수자원부 서버실 → 위원회 사무실 → 밤의 수문 위
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast NOOR | 요스트의 딸, 18세
+@cast FEMKE | 분석관, 33세
+@cast KARTINI | 칸다르 공대 교수·위원장, 60세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast LISA | 델프트 대학원생(학생 모델 담당), 24세
+@note D−4. 위원회 모델이 장군에게 흘러 들어간 정황이 드러납니다. 증거는 서명이나 날짜가 아니라 작업 로그 속의 '쉼표'입니다. 네덜란드식 소수점(0,12)과 메란티식 소수점(0.12)의 차이가 출처를 말해 줍니다. 역사 논거는 렌네베르흐의 배신(1580): 신교 쪽 총독이던 렌네베르흐 백작이 스페인 쪽으로 넘어가 흐로닝언 일대를 내준 사건. 요스트는 그를 '악당'이 아니라 '증인'으로 대합니다. 어휘는 조사·데이터(ontbrekende regel, tijdstempel, kopie, bekennen, getuige)에 주목하세요.
+@next 10화: 군과 민간의 72시간 휴전을 협상합니다. 문안에는 '양쪽이 수위표를 공유한다'는 조항이 들어갑니다.
+
+## 서버실 — DE SERVERRUIMTE
+LISA: Meneer Hartog, ik ben Lisa, van de studenten. Ik ben hier met Noor, op de lijn. ||| 하르토흐 씨, 학생 쪽 리사입니다. 노르와 화상으로 연결돼 있어요.
+JOOST: Lisa, goedenavond. Wat heb je gevonden? ||| 리사, 안녕하세요. 뭘 찾았죠?
+LISA: Iets vreemds. Het gaat over het model van meneer Rijpstra. ||| 이상한 점이요. 레이프스트라 씨의 모델에 관한 거예요.
+JOOST: Laat het zien. ||| 보여 줘요.
+NOOR: Pap, kijk naar dit scherm. Het is een regel uit de log. ||| 아빠, 이 화면 보세요. 로그의 한 줄이에요.
+JOOST: Lees voor. ||| 읽어 봐.
+NOOR: «Run drieënveertig. Onzekerheidsmarge: nul komma nul twee.» ||| "실행 43. 불확실성 범위: 0,02."
+JOOST: Nul komma nul twee. Twee centimeter. ||| 0,02. 2센티미터요.
+LISA: Met een komma. ||| 쉼표로 쓰였어요.
+JOOST: Wat is daarmee? ||| 그게 왜요?
+LISA: In Meranti schrijven ze een punt. Nul punt nul twee. In Nederland schrijven we een komma. ||| 메란티에서는 점으로 써요. 0.02. 네덜란드에서는 쉼표로 쓰죠.
+JOOST: Een komma. ||| 쉼표라.
+LISA: En deze regel staat niet in het model dat bij het ministerie ligt. Hij staat in een kopie. ||| 그런데 이 줄은 부처에 있는 모델에는 없어요. 사본에 있어요.
+JOOST: Welke kopie? ||| 어떤 사본입니까?
+LISA: Een bestand dat gisteren om twee uur 's nachts is aangemaakt. Op een computer die een Nederlandse taalinstelling heeft. ||| 어제 새벽 2시에 만들어진 파일이에요. 네덜란드어 언어 설정이 된 컴퓨터에서요.
+JOOST: En het bestand is gekopieerd naar? ||| 그 파일은 어디로 복사됐죠?
+LISA: Naar een USB-stick. De serienummers staan in de log. ||| USB 메모리로요. 일련번호가 로그에 있어요.
+FEMKE: Ik heb het serienummer gecontroleerd. Het is een stick die op het ministerie is uitgegeven. Aan de burgerdefensie. ||| 일련번호를 확인했어요. 부처가 발급한 메모리예요. 민방위국에 지급된 거죠.
+JOOST: Aan de generaal. ||| 장군에게요.
+FEMKE: Aan zijn staf. ||| 그의 참모진에게요.
+JOOST: Wat zegt de tijdstempel? ||| 타임스탬프는 뭐라 합니까?
+LISA: Gisteravond, tien over twee. Drie uur nadat de commissie voor de eerste keer bij elkaar kwam. ||| 어젯밤, 2시 10분이요. 위원회가 처음 모인 지 세 시간 뒤예요.
+JOOST: Dus de aanname van twee centimeter is niet de aanname van de commissie. ||| 그러면 2센티미터라는 가정은 위원회의 가정이 아니군요.
+LISA: Nee. De commissie heeft twaalf gezegd. ||| 아니에요. 위원회는 12라고 했어요.
+JOOST: Wie heeft het in twee veranderd? ||| 누가 12를 2로 바꿨습니까?
+LISA: Dat kan ik niet zeggen. Maar de komma kan. Iemand met een Nederlandse computer. ||| 제가 말할 수는 없어요. 하지만 쉼표는 말할 수 있어요. 네덜란드어 컴퓨터를 쓰는 누군가요.
+JOOST: Er zijn in Kandar veel Nederlandse computers. ||| 칸다르에는 네덜란드어 컴퓨터가 많죠.
+LISA: Ja. Er is er één met een toetsenbord dat een Zeeuwse klik heeft. ||| 네. 그중 하나는 키보드에 제일란트식 습관이 배어 있어요.
+JOOST: Wat bedoel je? ||| 무슨 말이죠?
+LISA: Hij zet na elke zin twee spaties. Dat doen alleen mensen van een bepaalde generatie. ||| 문장마다 뒤에 공백을 두 개 넣어요. 특정 세대 사람들만 그렇게 하죠.
+FEMKE: Dat is bewijs van een hobby. ||| 그건 취향의 증거일 뿐이죠.
+LISA: Ik zeg alleen wat ik zie. ||| 보이는 걸 말할 뿐이에요.
+JOOST: Ik begrijp. Het is geen handtekening. Het is geen datum. Het is een komma. ||| 알겠어요. 서명도 날짜도 아닙니다. 쉼표죠.
+NOOR: Een komma kan niet liegen. ||| 쉼표는 거짓말을 못 해요.
+JOOST: Nee. Maar het kan getuigen. ||| 그렇죠. 하지만 증언은 할 수 있습니다.
+KARTINI: Meneer Hartog. Mag ik ook iets zeggen? ||| 하르토흐 씨, 저도 한 말씀 드려도 될까요?
+JOOST: Professor. ||| 교수님.
+KARTINI: Ik heb de oorspronkelijke bestanden van het studentenmodel nog. Dat model is vorige nacht niet aangeraakt. De marge is twaalf gebleven. ||| 학생 모델의 원본 파일이 제게 있습니다. 어젯밤 그 모델은 손대지 않았어요. 오차는 12로 그대로예요.
+JOOST: Dus iemand heeft een aparte kopie gemaakt en daarin getekend. ||| 그러니 누군가 따로 사본을 만들어 거기서 고쳤군요.
+KARTINI: En dat getal aan de generaal gegeven. ||| 그리고 그 숫자를 장군에게 줬고요.
+JOOST: Waarom zou iemand dat doen? ||| 왜 그랬을까요?
+KARTINI: Dat is geen rekenvraag. ||| 계산 문제가 아니군요.
++ serverruimte = 서버실
++ log = 기록(로그)
++ taalinstelling = 언어 설정
++ serienummer = 일련번호
++ aanname = 가정
++ oorspronkelijk = 원래의
++ aangeraakt = 손댄
++ getuigen = 증언하다
++ komma / punt = 쉼표 / 점(소수점 표기의 차이: 네덜란드 0,02 vs 메란티 0.02)
++ Een komma kan niet liegen. = 쉼표는 거짓말하지 않는다.
