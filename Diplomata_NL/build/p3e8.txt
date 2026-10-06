@@ -1,0 +1,168 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 8
+@title De vergunning
+@ko 면허
+@setting 화요일 헤이그 지하 주차장 → 밤 로테르담 집 부엌 → 수요일 외무부
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast SANNE | 국내정보기관(AIVD) 연락관, 44세
+@cast NOOR | 요스트의 딸, 17세
+@cast FEMKE | 분석관, 32세
+@cast MINISTER | 외무부 장관 판 베이크, 62세
+@note 3부 8화는 '더러운 수단'의 화입니다. 산네가 경쟁사 로비를 도청해 녹취록을 건네고, 그 안에서 비서르의 처남 마스의 목소리가 나옵니다. 요스트는 녹취록을 쓰지 않고 합법적인 길(부처 로비 일정 공개)로 같은 사실에 닿는 방법을 찾습니다. 역사 논거는 VOC 독점에 대한 당대의 비판: 피터르 더 라 쿠르트의 『홀란드의 이익』(1662)은 독점이 아닌 열린 무역이 공화국의 이익이라고 주장했습니다. 어휘는 정보 수집·로비(afluisteren, transcript, lobbyregister, belangenverstrengeling)와 가정 대화체에 주목하세요.
+@next 3부 9화 — «De derde partij»(제3자) — 중립 인증기구를 세워 면허와 최종 사용을 공동 검증합니다. '누가 확인하느냐'를 바꾸는 한 줄.
+
+## 주차장 — DE PARKEERGARAGE
+SANNE: Stap in. Niet zo kijken. Mijn auto is schoner dan de jouwe. ||| 타요. 그렇게 보지 말고요. 내 차가 당신 차보다 깨끗해요.
+JOOST: Dat is een laag niveau. ||| 낮은 기준이군요.
+SANNE: Ik heb een transcript. Drie pagina's. Een etentje van afgelopen donderdag in een restaurant in Voorburg. ||| 녹취록이 있어요. 세 쪽. 지난 목요일 포어뷔르흐 식당에서의 식사 자리예요.
+JOOST: Wie zaten er aan tafel? ||| 누가 있었습니까?
+SANNE: Een lobbyist van Helion Systems. Een man van de commissie voor exportcontrole. En een adviseur. ||| 헬리온 시스템스의 로비스트, 수출 통제 위원회 사람, 그리고 자문역 한 명이요.
+JOOST: Zonder bevel. ||| 영장 없이요.
+SANNE: Met een bevel. Het is gewoon een afluisteropdracht in het kader van een onderzoek naar spionage. Ik mag het alleen niet delen met jou. ||| 영장은 있어요. 스파이 수사 틀 안의 감청 명령이죠. 다만 당신과 공유하면 안 돼요.
+JOOST: En je deelt het toch. ||| 그런데 공유하는군요.
+SANNE: Omdat de rest ervan niet over spionage gaat. Het gaat over iemand die jij kent. ||| 나머지는 스파이 이야기가 아니거든요. 당신이 아는 사람에 관한 거예요.
+JOOST: Wie? ||| 누구요?
+SANNE: Lees pagina twee. Onderaan. ||| 2쪽 맨 아래를 읽어요.
+JOOST: «Adviseur: ...mijn zwager heeft de leiding over het buitenlandse dossier. Hij is er sinds kort weer bij. Hij heeft een geweten, maar dat is een kwestie van timing». ||| '자문역: …제 처남이 해외 안건을 맡고 있어요. 얼마 전에 다시 들어왔죠. 양심이 있지만 그건 타이밍 문제입니다.'
+SANNE: Ik denk dat «adviseur» Gerrit Maas is. De stem komt overeen met een eerdere opname. ||| '자문역'은 헤리트 마스라고 생각해요. 목소리가 이전 녹음과 일치합니다.
+JOOST: Zijn zwager is Rutger Visser. ||| 처남이면 뤼트허르 비서르죠.
+SANNE: Ja. ||| 네.
+JOOST: Visser is sinds de zijbrief getuige. Hij heeft geen dossier. ||| 비서르는 부수서한 이후 증인입니다. 맡은 안건이 없어요.
+SANNE: Dat is wat de website zegt. Maar in de praktijk zit hij weer in drie overleggen. Hij is namelijk de enige die het Karimba-dossier historisch kent. ||| 웹사이트에는 그렇게 적혀 있죠. 하지만 실제로는 협의 세 곳에 다시 앉아 있어요. 카림바 안건의 역사를 아는 유일한 사람이니까요.
+JOOST: ... ||| …
+SANNE: Joost. Je moet hem bellen. ||| 요스트. 그에게 전화해야 해요.
+JOOST: Dat weet ik. ||| 알아요.
+SANNE: Je zegt het al een maand. ||| 한 달째 그 말을 하시네요.
+JOOST: Wat mag ik met dit transcript doen? ||| 이 녹취록으로 무엇을 해도 됩니까?
+SANNE: Niets. Ik heb het niet gegeven. Ik heb je alleen laten lezen. ||| 아무것도요. 준 적 없어요. 읽게 했을 뿐이에요.
+JOOST: Dat is een mooie nuance. ||| 멋진 뉘앙스군요.
+SANNE: Het is wat mijn werk toestaat. ||| 제 업무가 허용하는 범위죠.
+JOOST: Sanne. Als ik dit gebruik, is het onrechtmatig. ||| 산네. 이걸 쓰면 불법입니다.
+SANNE: Als je het niet gebruikt, wint Helion. ||| 안 쓰면 헬리온이 이겨요.
+JOOST: Dat zei je ook over de bibliotheek. ||| 도서관 때도 그렇게 말했죠.
+SANNE: En ik had gelijk. ||| 그리고 제가 옳았고요.
+JOOST: Je had gelijk dat ze haar zouden vinden. Maar het is op een nette manier gelukt. ||| 그들이 찾을 거라는 말은 옳았어요. 하지만 점잖은 방식으로 해냈죠.
+SANNE: Dat is waar. ||| 맞아요.
+JOOST: Dan probeer ik het weer. Op een nette manier. ||| 그럼 또 시도하겠습니다. 점잖게요.
+SANNE: Wat heet «netjes»? ||| '점잖게'가 뭔데요?
+JOOST: Dat ik iets vind dat iedereen kan zien. ||| 누구나 볼 수 있는 걸 찾는 겁니다.
+## 부엌 — DE KEUKEN
+NOOR: Pap, je bent laat. Het eten is koud. ||| 아빠, 늦었어요. 음식이 식었어요.
+JOOST: Ik heb in een auto gezeten. ||| 차에 앉아 있었어.
+NOOR: Met mevrouw Veldkamp? ||| 펠트캄프 씨와요?
+JOOST: Hoe weet je dat? ||| 어떻게 알아?
+NOOR: Je ruikt naar haar parfum. Het ruikt naar doodsangst en lavendel. ||| 그 사람 향수 냄새가 나요. 죽음의 공포와 라벤더 향요.
+JOOST: Je bent een scherpe neus. ||| 코가 예리하구나.
+NOOR: Wat heeft ze nu weer? ||| 이번엔 뭘 가져왔어요?
+JOOST: Een transcript. Van een gesprek dat ik niet mag horen. ||| 내가 들으면 안 되는 대화의 녹취록이야.
+NOOR: Weer. Pap, ik heb een vraag. Voor mijn project. ||| 또요. 아빠, 질문이 있어요. 프로젝트 때문에요.
+JOOST: Zeg het. ||| 말해 봐.
+NOOR: Als iemand het milieu wil beschermen, en de enige manier is iets te doen dat illegaal is, mag dat dan? ||| 환경을 지키고 싶은데 유일한 방법이 불법이라면 해도 돼요?
+JOOST: Dat is een grote vraag. ||| 큰 질문이구나.
+NOOR: Mijn leraar zei: «De geschiedenis geeft de activisten vaak gelijk». ||| 선생님이 그러셨어요. "역사는 종종 활동가들 편을 든다."
+JOOST: Dat is waar. Maar de geschiedenis geeft ook gelijk aan de mensen die niets illegaals deden, en toch wonnen. ||| 사실이야. 하지만 역사는 불법을 하나도 하지 않고도 이긴 사람들 편을 들기도 해.
+NOOR: Wie? ||| 누구요?
+JOOST: Pieter de la Court. ||| 피터르 더 라 쿠르트.
+NOOR: Wie is dat? ||| 누구예요?
+JOOST: In 1662 schreef hij een boek: «De Interest van Holland». Hij zei: de VOC heeft een monopolie. Dat is slecht voor Holland. Vrije handel is beter. ||| 1662년 『홀란드의 이익』이라는 책을 썼어. 그는 VOC가 독점을 하고 있고 그게 홀란드에 나쁘다고 했지. 자유 무역이 더 낫다고.
+NOOR: En ze zetten hem gevangen. ||| 그래서 감옥에 가뒀겠네요.
+JOOST: Nee. Hij werd niet gevangengezet. Hij schreef, hij publiceerde, en hij liet iedereen het argument lezen. ||| 아니. 가두지 않았어. 그는 쓰고 출판했고 모두가 논거를 읽게 했지.
+NOOR: En het werkte? ||| 그리고 통했어요?
+JOOST: Niet snel. Maar zijn boek ligt nog in de bibliotheek. En de VOC is er niet meer. ||| 빨리는 아니었지. 하지만 그의 책은 아직 도서관에 있고 VOC는 없어.
+NOOR: Dus je mag een monopolie bestrijden met een boek. ||| 독점을 책으로 맞서 싸울 수 있다는 거네요.
+JOOST: Met een openbaar boek. Zonder iets te stelen. ||| 공개된 책으로요. 훔치지 않고요.
+NOOR: En als niemand het leest? ||| 아무도 안 읽으면요?
+JOOST: Dan is het zinvol om het hardop voor te lezen. ||| 그럼 소리 내어 읽는 게 의미가 있겠지.
+NOOR: Dus het antwoord op mijn vraag is nee? ||| 그럼 제 질문의 답은 '아니요'네요?
+JOOST: Het antwoord is: niet als er een eerlijke manier is om hetzelfde te bereiken. En meestal is die er. Ze duurt alleen langer. ||| 답은 이렇단다. 같은 걸 이룰 정직한 방법이 있다면 안 돼. 대개 있어. 더 오래 걸릴 뿐이지.
+NOOR: En als ze te lang duurt? ||| 너무 오래 걸리면요?
+JOOST: Dan mag je boos zijn. Maar nog steeds eerlijk. ||| 그럼 화내도 돼. 하지만 여전히 정직하게.
+NOOR: Dat is lastig. ||| 어렵네요.
+JOOST: Dat is het ook. ||| 어렵지.
++ afluisteren = 도청하다, 감청하다
++ transcript = 녹취록
++ exportcontrole = 수출 통제
++ belangenverstrengeling = 이해충돌
++ monopolie = 독점
++ vrije handel = 자유 무역
++ doodsangst = 죽음의 공포
++ een scherpe neus = 예리한 코(눈치)
++ gevangengezet = 투옥된
++ zinvol = 의미 있는
+## 로비 일정 — DE LOBBYAGENDA
+JOOST: Mevrouw de minister, ik heb een verzoek. Geen geheim. Een formeel. ||| 장관님, 요청이 있습니다. 비밀이 아니라 공식 요청입니다.
+MINISTER: Zegt u het. ||| 말씀하세요.
+JOOST: Publiceert u de afspraken die uw ministerie de afgelopen drie weken heeft gehad met vertegenwoordigers van bedrijven over het Karimba-dossier. Het lobbyregister. ||| 지난 3주간 카림바 안건에 관해 부처가 기업 대표들과 가진 면담을 공개해 주십시오. 로비 일정입니다.
+MINISTER: Dat is openbaar beleid. Sinds de hervorming van het Vredespaleis publiceren we elke maand. Maar niet binnen drie weken. ||| 공개 방침입니다. 평화궁 개혁 이후 매달 공개하죠. 하지만 3주 단위는 아닙니다.
+JOOST: Dan vraag ik om een uitzondering. Vandaag. ||| 그럼 예외를 요청합니다. 오늘요.
+MINISTER: Waarom? ||| 왜죠?
+JOOST: Omdat de beslissing binnen zeven dagen valt. En omdat ik wil dat het kabinet weet wie er rond de tafel heeft gezeten. ||| 결정이 7일 안에 나고, 누가 탁자 주위에 앉았는지 내각이 알아야 해서입니다.
+MINISTER: Dit is geen verzoek om informatie. Dit is een verzoek om een val. ||| 정보 요청이 아니라 함정 요청 같군요.
+JOOST: Het is een verzoek om een gastenboek. ||| 방명록 요청입니다.
+MINISTER: Een gastenboek. ||| 방명록이라.
+JOOST: Zoals meneer Zandstra. Iedereen die langskomt, schrijft zijn naam. Wie niet langskomt, schrijft niets. Wie liegt, laat een gat. ||| 잔드스트라 씨의 방식이죠. 오는 사람은 이름을 쓰고 안 온 사람은 안 씁니다. 거짓말하는 사람은 빈자리를 남기고요.
+MINISTER: En u verwacht een gat. ||| 빈자리를 예상하시는군요.
+JOOST: Ik verwacht dat er iets staat. ||| 뭔가 적혀 있으리라 예상합니다.
+MINISTER: Ik laat het opvragen. Mevrouw De Bit, kunt u het meenemen? ||| 요청하겠습니다. 더 비트 씨, 가져오시겠어요?
+FEMKE: Het ligt al klaar. ||| 이미 준비돼 있어요.
+MINISTER: U hebt het al? ||| 벌써 갖고 있다고요?
+FEMKE: Het is een openbaar document. Ik heb het gisteren gedownload. ||| 공개 문서예요. 어제 내려받았습니다.
+MINISTER: Dat had u me dus niet hoeven te vragen. ||| 그럼 제게 요청하실 필요도 없었군요.
+JOOST: Ik wilde het u laten zien. En ik wilde dat u het voorlas. ||| 장관님께 보여 드리고 싶었고 직접 읽어 주시길 바랐습니다.
+MINISTER: Waarom? ||| 왜죠?
+JOOST: Omdat een stuk dat een minister voorleest, anders klinkt. ||| 장관이 읽어 주는 문서는 다르게 들리니까요.
+MINISTER: Geef maar. ||| 주세요.
+MINISTER: «Veertien juni, 11.00: Helion Systems, mr. D. Wouters, lobbyist. Onderwerp: exportcontrole Karimba. Aanwezig namens het ministerie: afdeling DJZ, de heer R. Visser, historisch advies». ||| "6월 14일 11시. 헬리온 시스템스, 로비스트 D. 바우터르스. 안건: 카림바 수출 통제. 부처 측: 법무국, R. 비서르 씨, 역사 자문."
+JOOST: Visser. ||| 비서르.
+MINISTER: «Twintig juni, 15.00: Helion Systems, mr. D. Wouters, vergezeld door adviseur G. Maas. Aanwezig: R. Visser». ||| "6월 20일 15시. 헬리온 시스템스, D. 바우터르스, 자문역 G. 마스 동행. 부처 측: R. 비서르."
+FEMKE: Tweemaal. Met Maas erbij. ||| 두 번이에요. 마스가 같이 왔어요.
+MINISTER: «Vijfentwintig juni, 10.00: ... Aanwezig: R. Visser». Drie keer. ||| "6월 25일 10시…. 부처 측: R. 비서르." 세 번입니다.
+JOOST: Drie keer, en elke keer als historisch adviseur. ||| 세 번 모두 역사 자문으로요.
+MINISTER: Mevrouw De Bit, in welk register staat deze naam? ||| 더 비트 씨, 이 이름은 어느 등록부에 있나요?
+FEMKE: Dat van de ambtenarenzaken. Hij is nog steeds in dienst. Als getuige. Maar zijn getuigenstatus is blijkbaar uitgebreid. ||| 공무원 인사 쪽이에요. 아직 재직 중이고 신분은 증인인데 증인 지위가 늘어난 모양이에요.
+MINISTER: Dat is niet mijn besluit. ||| 제 결정이 아닙니다.
+JOOST: Mevrouw de minister, ik beschuldig niemand. Het register zegt alleen wat het zegt. ||| 장관님, 누구도 비난하지 않습니다. 등록부가 말하는 걸 말할 뿐입니다.
+MINISTER: Het zegt dat een getuige drie keer zat aan een tafel waar zijn zwager zat. ||| 증인이 처남이 앉은 탁자에 세 번 앉았다는 거죠.
+JOOST: Het zegt dat. ||| 그렇게 적혀 있습니다.
+MINISTER: En u wilt dat ik hem laat vallen. ||| 그리고 제가 그를 버리길 원하시고요.
+JOOST: Nee. Ik wil dat u hem laat spreken. ||| 아니요. 말하게 해 주시길 원합니다.
+MINISTER: Dat is wat u bij Visser altijd zegt. ||| 비서르에 대해서는 늘 그렇게 말하시는군요.
+JOOST: Het werkt. ||| 효과가 있습니다.
+MINISTER: Het werkte twee keer. De derde keer? ||| 두 번은 통했죠. 세 번째는요?
+JOOST: Hij heeft gezwegen. Maar hij heeft hier niet gelogen. ||| 침묵했지만 여기서 거짓말하지는 않았습니다.
+MINISTER: Nog niet. ||| 아직은요.
+JOOST: Nog niet. ||| 아직은요.
+## 전화 — HET TELEFOONTJE
+JOOST: Rutger. ||| 뤼트허르.
+VISSER: Joost. ||| 요스트.
+JOOST: We moeten praten. ||| 이야기해야 합니다.
+VISSER: Ik weet het. ||| 알아요.
+JOOST: Je weet het. ||| 아는군요.
+VISSER: Ik heb het register gezien. Het staat al op de site. Mijn naam. Drie keer. ||| 등록부를 봤습니다. 사이트에 이미 올라왔어요. 내 이름이 세 번이요.
+JOOST: Waarom ben je erheen gegaan? ||| 왜 거기 갔습니까?
+VISSER: Omdat ze me vroegen. Als historisch adviseur. Ik ken het Karimba-dossier. Dat is waar. ||| 요청을 받아서요. 역사 자문으로요. 카림바 안건을 아는 건 사실이에요.
+JOOST: En Gerrit? ||| 헤리트는요?
+VISSER: Hij kwam er elke keer bij. Ik kon hem niet weigeren. Hij is mijn zwager. ||| 매번 같이 왔어요. 거절할 수 없었습니다. 처남이니까요.
+JOOST: Dat is een belangenverstrengeling. ||| 이해충돌입니다.
+VISSER: Ik weet het. Daarom heb ik een brief geschreven. ||| 압니다. 그래서 편지를 썼습니다.
+JOOST: Een brief? ||| 편지요?
+VISSER: Voor de hoorzitting. Ik wil hem je laten lezen. Maar eerst moet ik hem afmaken. ||| 청문회용이요. 읽게 해 주고 싶지만 먼저 끝내야 합니다.
+JOOST: Welke hoorzitting? ||| 무슨 청문회요?
+VISSER: Die van jou. Ik hoorde dat de Tweede Kamer je wil horen. ||| 당신 청문회요. 하원이 당신을 부른다고 들었습니다.
+JOOST: Ik heb er nog niets over gehoord. ||| 아직 아무 말도 못 들었습니다.
+VISSER: Dan hoor je het deze week. ||| 이번 주에 듣게 될 겁니다.
+JOOST: Rutger. Ik wil de brief lezen. Voor ik ga. ||| 뤼트허르. 가기 전에 편지를 읽고 싶습니다.
+VISSER: Dan heb je hem. Als ik hem af heb. ||| 그럼 드리죠. 끝내면요.
++ lobbyregister = 로비 등록부(공무원이 만난 이해관계자 일정 공개)
++ lobbyagenda = 로비 일정
++ historisch adviseur = 역사 자문
++ ambtenarenzaken = 공무원 인사
++ iemand laten vallen = ~를 버리다
++ in dienst = 재직 중인
++ een uitzondering = 예외
++ vergezeld door = ~를 동반한
++ een gat laten = 빈자리를 남기다
++ zijn naam schrijven = 이름을 적다
