@@ -1,0 +1,93 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 1
+@title Het vastgehouden baggerschip
+@ko 억류된 준설선
+@setting 월요일 아침 헤이그 외무부 위기대책실 → 메란티 차관과의 화상 통화 → 월요일 밤 로테르담 집 → 수요일 메란티 칸다르 항
+@level B2-C1
+@cast JOOST | 외교관 · 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 제일란트 출신, 31세
+@cast VISSER | 외무부 부국장, 52세
+@cast SURYO | 메란티 공화국 수자원부 차관 (가상)
+@cast KOOIMAN | 억류된 준설선 '제일레우'호 선장
+@cast BRAM | 같은 배 기관사
+@cast NOOR | 요스트의 딸, 16세
+@note 1부 첫 화입니다. 메란티 공화국과 사건은 모두 허구입니다. 이 화의 핵심 장치는 '해법이 대화 속에서 떠오르는 순간'입니다. 요스트는 책임 공방을 멈추고 '수위 데이터'라는 모두가 믿는 기준으로 대화를 옮깁니다. 역사 논거는 1953년 북해 대홍수 뒤의 델타 위원회와 델타 계획입니다. 네덜란드어의 직설(botheid)과 '일단 앉아서 이야기하자(laten we even gaan zitten)'라는 합의 문화 표현, 수리·해사 어휘(dijk, peil, baggeren)에 주목하세요.
+@next 1부 2화 — «Koffie in Delft»(델프트의 커피) — 요스트는 델프트 공대를 나온 메란티 대사관 서기관을 공식 라인 밖에서 만납니다. 커피 한 잔과 낡은 수위표 노트, 그리고 그가 흘린 한 마디: '1969년의 물 협정'.
+
+## 도입 — DE CRISISKAMER
+VISSER: Goedemorgen. Doe de deur dicht, alsjeblieft. Een baggerschip aan de ketting, negentien mensen aan boord en een pers die bloed ruikt. ||| 좋은 아침입니다. 문 닫아 주세요. 사슬에 묶인 준설선 한 척, 선원 열아홉 명, 그리고 피 냄새를 맡은 언론입니다.
+FEMKE: De journaals openen er sinds zeven uur mee. «Nederlands schip vastgehouden na dijkbreuk». Zo noemen ze het. ||| 일곱 시부터 뉴스마다 이걸로 시작해요. '제방 붕괴 후 네덜란드 선박 억류'라고 부릅니다.
+JOOST: «Vastgehouden» klopt. «Gegijzeld» niet. Dat verschil doet ertoe, Femke, ook al past het niet in een kop. ||| '억류'는 맞아요. '인질'은 아니고요. 그 차이는 중요합니다, 페므커, 헤드라인에 안 들어가더라도요.
+FEMKE: Voor de families bestaat dat verschil niet. Hun man of zoon komt niet thuis, punt. ||| 가족들에게는 그 차이가 없어요. 남편이나 아들이 집에 못 온다, 끝이죠.
+JOOST: Ook waar. Visser, wat weten we zeker? ||| 그것도 맞아요. 비서르, 확실히 아는 게 뭡니까?
+VISSER: Zes dagen geleden is de zeedijk bij Kuala Delta doorgebroken. Driehonderdveertig doden, honderdtwintigduizend mensen op de vlucht. En het baggerschip «Zeeleeuw» van Veldhuis Waterwerken lag die week twee kilometer verderop te baggeren. ||| 엿새 전 쿠알라 델타의 해안 제방이 터졌습니다. 사망자 340명, 피난민 12만 명. 그리고 펠트하위스 수리공사의 준설선 '제일레우'호가 그 주에 2킬로미터 밖에서 준설 중이었어요.
+JOOST: Wanneer is het schip vastgezet? ||| 선박은 언제 묶였습니까?
+VISSER: Vrijdagavond. De havenautoriteit van Kandar heeft het in beslag genomen. De bemanning mag het schip niet af. ||| 금요일 저녁입니다. 칸다르 항만청이 압류했어요. 선원은 배에서 내릴 수 없습니다.
+FEMKE: Elf Nederlanders, acht anderen. De kapitein heet Kooiman. Hij belde gisteren via de satelliettelefoon. ||| 네덜란드인 열한 명, 그 밖의 선원 여덟 명. 선장 이름은 코이만이에요. 어제 위성전화로 연락했습니다.
+JOOST: Hoe klonk hij? ||| 어떤 목소리였습니까?
+FEMKE: Moe. En beleefd, op een manier die zegt: «ik probeer niet te schreeuwen». ||| 지쳤어요. 그리고 '소리 지르지 않으려 애쓰는' 식으로 정중했습니다.
+VISSER: Ik stel voor dat we het juridisch aanpakken. Een advocaat van het ministerie, een formele nota verbale, en als ze niet toegeven, sancties. ||| 법적으로 접근하자고 제안합니다. 외무부 변호사, 공식 구상서, 그래도 양보하지 않으면 제재요.
+JOOST: Sancties tegen een land dat net honderdtwintigduizend mensen heeft verloren aan het water? ||| 방금 물 때문에 12만 명을 잃은 나라에 제재를요?
+VISSER: Ze houden onze mensen vast. ||| 우리 국민을 붙잡고 있잖습니까.
+JOOST: Omdat ze iemand de schuld willen geven. Dat is geen reden om sancties te geven. Dat is een reden om te gaan zitten. ||| 누군가에게 책임을 묻고 싶어서죠. 그건 제재할 이유가 아니라 앉아서 이야기할 이유입니다.
+VISSER: Joost, dit is niet het moment voor je poldermodel. ||| 요스트, 지금은 당신의 폴더 모델 타령을 할 때가 아닙니다.
+JOOST: Het is precies het moment. Als ze negentien mensen vasthouden, hebben ze een onderhandelingspositie. Als wij dreigen, krijgen ze een reden om die positie te verdedigen. ||| 바로 지금이 그때예요. 열아홉 명을 붙잡고 있으면 그들에겐 협상 카드가 있습니다. 우리가 위협하면 그 카드를 지킬 이유를 주는 셈이고요.
+VISSER: En wat stel jij dan voor? ||| 그럼 당신은 뭘 제안합니까?
+JOOST: Ik bel vandaag nog met de plaatsvervangend minister van Water. Zonder advocaten erbij. ||| 오늘 안에 수자원부 차관에게 전화하겠습니다. 변호사 없이요.
+VISSER: Zonder advocaten. Dat vind ik riskant. ||| 변호사 없이요. 위험해 보입니다.
+JOOST: Dan noteer je dat in het verslag. En als het misgaat, kun je zeggen dat je het gezegd had. ||| 그럼 회의록에 적으세요. 잘못되면 말했었다고 하실 수 있게요.
+VISSER: Dat ga ik doen. ||| 그렇게 하죠.
+FEMKE: Mag ik iets toevoegen? ||| 하나 덧붙여도 될까요?
+JOOST: Altijd. ||| 언제든지요.
+FEMKE: Ik heb de peilgegevens van Kuala Delta opgevraagd bij het Deltares-archief. De waterstand zat die nacht niet buiten de ontwerpnorm. ||| 델타레스 자료실에서 쿠알라 델타의 수위 자료를 받았어요. 그날 밤 수위는 설계 기준을 벗어나지 않았습니다.
+JOOST: Dus de dijk is bezweken bij een peil dat hij had moeten houden. ||| 그러니까 제방이 견뎌야 할 수위에서 무너졌다는 거군요.
+FEMKE: Dat suggereren de cijfers. Maar het is voorlopig. ||| 숫자는 그렇게 시사해요. 하지만 잠정적입니다.
+JOOST: Voorlopig is genoeg om mee te beginnen. ||| 잠정적이어도 시작하기엔 충분해요.
+VISSER: Je loopt vooruit op de feiten. ||| 사실보다 앞서가시는군요.
+JOOST: Ik loop er naast. Dat is een verschil. ||| 앞서가는 게 아니라 나란히 가는 겁니다. 다르죠.
+## 전화 — HET TELEFOONGESPREK
+JOOST: Meneer Suryo, goedemiddag. Dit is Joost Hartog van het Nederlandse ministerie van Buitenlandse Zaken. Dank dat u de tijd neemt. ||| 수리요 차관님, 안녕하십니까. 네덜란드 외무부의 요스트 하르토흐입니다. 시간 내 주셔서 감사합니다.
+SURYO: Meneer Hartog. Mijn land rouwt. U moet begrijpen dat ik niet veel tijd heb. ||| 하르토흐 씨. 우리나라는 애도 중입니다. 제게 시간이 많지 않다는 걸 이해하셔야 합니다.
+JOOST: Dat begrijp ik. Ik begin met het belangrijkste: ons medeleven. Driehonderdveertig doden is een getal dat ik niet wil uitspreken zonder dat eerst te zeggen. ||| 이해합니다. 가장 중요한 것부터 말씀드립니다. 우리의 애도입니다. 340명이라는 숫자를 그 말 없이 입에 올리고 싶지 않았습니다.
+SURYO: Dank u. Dat is meer dan ik van uw ambassadeur heb gehoord. ||| 감사합니다. 귀국 대사에게서 들은 것보다 많군요.
+JOOST: Dat zal ik meenemen. Meneer Suryo, mag ik iets heel direct vragen? ||| 그건 새겨 두겠습니다. 수리요 차관님, 아주 직설적으로 하나 여쭤도 되겠습니까?
+SURYO: Dat is de reputatie van uw land. ||| 귀국의 평판이 그렇죠.
+JOOST: Wat wilt u dat er gebeurt? ||| 무엇이 이루어지길 원하십니까?
+SURYO: Ik wil dat degene die verantwoordelijk is, betaalt. Ik wil dat mijn volk weet dat het niet de natuur was. ||| 책임 있는 사람이 값을 치르길 원합니다. 우리 국민이 자연이 아니었다는 걸 알길 원하고요.
+JOOST: Dat is een eerlijk antwoord. En een rechtvaardige wens. ||| 정직한 대답이군요. 그리고 정당한 바람이고요.
+SURYO: Dan snapt u waarom het schip blijft. ||| 그럼 배가 남아 있는 이유를 아시겠군요.
+JOOST: Ik snap waarom u iets wilt vasthouden. Maar ik vraag me af of het schip het juiste ding is. ||| 무언가를 붙잡고 싶으신 이유는 이해합니다. 하지만 그게 배인지는 의문이에요.
+SURYO: Wat bedoelt u? ||| 무슨 뜻입니까?
+JOOST: Als u negentien mensen vasthoudt, staat de wereld daarover te schreeuwen. Dan gaat het gesprek over hen, en niet over uw dijk. En uw dijk is waar het om gaat. ||| 열아홉 명을 붙잡고 있으면 세상은 그들 얘기로 떠들어요. 그러면 대화가 제방이 아니라 그들 이야기가 되고, 중요한 건 제방인데요.
+SURYO: U probeert mij te manipuleren. ||| 저를 조종하려는 거군요.
+JOOST: Ik probeer u een andere keuze te laten zien. Dat is een verschil, al is de grens dun. ||| 다른 선택지를 보여 드리려는 겁니다. 경계는 얇지만 다릅니다.
+SURYO: Wat is uw andere keuze? ||| 다른 선택지가 뭡니까?
+JOOST: Samen kijken naar wat die nacht is gebeurd. Niet naar wie het gedaan heeft. Naar de waterstand. ||| 그날 밤 무슨 일이 있었는지 같이 보는 겁니다. 누가 했는지가 아니라 수위를요.
+SURYO: Het water heeft geen schuld. ||| 물에는 잘못이 없습니다.
+JOOST: Nee. En daarom is het het enige waar we het over eens kunnen worden. ||| 맞습니다. 그래서 우리가 합의할 수 있는 유일한 것입니다.
+SURYO: Zeg dat nog eens. ||| 다시 말해 보세요.
+JOOST: Over de schuld zullen we het nooit eens worden. Over het peil wel. Een meetlat liegt niet. ||| 책임은 우리가 절대 합의하지 못합니다. 수위는 할 수 있어요. 눈금자는 거짓말을 안 하니까요.
+SURYO: ... Mijn ingenieurs hebben alle gegevens. Die zijn niet voor buitenlanders. ||| …우리 기술자들이 자료를 다 갖고 있습니다. 외국인용이 아니에요.
+JOOST: Dan stel ik voor dat uw ingenieurs en de onze samen naar dezelfde tabel kijken. Op neutraal terrein. ||| 그럼 귀국 기술자와 우리 기술자가 같은 표를 같이 보자고 제안합니다. 중립 장소에서요.
+SURYO: Neutraal terrein bestaat niet. ||| 중립 장소는 존재하지 않습니다.
+JOOST: In Nederland heet dat een polder. Een stuk land waar iedereen aan de pomp moet trekken. ||| 네덜란드에서는 그걸 폴더라고 부릅니다. 모두가 같이 펌프를 당겨야 하는 땅이죠.
+SURYO: Meneer Hartog, ik beloof niets. Maar ik wil uw naam in mijn notitieboekje zetten. ||| 하르토흐 씨, 아무것도 약속하지 않습니다. 하지만 당신 이름을 제 수첩에 적어 두겠습니다.
+JOOST: Dat is meer dan ik hoopte. ||| 바란 것 이상입니다.
+SURYO: U hoort van mij. Morgen. Of overmorgen. ||| 연락드리겠습니다. 내일이나 모레.
+JOOST: Ik wacht. ||| 기다리겠습니다.
+FEMKE: Dat was... niet zo slecht. ||| 그건… 나쁘지 않았어요.
+JOOST: Hij heeft mijn naam genoteerd. Dat is geen toezegging. Maar het is een deur die op een kier staat. ||| 이름을 적었을 뿐이에요. 약속은 아니지만 문이 조금 열렸죠.
+VISSER: Je bent twintig minuten bezig geweest en hebt niets bereikt. ||| 20분 동안 아무 성과도 없었습니다.
+JOOST: Ik heb een kier bereikt. In Nederland bouwen we daar een dijk op. ||| 틈을 얻었죠. 네덜란드에서는 거기서부터 제방을 쌓습니다.
++ vastgehouden / gegijzeld = 억류된 / 인질로 잡힌. 법적으로 다른 개념
++ in beslag nemen = 압류하다. 'inbeslagname'은 압류
++ nota verbale = 구상서. 외교 공식 서면 통보
++ plaatsvervangend minister = 차관. 'viceminister'와 비슷하게 쓰인다
++ ontwerpnorm = 설계 기준. 제방이 견뎌야 하는 수위 기준
++ peil = 수위. 'peilgegevens'는 수위 자료
++ polder = 간척지. 여기서는 '모두가 같이 펌프를 당기는' 합의 문화의 상징
++ poldermodel = 폴더 모델. 네덜란드의 합의 중심 의사결정 방식
++ een kier = (문의) 틈. 'op een kier staan'은 조금 열려 있다
++ geen toezegging = 약속이 아님. 'toezegging'은 약속, 확약
