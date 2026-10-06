@@ -1,0 +1,69 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 12
+@title Een volk dat leeft
+@ko 살아 있는 민족
+@setting D+3 물이 빠지는 티르타 → 칸다르 검찰청 앞 → 사와 제방 위 해질녘
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast NOOR | 요스트의 딸, 18세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast SURYO | 수자원부 장관, 54세
+@cast KARTINI | 위원장, 60세
+@cast BASUKI | 전 민방위 총책, 58세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast SITI | 마을 교사, 29세
+@cast DARMA | 늙은 농부, 71세
+@cast ESTHER | 신문 기자, 40세
+@note 4부이자 시리즈의 마지막 화입니다(D+3). 침수는 A구획의 460가구에 그쳤고 사망자는 없습니다. 장군은 구속되고 란트빈닝은 해체되며, 폴더에는 매년 투표하는 '물 위원회'가 생깁니다. 역사 논거는 아프슬라위트 제방(1932)의 비문 "Een volk dat leeft, bouwt aan zijn toekomst"(살아 있는 민족은 자신의 미래를 짓는다): 제방은 한 번 지으면 끝나는 것이 아니라 세대가 이어 가는 약속이라는 결론입니다. 시리즈의 모티프(수위, 폴더, 소리 내어 읽기, '먼저 말하면 값이 싸다', 수첩)가 마지막으로 돌아옵니다. 어휘는 결산·평가(schade, vergoeding, aanklacht, verkiezing, toekomst)와 성찰 표현에 주목하세요.
+@next (시리즈 완결) 네덜란드어판 「HOOGWATER」 4부작은 여기서 끝납니다. 새 수첩의 마지막 쪽은 이제 노르의 글씨입니다.
+
+## 물이 빠진 뒤 — NA HET WATER
+KARTINI: Dames en heren, ik lees het eindcijfer. Hardop. Zoals wij hebben afgesproken. ||| 여러분, 최종 수치를 읽겠습니다. 합의한 대로 소리 내어서요.
+KARTINI: De piek bij Kandar was vier meter zeven. De kade, met de zandzakken, hield vier meter vijftien. ||| 칸다르 정점은 4.07미터였습니다. 방벽은 모래주머니를 얹어 4.15미터를 버텼습니다.
+KARTINI: Marge: acht centimeter. ||| 여유는 8센티미터였습니다.
+ARIEF: Acht centimeter. Precies wat de studenten hadden berekend. ||| 8센티미터. 학생들이 계산한 그대로예요.
+KARTINI: Vak A is volgelopen. Vierhonderdzestig huishoudens zijn geëvacueerd. Er zijn geen doden. Drie gewonden, licht. ||| A구획은 물이 찼습니다. 460가구가 대피했고 사망자는 없습니다. 경상자 3명입니다.
+LALITA: Drie gewonden. Dat zijn twee te veel. ||| 부상자 셋. 둘이 많은 거예요.
+KARTINI: Dat is waar. ||| 맞습니다.
+LALITA: Wie zijn het? ||| 누구죠?
+KARTINI: Een soldaat met een gebroken pols. Een kind met een snee. En Slamet. ||| 손목이 부러진 병사 한 명, 베인 아이 한 명, 그리고 슬라멧 씨요.
+SLAMET: Mijn vinger. Hij zit in het gips. Ik heb hem tussen een caisson en een zandzak gehad. ||| 제 손가락이요. 깁스 중입니다. 케이슨과 모래주머니 사이에 끼었어요.
+LALITA: Is hij gebroken? ||| 부러졌어요?
+SLAMET: Een beetje. ||| 조금요.
+LALITA: Dan heb je een goed verhaal. ||| 그럼 좋은 이야깃거리가 생겼네요.
+SLAMET: Het was het mooiste moment van mijn leven. ||| 제 인생에서 가장 멋진 순간이었어요.
+SURYO: De vergoeding is gisteren uitbetaald. Aan alle vierhonderdzestig huishoudens. Vooraf, zoals afgesproken. ||| 보상은 어제 지급됐습니다. 460가구 전부에게요. 약속대로 사전에 정해 둔 금액입니다.
+DARMA: Het is aangekomen. Mijn buurman heeft zijn geld. Hij heeft zijn huis in mijn huis laten bouwen. ||| 도착했소. 이웃이 돈을 받았지. 내 집 안에 자기 집을 짓게 했소.
+JOOST: In uw huis? ||| 어르신 집 안에요?
+DARMA: Een kamer. Een kamer is een huis, als je het zo wilt noemen. ||| 방 하나요. 그렇게 부르고 싶으면 방도 집이오.
+JOOST: Dat is een mooie zin. ||| 멋진 말씀입니다.
+DARMA: Ik heb hem van mijn vader. ||| 아버지에게서 받은 말이오.
+SITI: Meneer Hartog, de school staat anderhalve meter onder water. ||| 하르토흐 씨, 학교가 1.5미터 물 아래에 있어요.
+JOOST: Het spijt me. ||| 안됐습니다.
+SITI: Het hoeft u niet te spijten. De leerlingen hebben alles meegenomen. De boeken zijn droog. ||| 안타까워하실 필요 없어요. 아이들이 모두 챙겨 갔어요. 책은 말랐습니다.
+JOOST: De boeken zijn droog. ||| 책이 말랐군요.
+SITI: Zij hebben ze in plastic gedaan. Ik heb het ze een week geleden gezegd. ||| 비닐에 넣었어요. 일주일 전에 말해 뒀거든요.
+JOOST: Een week geleden. ||| 일주일 전에요.
+SITI: Ik leer van mijn gasten. ||| 손님들에게서 배웠죠.
+ESTHER: Meneer Suryo, mag ik een vraag stellen? ||| 수리요 장관님, 질문 하나 해도 될까요?
+SURYO: Esther, u mag alles vragen. ||| 에스터 씨, 무엇이든 물으세요.
+ESTHER: Hoeveel kost het? ||| 비용이 얼마입니까?
+SURYO: De vergoeding, de terpen, de zandzakken, de sleepboten. Honderdnegen miljoen dollar. ||| 보상, 테르프, 모래주머니, 예인선 비용을 합쳐 1억 900만 달러입니다.
+ESTHER: En als het was gelopen volgens het plan van de generaal? ||| 장군의 계획대로 진행됐다면요?
+SURYO: Dan was de schade van Kandar zeker niet minder. En drie miljard voor de herstelzone. ||| 칸다르의 피해가 줄지는 않았을 겁니다. 그리고 복구 구역에 30억이 들었겠죠.
+ESTHER: Drie miljard. ||| 30억이요.
+SURYO: Plus wat niemand kan betalen. ||| 그리고 누구도 치를 수 없는 것을 더해서요.
+ESTHER: Wat is dat? ||| 그게 뭐죠?
+SURYO: Vertrouwen. ||| 신뢰입니다.
++ eindcijfer = 최종 수치
++ gewonden = 부상자
++ gips = 깁스
++ vergoeding = 보상
++ uitbetaald = 지급된
++ schade = 피해
++ vertrouwen = 신뢰
++ herstelzone = 복구 구역
++ marge = 여유, 오차 범위
++ hardop = 소리 내어

@@ -1,0 +1,222 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 12
+@title Een volk dat leeft
+@ko 살아 있는 민족
+@setting D+3 물이 빠지는 티르타 → 칸다르 검찰청 앞 → 사와 제방 위 해질녘
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast NOOR | 요스트의 딸, 18세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast SURYO | 수자원부 장관, 54세
+@cast KARTINI | 위원장, 60세
+@cast BASUKI | 전 민방위 총책, 58세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast SITI | 마을 교사, 29세
+@cast DARMA | 늙은 농부, 71세
+@cast ESTHER | 신문 기자, 40세
+@note 4부이자 시리즈의 마지막 화입니다(D+3). 침수는 A구획의 460가구에 그쳤고 사망자는 없습니다. 장군은 구속되고 란트빈닝은 해체되며, 폴더에는 매년 투표하는 '물 위원회'가 생깁니다. 역사 논거는 아프슬라위트 제방(1932)의 비문 "Een volk dat leeft, bouwt aan zijn toekomst"(살아 있는 민족은 자신의 미래를 짓는다): 제방은 한 번 지으면 끝나는 것이 아니라 세대가 이어 가는 약속이라는 결론입니다. 시리즈의 모티프(수위, 폴더, 소리 내어 읽기, '먼저 말하면 값이 싸다', 수첩)가 마지막으로 돌아옵니다. 어휘는 결산·평가(schade, vergoeding, aanklacht, verkiezing, toekomst)와 성찰 표현에 주목하세요.
+@next (시리즈 완결) 네덜란드어판 「HOOGWATER」 4부작은 여기서 끝납니다. 새 수첩의 마지막 쪽은 이제 노르의 글씨입니다.
+
+## 물이 빠진 뒤 — NA HET WATER
+KARTINI: Dames en heren, ik lees het eindcijfer. Hardop. Zoals wij hebben afgesproken. ||| 여러분, 최종 수치를 읽겠습니다. 합의한 대로 소리 내어서요.
+KARTINI: De piek bij Kandar was vier meter zeven. De kade, met de zandzakken, hield vier meter vijftien. ||| 칸다르 정점은 4.07미터였습니다. 방벽은 모래주머니를 얹어 4.15미터를 버텼습니다.
+KARTINI: Marge: acht centimeter. ||| 여유는 8센티미터였습니다.
+ARIEF: Acht centimeter. Precies wat de studenten hadden berekend. ||| 8센티미터. 학생들이 계산한 그대로예요.
+KARTINI: Vak A is volgelopen. Vierhonderdzestig huishoudens zijn geëvacueerd. Er zijn geen doden. Drie gewonden, licht. ||| A구획은 물이 찼습니다. 460가구가 대피했고 사망자는 없습니다. 경상자 3명입니다.
+LALITA: Drie gewonden. Dat zijn twee te veel. ||| 부상자 셋. 둘이 많은 거예요.
+KARTINI: Dat is waar. ||| 맞습니다.
+LALITA: Wie zijn het? ||| 누구죠?
+KARTINI: Een soldaat met een gebroken pols. Een kind met een snee. En Slamet. ||| 손목이 부러진 병사 한 명, 베인 아이 한 명, 그리고 슬라멧 씨요.
+SLAMET: Mijn vinger. Hij zit in het gips. Ik heb hem tussen een caisson en een zandzak gehad. ||| 제 손가락이요. 깁스 중입니다. 케이슨과 모래주머니 사이에 끼었어요.
+LALITA: Is hij gebroken? ||| 부러졌어요?
+SLAMET: Een beetje. ||| 조금요.
+LALITA: Dan heb je een goed verhaal. ||| 그럼 좋은 이야깃거리가 생겼네요.
+SLAMET: Het was het mooiste moment van mijn leven. ||| 제 인생에서 가장 멋진 순간이었어요.
+SURYO: De vergoeding is gisteren uitbetaald. Aan alle vierhonderdzestig huishoudens. Vooraf, zoals afgesproken. ||| 보상은 어제 지급됐습니다. 460가구 전부에게요. 약속대로 사전에 정해 둔 금액입니다.
+DARMA: Het is aangekomen. Mijn buurman heeft zijn geld. Hij heeft zijn huis in mijn huis laten bouwen. ||| 도착했소. 이웃이 돈을 받았지. 내 집 안에 자기 집을 짓게 했소.
+JOOST: In uw huis? ||| 어르신 집 안에요?
+DARMA: Een kamer. Een kamer is een huis, als je het zo wilt noemen. ||| 방 하나요. 그렇게 부르고 싶으면 방도 집이오.
+JOOST: Dat is een mooie zin. ||| 멋진 말씀입니다.
+DARMA: Ik heb hem van mijn vader. ||| 아버지에게서 받은 말이오.
+SITI: Meneer Hartog, de school staat anderhalve meter onder water. ||| 하르토흐 씨, 학교가 1.5미터 물 아래에 있어요.
+JOOST: Het spijt me. ||| 안됐습니다.
+SITI: Het hoeft u niet te spijten. De leerlingen hebben alles meegenomen. De boeken zijn droog. ||| 안타까워하실 필요 없어요. 아이들이 모두 챙겨 갔어요. 책은 말랐습니다.
+JOOST: De boeken zijn droog. ||| 책이 말랐군요.
+SITI: Zij hebben ze in plastic gedaan. Ik heb het ze een week geleden gezegd. ||| 비닐에 넣었어요. 일주일 전에 말해 뒀거든요.
+JOOST: Een week geleden. ||| 일주일 전에요.
+SITI: Ik leer van mijn gasten. ||| 손님들에게서 배웠죠.
+ESTHER: Meneer Suryo, mag ik een vraag stellen? ||| 수리요 장관님, 질문 하나 해도 될까요?
+SURYO: Esther, u mag alles vragen. ||| 에스터 씨, 무엇이든 물으세요.
+ESTHER: Hoeveel kost het? ||| 비용이 얼마입니까?
+SURYO: De vergoeding, de terpen, de zandzakken, de sleepboten. Honderdnegen miljoen dollar. ||| 보상, 테르프, 모래주머니, 예인선 비용을 합쳐 1억 900만 달러입니다.
+ESTHER: En als het was gelopen volgens het plan van de generaal? ||| 장군의 계획대로 진행됐다면요?
+SURYO: Dan was de schade van Kandar zeker niet minder. En drie miljard voor de herstelzone. ||| 칸다르의 피해가 줄지는 않았을 겁니다. 그리고 복구 구역에 30억이 들었겠죠.
+ESTHER: Drie miljard. ||| 30억이요.
+SURYO: Plus wat niemand kan betalen. ||| 그리고 누구도 치를 수 없는 것을 더해서요.
+ESTHER: Wat is dat? ||| 그게 뭐죠?
+SURYO: Vertrouwen. ||| 신뢰입니다.
++ eindcijfer = 최종 수치
++ gewonden = 부상자
++ gips = 깁스
++ vergoeding = 보상
++ uitbetaald = 지급된
++ schade = 피해
++ vertrouwen = 신뢰
++ herstelzone = 복구 구역
++ marge = 여유, 오차 범위
++ hardop = 소리 내어
+
+## 검찰청 앞 — VOOR HET OPENBAAR MINISTERIE
+ESTHER: Generaal, een vraag voor De Nieuwe Courant. ||| 장군님, '데 니우어 쿠란트'의 질문입니다.
+BASUKI: Mevrouw Bakker. Ik heb geen opmerkingen. ||| 바커 씨. 할 말 없소.
+ESTHER: Zij hebben u aangehouden op verdenking van valsheid in geschrifte en samenspanning. ||| 문서 위조와 공모 혐의로 체포되셨습니다.
+BASUKI: Dat is waar. ||| 사실이오.
+ESTHER: Wilt u daarover iets zeggen? ||| 이에 대해 하실 말씀이 있습니까?
+BASUKI: Nee. Maar wel iets tegen meneer Hartog. ||| 없소. 하지만 하르토흐 씨에게는 할 말이 있소.
+JOOST: Generaal. ||| 장군.
+BASUKI: U staat daar. ||| 거기 서 있었군.
+JOOST: Ja. ||| 네.
+BASUKI: Ik wil u iets zeggen. Vrijdagnacht heb ik achthonderdduizend mensen verplaatst. Zonder dat één bus brak. ||| 할 말이 있소. 금요일 밤 나는 80만 명을 이동시켰소. 버스 한 대 고장 나지 않고.
+JOOST: Dat is waar. ||| 사실입니다.
+BASUKI: Dat gaat niet in het dossier. ||| 그건 조서에 안 들어가겠지.
+JOOST: Wel. De rechter zal het hardop lezen. Samen met de rest. ||| 들어갑니다. 판사가 나머지와 함께 소리 내어 읽을 겁니다.
+BASUKI: Samen met de rest. ||| 나머지와 함께.
+JOOST: Zo werkt het. ||| 그렇게 하는 겁니다.
+BASUKI: Het is een hard systeem. ||| 가혹한 제도로군.
+JOOST: Het is een eerlijk systeem. Dat is soms hetzelfde. ||| 공정한 제도입니다. 가끔은 같은 말이죠.
+BASUKI: Mijn vrouw wacht. ||| 아내가 기다리오.
+JOOST: Dan gaat u. ||| 그럼 가십시오.
+BASUKI: Meneer Hartog. U hebt mijn vrouw niet gebruikt. ||| 하르토흐 씨. 내 아내를 이용하지 않았군.
+JOOST: Nee. ||| 네.
+BASUKI: Dat wil ik gezegd hebben. ||| 말해 두고 싶었소.
+JOOST: Dank u. ||| 감사합니다.
+ESTHER: Dat was een soort dank. ||| 일종의 감사였네요.
+JOOST: Het was een afspraak. ||| 약속이었습니다.
+ESTHER: Meneer Hartog, Landwinning is vanochtend geliquideerd. Het kantoor op Cyprus is gesloten. De directeur zit vast. ||| 하르토흐 씨, 란트빈닝은 오늘 아침 청산됐습니다. 키프로스 사무소는 폐쇄됐고 대표는 구속됐어요.
+JOOST: En de grond? ||| 땅은요?
+ESTHER: Elf aankoopcontracten zijn nietig verklaard. De mensen krijgen hun land terug. ||| 매수 계약 11건이 무효로 선언됐습니다. 사람들이 땅을 돌려받아요.
+JOOST: Zonder dat ze iets terug moeten betalen? ||| 되갚을 필요도 없이요?
+ESTHER: Zonder. De rechter noemt het «verkoop onder valse voorwendselen». ||| 없이요. 판사는 '허위 구실에 의한 매매'라고 부릅니다.
+JOOST: Mooi. ||| 좋군요.
+ESTHER: Hein Rijpstra heeft getuigd. Uren. Hij heeft het eerste woord gehad en het laatste. ||| 헤인 레이프스트라는 몇 시간 증언했어요. 첫 말과 마지막 말을 했죠.
+JOOST: Hoe is het met hem? ||| 그분은 어떻습니까?
+ESTHER: Zijn dochter zat achter in de zaal. Ze heeft hem aangekeken. ||| 딸이 방청석 뒤에 앉아 있었어요. 아버지를 똑바로 바라봤습니다.
+JOOST: Dat is genoeg. ||| 그거면 충분합니다.
+ESTHER: Mag ik dat schrijven? ||| 그걸 써도 되나요?
+JOOST: Als u de naam van het meisje weglaat. ||| 아이의 이름만 빼 주신다면요.
+ESTHER: Dat doe ik altijd. ||| 항상 그렇게 합니다.
+
+## 제방 위의 저녁 — DE DIJK BIJ AVOND
+LALITA: Meneer Hartog. Ik heb iets voor u. ||| 하르토흐 씨. 드릴 게 있어요.
+JOOST: Mijn boekje. ||| 제 수첩이군요.
+LALITA: U hebt het bij mij laten liggen. Ik heb het bewaard. In de keuken. Naast de rijst. ||| 제 집에 두고 가셨죠. 보관했어요. 부엌에서 쌀 옆에요.
+JOOST: Dank u. ||| 고맙습니다.
+LALITA: Ik heb er iets in geschreven. Dat mag toch? ||| 안에 뭘 좀 적었어요. 괜찮죠?
+JOOST: Wat hebt u geschreven? ||| 뭐라고 쓰셨습니까?
+LALITA: Lees maar. ||| 읽어 보세요.
+JOOST: «Wie het eerst meldt, betaalt het minst. Wie het laatst meldt, betaalt voor iedereen.» ||| "먼저 알린 사람이 가장 적게 낸다. 마지막에 알린 사람은 모두의 몫을 낸다."
+LALITA: Dat heeft u op de eerste dag gezegd. Ik heb het onthouden. ||| 첫날 말씀하셨어요. 외웠어요.
+JOOST: Dat is niet helemaal wat ik zei. ||| 제가 한 말 그대로는 아닌데요.
+LALITA: Dat weet ik. Ik heb het verbeterd. ||| 알아요. 제가 고쳤어요.
+JOOST: Het is beter. ||| 더 낫군요.
+LALITA: Het is boerenwijsheid. ||| 농부의 지혜죠.
+NOOR: Pap! ||| 아빠!
+JOOST: Noor? Waar kom jij vandaan? ||| 노르? 어디서 오는 거니?
+NOOR: Met het vliegtuig. Ik heb het tentamen gisteren gedaan. En ik ben meteen gegaan. ||| 비행기로요. 어제 시험을 쳤고 곧장 왔어요.
+JOOST: Wat is je cijfer? ||| 점수는?
+NOOR: Een acht. Staatsrecht. ||| 8점이에요. 헌법.
+JOOST: Goed. ||| 잘했구나.
+NOOR: Wil je niet horen waarom? ||| 이유는 안 궁금하세요?
+JOOST: Waarom? ||| 왜죠?
+NOOR: Er was een vraag over noodtoestand. Ik heb geantwoord: «Een noodtoestand zonder openbare cijfers is een bevel. Een noodtoestand met openbare cijfers is een afspraak.» ||| 비상사태에 관한 문제가 나왔어요. 이렇게 썼죠. "공개된 수치가 없는 비상사태는 명령이다. 공개된 수치가 있는 비상사태는 약속이다."
+JOOST: Dat is mijn zin. ||| 내 문장이구나.
+NOOR: Het is mijn zin geworden. ||| 제 문장이 됐어요.
+JOOST: Dat klopt. ||| 맞다.
+SITI: Meneer Hartog, mag ik de groep halen? De kinderen willen hier staan. ||| 하르토흐 씨, 아이들을 불러도 될까요? 여기 서고 싶어 해요.
+JOOST: Natuurlijk. ||| 물론이죠.
+SITI: Kinderen, kom! ||| 얘들아, 이리 와!
+DARMA: Het is de dijk waarop mijn grootvader stond. ||| 우리 할아버지가 서 계시던 제방이오.
+JOOST: En straks de dijk waarop uw kleinkinderen staan. ||| 앞으로는 손주들이 서 있을 제방이죠.
+DARMA: Als ze het willen. ||| 그 애들이 원한다면.
+JOOST: Mag ik iets zeggen? ||| 한마디 해도 될까요?
+LALITA: Dat vraagt u altijd. ||| 늘 물으시네요.
+JOOST: Het is een gewoonte. ||| 습관입니다.
+JOOST: In negentien tweeëndertig sloten de Nederlanders de Afsluitdijk. Op de dijk staat een monument. Daarop staat een zin. ||| 1932년 네덜란드인들은 아프슬라위트 제방을 닫았습니다. 제방 위에 기념비가 있고, 거기 한 문장이 적혀 있습니다.
+SITI: Welke? ||| 어떤 문장인가요?
+JOOST: «Een volk dat leeft, bouwt aan zijn toekomst.» ||| "살아 있는 민족은 자신의 미래를 짓는다."
+SITI: Een volk dat leeft. ||| 살아 있는 민족.
+JOOST: Mijn vader las het elke zondag. Hij zei: lees het goed. Er staat niet: een volk dat gebouwd heeft. Er staat: een volk dat leeft. ||| 아버지는 일요일마다 그걸 읽으셨어요. 잘 읽으라고 하셨죠. '지은 민족'이 아니라 '살아 있는 민족'이라고 적혀 있다고요.
+SITI: Dus het houdt nooit op. ||| 그러니 끝나지 않는다는 거군요.
+JOOST: Een dijk is nooit klaar. Hij wordt elke dag opnieuw afgesproken. ||| 제방은 완성되는 법이 없습니다. 날마다 새로 약속하는 거예요.
+DARMA: Dus we moeten het elk jaar opnieuw afspreken. ||| 그럼 해마다 다시 약속해야겠군.
+SURYO: Dat is precies wat ik vanochtend heb besloten. ||| 제가 오늘 아침 결정한 바로 그겁니다.
+LALITA: Meneer de minister. ||| 장관님.
+SURYO: Het Waterschap Sawa. Een bestuur van de polder, elk jaar gekozen. Door de mensen die erin wonen. ||| '사와 물 위원회'입니다. 폴더 주민들이 해마다 선출하는 위원회예요.
+LALITA: Elk jaar? ||| 해마다요?
+SURYO: Elke augustus. Op de dijk. ||| 매년 8월에, 제방 위에서요.
+LALITA: Wie is de eerste voorzitter? ||| 첫 위원장은 누구죠?
+SURYO: Dat beslist u, niet ik. ||| 그건 제가 아니라 여러분이 정합니다.
+LALITA: Dan stem ik nu. ||| 그럼 지금 투표하죠.
+DARMA: Op wie? ||| 누구에게요?
+LALITA: Op Siti. ||| 시티요.
+SITI: Mij? ||| 저요?
+LALITA: Jij hebt de kinderen. En de kaart. En de zender. ||| 너한테 아이들이 있고, 지도가 있고, 방송국이 있잖아.
+SITI: Dat is geen reden. ||| 그건 이유가 안 돼요.
+LALITA: Het is de beste reden. ||| 가장 좋은 이유예요.
+DARMA: Ik stem op Siti. ||| 나도 시티에게 한 표요.
+SLAMET: Ik ook. ||| 저도요.
+KARTINI: Een stem uit Kandar. Ook op Siti. ||| 칸다르에서 온 한 표도 시티입니다.
+SITI: Dan... accepteer ik. ||| 그럼… 수락하겠습니다.
+JOOST: Gefeliciteerd. ||| 축하합니다.
+SITI: Dank u. Mag ik als eerste daad iets doen? ||| 감사합니다. 첫 번째 행동으로 하나 해도 될까요?
+LALITA: Ga uw gang. ||| 하세요.
+SITI: Elke avond om zes uur. De Peilbode blijft. Hardop. ||| 매일 저녁 6시. '수위의 전령'은 계속합니다. 소리 내어서.
+LALITA: Aangenomen. ||| 채택합니다.
+
+## 마지막 쪽 — DE LAATSTE BLADZIJDE
+NOOR: Pap, het is bijna zes uur. ||| 아빠, 곧 6시예요.
+JOOST: Dan begint het. ||| 그럼 시작하겠구나.
+NOOR: Mag ik het boekje? ||| 수첩 받아도 될까요?
+JOOST: Het is het tweede. Het eerste heb jij al. ||| 이건 두 번째 거란다. 첫 번째는 이미 네가 갖고 있고.
+NOOR: Dat ligt in Leiden. In mijn la. ||| 그건 라이덴 제 서랍에 있어요.
+JOOST: Dan krijg je ze allebei. ||| 그럼 둘 다 갖게 되겠구나.
+NOOR: Waarom? ||| 왜요?
+JOOST: Omdat ik denk dat ik te lang ben blijven schrijven. ||| 내가 너무 오래 써 왔다고 생각해서.
+NOOR: Pap. ||| 아빠.
+JOOST: Een dijkwachter geeft zijn post door. Dat is geen afscheid. Dat is onderhoud. ||| 제방지기는 초소를 넘겨준다. 작별이 아니라 보수야.
+NOOR: Dat is een goede zin. ||| 좋은 문장이에요.
+JOOST: Schrijf hem op. ||| 적으렴.
+NOOR: Ik schrijf hem op. ||| 적을게요.
+SITI: Het is zes uur. U luistert naar De Peilbode. ||| 6시입니다. '수위의 전령'입니다.
+SITI: Wij lezen vandaag vijf getallen. Het eerste getal is van Noor. ||| 오늘은 숫자 다섯 개를 읽겠습니다. 첫 번째는 노르의 숫자입니다.
+NOOR: Mijn naam is Noor. Ik lees het peil van de rivier, bij Sawa, om zes uur. Eén meter tweeëntwintig. Zes centimeter lager dan gisteren. ||| 노르입니다. 사와의 강 수위를 6시 기준으로 읽습니다. 1미터 22센티미터. 어제보다 6센티미터 낮습니다.
+SITI: Dank u. Het tweede getal is van meneer Darma. ||| 감사합니다. 두 번째는 다르마 어르신의 숫자입니다.
+DARMA: Ik ben Darma. Eenenzeventig jaar. Ik ben thuis. ||| 다르마요. 일흔한 살. 집에 있소.
+SITI: Het derde getal is van mevrouw Lalita. ||| 세 번째는 랄리타 씨의 숫자입니다.
+LALITA: Ik ben Lalita. Mijn put staat op een meter tien. Het daalt. ||| 랄리타예요. 제 우물은 1미터 10센티미터. 내려가고 있어요.
+SITI: Dank u. En het vierde getal. ||| 감사합니다. 그리고 네 번째 숫자입니다.
+NOOR: Mag ik nog iets lezen? ||| 하나 더 읽어도 될까요?
+SITI: Natuurlijk. ||| 물론이죠.
+NOOR: Het is geen getal. Het is een zin. ||| 숫자가 아니라 문장이에요.
+SITI: Lees. ||| 읽으세요.
+NOOR: «Water geeft niemand de schuld. Wij hebben afgesproken dat wij dat ook niet doen.» ||| "물은 누구도 탓하지 않는다. 우리도 그러지 않기로 약속했다."
+LALITA: Dat is een goede afspraak. ||| 좋은 약속이네요.
+NOOR: Het is de laatste bladzijde. Van dit boekje. ||| 이 수첩의 마지막 쪽이에요.
+JOOST: En de volgende? ||| 그럼 다음 쪽은?
+NOOR: Die is leeg. ||| 비어 있어요.
+JOOST: Dan schrijf je hem. ||| 그럼 네가 쓰렴.
+NOOR: Ik schrijf hem. ||| 쓸게요.
+JOOST: Elke dag? ||| 매일?
+NOOR: Elke dag. Hardop. ||| 매일요. 소리 내어서.
++ valsheid in geschrifte = 문서 위조
++ samenspanning = 공모
++ nietig verklaard = 무효로 선언된
++ voorwendsel = 구실, 핑계
++ getuigen = 증언하다
++ waterschap = 물 위원회, 수자원 위원회(네덜란드의 지역 물 관리 기구)
++ onderhoud = 보수, 유지 관리
++ afscheid = 작별
++ gekozen = 선출된
++ Een volk dat leeft, bouwt aan zijn toekomst. = 살아 있는 민족은 자신의 미래를 짓는다(아프슬라위트 제방 기념비의 문장).
