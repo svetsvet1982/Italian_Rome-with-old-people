@@ -1,0 +1,63 @@
+## 빈커르스훅 — BIJNKERSHOEK
+CAFLISCH: Meneer Hartog, ik moet doorvragen. Als de sleutel de grens is, wie bepaalt dan welke staat gezag heeft? ||| 하르토흐 씨, 더 묻겠습니다. 열쇠가 경계라면 어느 국가가 권한을 갖는지는 누가 정합니까?
+JOOST: Bijnkershoek. ||| 빈커르스훅입니다.
+CAFLISCH: Weer hij. ||| 또 그 사람이군요.
+JOOST: In 1702 schreef hij dat de macht van een staat over de zee zo ver reikt als het kanonschot. Niet zo ver als het verlangen. Niet zo ver als de kaart. Zo ver als de macht werkelijk reikt. ||| 1702년 그는 국가의 바다 지배가 대포 사거리만큼 미친다고 썼습니다. 바람만큼이 아니고 지도만큼도 아니며 힘이 실제로 닿는 만큼이요.
+CAFLISCH: Een eenvoudige regel. ||| 단순한 규칙이군요.
+JOOST: En in de digitale wereld is die regel eenvoudig. Het kanonschot is de sleutel. Wie de sleutel heeft, heeft het gezag. Wie hem niet heeft, mag een gebouw bezitten, een server, een land. Het is een kluis zonder inhoud. ||| 디지털 세계에서도 간단합니다. 대포 사거리는 열쇠예요. 열쇠를 가진 쪽이 권한을 가집니다. 갖지 못한 쪽은 건물도 서버도 땅도 가질 수 있지만 내용물 없는 금고일 뿐이죠.
+KARTIKA: En als de sleutel bij Nederland ligt? ||| 열쇠가 네덜란드에 있다면요?
+JOOST: Dan heeft Nederland het gezag. Daarom ligt hij niet bij Nederland. ||| 그럼 네덜란드가 권한을 갖죠. 그래서 네덜란드에 두지 않습니다.
+FERREIRA: Waar dan? ||| 그럼 어디요?
+JOOST: Bij niemand alleen. Een sleutel in drie delen. Twee van de drie zijn nodig om te openen. ||| 누구도 혼자서는 아닙니다. 열쇠를 세 조각으로 나누고 열려면 둘이 필요합니다.
+TAK: Een drempelschema. Shamir. Dat kan technisch. ||| 임계값 방식이죠. 샤미르. 기술적으로 가능합니다.
+JOOST: Eén deel bij de Secretaris-Generaal van het Hof. Eén deel bij de integriteitsfunctionaris. Eén deel bij een onafhankelijk bewaarder: een rechter die door beide partijen is gekozen. ||| 한 조각은 재판소 사무총장이, 한 조각은 청렴 책임관이, 한 조각은 양 당사자가 고른 판사가 독립 보관자로서 갖습니다.
+CAFLISCH: Dus geen staat heeft de sleutel. ||| 그러니 어떤 국가도 열쇠를 갖지 않는군요.
+JOOST: Geen staat. De sleutel is van het Hof. ||| 어떤 국가도요. 열쇠는 재판소 겁니다.
+RADEMAKER: En de servers? ||| 서버는요?
+JOOST: Mogen blijven waar ze zijn. In het paleis. In Frankfurt. Het maakt niet uit. ||| 있는 곳에 둬도 됩니다. 궁전에도 프랑크푸르트에도요. 상관없어요.
+CAFLISCH: Dat is elegant. ||| 우아하군요.
+KARTIKA: Het is een volkomen nieuwe vorm van neutraliteit. ||| 완전히 새로운 중립의 형태로군요.
+JOOST: Het is een oude. Het is de neutraliteit van het ontbreken van gunsten. Alleen weten we nu waar we de gunst moeten zoeken. ||| 오래된 겁니다. 호의가 없다는 의미의 중립이에요. 이제 호의를 어디서 찾아야 하는지 알 뿐이죠.
+FERREIRA: En de toegang tot de gegevens? Wie mag erin? ||| 데이터 접근은요? 누가 들어갈 수 있습니까?
+JOOST: Elke toegang wordt vastgelegd in een register dat ook partijen kunnen inzien. Niet de inhoud, wel het feit: wie, wanneer, hoe lang. ||| 모든 접근이 등록부에 기록되고 당사자도 열람할 수 있습니다. 내용이 아니라 사실, 즉 누가 언제 얼마나 들어갔는지요.
+KARTIKA: Een gastenboek. ||| 방명록이군요.
+JOOST: Een digitaal gastenboek. Met een regel voor «Vertrek». ||| 디지털 방명록입니다. '퇴장' 칸이 있는.
+TAK: Met een automatische afmelding? ||| 자동 로그아웃도요?
+JOOST: Elke sessie sluit na dertig minuten. Wie langer wil, meldt zich opnieuw aan. ||| 모든 세션은 30분 뒤 닫힙니다. 더 원하면 다시 접속하세요.
+TAK: Dat is wat meneer Zandstra zou doen. ||| 잔드스트라 씨가 할 법한 방식이네요.
+JOOST: Hij heeft het eerst bedacht. ||| 그가 먼저 생각해 낸 겁니다.
+## 서명 — DE ONDERTEKENING
+CAFLISCH: Dan stel ik de tekst voor. «Artikel een: de gegevens van het Hof zijn neutraal in zoverre de sleutel niet bij één staat ligt. Artikel twee: de sleutel is verdeeld over drie bewaarders, van wie twee nodig zijn. Artikel drie: elke toegang wordt geregistreerd en openbaar gemaakt. Artikel vier: een inbreuk op deze regels wordt gezien als inbreuk op de neutraliteit van het Hof». ||| 문안을 제안하겠습니다. "제1조: 재판소의 데이터는 열쇠가 한 국가에 있지 않은 한 중립이다. 제2조: 열쇠는 세 보관자에게 나뉘며 둘이 필요하다. 제3조: 모든 접근은 기록되어 공개된다. 제4조: 이 규칙의 위반은 재판소 중립성의 위반으로 본다."
+FERREIRA: Zuid-Marinde tekent. ||| 남마린데 서명합니다.
+KARTIKA: Karang tekent. ||| 카랑 서명합니다.
+CAFLISCH: Nederland? ||| 네덜란드는요?
+JOOST: Mevrouw de minister heeft mij gemachtigd. Nederland tekent, en geeft meteen alle toegangen op het eigen grondgebied uit handen. ||| 장관께서 위임하셨습니다. 네덜란드가 서명하며 자국 영토의 모든 접근 권한도 즉시 내놓습니다.
+RADEMAKER: Dat is een geste. ||| 몸짓이군요.
+JOOST: Het is een prijs. De gastheer betaalt. ||| 값입니다. 주인이 내는 거죠.
+CAFLISCH: Dan is het Haagse Digitale Neutraliteitsverdrag aangenomen. ||| 그럼 헤이그 디지털 중립 협약이 채택됐습니다.
+SMIT: Meneer Hartog. Een bericht. ||| 하르토흐 씨. 소식입니다.
+JOOST: Zegt u het. ||| 말씀하세요.
+SMIT: Mark Lindeboom is vanochtend aangehouden op Schiphol. Hij wilde naar Singapore. In zijn bagage zat een laptop met toegang tot een webserver in Zürich. ||| 마르크 린데보옴이 오늘 아침 스히폴에서 체포됐습니다. 싱가포르로 가려던 참이었어요. 짐에 취리히 웹서버 접속이 가능한 노트북이 있었습니다.
+JOOST: Papierenvrede. ||| 종이평화군요.
+SMIT: Het is dezelfde server. ||| 같은 서버입니다.
+JOOST: En wie is de beheerder? ||| 관리자는 누굽니까?
+SMIT: Een bedrijf in Zug. Eigenaar: Stichting Noordvaarder. ||| 추크의 회사입니다. 소유자는 노르트파르더 재단이에요.
+JOOST: Dat is dan het begin. ||| 시작이로군요.
+FEMKE: Maas? ||| 마스요?
+JOOST: Hij heet er niet in. Maar zijn handschrift wel. ||| 이름은 없습니다. 하지만 필체는 있어요.
+SMIT: De officier van justitie wil weten of u wilt getuigen. ||| 검사가 증언하실 의향이 있는지 묻습니다.
+JOOST: Ik getuig. ||| 증언합니다.
+SMIT: Over wat? ||| 무엇에 대해서요?
+JOOST: Over alles wat ik weet. En over alles wat ik niet weet maar vermoed, voor zover het vermoeden is. ||| 제가 아는 모든 것에 대해서요. 그리고 제가 모르지만 짐작하는 것도, 짐작임을 밝히고요.
+SMIT: Dat laatste zou een goede openingszin zijn voor een hoorzitting. ||| 마지막 말은 청문회의 좋은 첫 문장이 되겠군요.
+JOOST: Ik denk eraan. ||| 생각해 둡니다.
++ drempelschema = 임계값 방식(여러 조각 중 일정 수 이상이 모여야 열리는 암호키 분할)
++ bewaarder = 보관자
++ toegang = 접근, 출입
++ inbreuk = 위반, 침해
++ aangehouden = 체포된, 붙잡힌
++ machtigen = 위임하다
++ afmelden = 로그아웃하다
++ een geste = 몸짓, 성의 표시
++ de gunst zoeken = 호의를 찾다
++ grondgebied = 영토

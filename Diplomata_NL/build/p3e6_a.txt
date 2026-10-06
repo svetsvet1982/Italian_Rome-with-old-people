@@ -1,0 +1,98 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 6
+@title Digitale neutraliteit
+@ko 디지털 중립
+@setting 2주 뒤 목요일 · 헤이그 외무부 녹음실 → 평화궁 '일본의 방' 원탁 → 저녁 복도
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast SMIT | 국가 소송대리인, 46세
+@cast BROUWER | 평화궁 전 IT 관리자, 70세
+@cast MARK | 노르트파르더 재단 '자문역', 36세 (전화)
+@cast RADEMAKER | 상설중재재판소 사무총장, 59세
+@cast CAFLISCH | 스위스 대표(대사), 56세
+@cast KARTIKA | 카랑 대리인, 49세
+@cast FERREIRA | 남마린데 대리인, 58세
+@cast TAK | 평화궁 IT 책임자, 38세
+@note 3부 B사건의 결산 화입니다. 통제된 통화에서 2차 침입 계획이 드러나고, 이어 '디지털 중립 협약'이 원탁에서 논의됩니다. 쟁점은 '데이터는 어느 나라 땅에 있는가'이고, 해법의 순간은 '관할은 실제로 미치는 범위만큼'이라는 빈커르스훅(1702)의 원칙을 서버가 아니라 '열쇠(암호키)를 누가 쥐는가'에 적용하는 한 줄입니다. 어휘는 디지털·법률(sleutel, versleuteling, rechtsmacht, bewaarder)과 외교 문안 표현에 주목하세요.
+@next 3부 7화 — «Het Dejima-dilemma»(데지마 딜레마) — 반도체 장비 회사 '리토스'의 수출 면허를 두고 카림바가 항의합니다. 선적서류의 '최종 사용자' 한 줄과 에도 시대 데지마.
+
+## 통화 — HET GESPREK
+SMIT: Het opnameapparaat staat aan. Datum: veertien dagen na het bezoek aan de tuin. Aanwezig: meneer Brouwer, de heer Hartog, mevrouw De Bit en ik. Meneer Brouwer, de man belt over twee minuten. U weet wat u zegt? ||| 녹음기가 켜져 있습니다. 날짜는 텃밭 방문 2주 뒤. 입회자는 브라우어르 씨, 하르토흐 씨, 더 비트 씨, 그리고 저입니다. 브라우어르 씨, 남자가 2분 뒤 전화합니다. 무슨 말씀 하실지 아시죠?
+BROUWER: Ik zeg alleen wat waar is. Dat heb ik beloofd. ||| 사실만 말하오. 약속했으니까.
+SMIT: Goed. En als u in de war raakt, kijkt u naar mij. ||| 좋습니다. 헷갈리면 저를 보세요.
+BROUWER: Dat is makkelijker dan het klinkt. U lijkt op mijn schoonzus. ||| 말처럼 쉬운 일이오. 처제를 닮으셨거든.
+SMIT: Dat neem ik als compliment. ||| 칭찬으로 받겠습니다.
+MARK: Meneer Brouwer? Mark. Hoe gaat het met de tomaten? ||| 브라우어르 씨? 마르크입니다. 토마토는 어떻습니까?
+BROUWER: Ze zijn mooi dit jaar. Eerlijk, bedoel ik. ||| 올해는 좋소. 정직하다는 뜻이오.
+MARK: Ha. Dat is een goede. Meneer Brouwer, ik bel met een kleine vraag. Over uw oude werkplek. ||| 하. 좋네요. 브라우어르 씨, 작은 질문이 있어서 전화했습니다. 옛 일터에 관한 거요.
+BROUWER: Zegt u het maar. ||| 말하시오.
+MARK: Het oude account, «beheer-oud». Werkt dat nog? ||| 옛 계정 '구 관리자' 말입니다. 아직 작동합니까?
+BROUWER: Dat weet ik niet. Ik ben met pensioen. ||| 모르오. 나는 퇴직했소.
+MARK: Natuurlijk. Maar u weet hoe het systeem in elkaar zit. Is er misschien een tweede account? Een reserve? Van een andere beheerder? ||| 물론이죠. 하지만 체계가 어떻게 짜였는지 아시잖아요. 혹시 두 번째 계정이 있습니까? 예비용이요. 다른 관리자의?
+BROUWER: Er was een tweede. «beheer-nieuw». Voor mijn opvolger. ||| 있었소. '신 관리자'. 후임용이었지.
+MARK: En het wachtwoord? ||| 비밀번호는요?
+BROUWER: Dat heb ik nooit gekend. Dat is van mijn opvolger. ||| 몰랐소. 후임의 것이오.
+MARK: Dat is jammer. Zou u hem kunnen vragen? Als vriend? ||| 아쉽군요. 그에게 물어봐 주실 수 있을까요? 친구로서요?
+BROUWER: Waarom? ||| 왜요?
+MARK: Voor ons archiefproject. Er komt een tweede fase. Nog veel te digitaliseren. En na de, eh, ongelukkige gebeurtenis van laatst, is het voor ons belangrijk om toegang te krijgen tot de rest. ||| 우리 문서 프로젝트 때문이죠. 2단계가 있어요. 디지털화할 게 많거든요. 지난번 그, 음, 불행한 일 뒤라서 나머지에 접근하는 게 우리에게 중요합니다.
+BROUWER: De rest. ||| 나머지라.
+MARK: De zaken die nog niet zijn gepubliceerd. We hebben er genoeg gezien. ||| 아직 공개되지 않은 사건들이요. 충분히 봤죠.
+SMIT: Ik noteer: hij zegt «gepubliceerd». ||| 적어 두겠습니다. 그가 '공개됐다'고 말했습니다.
+BROUWER: Jij bedoelt dat jullie dat gedaan hebben? ||| 자네 말은 자네들이 했다는 거요?
+MARK: Natuurlijk niet. Ik bedoel: voor wie het gedaan heeft. Ik bedoel: ik lees de krant. ||| 당연히 아닙니다. 한 사람이 했다는 뜻이죠. 신문을 읽는다는 거예요.
+BROUWER: Mark. Jij hebt mijn wachtwoord gebruikt. ||| 마르크. 자네가 내 비밀번호를 썼소.
+MARK: Dat is een zware beschuldiging. ||| 무거운 비난이군요.
+BROUWER: Je zei dat het een archiefproject was. ||| 문서 프로젝트라고 했잖소.
+MARK: Dat is het ook. ||| 그렇습니다.
+BROUWER: En de krant? ||| 신문은요?
+MARK: ... Meneer Brouwer, ik bel later terug. ||| …브라우어르 씨, 나중에 다시 걸겠습니다.
+SMIT: Hij heeft opgehangen. ||| 끊었습니다.
+JOOST: Hij zei «gepubliceerd». En «het tweede account». ||| '공개됐다'고 했고 '두 번째 계정'을 말했어요.
+SMIT: Dat is genoeg voor een bevel. De officier van justitie heeft toegezegd dat hij binnen vierentwintig uur kan ingrijpen. ||| 영장에 충분합니다. 검사가 24시간 안에 개입하겠다고 했어요.
+JOOST: En het tweede account? ||| 두 번째 계정은요?
+FEMKE: Tak heeft het al uitgezet. En een vals account aangemaakt, als val. ||| 탁 씨가 이미 껐어요. 그리고 함정으로 가짜 계정을 만들었고요.
+JOOST: Een lokaas. ||| 미끼군요.
+FEMKE: Een lokaas met een mooi wachtwoord. «Maria1621». ||| 예쁜 비밀번호를 단 미끼예요. '마리아1621'.
+JOOST: Voor Maria van Reigersberch. ||| 마리아 판 레이헤르스베르크를 위한 거로군요.
+FEMKE: Ze heeft de kist gevuld. ||| 상자를 채운 사람이죠.
+## 원탁 — DE ONDERHANDELING
+RADEMAKER: Dames en heren. De zaak Brouwer is bij het Openbaar Ministerie. Wij hebben een andere opdracht: een regel voor de volgende keer. Mevrouw Caflisch, namens Zwitserland, voorzitter van deze werkgroep. ||| 여러분. 브라우어르 사건은 검찰에 있습니다. 우리의 다른 과제는 다음을 위한 규칙입니다. 스위스를 대표해 이 작업반 의장을 맡은 카플리쉬 대사입니다.
+CAFLISCH: Dank u. Ik begin met een eenvoudige vraag. Waar staan de gegevens van het Hof? ||| 감사합니다. 간단한 질문부터 하겠습니다. 재판소의 데이터는 어디에 있습니까?
+TAK: In ons serverpark in het paleis. En een back-up in Frankfurt. ||| 궁전 서버실에 있고 프랑크푸르트에 백업이 있습니다.
+CAFLISCH: En wie heeft rechtsmacht over Frankfurt? ||| 프랑크푸르트에 대한 재판권은 누가 갖습니까?
+TAK: Duitsland. ||| 독일입니다.
+CAFLISCH: En over het paleis? ||| 궁전은요?
+TAK: Nederland. ||| 네덜란드요.
+CAFLISCH: En over het Hof zelf? ||| 재판소 자체는요?
+TAK: Het Hof heeft een zetelverdrag met Nederland. Het gebouw is ervan. ||| 재판소는 네덜란드와 본부 협정을 맺었어요. 건물은 협정 대상입니다.
+CAFLISCH: Dus het Hof is neutraal in een gebouw dat niet neutraal is, met gegevens in een land dat evenmin neutraal is. ||| 그러니 재판소는 중립이 아닌 건물에서 중립이고 중립이 아닌 나라에 데이터를 둔 셈이군요.
+RADEMAKER: Zo is het. ||| 그렇습니다.
+KARTIKA: Dat is geen neutraliteit. Dat is een hoop zand. ||| 중립이 아니라 모래 더미네요.
+FERREIRA: Mevrouw Kartika heeft gelijk. Mijn regering eist dat het Hof zijn gegevens niet meer op Nederlandse of Duitse grond bewaart. ||| 카르티카 대리인이 맞습니다. 우리 정부는 재판소가 데이터를 네덜란드나 독일 땅에 더는 두지 말 것을 요구합니다.
+KARTIKA: Dat vinden wij ook. ||| 우리도 그렇게 봅니다.
+CAFLISCH: Een zeldzame overeenstemming. En waar dan? ||| 드문 일치군요. 그럼 어디에 둡니까?
+FERREIRA: In een neutraal land. ||| 중립국에요.
+CAFLISCH: Zwitserland? ||| 스위스요?
+KARTIKA: Dat is niet neutraal in cijfers. Banken. ||| 스위스는 숫자로는 중립이 아니죠. 은행이 있으니까요.
+CAFLISCH: Dat is een scherpe opmerking. ||| 날카로운 지적이군요.
+JOOST: Mag ik iets zeggen? Als gastheer. ||| 한마디 해도 될까요? 개최국으로서요.
+CAFLISCH: Graag. ||| 부탁합니다.
+JOOST: Ik denk dat wij de verkeerde vraag stellen. «Waar staat de server?» is een vraag van 1990. ||| 우리가 틀린 질문을 하고 있다고 생각합니다. '서버가 어디에 있나'는 1990년의 질문이에요.
+CAFLISCH: Welke vraag is de goede? ||| 맞는 질문은 뭡니까?
+JOOST: «Wie heeft de sleutel?» ||| '열쇠는 누가 쥐고 있나'입니다.
+CAFLISCH: De sleutel. ||| 열쇠.
+JOOST: Gegevens zijn versleuteld. Als de sleutel in Den Haag ligt, kan Den Haag erbij. Als de sleutel in Frankfurt ligt, kan Frankfurt erbij. De server is een kluis. Maar de sleutel is wat de kluis open of dicht maakt. ||| 데이터는 암호화됩니다. 열쇠가 헤이그에 있으면 헤이그가 접근할 수 있고 프랑크푸르트에 있으면 프랑크푸르트가 접근합니다. 서버는 금고입니다. 하지만 금고를 열고 닫는 건 열쇠예요.
+TAK: Dat klopt technisch. ||| 기술적으로 맞습니다.
++ opnameapparaat = 녹음기
++ opvolger = 후임
++ lokaas / val = 미끼 / 함정
++ ingrijpen = 개입하다
++ serverpark = 서버실(서버 군)
++ zetelverdrag = 본부 협정(국제기구와 개최국이 맺는 협정)
++ rechtsmacht = 재판권, 관할권
++ versleuteld = 암호화된
++ werkgroep = 작업반
++ een hoop zand = 모래 더미. 불안정하다는 비유
