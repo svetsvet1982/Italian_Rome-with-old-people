@@ -1,0 +1,155 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 1
+@title Het geblokkeerde vaarwater
+@ko 막힌 항로
+@setting 화요일 아침 로테르담 마스블락터 항만 관제센터 → 선사 회의실 → 카랑 장관과의 화상 통화
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast VERHOEVEN | 컨테이너선 '바터란트 아우로라' 선장, 55세
+@cast SPOOR | 선사 '제바르트 위니' 대표, 60세
+@cast HARYANTO | 카랑 해협국 교통부 장관, 62세
+@cast KARTIKA | 카랑 외교관(비공식 협력자), 49세
+@note 3부 A사건(막힌 항로)의 첫 화입니다. 카랑 해협국이 해협 통행료를 신설하자 로테르담 컨테이너 선단이 해협 입구에서 대기합니다. 이 화는 '정공법'입니다. 선장의 한마디 '항로는 땅이 아니라 약속이다'가 문제를 재정의합니다. 역사 논거는 그로티위스의 『자유 해양론』(1609): 바다는 누구의 소유도 될 수 없고 항해는 모두에게 열려 있다는 원칙입니다. 어휘는 해사·무역(vaarwater, tol, lading, anker, havenmeester)과 협상 직설 표현에 주목하세요.
+@next 3부 2화 — «De kaartenmaker»(지도 제작자) — 암스테르담의 고지도 상인이 '자유 항로' 표기가 달린 초판 지도를 보여 줍니다. 지도 여백의 손글씨 메모가 통행료의 정체를 바꿉니다.
+
+## 관제센터 — HET VERKEERSCENTRUM
+FEMKE: Joost, kijk naar het scherm. Elke stip is een schip. De rode zijn de onze. ||| 요스트, 화면을 보세요. 점 하나가 배 한 척이에요. 빨간 건 우리 배들입니다.
+JOOST: Hoeveel? ||| 몇 척입니까?
+FEMKE: Zevenendertig. Voor de Karangstraat, in een rij van veertig kilometer. Ze liggen voor anker sinds maandagochtend. ||| 서른일곱 척이에요. 카랑 해협 앞에 40킬로미터 줄로 늘어섰어요. 월요일 아침부터 닻을 내리고 있습니다.
+JOOST: Waarom liggen ze stil? ||| 왜 멈춰 있죠?
+FEMKE: Karang heeft maandag een tol ingevoerd. Driehonderd dollar per container. Betaalbaar vooraf. Zonder betaling geen doorvaart. ||| 카랑이 월요일에 통행료를 도입했어요. 컨테이너당 300달러. 선불이고 안 내면 통과 불가예요.
+JOOST: Driehonderd dollar. Hoeveel containers zit er op zo'n schip? ||| 300달러라. 배 한 척에 컨테이너가 몇 개죠?
+FEMKE: Gemiddeld achtduizend. ||| 평균 8천 개요.
+JOOST: Twee komma vier miljoen per schip. ||| 한 척에 240만 달러군요.
+FEMKE: Voor zevenendertig schepen is dat negentig miljoen. Per doorvaart. ||| 서른일곱 척이면 9천만 달러예요. 한 번 통과에요.
+JOOST: En de lading? ||| 화물은요?
+FEMKE: Onderdelen voor autofabrieken in Azië. Elektronica terug. Als dit een week duurt, staan fabrieken stil in drie landen. ||| 아시아 자동차 공장 부품이고 돌아오는 건 전자제품입니다. 일주일 가면 세 나라 공장이 멈춰요.
+JOOST: En de verzekering? ||| 보험은요?
+FEMKE: Die heeft gisteren de premie verdubbeld. De verzekeraars noemen het een «onbepaald risico». ||| 어제 보험료를 두 배로 올렸어요. 보험사는 '불확정 위험'이라고 부릅니다.
+JOOST: Onbepaald. Dat is een mooi woord voor angst. ||| '불확정'이라. 두려움을 가리키는 예쁜 말이군요.
+SPOOR: Meneer Hartog. Pieter Spoor, Zeevaart Unie. Ik ben blij dat u bent gekomen. ||| 하르토흐 씨. 제바르트 위니의 피터르 스포르입니다. 와 주셔서 기쁩니다.
+JOOST: Meneer Spoor. Ik ga u geen valse hoop geven. ||| 스포르 씨. 헛된 희망은 드리지 않겠습니다.
+SPOOR: Dat is wat ik verwachtte. En eerlijk gezegd, wat ik hoopte. ||| 예상한 대로입니다. 솔직히 바란 바이기도 하고요.
+JOOST: Wat willen de reders? ||| 선주들은 무엇을 원합니까?
+SPOOR: Dat u de Marine stuurt. ||| 해군을 보내라고요.
+JOOST: Dat doe ik niet. ||| 하지 않겠습니다.
+SPOOR: Een fregat voor de kust. Dat zou ze kalmeren. ||| 연안에 호위함 한 척이면 그들이 진정할 겁니다.
+JOOST: Een fregat zou ze niet kalmeren. Het zou ze bang maken. En als ze bang zijn, doen ze iets onomkeerbaars. ||| 호위함은 그들을 진정시키지 않고 겁먹게 합니다. 겁먹으면 되돌릴 수 없는 일을 하죠.
+SPOOR: Wat stelt u dan voor? ||| 그럼 어떻게 하자는 겁니까?
+JOOST: Eerst wil ik een schipper spreken. Iemand die daar ligt. ||| 먼저 선장 한 명과 이야기하고 싶습니다. 거기 있는 사람으로요.
+SPOOR: Kapitein Verhoeven ligt aan kop. Ik zet haar door. ||| 베르호번 선장이 선두에 있습니다. 연결해 드리죠.
+## 선장 — DE KAPITEIN
+VERHOEVEN: Verhoeven. ||| 베르호번입니다.
+JOOST: Kapitein, Joost Hartog, Buitenlandse Zaken. Ik hoor dat u aan kop ligt. ||| 선장님, 외무부의 요스트 하르토흐입니다. 선두에 계시다고요.
+VERHOEVEN: Ik lig sinds maandag zes uur 's ochtends op dezelfde plaats. Mijn bemanning is gaan zingen. Dat is een slecht teken. ||| 월요일 아침 여섯 시부터 같은 자리에 있습니다. 선원들이 노래를 부르기 시작했죠. 나쁜 징조예요.
+JOOST: Hoe bedoelt u? ||| 무슨 뜻입니까?
+VERHOEVEN: Zeelieden zingen als ze zich vervelen. En ze vervelen zich als ze bang worden. ||| 뱃사람은 지루하면 노래하고, 지루한 건 무서워지기 시작할 때니까요.
+JOOST: Wat ziet u om u heen? ||| 주변에 뭐가 보입니까?
+VERHOEVEN: Een grijze zee. Een kustwachtboot van Karang, die elk uur langsvaart. En een vissersboot. Die ligt er al drie dagen, als een waakhond. ||| 회색 바다요. 카랑 해안경비정이 한 시간마다 지나가고, 어선 한 척이 사흘째 파수견처럼 떠 있어요.
+JOOST: Wordt u bedreigd? ||| 위협을 받습니까?
+VERHOEVEN: Niet met wapens. Ze zijn vriendelijk. Ze vragen of we al hebben betaald. ||| 무기로는 아닙니다. 친절해요. 이미 냈느냐고 묻습니다.
+JOOST: En hebt u betaald? ||| 내셨습니까?
+VERHOEVEN: Nee. En ik ga het niet doen. ||| 아니요. 내지 않을 겁니다.
+JOOST: Waarom niet? ||| 왜죠?
+VERHOEVEN: Omdat een vaarroute geen stuk land is. Ze behoort niemand toe. Ze is een afspraak. ||| 항로는 땅이 아니니까요. 누구의 것도 아닙니다. 약속이에요.
+JOOST: Zegt u dat nog eens. ||| 다시 말씀해 주세요.
+VERHOEVEN: Een vaarroute is geen land. Land kun je afsluiten, met een hek. Een vaarroute is een afspraak tussen iedereen die erover vaart. Als een van hen de afspraak intrekt, verliezen allemaal iets. ||| 항로는 땅이 아닙니다. 땅은 울타리로 막을 수 있죠. 항로는 그 위로 다니는 모두 사이의 약속이에요. 한 사람이 약속을 거두면 모두가 뭔가를 잃습니다.
+JOOST: Ik heb vorig jaar een man gesproken die zei dat een dijk een afspraak is. ||| 작년에 제방은 약속이라고 말한 사람이 있었습니다.
+VERHOEVEN: Dan had hij een goede opa. ||| 좋은 할아버지가 있었군요.
+JOOST: Kapitein, mag ik u iets vragen? Wat zou u nodig hebben om te betalen? ||| 선장님, 하나 여쭙겠습니다. 내려면 무엇이 필요하겠습니까?
+VERHOEVEN: Betalen waarvoor? ||| 무엇에 대해서요?
+JOOST: Voor iets. Voor een dienst. ||| 어떤 것에 대해서요. 서비스에요.
+VERHOEVEN: Een tol voor de doorgang betaal ik niet. Een betaling voor een vuurtoren, een loods, een baggerschip dat de geul schoonhoudt? Dat doe ik graag. ||| 통과 자체에 대한 통행료는 내지 않습니다. 등대, 도선사, 항로를 깨끗이 유지하는 준설선에 대한 값이라면 기꺼이 내죠.
+JOOST: Dat is een belangrijk onderscheid. ||| 중요한 구분이군요.
+VERHOEVEN: Het is het enige onderscheid dat telt. ||| 의미 있는 유일한 구분입니다.
++ vaarwater = 항로, 수로
++ tol = 통행료. 'tol heffen'은 통행료를 걷다
++ voor anker liggen = 닻을 내리고 정박해 있다
++ lading = 화물
++ onbepaald risico = 불확정 위험
++ kustwacht = 해안경비대
++ een loods = 도선사
++ een geul = 수로(간조 때도 물이 흐르는 깊은 길)
++ onomkeerbaar = 되돌릴 수 없는
++ waakhond = 파수견
+## 화상 통화 — HET VIDEOGESPREK
+HARYANTO: Meneer Hartog. Ik zie dat u de zee op uw scherm hebt. Zo ziet mijn land u ook: als een stipje. ||| 하르토흐 씨. 화면에 바다를 띄워 두셨군요. 우리나라도 당신들을 그렇게 봅니다. 점 하나로요.
+JOOST: Excellentie, dank dat u wilde praten. Ik heb vijf minuten. En ik zou graag beginnen met een vraag. ||| 각하, 이야기해 주셔서 감사합니다. 5분이 있는데 질문 하나로 시작하고 싶습니다.
+HARYANTO: Een vraag van een diplomaat is nooit alleen een vraag. ||| 외교관의 질문은 결코 질문만이 아니죠.
+JOOST: Dan een van een zoon van een dijkwachter. Waarom nu? ||| 그럼 제방지기 아들의 질문입니다. 왜 지금입니까?
+HARYANTO: Omdat de zee van ons is. ||| 바다가 우리 것이니까요.
+JOOST: De Karangstraat is vijftig kilometer breed. ||| 카랑 해협은 폭이 50킬로미터입니다.
+HARYANTO: En de helft is ons water. De andere helft ook. Meneer Hartog, begrijpt u wat een strait is? Het is een gang in mijn huis. Als u door mijn gang loopt, vraag ik u wie u bent. ||| 절반은 우리 영해입니다. 나머지 절반도요. 하르토흐 씨, 해협이 뭔지 아십니까? 우리 집 복도입니다. 제 복도를 지나가시면 누구시냐고 묻는 게 당연하죠.
+JOOST: U vraagt wie ik ben. Maar u vraagt me ook driehonderd dollar. ||| 누구냐고 물으시죠. 하지만 300달러도 요구하십니다.
+HARYANTO: Een gast betaalt voor de verlichting. ||| 손님은 조명 값을 냅니다.
+JOOST: Een gast wordt uitgenodigd. Ik heb geen uitnodiging gekregen. ||| 손님은 초대받습니다. 저는 초대장을 받지 못했어요.
+HARYANTO: U hebt vierhonderd jaar lang op mijn tapijt gelopen zonder uitnodiging. ||| 당신들은 400년 동안 초대 없이 제 양탄자 위를 걸었습니다.
+JOOST: Dat is een scherpe opmerking. ||| 날카로운 지적이군요.
+HARYANTO: Het is een historische. Weet u wat uw Grotius schreef? In 1609, «Mare Liberum»: de vrije zee. ||| 역사적인 지적이죠. 당신들의 그로티위스가 뭘 썼는지 아십니까? 1609년 『자유 해양론』. 자유로운 바다요.
+JOOST: Hij schreef dat de zee van niemand is en dat varen vrij is voor iedereen. ||| 바다는 누구의 것도 아니고 항해는 모두에게 자유롭다고 썼습니다.
+HARYANTO: Hij schreef het voor een bedrijf. De VOC. Om de Portugezen uit het water te houden. ||| 회사를 위해 썼죠. VOC요. 포르투갈 사람을 물에서 내쫓으려고요.
+JOOST: Dat is waar. Het was een opdracht. ||| 사실입니다. 의뢰였죠.
+HARYANTO: En toen de VOC sterk was, sloot ze de zee. Ze sloot de Molukken. Ze sloot de specerijen. Ze dwong sultans tot monopolie. Dus het woord «vrij» was een wapen. ||| 그리고 VOC가 강해지자 바다를 닫았습니다. 말루쿠 제도를 닫고 향신료를 닫고 술탄들에게 독점을 강요했죠. '자유'라는 말은 무기였어요.
+JOOST: Dat zeg ik niet tegen. ||| 부인하지 않습니다.
+HARYANTO: Dan geeft u toe dat uw land de vrije zee heeft gebruikt wanneer het zwak was en heeft afgesloten wanneer het sterk was. ||| 그럼 당신 나라가 약할 땐 자유로운 바다를 쓰고 강해지자 닫았다는 걸 인정하시는 거군요.
+JOOST: Ik geef toe dat het meer dan één keer is gebeurd. Ik wil iets zeggen dat u waarschijnlijk niet verwacht. ||| 한 번 이상 있었다는 건 인정합니다. 예상하지 못하셨을 말을 하겠습니다.
+HARYANTO: Het wordt tijd. ||| 때가 됐군요.
+JOOST: U hebt gelijk. En precies daarom zou ik graag willen weten wat in uw kaart staat. ||| 각하가 옳습니다. 그래서 각하의 지도에 뭐가 적혀 있는지 알고 싶습니다.
+HARYANTO: Mijn kaart? ||| 제 지도요?
+JOOST: Mevrouw Kartika zei dat u verliefd bent op een oude kaart. ||| 카르티카 대리인이 각하가 오래된 지도에 푹 빠져 있다고 하더군요.
+HARYANTO: Mevrouw Kartika praat te veel. ||| 카르티카 대리인은 말이 많습니다.
+KARTIKA: Excellentie, ik heb het alleen als compliment gezegd. ||| 각하, 칭찬으로만 말씀드렸습니다.
+HARYANTO: Het is een kaart uit 1662. Een grote kaart uit de atlas van Blaeu. Ik heb hem op mijn bureau. ||| 1662년 지도입니다. 블라우 지도첩의 큰 지도죠. 제 책상 위에 있습니다.
+JOOST: Wat staat erop? ||| 뭐가 그려져 있습니까?
+HARYANTO: Mijn land. Zoals het was. Met de straat. En met een woord in de marge: «Tol». ||| 우리나라입니다. 예전 모습으로요. 해협과 함께. 그리고 여백에 한 단어가 있어요. '통행료'.
+JOOST: «Tol». ||| '통행료'.
+HARYANTO: Dat is mijn grondslag. Er was altijd een tol. Mijn voorvaderen hieven hem. Ik herstel alleen wat was. ||| 제 근거입니다. 통행료는 늘 있었어요. 조상들이 걷었습니다. 저는 있었던 걸 되살릴 뿐이에요.
+JOOST: Mag ik die kaart zien? ||| 그 지도를 볼 수 있을까요?
+HARYANTO: Waarom? ||| 왜요?
+JOOST: Omdat ik wil lezen wat er staat. Niet wat we denken dat er staat. ||| 적혀 있는 걸 읽고 싶어서요. 우리가 적혀 있다고 생각하는 게 아니라요.
+HARYANTO: ... Dat is een ongebruikelijk verzoek. ||| …드문 요청이군요.
+JOOST: Ik vraag het niet voor mezelf. Ik vraag het voor de man die u een gang in uw huis noemde. Als u gelijk hebt, wil ik dat u het bewijst. Op papier. ||| 저를 위해서가 아닙니다. 해협을 집의 복도라고 하신 분을 위해서요. 각하가 옳다면 증명하시길 바랍니다. 종이 위에서요.
+HARYANTO: En als ik ongelijk heb? ||| 제가 틀렸다면요?
+JOOST: Dan hebben we iets anders om te bespreken. ||| 그럼 이야기할 다른 게 생기겠죠.
+HARYANTO: U bent een vreemde man. ||| 이상한 분이시군요.
+JOOST: Mijn dochter zegt dat ook. ||| 제 딸도 그렇게 말합니다.
+HARYANTO: Ik zal uw verzoek bespreken. Maar het schip blijft liggen. ||| 요청은 논의해 보겠습니다. 하지만 배는 계속 정박합니다.
+JOOST: Dat begrijp ik. Mag ik wel iets vragen voor de schepen met voedsel en medicijnen? ||| 이해합니다. 하지만 식량과 의약품을 실은 배에 대해서는 부탁드려도 될까요?
+HARYANTO: Hoeveel zijn dat? ||| 몇 척입니까?
+JOOST: Vier. Die laten we eerst door. Zonder tol. Als vertrouwenwekkende maatregel. ||| 네 척입니다. 먼저 통과시켜 주십시오. 통행료 없이요. 신뢰 구축 조치로요.
+HARYANTO: ... Vier schepen. Vierentwintig uur. ||| …네 척, 24시간입니다.
+JOOST: Dank u, Excellentie. ||| 감사합니다, 각하.
+HARYANTO: Dit is geen concessie. Het is... een gebaar. ||| 양보가 아니라… 몸짓입니다.
+JOOST: In Nederland is dat soms hetzelfde. ||| 네덜란드에서는 때로 같은 거죠.
+## 이후 — NA HET GESPREK
+SPOOR: Vier schepen. Dat is alles? ||| 네 척이요. 그게 전부입니까?
+JOOST: Dat is het begin. Een dijk begint met een zandzak. ||| 시작입니다. 제방은 모래주머니 하나에서 시작해요.
+SPOOR: Mijn aandeelhouders zijn geen dijkbouwers. ||| 제 주주들은 제방 쌓는 사람들이 아닙니다.
+JOOST: Dan leg ik het anders uit. Wat kost een dag stilstand? ||| 그럼 다르게 설명하죠. 하루 정박하면 얼마가 듭니까?
+SPOOR: Vier miljoen. ||| 400만입니다.
+JOOST: En wat kost het een jaar tol betalen? ||| 1년간 통행료를 내면요?
+SPOOR: Een miljard. ||| 10억이죠.
+JOOST: Dan is een week stilstand goedkoper dan een jaar betalen. Als het leidt tot het einde van de tol. ||| 그럼 통행료를 끝낼 수 있다면 일주일 정박이 1년 납부보다 싸군요.
+SPOOR: Dat is een koude rekensom. ||| 차가운 계산이군요.
+JOOST: Het is een Hollandse. ||| 네덜란드식입니다.
+FEMKE: Joost, ik moet iets zeggen. Ik heb de tekst van het Karangse besluit gelezen. Zinnen als «overeenkomstig het oude recht van de straat». Dat is een merkwaardige formulering. ||| 요스트, 말씀드릴 게 있어요. 카랑 결정문을 읽었는데 '해협의 옛 권리에 따라' 같은 문장이 있어요. 이상한 표현이에요.
+JOOST: Wie schreef het? ||| 누가 썼죠?
+FEMKE: Een adviesbureau. «Meridiaan Maritiem Advies». Een bureau uit Rotterdam. ||| 자문 회사요. '메리디안 해사 자문'. 로테르담 업체예요.
+JOOST: Meridiaan. ||| 메리디안.
+FEMKE: Als in «Meridian Holdings». ||| '메리디언 홀딩스'처럼요.
+JOOST: Dat is geen toeval. ||| 우연이 아니군요.
+FEMKE: Nee. ||| 아니죠.
+JOOST: Zoek uit wie het bureau bezit. ||| 누가 그 회사를 소유하는지 알아보세요.
++ strait / straat = 해협
++ grondslag = 근거, 토대
++ een gebaar = 몸짓, 성의 표시
++ vertrouwenwekkende maatregel = 신뢰 구축 조치
++ stilstand = (가동) 중단, 정지
++ een koude rekensom = 차가운 계산
++ besluit = 결정(문)
++ Mare Liberum = 『자유 해양론』(1609). 그로티위스가 VOC를 위해 쓴 바다 자유론
++ heffen = (세금을) 걷다
++ adviesbureau = 자문 회사
