@@ -1,0 +1,81 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 10
+@title La Moncloa
+@ko 몽클로아
+@setting 2월 21일 살마라 구궁 안뜰 → 길드 회관 → 해질녘 광장
+@level B2-C1
+@cast ÁLVARO | 안보리 의장 특사, 45세
+@cast BASHIR | 총사령관 시디 바시르 장군, 61세
+@cast MANSOUR | 선주 협회 대표 하지 만수르, 63세
+@cast LAILA | 타마지아 공주, 38세
+@cast SORAYA | 시디 바시르의 부인, 62세
+@cast NADIA | 이드리스 왕의 미망인, 66세
+@cast HAMID | 고서점 주인이자 살마라 대표, 79세
+@cast SEFIA | 서점 손녀, 23세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@note 10화는 '내어놓는 것의 장부'를 만드는 화입니다. 이드리스 왕의 조건대로, 세 세력이 같은 날 같은 광장에서 각자 포기하는 것을 적고 서명합니다. 역사 논거는 몽클로아 협약(1977): 프랑코 사후 스페인에서 정부와 정당들이 같은 시기에 각자 양보를 약속하고 서명한 사례입니다. 누구도 홀로 희생하지 않도록 '동시 서명'이 핵심이었습니다. 어휘는 합의·서명(cesión, renuncia, simultáneo, rubricar, compromiso)에 주목하세요.
+@next 11화: 안보리 표결. 노르드마르크의 거부권 위협을 '기권'으로 바꾸는 한 줄이 필요합니다. 콘스탄츠 공의회의 '국가별 표결'이 열쇠입니다.
+
+## 두 문의 집 — LA CASA DE LAS DOS PUERTAS
+ÁLVARO: Alteza, mi general, señor Mansour, señoras. Gracias por venir. ||| 공주님, 장군님, 만수르 씨, 부인들. 와 주셔서 감사합니다.
+BASHIR: Hemos venido porque el papel de las damas lo dice. No por usted. ||| 부인들의 문서가 그렇게 말하니 온 것이오. 당신 때문이 아니라.
+ÁLVARO: Lo comprendo. ||| 이해합니다.
+MANSOUR: ¿Qué es lo que vamos a hacer hoy? ||| 오늘 무엇을 하는 겁니까?
+ÁLVARO: Lo que pidió el rey. El rey dijo: «Que firmen un papel donde anoten lo que ceden. No lo que ganan». ||| 왕께서 요청하신 일입니다. 왕은 '내어놓는 것을 적은 문서에 서명하게 하라, 얻는 것이 아니라'고 하셨습니다.
+BASHIR: Eso es un truco. Si cedo, quedo débil. ||| 속임수군. 양보하면 나는 약해지오.
+ÁLVARO: Si cede solo, sí. Si cede a la vez que los otros dos, no. ||| 혼자 양보하면 그렇습니다. 다른 둘과 동시에 양보하면 아닙니다.
+BASHIR: ¿A la vez? ||| 동시에요?
+ÁLVARO: En el mismo día, en la misma plaza, ante la misma gente. ||| 같은 날, 같은 광장, 같은 사람들 앞에서요.
+BASHIR: ¿Y quién me garantiza que los otros dos firman? ||| 다른 둘이 서명한다는 건 누가 보장하오?
+ÁLVARO: Nadie. Por eso se firma delante de todos. ||| 아무도 못 합니다. 그래서 모두가 보는 앞에서 서명하는 겁니다.
+MANSOUR: No es suficiente. ||| 충분하지 않소.
+ÁLVARO: Entonces les cuento una historia. ||| 그럼 이야기를 하나 하겠습니다.
+LAILA: Ya me lo esperaba. ||| 그럴 줄 알았어요.
+ÁLVARO: Otoño de mil novecientos setenta y siete. Mi país. Franco había muerto hacía dos años. El país estaba al borde de la quiebra: inflación de más del veinte por ciento. Y todos los partidos desconfiaban de todos. ||| 1977년 가을, 제 나라입니다. 프랑코가 죽은 지 2년이었어요. 나라는 파산 직전이었고 물가 상승률이 20퍼센트를 넘었죠. 모든 정당이 서로를 믿지 못했습니다.
+SORAYA: ¿Y qué hicieron? ||| 어떻게 했습니까?
+ÁLVARO: Se reunieron en un palacio, la Moncloa. El presidente del gobierno, los jefes de los partidos, de la derecha a los comunistas. Y firmaron, el mismo día, un paquete. ||| 몽클로아 궁에 모였습니다. 총리, 우파부터 공산주의자까지 정당 대표들이 같은 날 하나의 꾸러미에 서명했죠.
+NADIA: ¿Un paquete? ||| 꾸러미요?
+ÁLVARO: Una lista de sacrificios. Los sindicatos aceptaron moderar los salarios. Los empresarios aceptaron una reforma fiscal. El gobierno aceptó controlar el gasto y abrir la prensa. Cada uno cedía algo que sus bases odiaban. ||| 희생 목록입니다. 노조는 임금 인상을 자제하기로 했고, 기업은 세제 개혁을, 정부는 지출 통제와 언론 개방을 받아들였어요. 각자 지지자들이 싫어하는 걸 양보했습니다.
+BASHIR: ¿Y funcionó? ||| 효과가 있었소?
+ÁLVARO: La inflación bajó casi a la mitad en pocos años. Y, sobre todo, nadie sintió que había perdido solo. ||| 몇 년 만에 물가 상승률이 거의 절반으로 떨어졌습니다. 그리고 무엇보다 혼자 졌다고 느낀 사람이 없었죠.
+BASHIR: Nadie perdió solo. ||| 아무도 혼자 지지 않았다.
+ÁLVARO: Esa es la idea. Tres personas, tres cesiones, una tarde. ||| 그 생각입니다. 세 사람, 세 양보, 하루 오후.
+LAILA: ¿Cómo se escribe? ||| 어떻게 쓰죠?
+ÁLVARO: Hemos preparado un libro. Nuevo. Con tres columnas. ¿Señor Hamid? ||| 새 장부를 준비했습니다. 세 칸이 있죠. 하미드 어르신?
+HAMID: Aquí está. Lo he hecho yo. Encuadernado con cuero de la tapa de mi libro más viejo. ||| 여기 있소. 내가 만들었지. 가장 오래된 책 표지의 가죽으로 제본했소.
+SEFIA: Las columnas dicen: «Lo que cedo». «A quién». «Hasta cuándo». ||| 칸에는 이렇게 적혀 있어요. '내가 내어놓는 것', '누구에게', '언제까지'.
+BASHIR: «Hasta cuándo». ¿Para qué? ||| '언제까지'라니. 무엇 때문이오?
+ÁLVARO: Para que ninguna cesión sea eterna ni vaga. ||| 어떤 양보도 영원하거나 모호해지지 않도록요.
+MANSOUR: Eso me gusta. ||| 마음에 드오.
+BASHIR: A mí no. Un soldado no cede. Se retira. ||| 나는 아니오. 군인은 양보하지 않소. 후퇴하지.
+ÁLVARO: General, retirarse en orden es ceder con honor. ||| 장군님, 질서 있게 후퇴하는 것은 명예롭게 양보하는 겁니다.
+BASHIR: Eso es una frase. ||| 말장난이오.
+ÁLVARO: Es una frase que tiene siglos. Y, además, la suya también. ||| 수백 년 된 말입니다. 게다가 장군님의 말이기도 하고요.
+BASHIR: ¿Mía? ||| 내 말이라고?
+ÁLVARO: Usted me dijo hace una semana: «Un buen soldado sabe cuándo ordenar el repliegue». ||| 일주일 전에 말씀하셨죠. '좋은 군인은 언제 후퇴 명령을 내려야 하는지 안다'고.
+BASHIR: Eso lo dije en privado. ||| 사적인 자리에서 한 말이오.
+ÁLVARO: Perdón. Lo repito en privado. ||| 죄송합니다. 사적으로 되풀이한 겁니다.
+SORAYA: Sidi. ||| 시디.
+BASHIR: ¿Qué? ||| 뭐요?
+SORAYA: Escribe lo que cedes. ||| 내어놓는 걸 쓰세요.
+BASHIR: Aquí no. ||| 여기선 안 되오.
+SORAYA: Entonces escríbelo en la plaza. A la vista de todos. Como el papel dice. ||| 그럼 광장에서 쓰세요. 문서에 적힌 대로 모두가 보는 앞에서.
+BASHIR: Eso es una trampa. ||| 함정이오.
+SORAYA: Es una cama más cómoda para dormir a los cuarenta años. ||| 40년 뒤에 더 편히 잘 수 있는 잠자리죠.
+BASHIR: ... ||| …
+SORAYA: Me prometiste que no me harías vivir con una guerra. ||| 전쟁과 함께 살게 하지 않겠다고 약속했잖아요.
+BASHIR: Cuando éramos jóvenes. ||| 젊었을 때였소.
+SORAYA: Y eso no caduca. ||| 그건 기한이 없어요.
+BASHIR: Está bien. Lo escribiré en la plaza. ||| 좋소. 광장에서 쓰겠소.
++ cesión = 양보, 양도
++ renuncia = 포기
++ simultáneo = 동시의
++ encuadernado = 제본된
++ sindicato = 노동조합
++ reforma fiscal = 세제 개혁
++ repliegue = 후퇴, 철수
++ caducar = 기한이 만료되다
++ paquete = 꾸러미, 일괄 합의
++ Pactos de la Moncloa = 몽클로아 협약(1977)
