@@ -1,0 +1,88 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 3
+@title De bibliotheek
+@ko 도서관
+@setting 화요일 평화궁 도서관 열람실 → 서고 → 사서의 사무실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast FEMKE | 분석관, 31세
+@cast HANNEKE | 평화궁 도서관 수석 사서, 58세
+@cast ZANDSTRA | 평화궁 경비원, 60세
+@note 2부 3화는 '조사'의 화입니다. 도서관의 대출 카드와 그 뒷면의 연필 표기가 실종된 중재인의 마지막 행적을 알려 줍니다. 역사 논거는 그로티위스의 유산과 평화궁 도서관: 책은 '무엇을 읽었는지'로 사람의 생각을 남긴다는 점, 그리고 열람 기록이 투명성의 증거라는 점입니다. 어휘는 도서관(leenkaart, jaarboek, uitlenen, plank, sleutelnummer)과 단서 추적 표현에 주목하세요.
+@next 2부 4화 — «De tolk»(통역사) — 은퇴한 통역사 보스 씨가 사라진 중재인을 마지막으로 본 날의 대화를 떠올립니다. 통역 노트에 적힌 한 단어: '기금'.
+
+## 열람실 — DE LEESZAAL
+HANNEKE: Welkom in de bibliotheek, meneer Hartog. Ik ben Hanneke Bos, hoofdbibliothecaris. Mijn collega zei dat u iets wilde bekijken. ||| 도서관에 오신 걸 환영합니다, 하르토흐 씨. 수석 사서 하네커 보스입니다. 동료가 무언가를 보고 싶어 하신다고 하더군요.
+JOOST: Ja. Het leenregister van afgelopen zaterdag. En de leenkaarten van mevrouw Wijnaendts. ||| 네. 지난 토요일 대출 기록과 바이나엔츠 박사의 대출 카드요.
+HANNEKE: Dat is een gevoelig verzoek. Normaal geven we uitleengegevens alleen met toestemming van de lener. ||| 민감한 요청이군요. 보통 대출 기록은 이용자 동의가 있어야 드립니다.
+JOOST: Ik begrijp het. Maar mevrouw Wijnaendts is verdwenen. ||| 이해합니다. 하지만 바이나엔츠 박사가 사라졌습니다.
+HANNEKE: Dat is een geldige reden. Maar ik wil het schriftelijk. ||| 타당한 이유입니다. 하지만 서면으로 받겠습니다.
+JOOST: Femke. ||| 페므커.
+FEMKE: Ik heb een verzoek van de voorzitter van het tribunaal. Voorzitter Benedetti heeft het gisteren ondertekend. ||| 재판부 의장의 요청서가 있습니다. 베네데티 의장이 어제 서명했어요.
+HANNEKE: Dan is het goed. Wilt u meekomen naar de uitleenbalie? ||| 그럼 됐습니다. 대출 창구로 가시겠어요?
+JOOST: Graag. ||| 부탁합니다.
+HANNEKE: Dit is het leenkaartsysteem. Wij zijn de enige bibliotheek in Nederland die het nog op papier doet. Mijn voorgangster zei: «Kaarten kun je niet hacken». ||| 이것이 대출 카드 체계입니다. 네덜란드에서 아직 종이로 하는 유일한 도서관이에요. 전임자가 "카드는 해킹할 수 없다"고 했죠.
+JOOST: Mijn vader zou het eens zijn geweest. ||| 아버지도 동의하셨을 겁니다.
+HANNEKE: Hier is de kaart van mevrouw Wijnaendts. «Lotte Wijnaendts, arbiter. Eerste lening: veertien jaar geleden». ||| 바이나엔츠 박사의 카드입니다. '로테 바이나엔츠, 중재인. 첫 대출: 14년 전'.
+JOOST: Hoeveel leningen? ||| 대출이 몇 건입니까?
+HANNEKE: Honderdzesentwintig. Ze is een trouwe lezer. ||| 126건입니다. 충실한 독자죠.
+JOOST: En vorige week? ||| 지난주는요?
+HANNEKE: Vorige week drie. Dinsdag, donderdag, en zaterdag. ||| 지난주에는 세 건입니다. 화요일, 목요일, 토요일.
+JOOST: Wat leende ze zaterdag? ||| 토요일에는 무엇을 빌렸습니까?
+HANNEKE: Drie titels. Eén: «De iure belli ac pacis», de eerste druk van Grotius, 1625. Twee: het Jaarboek van de Carnegie Stichting, 1913. Drie: het Blauwberg Onderwijsfonds, jaarboek 2019. ||| 세 종입니다. 하나, 그로티위스의 『전쟁과 평화의 법』 초판(1625). 둘, 카네기 재단 1913년 연감. 셋, 블라우베르흐 교육 기금 2019년 연감.
+JOOST: Het Blauwberg-jaarboek. Staat dat gewoon bij jullie? ||| 블라우베르흐 연감이요. 여기 그냥 꽂혀 있습니까?
+HANNEKE: Niet in de catalogus. Het staat in de afdeling «overig drukwerk». Het is een publicatie van ongeveer vijftig exemplaren. We hebben er één van gekregen. ||| 목록에는 없습니다. '기타 인쇄물' 구역에 있어요. 50부쯤 찍은 간행물인데 한 부를 받았습니다.
+JOOST: Van wie? ||| 누구에게서요?
+HANNEKE: Van de stichting. Elk jaar. Zonder dat we erom vroegen. ||| 재단에서요. 해마다. 요청하지도 않았는데요.
+JOOST: Hmm. Waar is het nu? ||| 흠. 지금은 어디 있죠?
+HANNEKE: Ik weet het niet. Dat is wat me dwarszit. De kaart staat nog op naam van mevrouw Wijnaendts. Maar het boek is niet teruggebracht. ||| 모릅니다. 그게 마음에 걸려요. 카드는 아직 바이나엔츠 박사 이름으로 남아 있는데 책이 반납되지 않았어요.
+JOOST: Is het in haar kamer? ||| 그분 방에 있을까요?
+HANNEKE: Nee. Ik heb gekeken. Op het bureau lagen alleen de Grotius en het Carnegie-jaarboek. ||| 아니요. 확인했습니다. 책상에는 그로티위스와 카네기 연감뿐이었어요.
+JOOST: Dus het Blauwberg-jaarboek is weg. ||| 그러니 블라우베르흐 연감만 사라졌군요.
+HANNEKE: Of ze heeft het meegenomen. ||| 아니면 그분이 가져갔거나요.
+JOOST: Ze nam haar jas niet mee. Ze nam haar bril niet mee. Een boek meenemen zou vreemd zijn. ||| 외투도 안경도 안 가져갔는데 책을 가져갔다면 이상하죠.
+HANNEKE: Dat is zo. ||| 그렇긴 하네요.
+## 연필 — HET POTLOOD
+JOOST: Mag ik de kaart omdraaien? ||| 카드를 뒤집어 봐도 될까요?
+HANNEKE: Natuurlijk. Wacht, er staat iets achterop. Potlood. ||| 물론이죠. 잠깐, 뒷면에 뭔가 있네요. 연필로요.
+JOOST: Dat is haar handschrift? ||| 그분 필체입니까?
+HANNEKE: Dat is zeker haar handschrift. Ze schrijft altijd in een kleine ronde letter. ||| 분명히 그분 필체입니다. 늘 작고 둥근 글씨로 쓰죠.
+FEMKE: Ik lees het voor. «Blauwberg 2019, blz. 38: Lijst gedelegeerden zomerschool Leiden. Onder anderen: Benedetti (gastdocent, 2017), Okafor-Lindqvist (Blauwberg-leerstoel 2022), Brandsma (alumnus). Wie nog?» ||| 읽을게요. '블라우베르흐 2019, 38쪽: 레이던 여름학교 대표자 명단. 그중 베네데티(객원 강사, 2017), 오카포르 린드크비스트(블라우베르흐 석좌 2022), 브란츠마(동문). 또 누구?'
+JOOST: Benedetti, Okafor, Brandsma. ||| 베네데티, 오카포르, 브란츠마.
+FEMKE: Het hele tribunaal behalve zij. ||| 그분만 빼고 재판부 전체네요.
+JOOST: En de griffier. ||| 그리고 서기요.
+FEMKE: Dat is geen toeval. ||| 우연이 아니에요.
+JOOST: Nee. Dat is een patroon. Zij zag het. En ze schreef: «Wie nog?» ||| 아니죠. 패턴입니다. 그분이 봤고 '또 누구?'라고 썼어요.
+HANNEKE: Is er meer? ||| 더 있습니까?
+FEMKE: Ja. Eronder staat nog een regel. Zeer klein. «Welke is de verbinding met Z.-Marinde?» ||| 네. 아래 한 줄이 더 있어요. 아주 작게. '남마린데와의 연결은 무엇인가?'
+JOOST: Zuid-Marinde. Haar eigen land. ||| 남마린데. 그분을 지명한 나라요.
+FEMKE: Ze vroeg zich af of haar eigen regering ook... ||| 자기 정부도 연루됐는지 의문을 가진 거예요.
+JOOST: Of haar eigen benoeming. ||| 아니면 자기 지명 자체가요.
+HANNEKE: Mijn god. ||| 세상에.
+JOOST: Mevrouw Bos, ik heb een vraag. Wie heeft de laatste maanden het Blauwberg-jaarboek aangevraagd? ||| 보스 씨, 질문이 있습니다. 최근 몇 달간 누가 블라우베르흐 연감을 신청했습니까?
+HANNEKE: Ik kijk. Er is een kaart. Donderdag. «Prof. mr. A. L. Stuyvenberg. Gast-onderzoeker». ||| 확인해 보죠. 카드가 있어요. 목요일. '스타위벤베르흐 교수·법학박사. 객원 연구자'.
+JOOST: Donderdag. Twee dagen voor mevrouw Wijnaendts. ||| 목요일. 바이나엔츠 박사보다 이틀 앞이군요.
+HANNEKE: Hij leende het twee uur. En hij bracht het terug. ||| 두 시간 빌려 갔고 반납했습니다.
+JOOST: Welke bladzijden heeft hij gekopieerd? ||| 어느 쪽을 복사했습니까?
+HANNEKE: Dat registreren we niet. Maar de kopieerkaart... Wacht. Hij heeft vijftien kopieën gemaakt. Op zijn eigen pasje. ||| 그건 기록하지 않아요. 하지만 복사 카드가… 잠깐. 본인 카드로 열다섯 장을 복사했네요.
+JOOST: Vijftien kopieën. Een jaarboek van veertig pagina's. ||| 열다섯 장. 마흔 쪽짜리 연감에서요.
+HANNEKE: Dus hij heeft gekozen. ||| 그러니 골랐군요.
+JOOST: Hij wist wat hij zocht. ||| 무엇을 찾는지 알았던 거죠.
+FEMKE: Of wat hij wilde verwijderen. ||| 아니면 무엇을 없애려 했는지요.
+JOOST: Mevrouw Bos, mag ik uw kopieerapparaat zien? ||| 보스 씨, 복사기를 볼 수 있습니까?
+HANNEKE: Het staat in de gang. ||| 복도에 있습니다.
+JOOST: Elk apparaat heeft een geheugen. ||| 복사기에도 기억이 있죠.
+HANNEKE: Het is een oud model. Het onthoudt niets. ||| 오래된 기종이라 아무것도 기억하지 못해요.
+JOOST: Dan onthouden wij het. ||| 그럼 우리가 기억하죠.
++ leenkaart = 대출 카드. 도서관에서 대출 기록을 적던 종이 카드
++ uitleenbalie = 대출 창구
++ jaarboek = 연감
++ overig drukwerk = 기타 인쇄물
++ gastdocent = 객원 강사
++ leerstoel = 석좌(교수 자리). 'Blauwberg-leerstoel'은 재단이 후원하는 교수직
++ zomerschool = 여름학교(단기 집중 과정)
++ alumnus = 동문(졸업생)
++ gast-onderzoeker = 객원 연구자
++ dwarszitten = 마음에 걸리다, 신경 쓰이다
