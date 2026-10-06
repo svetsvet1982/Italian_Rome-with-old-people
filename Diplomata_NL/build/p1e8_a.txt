@@ -1,0 +1,88 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 8
+@title Het lek
+@ko 유출
+@setting 목요일 아침 외무부 위기대책실 → 기자와의 통화 → 요스트의 사무실 → 오후 수리요와의 통화
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast VISSER | 외무부 부국장, 52세
+@cast MINISTER | 외무부 장관 판 베이크, 61세
+@cast ESTHER | 일간지 'De Nieuwe Courant' 기자, 38세
+@cast SURYO | 메란티 수자원부 차관 (전화)
+@note 1부 8화는 '언론전'입니다. 일간지가 부수서한의 일부를 보도하자, 요스트는 기자의 '질문 순서'에서 그녀가 가진 것과 못 가진 것을 읽어 냅니다. 역사 논거는 그로티위스의 책 상자 탈출(1621): 로풀스테인 성에서 책 상자에 숨어 탈출했다는 일화로, 문서와 사람이 '상자'에 담겨 이동한다는 점에서 유출의 경로를 추적하는 비유가 됩니다. 어휘는 언론(kop, bron, embargo, onthullen)과 질문 분석 표현(volgorde, ontbreken, afleiden)에 주목하세요.
+@next 1부 9화 — «Verraad in Den Haag»(헤이그의 배신) — 이메일 메타데이터에서 협상 정보를 펠트하위스에 흘린 사람의 시각이 드러납니다. 전송 시각과 회의 일정의 불일치, 그리고 요스트가 믿고 싶지 않았던 이름.
+
+## 헤드라인 — DE KOP
+MINISTER: Dames en heren, heeft iemand de krant gezien? ||| 여러분, 신문 본 분 있습니까?
+FEMKE: «Geheime zijbrief ontheft Nederlandse bedrijven van aansprakelijkheid voor dijken in Azië». Dat is de kop. ||| '비밀 부수서한이 네덜란드 기업의 아시아 제방 책임을 면제하다'. 그게 헤드라인이에요.
+MINISTER: Wie heeft het geschreven? ||| 누가 썼습니까?
+FEMKE: Esther Bakker. Van De Nieuwe Courant. ||| 에스터 바커요. 데 니우어 쿠란트 기자입니다.
+MINISTER: Ik ken haar. Ze is grondig. En ze heeft vrijwel altijd gelijk. ||| 알아요. 꼼꼼하죠. 그리고 거의 늘 맞습니다.
+VISSER: Mevrouw de minister, ik stel voor dat we het ontkennen. We weten niet of het document echt is. ||| 장관님, 부인할 것을 제안합니다. 문서가 진짜인지 모르잖습니까.
+JOOST: Rutger, we weten dat het echt is. ||| 뤼트허르, 진짜라는 건 압니다.
+VISSER: Wij weten dat niet. ||| 우리는 모릅니다.
+JOOST: Ik weet het. Jij weet het ook. ||| 저는 압니다. 당신도 알고요.
+MINISTER: Wat bedoelt u precies, meneer Hartog? ||| 정확히 무슨 뜻입니까, 하르토흐 씨?
+JOOST: Mevrouw de minister, vorige week vrijdag hebben we in het Zeeuws Archief vastgesteld dat de bijbrief heeft bestaan. Er is een gewaarmerkt afschrift van het uitleenregister. En er is een memo uit 1969 dat het bevestigt. ||| 장관님, 지난주 금요일 제일란트 문서고에서 부수서한이 존재했음을 확인했습니다. 대출 장부의 인증 사본이 있고 1969년 메모가 이를 확인해 줍니다.
+MINISTER: Dat is mij niet gemeld. ||| 제게는 보고되지 않았습니다.
+JOOST: Dat is mijn fout. Ik wilde eerst weten wat het precies was. ||| 제 잘못입니다. 먼저 정확히 무엇인지 알고 싶었습니다.
+MINISTER: Meneer Hartog, u bent een goede onderhandelaar. Maar uw volgorde is de verkeerde. Een minister hoort het nieuws niet uit de krant. ||| 하르토흐 씨, 당신은 좋은 협상가입니다. 하지만 순서가 틀렸어요. 장관은 신문에서 소식을 들어서는 안 됩니다.
+JOOST: U hebt gelijk. ||| 맞습니다.
+MINISTER: Wat stelt u nu voor? ||| 이제 어떻게 하자는 겁니까?
+JOOST: Dat we niet ontkennen. Dat we bevestigen dat de zijbrief bestaat, en dat we beloven dat we hem openbaar maken via een onafhankelijke commissie. ||| 부인하지 않는 겁니다. 부수서한이 존재한다고 확인하고 독립 위원회를 통해 공개하겠다고 약속하는 거예요.
+VISSER: Dat is politieke zelfmoord. ||| 정치적 자살입니다.
+JOOST: Nee. Zelfmoord is zwijgen terwijl de krant spreekt. ||| 아닙니다. 신문이 말하는데 침묵하는 게 자살이죠.
+MINISTER: Meneer Hartog, belt u mevrouw Bakker. Vandaag. Voordat zij de volgende aflevering publiceert. ||| 하르토흐 씨, 바커 씨에게 전화하세요. 오늘. 다음 기사가 나가기 전에요.
+JOOST: Dat was mijn plan. ||| 그럴 계획이었습니다.
+MINISTER: Vertel me daarna wat zij wist. En wat zij niet wist. ||| 그 뒤에 그녀가 아는 것과 모르는 것을 말해 주세요.
+JOOST: Dat is precies wat ik van plan was te achterhalen. ||| 정확히 제가 알아내려던 것입니다.
+## 통화 — HET TELEFOONGESPREK MET ESTHER
+ESTHER: Esther Bakker. ||| 에스터 바커입니다.
+JOOST: Mevrouw Bakker, Joost Hartog, Buitenlandse Zaken. Ik bel naar aanleiding van uw artikel. ||| 바커 씨, 외무부의 요스트 하르토흐입니다. 기사 건으로 전화드립니다.
+ESTHER: Meneer Hartog. Ik had u verwacht. Bent u hier om te ontkennen? ||| 하르토흐 씨. 전화를 기다렸어요. 부인하려고 하시는 건가요?
+JOOST: Nee. Ik ben hier om te praten. ||| 아닙니다. 이야기하려고요.
+ESTHER: Dat is ongebruikelijk voor een ambtenaar. ||| 공무원치고는 드문 일이군요.
+JOOST: Ik ben ongebruikelijk. Hoe kan ik u helpen? ||| 저는 드문 사람입니다. 어떻게 도와드릴까요?
+ESTHER: Dan begin ik. Is de zijbrief van twaalf maart 1969 authentiek? ||| 그럼 시작하죠. 1969년 3월 12일자 부수서한은 진본입니까?
+JOOST: Er heeft een zijbrief bestaan. Dat bevestig ik. ||| 부수서한이 있었다는 건 확인합니다.
+ESTHER: Wat is de inhoud van bijlage C? ||| 부속서 C의 내용은 무엇입니까?
+JOOST: Dat kan ik niet zeggen. Ik heb het document zelf niet gezien. ||| 말씀드릴 수 없습니다. 저도 문서를 직접 보지 못했어요.
+ESTHER: Wie heeft het ondertekend? ||| 누가 서명했습니까?
+JOOST: Dat weet ik niet. ||| 모릅니다.
+ESTHER: Wanneer is het voor het laatst ingezien? ||| 마지막으로 열람된 건 언제입니까?
+JOOST: In 2019, door een advocaat van een baggerbedrijf. ||| 2019년 한 준설 회사의 변호사에 의해서요.
+ESTHER: Welk bedrijf? ||| 어느 회사요?
+JOOST: Veldhuis Waterwerken. ||| 펠트하위스 수리공사입니다.
+ESTHER: Dat wist ik nog niet. Dank u. ||| 그건 몰랐네요. 감사합니다.
+JOOST: Mevrouw Bakker, mag ik u één vraag stellen? ||| 바커 씨, 질문 하나 해도 될까요?
+ESTHER: Een journalist beantwoordt geen vragen. ||| 기자는 질문에 답하지 않습니다.
+JOOST: Dan stel ik hem als opmerking: ik denk dat uw bron een onvolledig exemplaar had. Er ontbreekt een pagina. ||| 그럼 의견으로 말하죠. 제보자가 불완전한 사본을 가졌다고 생각합니다. 한 장이 빠져 있어요.
+ESTHER: Hoe komt u daar bij? ||| 어떻게 그런 생각을 하셨습니까?
+JOOST: Aan de volgorde van uw vragen. U begon met de datum, toen met bijlage C, toen met de ondertekenaar. Maar u vroeg niets over artikel vier. ||| 질문 순서에서요. 날짜, 부속서 C, 서명자 순으로 물으셨죠. 하지만 4조에 관해서는 아무것도 묻지 않으셨어요.
+ESTHER: ... ||| …
+JOOST: Wie artikel vier heeft, begint daarmee. Het is de kern. U begon er niet mee, dus u hebt het niet. ||| 4조를 가진 사람은 거기서 시작합니다. 핵심이니까요. 시작하지 않았으니 갖고 있지 않은 거죠.
+ESTHER: Meneer Hartog, u bent een gevaarlijk man om mee te praten. ||| 하르토흐 씨, 대화하기 위험한 분이네요.
+JOOST: Ik ben alleen een man die goed luistert. ||| 잘 듣는 사람일 뿐입니다.
+ESTHER: Wat wilt u van mij? ||| 제게서 뭘 원하십니까?
+JOOST: Een afspraak. Als u de rest krijgt, meldt u het mij vóór publicatie. En ik meld u alles wat ik mag zeggen, vóórdat anderen het doen. ||| 약속이요. 나머지를 입수하면 보도 전에 제게 알려 주세요. 저는 말해도 되는 모든 걸 다른 사람보다 먼저 알려 드리겠습니다.
+ESTHER: Dat klinkt als een poldermodel voor journalisten. ||| 기자용 폴더 모델 같군요.
+JOOST: Het is een afspraak tussen twee mensen die dezelfde waarheid willen. ||| 같은 진실을 원하는 두 사람의 약속입니다.
+ESTHER: Ik beloof niets. Maar ik bel u. ||| 약속은 못 하지만 전화하겠습니다.
+JOOST: Dat is meer dan genoeg. ||| 충분합니다.
+ESTHER: Meneer Hartog. Mag ik ook iets zeggen? ||| 하르토흐 씨. 저도 한마디 해도 될까요?
+JOOST: Graag. ||| 그러세요.
+ESTHER: Mijn bron zit niet bij uw ministerie. ||| 제 제보자는 귀 부처 사람이 아닙니다.
+JOOST: Dank u. ||| 감사합니다.
++ kop = 헤드라인(기사 제목). 'de krantenkop'
++ ontheffen van = ~를 면제하다
++ onthullen = 폭로하다
++ bron = 제보자, 출처. 'anonieme bron'은 익명 제보자
++ embargo = 보도 유예(엠바고)
++ volgorde = 순서. 'de volgorde van de vragen'
++ achterhalen = 알아내다, 추적해 밝히다
++ ongebruikelijk = 드문, 통상적이지 않은
++ ontbreken = 빠져 있다, 없다
++ afleiden = 추론하다, 끌어내다
