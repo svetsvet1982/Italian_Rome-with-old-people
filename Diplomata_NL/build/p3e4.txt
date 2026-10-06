@@ -1,0 +1,159 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 4
+@title De Haagse hack
+@ko 헤이그 해킹
+@setting 월요일 아침 평화궁 위기실 → 서버실 앞 복도 → 점심 카랑 대표부 → 오후 경비실
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast RADEMAKER | 상설중재재판소 사무총장, 59세
+@cast BRINKMAN | 청렴 책임관, 51세
+@cast TAK | 평화궁 IT 책임자, 38세
+@cast KARTIKA | 카랑 대리인, 49세
+@cast ZANDSTRA | 평화궁 경비원, 61세
+@note 3부 B사건(평화궁 해킹)의 첫 화입니다. 평화궁의 비공개 중재 문서가 유출되고, 로그의 타임스탬프가 카랑을 가리킵니다. 그러나 타임스탬프는 평화궁의 '근무 시간 밖'이고, 그 어긋남이 가짜 흔적이라는 증거가 됩니다. 역사 논거는 1899년 헤이그 평화회의 최종 의정서가 종이 원본 여러 부로 서명·보관된 전통(문서 보존)입니다. 어휘는 사이버(inbraak, logboek, tijdstempel, wachtwoord, lekken)와 위기 보고 표현에 주목하세요.
+@next 3부 5화 — «De getuige»(증인) — 퇴직한 IT 관리자의 낡은 수첩에 적힌 한 단어 '그로티위스'. 책 상자를 닮은 비밀번호 메모가 해킹의 실마리를 남깁니다.
+
+## 위기실 — DE CRISISKAMER
+RADEMAKER: Goedemorgen. Ik heet u welkom in de crisiskamer van het Vredespaleis. Wat ik u ga vertellen, is erger dan wat ik ooit in dit gebouw heb verteld. ||| 안녕하십니까. 평화궁 위기실에 오신 걸 환영합니다. 지금부터 말씀드릴 내용은 제가 이 건물에서 해 본 어떤 말보다 나쁩니다.
+JOOST: Zegt u het. ||| 말씀하세요.
+RADEMAKER: Zaterdagnacht is ons zaaksysteem gehackt. Alle vertrouwelijke stukken van drieënveertig lopende zaken zijn gekopieerd. Gisterenavond om tien uur verscheen een selectie op een website: «papierenvrede punt org». ||| 토요일 밤 우리 사건 시스템이 해킹당했습니다. 진행 중인 사건 43건의 비공개 문서가 복사됐어요. 어젯밤 열 시 그중 일부가 웹사이트에 올라왔습니다. '종이평화 닷 오르그'입니다.
+FEMKE: «Papieren Vrede». Een spottende naam. ||| '종이 평화'. 비웃는 이름이네요.
+RADEMAKER: Er staat een foto op van het paleis, met een scheur erdoor. ||| 궁전 사진이 있고 가운데에 균열이 그려져 있어요.
+JOOST: Welke stukken zijn gepubliceerd? ||| 어떤 문서가 공개됐습니까?
+RADEMAKER: Elf documenten. Drie daarvan uit de zaak Zuid-Marinde tegen Karang. ||| 11건입니다. 그중 셋은 남마린데 대 카랑 사건입니다.
+JOOST: Welke? ||| 어떤 거죠?
+RADEMAKER: Een conceptbeschikking van het tribunaal. Een intern memo van mevrouw Wijnaendts. En een brief van de heer Ferreira aan zijn regering. ||| 재판부의 결정 초안, 바이나엔츠 박사의 내부 메모, 그리고 페헤이라 씨가 자국 정부에 보낸 서한입니다.
+JOOST: Dat is de kern van de zaak. ||| 사건의 핵심이군요.
+RADEMAKER: Ja. En de pers heeft het al opgepikt. De koppen zeggen: «Het Vredespaleis lekt». ||| 네. 언론이 벌써 받았습니다. 헤드라인은 '평화궁이 샌다'예요.
+BRINKMAN: Meneer Hartog, ik ben Saskia Brinkman. Ik ben sinds drie maanden de integriteitsfunctionaris van het Hof. Dit is mijn eerste crisis. ||| 하르토흐 씨, 사스키아 브링크만입니다. 석 달 전부터 재판소 청렴 책임관을 맡고 있어요. 이게 제 첫 위기입니다.
+JOOST: Mevrouw Brinkman. Dan bent u de wachter. ||| 브링크만 씨. 그럼 파수꾼이시군요.
+BRINKMAN: Ik ben de wachter die op de verkeerde dag heeft liggen slapen. ||| 하필 잘못된 날에 잠들어 있던 파수꾼이죠.
+JOOST: U sliep niet. U was niet gewaarschuwd. Dat is niet hetzelfde. ||| 주무시지 않았습니다. 경고를 못 받았을 뿐이에요. 같지 않습니다.
+BRINKMAN: Dat is vriendelijk. ||| 친절하시네요.
+JOOST: Het is precies. ||| 정확한 겁니다.
+RADEMAKER: Meneer Tak, de technische stand? ||| 탁 씨, 기술적 상황은요?
+TAK: Mevrouw de Secretaris-Generaal. De indringer kwam binnen via een beheerdersaccount. Het logboek laat zien dat hij zaterdag om 12.10 begon en om 13.40 stopte. In anderhalf uur is alles gekopieerd. ||| 사무총장님. 침입자는 관리자 계정으로 들어왔습니다. 로그에 따르면 토요일 12시 10분에 시작해 13시 40분에 멈췄어요. 한 시간 반 만에 전부 복사했습니다.
+JOOST: Twaalf uur tien. Dat is geen nacht. ||| 12시 10분이라. 한밤이 아니군요.
+TAK: Het is in de logboeken vastgelegd als twaalf uur tien. Maar die tijdstempels zijn van de computer van de indringer. ||| 로그에는 12시 10분으로 기록돼 있습니다. 하지만 그 타임스탬프는 침입자의 컴퓨터 시각입니다.
+FEMKE: Dan is het zijn lokale tijd. ||| 그럼 침입자의 현지 시각이네요.
+TAK: Ja. En in de header staat «UTC plus zeven». ||| 네. 그리고 헤더에는 'UTC+7'이라고 적혀 있습니다.
+JOOST: Plus zeven. ||| 플러스 7.
+FEMKE: Dat is de tijdzone van Karang. ||| 카랑의 시간대예요.
+RADEMAKER: Dat zegt de pers ook. «Karangse hackers». ||| 언론도 그렇게 말합니다. '카랑 해커'.
+JOOST: En wat zegt de pers over de zaak zelf? ||| 그리고 사건 자체에 대해서는 뭐라고 합니까?
+RADEMAKER: Dat het concept van mevrouw Wijnaendts gunstiger is voor Karang. ||| 바이나엔츠 박사의 초안이 카랑에 더 유리하다고요.
+JOOST: Dus Karang had een reden. ||| 그러니 카랑에는 동기가 있었군요.
+RADEMAKER: Dat is de gedachte. ||| 그런 생각이죠.
+JOOST: En Zuid-Marinde? ||| 남마린데는요?
+RADEMAKER: Ambassadeur Ferreira heeft vanochtend om negen uur gedreigd zich terug te trekken uit de procedure. ||| 페헤이라 대사가 오늘 아침 아홉 시에 절차에서 철수하겠다고 위협했습니다.
+JOOST: En Karang? ||| 카랑은요?
+RADEMAKER: Mevrouw Kartika belde om half tien. Haar regering overweegt hetzelfde. ||| 카르티카 대리인이 아홉 시 반에 전화했어요. 정부도 같은 걸 검토 중입니다.
+JOOST: Dan hebben we twee partijen die beide willen vertrekken. ||| 그러니 양 당사자 모두 떠나려 하는군요.
+RADEMAKER: Ja. En een paleis dat leeg staat. ||| 네. 그리고 텅 빈 궁전이요.
+## 타임스탬프 — DE TIJDSTEMPEL
+JOOST: Meneer Tak, mag ik het logboek zien? ||| 탁 씨, 로그를 볼 수 있을까요?
+TAK: Het zijn tweeduizend regels. ||| 2천 줄입니다.
+JOOST: Femke leest sneller dan ik. ||| 페므커가 저보다 빠르게 읽습니다.
+FEMKE: Ik begin. «Sessie begin 12.10:04, UTC plus zeven. Gebruiker: beheer-oud. Locatie: intern». ||| 시작할게요. '세션 시작 12:10:04, UTC+7. 사용자: beheer-oud. 위치: 내부'.
+JOOST: «Locatie: intern». ||| '위치: 내부'.
+TAK: Dat betekent dat de inlog vanuit ons eigen netwerk kwam. ||| 우리 내부 네트워크에서 로그인됐다는 뜻입니다.
+JOOST: Maar de tijd is die van Karang. ||| 하지만 시각은 카랑 거고요.
+TAK: Dat is vreemd, ja. ||| 이상하죠, 맞습니다.
+JOOST: Hoe laat is het in Den Haag als het in Karang twaalf uur tien is? ||| 카랑이 12시 10분이면 헤이그는 몇 시입니까?
+FEMKE: Zeven uur 's ochtends. Tien over zeven. ||| 아침 일곱 시 십 분이요.
+JOOST: Dan is de inbraak om zeven uur 's ochtends begonnen. Dat is voor een paleis een rustig uur. ||| 그럼 침입은 아침 일곱 시에 시작됐군요. 궁전에서는 조용한 시각입니다.
+TAK: Het is vóór de werktijd. Onze mensen komen om half negen. ||| 근무 시간 전이에요. 직원은 여덟 시 반에 옵니다.
+JOOST: Wie was er dan? ||| 그럼 누가 있었죠?
+TAK: Alleen de portier. ||| 경비원뿐입니다.
+JOOST: Meneer Zandstra. ||| 잔드스트라 씨요.
+FEMKE: Of de tijd klopt niet. ||| 아니면 시각이 맞지 않거나요.
+JOOST: Femke, wat zou een hacker doen die niet gezien wil worden? ||| 페므커, 눈에 띄고 싶지 않은 해커는 어떻게 할까요?
+FEMKE: Midden in de nacht werken. In een tijdzone waar het dag is. ||| 한밤중에 일하죠. 낮인 시간대에서요.
+JOOST: Precies. En dan de tijd van de klok aanpassen. ||| 맞아요. 그리고 시계를 맞춰 둡니다.
+FEMKE: Dus de tijdstempel is een vermomming. ||| 타임스탬프가 위장이라는 거군요.
+JOOST: Het is een voetafdruk in zand die iemand achter zich in de goede richting heeft gezet. ||| 누군가 일부러 맞는 방향으로 찍어 둔 모래 위의 발자국이죠.
+TAK: Maar dat kan ik niet bewijzen. ||| 하지만 증명할 수 없습니다.
+JOOST: Nee. Maar het zegt iets. Als hij zichzelf zo graag wilde verstoppen, waarom liet hij dan zijn tijd staan? ||| 아니죠. 하지만 뭔가를 말해 줍니다. 그렇게 숨고 싶었다면 왜 자기 시각을 그대로 남겼을까요?
+FEMKE: Omdat hij wilde dat we het zouden vinden. ||| 우리가 찾길 원했기 때문이에요.
+JOOST: Omdat hij wilde dat wij naar Karang keken. ||| 우리가 카랑을 보길 원했기 때문입니다.
+BRINKMAN: Een valse vlag. ||| 가짜 깃발이군요.
+JOOST: Een valse vlag. ||| 가짜 깃발입니다.
++ inbraak = 침입(해킹의 일상어)
++ logboek / tijdstempel = 로그 / 타임스탬프
++ beheerdersaccount = 관리자 계정
++ conceptbeschikking = (재판부) 결정 초안
++ lekken = 새다, 유출되다
++ een valse vlag = 가짜 깃발(위장 작전)
++ vermomming = 위장
++ voetafdruk = 발자국
++ crisiskamer = 위기실
++ integriteitsfunctionaris = 청렴 책임관(2부 개혁에서 신설)
+## 카랑 대표부 — DE VERTEGENWOORDIGING VAN KARANG
+KARTIKA: Meneer Hartog. U bent gekomen. Mijn regering is woedend. ||| 하르토흐 씨. 오셨군요. 우리 정부는 격노했습니다.
+JOOST: Mevrouw Kartika, ik begrijp het. Ik heb geen enkel bewijs dat Karang erachter zit. En ik heb een aantal aanwijzingen dat het niet zo is. ||| 카르티카 대리인, 이해합니다. 카랑이 배후라는 증거는 하나도 없습니다. 그렇지 않다는 정황은 여럿 있고요.
+KARTIKA: Welke? ||| 어떤 거죠?
+JOOST: De tijdstempel. Hij is te netjes. ||| 타임스탬프요. 너무 깔끔합니다.
+KARTIKA: Dat begrijp ik niet. ||| 이해가 안 됩니다.
+JOOST: Een echte hacker wist zijn sporen uit. Deze liet een visitekaartje achter. ||| 진짜 해커는 흔적을 지웁니다. 이 사람은 명함을 남겼어요.
+KARTIKA: Dat zegt mijn minister ook. Maar de krant gelooft hem niet. ||| 우리 장관도 그렇게 말하지만 신문은 믿지 않습니다.
+JOOST: Wat wil uw regering? ||| 귀 정부는 무엇을 원합니까?
+KARTIKA: Dat het Hof ons vrijpleit. Openbaar. Vandaag. ||| 재판소가 우리 혐의를 공개적으로, 오늘 벗겨 주는 겁니다.
+JOOST: Dat kan het Hof niet doen. Het Hof heeft geen bewijs. ||| 재판소는 그럴 수 없습니다. 증거가 없으니까요.
+KARTIKA: Dan trekken wij ons terug. ||| 그럼 우리는 철수합니다.
+JOOST: Mevrouw Kartika. Mag ik u iets vertellen over dit gebouw? ||| 카르티카 대리인. 이 건물에 대해 한 가지 말씀드려도 될까요?
+KARTIKA: Ik ken het gebouw. ||| 건물은 압니다.
+JOOST: Niet het gebouw. Wat erin ligt. In 1899 tekenden de gedelegeerden hier de Slotakte van de eerste conferentie. Weet u in hoeveel exemplaren? ||| 건물 말고 안에 있는 것에 대해서요. 1899년 대표단이 1차 회의의 최종 의정서에 서명했습니다. 몇 부였는지 아십니까?
+KARTIKA: Een? ||| 한 부요?
+JOOST: Meerdere. Op papier. Elk exemplaar bewaard op een andere plek. Een in het archief van het ministerie. Een in het Paleis. Een in elk land. ||| 여러 부였습니다. 종이로요. 한 부씩 다른 곳에 보관됐어요. 하나는 외무부 문서고에, 하나는 궁전에, 나라마다 하나씩이요.
+KARTIKA: En waarom? ||| 왜죠?
+JOOST: Omdat ze wisten: als één exemplaar verdwijnt, bestaat het verdrag nog. Ze vertrouwden niet op één plek. ||| 한 부가 사라져도 조약은 남아 있다는 걸 알았기 때문입니다. 한 곳에 의지하지 않았어요.
+KARTIKA: Dus het systeem van het Hof was te modern. ||| 그러니 재판소 체계가 너무 현대적이었군요.
+JOOST: Te enkelvoudig. Alle zaken op één server. Er was geen papieren kopie. ||| 너무 단일했습니다. 모든 사건이 서버 한 곳에 있었고 종이 사본이 없었죠.
+KARTIKA: En wat is uw voorstel? ||| 제안이 뭡니까?
+JOOST: Drie dingen. Een: het Hof maakt vanaf vandaag van elke zaak een papieren spiegel, op drie plaatsen. Twee: een onafhankelijk onderzoek naar de oorsprong van de inbraak, met een buitenlandse expert die jullie kiezen. Drie: jullie blijven. ||| 세 가지입니다. 하나, 재판소는 오늘부터 모든 사건의 종이 사본을 세 곳에 둡니다. 둘, 침입의 출처에 대한 독립 조사를 하되 귀국이 고른 외국 전문가를 둡니다. 셋, 귀국은 남습니다.
+KARTIKA: Waarom zouden wij blijven? ||| 우리가 왜 남아야 하죠?
+JOOST: Omdat wie vertrekt, schuldig lijkt. En wie blijft, wordt gehoord. ||| 떠나는 사람은 유죄처럼 보이고 남는 사람은 들어 주니까요.
+KARTIKA: Dat is een Hollandse redenering. ||| 네덜란드식 논리군요.
+JOOST: Het is een Haagse. Hier werkt het al honderdtwintig jaar. ||| 헤이그식입니다. 여기서는 120년 동안 통했어요.
+KARTIKA: Ik zal het voorleggen. ||| 보고하겠습니다.
+JOOST: Mevrouw Kartika, ik heb een reden waarom ik denk dat Karang het niet is. ||| 카르티카 대리인, 카랑이 아니라고 생각하는 이유가 하나 더 있습니다.
+KARTIKA: Wat? ||| 뭐죠?
+JOOST: De conceptbeschikking. Die was gunstig voor uw land. Als u had willen hacken, had u hem niet gepubliceerd. U had hem laten uitvoeren. ||| 결정 초안이요. 귀국에 유리했습니다. 해킹하려 했다면 공개하지 않고 그대로 이행되게 뒀을 겁니다.
+KARTIKA: Dat is een logische redenering. ||| 논리적인 추론이군요.
+JOOST: Wie wil dat het concept uitkomt, wil dat het niet wordt uitgevoerd. ||| 초안이 공개되길 원하는 사람은 이행되지 않길 원하는 사람입니다.
+KARTIKA: Dus iemand wil dat de zaak instort. ||| 그러니 누군가 사건이 무너지길 원하는군요.
+JOOST: Ja. ||| 네.
+## 경비실 — DE LOGE
+JOOST: Meneer Zandstra, mag ik uw gastenboek van zaterdag? ||| 잔드스트라 씨, 토요일 방명록을 볼 수 있을까요?
+ZANDSTRA: Natuurlijk. Hier. Ik heb het al gezocht. ||| 물론입니다. 여기요. 벌써 찾아 놨어요.
+JOOST: Waarom? ||| 왜요?
+ZANDSTRA: Omdat ik het gevoel heb dat u erom zou vragen. ||| 청하실 것 같아서요.
+JOOST: Wat staat er zaterdag? ||| 토요일에 뭐라고 적혀 있습니까?
+ZANDSTRA: Zes uur: mijn collega Mohan neemt over. Zeven uur twee: een oud-medewerker. «K. Brouwer, spullen ophalen uit kelder». ||| 6시 모한이 인수. 7시 2분 퇴직 직원. '브라우어르 씨, 지하실 물건 가져가기'.
+JOOST: Brouwer. ||| 브라우어르.
+ZANDSTRA: Ko Brouwer. Veertien jaar ICT-beheerder hier. Gepensioneerd in 2019. Een rustige man. Hij dronk altijd thee zonder suiker. ||| 코 브라우어르요. 14년 동안 여기 IT 관리자였죠. 2019년에 퇴직했고 조용한 사람이었어요. 늘 설탕 없는 차를 마셨습니다.
+JOOST: En u liet hem binnen. ||| 그리고 들여보내셨죠.
+ZANDSTRA: Hij is hier veertien jaar baas geweest. Ik ken hem. Hij had zelfs een eigen sleutel van de technische ruimte. ||| 14년간 여기 책임자였어요. 아는 사람입니다. 기술실 열쇠까지 갖고 있었죠.
+JOOST: Zijn sleutel was nooit ingenomen? ||| 열쇠를 회수한 적이 없습니까?
+ZANDSTRA: Hm. Dat weet ik niet. Dat is aan ICT. ||| 흠. 모릅니다. IT 소관이에요.
+FEMKE: «beheer-oud». Het account is van oud-beheerder. ||| 'beheer-oud'. 옛 관리자 계정이에요.
+JOOST: Het account dat nooit werd opgeruimd. ||| 한 번도 정리되지 않은 계정이죠.
+FEMKE: Ko Brouwer. ||| 코 브라우어르.
+JOOST: Dat is de man die ik wil spreken. ||| 제가 만나고 싶은 사람입니다.
+ZANDSTRA: Ik denk niet dat hij het was. Hij is zeventig. ||| 그분이 했다고 생각하지 않습니다. 일흔이에요.
+JOOST: Ik ook niet. Maar iemand heeft zijn naam gebruikt. En ik wil weten wie. ||| 저도요. 하지만 누군가 그의 이름을 썼습니다. 누군지 알고 싶어요.
+ZANDSTRA: Als u hem vindt, zeg dat ik hem de groeten doe. Die thee is niet meer wat het was. ||| 찾으시면 안부를 전해 주세요. 그 차는 예전만 못하다고요.
+JOOST: Dat zeg ik. ||| 전하겠습니다.
++ vrijpleiten = (혐의를) 벗겨 주다
++ papieren spiegel = 종이 사본 (작중 표현)
++ enkelvoudig = 단일한, 하나로 된
++ Slotakte = 최종 의정서
++ ICT-beheerder = IT 관리자
++ een visitekaartje achterlaten = 명함을 남기다. 흔적을 일부러 남기는 은유
++ een sleutel innemen = 열쇠를 회수하다
++ opgeruimd = 정리된, 폐기된
++ oud-medewerker = 퇴직 직원
++ de groeten doen = 안부를 전하다
