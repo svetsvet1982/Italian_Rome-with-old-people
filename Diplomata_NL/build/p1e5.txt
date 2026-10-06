@@ -1,0 +1,165 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 5
+@title Poldermodel in Brussel
+@ko 브뤼셀의 폴더 모델
+@setting 월요일 브뤼셀 EU 위원회 회의실 → 휴게 시간 복도 → 저녁 협상 재개
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast VISSER | 외무부 부국장, 52세
+@cast WEGENER | 독일 대표(재건 기금 공동 출연국), 58세
+@cast LAMBERT | EU 집행위원회 국장, 54세
+@cast SURYO | 메란티 수자원부 차관, 55세
+@cast ARIEF | 메란티 대사관 서기관, 36세
+@cast DEWIT | 펠트하위스 수리공사 변호사, 47세
+@note 1부 5화는 '일반 협상'입니다. 억류된 선원 석방과 메란티 재건 기금을 맞바꾸는 구조를 여러 당사자가 함께 설계합니다. 역사 논거는 1982년 바세나르 합의: 노사정이 임금 억제와 노동 시간 단축을 서로 맞바꿔 합의 문화의 모범이 된 사례입니다. '모두 조금씩 내놓고 모두 조금씩 얻는다'는 폴더 모델의 핵심이 어떻게 구체적인 조항이 되는지 보세요. 어휘는 협상 용어(voorschot, erkenning, tranche, ruilen)와 직설적 표현(botweg, zonder omwegen)에 주목하세요.
+@next 1부 6화 — «Wat wist Visser»(비서르는 알고 있었다) — 협상의 한 구절 '부속서 C'가 비서르의 입에서 먼저 나옵니다. 요스트는 스승 헤르만과 운하 배에 올라 '침묵공 빌럼'의 이야기를 듣고, 라이벌과 마주 앉을 결심을 합니다.
+
+## 회의실 — DE VERGADERZAAL
+LAMBERT: Dames en heren, welkom. We hebben vandaag zes uur, en ik stel voor dat we ze goed gebruiken. Ik geef het woord aan de heer Wegener, die namens de medefinanciers wil spreken. ||| 여러분, 환영합니다. 오늘 여섯 시간이 있으니 잘 쓰기를 제안합니다. 공동 출연국을 대표해 베게너 씨에게 발언권을 드립니다.
+WEGENER: Dank u, mevrouw Lambert. Ik ga botweg zijn, want ik heb een lange trein terug. Als wij hier niet tot een akkoord komen, worden we allemaal nat. ||| 감사합니다, 랑베르 국장님. 직설적으로 말씀드리겠습니다. 돌아갈 기차가 길어서요. 여기서 합의하지 못하면 우리 모두 젖습니다.
+SURYO: Meneer Wegener, mijn land is al nat. ||| 베게너 씨, 우리나라는 이미 젖었습니다.
+WEGENER: Ik bedoel: wij ook. Als Meranti instort, kost dat ons tien keer meer dan nu. Vluchtelingen, grondstoffen, handel. Het is geen liefdadigheid. Het is een investering. ||| 우리도 그렇다는 뜻입니다. 메란티가 무너지면 지금의 열 배가 듭니다. 난민, 원자재, 무역. 자선이 아니라 투자예요.
+SURYO: Dat klinkt eerlijker dan mededogen. ||| 동정심보다 정직하게 들리는군요.
+WEGENER: Het is ook duurzamer. Mededogen is moe na drie weken. Eigenbelang houdt het vol. ||| 지속성도 더 낫습니다. 동정은 3주면 지치지만 이해관계는 끈질기게 가죠.
+JOOST: Mag ik iets toevoegen? ||| 하나 덧붙여도 될까요?
+LAMBERT: Meneer Hartog. ||| 하르토흐 씨.
+JOOST: Wij zitten hier met vier partijen die elk iets willen. Meranti wil herstel, en erkenning dat het niet de natuur was. De donoren willen controle over hun geld. Veldhuis wil niet failliet. En wij willen de negentien mensen thuis. ||| 이 자리에 원하는 게 서로 다른 네 당사자가 있습니다. 메란티는 복구와 '자연이 아니었다'는 인정을 원하고, 출연국은 자기 돈에 대한 통제를, 펠트하위스는 파산하지 않기를, 우리는 열아홉 명의 귀국을 원합니다.
+DEWIT: Dank voor de samenvatting. Mijn cliënt wil daarbij benadrukken dat geen aansprakelijkheid wordt erkend. ||| 요약에 감사합니다. 제 의뢰인은 책임을 인정하지 않는다는 점을 강조하고 싶습니다.
+JOOST: Meneer De Wit, ik ben nog niet klaar. Wat ik wil voorstellen is een ruil. Niet een van de ene kant. Een ruil waarin iedereen iets inlevert, en iedereen iets krijgt. ||| 더 위트 씨, 아직 끝나지 않았습니다. 제가 제안하려는 건 교환입니다. 한쪽의 일이 아니라 모두가 뭔가를 내놓고 뭔가를 얻는 교환요.
+WEGENER: Een ruil. Dat klinkt Hollands. ||| 교환이라. 네덜란드식이군요.
+JOOST: In 1982, in Wassenaar, tekenden werkgevers en vakbonden een akkoord. De werknemers matigden hun loonseis. De werkgevers beloofden kortere werktijden en banen. Niemand kreeg alles. Iedereen kreeg iets. ||| 1982년 바세나르에서 고용주와 노조가 합의에 서명했습니다. 노동자는 임금 요구를 줄였고 고용주는 노동 시간 단축과 일자리를 약속했죠. 아무도 전부를 얻지 못했고 모두가 무언가를 얻었습니다.
+WEGENER: En het werkte. ||| 그리고 효과가 있었죠.
+JOOST: Het werkte omdat niemand de ander probeerde te vernietigen. Ze bleven aan tafel. Dat is het hele geheim. ||| 아무도 상대를 파괴하려 하지 않았기 때문입니다. 탁자에 남아 있었어요. 비밀은 그게 전부입니다.
+SURYO: En wat is dan de ruil? ||| 그럼 교환의 내용은 뭡니까?
+JOOST: Ik leg drie dingen op tafel. Eén: een gemeenschappelijke meetcommissie, met ingenieurs van beide kanten, die vaststelt wat het peil was en wat de norm had moeten zijn. Twee: een herstelfonds, gevoed door donoren én door Veldhuis, als voorschot. Drie: de vrijlating van de resterende dertien bemanningsleden in twee tranches. ||| 세 가지를 탁자에 올립니다. 첫째, 양측 기술자로 구성된 공동 계측 위원회가 수위와 기준이 무엇이었어야 하는지 확정합니다. 둘째, 출연국과 펠트하위스가 함께 채우는 복구 기금을 선지급으로 마련합니다. 셋째, 남은 선원 열세 명을 두 차례로 나눠 석방합니다.
+SURYO: En de erkenning? ||| 인정은요?
+JOOST: Die komt van de commissie, niet van Veldhuis. Het bedrijf hoeft niets toe te geven. Maar het betaalt, onder voorbehoud van terugvordering. ||| 위원회에서 나옵니다. 펠트하위스는 인정할 필요가 없고요. 대신 환수 유보 조건으로 지불합니다.
+DEWIT: «Onder voorbehoud». Dat is een juridische constructie die ik kan accepteren. ||| '유보 조건'. 제가 받아들일 수 있는 법적 구성입니다.
+SURYO: En ik niet. Wat betekent «terugvordering»? ||| 저는 못 받아들입니다. '환수'가 무슨 뜻입니까?
+JOOST: Als de commissie vaststelt dat Veldhuis aansprakelijk is, wordt het voorschot een definitieve betaling. Als de commissie vaststelt dat het een natuurramp was, krijgt Veldhuis het geld niet terug, maar het wordt overgedragen aan het fonds. ||| 위원회가 펠트하위스에게 책임이 있다고 확정하면 선지급은 최종 지불이 됩니다. 자연재해라고 확정하면 펠트하위스는 돈을 돌려받지 못하고 기금으로 이전됩니다.
+DEWIT: Dat is... verrassend genereus. ||| 그건… 놀랄 만큼 후하군요.
+JOOST: Het is niet generositeit. Het is dat u het geld in beide gevallen kwijt bent. Maar in het ene geval betaalt u uit schuld, in het andere uit solidariteit. ||| 후함이 아닙니다. 어느 쪽이든 돈은 나가요. 하지만 한쪽은 잘못으로, 다른 쪽은 연대로 내는 겁니다.
+DEWIT: Ik moet dit voorleggen aan mijn cliënt. ||| 의뢰인에게 상의해야 합니다.
+JOOST: Doe dat. Wij wachten. ||| 그러세요. 기다리겠습니다.
+## 복도 — DE GANG
+VISSER: Joost. Een woord. ||| 요스트. 한마디.
+JOOST: Rutger. ||| 뤼트허르.
+VISSER: Je gaat te ver. Je hebt zojuist namens Nederland een bedrijf toegezegd dat het geld niet terugkrijgt. ||| 너무 나갔습니다. 방금 네덜란드를 대표해 기업에 돈을 돌려받지 못한다고 약속했어요.
+JOOST: Ik heb het niet toegezegd. Ik heb een voorstel gedaan. ||| 약속한 게 아닙니다. 제안을 한 거예요.
+VISSER: Het was een voorstel dat Veldhuis aanvaardbaar maakte. Jij hebt hun positie verzwakt. ||| 펠트하위스에게 받아들일 만하게 만든 제안이었죠. 그들의 입지를 약하게 했어요.
+JOOST: Ik heb hun positie realistisch gemaakt. ||| 입지를 현실적으로 만든 겁니다.
+VISSER: Weet je wat het probleem is met jouw realisme? Het gaat voorbij aan de bijlage. ||| 당신 현실주의의 문제가 뭔지 압니까? 부속서를 지나친다는 겁니다.
+JOOST: Welke bijlage? ||| 어느 부속서요?
+VISSER: Bijlage C. Daarin staat dat het bedrijf niet aansprakelijk is zolang het de nulpunten uit het verdrag volgt. Dat is zwart op wit. ||| 부속서 C요. 조약의 영점을 따르는 한 회사에 책임이 없다고 쓰여 있어요. 분명하게요.
+JOOST: ... ||| …
+VISSER: Wat? ||| 왜요?
+JOOST: Bijlage C staat niet in de openbare tekst van het verdrag. ||| 부속서 C는 조약의 공개 본문에 없습니다.
+VISSER: Natuurlijk wel. ||| 물론 있죠.
+JOOST: Femke heeft de openbare tekst gelezen. Er zijn bijlagen A en B. Geen C. ||| 페므커가 공개 본문을 읽었습니다. 부속서 A와 B는 있고 C는 없어요.
+VISSER: Dan heb ik het over een andere bijlage. ||| 그럼 제가 다른 부속서를 말한 거겠죠.
+JOOST: Misschien. ||| 그럴지도요.
+VISSER: Ik moet naar binnen. Mijn mobiel gaat. ||| 들어가야 합니다. 전화가 오네요.
+JOOST: Ga maar. ||| 가세요.
+FEMKE: Joost. Hij zei «bijlage C». ||| 요스트. '부속서 C'라고 했어요.
+JOOST: Ik heb het gehoord. ||| 들었어요.
+FEMKE: Het staat in het memo uit het archief. Maar dat memo is vrijdag pas gekopieerd. Het is niet openbaar. ||| 문서고 메모에 있는 말이에요. 하지만 그 메모는 금요일에야 사본을 떴어요. 공개된 게 아닙니다.
+JOOST: Femke. Nog niet. ||| 페므커. 아직은 아닙니다.
+FEMKE: Hoe lang? ||| 얼마나요?
+JOOST: Tot we weten waar hij het vandaan heeft. ||| 그가 어디서 알았는지 알 때까지요.
+FEMKE: Dat is wat ze op de dijk zeggen: «Nog niet». ||| 제방에서 하는 말이잖아요. '아직은 아니다'.
+JOOST: En ze hebben gelijk. Dijken breken wanneer je te vroeg schreeuwt of te laat. ||| 맞는 말이죠. 제방은 너무 일찍이나 너무 늦게 소리칠 때 무너집니다.
++ botweg = 직설적으로, 거침없이. 네덜란드식 직설의 대표 부사
++ nat worden = 젖다. 여기서는 '피해를 입다'의 비유
++ ruilen / de ruil = 교환하다 / 교환. 폴더 모델 협상의 핵심 동작
++ voorschot = 선지급, 선금
++ onder voorbehoud = 유보 조건으로
++ terugvordering = 환수, 반환 청구
++ tranche = (분할된) 한 회분. 'in twee tranches'는 두 차례로 나눠
++ akkoord van Wassenaar = 바세나르 합의(1982). 임금 억제와 노동 시간 단축을 맞바꾼 노사정 합의
++ zwart op wit = 분명하게 문서로. 직역하면 '검정 위에 흰색'
++ vooruitlopen = 앞서가다. 'voorbij aan ... gaan'은 ~를 지나치다
+## 협상 재개 — DE ONDERHANDELING GAAT DOOR
+LAMBERT: We hervatten. Meneer De Wit, hebt u een reactie van uw cliënt? ||| 재개합니다. 더 위트 씨, 의뢰인의 반응이 있습니까?
+DEWIT: Ja. Mijn cliënt accepteert het voorschot van twintig miljoen, onder twee voorwaarden. Eén: dat de commissie geen bedrijfsarchieven mag opeisen. Twee: dat het voorschot niet als erkenning wordt gepresenteerd. ||| 있습니다. 제 의뢰인은 2천만의 선지급을 두 가지 조건으로 수락합니다. 첫째, 위원회가 기업 기록을 요구할 수 없을 것. 둘째, 선지급이 인정으로 제시되지 않을 것.
+SURYO: De tweede voorwaarde kan ik aanvaarden. De eerste niet. ||| 두 번째는 받아들일 수 있습니다. 첫 번째는 안 됩니다.
+DEWIT: Waarom niet? ||| 왜 안 됩니까?
+SURYO: Omdat een commissie zonder documenten een kerk zonder bijbel is. ||| 문서 없는 위원회는 성경 없는 교회이기 때문입니다.
+WEGENER: Een heldere vergelijking. ||| 명쾌한 비유군요.
+VISSER: Als ik mag. Ik denk dat we een compromis kunnen vinden dat de belangen van een Nederlands bedrijf beschermt. Bijvoorbeeld door de toegang te beperken tot technische documenten. Niet tot correspondentie. ||| 말씀드려도 되겠습니까? 네덜란드 기업의 이익을 보호하는 타협을 찾을 수 있다고 봅니다. 예를 들어 접근을 기술 문서로 제한하고 서신은 제외하는 거죠.
+JOOST: Rutger, mag ik daar iets over zeggen? ||| 뤼트허르, 그것에 대해 말해도 될까요?
+VISSER: Ga je gang. ||| 하세요.
+JOOST: Het gaat niet om correspondentie of technische stukken. Het gaat om wat relevant is voor de vraag: wat was het peil, en wat was de norm? Als een brief iets zegt over de norm, is hij technisch. ||| 서신이냐 기술 문서냐의 문제가 아닙니다. 수위가 무엇이었고 기준이 무엇이었느냐는 질문에 관련이 있는지가 문제예요. 서한이 기준에 대해 말한다면 기술적인 문서입니다.
+VISSER: Dat is een brede interpretatie. ||| 넓은 해석이군요.
+JOOST: Het is de enige die werkt. ||| 작동하는 유일한 해석입니다.
+LAMBERT: Mag ik een tussenoplossing voorstellen? ||| 중간 해법을 제안해도 될까요?
+JOOST: Graag. ||| 부탁합니다.
+LAMBERT: Een neutrale depositaris. De Commissie zelf. Alle relevante stukken van beide partijen worden bij mijn diensten gedeponeerd. De meetcommissie krijgt toegang, onder geheimhouding. Aan het einde beslist een onafhankelijke jurist wat openbaar mag worden. ||| 중립 보관자입니다. 위원회 자체가요. 양측의 관련 문서를 전부 제 부서에 기탁합니다. 계측 위원회는 비밀 유지 아래 열람하고, 마지막에 독립 법률가가 무엇을 공개할지 결정합니다.
+DEWIT: Dat klinkt acceptabel. ||| 받아들일 만하군요.
+SURYO: Wie is de jurist? ||| 그 법률가는 누구입니까?
+LAMBERT: Dat moet de commissie kiezen. Maar ik stel voor een Zwitser. ||| 위원회가 골라야 하지만 스위스 사람을 제안합니다.
+SURYO: Een Zwitser. Het land van neutrale kluizen. ||| 스위스 사람이라. 중립 금고의 나라군요.
+LAMBERT: Ook het land van neutrale kerkklokken. ||| 중립 교회 종의 나라이기도 하죠.
+SURYO: Dat laatste had ik niet verwacht. ||| 마지막은 예상하지 못했습니다.
+WEGENER: Laten we dan beslissen over de bedragen. De Europese Unie draagt veertig miljoen bij. De ontwikkelingsbank zestig. Nederland tien. Veldhuis twintig als voorschot. Dat is honderddertig miljoen. ||| 그럼 금액을 정합시다. 유럽연합이 4천만, 개발은행이 6천만, 네덜란드가 1천만, 펠트하위스가 선지급 2천만. 합계 1억 3천만입니다.
+SURYO: Dat is niet genoeg om een dijk van elf kilometer te herbouwen. ||| 11킬로미터 제방을 다시 짓기에는 부족합니다.
+WEGENER: Het is genoeg om te beginnen. En om te laten zien dat de rest volgt. ||| 시작하기에는 충분합니다. 나머지가 뒤따른다는 걸 보여 주기에도요.
+SURYO: Beloftes zijn goedkoop. ||| 약속은 값싸죠.
+WEGENER: Daarom leggen we ze vast. In een tijdschema. Per kwartaal een tranche, onder toezicht van de commissie. ||| 그래서 일정에 못 박는 겁니다. 분기마다 한 회분씩, 위원회 감독 아래서요.
+ARIEF: Mag ik iets zeggen? ||| 한마디 해도 될까요?
+SURYO: Spreek. ||| 말해요.
+ARIEF: Het mag geen eenmalige gift zijn. Het moet een vast fonds worden dat jaarlijks wordt aangevuld. Als de dijk gebouwd is, moet er ook geld zijn om hem te onderhouden. ||| 일회성 선물이어서는 안 됩니다. 해마다 보충되는 고정 기금이 되어야 합니다. 제방을 지은 뒤에도 관리할 돈이 있어야 해요.
+WEGENER: Dat is verstandig. Een dijk is geen gebouw, het is een werkwoord. ||| 현명합니다. 제방은 건물이 아니라 동사죠.
+JOOST: Dat is een zin van mijn vader. ||| 아버지가 하시던 말입니다.
+WEGENER: Dan was uw vader een wijs man. ||| 그럼 아버님이 지혜로운 분이었군요.
+ARIEF: Dan stel ik voor dat het fonds «Delta-Onderhoudsfonds» heet. ||| 그럼 기금 이름을 '델타 유지 기금'으로 제안합니다.
+LAMBERT: Genoteerd. ||| 기록했습니다.
+JOOST: Nu de bemanning. ||| 이제 선원입니다.
+SURYO: Zeven mensen mogen vrij zodra de overeenkomst wordt ondertekend. De overige zes zodra de commissie is geïnstalleerd. ||| 계약이 서명되는 즉시 일곱 명이 풀려납니다. 나머지 여섯 명은 위원회가 설치되는 대로요.
+JOOST: En de kapitein? ||| 선장은요?
+SURYO: Die blijft bij de tweede tranche. ||| 두 번째 회분에 남습니다.
+JOOST: Waarom? ||| 왜죠?
+SURYO: Omdat hij het schip bestuurde. Hij is symbolisch. U begrijpt dat. ||| 배를 지휘한 사람이라서요. 상징적입니다. 이해하시겠죠.
+JOOST: Ik begrijp het. Maar ik wil dat u iets weet. De kapitein is de man die de meetgegevens van het schip beschikbaar stelde. Zonder hem zaten we niet hier. ||| 이해합니다. 하지만 아셔야 할 게 있습니다. 선장은 배의 계측 자료를 내놓은 사람입니다. 그가 없었다면 우리는 여기 있지 않았어요.
+SURYO: Dat weet ik. Daarom blijft hij niet als gevangene, maar als getuige. ||| 압니다. 그래서 죄수가 아니라 증인으로 남는 겁니다.
+JOOST: Ik wil dat dat in de tekst staat. «Getuige», niet «vastgehouden». ||| 문서에 그렇게 적히길 원합니다. '억류'가 아니라 '증인'으로요.
+SURYO: Dat kan ik accepteren. ||| 받아들일 수 있습니다.
+JOOST: En ik wil dat hij dagelijks zijn vrouw mag bellen. ||| 그리고 매일 부인과 통화할 수 있기를 원합니다.
+SURYO: Dat kan ik ook accepteren. ||| 그것도 받아들입니다.
+LAMBERT: Dan stel ik voor dat we de tekst opstellen. Meneer Hartog, wilt u de eerste versie schrijven? ||| 그럼 문안을 작성하자고 제안합니다. 하르토흐 씨, 초안을 쓰시겠습니까?
+JOOST: Ik wil liever dat meneer Rahman het schrijft. En ik lees het. ||| 라흐만 씨가 쓰는 게 낫겠습니다. 저는 읽겠습니다.
+ARIEF: Ik? ||| 제가요?
+JOOST: Jij kent beide talen, en beide manieren van denken. ||| 두 언어와 두 가지 사고방식을 다 아니까요.
+SURYO: Het is een goede keuze. ||| 좋은 선택입니다.
+## 저녁 — DE AVOND
+WEGENER: Hartog, een persoonlijke opmerking. ||| 하르토흐, 개인적인 말씀 하나.
+JOOST: Zegt u het maar. ||| 하세요.
+WEGENER: Ik heb dertig jaar onderhandeld. Ik heb zelden iemand gezien die zo goed luistert en toch zo weinig vergeet. ||| 30년간 협상했습니다. 이렇게 잘 들으면서 이렇게 적게 잊는 사람은 드물게 봤어요.
+JOOST: Dat is een compliment van een Duitser. Ik zal het inlijsten. ||| 독일 분의 칭찬이군요. 액자에 넣겠습니다.
+WEGENER: Doe dat. En nog iets. Uw collega met de grijze slapen. Visser. ||| 그러세요. 그리고 하나 더. 관자놀이가 센 당신 동료, 비서르요.
+JOOST: Wat is er met hem? ||| 그가 왜요?
+WEGENER: Hij wist de naam van de bijlage voordat iemand hem noemde. Dat is mij opgevallen. ||| 아무도 말하기 전에 부속서 이름을 알았습니다. 눈에 띄었어요.
+JOOST: U luistert ook goed. ||| 당신도 잘 들으시는군요.
+WEGENER: Ik ben geen diplomaat. Ik ben een boekhouder in een pak. Boekhouders letten op wie het getal eerder kent. ||| 외교관이 아닙니다. 양복 입은 회계사죠. 회계사는 누가 숫자를 먼저 아는지 봅니다.
+JOOST: Ik zal het onthouden. ||| 기억하겠습니다.
+WEGENER: Doe dat. En nog iets. Als u ooit een voorstel hebt dat werkt, bel mij. Ik doe graag mee. ||| 그러세요. 그리고 하나 더. 통하는 제안이 생기면 전화하세요. 기꺼이 함께하겠습니다.
+JOOST: Dank u, meneer Wegener. ||| 감사합니다, 베게너 씨.
+SURYO: Meneer Hartog. Ik wil u iets zeggen. ||| 하르토흐 씨. 한마디 하겠습니다.
+JOOST: Zegt u het maar. ||| 하세요.
+SURYO: Vandaag heb ik voor het eerst sinds de dijkbreuk gegeten. ||| 오늘 제방 붕괴 이후 처음으로 식사를 했습니다.
+JOOST: Dat is goed nieuws. ||| 좋은 소식이네요.
+SURYO: Ik weet niet of het het akkoord is, of dat ik eindelijk een tafel heb gevonden waar ik mag zitten zonder te schreeuwen. ||| 합의 덕분인지, 마침내 소리 지르지 않고 앉을 수 있는 탁자를 찾아서인지 모르겠습니다.
+JOOST: Misschien is dat hetzelfde. ||| 같은 걸지도 모르죠.
+SURYO: In ieder geval, bedankt. ||| 어쨌든 감사합니다.
++ depositaris = 기탁 보관자. 당사자들이 낸 문서를 중립적으로 보관하는 기관
++ geheimhouding = 비밀 유지
++ onder toezicht = 감독 아래
++ Delta-Onderhoudsfonds = 델타 유지 기금. 재건 이후의 관리 비용을 위한 고정 기금(작중 명칭)
++ een dijk is een werkwoord = 제방은 동사다. 짓고 끝이 아니라 계속 관리하는 행위라는 비유
++ symbolisch = 상징적인. 협상에서 실질이 아니라 의미를 가리킬 때 쓴다
++ getuige = 증인. 'vastgehouden'(억류된)과 대비되는 신분 표현
++ inlijsten = 액자에 넣다
++ boekhouder = 회계사, 경리. 숫자를 먼저 아는 사람에 주목하는 직업
++ een tussenoplossing = 중간 해법

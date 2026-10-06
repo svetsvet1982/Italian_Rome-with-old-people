@@ -1,0 +1,83 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 5
+@title Poldermodel in Brussel
+@ko 브뤼셀의 폴더 모델
+@setting 월요일 브뤼셀 EU 위원회 회의실 → 휴게 시간 복도 → 저녁 협상 재개
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast VISSER | 외무부 부국장, 52세
+@cast WEGENER | 독일 대표(재건 기금 공동 출연국), 58세
+@cast LAMBERT | EU 집행위원회 국장, 54세
+@cast SURYO | 메란티 수자원부 차관, 55세
+@cast ARIEF | 메란티 대사관 서기관, 36세
+@cast DEWIT | 펠트하위스 수리공사 변호사, 47세
+@note 1부 5화는 '일반 협상'입니다. 억류된 선원 석방과 메란티 재건 기금을 맞바꾸는 구조를 여러 당사자가 함께 설계합니다. 역사 논거는 1982년 바세나르 합의: 노사정이 임금 억제와 노동 시간 단축을 서로 맞바꿔 합의 문화의 모범이 된 사례입니다. '모두 조금씩 내놓고 모두 조금씩 얻는다'는 폴더 모델의 핵심이 어떻게 구체적인 조항이 되는지 보세요. 어휘는 협상 용어(voorschot, erkenning, tranche, ruilen)와 직설적 표현(botweg, zonder omwegen)에 주목하세요.
+@next 1부 6화 — «Wat wist Visser»(비서르는 알고 있었다) — 협상의 한 구절 '부속서 C'가 비서르의 입에서 먼저 나옵니다. 요스트는 스승 헤르만과 운하 배에 올라 '침묵공 빌럼'의 이야기를 듣고, 라이벌과 마주 앉을 결심을 합니다.
+
+## 회의실 — DE VERGADERZAAL
+LAMBERT: Dames en heren, welkom. We hebben vandaag zes uur, en ik stel voor dat we ze goed gebruiken. Ik geef het woord aan de heer Wegener, die namens de medefinanciers wil spreken. ||| 여러분, 환영합니다. 오늘 여섯 시간이 있으니 잘 쓰기를 제안합니다. 공동 출연국을 대표해 베게너 씨에게 발언권을 드립니다.
+WEGENER: Dank u, mevrouw Lambert. Ik ga botweg zijn, want ik heb een lange trein terug. Als wij hier niet tot een akkoord komen, worden we allemaal nat. ||| 감사합니다, 랑베르 국장님. 직설적으로 말씀드리겠습니다. 돌아갈 기차가 길어서요. 여기서 합의하지 못하면 우리 모두 젖습니다.
+SURYO: Meneer Wegener, mijn land is al nat. ||| 베게너 씨, 우리나라는 이미 젖었습니다.
+WEGENER: Ik bedoel: wij ook. Als Meranti instort, kost dat ons tien keer meer dan nu. Vluchtelingen, grondstoffen, handel. Het is geen liefdadigheid. Het is een investering. ||| 우리도 그렇다는 뜻입니다. 메란티가 무너지면 지금의 열 배가 듭니다. 난민, 원자재, 무역. 자선이 아니라 투자예요.
+SURYO: Dat klinkt eerlijker dan mededogen. ||| 동정심보다 정직하게 들리는군요.
+WEGENER: Het is ook duurzamer. Mededogen is moe na drie weken. Eigenbelang houdt het vol. ||| 지속성도 더 낫습니다. 동정은 3주면 지치지만 이해관계는 끈질기게 가죠.
+JOOST: Mag ik iets toevoegen? ||| 하나 덧붙여도 될까요?
+LAMBERT: Meneer Hartog. ||| 하르토흐 씨.
+JOOST: Wij zitten hier met vier partijen die elk iets willen. Meranti wil herstel, en erkenning dat het niet de natuur was. De donoren willen controle over hun geld. Veldhuis wil niet failliet. En wij willen de negentien mensen thuis. ||| 이 자리에 원하는 게 서로 다른 네 당사자가 있습니다. 메란티는 복구와 '자연이 아니었다'는 인정을 원하고, 출연국은 자기 돈에 대한 통제를, 펠트하위스는 파산하지 않기를, 우리는 열아홉 명의 귀국을 원합니다.
+DEWIT: Dank voor de samenvatting. Mijn cliënt wil daarbij benadrukken dat geen aansprakelijkheid wordt erkend. ||| 요약에 감사합니다. 제 의뢰인은 책임을 인정하지 않는다는 점을 강조하고 싶습니다.
+JOOST: Meneer De Wit, ik ben nog niet klaar. Wat ik wil voorstellen is een ruil. Niet een van de ene kant. Een ruil waarin iedereen iets inlevert, en iedereen iets krijgt. ||| 더 위트 씨, 아직 끝나지 않았습니다. 제가 제안하려는 건 교환입니다. 한쪽의 일이 아니라 모두가 뭔가를 내놓고 뭔가를 얻는 교환요.
+WEGENER: Een ruil. Dat klinkt Hollands. ||| 교환이라. 네덜란드식이군요.
+JOOST: In 1982, in Wassenaar, tekenden werkgevers en vakbonden een akkoord. De werknemers matigden hun loonseis. De werkgevers beloofden kortere werktijden en banen. Niemand kreeg alles. Iedereen kreeg iets. ||| 1982년 바세나르에서 고용주와 노조가 합의에 서명했습니다. 노동자는 임금 요구를 줄였고 고용주는 노동 시간 단축과 일자리를 약속했죠. 아무도 전부를 얻지 못했고 모두가 무언가를 얻었습니다.
+WEGENER: En het werkte. ||| 그리고 효과가 있었죠.
+JOOST: Het werkte omdat niemand de ander probeerde te vernietigen. Ze bleven aan tafel. Dat is het hele geheim. ||| 아무도 상대를 파괴하려 하지 않았기 때문입니다. 탁자에 남아 있었어요. 비밀은 그게 전부입니다.
+SURYO: En wat is dan de ruil? ||| 그럼 교환의 내용은 뭡니까?
+JOOST: Ik leg drie dingen op tafel. Eén: een gemeenschappelijke meetcommissie, met ingenieurs van beide kanten, die vaststelt wat het peil was en wat de norm had moeten zijn. Twee: een herstelfonds, gevoed door donoren én door Veldhuis, als voorschot. Drie: de vrijlating van de resterende dertien bemanningsleden in twee tranches. ||| 세 가지를 탁자에 올립니다. 첫째, 양측 기술자로 구성된 공동 계측 위원회가 수위와 기준이 무엇이었어야 하는지 확정합니다. 둘째, 출연국과 펠트하위스가 함께 채우는 복구 기금을 선지급으로 마련합니다. 셋째, 남은 선원 열세 명을 두 차례로 나눠 석방합니다.
+SURYO: En de erkenning? ||| 인정은요?
+JOOST: Die komt van de commissie, niet van Veldhuis. Het bedrijf hoeft niets toe te geven. Maar het betaalt, onder voorbehoud van terugvordering. ||| 위원회에서 나옵니다. 펠트하위스는 인정할 필요가 없고요. 대신 환수 유보 조건으로 지불합니다.
+DEWIT: «Onder voorbehoud». Dat is een juridische constructie die ik kan accepteren. ||| '유보 조건'. 제가 받아들일 수 있는 법적 구성입니다.
+SURYO: En ik niet. Wat betekent «terugvordering»? ||| 저는 못 받아들입니다. '환수'가 무슨 뜻입니까?
+JOOST: Als de commissie vaststelt dat Veldhuis aansprakelijk is, wordt het voorschot een definitieve betaling. Als de commissie vaststelt dat het een natuurramp was, krijgt Veldhuis het geld niet terug, maar het wordt overgedragen aan het fonds. ||| 위원회가 펠트하위스에게 책임이 있다고 확정하면 선지급은 최종 지불이 됩니다. 자연재해라고 확정하면 펠트하위스는 돈을 돌려받지 못하고 기금으로 이전됩니다.
+DEWIT: Dat is... verrassend genereus. ||| 그건… 놀랄 만큼 후하군요.
+JOOST: Het is niet generositeit. Het is dat u het geld in beide gevallen kwijt bent. Maar in het ene geval betaalt u uit schuld, in het andere uit solidariteit. ||| 후함이 아닙니다. 어느 쪽이든 돈은 나가요. 하지만 한쪽은 잘못으로, 다른 쪽은 연대로 내는 겁니다.
+DEWIT: Ik moet dit voorleggen aan mijn cliënt. ||| 의뢰인에게 상의해야 합니다.
+JOOST: Doe dat. Wij wachten. ||| 그러세요. 기다리겠습니다.
+## 복도 — DE GANG
+VISSER: Joost. Een woord. ||| 요스트. 한마디.
+JOOST: Rutger. ||| 뤼트허르.
+VISSER: Je gaat te ver. Je hebt zojuist namens Nederland een bedrijf toegezegd dat het geld niet terugkrijgt. ||| 너무 나갔습니다. 방금 네덜란드를 대표해 기업에 돈을 돌려받지 못한다고 약속했어요.
+JOOST: Ik heb het niet toegezegd. Ik heb een voorstel gedaan. ||| 약속한 게 아닙니다. 제안을 한 거예요.
+VISSER: Het was een voorstel dat Veldhuis aanvaardbaar maakte. Jij hebt hun positie verzwakt. ||| 펠트하위스에게 받아들일 만하게 만든 제안이었죠. 그들의 입지를 약하게 했어요.
+JOOST: Ik heb hun positie realistisch gemaakt. ||| 입지를 현실적으로 만든 겁니다.
+VISSER: Weet je wat het probleem is met jouw realisme? Het gaat voorbij aan de bijlage. ||| 당신 현실주의의 문제가 뭔지 압니까? 부속서를 지나친다는 겁니다.
+JOOST: Welke bijlage? ||| 어느 부속서요?
+VISSER: Bijlage C. Daarin staat dat het bedrijf niet aansprakelijk is zolang het de nulpunten uit het verdrag volgt. Dat is zwart op wit. ||| 부속서 C요. 조약의 영점을 따르는 한 회사에 책임이 없다고 쓰여 있어요. 분명하게요.
+JOOST: ... ||| …
+VISSER: Wat? ||| 왜요?
+JOOST: Bijlage C staat niet in de openbare tekst van het verdrag. ||| 부속서 C는 조약의 공개 본문에 없습니다.
+VISSER: Natuurlijk wel. ||| 물론 있죠.
+JOOST: Femke heeft de openbare tekst gelezen. Er zijn bijlagen A en B. Geen C. ||| 페므커가 공개 본문을 읽었습니다. 부속서 A와 B는 있고 C는 없어요.
+VISSER: Dan heb ik het over een andere bijlage. ||| 그럼 제가 다른 부속서를 말한 거겠죠.
+JOOST: Misschien. ||| 그럴지도요.
+VISSER: Ik moet naar binnen. Mijn mobiel gaat. ||| 들어가야 합니다. 전화가 오네요.
+JOOST: Ga maar. ||| 가세요.
+FEMKE: Joost. Hij zei «bijlage C». ||| 요스트. '부속서 C'라고 했어요.
+JOOST: Ik heb het gehoord. ||| 들었어요.
+FEMKE: Het staat in het memo uit het archief. Maar dat memo is vrijdag pas gekopieerd. Het is niet openbaar. ||| 문서고 메모에 있는 말이에요. 하지만 그 메모는 금요일에야 사본을 떴어요. 공개된 게 아닙니다.
+JOOST: Femke. Nog niet. ||| 페므커. 아직은 아닙니다.
+FEMKE: Hoe lang? ||| 얼마나요?
+JOOST: Tot we weten waar hij het vandaan heeft. ||| 그가 어디서 알았는지 알 때까지요.
+FEMKE: Dat is wat ze op de dijk zeggen: «Nog niet». ||| 제방에서 하는 말이잖아요. '아직은 아니다'.
+JOOST: En ze hebben gelijk. Dijken breken wanneer je te vroeg schreeuwt of te laat. ||| 맞는 말이죠. 제방은 너무 일찍이나 너무 늦게 소리칠 때 무너집니다.
++ botweg = 직설적으로, 거침없이. 네덜란드식 직설의 대표 부사
++ nat worden = 젖다. 여기서는 '피해를 입다'의 비유
++ ruilen / de ruil = 교환하다 / 교환. 폴더 모델 협상의 핵심 동작
++ voorschot = 선지급, 선금
++ onder voorbehoud = 유보 조건으로
++ terugvordering = 환수, 반환 청구
++ tranche = (분할된) 한 회분. 'in twee tranches'는 두 차례로 나눠
++ akkoord van Wassenaar = 바세나르 합의(1982). 임금 억제와 노동 시간 단축을 맞바꾼 노사정 합의
++ zwart op wit = 분명하게 문서로. 직역하면 '검정 위에 흰색'
++ vooruitlopen = 앞서가다. 'voorbij aan ... gaan'은 ~를 지나치다
