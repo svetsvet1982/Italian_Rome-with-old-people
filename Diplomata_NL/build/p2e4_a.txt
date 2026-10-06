@@ -1,0 +1,87 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 4
+@title De tolk
+@ko 통역사
+@setting 수요일 오전 헤이그 스타텐크바르티르 보스 씨의 집 → 서재 → 현관
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast VOS | 은퇴 통역사, 평화궁 안내 담당, 72세
+@cast FEMKE | 분석관, 31세
+@note 2부 4화는 '비밀 폭로'의 화입니다. 평화궁에서 40년을 통역한 노인이 토요일 낮의 대화를 기억합니다. 통역사에게는 '통역사의 비밀 유지 의무'가 있어 요스트는 법적 우회로를 찾아야 합니다. 역사 논거는 베스트팔렌 평화 회담(1643~48): 언어·호칭·서열의 문제로 몇 달을 소모하고, 통역과 번역이 협상의 일부가 된 사례입니다. 어휘는 통역(tolk, vertalen, notitie, steno)과 비밀·면제(geheimhouding, ontheffing)에 주목하세요.
+@next 2부 5화 — «Ronde tafel in Rotterdam»(로테르담의 원탁) — 서기의 편지가 의장에게 닿자 재판부는 '개정 일정과 절차'를 두고 양측 대리인을 로테르담 원탁으로 부릅니다. 대리인의 농담: '재판은 미룰수록 비싸다'.
+
+## 보스 씨의 집 — BIJ MEVROUW VOS
+MEVROUW VOS: Komt u binnen, meneer Hartog. Schoenen uit, als u wilt. Mijn vloer is nieuw. ||| 들어오세요, 하르토흐 씨. 원하시면 신발은 벗으세요. 바닥이 새것이에요.
+JOOST: Graag. Mevrouw Vos, bedankt dat ik mocht komen. ||| 그러죠. 보스 씨, 찾아뵙게 해 주셔서 감사합니다.
+MEVROUW VOS: Een tolk heeft bezoek bijna nooit. Het is een eenzaam beroep. Je bent iedereen, en je bent niemand. ||| 통역사에게는 손님이 거의 없어요. 외로운 직업이죠. 모두이면서 아무도 아닌 존재니까요.
+JOOST: Dat klinkt als iets dat u vaker hebt gezegd. ||| 자주 하신 말씀 같군요.
+MEVROUW VOS: Elke verjaardag. Mijn zoon zegt: «Moeder, je hebt dat zinnetje al veertig jaar». ||| 생일마다요. 아들이 말하죠. "어머니, 그 문장을 40년째 하시네요."
+JOOST: Dit is mijn collega Femke de Bit. ||| 이쪽은 동료 페므커 더 비트입니다.
+FEMKE: Dag mevrouw. Wat een mooie boekenkast. ||| 안녕하세요. 책장이 멋지네요.
+MEVROUW VOS: Zeven talen. Ik spreek er negen. Twee zijn niet gedrukt. ||| 7개 언어예요. 저는 9개를 합니다. 둘은 인쇄된 게 없어요.
+FEMKE: Welke? ||| 어느 언어요?
+MEVROUW VOS: Een dialect uit de Marinde-delta en de taal van de Karang-vissers. Ik heb ze geleerd van een vrouw uit Singapore die hier onderzoek deed. ||| 마린데 삼각주의 방언과 카랑 어부들의 말이에요. 여기서 연구하던 싱가포르 여성에게 배웠죠.
+JOOST: Dat is dus de reden waarom u zaterdag bij mevrouw Wijnaendts zat. ||| 그래서 토요일에 바이나엔츠 박사 곁에 계셨군요.
+MEVROUW VOS: Ik zat niet bij haar. Ik zat bij een lunch. ||| 곁에 있던 게 아니에요. 점심 자리에 있었죠.
+JOOST: Welke lunch? ||| 어떤 점심이요?
+MEVROUW VOS: Meneer Hartog, ik ben een tolk. Een tolk is een glas. Je kijkt erdoor, maar het glas zelf zeg je niets. Dat is mijn eed. ||| 하르토흐 씨, 저는 통역사입니다. 통역사는 유리잔 같아요. 사람들이 그 너머를 보지만 유리는 아무 말도 하지 않죠. 그게 제 서약입니다.
+JOOST: Dat begrijp ik. En ik zal u niet vragen die eed te breken. ||| 이해합니다. 서약을 깨 달라고 하지는 않겠습니다.
+MEVROUW VOS: Wat vraagt u dan? ||| 그럼 뭘 요청하시죠?
+JOOST: Eerst wil ik thee. Die van u is de beste in Den Haag. ||| 먼저 차요. 헤이그에서 가장 맛있는 차니까요.
+MEVROUW VOS: U weet te vleien. Ga zitten. ||| 아첨을 할 줄 아시네요. 앉으세요.
+## 탁자 위의 노트 — HET NOTITIEBOEKJE
+MEVROUW VOS: Ik zal u iets laten zien. Dit is mijn steno. ||| 하나 보여 드리죠. 이건 제 속기입니다.
+FEMKE: Dat ziet er uit als Chinees. ||| 중국어처럼 보여요.
+MEVROUW VOS: Het is een systeem uit 1950. Ik heb het veranderd in veertig jaar. Niemand kan het lezen behalve ik. ||| 1950년의 체계예요. 40년 동안 바꿨죠. 저 말고는 아무도 못 읽습니다.
+JOOST: Zaterdag lag het op tafel? ||| 토요일에 탁자에 놓여 있었습니까?
+MEVROUW VOS: Zaterdag lag het in mijn tas. Ik schrijf alles op. Ook als ik niet hoef. Dat is mijn gewoonte. ||| 토요일엔 가방에 있었어요. 저는 다 적습니다. 안 적어도 될 때도요. 습관이죠.
+JOOST: En de lunch? ||| 점심은요?
+MEVROUW VOS: Het was een privé-lunch. Hotel Des Indes, een zaaltje achterin. Een man die ik niet kende, een man die ik kende, en mevrouw Wijnaendts. ||| 사적인 점심이었어요. 데스 인디스 호텔 뒤쪽 작은 홀. 모르는 남자, 아는 남자, 그리고 바이나엔츠 박사요.
+JOOST: De man die u kende. ||| 아는 남자요.
+MEVROUW VOS: Ambassadeur Ferreira. ||| 페헤이라 대사요.
+FEMKE: De agent van Zuid-Marinde. ||| 남마린데 대리인이요.
+MEVROUW VOS: Ja. En zijn gast. Een man met een zachte stem. Zo'n man die elke zin begint met «Als ik het zo mag zeggen». ||| 네. 그리고 그의 손님. 부드러운 목소리의 남자였죠. 모든 문장을 "이렇게 말해도 된다면"으로 시작하는 사람이요.
+JOOST: Stuyvenberg. ||| 스타위벤베르흐요.
+MEVROUW VOS: Dat is een naam die ik niet mag bevestigen. ||| 확인해 드릴 수 없는 이름입니다.
+JOOST: Ik zeg hem. U bevestigt niets. ||| 제가 말한 겁니다. 확인하지 않으셔도 돼요.
+MEVROUW VOS: Dat is een nette redenering. ||| 깔끔한 논리군요.
+JOOST: U was daar als tolk. Voor welke taal? ||| 통역사로 계셨죠. 어느 언어였습니까?
+MEVROUW VOS: Portugees-Nederlands. Mevrouw Wijnaendts spreekt uitstekend Portugees, maar ambassadeur Ferreira wilde zijn gast niet laten horen dat zij het sprak. ||| 포르투갈어-네덜란드어요. 바이나엔츠 박사는 포르투갈어를 아주 잘하지만 페헤이라 대사는 손님에게 그걸 들키고 싶지 않았어요.
+JOOST: Waarom niet? ||| 왜죠?
+MEVROUW VOS: Ik denk dat ze elkaar wilden laten praten zonder te weten dat de ander meeluisterde. Dat is wat ik denk. Niet wat ik weet. ||| 서로가 상대가 듣는 줄 모르고 말하게 하려 했을 거예요. 제 생각이지 제가 아는 건 아니고요.
+JOOST: En wat werd er gezegd? ||| 그래서 무슨 말이 오갔습니까?
+MEVROUW VOS: Meneer Hartog. ||| 하르토흐 씨.
+JOOST: U hoeft niet te antwoorden. Ik stel de vraag alleen voor de vorm. ||| 대답하지 않으셔도 됩니다. 형식상 묻는 겁니다.
+MEVROUW VOS: Het is een tolkengeheim. Ik mag het alleen vertellen als degene voor wie ik tolkte mij ontheft. ||| 통역 비밀입니다. 제가 통역해 준 사람이 면제해 줘야만 말할 수 있어요.
+JOOST: Wie was dat? ||| 누구였죠?
+MEVROUW VOS: Dat was mevrouw Wijnaendts. En de heer Ferreira. Allebei. ||| 바이나엔츠 박사와 페헤이라 대사 둘 다예요.
+JOOST: Dus u kunt alleen spreken als beiden u ontheffen. ||| 그럼 두 분이 모두 면제해야 말씀하실 수 있군요.
+MEVROUW VOS: Of als de rechter het beveelt. ||| 아니면 법원이 명령하거나요.
+JOOST: Er is geen rechter. ||| 법원이 없습니다.
+MEVROUW VOS: Dan is er niets. ||| 그럼 아무것도 없죠.
+FEMKE: Mevrouw, mogen wij toch iets vragen? Over iets wat u niet gezegd heeft? ||| 보스 씨, 말씀하지 않으신 것에 대해서는 물어봐도 될까요?
+MEVROUW VOS: Een slimme vraag, mevrouw De Bit. ||| 영리한 질문이군요, 더 비트 씨.
+FEMKE: Er staat een woord in uw steno dat ik wel herken. Hier. Onderstreept. ||| 속기 중에 제가 아는 단어가 하나 있어요. 여기, 밑줄 쳐진 거요.
+MEVROUW VOS: Dat is geen steno. Dat is een gewoon woord. Ik schrijf soms normaal als ik het belangrijk vind. ||| 속기가 아니라 일반 단어예요. 중요하다고 생각하면 가끔 보통으로 적습니다.
+FEMKE: «Fonds». ||| '기금'.
+MEVROUW VOS: Ja. ||| 네.
+JOOST: Mevrouw Vos, u hoeft niets te zeggen. Maar mag ik raden wat ik denk dat er gebeurd is? ||| 보스 씨, 말씀하지 않으셔도 됩니다. 하지만 제가 짐작하는 일을 말해도 될까요?
+MEVROUW VOS: Een gok is niet verboden. ||| 짐작은 금지돼 있지 않죠.
+JOOST: Ik denk dat meneer Ferreira zijn arbiter iets aanbood. Iets via een fonds. Na de uitspraak. Een leerstoel, een beurs, een functie. ||| 페헤이라 대사가 자기 중재인에게 무언가를 제안했다고 생각합니다. 기금을 통해서요. 판결 뒤에요. 석좌, 장학금, 직책 같은 것을요.
+MEVROUW VOS: ... ||| …
+JOOST: En ik denk dat mevrouw Wijnaendts daar niet blij mee was. ||| 그리고 바이나엔츠 박사가 기뻐하지 않았다고 생각합니다.
+MEVROUW VOS: U praat zonder dat ik iets zeg. Dat is verstandig. ||| 제가 아무 말도 안 하는데 말씀하시는군요. 현명하네요.
+JOOST: Mijn vader zei: wie niets zegt, bevestigt vaak het meeste. ||| 아버지가 말씀하셨죠. 아무 말도 안 하는 사람이 가장 많이 확인해 준다고요.
+MEVROUW VOS: Hij was een wijs man, uw vader. ||| 아버님이 지혜로운 분이셨군요.
++ tolk = (구두) 통역사. 'vertaler'는 번역가
++ steno = 속기
++ tolkengeheim = 통역 비밀 유지 의무
++ ontheffen = 면제하다. 'iemand ontheffen van geheimhouding'
++ vleien = 아첨하다
++ een gok = 짐작, 도박
++ achterin = 뒤쪽에
++ de vorm = 형식. 'voor de vorm'은 형식상
++ elkaar laten praten = 서로 이야기하게 하다
++ zacht = 부드러운
