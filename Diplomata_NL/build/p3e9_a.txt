@@ -1,0 +1,86 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 9
+@title De derde partij
+@ko 제3자
+@setting 목요일 헤이그 카림바 대사관 → 평화궁 회의실 → 금요일 외무부 장관실
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast HARTATI | 카림바 대사, 54세
+@cast AALBERS | 리토스 대표, 57세
+@cast FEMKE | 분석관, 32세
+@cast RADEMAKER | 상설중재재판소 사무총장, 59세
+@cast WOUTERS | 헬리온 시스템스 로비스트, 48세
+@cast MINISTER | 외무부 장관 판 베이크, 62세
+@note 3부 C사건의 결산 화입니다. 해법은 '누가 확인하느냐'를 바꾸는 한 줄입니다. 수출자의 자기 신고 대신 제3자 중립 인증기구가 '최종 사용자'를 현장에서 확인하고 보고서를 소리 내어 읽습니다. 역사 논거는 도거뱅크 사건(1904)과 헤이그 사실조사위원회(1905): 러시아 함대가 영국 어선을 포격해 전쟁 직전까지 갔을 때, 헤이그 협약에 따른 국제 조사위원회가 '사실'을 확정해 위기를 가라앉힌 선례입니다. 어휘는 인증·검증(onafhankelijk, verificatie, certificering, waarnemer)과 체면을 살리는 외교 표현에 주목하세요.
+@next 3부 10화 — «De hoorzitting»(청문회) — 요스트가 하원 청문회에서 자신이 쓴 비공식 수단과 결정을 설명합니다. 질문이 나오기 전에 답을 먼저 밝히는 방식.
+
+## 카림바 대사관 — DE AMBASSADE
+HARTATI: Meneer Hartog. U belde dat u een voorstel had. Ik heb vijftien minuten. ||| 하르토흐 씨. 제안이 있다고 하셨죠. 15분 있습니다.
+JOOST: Mevrouw de ambassadeur, dat is genoeg. Het voorstel is kort. ||| 대사님, 충분합니다. 제안은 짧습니다.
+HARTATI: Zegt u het. ||| 말씀하세요.
+JOOST: Er is een zin in de aanvraag: «Na installatie worden de machines mede gebruikt door het Staatsbedrijf». Mijn regering vraagt u die te schrappen. U weigert. Ik vraag u iets anders. ||| 신청서에 문장이 하나 있습니다. '설치 후 장비는 국영 기업이 공동 사용한다'. 우리 정부는 삭제를 요청하고 귀국은 거부합니다. 저는 다른 걸 요청합니다.
+HARTATI: Wat? ||| 무엇을요?
+JOOST: Laat de zin staan. ||| 문장을 그대로 두세요.
+HARTATI: ... Laat de zin staan. ||| …문장을 그대로 두라고요.
+JOOST: En laat een derde partij vaststellen wat er daarna gebeurt. ||| 그리고 그 뒤에 무슨 일이 일어나는지 제3자가 확인하게 하세요.
+HARTATI: Een derde partij. ||| 제3자요.
+JOOST: Een onafhankelijk instituut dat ter plaatse kijkt, een paar keer per jaar. Welke chips worden getest, voor welke toepassingen. En dat zijn bevindingen publiceert. ||| 현지에서 해마다 몇 번 직접 보는 독립 기관입니다. 어떤 칩을 시험하는지, 어떤 용도인지요. 그리고 결과를 공개하고요.
+HARTATI: U wilt dat buitenlanders in mijn universiteit rondlopen. ||| 외국인이 우리 대학을 돌아다니길 원하시는군요.
+JOOST: Ik wil dat uw universiteit laat zien dat het een universiteit is. ||| 귀국 대학이 대학임을 보여 주길 원합니다.
+HARTATI: Dat is een zware zin. ||| 무거운 말이네요.
+JOOST: Het is een eerlijke. Als er niets te verbergen is, kost het u niets. ||| 정직한 말입니다. 숨길 게 없다면 아무 비용도 없죠.
+HARTATI: En als wij niet willen? ||| 원치 않는다면요?
+JOOST: Dan is het besluit van mijn regering ongewijzigd. ||| 그럼 우리 정부의 결정은 그대로입니다.
+HARTATI: Dat is dreigen. ||| 협박이군요.
+JOOST: Het is vertellen wat er gebeurt. Ik heb er een hekel aan om te dreigen. Ik zeg liever: wie kijkt, moet ook bewijzen dat hij niet iets anders ziet. ||| 어떻게 되는지 말씀드린 겁니다. 협박은 싫어합니다. 보는 쪽도 다른 걸 보고 있지 않다는 걸 입증해야 한다고 하는 편이 낫죠.
+HARTATI: Wie is die derde partij? ||| 그 제3자는 누구죠?
+JOOST: Dat is aan u en ons samen. Geen Nederlands instituut. Geen Karimbaans instituut. Een derde. ||| 귀국과 우리가 함께 정할 일입니다. 네덜란드 기관도 카림바 기관도 아닌 제3의 기관이요.
+HARTATI: Weet u wat mijn regering het meest dwarszit? ||| 우리 정부를 가장 불편하게 하는 게 뭔지 아십니까?
+JOOST: Zegt u het. ||| 말씀하세요.
+HARTATI: Dat het klinkt als een koloniaal voorschrift. Dat een Europees land een Aziatische universiteit mag controleren. ||| 식민지적 규정처럼 들린다는 겁니다. 유럽 나라가 아시아 대학을 감독해도 된다는 것처럼요.
+JOOST: Dat begrijp ik. ||| 이해합니다.
+HARTATI: Hoe lost u dat op? ||| 어떻게 해결하시겠습니까?
+JOOST: Door te beginnen met Dejima. ||| 데지마에서 시작해서요.
+HARTATI: Dejima. Uw eiland. ||| 데지마. 당신들의 섬이죠.
+JOOST: Het was niet ons eiland. Het was hun eiland. Wij waren de gasten. We mochten er zijn onder voorwaarden die de Japanners stelden. Zij controleerden ons. Niet wij hen. ||| 우리 섬이 아니었습니다. 그들의 섬이었어요. 우리는 손님이었고 일본이 정한 조건 아래 머물렀습니다. 우리를 점검한 건 그들이었습니다. 우리가 그들을 점검한 게 아니고요.
+HARTATI: ... ||| …
+JOOST: Wat als wij omgekeerd werken? Dat uw instituut een controleur aanwijst, en wij ook? ||| 거꾸로 하면 어떨까요? 귀국 기관이 점검자를 지명하고 우리도 지명하는 겁니다.
+HARTATI: En de derde? ||| 세 번째는요?
+JOOST: Is voorzitter. Een neutrale. En die woont op uw campus. ||| 의장입니다. 중립적인 사람이요. 그리고 귀국 캠퍼스에 삽니다.
+HARTATI: Woont. ||| 삽니다.
+JOOST: Als een gast. Zoals de directeur op Dejima. ||| 손님으로요. 데지마의 상관처럼요.
+HARTATI: Dan is hij geen controleur. Dan is hij een gast. ||| 그럼 점검자가 아니라 손님이군요.
+JOOST: Dat staat in de tekst. ||| 문안에 그렇게 씁니다.
+HARTATI: Een gast met een rapportageplicht. ||| 보고 의무가 있는 손님이로군요.
+JOOST: Zoals iedere gast die iets wil leren. ||| 무언가를 배우려는 모든 손님이 그렇듯이요.
+## 도거뱅크 — DOGGER BANK
+RADEMAKER: Meneer Hartog, u hebt me gevraagd te komen. Wat is de rol van het Hof? ||| 하르토흐 씨, 오라고 하셨죠. 재판소의 역할이 뭡니까?
+JOOST: Mevrouw Rademaker, in 1904 schoot de Russische Oostzeevloot per ongeluk op Britse vissersboten bij de Doggersbank. Twee doden en zes gewonden. Engeland dreigde met oorlog. ||| 라더마커 총장님, 1904년 러시아 발트 함대가 도거뱅크에서 실수로 영국 어선을 포격했습니다. 사망자 둘에 부상자 여섯. 영국은 전쟁을 위협했어요.
+RADEMAKER: Ik ken het. ||| 압니다.
+JOOST: En ze hebben niet gevochten. Waarom? ||| 그런데 싸우지 않았습니다. 왜죠?
+RADEMAKER: Omdat de Haagse Conventie van 1899 een onderzoekscommissie voorzag. Een internationale commissie van vijf admiraals, in Parijs. Ze stelde vast wat er was gebeurd. ||| 1899년 헤이그 협약이 조사위원회를 규정했기 때문입니다. 제독 다섯 명으로 이뤄진 국제위원회가 파리에서 무슨 일이 있었는지 확정했죠.
+JOOST: En ze veroordeelde niemand. ||| 그리고 누구도 단죄하지 않았죠.
+RADEMAKER: Ze stelde de feiten vast. En beide kanten aanvaardden het. ||| 사실을 확정했고 양쪽이 받아들였습니다.
+JOOST: Dat is wat ik wil. Een commissie die alleen feiten vaststelt. Geen oordeel. ||| 제가 원하는 게 그겁니다. 사실만 확정하는 위원회. 판단은 없고요.
+RADEMAKER: Een «Haagse verificatiecommissie» voor een chipfabriek. ||| 반도체 공장을 위한 '헤이그 검증위원회'로군요.
+JOOST: Voor een universiteit. ||| 대학을 위해서요.
+RADEMAKER: En wie zit erin? ||| 누가 들어갑니까?
+JOOST: Drie mensen. Een gekozen door Karimba. Een gekozen door ons. Een voorzitter die u voordraagt. ||| 세 명입니다. 카림바가 고른 한 명, 우리가 고른 한 명, 총장님이 추천하는 의장 한 명.
+RADEMAKER: Ik heb er een. Een Zwitserse ingenieur. Mevrouw Caflisch kent haar. ||| 한 사람 있습니다. 스위스 엔지니어요. 카플리쉬 대사가 압니다.
+JOOST: Dank u. ||| 감사합니다.
+RADEMAKER: Maar ik stel één voorwaarde. Het Hof mag geen oordeel vellen. Het stelt de commissie in. Het voorzit niet. ||| 하지만 조건이 하나 있습니다. 재판소는 판단하지 않습니다. 위원회를 구성할 뿐 의장을 맡지 않아요.
+JOOST: Dat is correct. ||| 옳습니다.
+RADEMAKER: En u maakt geen reclame voor het Hof. ||| 그리고 재판소를 선전하지도 마세요.
+JOOST: Ik heb er een hekel aan. ||| 싫어합니다.
++ derde partij = 제3자
++ verificatie = 검증
++ bevindingen = 조사 결과, 발견 사항
++ voorschrift = 규정, 지시
++ rapportageplicht = 보고 의무
++ Doggersbank = 도거뱅크. 1904년 러시아 함대가 영국 어선을 포격한 북해 지점
++ onderzoekscommissie = 조사위원회
++ vaststellen = 확정하다
++ voordragen = 추천하다
++ koloniaal = 식민지의
