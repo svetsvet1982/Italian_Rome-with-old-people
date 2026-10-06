@@ -1,0 +1,94 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 2
+@title De kaartenmaker
+@ko 지도 제작자
+@setting 수요일 암스테르담 스피헬흐라흐트 고지도 상점 → 확대경 아래 → 오후 헤이그
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast DEKKER | 고지도 상인, 70세
+@cast HARYANTO | 카랑 해협국 교통부 장관 (전화), 62세
+@note 3부 2화는 '조사'의 화입니다. 한 장의 1662년 지도에서 인쇄된 글자와 여백의 손글씨가 서로 다른 말을 한다는 점이 쟁점입니다. 역사 논거는 블라우 지도첩(1662)과 VOC의 지도 제작: 블라우 가문이 VOC 공식 수로 제작자였고, 항로 정보는 권력이자 증거였다는 점입니다. 어휘는 고지도(kaart, marge, gravure, herdruk, loep)와 감정(鑑定) 표현에 주목하세요.
+@next 3부 3화 — «Veilige vaart»(안전한 항해) — 통행료의 이름을 '등대 분담금'으로 바꾸는 한 줄. 덴마크 해협 통행료를 폐지한 1857년의 선례가 요스트의 손에 들립니다.
+
+## 고지도 가게 — DE KAARTENWINKEL
+DEKKER: Komt u binnen. Mijn bel is stuk. Ik ben haar nooit gaan repareren, zodat ik hoor wie er in de winkel is. ||| 들어오세요. 종이 고장 났습니다. 가게에 누가 있는지 듣고 싶어서 일부러 안 고쳤죠.
+JOOST: Meneer Dekker? Joost Hartog. Dit is mevrouw De Bit. ||| 데커 씨? 요스트 하르토흐입니다. 이쪽은 더 비트 씨고요.
+DEKKER: Hartog. U bent de man van de zijbrief. Ik las erover. Mijn vrouw zei: «Dat is een man die oude papieren serieus neemt». ||| 하르토흐 씨. 부수서한의 그분이군요. 기사로 읽었어요. 아내가 말했죠. "오래된 종이를 진지하게 여기는 사람이네."
+JOOST: Ik probeer het. ||| 노력합니다.
+DEKKER: Waarvoor komt u? ||| 무슨 일로 오셨습니까?
+JOOST: Voor een kaart. De Karangstraat. Een uitgave van Blaeu, 1662. ||| 지도 때문입니다. 카랑 해협. 블라우 판, 1662년.
+DEKKER: Ah. De «Straten van het Oosten». Een van de mooiste bladen uit de Atlas Maior. Hij hangt achterin. ||| 아. '동방의 해협들'. 대형 지도첩 중 가장 아름다운 장 가운데 하나죠. 뒤쪽에 걸려 있어요.
+FEMKE: Mag ik vragen: u hebt hem in uw collectie? ||| 컬렉션에 있다고요?
+DEKKER: Een eerste druk. Met de originele kleuring. Ik kocht hem veertig jaar geleden op een veiling in Leiden. Ik heb hem nooit durven verkopen. ||| 초판입니다. 원본 채색 그대로요. 40년 전 라이덴 경매에서 샀죠. 팔 엄두를 한 번도 못 냈어요.
+JOOST: Waarom niet? ||| 왜죠?
+DEKKER: Omdat hij iets zegt dat ik niet begrijp. En ik verkoop geen dingen die ik niet begrijp. ||| 제가 이해하지 못하는 걸 말하고 있어서요. 이해 못 하는 건 팔지 않습니다.
+JOOST: Mogen we hem zien? ||| 볼 수 있을까요?
+DEKKER: Natuurlijk. Hier. Ik leg hem op de lichttafel. ||| 물론이죠. 여기요. 라이트 테이블에 놓겠습니다.
+FEMKE: Wat een kleuren. ||| 색이 대단하네요.
+DEKKER: Handgekleurd. In 1662 werkten er honderd mensen bij Blaeu in Amsterdam. Een deel ervan deed alleen kleuren. ||| 손채색입니다. 1662년 암스테르담 블라우 공방에는 백 명이 일했어요. 일부는 색칠만 했죠.
+JOOST: En de rand? Die tekst langs de rand? ||| 가장자리는요? 가장자리의 글씨는요?
+DEKKER: Ah. Dat is wat me bezighoudt. Er is gedrukte tekst. Die is van Blaeu. En er is een handschrift. Dat is later. Of ouder. Ik weet het niet. ||| 아, 제가 붙들고 있는 부분이죠. 인쇄된 글씨가 있고 그건 블라우 것입니다. 그리고 손글씨가 있는데 나중 것인지 더 오래된 건지 모르겠어요.
+JOOST: Welke tekst is gedrukt? ||| 어느 글씨가 인쇄된 겁니까?
+DEKKER: Hier. «Straet van Carang. Tol». Alleen dat. ||| 여기요. '카랑 해협. 통행료'. 그게 전부입니다.
+JOOST: «Tol». Dat is het woord dat de minister gebruikt. ||| '통행료'. 장관이 쓰는 단어로군요.
+DEKKER: Welke minister? ||| 어느 장관이요?
+JOOST: Van Karang. Hij heeft een kaart zoals deze. Met alleen het woord. ||| 카랑의 장관이요. 이것과 같은 지도를 갖고 있는데 그 단어뿐이에요.
+DEKKER: Dan heeft hij een herdruk. ||| 그럼 재판본이겠군요.
+FEMKE: Hoe weet u dat? ||| 어떻게 아세요?
+DEKKER: In een herdruk is het handschrift niet. Het handschrift staat alleen op sommige eerste drukken. Een corrector, denk ik. Of een eigenaar. ||| 재판본에는 손글씨가 없어요. 손글씨는 일부 초판에만 있죠. 교정자나 소유자의 것이겠죠.
+JOOST: Mag ik het lezen? ||| 읽어 봐도 될까요?
+DEKKER: Het is lastig. Zeventiende-eeuws handschrift. Zeer kleine letters. En Frans en Nederlands door elkaar. Ik pak mijn loep. ||| 어렵습니다. 17세기 필체에 글씨가 아주 작고 프랑스어와 네덜란드어가 섞여 있어요. 확대경을 가져오겠습니다.
+## 확대경 아래 — ONDER DE LOEP
+DEKKER: Kijk, hier. «Tol», met een lange staart aan de «l». En dan, in het klein, in de marge, in een andere inkt. ||| 보세요, 여기. '통행료', 'l'에 긴 꼬리가 달렸죠. 그리고 여백에 작게 다른 잉크로요.
+JOOST: Wat staat er? ||| 뭐라고 쓰여 있습니까?
+DEKKER: Het is Latijn. «Pro luminibus et signis, non pro transitu». ||| 라틴어입니다. "Pro luminibus et signis, non pro transitu."
+JOOST: Mijn Latijn is roestig. ||| 제 라틴어는 녹슬었습니다.
+DEKKER: «Voor lichten en seinen, niet voor de doorvaart». ||| '등불과 신호를 위한 것이지 통과를 위한 것이 아니다.'
+FEMKE: «Niet voor de doorvaart». ||| '통과를 위한 것이 아니다'.
+JOOST: Zegt u dat nog eens. ||| 다시 말씀해 주세요.
+DEKKER: «Pro luminibus et signis, non pro transitu». Voor lichten en seinen. Niet voor het passeren. ||| "Pro luminibus et signis, non pro transitu." 등불과 신호를 위한 것. 통과를 위한 게 아닙니다.
+JOOST: Dus de tol was geen betaling om door te mogen. ||| 그러니 통행료는 지나가는 대가가 아니었군요.
+DEKKER: Het was een betaling voor de lichten. Voor de bakens. Een soort baken- of lichtgeld. ||| 등불 값이었죠. 표지 값이요. 일종의 표지세, 등대세였어요.
+FEMKE: Wie schreef dit? ||| 누가 썼습니까?
+DEKKER: Dat weet ik niet. Maar kijk naar de inkt. Het is dezelfde ijzergallusinkt als de handtekening van de VOC-hydrograaf die in 1662 Blaeus bladen controleerde. ||| 모릅니다. 하지만 잉크를 보세요. 1662년 블라우의 지도를 감수한 VOC 수로학자 서명과 같은 철 담즙 잉크예요.
+JOOST: Een hydrograaf van de VOC. ||| VOC의 수로학자요.
+DEKKER: De VOC had een eigen kaartenmaker. Blaeu was dat. Zij bepaalden welke kaart naar buiten ging, en welke niet. Kaarten waren geheim. Een kaart van een route was een wapen. ||| VOC에는 전속 지도 제작자가 있었는데 블라우가 그랬죠. 어떤 지도가 나가고 어떤 게 안 나가는지 그들이 정했습니다. 지도는 비밀이었어요. 항로 지도는 무기였죠.
+JOOST: En deze? ||| 그럼 이건요?
+DEKKER: Deze is een uitzondering. Een gedrukt blad voor het publiek. Maar iemand heeft er, met de hand, een correctie opgezet. Een nuance. ||| 이건 예외입니다. 대중용 인쇄본이죠. 하지만 누군가 손으로 정정을 적어 넣었어요. 뉘앙스를요.
+JOOST: Een nuance die het woord «tol» van betekenis verandert. ||| '통행료'라는 말의 뜻을 바꾸는 뉘앙스로군요.
+DEKKER: Dat is het hele punt van een marge. Het is de plek waar de waarheid zich verstopt. ||| 그게 여백의 요점이죠. 진실이 숨는 자리예요.
+FEMKE: Is er iets over een verdrag? In de marge? ||| 여백에 조약에 관한 게 있습니까?
+DEKKER: Ja. Daar. Een jaartal en een afkorting. «1655. T.V.». ||| 네. 저기요. 연도와 약자. '1655. T.V.'
+JOOST: T.V. ||| T.V.
+DEKKER: «Tractaat van Vrijvaart». Een verdrag van 1655. Tussen de Compagnie en de sultan van Karang. ||| '자유 항해 조약'. 1655년 회사와 카랑 술탄 사이의 조약입니다.
+JOOST: Bestaat dat verdrag? ||| 그 조약이 있습니까?
+DEKKER: In het Nationaal Archief, vermoed ik. Maar ik heb het nooit gezien. Ik zag alleen deze verwijzing. ||| 국립 문서관에 있을 거라고 짐작해요. 하지만 본 적은 없고 이 참조만 봤죠.
+JOOST: Mag ik een foto maken? ||| 사진을 찍어도 될까요?
+DEKKER: Met een gewaarmerkte kopie ben ik gelukkiger. Dan gaat het niet de wereld in zonder handtekening. ||| 인증 사본이 더 낫겠군요. 그러면 서명 없이 세상에 나가지 않죠.
+JOOST: Dat regel ik. ||| 준비하겠습니다.
+DEKKER: Meneer Hartog, mag ik iets vertellen? ||| 하르토흐 씨, 한 가지 말해도 될까요?
+JOOST: Graag. ||| 부탁합니다.
+DEKKER: Twee weken geleden kwam hier een jonge man. Keurig pak. Hij vroeg naar deze kaart. Hij fotografeerde alleen de rechterbovenhoek. ||| 2주 전에 젊은 남자가 왔어요. 단정한 양복이었죠. 이 지도를 물었고 오른쪽 위 모서리만 사진 찍었습니다.
+JOOST: Welke hoek? ||| 어느 모서리요?
+DEKKER: Waar het woord «Tol» staat. Hij heeft de marge er niet op gezet. ||| '통행료'라는 단어가 있는 곳이에요. 여백은 담지 않았습니다.
+FEMKE: Hij wilde alleen het woord. ||| 단어만 필요했군요.
+DEKKER: Ja. Ik vond het vreemd. Een kaart is geen woord. ||| 네. 이상하다고 생각했어요. 지도는 단어 하나가 아니니까요.
+JOOST: Hoe zag hij eruit? ||| 어떻게 생겼습니까?
+DEKKER: Midden dertig. Een kompasspeld op zijn revers. ||| 30대 중반. 옷깃에 나침반 핀을 꽂았어요.
+JOOST: Een kompas. ||| 나침반이요.
+FEMKE: Weer een kompas. ||| 또 나침반이군요.
+DEKKER: Is dat belangrijk? ||| 중요한가요?
+JOOST: Het is een patroon. ||| 패턴이에요.
++ kaartenmaker = 지도 제작자
++ lichttafel = 라이트 테이블(투광대)
++ loep = 확대경
++ herdruk / eerste druk = 재판 / 초판
++ ijzergallusinkt = 철 담즙 잉크. 중세·근세 문서에 쓰인 잉크
++ hydrograaf = 수로학자
++ baken = 표지, 등표(해상 표지)
++ gewaarmerkt = 인증된
++ de marge = 여백
++ revers = (양복) 옷깃
