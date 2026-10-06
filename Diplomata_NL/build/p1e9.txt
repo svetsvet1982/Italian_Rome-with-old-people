@@ -96,13 +96,13 @@ VISSER: Of ik een mail heb doorgestuurd. ||| 제가 메일을 전달했는지요
 JOOST: En heb je dat gedaan? ||| 그래서 전달했습니까?
 VISSER: Ja. ||| 네.
 JOOST: Wanneer? ||| 언제요?
-VISSER: Dinsdagavond. Om 22:41. Versie twee van het voorstel. Aan een privéadres van Gerrit Maas. ||| 화요일 밤 22시 41분에요. 제안 2판을. 헤리트 마스의 사적 주소로.
+VISSER: Zondagavond. Om 22:41. Versie twee van het voorstel. Aan een privéadres van Gerrit Maas. ||| 일요일 밤 22시 41분에요. 제안 2판을. 헤리트 마스의 사적 주소로.
 JOOST: Wie is Gerrit Maas? ||| 헤리트 마스가 누굽니까?
 VISSER: Mijn zwager. De broer van mijn vrouw. Hij is directeur Publieke Zaken bij Veldhuis. ||| 처남입니다. 아내의 오빠죠. 펠트하위스의 공공업무 이사예요.
 JOOST: Dat wist ik niet. ||| 몰랐습니다.
 VISSER: Dat is de bedoeling. Ik heb het nooit gemeld. Een belangenverstrengeling die ik in mijn dossier niet heb opgegeven. ||| 의도한 거죠. 신고한 적이 없습니다. 제 서류에 적지 않은 이해충돌이에요.
 JOOST: Waarom heb je het doorgestuurd? ||| 왜 전달했습니까?
-VISSER: Omdat Gerrit me dinsdag belde. Hij zei dat ze 1998 hadden. Mijn handtekening onder de geheimhoudingsverklaring, mijn naam in het uitleenregister. Hij zei: «Als jij ons helpt, blijft dat in een la». ||| 화요일에 헤리트가 전화했어요. 1998년 자료를 갖고 있다고요. 비밀 유지 서약서의 제 서명, 대출 장부의 제 이름. 그가 말했죠. "네가 도와주면 그건 서랍 속에 있을 거다."
+VISSER: Omdat Gerrit me zondag belde. Hij zei dat ze 1998 hadden. Mijn handtekening onder de geheimhoudingsverklaring, mijn naam in het uitleenregister. Hij zei: «Als jij ons helpt, blijft dat in een la». ||| 일요일에 헤리트가 전화했어요. 1998년 자료를 갖고 있다고요. 비밀 유지 서약서의 제 서명, 대출 장부의 제 이름. 그가 말했죠. "네가 도와주면 그건 서랍 속에 있을 거다."
 JOOST: Dat is chantage. ||| 협박이군요.
 VISSER: Ja. En ik heb toegegeven. ||| 맞아요. 그리고 굴복했습니다.
 JOOST: Waarom heb je het me niet verteld? ||| 왜 말하지 않았습니까?
@@ -140,7 +140,7 @@ JOOST: Het is de beste die ik heb. ||| 제가 가진 최고의 이유입니다.
 MINISTER: Meneer Visser. Meneer Hartog. Ga zitten. Wat is het voor dringends? ||| 비서르 씨, 하르토흐 씨. 앉으세요. 무슨 급한 일입니까?
 VISSER: Mevrouw de minister, ik heb een verklaring. Ik lees hem voor. ||| 장관님, 진술서가 있습니다. 읽겠습니다.
 MINISTER: Leest u. ||| 읽으세요.
-VISSER: «Ik, Rutger Visser, verklaar dat ik sinds 1998 kennis heb van het bestaan van een geheime bijbrief bij het Waterverdrag met Meranti. Dat ik die kennis niet heb gemeld. En dat ik op 11 maart een concept van het Brusselse voorstel heb doorgestuurd naar een medewerker van Veldhuis Waterwerken, die mijn zwager is». ||| "저 뤼트허르 비서르는 1998년부터 메란티 물 협정의 비밀 부수서한이 존재한다는 사실을 알았고 이를 보고하지 않았으며, 3월 11일 브뤼셀 제안 초안을 펠트하위스 직원, 곧 제 처남에게 전달했음을 진술합니다."
+VISSER: «Ik, Rutger Visser, verklaar dat ik sinds 1998 kennis heb van het bestaan van een geheime bijbrief bij het Waterverdrag met Meranti. Dat ik die kennis niet heb gemeld. En dat ik de avond vóór de Brusselse onderhandelingen een concept van het Brusselse voorstel heb doorgestuurd naar een medewerker van Veldhuis Waterwerken, die mijn zwager is». ||| "저 뤼트허르 비서르는 1998년부터 메란티 물 협정의 비밀 부수서한이 존재한다는 사실을 알았고 이를 보고하지 않았으며, 브뤼셀 협상 전날 밤 제안 초안을 펠트하위스 직원, 곧 제 처남에게 전달했음을 진술합니다."
 MINISTER: ... ||| …
 VISSER: «Ik werd daartoe onder druk gezet. Dat is geen verontschuldiging. Ik leg mijn functie ter beschikking». ||| "압박을 받았지만 변명이 아닙니다. 직위를 내려놓겠습니다."
 MINISTER: Meneer Visser, ik wil dat u me iets vertelt. Hoe lang weet meneer Hartog dit al? ||| 비서르 씨, 말해 주세요. 하르토흐 씨는 이걸 언제부터 알았습니까?
