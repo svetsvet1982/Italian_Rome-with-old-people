@@ -1,0 +1,89 @@
+## 영수증 — HET KASSABONNETJE
+BRANDSMA: Neemt u mij niet kwalijk. Ik moet mijn neus snuiten. ||| 실례합니다. 코를 좀 풀어야겠어요.
+JOOST: Natuurlijk. ||| 그러세요.
+BRANDSMA: Mijn zakdoek... Er viel iets uit mijn jas. ||| 손수건이… 외투에서 뭔가 떨어졌네요.
+JOOST: Laat mij maar. Een bonnetje. ||| 제가 줍죠. 영수증이네요.
+BRANDSMA: Geef maar terug. ||| 돌려주세요.
+JOOST: Zeker. «Broodjeszaak De Zeemeeuw, Katwijk. Zondag, 13.12. Twee dagschotels. Twee koffie. Eén fles water». ||| 물론이죠. '빵집 데 제이메우, 카트바이크. 일요일 13시 12분. 오늘의 요리 둘, 커피 둘, 물 한 병'.
+BRANDSMA: Dat is van mijn vader. ||| 아버지 거예요.
+JOOST: Uw vader. ||| 아버님이요.
+BRANDSMA: Hij woont in Katwijk. Ik breng hem op zondag eten. ||| 카트바이크에 사십니다. 일요일마다 식사를 가져다드려요.
+JOOST: Dan klopt het. Twee dagschotels, voor u en uw vader. ||| 그럼 맞네요. 오늘의 요리 둘, 선생님과 아버님 몫이죠.
+BRANDSMA: Ja. ||| 네.
+JOOST: En de fles water? ||| 물 한 병은요?
+BRANDSMA: Mijn vader drinkt geen koffie. ||| 아버지는 커피를 안 드십니다.
+JOOST: Maar er staan twee koffie. ||| 하지만 커피가 둘입니다.
+BRANDSMA: ... Een voor mij. Een voor de verpleegster. ||| …하나는 제 거고 하나는 간호사 거예요.
+JOOST: Een verpleegster in het huis van uw vader. ||| 아버님 집의 간호사요.
+BRANDSMA: Ja. ||| 네.
+JOOST: Ik geef het bonnetje terug. Meneer Brandsma, mijn vader zei iets dat ik nooit ben vergeten. «Bij twee kopjes thee zit er altijd iemand die niet aan tafel zit». ||| 영수증을 돌려드리죠. 브란츠마 씨, 아버지가 잊지 못할 말을 하셨습니다. "찻잔이 둘이면 늘 탁자에 앉지 않은 사람이 있다."
+BRANDSMA: Dat is een mooie zin. ||| 멋진 말이군요.
+JOOST: Het is meer een waarneming. ||| 말이라기보다 관찰이죠.
+BRANDSMA: Wilt u dat ik nu iets zeg? ||| 지금 뭔가 말하길 원하십니까?
+JOOST: Nee. Ik wil dat u erover nadenkt. Ik ga een stukje lopen. ||| 아니요. 생각해 보시길 원합니다. 저는 좀 걷겠습니다.
+BRANDSMA: Meneer Hartog. ||| 하르토흐 씨.
+JOOST: Ja? ||| 네?
+BRANDSMA: Ze leeft. ||| 그분은 살아 있습니다.
+JOOST: ... Dank u dat u het zegt. ||| …말씀해 줘서 고맙습니다.
+BRANDSMA: Ze is niet ontvoerd. Ze is... weggegaan. Zelf. ||| 납치된 게 아닙니다. 스스로… 떠났어요.
+JOOST: Via de tuindeur. ||| 정원 문으로요.
+BRANDSMA: Ik heb de deur voor haar opengedaan. Om vijf over tien. Ze vroeg het mij. ||| 제가 문을 열어 줬습니다. 열 시 오 분에요. 그분이 부탁했어요.
+JOOST: Waarom? ||| 왜죠?
+BRANDSMA: Omdat ze dacht dat ze werd gevolgd. Een man stond in de Carnegieplein. Elke avond. Ze wilde weg zonder gezien te worden. ||| 미행당한다고 생각했어요. 카네기 광장에 남자가 서 있었죠. 매일 저녁. 눈에 띄지 않고 나가고 싶어 했어요.
+JOOST: En haar jas? Haar bril? ||| 외투와 안경은요?
+BRANDSMA: Dat was haar idee. Ze zei: «Laat alles liggen. Dan denken ze dat ik nog binnen ben». ||| 그분 생각이었어요. "전부 두고 가라. 그러면 아직 안에 있다고 생각할 거다"라고 했죠.
+JOOST: Slim. ||| 영리하군요.
+BRANDSMA: Ze is slim. Ze is de slimste die ik ooit heb ontmoet. ||| 영리해요. 제가 만난 가장 영리한 사람입니다.
+JOOST: En waar is ze nu? ||| 지금은 어디 있습니까?
+BRANDSMA: Dat kan ik niet zeggen. ||| 말씀드릴 수 없습니다.
+JOOST: Omdat ze het u heeft gevraagd? ||| 그분이 부탁해서요?
+BRANDSMA: Omdat ze het mij gevraagd heeft. En omdat ik denk dat u haar niet zou kunnen beschermen. ||| 그분이 부탁했고, 당신이 그분을 보호할 수 없을 거라고 생각해서입니다.
+JOOST: Waartegen? ||| 무엇으로부터요?
+BRANDSMA: Tegen de mensen die mij elke maand bellen. ||| 매달 제게 전화하는 사람들로부터요.
+JOOST: Stuyvenberg. ||| 스타위벤베르흐요.
+BRANDSMA: Hij is niet gevaarlijk. Hij is... beleefd. Dat is erger. ||| 위험하진 않아요. …예의 바릅니다. 그게 더 나쁘죠.
+JOOST: Beleefd. ||| 예의 바르다.
+BRANDSMA: Hij zegt nooit iets dat u niet kunt herhalen. Maar na elk gesprek weet je dat hij iets weet over je kinderen. Of je schulden. ||| 되풀이 못 할 말은 절대 안 합니다. 하지만 통화가 끝날 때마다 당신 아이들이나 빚에 대해 뭔가 안다는 걸 알게 되죠.
+JOOST: Dat is chantage met een lintje. ||| 리본 맨 협박이군요.
+BRANDSMA: U zegt het kort. ||| 짧게 말하시네요.
+JOOST: Meneer Brandsma, ik wil u iets voorstellen. Schrijf morgen een brief aan voorzitter Benedetti. Over uw beurs. Over de telefoongesprekken. Alles. ||| 브란츠마 씨, 제안이 있습니다. 내일 베네데티 의장에게 편지를 쓰세요. 장학금에 대해서, 전화 통화에 대해서, 전부요.
+BRANDSMA: Dan ben ik mijn baan kwijt. ||| 그럼 직장을 잃습니다.
+JOOST: Misschien. Maar wie het eerst vertelt, betaalt het minst. ||| 어쩌면요. 하지만 먼저 말하는 사람이 가장 적게 냅니다.
+BRANDSMA: Dat heb ik gelezen. In het verslag van de commissie. ||| 읽었습니다. 위원회 보고서에서요.
+JOOST: Dan weet u het. ||| 그럼 아시겠네요.
+BRANDSMA: En als ze mijn dochter lastigvallen? ||| 딸을 괴롭히면요?
+JOOST: Dan bel je mij. Op elk uur. Ik laat het nummer bij mevrouw Vos achter. ||| 저에게 전화하세요. 어느 시각에든. 보스 씨에게 번호를 남기겠습니다.
+BRANDSMA: Waarom doet u dit? ||| 왜 이렇게까지 합니까?
+JOOST: Omdat een paleis dat niet in handen is van zijn eigen mensen, niets waard is. ||| 자기 사람들의 손에 있지 않은 궁전은 가치가 없으니까요.
+BRANDSMA: Ik denk erover na. ||| 생각해 보겠습니다.
+JOOST: Dat is genoeg. Voor vandaag. ||| 충분합니다. 오늘은요.
+## 저녁 — DE AVOND
+FEMKE: Ik heb het jaarverslag van de Stichting Blauwberg aangevraagd. ||| 블라우베르흐 재단의 연차 보고서를 신청했어요.
+JOOST: En? ||| 그래서요?
+FEMKE: Geen antwoord. De website heeft geen bestuursleden. Alleen een postbus en een kamer-van-koophandelnummer. ||| 답이 없어요. 웹사이트에 이사 명단이 없고 사서함과 상공회의소 등록번호뿐이에요.
+JOOST: Een stichting zonder gezicht. ||| 얼굴 없는 재단이군요.
+FEMKE: Het is wettelijk toegestaan. Stichtingen hoeven hun bestuur alleen op te geven bij de Kamer van Koophandel. ||| 합법이에요. 재단은 이사회를 상공회의소에만 신고하면 되거든요.
+JOOST: Dan vragen we het daar. ||| 그럼 거기서 확인하죠.
+FEMKE: Dat duurt een paar dagen. ||| 며칠 걸려요.
+JOOST: Carnegie publiceerde zijn jaarverslag al in 1913. Wij kunnen nu niet eens een bestuurslijst krijgen. ||| 카네기는 1913년에 연차 보고서를 공개했어요. 우리는 지금 이사 명단도 못 얻는군요.
+FEMKE: Dat is een duidelijk verschil. ||| 분명한 차이네요.
+JOOST: Het is de eerste aanwijzing. Een stichting die zijn boeken niet opendoet, heeft iets. ||| 첫 단서입니다. 장부를 열지 않는 재단에는 뭔가 있어요.
+FEMKE: En Brandsma? ||| 브란츠마는요?
+JOOST: Hij schrijft morgen aan Benedetti. Misschien. ||| 내일 베네데티에게 편지를 쓸 겁니다. 아마도요.
+FEMKE: Misschien? ||| 아마도요?
+JOOST: Mensen schrijven niet als je ze dwingt. Ze schrijven als ze het zelf willen. ||| 강요하면 쓰지 않습니다. 스스로 원할 때 쓰죠.
+FEMKE: En als hij het niet doet? ||| 안 쓰면요?
+JOOST: Dan doe ik het niet voor hem. Maar dan weet ik wel wat voor man hij is. ||| 제가 대신 쓰진 않습니다. 하지만 어떤 사람인지는 알게 되겠죠.
+FEMKE: Ik heb zin om de thee te drinken die jij hebt laten staan. ||| 당신이 남기고 간 차를 마시고 싶네요.
+JOOST: Hij is koud. ||| 식었어요.
+FEMKE: Dan maken we een nieuwe. ||| 그럼 새로 끓여요.
++ kassabonnetje = (계산대) 영수증. 'bon'이라고도 한다
++ dagschotel = 오늘의 요리
++ verpleegster = 간호사(여성)
++ ontvoerd = 납치된
++ achtervolgd / gevolgd = 미행당한 / 뒤따라진
++ lastigvallen = 괴롭히다
++ postbus = 사서함
++ Kamer van Koophandel = 상공회의소. 재단·회사 등록을 관리
++ aanwijzing = 단서, 지시
++ beleefd = 예의 바른

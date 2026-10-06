@@ -1,0 +1,98 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 2
+@title Thee met de griffier
+@ko 서기와 차
+@setting 월요일 오후 평화궁 정원 벤치 → 정원 문 앞 → 저녁 요스트의 사무실
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast BRANDSMA | 상설중재재판소 서기, 52세
+@cast FEMKE | 분석관, 31세
+@cast MEVROUW VOS | 평화궁 안내 담당, 은퇴 통역사, 72세
+@note 2부 2화는 '물밑 협상'입니다. 심문실이 아니라 정원 벤치의 차 한 잔이 무대입니다. 서기는 거짓말을 하지만 호주머니의 점심 영수증 한 장이 사실을 흘립니다. 역사 논거는 카네기와 평화궁 건립(1903~1913): 사재 기부로 지은 평화궁은 '민간 자금이 공공 정의를 돕되 이사회와 장부를 공개한다'는 선례이자 한계를 보여 줍니다. 어휘는 대학·장학(beurs, begeleider, mentor)과 완곡한 심문 표현에 주목하세요.
+@next 2부 3화 — «De bibliotheek»(도서관) — 사라진 중재인의 열람 목록을 대출 카드 뒷면의 연필 표기로 추적합니다. 그로티위스의 책 한 권이 누군가에 의해 책장 밖으로 나가 있습니다.
+
+## 차 한 잔 — EEN KOP THEE
+JOOST: Meneer Brandsma, dank dat u kwam. Ik heb thee meegebracht. Of liever: mevrouw Vos heeft hem meegebracht. Zij maakt de beste thee van het paleis. ||| 브란츠마 씨, 와 주셔서 감사합니다. 차를 가져왔어요. 아니, 보스 씨가 가져왔죠. 궁전에서 가장 맛있는 차를 끓이는 분입니다.
+BRANDSMA: Mevrouw Vos is een instituut. ||| 보스 씨는 하나의 제도죠.
+MEVROUW VOS: Ik ben een gepensioneerde tolk die niet kan stoppen met werken. Suiker? ||| 은퇴한 통역사인데 일을 멈추지 못하는 거예요. 설탕 드릴까요?
+BRANDSMA: Nee, dank u. ||| 괜찮습니다.
+MEVROUW VOS: Meneer Hartog? ||| 하르토흐 씨는요?
+JOOST: Twee. Ik heb een zwak. ||| 두 개요. 약점이 있어서요.
+MEVROUW VOS: Ik laat u alleen. Als u iets nodig hebt, hoort u me wel. Ik praat altijd hardop tegen de bloemen. ||| 두 분이 이야기하시도록 자리를 비킬게요. 필요하면 들으실 거예요. 저는 늘 꽃에게 큰 소리로 말하거든요.
+JOOST: Een mooie tuin. ||| 아름다운 정원이군요.
+BRANDSMA: Het is de enige plek waar ik kan nadenken. ||| 생각할 수 있는 유일한 곳입니다.
+JOOST: Hoe lang bent u griffier? ||| 서기로 얼마나 일하셨죠?
+BRANDSMA: Zeven jaar. Daarvoor was ik juridisch medewerker. Elf jaar. ||| 7년이요. 그 전에는 법무 직원으로 11년을 일했어요.
+JOOST: Achttien jaar in het paleis. ||| 궁전에서만 18년이군요.
+BRANDSMA: Mijn hele werkende leven. ||| 일하는 평생입니다.
+JOOST: Dan kent u iedereen. ||| 그럼 모든 사람을 아시겠네요.
+BRANDSMA: Iedereen. En niemand. Zo is het in een paleis. ||| 모두를요. 그리고 아무도 모르고요. 궁전이 그렇죠.
+JOOST: Meneer Brandsma, ik ga u iets vragen. U hoeft niet te antwoorden. ||| 브란츠마 씨, 질문을 하나 하겠습니다. 대답하지 않으셔도 됩니다.
+BRANDSMA: Dat is een merkwaardige inleiding. ||| 특이한 서두군요.
+JOOST: Zaterdag om vijf over tien hebt u de sleutel van de tuindeur genomen. ||| 토요일 열 시 오 분에 정원 문 열쇠를 가져가셨죠.
+BRANDSMA: ... ||| …
+JOOST: Ik vraag niet waarom. Ik vraag alleen of dat klopt. ||| 이유를 묻는 게 아닙니다. 그게 맞는지만 묻습니다.
+BRANDSMA: Dat klopt. ||| 맞습니다.
+JOOST: Dank u. ||| 감사합니다.
+BRANDSMA: Dat is het? ||| 그게 전부입니까?
+JOOST: Voor nu. Drink uw thee. ||| 지금은요. 차를 드세요.
+BRANDSMA: U bent een merkwaardige onderzoeker. ||| 특이한 조사관이시군요.
+JOOST: Ik ben geen onderzoeker. Ik ben een gastheer. En een gastheer zorgt dat zijn gasten niet zonder thee zitten. ||| 조사관이 아닙니다. 주인이죠. 주인은 손님이 차 없이 앉아 있지 않게 합니다.
+BRANDSMA: U zegt het zo vriendelijk dat ik er bang van word. ||| 너무 친절하게 말씀하셔서 오히려 겁이 납니다.
+JOOST: Mijn vader zei: wie vriendelijk blijft als het water stijgt, weet meer dan hij zegt. ||| 아버지가 말씀하셨죠. 물이 차오르는데 친절한 사람은 말하는 것보다 더 많이 안다고요.
+BRANDSMA: Uw vader was dijkgraaf. Dat heb ik gelezen. ||| 아버님이 제방 감독관이셨죠. 읽었습니다.
+JOOST: U hebt over mij gelezen. ||| 저에 대해 읽으셨군요.
+BRANDSMA: Over de zijbrief. Over de commissie. U bent een bekende man. ||| 부수서한 건과 위원회 건으로요. 유명하신 분입니다.
+JOOST: Dat is een zwaar woord. ||| 무거운 말이네요.
+BRANDSMA: Het is waar. En het is de reden waarom ik denk dat u me iets wilt aandoen. ||| 사실입니다. 그리고 당신이 제게 무슨 일을 하려는 것 같은 이유이기도 하죠.
+JOOST: Wat zou ik u willen aandoen? ||| 제가 무슨 일을 하려 한다는 거죠?
+BRANDSMA: Mij ontslaan. Of erger. ||| 해고하거나 더한 일을요.
+JOOST: Meneer Brandsma, ik heb geen bevoegdheid om u te ontslaan. Ik heb geen bevoegdheid om iets te doen. Ik ben alleen een man met een kop thee. ||| 브란츠마 씨, 저는 해고할 권한이 없습니다. 아무 권한도 없어요. 차 한 잔 든 사람일 뿐입니다.
+BRANDSMA: Dat is ook een positie. ||| 그것도 하나의 입장이군요.
+JOOST: Kunnen we een beetje lopen? Mijn benen worden stijf. ||| 조금 걸을까요? 다리가 뻣뻣해져서요.
+BRANDSMA: Graag. ||| 좋습니다.
+## 카네기 — CARNEGIE
+JOOST: Kijkt u eens naar de gevel. Wat ziet u? ||| 외벽을 보세요. 뭐가 보입니까?
+BRANDSMA: Een paleis. Gebouwd in 1913. ||| 궁전이요. 1913년에 지어졌죠.
+JOOST: Door wie? ||| 누가 지었습니까?
+BRANDSMA: Door Andrew Carnegie, in feite. Hij schonk anderhalf miljoen dollar. Een Schotse staalmagnaat die dacht dat vrede een investering was. ||| 사실상 앤드루 카네기입니다. 150만 달러를 기부했죠. 평화가 투자라고 생각한 스코틀랜드 출신 강철 재벌이요.
+JOOST: En wat kwam ervoor in de plaats? ||| 그 대가로 무엇이 왔습니까?
+BRANDSMA: Niets. Dat is het mooie. Hij wilde alleen dat het gebouw werd gebruikt. ||| 아무것도요. 그게 아름다운 점이죠. 건물이 쓰이길 바랐을 뿐입니다.
+JOOST: Dat zegt de legende. ||| 전설은 그렇게 말하죠.
+BRANDSMA: En de werkelijkheid? ||| 현실은요?
+JOOST: De werkelijkheid is dat Carnegie een stichting oprichtte. De Carnegie Stichting. Met een bestuur. Met een jaarverslag. Alles openbaar. Dat was zijn geheim: privaat geld voor publiek recht, maar met open boeken. ||| 현실은 카네기가 재단을 세웠다는 겁니다. 카네기 재단. 이사회가 있고 연차 보고서가 있고 전부 공개됐어요. 그의 비결이었죠. 공공의 법을 위한 사재, 하지만 열린 장부로요.
+BRANDSMA: Open boeken. ||| 열린 장부.
+JOOST: Zonder dat zou het een bedoeling zijn gebleven, geen weldaad. ||| 그게 없었다면 선행이 아니라 의도에 머물렀을 겁니다.
+BRANDSMA: Waarom vertelt u mij dit? ||| 왜 제게 이 얘기를 하십니까?
+JOOST: Omdat ik een naam heb gehoord. Blauwberg. ||| 어떤 이름을 들었기 때문입니다. 블라우베르흐.
+BRANDSMA: ... ||| …
+JOOST: U kent het. ||| 아시는군요.
+BRANDSMA: Ik heb een beurs gehad. Op mijn tweeëntwintigste. Een Blauwberg-beurs. Voor jonge juristen. Het heeft mijn studie in Leiden betaald. ||| 장학금을 받았습니다. 스물두 살 때요. 블라우베르흐 장학금. 젊은 법률가를 위한 거였죠. 레이던에서의 학업을 대 줬어요.
+JOOST: Een mooie beurs. ||| 좋은 장학금이네요.
+BRANDSMA: Een zeer mooie. Met een begeleider erbij. Een mentor. ||| 아주요. 지도자도 붙었습니다. 멘토요.
+JOOST: Wie was uw mentor? ||| 멘토가 누구였습니까?
+BRANDSMA: Professor Stuyvenberg. Een briljant man. Hij belde me elke maand. Eerst over mijn scriptie. Later over het werk. ||| 스타위벤베르흐 교수입니다. 뛰어난 분이죠. 매달 전화했어요. 처음엔 졸업논문, 나중에는 업무에 대해서요.
+JOOST: Wat vroeg hij over het werk? ||| 업무에 대해 뭘 물었습니까?
+BRANDSMA: Niets bijzonders. Hoe gaat het? Welke zaken zijn er? Wie zitten er in het tribunaal? ||| 별것 아니었어요. 어떻게 지내나, 어떤 사건이 있나, 재판부에 누가 있나.
+JOOST: Wie in het tribunaal zit. ||| 재판부에 누가 있는지요.
+BRANDSMA: Dat zijn openbare gegevens. ||| 공개 정보입니다.
+JOOST: En de agenda? ||| 일정은요?
+BRANDSMA: Soms. ||| 가끔요.
+JOOST: En de samenstelling van de deliberaties? ||| 그리고 합의 구성은요?
+BRANDSMA: Dat niet. Dat heb ik nooit gezegd. ||| 그건 아닙니다. 한 번도 말한 적 없어요.
+JOOST: Maar de tijdstippen. Wanneer een arbiter aankomt. Wanneer een arbiter weggaat. ||| 하지만 시각은요. 중재인이 언제 도착하고 언제 떠나는지.
+BRANDSMA: ... Ja. ||| …네.
+JOOST: Dank u. Dat is heel eerlijk. ||| 감사합니다. 아주 정직하시군요.
+BRANDSMA: Het is een lange tijd geleden dat ik dit hardop heb gezegd. ||| 소리 내어 말한 건 오랜만입니다.
++ griffier = (법원·재판소의) 서기
++ merkwaardig = 특이한, 주목할 만한
++ een beurs = 장학금. 'Blauwberg-beurs'
++ begeleider / mentor = 지도자, 멘토. 장학금에 딸린 정기 상담자
++ gevel = (건물의) 정면, 외벽
++ een weldaad = 선행, 자선
++ scriptie = 졸업논문
++ deliberatie = 합의(심의). 재판부 내부의 비공개 논의
++ aandoen = (나쁜 일을) 하다, 입히다
++ stijf = 뻣뻣한
