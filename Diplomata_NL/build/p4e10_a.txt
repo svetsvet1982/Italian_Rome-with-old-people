@@ -1,0 +1,70 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 10
+@title Het Bestand
+@ko 휴전
+@setting D−3 칸다르 대통령궁 별채 정원 → 협상 탁자 → 해질녘 선언
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast BASUKI | 민방위 총책 장군, 58세
+@cast SURYO | 수자원부 장관, 54세
+@cast WARDANI | 대통령 비서실장, 55세
+@cast KARTINI | 칸다르 공대 교수·위원장, 60세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@note D−3. 헤인이 위원회에 먼저 보고하면서 장군의 기자회견은 무너졌습니다. 이제 대통령 비서실장이 군과 민간의 72시간 휴전을 중재합니다. 역사 논거는 12년 휴전(1609): 스페인과 네덜란드 연합주가 80년 전쟁 중에 맺은 휴전으로, 스페인은 연합주를 '자유로운 나라처럼(als)' 대하겠다고 쓰고 주권 문제는 접어 두었습니다. 체면을 지키는 문구가 평화의 열쇠가 된 사례입니다. 어휘는 협정 문구(bestand, voorwaarden, schorsing, ondertekenen, alsof)에 주목하세요.
+@next 11화: 락슈미 상륙(D−1~D). 범람 구역을 최소화하는 작전과, 낡은 케이슨으로 마지막 틈을 막는 밤이 옵니다.
+
+## 정원 — DE TUIN VAN HET PAVILJOEN
+WARDANI: Meneer Hartog. Ik ben Wardani, de stafchef van de president. ||| 하르토흐 씨. 대통령 비서실장 와르다니입니다.
+JOOST: Mevrouw. Dank dat u mij ontvangt. ||| 안녕하십니까. 만나 주셔서 감사합니다.
+WARDANI: Ik heb u niet ontvangen. Wij zitten hier toevallig in dezelfde tuin. ||| 제가 맞이한 게 아닙니다. 우연히 같은 정원에 앉아 있는 거예요.
+JOOST: Dat is een mooie formulering. ||| 멋진 표현이군요.
+WARDANI: Het is een noodzakelijke. Wat er vanochtend is gebeurd, heeft de generaal beschadigd. ||| 필요한 표현이죠. 오늘 아침 일로 장군이 상처를 입었습니다.
+JOOST: Hij heeft zichzelf beschadigd. ||| 스스로 입었죠.
+WARDANI: Dat zeg ik niet. Maar de president wil geen gezichtsverlies voor zijn generaal. Niet nu. Niet drie dagen voor de storm. ||| 저는 그렇게 말하지 않습니다. 하지만 대통령은 장군이 체면을 잃는 걸 원치 않아요. 지금은, 폭풍 사흘 전에는요.
+JOOST: En ik wil geen eenzijdige noodtoestand. ||| 저는 일방적인 비상사태를 원치 않습니다.
+WARDANI: Dan hebben wij allebei een probleem. En misschien een oplossing. ||| 그럼 우리 둘 다 문제를 안고 있네요. 어쩌면 해법도요.
+JOOST: Welke? ||| 어떤 해법이죠?
+WARDANI: Een bestand. Drie dagen. Tussen de burgerdefensie en de commissie. ||| 휴전입니다. 사흘. 민방위와 위원회 사이에서요.
+JOOST: Een bestand tussen twee delen van dezelfde regering. ||| 같은 정부의 두 부분 사이의 휴전이라니.
+WARDANI: Dat is precies de formulering die de president wil vermijden. ||| 대통령이 피하고 싶은 바로 그 표현이에요.
+JOOST: Mag ik u iets vertellen? ||| 이야기를 하나 해도 될까요?
+WARDANI: U doet dat vaak. ||| 자주 그러시네요.
+JOOST: Zestienhonderdnegen. Antwerpen. Spanje en de Nederlandse gewesten voerden al veertig jaar oorlog. Beide waren moe. Maar Spanje kon niet zeggen: wij erkennen de Republiek. ||| 1609년 안트베르펜입니다. 스페인과 네덜란드 연합주는 40년째 전쟁 중이었어요. 둘 다 지쳐 있었죠. 하지만 스페인은 공화국을 인정한다고 말할 수 없었습니다.
+WARDANI: Waarom niet? ||| 왜죠?
+JOOST: Het koninklijke gezicht. De koning kon zijn rebellen niet erkennen. ||| 왕의 체면이요. 왕은 반란자를 인정할 수 없었죠.
+WARDANI: En de Republiek kon niet buigen. ||| 공화국은 숙일 수 없었고요.
+JOOST: Dus schreven ze een zin. Spanje wil de Staten behandelen alsof zij vrije landen zijn. ||| 그래서 한 문장을 썼습니다. 스페인은 연합주를 마치 자유로운 나라처럼 대하겠다고.
+WARDANI: Alsof. ||| '마치'요.
+JOOST: Dat ene woordje. Het stopte de oorlog voor twaalf jaar. ||| 그 한 단어가 12년 동안 전쟁을 멈췄습니다.
+WARDANI: Dat is een mooi verhaal. Het is ook een gevaarlijk precedent. ||| 아름다운 이야기군요. 위험한 선례이기도 하고요.
+JOOST: Waarom? ||| 왜죠?
+WARDANI: Omdat het weer begon. Na twaalf jaar. ||| 12년 뒤에 다시 시작됐으니까요.
+JOOST: Dat klopt. Maar in die twaalf jaar kwamen de schepen, de handel, en een heel land haalde adem. ||| 맞습니다. 하지만 그 12년 동안 배가 오가고, 무역이 일어나고, 나라 전체가 숨을 돌렸죠.
+WARDANI: En wij hebben drie dagen. ||| 우리에겐 사흘뿐입니다.
+JOOST: Drie dagen is ook een adem. ||| 사흘도 숨 한 번입니다.
+WARDANI: Wat is de voorwaarde van de commissie? ||| 위원회의 조건은 무엇입니까?
+JOOST: Eén: geen arrestaties. Twee: de zandzakkenkade mag doorgaan. Drie: geen opschorting van verkiezingen of vergaderingen. Vier: beide partijen publiceren hun waterstanden, elke dag, op dezelfde plek. ||| 첫째, 체포 금지. 둘째, 모래주머니 방벽 계속. 셋째, 선거와 집회 중단 없음. 넷째, 양측이 매일 같은 장소에 수위를 공개.
+WARDANI: Vier is nieuw. ||| 넷째는 새롭군요.
+JOOST: Het is het belangrijkste. ||| 가장 중요한 겁니다.
+WARDANI: De generaal zal dat niet leuk vinden. ||| 장군이 좋아하지 않을 겁니다.
+JOOST: Dan zeg ik hem wat hij ervoor terugkrijgt. ||| 그럼 그가 얻는 걸 말해 주겠습니다.
+WARDANI: Wat? ||| 무엇을요?
+JOOST: De evacuatie. Hij is de beste logistiek officier van het land. Hij heeft de bussen, de vrachtwagens, de kampen, de radio's. ||| 대피 작전입니다. 그는 이 나라 최고의 병참 장교예요. 버스, 트럭, 대피소, 무전기를 갖고 있죠.
+WARDANI: Dat is waar. ||| 사실입니다.
+JOOST: Laat hem dat doen. Niet de beslissing. De uitvoering. ||| 그걸 하게 하십시오. 결정이 아니라 실행을요.
+WARDANI: Dat is een oud Nederlands idee. Besluiten door het volk, uitvoeren door de dienaar. ||| 오래된 네덜란드 발상이군요. 결정은 국민이, 실행은 봉사자가.
+JOOST: Het is een afspraak. ||| 약속입니다.
+WARDANI: Ik zal de president bellen. Blijf in de tuin. ||| 대통령께 전화하겠습니다. 정원에 계세요.
++ paviljoen = 별채, 파빌리온
++ stafchef = 비서실장, 참모장
++ gezichtsverlies = 체면 손상
++ eenzijdig = 일방적인
++ erkennen = 인정하다
++ gewest = (역사적) 주, 지방
++ opschorting = 중지, 유예
++ logistiek = 병참, 물류
++ uitvoeren = 실행하다
++ alsof = 마치 ~인 것처럼(12년 휴전의 핵심 단어)
