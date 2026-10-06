@@ -1,0 +1,180 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 3
+@title Het archief van Zeeland
+@ko 제일란트의 문서고
+@setting 금요일 미델뷔르흐 제일란트 문서고 열람실 → 서고 → 수리·복원실 → 저녁 운하 앞 식당
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 제일란트 출신, 31세
+@cast COBY | 제일란트 문서고 수석 문서관, 61세
+@cast DAAN | 문서고 실습생, 22세
+@cast SURYO | 메란티 수자원부 차관 (전화)
+@note 1부 3화는 '조사'의 화입니다. 폭력도 잠입도 없이, 종이 위의 흔적(풀 자국, 클립 녹, 대출 장부)을 읽어 사라진 서류의 윤곽을 복원합니다. 역사 논거는 동인도회사(VOC) 문서를 수백 년 보존해 온 네덜란드의 기록 전통입니다. 어휘는 문서고(inventaris, uitleenregister, plakresten, roestafdruk)와 조사 표현(aanwijzing, spoor)에 주목하세요.
+@next 1부 4화 — «De dijkgraaf»(제방 감독관) — 대출 장부의 마지막 이름이 요스트를 흔듭니다. 한편 요스트와 페므커는 은퇴한 제방 감독관을 찾아 '모래 입도' 수치가 다른 1968년 메모를 받습니다.
+
+## 열람실 — DE LEESZAAL
+COBY: Goedemorgen. U bent meneer Hartog? Ik ben Coby Lievense, hoofdarchivaris. Mijn assistente heeft u gisteren aan de telefoon gehad. ||| 안녕하세요. 하르토흐 씨죠? 수석 문서관 코비 레펀서입니다. 어제 제 조수가 통화했죠.
+JOOST: Mevrouw Lievense. Dank u voor de snelle afspraak. Dit is mijn collega Femke de Bit. ||| 레펀서 씨. 빠른 약속에 감사합니다. 제 동료 페므커 더 비트입니다.
+FEMKE: Dag mevrouw. Ik ben van hier, uit Vlissingen. Mijn oma kwam hier altijd stukken opzoeken over haar familie. ||| 안녕하세요. 저는 여기 출신이에요, 플리싱언이요. 할머니가 가족 기록을 찾으러 자주 오셨죠.
+COBY: Welke familie? ||| 어느 가문이죠?
+FEMKE: De Bit. Uit Arnemuiden. ||| 더 비트요. 아르너무이던 출신입니다.
+COBY: De Bits! Er zijn drie planken vol van uw familie in het magazijn. ||| 더 비트 가문! 서고에 당신 가문 자료가 선반 세 칸이나 있어요.
+FEMKE: Dat wist ik niet. ||| 몰랐네요.
+COBY: Zeeuwen vergeten wat ze hebben. Wij niet. Dat is ons werk. Waarmee kan ik u helpen? ||| 제일란트 사람들은 가진 걸 잊죠. 우리는 안 잊습니다. 그게 우리 일이고요. 무엇을 도와 드릴까요?
+JOOST: We zoeken stukken uit 1969 van het ministerie van Waterstaat, over een verdrag met een Aziatisch deltaland. Het Waterverdrag met Meranti. ||| 1969년 수리부 문서를 찾고 있습니다. 아시아 삼각주 국가와의 조약, 메란티와의 물 협정에 관한 것이요.
+COBY: Dat is een aparte collectie. Waterstaat, directie Zuidwestelijke Delta. Ik zal de inventaris pakken. ||| 별도의 컬렉션이에요. 수리부 남서 델타국이죠. 목록집을 가져오겠습니다.
+DAAN: Mevrouw, de inventaris van die collectie staat op de afdeling restauratie. Hij wordt gedigitaliseerd. ||| 관장님, 그 컬렉션 목록집은 복원실에 있어요. 디지털화 중입니다.
+COBY: Haal hem maar. En breng ook het uitleenregister mee. ||| 가져오게. 그리고 대출 장부도 같이.
+DAAN: Het uitleenregister? Dat is van papier. ||| 대출 장부요? 종이로 된 거예요.
+COBY: Alle goede dingen zijn van papier. ||| 좋은 건 전부 종이로 돼 있지.
+JOOST: Mevrouw Lievense, wat is het verschil tussen een inventaris en een uitleenregister? ||| 레펀서 씨, 목록집과 대출 장부는 무엇이 다릅니까?
+COBY: De inventaris vertelt wat er hoort te liggen. Het uitleenregister vertelt wie het heeft aangeraakt. ||| 목록집은 무엇이 있어야 하는지 말해 줍니다. 대출 장부는 누가 만졌는지 말해 주고요.
+JOOST: Aangeraakt. Dat is een mooi woord. ||| '만졌는지'. 좋은 표현이네요.
+COBY: Het is mijn beroep. Een archief is een plek waar dingen niet verdwijnen, tenzij iemand ze laat verdwijnen. En iemand die iets laat verdwijnen, laat altijd sporen achter. ||| 제 직업이죠. 문서고는 누군가 없애지 않는 한 물건이 사라지지 않는 곳입니다. 그리고 무언가를 없애는 사람은 반드시 흔적을 남기고요.
+FEMKE: Zoals? ||| 예를 들면요?
+COBY: Plakresten. Roest. Een ander papier dan het papier eromheen. Zelfs een ander soort inkt. ||| 풀 자국, 녹, 주변 종이와 다른 종이, 심지어 다른 종류의 잉크요.
+DAAN: Hier is de inventaris. En het uitleenregister. ||| 목록집과 대출 장부 가져왔습니다.
+COBY: Dank je, Daan. Meneer Hartog, kijk. Collectie nummer 1187. Verdrag met de Republiek Meranti, 1969. ||| 고마워, 단. 하르토흐 씨, 보세요. 컬렉션 번호 1187. 메란티 공화국과의 조약, 1969년입니다.
+JOOST: Wat staat er? ||| 뭐라고 쓰여 있죠?
+COBY: «Stuk 1187-1: Verdragstekst. Stuk 1187-2: Technische bijlagen. Stuk 1187-3: Bijbrief inzake aansprakelijkheid voor ontwerp- en peilvoorschriften, vertrouwelijk, drie bladen». ||| 「1187-1: 조약 본문. 1187-2: 기술 부속서. 1187-3: 설계·수위 규정에 관한 책임 부수서한, 기밀, 3장.」
+FEMKE: Er staat dus echt een bijbrief. ||| 정말로 부수서한이 있었군요.
+JOOST: Mag ik hem zien? ||| 볼 수 있을까요?
+COBY: Dat is de vraag. Daan, haal stuk 1187-3. ||| 그게 문제죠. 단, 1187-3을 가져와. 
+DAAN: Mevrouw... het staat niet in het magazijn. ||| 관장님… 서고에 없습니다.
+COBY: Hoe bedoel je, niet in het magazijn? ||| 서고에 없다니 무슨 말이야?
+DAAN: Het ligt in de doos, maar de doos is bijna leeg. ||| 상자에는 있는데 거의 비어 있어요.
+COBY: Breng hem hier. ||| 이리 가져와.
+## 빈 서류철 — DE LEGE MAP
+COBY: Kijk hier eens naar. De map is er. Het etiket is er. Maar de drie bladen zijn eruit. ||| 이걸 보세요. 서류철은 있고 라벨도 있는데 3장이 빠져 있습니다.
+JOOST: Wanneer is dit gebeurd? ||| 언제 그랬죠?
+COBY: Dat gaan we uitzoeken. Femke, kom eens kijken. Zie je dit? ||| 알아봅시다. 페므커, 와서 이것 좀 봐요. 보이나요?
+FEMKE: Er zit een streep op het karton. ||| 판지에 줄이 나 있네요.
+COBY: Plakresten. Er heeft hier iets vastgezeten. Niet met de nietjes van het archief, maar met plakband. Van een andere tijd. ||| 풀 자국이에요. 여기 뭔가 붙어 있었어요. 문서고의 스테이플이 아니라 테이프로요. 다른 시대의 것이죠.
+JOOST: Hoe weet u dat het een andere tijd is? ||| 다른 시대라는 걸 어떻게 아십니까?
+COBY: Dit plakband is van de jaren zeventig. Het wordt geel, en dan bruin. Dit is bruin. Dus het zit hier al minstens vijftig jaar. ||| 이 테이프는 70년대 것입니다. 노랗게 변했다가 갈색이 되죠. 이건 갈색이에요. 그러니 최소 50년은 여기 붙어 있었어요.
+FEMKE: Dus het is niet net verwijderd. ||| 그럼 최근에 뗀 게 아니군요.
+COBY: Sommige dingen wel, sommige niet. Kijk hier. Een roestafdruk. ||| 어떤 건 그렇고 어떤 건 아니죠. 여기 보세요. 녹 자국이에요.
+JOOST: Van een paperclip? ||| 종이 클립요?
+COBY: Van een paperclip. Eentje van ijzer. Niet van het archief; wij gebruiken sinds de jaren tachtig alleen kunststof. Iemand heeft hier ooit drie bladen met een ijzeren paperclip gebundeld en ze in deze map gelegd. ||| 철제 클립이에요. 문서고 것이 아닙니다. 80년대부터는 플라스틱만 써요. 누군가 철제 클립으로 3장을 묶어 이 서류철에 넣었죠.
+JOOST: En daarna heeft iemand de bladen verwijderd. ||| 그 뒤에 누군가 장을 빼 갔고요.
+COBY: Dat kan het enige zijn. De roest heeft zich tegen de achterkant van het volgende blad afgedrukt. Het volgende blad is stuk 1187-4, een memo uit dezelfde week. ||| 그럴 수밖에 없죠. 녹이 다음 장 뒷면에 찍혀 있어요. 다음 장은 1187-4, 같은 주의 메모입니다.
+FEMKE: Mag ik die memo lezen? ||| 그 메모를 읽어도 될까요?
+COBY: Natuurlijk. Hier. ||| 물론이죠. 여기요.
+FEMKE: «Aan de directeur-generaal. Betreft: bijbrief Meranti. De bijbrief regelt dat de aansprakelijkheid voor peilafwijkingen bij Nederlandse bedrijven wordt beperkt zolang zij het nulpunt volgens bijlage C hanteren». ||| 「총국장 귀하. 사안: 메란티 부수서한. 부수서한은 부속서 C에 따른 영점을 사용하는 한 네덜란드 기업의 수위 편차 책임을 제한하도록 정한다.」
+JOOST: Dus Nederlandse bedrijven kregen een garantie dat ze niet aansprakelijk zouden zijn zolang ze het nulpunt volgden dat Nederland zelf had aangedragen. ||| 그러니까 네덜란드 기업은 네덜란드가 직접 제안한 영점을 따르는 한 책임을 지지 않는다는 보장을 받았군요.
+FEMKE: Dat is een omgekeerde aansprakelijkheid. Je bepaalt zelf de maat en je bent daarna vrijgesteld van de gevolgen. ||| 거꾸로 된 책임이에요. 스스로 기준을 정하고 결과는 면책받는 거죠.
+JOOST: En dat staat in een brief die niemand mag lezen. ||| 그리고 아무도 읽어선 안 되는 서한 속에 있고요.
+COBY: Meneer Hartog, ik wil u iets vertellen over dit archief. Wij bewaren ook de archieven van de Zeeuwse kamer van de VOC. ||| 하르토흐 씨, 이 문서고에 대해 말씀드릴 게 있어요. 우리는 VOC 제일란트 지부의 문서도 보존합니다.
+JOOST: Dat weet ik. ||| 압니다.
+COBY: Weet u waarom die er nog zijn? Na vierhonderd jaar? ||| 400년이 지난 지금도 남아 있는 이유를 아십니까?
+JOOST: Omdat... het nuttig was? ||| 쓸모가 있었기 때문일까요?
+COBY: Omdat de VOC bijhield wie wat had ondertekend. Elk schip, elke lading, elke koopman. Het was een bedrijf dat dacht dat boekhouding een vorm van geloof was. ||| VOC가 누가 무엇에 서명했는지 기록했기 때문입니다. 배마다, 화물마다, 상인마다요. 회계가 일종의 신앙이라고 생각한 회사였죠.
+JOOST: En daarom zijn ze er nog. ||| 그래서 아직 남아 있고요.
+COBY: En daarom weten we ook wie er heeft gesjoemeld. Want ook de VOC had mensen die dingen lieten verdwijnen. Alleen zijn ze nooit ontsnapt. ||| 그리고 그래서 누가 속임수를 썼는지도 압니다. VOC에도 물건을 없앤 사람들이 있었으니까요. 다만 빠져나간 적이 없죠.
+JOOST: Omdat het register ze verraadde. ||| 장부가 그들을 폭로했으니까요.
+COBY: Precies. ||| 맞습니다.
++ inventaris = (문서고의) 목록집. 컬렉션에 무엇이 있어야 하는지 적은 공식 목록
++ uitleenregister = 대출 장부. 누가 언제 문서를 열람·대출했는지 적은 기록
++ plakresten = 풀·테이프 자국. 무언가 붙어 있던 흔적
++ roestafdruk = 녹 자국. 철제 클립이 종이에 남긴 흔적
++ aansprakelijkheid = (법적) 책임. 'aansprakelijk stellen'은 책임을 묻다
++ bijbrief = 부수서한(1화·2화의 'zijbrief'와 같은 말)
++ directeur-generaal = 총국장. 부처의 최고위 공무원 중 하나
++ sjoemelen = 속임수를 쓰다. 구어체
++ hoofdarchivaris = 수석 문서관
++ aanraken = 만지다. 문서고에서는 열람·접촉의 기록을 뜻하기도 한다
+## 대출 장부 — HET UITLEENREGISTER
+COBY: Dan kijken we nu in het uitleenregister. Wie heeft stuk 1187-3 aangevraagd? ||| 이제 대출 장부를 봅시다. 누가 1187-3을 신청했나요?
+DAAN: Het register is per jaar ingebonden. Ik pak de delen. ||| 장부는 해마다 제본돼 있습니다. 해당 권들을 가져오겠습니다.
+COBY: Neem de jaren 1970 tot nu. We beginnen aan het eind en werken terug. ||| 1970년부터 지금까지요. 끝에서부터 거슬러 가죠.
+FEMKE: Mevrouw, in 2019 staat er een aanvraag. «Veldhuis Waterwerken, mr. K. de Wit, advocaat. Eén dag. Reden: juridisch onderzoek». ||| 관장님, 2019년에 신청이 있어요. '펠트하위스 수리공사, 변호사 K. 더 위트. 하루. 사유: 법률 조사'.
+JOOST: Het bedrijf zelf. ||| 회사가 직접이군요.
+COBY: Ze hebben het stuk toen gezien. Dat is vastgelegd. Eén dag, geen kopieën. ||| 그때 문서를 봤습니다. 기록돼 있어요. 하루, 사본 없음.
+FEMKE: En in 1998? ||| 1998년에는요?
+COBY: Het derde deel. Pagina twaalf. «Ministerie van Buitenlandse Zaken, R. Visser, stagiair. Twee dagen. Reden: dossiervorming». ||| 세 번째 권, 12쪽. '외무부, R. 비서르, 실습생. 이틀. 사유: 서류철 정리'.
+JOOST: ... ||| …
+FEMKE: Joost? ||| 요스트?
+JOOST: Mag ik die pagina nog eens zien? ||| 그 쪽을 다시 봐도 될까요?
+COBY: Natuurlijk. Hier. ||| 물론이죠. 여기요.
+JOOST: «R. Visser». Het handschrift. ||| 'R. 비서르'. 필체가…
+FEMKE: Is dat niet de... ||| 그건 혹시…
+JOOST: Femke. We trekken nog geen conclusies. Er zijn meer mensen met die naam. ||| 페므커. 아직 결론을 내리지 맙시다. 같은 성의 사람은 많아요.
+FEMKE: R. Visser, ministerie van Buitenlandse Zaken, in 1998. Hoeveel R. Vissers hadden toen stage in Buitenlandse Zaken? ||| 1998년 외무부 실습생 R. 비서르. 그때 실습한 R. 비서르가 몇이나 되겠어요?
+JOOST: Dat is een goede vraag. En die ga ik op een nette manier beantwoorden. ||| 좋은 질문이에요. 그리고 점잖은 방식으로 답을 구할 겁니다.
+COBY: Meneer Hartog, ik heb een voorstel. Ik maak een gewaarmerkt afschrift van deze pagina's. Met stempel en datum. Dan kan niemand later zeggen dat u iets hebt veranderd. ||| 하르토흐 씨, 제안이 있어요. 이 쪽들의 인증 사본을 만들어 도장과 날짜를 찍겠습니다. 그러면 나중에 누구도 당신이 뭔가 바꿨다고 말할 수 없어요.
+JOOST: Dat zou ik zeer op prijs stellen. ||| 대단히 고맙겠습니다.
+COBY: Het is mijn plicht. Een archief dat iets achterhoudt, is geen archief. ||| 제 의무입니다. 무언가를 감추는 문서고는 문서고가 아니에요.
+FEMKE: En de drie bladen? Die zijn zoek? ||| 그럼 3장은요? 사라진 건가요?
+COBY: Niet noodzakelijk. Heb je aan het kopieerboek gedacht? ||| 꼭 그렇진 않아요. 사본 장부는 생각해 봤나요?
+JOOST: Het kopieerboek? ||| 사본 장부요?
+COBY: In die tijd werden uitgaande brieven afgeschreven in een kopieerboek. Een doorslag, op dun papier. Dat boek staat in een andere collectie: de correspondentie van de directeur-generaal. Ik kan het laten halen. ||| 그 시절에는 발송 서한을 사본 장부에 베껴 두었습니다. 얇은 종이의 사본으로요. 그 장부는 다른 컬렉션, 총국장 서신철에 있어요. 가져오게 할 수 있습니다.
+JOOST: Hoe lang duurt dat? ||| 얼마나 걸립니까?
+COBY: Een halfuur. Het ligt in een kluis in de kelder. ||| 30분이요. 지하 금고에 있어요.
+JOOST: Dan wachten we. ||| 그럼 기다리죠.
+DAAN: Mevrouw, mag ik meekomen? Ik wil het kopieerboek zien. ||| 관장님, 저도 가도 될까요? 사본 장부를 보고 싶어요.
+COBY: Natuurlijk. Je leert meer in een halfuur kelder dan in drie jaar studie. ||| 물론이지. 30분 지하에 있는 게 3년 공부보다 많이 배운다.
+## 전화 — DE TELEFOON
+SURYO: Meneer Hartog. Ik bel u om te zeggen dat uw voorstel wordt besproken. ||| 하르토흐 씨. 귀하의 제안이 논의되고 있음을 알리려고 전화했습니다.
+JOOST: Mijn voorstel? ||| 제 제안이요?
+SURYO: Het voorstel van mijn secretaris, meneer Rahman, om een gezamenlijke meetcommissie in te stellen. Ik neem aan dat u de oorsprong ervan kent. ||| 제 비서관 라흐만 씨의 공동 계측 위원회 설치 제안이요. 그 출처를 아시리라 믿습니다.
+JOOST: Ik heb niets te maken met de oorsprong. ||| 저는 출처와 관계가 없습니다.
+SURYO: Natuurlijk. ||| 물론이죠.
+JOOST: Wat is uw standpunt? ||| 입장은 어떻습니까?
+SURYO: Ik ben bereid de commissie voorlopig te accepteren. Met één voorwaarde. ||| 위원회를 잠정적으로 수락할 용의가 있습니다. 조건 하나가 있어요.
+JOOST: Zegt u het maar. ||| 말씀하세요.
+SURYO: Dat uw regering de bijbrief van 1969 openbaar maakt. De hele tekst. ||| 귀 정부가 1969년 부수서한을 공개하는 것입니다. 전문을요.
+JOOST: ... Waarom die voorwaarde? ||| …왜 그 조건입니까?
+SURYO: Omdat mijn grootvader dat ook wilde. Hij heeft het nooit gezegd. Maar hij sprak erover in zijn slaap. ||| 제 할아버지도 그걸 원하셨기 때문입니다. 말씀하신 적은 없지만 잠꼬대로 하셨어요.
+JOOST: Meneer Suryo, mag ik u iets vragen? Was uw grootvader werkzaam bij het ministerie van Water? ||| 수리요 차관님, 하나 여쭙겠습니다. 할아버지가 수자원부에서 일하셨습니까?
+SURYO: Dat klopt. Hoe weet u dat? ||| 맞습니다. 어떻게 아십니까?
+JOOST: Ik weet het niet. Het is een gok. ||| 모릅니다. 짐작이에요.
+SURYO: Het is een vreemd toeval. Mijn secretaris zei hetzelfde over zijn grootvader. ||| 이상한 우연이군요. 제 비서관도 자기 할아버지에 대해 같은 말을 했습니다.
+JOOST: Misschien hebben ze elkaar gekend. ||| 서로 알던 사이였을지도요.
+SURYO: Misschien deelden ze dezelfde slapeloosheid. ||| 같은 불면증을 공유했을지도요.
+JOOST: Ik kan geen toezegging doen over de bijbrief. Ik heb hem zelf nog niet gezien. Maar ik beloof u dat ik probeer hem te vinden. En dat, als ik hem vind, u hem van mij krijgt voordat de pers hem krijgt. ||| 부수서한에 관해 확약은 못 드립니다. 저도 아직 못 봤어요. 하지만 찾아보겠다고 약속합니다. 그리고 찾는다면 언론보다 먼저 제게서 받으실 겁니다.
+SURYO: Dat is een belofte. ||| 약속이군요.
+JOOST: Het is een intentie. Een belofte doe ik pas als ik weet dat ik hem kan nakomen. ||| 의도입니다. 지킬 수 있다고 알 때만 약속합니다.
+SURYO: Dat is eerlijker dan de meeste diplomaten. ||| 대부분의 외교관보다 정직하군요.
+JOOST: En de bemanning? ||| 선원들은요?
+SURYO: Zes mensen mogen vandaag naar huis. De zieke matroos, de twee jongste, en drie anderen. De rest blijft tot de commissie is ingesteld. ||| 여섯 명이 오늘 귀국할 수 있습니다. 아픈 선원, 가장 어린 둘, 그리고 세 명 더. 나머지는 위원회가 설치될 때까지 남습니다.
+JOOST: Dank u. Dat is een stap. ||| 감사합니다. 한 걸음입니다.
+SURYO: Het is een kier. U noemt het zelf zo. ||| 틈입니다. 직접 그렇게 부르시지 않았습니까.
+## 저녁 — DE AVOND IN MIDDELBURG
+FEMKE: Het kopieerboek geeft maar een regel. Kijk. «Bijbrief Meranti. Drie bladen. Geheim. Afschrift naar Veldhuis, afschrift naar Buitenlandse Zaken, origineel naar Meranti». ||| 사본 장부에는 한 줄뿐이에요. 보세요. '메란티 부수서한. 3장. 비밀. 사본은 펠트하위스로, 사본은 외무부로, 원본은 메란티로.'
+JOOST: Dus er waren drie exemplaren. Eén bij het bedrijf, één bij ons, één in Meranti. ||| 사본이 세 부 있었군요. 회사에 하나, 우리에게 하나, 메란티에 하나.
+FEMKE: En het onze is uit het archief verdwenen. ||| 그리고 우리 것은 문서고에서 사라졌고요.
+JOOST: Of het is nooit hier terechtgekomen. «Afschrift naar Buitenlandse Zaken» betekent niet «naar het archief van Zeeland». ||| 아니면 여기로 온 적이 없을 수도 있어요. '외무부로 사본'이라는 건 '제일란트 문서고로'라는 뜻이 아니니까요.
+FEMKE: Dus het ligt misschien in Den Haag. Op ons eigen ministerie. ||| 그럼 헤이그 우리 부처에 있을 수도 있겠네요.
+JOOST: Dat is een gedachte die ik liever niet denk. ||| 하고 싶지 않은 생각입니다.
+FEMKE: Joost. Visser. Je gelooft toch niet dat hij... ||| 요스트. 비서르 말이에요. 그가 설마…
+JOOST: Ik geloof niets. Ik kijk. Ik weet dat een stagiair in 1998 twee dagen een stuk heeft ingezien dat sindsdien ontbreekt. Dat is een feit. Wat het betekent, weet ik niet. ||| 저는 아무것도 믿지 않아요. 봅니다. 1998년 실습생이 이틀 동안 열람한 문서가 그 뒤 사라졌다는 건 사실이죠. 그 의미는 모릅니다.
+FEMKE: Dat is een heel voorzichtige zin. ||| 아주 조심스러운 문장이네요.
+JOOST: Mijn vader zei: bij een dijkdoorbraak is de eerste fout altijd dat je te snel een schuldige aanwijst. ||| 아버지가 말씀하셨죠. 제방이 무너지면 첫 번째 실수는 늘 너무 빨리 죄인을 지목하는 거라고.
+FEMKE: En de tweede fout? ||| 두 번째 실수는요?
+JOOST: Te lang wachten met het zandzakken dragen. ||| 모래주머니 나르기를 너무 오래 미루는 거요.
+FEMKE: Wat doen we? ||| 어떻게 하죠?
+JOOST: We zoeken de mensen die de brief hebben gezien. Iemand die het van dichtbij heeft meegemaakt. Er is een voormalig dijkgraaf in Tholen. Hij heeft in 1968 een memo geschreven. Dat vertelde Arief. ||| 그 서한을 본 사람들을 찾습니다. 가까이서 겪은 사람이요. 톨런에 전직 제방 감독관이 있어요. 1968년에 메모를 썼죠. 아리프가 알려 줬습니다.
+FEMKE: Dijkgraaf Ruijs. Mijn oma kent zijn weduwe. ||| 제방 감독관 라위스요. 할머니가 그분 부인을 알아요.
+JOOST: Zeeland is een klein dorp. ||| 제일란트는 작은 마을이군요.
+FEMKE: Zeeland is een groot geheugen. ||| 제일란트는 큰 기억입니다.
+JOOST: Dat zeg je goed. ||| 잘 표현했네요.
+NOOR: Pap, ik heb het debat gewonnen. Ik wilde het zeggen voordat je weer vergeet te bellen. ||| 아빠, 토론에서 이겼어요. 아빠가 또 전화 잊기 전에 말하려고요.
+JOOST: Gefeliciteerd! Waar ging het over? ||| 축하해! 주제가 뭐였니?
+NOOR: «Is een afspraak sterker dan een dijk?» Ik was voor. ||| '약속은 제방보다 강한가?' 저는 찬성이었어요.
+JOOST: Waarom? ||| 왜?
+NOOR: Omdat een dijk breekt als niemand hem meer onderhoudt. En een afspraak ook. Maar een afspraak kun je tenminste herstellen. ||| 제방은 아무도 관리하지 않으면 무너지고 약속도 그렇지만, 약속은 적어도 고칠 수 있으니까요.
+JOOST: Dat is een mooie gedachte. Van wie heb je die? ||| 멋진 생각이구나. 누구한테 배웠니?
+NOOR: Van opa. En een beetje van jou. ||| 할아버지한테서요. 그리고 조금은 아빠한테서요.
+JOOST: Een beetje is genoeg. ||| 조금이면 충분하지.
++ kopieerboek = 사본 장부. 발송 서한의 사본을 얇은 종이에 베껴 철한 책
++ gewaarmerkt afschrift = 인증 사본. 도장과 날짜로 진본과 같다고 보증한 사본
++ doorslag = (먹지로 만든) 사본
++ voorlopig accepteren = 잠정 수락하다
++ weduwe = 미망인. 'weduwnaar'는 홀아비
++ slapeloosheid = 불면증
++ geheugen = 기억. 'groot geheugen'은 큰 기억 저장소라는 비유
++ een kier = 틈. 1화에서 요스트가 쓴 표현을 수리요가 되받는다
++ zandzakken dragen = 모래주머니를 나르다. 제방 비상 대응의 상징
++ dijkdoorbraak = 제방 붕괴. 'dijkbreuk'과 같은 뜻
