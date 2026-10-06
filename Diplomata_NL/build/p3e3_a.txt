@@ -1,0 +1,72 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 3
+@title Veilige vaart
+@ko 안전한 항해
+@setting 금요일 암스테르담 해사 박물관 지도실 → 회의실 → 오후 마스블락터 관제센터
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast HARYANTO | 카랑 해협국 교통부 장관, 62세
+@cast KARTIKA | 카랑 외교관, 49세
+@cast SPOOR | 선사 '제바르트 위니' 대표, 60세
+@cast VERHOEVEN | 컨테이너선 선장, 55세 (무선)
+@cast FEMKE | 분석관, 32세
+@note 3부 A사건의 결산 화입니다. 통행료를 폐지하는 대신 '이름을 바꾸는 한 줄'로 해법이 나옵니다: 통과의 대가가 아니라 등대·도선·준설 같은 실제 서비스의 대가(bakengeld)로 규정하고 장부를 소리 내어 공개합니다. 역사 논거는 덴마크의 외레순 해협 통행료(1429~1857)가 1857년 코펜하겐 조약으로 일시금(3,500만 리크스달러)을 나눠 내고 폐지된 선례입니다. 어휘는 협상 문안(heffing, bijdrage, onderhoud, ontbinden)과 숫자 협상 표현에 주목하세요.
+@next 3부 4화 — «De Haagse hack»(헤이그 해킹) — 평화궁 중재 시스템이 해킹당해 중재 문서가 유출됩니다. 로그의 타임스탬프가 평화궁 근무시간 밖이라는 한 줄이 열쇠입니다.
+
+## 지도실 — DE KAARTENZAAL
+HARYANTO: Meneer Hartog. Ik heb de nacht niet geslapen. Ik zat in het vliegtuig te denken aan één Latijnse zin. ||| 하르토흐 씨. 한숨도 못 잤습니다. 비행기에서 라틴어 문장 하나만 생각했어요.
+JOOST: Excellentie, welkom in Amsterdam. Dit is meneer Dekker, de eigenaar van de kaart. Hij heeft haar vandaag uitgeleend aan het museum. ||| 각하, 암스테르담에 오신 걸 환영합니다. 지도 소유자 데커 씨입니다. 오늘 박물관에 빌려주셨어요.
+DEKKER: Excellentie. Het is een eer. ||| 각하, 영광입니다.
+HARYANTO: Ik heb mijn leven gewijd aan kaarten. Dit is de eerste die ik ontmoet die mij recht aankijkt. ||| 평생을 지도에 바쳤는데 저를 똑바로 쳐다보는 지도는 이게 처음입니다.
+DEKKER: Het is een eerlijke kaart. Kijk. Daar. In de marge. ||| 정직한 지도죠. 보세요. 저기, 여백에요.
+HARYANTO: Mag ik de loep? ||| 확대경을 써도 될까요?
+DEKKER: Alstublieft. ||| 여기 있습니다.
+HARYANTO: «Pro luminibus et signis, non pro transitu». ||| "Pro luminibus et signis, non pro transitu."
+KARTIKA: Excellentie, wilt u het hardop vertalen? ||| 각하, 소리 내어 번역해 주시겠습니까?
+HARYANTO: Voor lichten en seinen. Niet voor de doorgang. Mijn voorouders hielden de lichten brandend. Ze verkochten geen toegang. Ze verkochten veiligheid. ||| 등불과 신호를 위해, 통과를 위해서가 아니다. 제 조상들은 등불을 밝혀 두었습니다. 통로를 팔지 않았어요. 안전을 팔았죠.
+JOOST: Dat is hoe ik het lees. ||| 저도 그렇게 읽습니다.
+HARYANTO: En ik ben bijna de man geweest die het woord heeft veranderd. ||| 그리고 저는 그 말을 바꾼 사람이 될 뻔했습니다.
+JOOST: Excellentie, dat is te hard gezegd. ||| 각하, 너무 심한 말씀입니다.
+HARYANTO: Het is een directe zin. Ik heb hem geleerd van u. ||| 직설적인 문장입니다. 당신에게서 배웠죠.
+JOOST: Dan hebt u het van mijn dochter geleerd. ||| 그럼 제 딸에게서 배운 겁니다.
+HARYANTO: Ik wil iets zeggen over mijn adviseurs. ||| 자문단에 대해 말씀드리고 싶습니다.
+JOOST: Zegt u het. ||| 하세요.
+HARYANTO: Ze hebben mij gevraagd vier miljoen dollar voor hun advies. Ik heb betaald. De factuur is gestuurd door een stichting. De Noordvaarder. ||| 자문 비용으로 400만 달러를 요구했습니다. 지불했어요. 청구서는 재단이 보냈죠. 노르트파르더입니다.
+JOOST: Mag ik de factuur zien? ||| 청구서를 볼 수 있을까요?
+HARYANTO: Mevrouw Kartika heeft hem. ||| 카르티카 대리인이 갖고 있습니다.
+KARTIKA: Hier. Een kopie. Zonder dat ik hem moest vragen. ||| 여기 사본입니다. 요청하지 않았는데 줬어요.
+JOOST: Dank u, Excellentie. Dat is een geschenk. ||| 감사합니다, 각하. 선물이군요.
+HARYANTO: Het is een boekhouding. ||| 장부입니다.
+JOOST: In Nederland is dat hetzelfde. ||| 네덜란드에서는 같은 말입니다.
+## 외레순 — DE SONT
+JOOST: Excellentie, mag ik u een verhaal vertellen? Ik denk dat het u zal interesseren. Het gaat over een tol. ||| 각하, 이야기를 하나 해도 될까요? 흥미로우실 겁니다. 통행료 이야기예요.
+HARYANTO: Ik ben een man van verhalen. ||| 저는 이야기의 사람입니다.
+JOOST: Er is een zeestraat in Noord-Europa. De Sont. Tussen Denemarken en Zweden. Vierhonderd jaar lang, vanaf 1429, hief Denemarken tol van alle schepen die erdoor voeren. ||| 북유럽에 해협이 하나 있습니다. 외레순. 덴마크와 스웨덴 사이죠. 1429년부터 400년 넘게 덴마크가 거기를 지나는 모든 배에서 통행료를 걷었습니다.
+HARYANTO: Ik ken het. De Sonttol. ||| 압니다. 손트 통행료죠.
+JOOST: Ook Nederland betaalde. Wij waren de grootste klant. Onze schepen voeren elk jaar met duizenden door de Sont. ||| 네덜란드도 냈습니다. 가장 큰 고객이었죠. 우리 배가 해마다 수천 척 지나갔어요.
+HARYANTO: En u was daar niet blij mee. ||| 그리고 기뻐하지 않았죠.
+JOOST: Wij hebben er honderden jaren over geklaagd. Er waren oorlogen. Er waren verdragen. En uiteindelijk, in 1857, in Kopenhagen, is de tol afgeschaft. ||| 수백 년 불평했습니다. 전쟁도 있었고 조약도 있었죠. 그리고 마침내 1857년 코펜하겐에서 통행료가 폐지됐습니다.
+HARYANTO: Hoe? ||| 어떻게요?
+JOOST: Denemarken kreeg een eenmalig bedrag. Vijfendertig miljoen rijksdaalders, door de landen samen betaald, naar rato van hun scheepvaart. In ruil daarvoor kreeg iedereen vrije doorvaart. Maar Denemarken hield de vuurtorens en de loodsdiensten in stand, en daarvoor kwam er een fonds. ||| 덴마크가 일시금을 받았습니다. 3,500만 리크스달러를 각국이 해운량에 비례해 함께 냈어요. 그 대가로 모두 자유 통행을 얻었죠. 하지만 덴마크는 등대와 도선 업무를 계속 유지했고 그 몫은 기금으로 만들었습니다.
+HARYANTO: Dus de tol is niet verdwenen. Ze is van naam veranderd. ||| 통행료가 사라진 게 아니군요. 이름이 바뀐 거네요.
+JOOST: Ze is veranderd van een prijs voor de doorgang in een bijdrage voor de veiligheid. ||| 통과의 값에서 안전을 위한 분담금으로 바뀐 겁니다.
+HARYANTO: Dat is een slimme zin. ||| 영리한 문장이군요.
+JOOST: Het is geen zin. Het is een wet. ||| 문장이 아니라 법입니다.
+HARYANTO: Wat stelt u voor? ||| 무엇을 제안하십니까?
+JOOST: Drie dingen. Een: de huidige tol van driehonderd dollar wordt ingetrokken. Twee: er komt een «bakengeld». Het mag alleen worden gebruikt voor lichten, seinen, loodsen en het baggeren van de geul. Drie: elk jaar leest uw ministerie de rekening hardop voor, in de haven van Karang, met een onafhankelijke accountant erbij. ||| 세 가지입니다. 하나, 현행 300달러 통행료를 철회합니다. 둘, '표지세(bakengeld)'를 둡니다. 등불, 신호, 도선, 수로 준설에만 쓸 수 있고요. 셋, 해마다 각하의 부처가 독립 회계사와 함께 카랑 항구에서 결산을 소리 내어 읽습니다.
+HARYANTO: Mijn ministerie leest een rekening voor. In een haven. ||| 제 부처가 결산을 읽는다고요. 항구에서요.
+JOOST: Zoals de waterschappen in mijn land, die hun rekening elk jaar openleggen voor wie erover betaalt. En zoals in uw eigen kaart, waar iemand opschreef wat de tol was. Een rekening die niet wordt voorgelezen, wordt een geheim. ||| 우리나라 수자원 위원회가 비용을 내는 사람들 앞에 해마다 결산을 펼쳐 보이듯이요. 그리고 누군가 통행료가 무엇인지 적어 둔 각하의 지도처럼요. 낭독되지 않는 결산은 비밀이 됩니다.
+HARYANTO: ... U mengt de eeuwen. ||| …시대를 뒤섞으시는군요.
+JOOST: Het zijn dezelfde mensen. ||| 같은 사람들입니다.
++ de Sont = 외레순(Øresund) 해협. 덴마크와 스웨덴 사이
++ Sonttol = 외레순 통행료(1429~1857)
++ naar rato = 비율에 따라
++ eenmalig bedrag = 일시금
++ bakengeld = 표지세(등대·표지 유지비). 작중 협정의 핵심 용어
++ afschaffen = 폐지하다
++ intrekken = 철회하다
++ geleerd van = ~에게서 배웠다
++ een geschenk / een boekhouding = 선물 / 장부. 같은 서류를 다르게 부르는 표현
++ onafhankelijke accountant = 독립 회계사
