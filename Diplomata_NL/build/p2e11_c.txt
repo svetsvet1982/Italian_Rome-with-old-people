@@ -1,0 +1,42 @@
+## 복도 — DE GANG
+STUYVENBERG: Meneer Hartog. Een woord. ||| 하르토흐 씨. 한마디.
+JOOST: Professor. ||| 교수님.
+STUYVENBERG: Als ik het zo mag zeggen: u hebt een elegante zaak gewonnen. ||| 이렇게 말해도 된다면 우아한 승리를 거두셨군요.
+JOOST: Het was niet mijn zaak. ||| 제 사건이 아닙니다.
+STUYVENBERG: Natuurlijk was het dat. Ik ken uw stijl. Ik herken hem aan de zinnen. ||| 당연히 당신 사건이죠. 문체를 압니다. 문장으로 알아봐요.
+JOOST: Wat wilt u? ||| 원하는 게 뭡니까?
+STUYVENBERG: Niets. Ik wilde u alleen iets herinneren. Uw dochter. Noor. Ze is zestien. ||| 없습니다. 기억하시라고 한 말씀만요. 따님 노르 말입니다. 열여섯 살이죠.
+JOOST: ... ||| …
+STUYVENBERG: Een bijzonder helder meisje. Ze won een debat over afspraken en dijken. In de krant van Rotterdam. Ik las het. Ze wil rechten studeren, zei het artikel. ||| 아주 총명한 아가씨더군요. 약속과 제방에 관한 토론에서 이겼죠. 로테르담 신문에서 읽었습니다. 법학을 공부하고 싶다고 기사에 있더군요.
+JOOST: Dat is haar zaak. ||| 그건 그 아이의 일입니다.
+STUYVENBERG: Natuurlijk. Maar ik herinner me graag: in dit land is geen enkele opleiding zonder... ||| 물론이죠. 하지만 기억해 두고 싶어서요. 이 나라에서 어떤 교육도…
+JOOST: Zonder Blauwberg. Ik weet het. ||| 블라우베르흐 없이는 없다. 압니다.
+STUYVENBERG: U begrijpt me. ||| 이해하시는군요.
+JOOST: Ik begrijp u. En ik zal u iets zeggen dat u waarschijnlijk niet verwachtte. ||| 이해합니다. 그리고 예상하지 못하셨을 말을 하죠.
+STUYVENBERG: Zegt u het maar. ||| 하세요.
+JOOST: Mijn dochter betaalt haar eigen weg. Met haar eigen geld. En als ze ooit een beurs krijgt, van wie dan ook, staat die in het register. Met de naam van de gever. Voor iedereen te lezen. ||| 제 딸은 자기 힘으로 갑니다. 자기 돈으로요. 언젠가 장학금을 받는다면 누구에게서든 이름과 함께 등록부에 올라갑니다. 누구나 읽을 수 있게요.
+STUYVENBERG: Dat is een grote belofte. ||| 큰 약속이군요.
+JOOST: Het is geen belofte. Het is de regel die u net hebt horen voorstellen. ||| 약속이 아닙니다. 방금 들으신 규칙이에요.
+STUYVENBERG: U laat uw eigen kind erdoor binden. ||| 자기 아이를 그 규칙에 묶는군요.
+JOOST: Ik laat haar de eerste zijn. Dat is de goedkoopste plaats. ||| 그 아이가 첫 번째가 되게 합니다. 가장 싼 자리죠.
+STUYVENBERG: U bent een bijzonder man. ||| 특별한 분이시군요.
+JOOST: Ik ben een zoon van een dijkwachter. ||| 제방지기의 아들일 뿐입니다.
+## 결정 — HET BESLUIT
+RADEMAKER: Dames en heren. De Administratieve Raad heeft voorlopig beslist. Ik lees voor. «Eén. Met onmiddellijke ingang geldt voor alle leden en medewerkers van het Hof een meldingsplicht voor elke betaling uit privébron. Twee. Er komt een openbaar register op de website van het Hof. Drie. De heer Pieter de Roo wordt gehoord als getuige onder bescherming». ||| 여러분. 행정 이사회가 잠정 결정을 내렸습니다. 읽겠습니다. "하나, 즉시 시행으로 재판소의 모든 구성원과 직원에게 민간 출처 지급에 대한 신고 의무가 부과된다. 둘, 재판소 웹사이트에 공개 등록부를 둔다. 셋, 피터르 데 로 씨는 보호 아래 증인으로 청취된다."
+KARTIKA: Dat betekent dat ook mijn land moet verantwoorden wat het heeft ontvangen. ||| 우리나라도 받은 걸 해명해야 한다는 뜻이군요.
+RADEMAKER: Dat betekent dat uw regering vanaf nu in elk geval zichtbaar is. ||| 귀 정부도 이제부터는 적어도 눈에 보인다는 뜻입니다.
+KARTIKA: Dat is voor mij acceptabel. ||| 받아들일 수 있습니다.
+FERREIRA: Voor mij ook. ||| 저도요.
+RADEMAKER: Ik dank de heer Hartog voor zijn voorstel. Ik neem het over als voorstel van het Hof. ||| 하르토흐 씨의 제안에 감사합니다. 재판소의 제안으로 받아들입니다.
+JOOST: Dank u. Ik ben alleen de gastheer. ||| 감사합니다. 저는 주인일 뿐입니다.
+RADEMAKER: Een gastheer die het huis opnieuw heeft ingericht. ||| 집을 새로 꾸민 주인이시죠.
++ meldingsplicht = 신고 의무
++ met onmiddellijke ingang = 즉시 시행으로
++ onder bescherming = 보호 아래
++ binden = 묶다, 구속하다
++ een grote belofte = 큰 약속
++ inrichten = 꾸미다, 배치하다
++ herinneren = 상기시키다
++ verantwoorden = 해명하다, 책임 있게 설명하다
++ het goedkoopste = 가장 싼 것. '먼저 하면 값이 싸다'의 변주
++ acceptabel = 받아들일 만한

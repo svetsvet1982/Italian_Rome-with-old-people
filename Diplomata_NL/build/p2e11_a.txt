@@ -1,0 +1,77 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 11
+@title De regel van Bijnkershoek
+@ko 빈커르스훅의 원칙
+@setting 월요일 평화궁 '큰 재판정' · 바이나엔츠 복귀, 재단 청문
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast LOTTE | 중재인 로테 바이나엔츠, 54세
+@cast RADEMAKER | 상설중재재판소 사무총장, 58세
+@cast STUYVENBERG | 블라우베르흐 재단 이사장, 68세
+@cast VANROSSUM | 재단 측 변호사, 50세
+@cast FERREIRA | 남마린데 대리인, 57세
+@cast VOS | 은퇴 통역사, 72세
+@cast DEROO | 재단 회계, 56세
+@note 2부 11화는 '폭로'의 화입니다. 재판소 관할 밖의 민간 재단을 어떻게 다룰 것인가라는 법적 문제가 핵심이며, 해법은 빈커르스훅(1702)의 '대포 사거리' 원칙(통치권은 실제 힘이 닿는 곳까지)을 투명성의 논리로 확장하는 것입니다: 재판소 구성원에게 닿는 모든 돈은 재판소의 사거리 안에 들어온다. 또 통역사의 비밀 유지가 양측 면제로 풀려 보스 씨의 속기 노트가 낭독됩니다. 어휘는 법률(bevoegdheid, rechtsmacht, kanonschot, ontbinden van geheimhouding)과 법정 논증 표현에 주목하세요.
+@next 2부 12화 — «Rechters en wachters»(재판관과 파수꾼) — 중재 절차 개혁안 채택, 후임 중재인 확정. 요스트는 중립의 대가로 신뢰를 일부 잃고, '재판관을 지키는 파수꾼'이 필요하다는 결론에 이릅니다.
+
+## 의자 — DE STOEL
+ZANDSTRA: Mevrouw Wijnaendts. Welkom terug. ||| 바이나엔츠 박사님. 돌아오신 걸 환영합니다.
+LOTTE: Meneer Zandstra. Ik heb uw boek gemist. ||| 잔드스트라 씨. 당신 장부가 그리웠어요.
+ZANDSTRA: Hier. Ik heb een regel voor u opengehouden. «Maandag. 8.50. L. Wijnaendts. Arbiter. Terug». ||| 여기요. 한 줄을 비워 뒀습니다. '월요일 8시 50분. L. 바이나엔츠. 중재인. 복귀.'
+LOTTE: En «Vertrek»? ||| '퇴장'은요?
+ZANDSTRA: Die kolom hou ik leeg tot het gedaan is. ||| 그 칸은 일이 끝날 때까지 비워 두겠습니다.
+LOTTE: Een slimme man. ||| 영리한 분이시네요.
+JOOST: Mevrouw Wijnaendts. Joost Hartog. ||| 바이나엔츠 박사님. 요스트 하르토흐입니다.
+LOTTE: Meneer Hartog. Ik had u me anders voorgesteld. Langer. ||| 하르토흐 씨. 다르게 상상했어요. 더 키가 크실 줄 알았죠.
+JOOST: Mensen denken dat. Van die zin van mij. ||| 사람들이 그렇게 생각하죠. 제 말 때문에요.
+LOTTE: Welke zin? ||| 어떤 말이요?
+JOOST: «Wie het eerst meldt, betaalt het minst». ||| '먼저 알리는 사람이 가장 적게 낸다.'
+LOTTE: Ik heb een heel boek nodig gehad om die zin te vinden, en u hebt hem in een rapport gestopt. ||| 그 문장을 찾으려고 책 한 권이 필요했는데 당신은 보고서에 넣어 두셨네요.
+JOOST: Het is niet van mij. Het is van een man die zestig jaar op een koekblik zat. ||| 제 말이 아닙니다. 60년 동안 과자 상자 위에 앉아 있던 분의 말이에요.
+LOTTE: Dan hebben we beiden iemand te danken. ||| 그럼 우리 둘 다 감사할 사람이 있군요.
+JOOST: Het hof wacht. ||| 재판정이 기다립니다.
+LOTTE: Ik loop zelf. ||| 제가 걸어갑니다.
+## 큰 재판정 — DE GROTE RECHTSZAAL
+RADEMAKER: Dames en heren, ik open de zitting. Aanwezig: mevrouw Wijnaendts, de heer Okafor, de partijen, en, op eigen verzoek, professor Stuyvenberg van de Stichting Blauwberg met zijn raadsman, mr. Van Rossum. ||| 여러분, 개정합니다. 출석: 바이나엔츠 박사, 오카포르 씨, 양 당사자, 그리고 본인 요청에 따라 블라우베르흐 재단의 스타위벤베르흐 교수와 그의 변호인 판 로쉼 변호사입니다.
+STUYVENBERG: Mevrouw de Secretaris-Generaal, als ik het zo mag zeggen, ik ben dankbaar voor de gelegenheid. ||| 사무총장님, 이렇게 말해도 된다면 기회를 주셔서 감사합니다.
+VANROSSUM: Mevrouw de Secretaris-Generaal, ik begin met een formeel bezwaar. Het Hof heeft geen rechtsmacht over de Stichting Blauwberg. Dat is een particuliere Nederlandse rechtspersoon. Het Hof is een instelling van partijen onder verdrag. Een stichting is geen verdragspartij. ||| 사무총장님, 형식적 이의로 시작합니다. 재판소는 블라우베르흐 재단에 대한 재판권이 없습니다. 재단은 네덜란드의 민간 법인입니다. 재판소는 조약에 따른 국가들의 기관이고 재단은 조약 당사자가 아닙니다.
+RADEMAKER: Dat is een gegrond bezwaar. ||| 근거 있는 이의군요.
+VANROSSUM: Dus het Hof kan de stichting niet verhoren, niet verplichten tot openbaarmaking, en geen regels opleggen aan haar financiering van onderwijs. ||| 그러니 재판소는 재단을 심문할 수 없고 공개를 강제할 수 없으며 교육 후원에 규칙을 부과할 수도 없습니다.
+STUYVENBERG: Als ik het zo mag zeggen: wij hebben niets te verbergen. Wij zijn graag bereid mee te werken. Maar vrijwillig. ||| 이렇게 말해도 된다면 우리는 숨길 게 없습니다. 기꺼이 협조하겠어요. 다만 자발적으로요.
+LOTTE: Mag ik iets vragen? ||| 한 가지 물어도 될까요?
+RADEMAKER: Mevrouw Wijnaendts. ||| 바이나엔츠 박사님.
+LOTTE: Professor Stuyvenberg. U wilt vrijwillig meewerken. Op welke vraag? ||| 스타위벤베르흐 교수님. 자발적으로 협조하시겠다고요. 어떤 질문에요?
+STUYVENBERG: Op elke vraag die redelijk is. ||| 합리적인 모든 질문에요.
+LOTTE: Wie heeft aan mij de leerstoel in Leiden toegezegd, na de uitspraak? ||| 판결 뒤에 저에게 라이덴의 석좌직을 약속한 사람이 누굽니까?
+STUYVENBERG: Dat is een insinuatie. Niemand heeft u iets toegezegd. ||| 암시일 뿐입니다. 아무도 약속한 적 없습니다.
+LOTTE: U zei het op het Hotel Des Indes. Tijdens een lunch. ||| 데스 인디스 호텔 점심 때 말씀하셨죠.
+STUYVENBERG: Ik herinner me geen lunch. ||| 점심은 기억나지 않습니다.
+LOTTE: Ambassadeur Ferreira was erbij. ||| 페헤이라 대사가 있었어요.
+FERREIRA: ... ||| …
+VANROSSUM: Mevrouw Wijnaendts, het woord van een arbiter tegen dat van een... ||| 바이나엔츠 박사님, 중재인의 말 대 …의 말은…
+LOTTE: Er was een derde. Een tolk. ||| 제3자가 있었어요. 통역사요.
+VANROSSUM: Een tolk is gebonden aan geheimhouding. ||| 통역사는 비밀 유지 의무가 있습니다.
+LOTTE: Dat weet ik. Daarom vraag ik meneer Ferreira iets. Ambassadeur, bent u bereid uw tolk te ontheffen van haar geheimhouding? ||| 압니다. 그래서 페헤이라 대사님께 묻겠습니다. 통역사의 비밀 유지 의무를 면제해 주시겠습니까?
+FERREIRA: Waarom zou ik dat doen? ||| 제가 왜 그래야 합니까?
+LOTTE: Omdat uw regering anders de verdachte is. ||| 안 그러면 귀 정부가 피의자가 되니까요.
+FERREIRA: ... ||| …
+KARTIKA: Ik ben bereid mijn eigen deel van de ontheffing te geven. Mijn regering was bij die lunch niet aanwezig, maar ik geef toestemming voor elke tolk die voor Karang heeft gewerkt. ||| 저도 제 몫의 면제를 드립니다. 우리 정부는 그 점심에 없었지만 카랑을 위해 일한 모든 통역사에 대해 허락합니다.
+FERREIRA: Mevrouw Kartika, dit is een zaak van mijn land. ||| 카르티카 대리인, 이건 우리나라의 일입니다.
+KARTIKA: Het is een zaak van allemaal. ||| 모두의 일입니다.
+FERREIRA: Hm. ... Mevrouw de Secretaris-Generaal. Ik ontbind mevrouw Vos van haar geheimhouding. Voor zover het mij betreft. ||| 흠. …사무총장님. 보스 씨의 비밀 유지 의무를 면제합니다. 제게 관련된 범위에서요.
+LOTTE: Dank u. ||| 감사합니다.
+FERREIRA: Ik doe het niet voor u. Ik doe het omdat ik de enige in dit paleis ben die nog iets kan redden. ||| 박사님을 위해서가 아닙니다. 이 궁전에서 아직 뭔가 구할 수 있는 유일한 사람이라서입니다.
+JOOST: Dat is ook een reden. ||| 그것도 이유죠.
++ bevoegdheid / rechtsmacht = 권한 / 재판권
++ een gegrond bezwaar = 근거 있는 이의
++ rechtspersoon = 법인
++ verdragspartij = 조약 당사자
++ ontheffen / ontbinden van geheimhouding = 비밀 유지에서 면제하다
++ insinuatie = 암시, 은근한 비난
++ gebonden aan = ~에 구속된
++ zitting = 개정, 심리
++ toezeggen = 약속하다
++ eigen verzoek = 본인 요청
