@@ -1,0 +1,79 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 4
+@title De dijkgraaf
+@ko 제방 감독관
+@setting 토요일 제일란트 톨런 섬 · 전직 제방 감독관 라위스의 집 → 부엌 → 정원 뒤 창고
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast RUIJS | 전직 제방 감독관(전 펠트하위스 엔지니어), 83세
+@cast MEVROUW | 라위스의 아내, 80세
+@note 1부 4화는 '비밀 폭로'의 화입니다. 은퇴한 노인이 56년 동안 과자 상자에 보관한 1968년 메모가 열쇠입니다. 메모의 '모래 입도' 수치가 공식 보고서와 다르다는 점이 설계 결함의 증거가 됩니다. 역사 논거는 1953년 대홍수 이후의 제방 안전 기준 개정(델타법 1958)으로, 재앙이 '알고도 침묵한 것'의 결과가 아니라 '새로 배운 것'의 계기가 되어야 한다는 논리가 쓰입니다. 어휘는 토목(korrelverdeling, kwel, uitspoeling)과 노인의 말투(ge, gij, tja)에 주목하세요.
+@next 1부 5화 — «Poldermodel in Brussel»(브뤼셀의 폴더 모델) — 메모를 손에 쥔 요스트는 EU·개발은행이 모인 다자 협상에 들어갑니다. 재건 기금과 선원 석방을 맞바꾸는 구조, 그리고 독일 대표의 직설: '합의하지 않으면 우리 모두 젖는다'.
+
+## 톨런 — THOLEN
+FEMKE: Dit is het. Het witte huis met de groene luiken. Mijn oma zei dat je de bel drie keer moet doen, anders hoort ze hem niet. ||| 여기예요. 초록 덧문이 달린 흰 집. 할머니가 벨을 세 번 눌러야 한다고 했어요. 안 그러면 못 듣는다고요.
+JOOST: Een heel dorp van afspraken. ||| 약속투성이 마을이군요.
+FEMKE: Het zijn de enige die werken. ||| 그게 유일하게 작동하는 약속들이죠.
+MEVROUW: Ja? Wie is daar? ||| 네? 누구세요?
+FEMKE: Dag mevrouw. Ik ben Femke de Bit, de kleindochter van Jannie de Bit uit Arnemuiden. ||| 안녕하세요. 아르너무이던의 야니 더 비트의 손녀 페므커예요.
+MEVROUW: Jannie! Mijn hemel, ze heeft het al zo vaak over je gehad. Kom binnen, kom binnen. En dit is...? ||| 야니! 세상에, 네 얘기를 얼마나 자주 하던지. 들어와, 들어와. 그리고 이쪽은…?
+JOOST: Joost Hartog. Ik werk met Femke. Wij komen voor uw man, als dat mag. ||| 요스트 하르토흐입니다. 페므커와 같이 일합니다. 남편분을 뵈러 왔습니다, 괜찮다면요.
+MEVROUW: Voor Piet? Hij zit in de schuur. Hij zit er al sinds het ontbijt. Ik weet niet wat hij daar uitspookt. ||| 피트 말이에요? 헛간에 있어요. 아침 먹고 나서부터요. 거기서 뭘 하는지 모르겠어요.
+JOOST: Wist hij dat we kwamen? ||| 저희가 올 걸 알고 있었습니까?
+MEVROUW: Hij wist het. Ik heb het hem gisteren verteld. Hij zei: «Dan moet ik wat opruimen». ||| 알았죠. 어제 말해 줬어요. 그랬더니 "그럼 정리를 좀 해야겠군" 했어요.
+JOOST: Opruimen. ||| 정리라니요.
+MEVROUW: Hij is nu drieëntachtig. Hij is al bijna zestig jaar aan het opruimen. Het wil niet lukken. ||| 83세예요. 거의 60년째 정리하고 있는데 안 되더군요.
+RUIJS: Wie komt daar? ||| 누가 왔소?
+MEVROUW: Bezoek, Piet. Voor jou. Kom maar naar de keuken. ||| 손님이에요, 피트. 당신 손님. 부엌으로 와요.
+RUIJS: Ik ben niet in de keuken. Ik ben in de schuur. ||| 부엌 아니오. 헛간이오.
+MEVROUW: Dan kom je uit de schuur. ||| 그럼 헛간에서 나오세요.
+RUIJS: Tja. ||| 글쎄.
+## 부엌 — DE KEUKEN
+RUIJS: Gij zijt dus de kleindochter van Jannie. ||| 그대가 야니의 손녀로군.
+FEMKE: Ja, meneer. ||| 네, 선생님.
+RUIJS: Gij hebt haar neus. En gij zijt van Buitenlandse Zaken? ||| 코가 닮았소. 외무부에서 왔다고?
+JOOST: Wij beiden, ja. Meneer Ruijs, bedankt dat u ons wilt ontvangen. ||| 두 사람 다요. 라위스 씨, 맞아 주셔서 감사합니다.
+RUIJS: Gij komt voor het koekblik. ||| 과자 상자 때문에 왔구먼.
+JOOST: Voor... het koekblik? ||| …과자 상자요?
+RUIJS: Ik zie het aan uw gezicht. Gij weet er iets van. Gij hebt het niet geweten, maar nu wel. ||| 얼굴에 보이오. 아는 게 있군. 몰랐다가 이제 알게 된 거지.
+JOOST: Meneer Ruijs, ik ben eerlijk tegen u. Een kennis van een Meranti-diplomaat heeft mij verteld dat u in 1968 een memo hebt geschreven. Over de dijk van Kuala Delta. ||| 라위스 씨, 솔직히 말씀드립니다. 메란티 외교관의 지인이 1968년에 쓰신 메모가 있다고 알려 줬습니다. 쿠알라 델타 제방에 관한 것이요.
+RUIJS: Kuala Delta. Dat is een naam die ik zestig jaar niet heb uitgesproken. ||| 쿠알라 델타. 60년 동안 입에 올리지 않은 이름이오.
+JOOST: Mag ik vragen waarom niet? ||| 왜 그랬는지 여쭤도 될까요?
+RUIJS: Omdat me ook werd gevraagd het niet te doen. ||| 하지 말라는 요청도 받았으니까.
+JOOST: Door wie? ||| 누구에게서요?
+RUIJS: Door mijn baas. De heer Veldhuis. De oude Veldhuis, de vader. Hij zei: «Piet, jouw rapport is dapper, maar het kost ons het contract. En een contract is werk voor driehonderd mensen». ||| 상사에게서. 펠트하위스 씨, 아버지 쪽이오. 이렇게 말했지. "피트, 자네 보고서는 용감하지만 계약을 잃게 하네. 그리고 계약은 3백 명의 일자리야."
+FEMKE: Dat is een zware zin voor een jonge man. ||| 젊은 사람에게는 무거운 말이네요.
+RUIJS: Ik was vijfentwintig. Ik had een vrouw die zwanger was. En een baas die bijna een vader voor me was. ||| 스물다섯이었소. 임신한 아내가 있었고, 거의 아버지 같은 상사가 있었지.
+JOOST: Wat stond er in uw rapport? ||| 보고서에는 뭐가 있었습니까?
+RUIJS: Mevrouw, schenk de koffie in. Dat is een verhaal waar je een kop bij nodig hebt. ||| 여보, 커피를 따라 주시오. 커피 한 잔은 있어야 하는 이야기라서.
+MEVROUW: Ik heb er een bolus bij gemaakt. ||| 볼뤼스도 만들었어요.
+RUIJS: Een bolus. Gij zult Zeeland leren kennen, meneer. ||| 볼뤼스라. 제일란트를 알게 될 거요, 선생.
+JOOST: Ik heb er al een zwak voor. ||| 이미 정이 들었습니다.
+RUIJS: In 1968 werd ik naar Meranti gestuurd. Ik moest bodemmonsters nemen voor de zeedijk bij Kuala Delta. Een dijk van elf kilometer. Veldhuis had het ontwerp. ||| 1968년에 나는 메란티로 파견됐소. 쿠알라 델타 해안 제방을 위한 토양 시료를 채취하는 일이었지. 11킬로미터짜리 제방이었고 설계는 펠트하위스가 했소.
+FEMKE: En wat vond u? ||| 무엇을 발견하셨어요?
+RUIJS: Dat de grond niet was zoals in het ontwerp. In het ontwerp stond zand met een gemiddelde korreldiameter van nul komma vijfentwintig millimeter. Dat is grof zand. Stevig. ||| 땅이 설계와 달랐소. 설계에는 평균 입경 0.25밀리미터의 모래라고 돼 있었지. 굵은 모래. 단단하지.
+JOOST: En in werkelijkheid? ||| 실제로는요?
+RUIJS: Nul komma nul negen. Dat is fijn zand. Bijna stof. ||| 0.09요. 고운 모래. 거의 먼지요.
+FEMKE: Dat is gevaarlijk. ||| 위험하네요.
+RUIJS: Fijn zand spoelt uit. Onder een dijk, bij hoog water, zoekt het water een weg. Het neemt het zand mee. Er ontstaat een tunnel. Dat heet «piping». ||| 고운 모래는 씻겨 나가오. 제방 밑에서 수위가 높아지면 물이 길을 찾아 모래를 데려가지. 터널이 생기고. 그걸 '파이핑'이라 하오.
+JOOST: En het ontwerp hield daar geen rekening mee. ||| 설계에는 그게 반영되지 않았고요.
+RUIJS: Het ontwerp was gemaakt op grond van een boring die twintig kilometer verderop was genomen. Daar was de grond goed. Mijn monsters lieten zien dat het bij de dijk anders was. ||| 20킬로미터 떨어진 곳의 시추를 근거로 설계했소. 거기는 땅이 좋았지. 내 시료는 제방 쪽이 다르다는 걸 보여 줬고.
+JOOST: En u schreef het op. ||| 그래서 적으셨군요.
+RUIJS: Drie pagina's. Met tabellen. Ik gaf het aan de heer Veldhuis. Hij las het, vouwde het op, en zei: «Dit is een belangrijke opmerking. Ik regel het». ||| 세 쪽에 표를 붙여서요. 펠트하위스 씨에게 줬지. 그는 읽고 접고 말했소. "중요한 지적이군. 내가 처리하지."
+JOOST: En daarna? ||| 그다음엔요?
+RUIJS: Daarna zag ik mijn rapport nooit meer terug. In het definitieve ontwerp stond weer nul komma vijfentwintig. ||| 그 뒤로 내 보고서는 다시 못 봤소. 최종 설계에는 다시 0.25가 적혀 있었지.
+FEMKE: Ze hebben het cijfer veranderd. ||| 숫자를 바꿨군요.
+RUIJS: Ze hebben het terug veranderd. Naar het cijfer dat ze al hadden. ||| 원래 숫자로 되돌려 놓은 거요.
++ dijkgraaf = 제방 감독관. 수자원 위원회(waterschap)의 수장
++ koekblik = 과자 상자(양철통). 오래된 서류를 보관하는 평범한 용기
++ korreldiameter = 입경(모래알 지름). 토양 안정성을 가늠하는 값
++ piping = 파이핑. 제방 밑으로 물이 모래를 씻어 내며 터널이 생기는 현상
++ bodemmonster = 토양 시료
++ bolus = 볼뤼스. 제일란트(미델뷔르흐)의 시나몬 설탕 롤빵
++ gij / ge = 그대. 남부·제일란트 방언의 이인칭(표준어의 'jij/u')
++ tja = 글쎄. 망설임이나 체념을 나타내는 감탄사
++ drieëntachtig = 83. 네덜란드어 수사는 '3과 80' 순서로 읽는다
++ opruimen = 정리하다. 여기서는 마음의 정리를 가리킴
