@@ -1,0 +1,101 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 10
+@title Onderhandelen op de dijk
+@ko 제방 위의 협상
+@setting 다음 주 토요일 메란티 쿠알라 델타 임시 제방 · 폭풍 해일 예보 전야부터 새벽까지
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast HARTONO | 메란티 수자원부 장관, 58세
+@cast SURYO | 메란티 수자원부 차관, 55세
+@cast ARIEF | 메란티 대사관 서기관(현장 통역), 36세
+@cast SLAMET | 제방 공사 현장 감독, 50세
+@cast RUIJS | 전직 제방 감독관 (전화), 83세
+@note 1부 10화는 '물밑 협상'입니다. 폭풍 해일 예보 속에서 위원회 권한(mandate)을 둘러싼 협상이 모래주머니를 쌓는 현장에서 비공식으로 이어집니다. 역사 논거는 겐트 평화(1576): 스페인군의 약탈로 위기에 처한 저지대 지방들이 종교 갈등을 접어 두고 공동 방어에 합의한 사례로, 공통의 위험이 합의의 문을 연다는 점을 보여 줍니다. 제방 공사 어휘(zandzak, kwel, wel, kwelkade)와 현장의 짧은 명령투에 주목하세요.
+@next 1부 11화 — «De zijbrief»(부수서한) — 위원회가 설치되고 세 장이 한자리에 놓입니다. 원문: 결함을 먼저 공개하는 쪽의 책임이 감경된다는 조항. 번역과 원문 사이에서 '공개 의무'와 '공개 권리'가 갈립니다.
+
+## 제방에 도착 — AANKOMST OP DE DIJK
+SLAMET: Meneer Hartog? Welkom op de dijk. U bent de man van het water, hoor ik. ||| 하르토흐 씨? 제방에 오신 걸 환영합니다. 물의 사람이라고 들었습니다.
+JOOST: Ik ben een man van de vragen. Het water is van een ander. ||| 저는 질문의 사람입니다. 물은 다른 분 몫이고요.
+SLAMET: Niet vandaag. Vandaag komt er een stormvloed. Vannacht om twee uur hoogwater. De voorspelling zegt: vier meter twintig boven normaal. ||| 오늘은 아닙니다. 폭풍 해일이 옵니다. 오늘 밤 두 시 만조예요. 예보는 평소보다 4.2미터 높다고 합니다.
+FEMKE: Dat is drie meter boven wat dit stuk dijk kan houden volgens de oude norm. ||| 옛 기준으로 이 구간 제방이 버티는 높이보다 3미터나 높네요.
+SLAMET: Daarom zijn we hier. De hele nacht. Iedereen. ||| 그래서 우리가 여기 있는 겁니다. 밤새. 전원이요.
+JOOST: Waar kan ik helpen? ||| 어디서 도울까요?
+SLAMET: U? U bent diplomaat. ||| 선생이요? 외교관이잖습니까.
+JOOST: Mijn vader was dijkwachter. Ik heb als kind zandzakken gevuld. ||| 아버지가 제방지기였습니다. 어릴 때 모래주머니를 채웠어요.
+SLAMET: Dan weet u hoe het moet. Neem een schep. ||| 그럼 방법을 아시겠군요. 삽 드세요.
+HARTONO: Meneer Hartog. ||| 하르토흐 씨.
+JOOST: Meneer de minister. Ik wilde u niet storen. ||| 장관님. 방해하고 싶지 않았습니다.
+HARTONO: U stoort me niet. U bent hier onverwacht. Dat is iets anders. ||| 방해가 아닙니다. 예고 없이 오신 거죠. 다릅니다.
+JOOST: Ik dacht dat een dijk geen plek is voor afspraken. ||| 제방은 약속을 잡는 곳이 아니라고 생각했습니다.
+HARTONO: Dat is waar. Dus als u hier bent, bent u hier om te werken. ||| 맞습니다. 그러니 여기 오셨다면 일하러 오신 거겠죠.
+JOOST: En om te praten. Over de commissie. ||| 그리고 이야기하러요. 위원회에 대해서요.
+HARTONO: De commissie. De commissie die mijn eigen secretaris heeft bedacht. ||| 위원회. 제 비서관이 생각해 낸 위원회요.
+JOOST: Meneer Rahman heeft het voorgesteld. Ik heb het ondersteund. ||| 라흐만 씨가 제안했고 제가 지지했습니다.
+HARTONO: Het is geen commissie. Het is een gordijn. U wilt een gordijn waarachter u de schuld kunt wegmoffelen. ||| 위원회가 아니라 커튼입니다. 그 뒤에 책임을 숨기려는 커튼이죠.
+JOOST: Ik wil iets anders. Ik wil de waarheid, en ik wil dat u haar niet van mij hoeft aan te nemen. ||| 다른 걸 원합니다. 진실을 원하고, 장관님이 그것을 저에게서 받아들이지 않아도 되길 원합니다.
+HARTONO: Dat is een fraaie zin. ||| 아름다운 문장이군요.
+JOOST: Het is een praktische. ||| 실용적인 문장입니다.
+HARTONO: We zullen zien. Neemt u een zandzak. ||| 두고 봅시다. 모래주머니를 드세요.
+JOOST: Graag. ||| 감사합니다.
+## 모래주머니 — DE ZANDZAKKEN
+JOOST: Femke, kijk. Zo vul je ze. Twee derde vol. Nooit helemaal. ||| 페므커, 보세요. 이렇게 채웁니다. 3분의 2만요. 끝까지는 안 채우고요.
+FEMKE: Waarom niet helemaal? ||| 왜 끝까지 안 채워요?
+JOOST: Dan sluit hij niet goed aan op de volgende. Een zandzak moet kunnen liggen. ||| 그러면 다음 것과 잘 안 맞아요. 모래주머니는 잘 눕혀져야 합니다.
+FEMKE: Mijn opa zei dat ook. Maar dan over aardappelen. ||| 할아버지도 그렇게 말씀하셨어요. 감자 얘기였지만요.
+JOOST: Zeeuwen en hun aardappelen. ||| 제일란트 사람과 감자라.
+ARIEF: Meneer Hartog, mag ik naast u staan? ||| 하르토흐 씨, 옆에 서도 될까요?
+JOOST: Natuurlijk, Arief. Neem een zak. ||| 물론이죠, 아리프. 한 포대 드세요.
+ARIEF: Ik heb nog nooit een zandzak gevuld. Ik heb er alleen over geleerd. ||| 모래주머니를 채워 본 적이 없어요. 배우기만 했죠.
+JOOST: Dat gaat snel veranderen. ||| 곧 달라질 겁니다.
+SURYO: Meneer Hartog. Ik zie dat u ons werk doet. ||| 하르토흐 씨. 우리 일을 하고 계시군요.
+JOOST: Het is ook mijn werk. Voor één nacht. ||| 제 일이기도 합니다. 하룻밤은요.
+SURYO: Mijn minister is niet blij met uw aanwezigheid. ||| 장관은 당신이 있는 걸 달가워하지 않습니다.
+JOOST: Dat merkte ik. ||| 느꼈습니다.
+SURYO: Hij is bang. ||| 두려워합니다.
+JOOST: Waarvoor? ||| 무엇을요?
+SURYO: Dat u iets weet. ||| 당신이 뭔가를 안다는 것을요.
+JOOST: Wat zou ik moeten weten? ||| 제가 뭘 알아야 하는데요?
+SURYO: Dat laat ik aan u over. ||| 그건 당신께 맡기겠습니다.
+HARTONO: Suryo. Kom eens hier. ||| 수리요. 이리 와 봐.
+SURYO: Ja, minister. ||| 네, 장관님.
+HARTONO: Wat vertelt u meneer Hartog? ||| 하르토흐 씨에게 뭘 말하고 있나?
+SURYO: Dat een zandzak niet te vol moet zijn. ||| 모래주머니는 너무 차면 안 된다고요.
+HARTONO: Dat weet iedereen. ||| 누구나 아는 거야.
+SURYO: Meneer Hartog niet. Hij heeft het mij net uitgelegd. ||| 하르토흐 씨는 아니었죠. 방금 설명해 줬습니다.
+HARTONO: Die man is geen dwaas. ||| 저 사람은 바보가 아니군.
+SURYO: Nee, minister. ||| 아니죠, 장관님.
+HARTONO: Meneer Hartog, ik heb een zak voor u. ||| 하르토흐 씨, 포대를 하나 드리죠.
+JOOST: Dank u. ||| 감사합니다.
+HARTONO: Neemt u hem aan? ||| 받으시겠습니까?
+JOOST: Ja. ||| 네.
+HARTONO: Dan hebt u iets van mij aangenomen. In mijn land betekent dat iets. ||| 그럼 제게서 무언가를 받으신 겁니다. 우리나라에서는 그게 의미가 있습니다.
+JOOST: Wat betekent het? ||| 어떤 의미입니까?
+HARTONO: Dat u de dijk deelt. Niet het gezag, maar de last. ||| 제방을 나눈다는 의미요. 권한이 아니라 짐을요.
+JOOST: Dan deel ik hem graag. ||| 기꺼이 나누겠습니다.
+HARTONO: Prima. Laten we onderhandelen terwijl we werken. ||| 좋습니다. 일하면서 협상합시다.
+JOOST: In Nederland doen we dat altijd. ||| 네덜란드에서는 늘 그렇게 합니다.
+HARTONO: Dat verklaart veel. ||| 많은 게 설명되는군요.
+JOOST: Mijn eerste punt: de commissie moet een mandaat hebben. Een duidelijk mandaat. ||| 첫째, 위원회에는 권한이 있어야 합니다. 분명한 권한이요.
+HARTONO: Het mandaat is: de schuldige aanwijzen. ||| 권한은 죄인을 지목하는 겁니다.
+JOOST: Dat is een conclusie, geen mandaat. Een mandaat zegt: wat mag de commissie onderzoeken, welke stukken mag ze inzien, en wat mag ze zeggen. ||| 그건 결론이지 권한이 아닙니다. 권한은 위원회가 무엇을 조사하고 어떤 문서를 보고 무엇을 말할 수 있는지를 정합니다.
+HARTONO: En als ze zegt dat het mijn land is dat schuld heeft? ||| 그리고 위원회가 책임이 우리나라에 있다고 하면요?
+JOOST: Dan zegt ze dat. En dan heeft u een rapport dat u niet kunt weglachen. ||| 그럼 그렇게 말하겠죠. 그러면 장관님은 웃어넘길 수 없는 보고서를 갖게 됩니다.
+HARTONO: Dat is een groot risico voor mij. ||| 제게는 큰 위험입니다.
+JOOST: Voor mij ook. ||| 제게도 그렇습니다.
+HARTONO: Waarom? ||| 왜죠?
+JOOST: Omdat het rapport ook kan zeggen dat het mijn land is dat schuld heeft. ||| 보고서가 책임이 우리나라에 있다고 할 수도 있으니까요.
+HARTONO: ... ||| …
+SURYO: Minister, dat is wat ik u zei. Hij is geen dwaas. ||| 장관님, 제가 말씀드린 그대로입니다. 바보가 아니에요.
++ stormvloed = 폭풍 해일. 'storm'과 'vloed'(밀물)의 합성어
++ zandzak = 모래주머니. 제방 비상 대응 도구
++ hoogwater = 만조, 고수위
++ wegmoffelen = 슬쩍 감추다, 은폐하다
++ mandaat = 권한(위임). 위원회가 할 수 있는 일의 범위
++ een gordijn = 커튼. 여기서는 '책임을 숨기는 가림막'의 비유
++ schep = 삽
++ onverwacht = 예상치 못하게
++ wat vertelt u = 무엇을 말합니까. 'vertellen'은 이야기하다
++ de last delen = 짐을 나누다. 'gezag'(권한)와 대비
