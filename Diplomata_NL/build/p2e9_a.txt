@@ -1,0 +1,100 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 9
+@title De derde arbiter
+@ko 제3의 중재인
+@setting 다음 주 수요일 평화궁 사무총장실 → 외무부 부국장실 → 저녁 델프트 프린센호프
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast RADEMAKER | 상설중재재판소 사무총장, 58세
+@cast FEMKE | 분석관, 31세
+@cast MARLOES | 외무부 부국장(비서르의 후임), 47세
+@cast KARTIKA | 카랑 대리인, 48세
+@note 2부 9화는 '배신'의 화입니다. 후임 중재인 린트 교수의 독립 진술서에서 서명 날짜와 순서가 어긋나고, 그 어긋남이 외무부 안의 누군가를 가리킵니다. 역사 논거는 빌럼 1세 암살(1584): 델프트 프린센호프 계단에서 암살자가 신뢰를 이용해 총을 쏜 사건으로, 신뢰는 위험이지만 포기할 수 없다는 딜레마를 보여 줍니다. 어휘는 문서의 날짜·서명(dagtekening, volgorde, ondertekenen, bijgevoegd)과 배신·신뢰 표현에 주목하세요.
+@next 2부 10화 — «Blind spel»(눈먼 놀이) — 압력과 매수를 끊기 위해 당사자와 중재인이 얼굴을 보지 않고 쪽지로만 주고받는 '벽 너머 협상'. 쪽지 글씨체가 중간에 바뀝니다.
+
+## 진술서 — DE VERKLARING
+RADEMAKER: Meneer Hartog, mevrouw De Bit, ga zitten. Ik heb de verklaring van professor Lindt ontvangen. Voor het eerst een nieuwe benoeming volgens de nieuwe procedure. ||| 하르토흐 씨, 더 비트 씨, 앉으세요. 린트 교수의 진술서를 받았습니다. 새 절차에 따른 첫 임명이에요.
+JOOST: Wat zegt hij? ||| 뭐라고 쓰여 있습니까?
+RADEMAKER: Dat hij geen financiële of persoonlijke banden heeft met een van de partijen. Dat hij nooit een beurs, honorarium of leerstoel van een stichting heeft ontvangen in verband met arbitrage. ||| 양 당사자와 재정적·개인적 관계가 없다고요. 중재와 관련해 재단의 장학금, 사례비, 석좌직을 받은 적도 없고요.
+FEMKE: Dat klinkt schoon. ||| 깨끗하게 들리네요.
+RADEMAKER: Te schoon? ||| 너무 깨끗합니까?
+FEMKE: Het is een verklaring van twee pagina's zonder één voorbehoud. Zelfs een heilige zou er een hebben. ||| 유보 하나 없는 두 쪽짜리 진술서예요. 성인도 하나는 넣을 겁니다.
+RADEMAKER: Dat is een scherpe opmerking. ||| 날카로운 지적이군요.
+JOOST: Mag ik het document zien? ||| 문서를 볼 수 있을까요?
+RADEMAKER: Hier. Origineel en kopie. ||| 여기요. 원본과 사본입니다.
+JOOST: Femke, de dagtekening. ||| 페므커, 날짜를 보세요.
+FEMKE: «Zürich, vierde juni, 10.15 uur». ||| '취리히, 6월 4일 10시 15분'.
+JOOST: Vierde juni. En wanneer noemde meneer Ferreira professor Lindt in Rotterdam? ||| 6월 4일이요. 그리고 페헤이라 대사가 로테르담에서 린트 교수를 언급한 건 언제였죠?
+FEMKE: Op de zesde. Twee dagen later. ||| 6일이에요. 이틀 뒤입니다.
+RADEMAKER: Dat... is vreemd. ||| 그건… 이상하군요.
+JOOST: Een man ondertekent een onafhankelijkheidsverklaring voordat hij wordt voorgedragen. ||| 지명되기 전에 독립 진술서에 서명한 사람이 있다니요.
+FEMKE: Of de datum is verkeerd. ||| 아니면 날짜가 틀렸거나요.
+JOOST: Of hij wist dat hij zou worden voorgedragen. ||| 아니면 지명될 걸 알고 있었거나요.
+RADEMAKER: Dan is er ook de volgorde. Kijk naar de ondertekening. ||| 서명 순서도 있어요. 서명란을 보세요.
+JOOST: Eerst de handtekening van Lindt. Dan van de getuige. ||| 먼저 린트의 서명. 그다음 증인의 서명이군요.
+RADEMAKER: Gewoonlijk is het andersom. De getuige tekent eerst, om te bevestigen dat de ondertekenaar aanwezig is. ||| 보통은 반대입니다. 증인이 먼저 서명해 서명자가 있었음을 확인하죠.
+JOOST: Dus iemand heeft de getuige achteraf laten tekenen. ||| 그러니 누군가 나중에 증인에게 서명하게 했군요.
+RADEMAKER: Dat suggereert het. Wie is de getuige? ||| 그렇게 보입니다. 증인이 누굽니까?
+FEMKE: Een Zwitserse notaris in Zürich. Dr. Beat Hürlimann. ||| 취리히의 스위스 공증인 베아트 휘를리만 박사요.
+JOOST: En hij heeft ook een bijlage getekend. ||| 그리고 부록에도 서명했네요.
+RADEMAKER: Welke bijlage? ||| 어떤 부록입니까?
+JOOST: «Brief van de Nederlandse Staat, kenmerk BZ/DJZ 2314, dagtekening 1 juni». Een brief waarin staat dat de Nederlandse regering geen bezwaar heeft tegen de benoeming van professor Lindt. ||| '네덜란드 정부 서한, 문서번호 BZ/DJZ 2314, 6월 1일자'. 네덜란드 정부가 린트 교수의 임명에 이의가 없다는 서한입니다.
+RADEMAKER: Dat is niet door mijn bureau gegaan. ||| 제 사무국을 거친 게 아닙니다.
+JOOST: Nee. En de eerste juni is vijf dagen voor Rotterdam. ||| 아니죠. 그리고 6월 1일은 로테르담보다 닷새 전입니다.
+FEMKE: Wie heeft die brief getekend? ||| 누가 서명했죠?
+JOOST: «M. Tjin-A-Tsoi, plaatsvervangend directeur». ||| '엠. 친아천, 부국장'.
+RADEMAKER: Wie is dat? ||| 누굽니까?
+JOOST: De opvolger van Rutger Visser. Mijn nieuwe collega. ||| 뤼트허르 비서르의 후임이에요. 제 새 동료입니다.
+## 부국장실 — HET KANTOOR VAN MARLOES
+MARLOES: Joost. Fijn dat je even binnenloopt. Zin in koffie? ||| 요스트. 들러 줘서 반가워요. 커피 어때요?
+JOOST: Graag. Marloes, ik wil je iets laten zien. ||| 좋아요. 마를로스, 보여 줄 게 있습니다.
+MARLOES: Wat is het? ||| 뭐죠?
+JOOST: Een brief. Kenmerk BZ/DJZ 2314. ||| 서한입니다. 문서번호 BZ/DJZ 2314.
+MARLOES: ... Waar heb je die vandaan? ||| …그걸 어디서 났어요?
+JOOST: Uit de bijlage bij de verklaring van professor Lindt. ||| 린트 교수 진술서의 부록에서요.
+MARLOES: Dat is niet mogelijk. Die brief is intern. ||| 그럴 리 없어요. 내부 서한이에요.
+JOOST: Hij was intern. Nu zit hij in Zürich. ||| 내부용이었죠. 지금은 취리히에 있습니다.
+MARLOES: Joost, ik kan het uitleggen. ||| 요스트, 설명할 수 있어요.
+JOOST: Doe maar. ||| 해 보세요.
+MARLOES: Professor Stuyvenberg belde me een week geleden. Hij vertelde dat professor Lindt beschikbaar was. Hij vroeg of Nederland geen bezwaar zou hebben. ||| 스타위벤베르흐 교수가 일주일 전에 전화했어요. 린트 교수가 가능하다고 했죠. 네덜란드가 이의가 없겠느냐고 물었고요.
+JOOST: En je schreef een brief. ||| 그래서 서한을 썼군요.
+MARLOES: Ik schreef een intern advies. Dat Nederland als gastland geen bezwaar zou hebben. Het was geen officiële brief. ||| 내부 의견서를 썼어요. 개최국으로서 이의가 없을 거라는요. 공식 서한이 아니었고요.
+JOOST: Het staat op briefpapier van het ministerie. Met een kenmerk. ||| 부처 서신지에 문서번호까지 있습니다.
+MARLOES: Dat is dan een misverstand. ||| 그럼 오해예요.
+JOOST: Marloes, wie is professor Stuyvenberg voor jou? ||| 마를로스, 스타위벤베르흐 교수는 당신에게 누굽니까?
+MARLOES: Een oud-docent. Hij was mijn mentor. ||| 옛 교수예요. 제 멘토였죠.
+JOOST: Via Blauwberg. ||| 블라우베르흐를 통해서요.
+MARLOES: Ik had een beurs. Op mijn eenentwintigste. Het heeft mijn studie mogelijk gemaakt. ||| 장학금을 받았어요. 스물한 살 때. 덕분에 공부할 수 있었죠.
+JOOST: Net als Brandsma. Net als Okafor. ||| 브란츠마처럼요. 오카포르처럼요.
+MARLOES: Ja. ||| 네.
+JOOST: En je hebt hem de details van onze Rotterdamse aanpak gegeven. ||| 그리고 우리 로테르담 방식의 세부 사항을 그에게 줬죠.
+MARLOES: Ik heb met hem overlegd. Dat is geen lek. Dat is overleg. ||| 그와 상의했어요. 유출이 아니라 상의예요.
+JOOST: Overleg is wanneer iedereen aan tafel zit. Dit was een gesprek met één partij. Zonder dat de ander het wist. ||| 상의는 모두가 탁자에 앉을 때 하는 겁니다. 이건 한쪽과의 대화였고 상대는 몰랐어요.
+MARLOES: Je begrijpt niet hoe moeilijk het is. Ik heb mijn hele carrière aan Lex te danken. ||| 얼마나 어려운지 모르시는군요. 제 경력 전체가 렉스 덕분이에요.
+JOOST: Dat begrijp ik wel. Maar je hebt een brief opgesteld die namens de Nederlandse Staat spreekt. ||| 이해합니다. 하지만 당신은 네덜란드 국가의 이름으로 말하는 서한을 작성했어요.
+MARLOES: Het was bedoeld om te kalmeren. ||| 진정시키려는 거였어요.
+JOOST: Het heeft het tribunaal gevuld met zijn man. ||| 그 서한이 재판부를 그의 사람으로 채웠습니다.
+MARLOES: Ik wist niet dat Lindt zijn man was. ||| 린트가 그의 사람인 줄 몰랐어요.
+JOOST: Wist je dat hij boven aan de voordrachtenlijst staat? ||| 추천 명단 맨 위에 있다는 건 알았습니까?
+MARLOES: Welke lijst? ||| 무슨 명단이요?
+JOOST: Dan wist je het niet. ||| 그럼 몰랐군요.
+MARLOES: Wat gebeurt er nu? ||| 이제 어떻게 되죠?
+JOOST: Dat ligt aan jou. Je kunt het zelf vertellen, aan de minister, vandaag. Of ik doe het morgen. ||| 당신에게 달렸습니다. 오늘 직접 장관에게 말하든가, 내일 제가 하든가요.
+MARLOES: Dat is hetzelfde wat je met Visser deed. ||| 비서르에게 한 것과 같군요.
+JOOST: Het is wat ik altijd doe. ||| 늘 하는 방식입니다.
+MARLOES: Waarom? ||| 왜죠?
+JOOST: Omdat wie het zelf vertelt, nog iets kan redden. ||| 직접 말하는 사람은 구할 게 남아 있으니까요.
+MARLOES: Wat kan ik nog redden? ||| 제가 뭘 구할 수 있죠?
+JOOST: Je naam. Niet je baan. Maar je naam. ||| 이름을요. 직장은 아니고 이름이요.
++ dagtekening = (문서의) 날짜 표기
++ ondertekening = 서명(란)
++ getuige = 증인. 여기서는 서명 입회인
++ kenmerk = 문서 번호, 식별 기호
++ bijlage = 부록
++ plaatsvervangend directeur = 부국장, 직무 대리 국장
++ briefpapier = 서신용지, 공식 레터헤드 용지
++ overleg = 협의, 상의. 네덜란드 합의 문화의 핵심어
++ een misverstand = 오해
++ opvolger = 후임
