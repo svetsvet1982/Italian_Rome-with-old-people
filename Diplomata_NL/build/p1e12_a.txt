@@ -1,0 +1,92 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 12
+@title Wie bouwt, betaalt
+@ko 짓는 자가 값을 치른다
+@setting 2주 뒤 칸다르 항 부두 → 브뤼셀 기자회견 → 헤이그 외무부 → 밤 로테르담 집 → 새벽 스헤베닝언
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast KOOIMAN | '제일레우'호 선장, 58세
+@cast BRAM | 기관사, 34세
+@cast SURYO | 메란티 수자원부 차관, 55세
+@cast GERBER | 계측 위원회 위원장, 60세
+@cast DEWIT | 펠트하위스 변호사, 47세
+@cast SANNE | 국내정보기관(AIVD) 연락관, 43세
+@cast NOOR | 요스트의 딸, 16세
+@cast FEMKE | 분석관, 31세
+@note 1부의 마지막 화입니다. '먼저 말하면 값이 싸다'는 원칙이 현실이 되어 선원 석방, 준설사의 비용 부담, 델타 기금으로 이어집니다. 역사 논거는 1958년 델타법과 델타 계획 기금: 국가·지방이 비용을 나누고, 지은 쪽이 유지에 책임을 지는 구조입니다. 요스트는 청문회 출석을 감수하고, 산네는 2부로 이어질 이름 '블라우베르흐'를 입에 올립니다. 어휘는 결산·책임(verrekenen, bijdrage, aansprakelijkheid, hoorzitting)과 가족 대화체에 주목하세요.
+@next 2부 1화 — «Het lege paleis»(빈 평화궁전) — 헤이그 평화궁의 국제 중재가 개정 직전, 한 중재인이 사라집니다. 경비원의 방명록에는 서명 시각이 비어 있습니다.
+
+## 칸다르 부두 — DE KADE VAN KANDAR
+KOOIMAN: Meneer Hartog. Ik sta op de kade. Zonder bewaker. Voor het eerst in vijf weken. ||| 하르토흐 씨. 부두에 서 있습니다. 경비 없이요. 5주 만에 처음입니다.
+JOOST: Hoe voelt het? ||| 기분이 어떻습니까?
+KOOIMAN: Alsof de grond beweegt. Ik denk dat ik zeeziek ben aan land. ||| 땅이 움직이는 것 같아요. 육지에서 뱃멀미를 하나 봅니다.
+BRAM: Dat heet landziekte, kapitein. Het gaat over na een dag. ||| 육지 멀미라고 합니다, 선장님. 하루면 지나가요.
+KOOIMAN: Bram, jij weet altijd alles. ||| 브람, 자네는 늘 다 아는군.
+BRAM: Ik weet alleen waar mijn grootvader niet over sprak. ||| 할아버지가 말씀하지 않으신 것만 압니다.
+JOOST: Bram, ik heb iets voor u. Van Femke. ||| 브람, 드릴 게 있습니다. 페므커가 준비했어요.
+BRAM: Een enveloppe. ||| 봉투네요.
+JOOST: Er zit een foto in. Van uw grootvader. Hij staat in 1953 op een dijk bij Ouwerkerk. Een archief in Zierikzee had hem. ||| 안에 사진이 있어요. 할아버지 사진입니다. 1953년 아우어케르크 제방 위에 서 계세요. 시리크제의 문서고에 있었습니다.
+BRAM: ... Dat is hij. Met zijn schep. ||| …할아버지예요. 삽을 든 채로.
+JOOST: Hij heeft u iets geleerd. ||| 당신에게 가르쳐 주셨죠.
+BRAM: Dat water niemand de schuld geeft. ||| 물은 누구도 탓하지 않는다는 거요.
+JOOST: En dat zonder hem een commissie niet was begonnen. ||| 그리고 당신이 없었다면 위원회가 시작되지 않았을 거라는 것도요.
+BRAM: Ik heb alleen een harde schijf doorgestuurd. ||| 하드 디스크를 보냈을 뿐이에요.
+JOOST: Soms is dat genoeg. ||| 가끔은 그걸로 충분합니다.
+KOOIMAN: Mijn vrouw staat in Rotterdam. Ik mag naar huis. ||| 아내가 로테르담에서 기다립니다. 집에 갈 수 있어요.
+JOOST: Er wacht ook een kat. ||| 고양이도 기다리고 있죠.
+KOOIMAN: Hij zal me niet herkennen. ||| 저를 못 알아볼 겁니다.
+JOOST: Dan stelt u zich voor. ||| 그럼 인사를 하시죠.
+SURYO: Meneer Hartog. Kapitein. Ik wil u beiden iets zeggen. ||| 하르토흐 씨. 선장님. 두 분께 드릴 말씀이 있습니다.
+KOOIMAN: Zegt u het maar. ||| 하세요.
+SURYO: U was vijf weken mijn gevangene. Dat is niet eerlijk geweest. Dat zeg ik niet als ambtenaar. Dat zeg ik als mens. ||| 선장님은 5주간 우리의 죄수였습니다. 공정하지 않았어요. 공무원으로서가 아니라 사람으로서 하는 말입니다.
+KOOIMAN: U hebt een dijk verloren. Ik begrijp het. ||| 제방을 잃으셨죠. 이해합니다.
+SURYO: Dat ontslaat me niet. ||| 그렇다고 책임이 없어지지는 않습니다.
+KOOIMAN: Nee. Maar het verklaart wel iets. ||| 아니죠. 하지만 설명은 됩니다.
+SURYO: Ik schenk u dit. Het is een peilschaal. Ik heb hem laten maken in Kandar. Er staan twee nulpunten op. Het oude en het nieuwe. ||| 이걸 드립니다. 수위표예요. 칸다르에서 만들게 했습니다. 영점이 둘 있어요. 옛것과 새것.
+KOOIMAN: Twee nulpunten. ||| 영점이 둘이라.
+SURYO: Voor de dag dat ze samenvallen. ||| 둘이 겹치는 날을 위해서요.
+KOOIMAN: Dank u. ||| 감사합니다.
+JOOST: Meneer Suryo. De commissie. Hoe staat het ervoor? ||| 수리요 차관님. 위원회는 어떻게 진행되고 있습니까?
+SURYO: Gisteren heeft Veldhuis tweehonderdveertien documenten aangeleverd. ||| 어제 펠트하위스가 문서 214건을 제출했습니다.
+JOOST: Tweehonderdveertien. ||| 214건이요.
+SURYO: Vrijwillig. Met een brief van de nieuwe directeur. ||| 자발적으로요. 새 대표의 서한과 함께.
+JOOST: Wie is de nieuwe directeur? ||| 새 대표가 누굽니까?
+SURYO: Een vrouw. Anke Veldhuis. Kleindochter van de oude Veldhuis. Ze schreef: «Mijn grootvader heeft iets gezwegen dat ik niet wil erven». ||| 여성입니다. 안커 펠트하위스. 늙은 펠트하위스의 손녀예요. 이렇게 썼더군요. "할아버지가 침묵한 것을 나는 물려받고 싶지 않다."
+JOOST: Dat is een zin die ik in een lijst zou zetten. ||| 목록에 올릴 만한 문장이군요.
+SURYO: Dat heb ik gedaan. ||| 제가 했습니다.
+## 브뤼셀 — DE PERSCONFERENTIE
+GERBER: Dames en heren van de pers, de commissie heeft een voorlopig oordeel. Ik lees het voor. ||| 언론인 여러분, 위원회의 잠정 판단을 읽겠습니다.
+GERBER: «Eén. Het peil bij de dijkbreuk lag onder de norm die had moeten gelden. Twee. De vrijstelling van artikel vier is vervallen, omdat Veldhuis een haar bekende afwijking niet heeft gemeld. Drie. De Republiek Meranti heeft recht op vergoeding». ||| "하나. 제방 붕괴 시 수위는 적용되었어야 할 기준 이하였다. 둘. 펠트하위스가 알고 있던 편차를 알리지 않았으므로 4조의 면책은 소멸했다. 셋. 메란티 공화국은 배상받을 권리가 있다."
+ESTHER: Mevrouw Gerber, hoeveel? ||| 게르버 박사님, 얼마입니까?
+GERBER: Het eindbedrag volgt in het eindrapport. Maar ik kan zeggen dat de aansprakelijkheid van Veldhuis wordt verlicht, vanwege de vrijwillige aanlevering van documenten. ||| 최종 금액은 최종 보고서에서 나옵니다. 다만 문서를 자발적으로 제출했기에 펠트하위스의 책임이 경감된다고는 말할 수 있습니다.
+ESTHER: Dus wie als eerste spreekt, betaalt minder. ||| 그러니 먼저 말하는 쪽이 덜 낸다는 거네요.
+GERBER: In Nederland zegt men dat zo. Ik zeg: wie transparant is, krijgt krediet. ||| 네덜란드에서는 그렇게 말하죠. 저는 투명한 쪽이 신용을 얻는다고 말하겠습니다.
+ESTHER: Meneer De Wit, wat is uw reactie? ||| 더 위트 씨, 반응이 어떻습니까?
+DEWIT: Mijn cliënt neemt het oordeel ter kennis. Veldhuis stort honderdveertig miljoen in het Delta-Onderhoudsfonds, bovenop de twintig miljoen voorschot. Dat is honderdzestig miljoen. ||| 제 의뢰인은 판단을 받아들입니다. 펠트하위스는 선지급 2천만 유로에 더해 1억 4천만 유로를 델타 유지 기금에 넣습니다. 합계 1억 6천만 유로예요.
+ESTHER: Wat was de oorspronkelijke claim? ||| 원래 청구액은 얼마였습니까?
+DEWIT: Vierhonderd miljoen. ||| 4억 유로였습니다.
+ESTHER: Dus een korting van zestig procent. ||| 60퍼센트 할인이군요.
+DEWIT: Een verlichting. Ik zou het geen korting noemen. ||| 경감입니다. 할인이라고는 부르지 않겠습니다.
+ESTHER: En de Nederlandse overheid? ||| 네덜란드 정부는요?
+JOOST: Mag ik antwoorden? ||| 제가 답해도 될까요?
+GERBER: Meneer Hartog vertegenwoordigt hier de Nederlandse regering. ||| 하르토흐 씨가 여기서 네덜란드 정부를 대표합니다.
+JOOST: De Nederlandse regering draagt dertig miljoen bij. Niet omdat zij aansprakelijk is, maar omdat de zijbrief in 1969 met medeweten van het ministerie is gesloten. ||| 네덜란드 정부는 3천만 유로를 냅니다. 책임이 있어서가 아니라 부수서한이 1969년 부처의 인지 아래 체결됐기 때문입니다.
+ESTHER: Dat is een erkenning. ||| 인정이군요.
+JOOST: Het is een bijdrage. Maar ik begrijp dat u het een erkenning noemt. ||| 기여입니다. 하지만 기자님이 인정이라고 부르시는 건 이해합니다.
+ESTHER: Meneer Hartog. Zal er een parlementaire hoorzitting komen? ||| 하르토흐 씨. 의회 청문회가 열립니까?
+JOOST: Dat is aan de Tweede Kamer. Maar ik zal er zijn als ze het vraagt. ||| 하원이 정할 일입니다. 하지만 요청하면 출석하겠습니다.
+ESTHER: Ook als dat uw carrière kost? ||| 경력을 잃더라도요?
+JOOST: Mijn vader zei: een dijkgraaf die niet durft te zeggen dat de dijk te laag is, is geen dijkgraaf. ||| 아버지가 말씀하셨죠. 제방이 낮다고 말하지 못하는 감독관은 감독관이 아니라고요.
+ESTHER: Dank u. ||| 감사합니다.
++ landziekte = 육지 멀미. 오래 배를 탄 뒤 육지에서 느끼는 어지러움
++ peilschaal = 수위표(수위를 읽는 눈금 막대)
++ zij zwijgt / gezwegen = 침묵하다(과거분사)
++ ter kennis nemen = 접수하다, 알고 받아들이다. 공식 답변의 완곡한 표현
++ vergoeding = 배상
++ verlichting = 경감
++ transparant = 투명한
++ hoorzitting = 청문회
++ Tweede Kamer = 네덜란드 하원
++ een bijdrage / een erkenning = 기여 / 인정. 같은 돈을 어떻게 부르느냐의 차이
