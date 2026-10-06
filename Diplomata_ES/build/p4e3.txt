@@ -1,0 +1,197 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 3
+@title Simancas
+@ko 시망카스
+@setting 2월 4일 살마라 왕실 문서처 서고 → 공증인 사무실 → 밤의 전화
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 45세
+@cast ZAHRA | 왕실 문서처 수석 기록관, 60세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@cast SEFIA | 서점 손녀, 23세
+@cast FERHAT | 공증인(두 번째 유언), 63세
+@cast MARINA | 브뤼셀 EU 파견 직원, 30세 (전화)
+@cast REBECA | 국가정보원(CNI) 연락관, 42세 (전화)
+@note 3화는 세 개의 유언 사본의 출처를 추적하는 조사 화입니다. 문서처의 '인장 대장'에는 번호가 순서대로 기록되어 있어, 사본의 인장 번호가 발급일과 맞는지가 위조의 지문이 됩니다. 역사 논거는 시망카스 문서고(1540~1561): 카를 5세가 국가 문서를 한 곳(시망카스 성)에 모으도록 했고 펠리페 2세가 규칙을 정비해 '문서는 한 곳에, 열쇠는 여럿이'라는 원칙이 만들어졌습니다. 해법의 씨앗은 '단일 등록소'와 '열쇠 세 개'입니다. 어휘는 문서·증거(registro, sello, antedatar, cadena de custodia, archivero)에 주목하세요.
+@next 4화: 군·선주·공주 3자 원탁. 대표를 누가 뽑는가의 문제를 레온 의회(1188)의 '도시별 서명'으로 풉니다.
+
+## 왕실 문서처 — LA CANCILLERÍA REAL
+ZAHRA: Señor Quintana. Soy Zahra Idrissi, archivera mayor. Llevo treinta y cuatro años en estas estanterías. ||| 킨타나 씨. 수석 기록관 자라 이드리시입니다. 34년째 이 서가들 사이에 있어요.
+ÁLVARO: Señora Idrissi, gracias por recibirme sin cita. ||| 이드리시 부인, 약속 없이 만나 주셔서 감사합니다.
+ZAHRA: No le recibo yo. Lo recibe el capitán Kader, que me ha traído un permiso del primer ministro interino. ||| 제가 만나는 게 아니라 카데르 항만장이 임시 총리의 허가서를 가져와서 만나는 겁니다.
+KADER: Y usted y yo sabemos que el permiso es medio válido. ||| 그리고 우리 둘 다 그 허가서가 반쯤만 유효하다는 걸 알죠.
+ZAHRA: Medio es más de lo que he visto esta semana. ||| 반이라도 이번 주 들어 본 것 중엔 제일 낫네요.
+ÁLVARO: ¿Qué quiero ver, señora Idrissi? Un libro con una sola regla: que los números vayan en orden. ||| 제가 보고 싶은 건 하나입니다, 이드리시 부인. 번호가 순서대로 이어져 있다는 단 하나의 규칙을 가진 책이요.
+ZAHRA: El libro de sellos. ||| 인장 대장이군요.
+ÁLVARO: Exacto. ||| 맞습니다.
+ZAHRA: Cada sello de la cancillería tiene un número. Se estampa uno por documento. Se anota la fecha, el funcionario y el motivo. Nunca se repite. ||| 문서처의 인장은 번호가 있습니다. 문서마다 하나씩 찍고, 날짜와 담당자와 사유를 적죠. 절대 중복되지 않아요.
+ÁLVARO: ¿Quién custodia el sello? ||| 인장은 누가 보관합니까?
+ZAHRA: El jefe de protocolo. En una caja con dos llaves. ||| 의전장이요. 열쇠 두 개가 달린 상자에요.
+ÁLVARO: ¿Dos llaves? ||| 열쇠가 둘이요?
+ZAHRA: Una la tiene él. La otra la tengo yo. Antes, claro. ||| 하나는 의전장이, 다른 하나는 제가 갖고 있었어요. 예전에는요.
+ÁLVARO: ¿Y ahora? ||| 지금은요?
+ZAHRA: Hace dos años, el general ordenó una reorganización. Me pidió la llave «para custodia temporal». ||| 2년 전 장군이 개편을 지시했어요. '임시 보관'을 이유로 제 열쇠를 요구했죠.
+ÁLVARO: ¿Se la entregó? ||| 내주셨습니까?
+ZAHRA: No. Dije que era un instrumento del rey. Que solo el rey podía cambiarlo. ||| 아니요. 왕의 도구라서 왕만이 바꿀 수 있다고 했어요.
+ÁLVARO: ¿Y qué ocurrió? ||| 어떻게 됐습니까?
+ZAHRA: Me jubilaron. Pero no se atrevieron a quitarme las estanterías. Sigo viniendo todos los días. Como voluntaria. ||| 은퇴시켰죠. 하지만 서가까지 빼앗지는 못했어요. 지금도 매일 자원봉사자로 나옵니다.
+ÁLVARO: Señora Idrissi, es usted la persona que necesito. ||| 이드리시 부인, 제가 찾던 분이 바로 당신입니다.
+ZAHRA: Eso me dicen los extranjeros cuando necesitan algo. ||| 외국인들은 뭔가 필요할 때 그렇게 말하더군요.
+ÁLVARO: Prometo no decírselo si no es verdad. ||| 사실이 아니면 말하지 않겠다고 약속합니다.
+ZAHRA: Así sí. Venga. ||| 그렇다면 좋아요. 이리 오세요.
+ZAHRA: Aquí. Libro de sellos, años dos mil diecinueve a dos mil veintiséis. ||| 여기요. 인장 대장, 2019년부터 2026년까지.
+ÁLVARO: Tres mil trescientos dieciocho. Primera copia, la de la princesa. ¿Qué dice el registro? ||| 3318번. 첫 번째 사본, 공주의 것입니다. 대장에는 뭐라고 되어 있습니까?
+ZAHRA: Tres mil trescientos dieciocho. Doce de marzo de dos mil diecinueve. «Testamento real. Notario Salim Aït. Presente el rey». ||| 3318. 2019년 3월 12일. '왕의 유언. 공증인 살림 아이트. 왕 참석'.
+ÁLVARO: Correcto. Ahora la segunda copia. El sello del general. ||| 맞습니다. 이제 두 번째 사본, 장군의 것입니다.
+ZAHRA: Su sello lleva el número cuatro mil cuatrocientos setenta y seis. ||| 그 사본의 인장 번호는 4476입니다.
+ÁLVARO: ¿Y la fecha que figura en el texto? ||| 본문에 적힌 날짜는요?
+ZAHRA: Diecisiete de abril de dos mil veintitrés. ||| 2023년 4월 17일입니다.
+ÁLVARO: ¿Qué número tenía el sello ese día? ||| 그날의 인장 번호는 몇이었죠?
+ZAHRA: Déjeme mirar. Abril de dos mil veintitrés… Tres mil novecientos veinte. Tres mil novecientos veintiuno. ||| 보겠습니다. 2023년 4월이면… 3920. 3921.
+ÁLVARO: Entonces el cuatro mil cuatrocientos setenta y seis, ¿cuándo se usó realmente? ||| 그러면 4476은 실제로 언제 쓰였습니까?
+ZAHRA: Voy a buscar. ||| 찾아볼게요.
+ZAHRA: Aquí. Cuatro mil cuatrocientos setenta y seis. Nueve de enero de dos mil veinticinco. «Autorización de pesca. Cooperativa de Tazar». ||| 여기 있네요. 4476. 2025년 1월 9일. '어업 허가. 타자르 협동조합'.
+ÁLVARO: ¿Una licencia de pesca? ||| 어업 허가요?
+ZAHRA: Con ese número. Y ese sello. ||| 그 번호, 그 인장으로요.
+ÁLVARO: O sea, el testamento del general lleva el número de un sello usado en enero de dos mil veinticinco. Pero declara haberse firmado en abril de dos mil veintitrés. ||| 그러니까 장군의 유언에 찍힌 인장 번호는 2025년 1월에 쓰인 것인데, 서명은 2023년 4월이라고 주장하는군요.
+ZAHRA: Veintiún meses de diferencia. ||| 21개월 차이예요.
+KADER: Lo han antedatado. ||| 날짜를 거슬러 적었군요.
+ÁLVARO: Antedatar. Sí. ||| 날짜 소급. 그렇죠.
+ZAHRA: ¿Y la tercera? ||| 세 번째는요?
+ÁLVARO: Cuatro mil ochocientos dos. Fecha en el texto: dos de diciembre de dos mil veinticuatro. ||| 4802. 본문 날짜는 2024년 12월 2일입니다.
+ZAHRA: Cuatro mil ochocientos dos. ||| 4802요.
+ÁLVARO: ¿Qué dice el registro? ||| 대장에는 뭐라고 되어 있습니까?
+ZAHRA: Un momento. ||| 잠시만요.
+ZAHRA: Treinta y uno de enero de dos mil veintiséis. «Cartas credenciales. Embajador de Nordmark». ||| 2026년 1월 31일. '신임장. 노르드마르크 대사'.
+ÁLVARO: Treinta y uno de enero. ||| 1월 31일.
+KADER: El día antes de que el rey muriera. ||| 왕이 서거하기 하루 전이군요.
+ÁLVARO: Y fue estampado en una carta de credenciales de un embajador de Nordmark. ||| 그리고 노르드마르크 대사의 신임장에 찍힌 인장이었고요.
+ZAHRA: El embajador de Nordmark en Tamazia, Lars Berg, presentó sus credenciales ese día. ||| 주타마지아 노르드마르크 대사 라르스 베리가 그날 신임장을 제정했어요.
+ÁLVARO: Es decir, que el sello del testamento de los navieros… ||| 그러니까 선주들 유언의 인장이…
+ZAHRA: … es el sello que se usó con el embajador de Nordmark. ||| …노르드마르크 대사에게 쓰인 바로 그 인장입니다.
+ÁLVARO: Qué casualidad. ||| 우연이 놀랍군요.
+ZAHRA: No existen casualidades en un libro numerado. ||| 번호 매긴 책에는 우연이 없어요.
++ archivero / archivera = 기록관, 문서고 담당자
++ cancillería = (왕실) 문서처, 외교·문서 담당 부서
++ libro de sellos = 인장 대장
++ custodia = 보관, 관리
++ jubilar = 은퇴시키다
++ antedatar = 날짜를 앞당겨(소급해) 적다
++ credenciales = 신임장
++ estampar = (도장을) 찍다
++ jefe de protocolo = 의전장
++ No existen casualidades en un libro numerado. = 번호 매긴 책에는 우연이 없다.
+
+## 시망카스의 교훈 — LA LECCIÓN DE SIMANCAS
+SEFIA: Señor Quintana, mi abuelo me ha dicho que le diga una cosa. ||| 킨타나 씨, 할아버지가 한 가지 전하라고 하셨어요.
+ÁLVARO: Dígame. ||| 말씀하세요.
+SEFIA: Que usted es de un país que tiene un archivo en un castillo. ¿Es verdad? ||| 당신 나라에는 성 안에 문서고가 있다던데, 사실인가요?
+ÁLVARO: Simancas. Una fortaleza cerca de Valladolid. ||| 시망카스입니다. 바야돌리드 근처의 요새예요.
+SEFIA: ¿Y por qué un castillo? ||| 왜 성이죠?
+ÁLVARO: Porque en mil quinientos cuarenta el emperador Carlos Quinto tuvo un problema. Sus papeles estaban dispersos. Unos en Toledo, otros en Madrid, otros en las maletas de los secretarios. ||| 1540년에 카를 5세 황제에게 문제가 생겼기 때문이죠. 문서가 흩어져 있었어요. 톨레도에도, 마드리드에도, 비서들의 가방 속에도요.
+SEFIA: Como aquí. ||| 여기처럼요.
+ÁLVARO: Como aquí. Y cuando un rey muere y los papeles están en tres sitios, cada heredero cree lo que le conviene. ||| 그렇죠. 왕이 죽었는데 문서가 세 곳에 있으면, 후계자마다 자기에게 유리한 걸 믿게 됩니다.
+KADER: ¿Y qué hizo el emperador? ||| 황제는 어떻게 했습니까?
+ÁLVARO: Ordenó llevar los papeles al castillo de Simancas. Y su hijo, Felipe Segundo, escribió unas instrucciones, en mil quinientos sesenta y uno. ||| 문서를 시망카스 성으로 옮기라고 명했습니다. 그리고 아들 펠리페 2세가 1561년에 지침을 썼죠.
+ZAHRA: ¿Qué decían? ||| 무엇이 적혀 있었습니까?
+ÁLVARO: Que cada documento tuviera su sitio. Que hubiera un inventario. Que el archivero respondiera con su nombre. Y que la sala se cerrara con dos llaves, una de ellas en manos de otra persona. ||| 문서마다 제자리가 있을 것, 목록이 있을 것, 기록관이 자기 이름으로 책임질 것, 그리고 방은 열쇠 둘로 잠그고 하나는 다른 사람이 쥘 것.
+ZAHRA: Dos llaves. Como aquí. ||| 열쇠 둘이네요. 여기처럼요.
+ÁLVARO: Hasta que el general pidió una. ||| 장군이 하나를 달라고 하기 전까지는요.
+ZAHRA: Y ahora quieren tres testamentos y tres archivos. ||| 그리고 이제는 유언 셋과 문서고 셋을 원하는군요.
+ÁLVARO: Exacto. La lección es: los documentos de un reino se guardan en un solo sitio. Pero con muchas llaves. ||| 맞습니다. 교훈은 이겁니다. 왕국의 문서는 한곳에 보관하되 열쇠는 여럿으로.
+SEFIA: ¿Cuántas? ||| 몇 개요?
+ÁLVARO: Yo propondría tres. ||| 저는 세 개를 제안하겠습니다.
+SEFIA: ¿De quién? ||| 누구의 것이죠?
+ÁLVARO: Una, de la cancillería. Es decir, la de la señora Idrissi. ||| 하나는 문서처, 즉 이드리시 부인의 것.
+ZAHRA: Me halaga. ||| 영광이네요.
+ÁLVARO: Otra, de un notario independiente. Un colegio de notarios de otro país. Suiza, Francia, quien sea. ||| 또 하나는 독립 공증인, 다른 나라의 공증인 협회 몫입니다. 스위스든 프랑스든 어디든요.
+KADER: ¿Y la tercera? ||| 세 번째는요?
+ÁLVARO: De la plaza. ||| 광장의 것입니다.
+KADER: ¿Cómo se da una llave a la plaza? ||| 광장에 열쇠를 어떻게 줍니까?
+ÁLVARO: Se da a un consejo de ciudades. Catorce ciudades, un representante cada una. ||| 도시 평의회에 맡깁니다. 열네 개 도시에서 대표 한 명씩이죠.
+KADER: Eso lo hablamos mañana. ||| 그건 내일 이야기하죠.
+ÁLVARO: Mañana. ||| 내일요.
+SEFIA: Pero ¿y hoy? ¿Qué hacemos con lo que sabemos? ||| 하지만 오늘은요? 지금 아는 걸로 뭘 하나요?
+ÁLVARO: Hoy vamos a ver al notario Ferhat. ||| 오늘은 페르하트 공증인을 만나러 갑니다.
+
+## 공증인 사무실 — LA NOTARÍA DE FERHAT
+FERHAT: Señores. No les esperaba. ||| 여러분. 오실 줄 몰랐습니다.
+ÁLVARO: Notario Ferhat. Soy Álvaro Quintana. Vengo con la archivera y con el capitán del puerto. ||| 페르하트 공증인님. 알바로 킨타나입니다. 기록관, 항만장과 함께 왔습니다.
+FERHAT: Sé quiénes son. ¿Qué desean? ||| 압니다. 무슨 용무십니까?
+ÁLVARO: Tenemos una pregunta muy sencilla. ¿Dónde firmó usted el testamento fechado el diecisiete de abril de dos mil veintitrés? ||| 아주 간단한 질문입니다. 2023년 4월 17일자 유언은 어디서 서명하셨습니까?
+FERHAT: En el palacio. Está escrito. ||| 궁에서요. 쓰여 있잖습니까.
+ÁLVARO: Está escrito. Y por eso se lo pregunto. ||| 쓰여 있죠. 그래서 묻는 겁니다.
+FERHAT: No entiendo. ||| 이해가 안 되는군요.
+ÁLVARO: El rey estaba en el hospital ese día. Con una sonda en el brazo. El hospital tiene el registro de las visitas. ¿Le visitó usted? ||| 그날 왕은 병원에 계셨습니다. 팔에 관을 꽂고요. 병원에 방문 기록이 있습니다. 방문하셨습니까?
+FERHAT: No. ||| 아니요.
+ÁLVARO: Y el sello de la cancillería que figura en su documento fue estampado el nueve de enero de dos mil veinticinco, en una licencia de pesca. ||| 그리고 문서에 찍힌 문서처 인장은 2025년 1월 9일에 어업 허가서에 쓰인 것입니다.
+FERHAT: Esos son detalles técnicos. ||| 기술적인 세부 사항입니다.
+ÁLVARO: Notario, usted ha pasado treinta años estudiando detalles técnicos. Por eso es notario. ||| 공증인님, 30년간 기술적 세부를 연구해 오셨죠. 그래서 공증인이신 겁니다.
+FERHAT: Yo… ||| 저는…
+ZAHRA: Yusuf. Te conozco desde que éramos estudiantes. Dime la verdad. ||| 유수프. 학생 때부터 아는 사이잖아. 사실대로 말해.
+FERHAT: Zahra. ||| 자라.
+ZAHRA: La verdad. En voz baja, si quieres. ||| 사실을. 원하면 낮은 목소리로라도.
+FERHAT: Me llamaron en enero. Un oficial del ministerio de Defensa. Dijo que el rey, de palabra, había expresado una voluntad. Que había que «regularizarla». ||| 1월에 연락이 왔습니다. 국방부 장교였어요. 왕께서 구두로 뜻을 밝히셨고 그것을 '정식화'해야 한다고 하더군요.
+ÁLVARO: ¿Y usted le preguntó cuándo? ||| 언제 하신 말씀이냐고 물으셨습니까?
+FERHAT: Dijeron que en dos mil veintitrés. En el hospital. Con testigos. ||| 2023년이라고 했어요. 병원에서요. 증인들이 있었다고요.
+ÁLVARO: ¿Y le pidieron que lo fechara en abril? ||| 그리고 4월로 날짜를 적으라고 했습니까?
+FERHAT: Sí. «Para que coincida con la voluntad.» ||| 네. '그 뜻과 일치하도록'이라면서요.
+ÁLVARO: ¿Quién le pagó? ||| 누가 돈을 줬습니까?
+FERHAT: Nadie. Me dijeron que, si no firmaba, mi hijo no tendría plaza en la academia militar. ||| 아무도요. 서명하지 않으면 제 아들이 사관학교에 들어가지 못할 거라고 했습니다.
+KADER: Notario. ||| 공증인님.
+FERHAT: Es mi único hijo. ||| 외아들이에요.
+ÁLVARO: Lo comprendo. Pero tiene que saber algo. Usted no es el único. El tercer notario, el doctor Haddad, está a punto de decir lo mismo. ||| 이해합니다. 하지만 아셔야 할 게 있습니다. 당신만이 아닙니다. 세 번째 공증인 하다드 박사도 곧 같은 말을 할 겁니다.
+FERHAT: ¿A quién? ||| 누구에게요?
+ÁLVARO: A quien le pregunte primero. ||| 먼저 묻는 사람에게요.
+FERHAT: Entonces… ||| 그럼…
+ÁLVARO: Entonces el que cuenta primero, cuenta más barato. ||| 그렇습니다. 먼저 말하는 사람이 더 싸게 치릅니다.
+FERHAT: ¿Qué quieren que haga? ||| 제가 어떻게 하길 원하십니까?
+ÁLVARO: Que deposite una declaración jurada. Ante una persona que no sea del ejército ni de los navieros. ||| 선서 진술서를 제출해 주십시오. 군도 선주도 아닌 사람 앞에서요.
+FERHAT: ¿Ante quién? ||| 누구 앞에서요?
+ÁLVARO: Ante la cónsul de España, que es mi amiga Teresa Montoya. Y ante la archivera. Mañana a las diez. ||| 스페인 영사, 제 친구 테레사 몬토야 앞에서요. 그리고 기록관 앞에서. 내일 10시에.
+FERHAT: Si hago esto, mi hijo… ||| 이렇게 하면 제 아들은…
+ÁLVARO: Su hijo irá a la academia militar si la academia militar sigue siendo una institución. Y si no lo es, tampoco le interesa. ||| 사관학교가 제도로 남아 있다면 들어갈 겁니다. 아니라면 그 애도 가고 싶지 않을 거고요.
+FERHAT: Es una respuesta dura. ||| 가혹한 대답이군요.
+ÁLVARO: Es una respuesta que le debo. Mi hija tiene dieciocho años. ||| 제가 드려야 하는 대답입니다. 제 딸이 열여덟이에요.
+FERHAT: Vendré mañana. ||| 내일 가겠습니다.
++ voluntad = (유언자의) 의사, 뜻
++ regularizar = 정식화하다, 합법화하다
++ declaración jurada = 선서 진술서
++ plaza = (여기서는) 자리, 입학 정원
++ cónsul = 영사
++ a punto de = 막 ~하려는 참인
++ El que cuenta primero, cuenta más barato. = 먼저 말하는 사람이 더 싸게 치른다.
+
+## 밤의 전화 — LAS LLAMADAS DE LA NOCHE
+MARINA: Álvaro, perdona. Es tarde en Bruselas. ||| 알바로, 미안해요. 브뤼셀은 늦은 시간이에요.
+ÁLVARO: Marina. ¿Qué has encontrado? ||| 마리나. 뭘 찾았어요?
+MARINA: Dos cosas. La primera: el programa europeo de acogida costera. Han bloqueado el pago a Tamazia mientras el puerto esté cerrado. Seis millones. ||| 두 가지요. 첫째, 유럽 연안 수용 프로그램이요. 항구가 닫혀 있는 동안 타마지아에 대한 지급이 보류됐어요. 600만 유로.
+ÁLVARO: Eso es lógico. ||| 당연한 조치군요.
+MARINA: La segunda es menos lógica. Hay un colegio de notarios en Ginebra que acepta custodiar documentos reales en situaciones de sucesión disputada. Lo hicieron con Liechtenstein, en los años treinta. ||| 둘째는 덜 당연해요. 제네바에 분쟁 승계 시 왕실 문서를 보관해 주는 공증인 협회가 있어요. 1930년대에 리히텐슈타인에서 한 적도 있고요.
+ÁLVARO: Eso es perfecto. ¿Pueden hacerlo en una semana? ||| 완벽하군요. 일주일 안에 가능합니까?
+MARINA: Dicen que sí, si hay una petición de las tres partes. ||| 세 당사자가 요청하면 가능하답니다.
+ÁLVARO: Las tres partes. Con eso trabajaremos mañana. ||| 세 당사자. 내일 그걸로 움직이죠.
+MARINA: ¿Cómo estás? ||| 어때요?
+ÁLVARO: Cansado. Y bien. ||| 피곤하지만 괜찮아요.
+MARINA: Eso era lo único que quería saber. ||| 제가 알고 싶던 건 그것뿐이에요.
+REBECA: Álvaro, escúchame. ||| 알바로, 들어요.
+ÁLVARO: Rebeca. A estas horas. ||| 레베카. 이 시간에요.
+REBECA: He hecho una cosa que no debía. He mirado el flujo de pagos de un fondo. ||| 하지 말아야 할 일을 했어요. 어느 기금의 지급 흐름을 봤습니다.
+ÁLVARO: ¿Qué fondo? ||| 어느 기금이요?
+REBECA: Septentrio. El fondo soberano de Nordmark. ||| 셉텐트리오요. 노르드마르크 국부 펀드.
+ÁLVARO: ¿Y? ||| 그래서요?
+REBECA: Hace tres semanas, una transferencia de cuatro millones de euros a la Asociación de Navieros de Tamazia. Concepto: «consultoría estratégica». ||| 3주 전, 타마지아 선주 협회에 400만 유로가 이체됐어요. 명목은 '전략 컨설팅'입니다.
+ÁLVARO: Tres semanas antes de la muerte del rey. ||| 왕이 죽기 3주 전이군요.
+REBECA: Sí. ||| 네.
+ÁLVARO: ¿Por qué me lo cuentas? ||| 왜 저에게 이걸 말해 줍니까?
+REBECA: Porque una cosa es no mirar y otra es mirar y callar. ||| 보지 않는 것과 보고도 입을 닫는 것은 다르니까요.
+ÁLVARO: Eso es lo más cercano a una declaración de principios que te he oído. ||| 당신에게서 들어 본 원칙 선언 중 가장 가까운 말이군요.
+REBECA: No te acostumbres. Te guardo una tortilla, ya sabes. ||| 익숙해지진 마요. 토르티야는 남겨 둘게요, 알죠.
+ÁLVARO: Siempre. ||| 늘 그렇죠.
++ colegio de notarios = 공증인 협회
++ flujo de pagos = 지급 흐름
++ transferencia = 이체, 송금
++ consultoría = 컨설팅
++ petición = 요청
++ bloquear el pago = 지급을 보류하다

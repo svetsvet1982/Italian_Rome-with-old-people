@@ -1,0 +1,84 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 3
+@title Simancas
+@ko 시망카스
+@setting 2월 4일 살마라 왕실 문서처 서고 → 공증인 사무실 → 밤의 전화
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 45세
+@cast ZAHRA | 왕실 문서처 수석 기록관, 60세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@cast SEFIA | 서점 손녀, 23세
+@cast FERHAT | 공증인(두 번째 유언), 63세
+@cast MARINA | 브뤼셀 EU 파견 직원, 30세 (전화)
+@cast REBECA | 국가정보원(CNI) 연락관, 42세 (전화)
+@note 3화는 세 개의 유언 사본의 출처를 추적하는 조사 화입니다. 문서처의 '인장 대장'에는 번호가 순서대로 기록되어 있어, 사본의 인장 번호가 발급일과 맞는지가 위조의 지문이 됩니다. 역사 논거는 시망카스 문서고(1540~1561): 카를 5세가 국가 문서를 한 곳(시망카스 성)에 모으도록 했고 펠리페 2세가 규칙을 정비해 '문서는 한 곳에, 열쇠는 여럿이'라는 원칙이 만들어졌습니다. 해법의 씨앗은 '단일 등록소'와 '열쇠 세 개'입니다. 어휘는 문서·증거(registro, sello, antedatar, cadena de custodia, archivero)에 주목하세요.
+@next 4화: 군·선주·공주 3자 원탁. 대표를 누가 뽑는가의 문제를 레온 의회(1188)의 '도시별 서명'으로 풉니다.
+
+## 왕실 문서처 — LA CANCILLERÍA REAL
+ZAHRA: Señor Quintana. Soy Zahra Idrissi, archivera mayor. Llevo treinta y cuatro años en estas estanterías. ||| 킨타나 씨. 수석 기록관 자라 이드리시입니다. 34년째 이 서가들 사이에 있어요.
+ÁLVARO: Señora Idrissi, gracias por recibirme sin cita. ||| 이드리시 부인, 약속 없이 만나 주셔서 감사합니다.
+ZAHRA: No le recibo yo. Lo recibe el capitán Kader, que me ha traído un permiso del primer ministro interino. ||| 제가 만나는 게 아니라 카데르 항만장이 임시 총리의 허가서를 가져와서 만나는 겁니다.
+KADER: Y usted y yo sabemos que el permiso es medio válido. ||| 그리고 우리 둘 다 그 허가서가 반쯤만 유효하다는 걸 알죠.
+ZAHRA: Medio es más de lo que he visto esta semana. ||| 반이라도 이번 주 들어 본 것 중엔 제일 낫네요.
+ÁLVARO: ¿Qué quiero ver, señora Idrissi? Un libro con una sola regla: que los números vayan en orden. ||| 제가 보고 싶은 건 하나입니다, 이드리시 부인. 번호가 순서대로 이어져 있다는 단 하나의 규칙을 가진 책이요.
+ZAHRA: El libro de sellos. ||| 인장 대장이군요.
+ÁLVARO: Exacto. ||| 맞습니다.
+ZAHRA: Cada sello de la cancillería tiene un número. Se estampa uno por documento. Se anota la fecha, el funcionario y el motivo. Nunca se repite. ||| 문서처의 인장은 번호가 있습니다. 문서마다 하나씩 찍고, 날짜와 담당자와 사유를 적죠. 절대 중복되지 않아요.
+ÁLVARO: ¿Quién custodia el sello? ||| 인장은 누가 보관합니까?
+ZAHRA: El jefe de protocolo. En una caja con dos llaves. ||| 의전장이요. 열쇠 두 개가 달린 상자에요.
+ÁLVARO: ¿Dos llaves? ||| 열쇠가 둘이요?
+ZAHRA: Una la tiene él. La otra la tengo yo. Antes, claro. ||| 하나는 의전장이, 다른 하나는 제가 갖고 있었어요. 예전에는요.
+ÁLVARO: ¿Y ahora? ||| 지금은요?
+ZAHRA: Hace dos años, el general ordenó una reorganización. Me pidió la llave «para custodia temporal». ||| 2년 전 장군이 개편을 지시했어요. '임시 보관'을 이유로 제 열쇠를 요구했죠.
+ÁLVARO: ¿Se la entregó? ||| 내주셨습니까?
+ZAHRA: No. Dije que era un instrumento del rey. Que solo el rey podía cambiarlo. ||| 아니요. 왕의 도구라서 왕만이 바꿀 수 있다고 했어요.
+ÁLVARO: ¿Y qué ocurrió? ||| 어떻게 됐습니까?
+ZAHRA: Me jubilaron. Pero no se atrevieron a quitarme las estanterías. Sigo viniendo todos los días. Como voluntaria. ||| 은퇴시켰죠. 하지만 서가까지 빼앗지는 못했어요. 지금도 매일 자원봉사자로 나옵니다.
+ÁLVARO: Señora Idrissi, es usted la persona que necesito. ||| 이드리시 부인, 제가 찾던 분이 바로 당신입니다.
+ZAHRA: Eso me dicen los extranjeros cuando necesitan algo. ||| 외국인들은 뭔가 필요할 때 그렇게 말하더군요.
+ÁLVARO: Prometo no decírselo si no es verdad. ||| 사실이 아니면 말하지 않겠다고 약속합니다.
+ZAHRA: Así sí. Venga. ||| 그렇다면 좋아요. 이리 오세요.
+ZAHRA: Aquí. Libro de sellos, años dos mil diecinueve a dos mil veintiséis. ||| 여기요. 인장 대장, 2019년부터 2026년까지.
+ÁLVARO: Tres mil trescientos dieciocho. Primera copia, la de la princesa. ¿Qué dice el registro? ||| 3318번. 첫 번째 사본, 공주의 것입니다. 대장에는 뭐라고 되어 있습니까?
+ZAHRA: Tres mil trescientos dieciocho. Doce de marzo de dos mil diecinueve. «Testamento real. Notario Salim Aït. Presente el rey». ||| 3318. 2019년 3월 12일. '왕의 유언. 공증인 살림 아이트. 왕 참석'.
+ÁLVARO: Correcto. Ahora la segunda copia. El sello del general. ||| 맞습니다. 이제 두 번째 사본, 장군의 것입니다.
+ZAHRA: Su sello lleva el número cuatro mil cuatrocientos setenta y seis. ||| 그 사본의 인장 번호는 4476입니다.
+ÁLVARO: ¿Y la fecha que figura en el texto? ||| 본문에 적힌 날짜는요?
+ZAHRA: Diecisiete de abril de dos mil veintitrés. ||| 2023년 4월 17일입니다.
+ÁLVARO: ¿Qué número tenía el sello ese día? ||| 그날의 인장 번호는 몇이었죠?
+ZAHRA: Déjeme mirar. Abril de dos mil veintitrés… Tres mil novecientos veinte. Tres mil novecientos veintiuno. ||| 보겠습니다. 2023년 4월이면… 3920. 3921.
+ÁLVARO: Entonces el cuatro mil cuatrocientos setenta y seis, ¿cuándo se usó realmente? ||| 그러면 4476은 실제로 언제 쓰였습니까?
+ZAHRA: Voy a buscar. ||| 찾아볼게요.
+ZAHRA: Aquí. Cuatro mil cuatrocientos setenta y seis. Nueve de enero de dos mil veinticinco. «Autorización de pesca. Cooperativa de Tazar». ||| 여기 있네요. 4476. 2025년 1월 9일. '어업 허가. 타자르 협동조합'.
+ÁLVARO: ¿Una licencia de pesca? ||| 어업 허가요?
+ZAHRA: Con ese número. Y ese sello. ||| 그 번호, 그 인장으로요.
+ÁLVARO: O sea, el testamento del general lleva el número de un sello usado en enero de dos mil veinticinco. Pero declara haberse firmado en abril de dos mil veintitrés. ||| 그러니까 장군의 유언에 찍힌 인장 번호는 2025년 1월에 쓰인 것인데, 서명은 2023년 4월이라고 주장하는군요.
+ZAHRA: Veintiún meses de diferencia. ||| 21개월 차이예요.
+KADER: Lo han antedatado. ||| 날짜를 거슬러 적었군요.
+ÁLVARO: Antedatar. Sí. ||| 날짜 소급. 그렇죠.
+ZAHRA: ¿Y la tercera? ||| 세 번째는요?
+ÁLVARO: Cuatro mil ochocientos dos. Fecha en el texto: dos de diciembre de dos mil veinticuatro. ||| 4802. 본문 날짜는 2024년 12월 2일입니다.
+ZAHRA: Cuatro mil ochocientos dos. ||| 4802요.
+ÁLVARO: ¿Qué dice el registro? ||| 대장에는 뭐라고 되어 있습니까?
+ZAHRA: Un momento. ||| 잠시만요.
+ZAHRA: Treinta y uno de enero de dos mil veintiséis. «Cartas credenciales. Embajador de Nordmark». ||| 2026년 1월 31일. '신임장. 노르드마르크 대사'.
+ÁLVARO: Treinta y uno de enero. ||| 1월 31일.
+KADER: El día antes de que el rey muriera. ||| 왕이 서거하기 하루 전이군요.
+ÁLVARO: Y fue estampado en una carta de credenciales de un embajador de Nordmark. ||| 그리고 노르드마르크 대사의 신임장에 찍힌 인장이었고요.
+ZAHRA: El embajador de Nordmark en Tamazia, Lars Berg, presentó sus credenciales ese día. ||| 주타마지아 노르드마르크 대사 라르스 베리가 그날 신임장을 제정했어요.
+ÁLVARO: Es decir, que el sello del testamento de los navieros… ||| 그러니까 선주들 유언의 인장이…
+ZAHRA: … es el sello que se usó con el embajador de Nordmark. ||| …노르드마르크 대사에게 쓰인 바로 그 인장입니다.
+ÁLVARO: Qué casualidad. ||| 우연이 놀랍군요.
+ZAHRA: No existen casualidades en un libro numerado. ||| 번호 매긴 책에는 우연이 없어요.
++ archivero / archivera = 기록관, 문서고 담당자
++ cancillería = (왕실) 문서처, 외교·문서 담당 부서
++ libro de sellos = 인장 대장
++ custodia = 보관, 관리
++ jubilar = 은퇴시키다
++ antedatar = 날짜를 앞당겨(소급해) 적다
++ credenciales = 신임장
++ estampar = (도장을) 찍다
++ jefe de protocolo = 의전장
++ No existen casualidades en un libro numerado. = 번호 매긴 책에는 우연이 없다.
