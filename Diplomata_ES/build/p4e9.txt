@@ -1,0 +1,216 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 9
+@title Don Juan José
+@ko 돈 후안 호세
+@setting 2월 18일 마드리드발 전화 → 살마라 공주의 집무실 → 소라야의 응접실 → 밤의 안뜰
+@level B2-C1
+@cast ÁLVARO | 외교관 · 안보리 의장 특사, 45세
+@cast GASPAR | 전 장관 비서실장, 현재 민간 자문역·제보자, 48세 (전화)
+@cast LAILA | 타마지아 공주, 38세
+@cast KARIM | 공주의 비서실장, 40세
+@cast SORAYA | 시디 바시르의 부인, 62세
+@cast ZAHRA | 왕실 문서처 수석 기록관, 60세
+@cast KADER | 푸에르토 누에보 항만장, 57세
+@note 9화는 배신의 화입니다. 공주의 최측근 비서실장이 군부에 협상 초안을 미리 넘겨 왔다는 의심이 생깁니다. 가스파르의 경고가 시작이고, 결정적 증거는 서명과 날짜의 역전, 즉 '받았다는 서명이 문서가 확정되기 전 날짜'라는 사실입니다. 역사 논거는 돈 후안 호세의 쿠데타(1677): 펠리페 4세의 서자가 군대를 이끌고 마드리드로 와 어린 카를로스 2세의 궁정을 장악했는데, 궁정 안에 정보원이 있었다는 점이 성공의 열쇠였습니다. 어휘는 정보·배신(filtración, acuse de recibo, cronología, lealtad, confidente)에 주목하세요.
+@next 10화: 모든 세력이 같은 날 같은 광장에서 '내어놓는 것'을 장부에 적고 서명합니다. 몽클로아 협약(1977)이 열쇠입니다.
+
+## 마드리드발 경고 — LA ADVERTENCIA DE MADRID
+GASPAR: Álvaro. Soy yo. No cuelgues. ||| 알바로. 나야. 끊지 마.
+ÁLVARO: Gaspar. Hacía un año que no oía tu voz. ||| 가스파르. 네 목소리를 1년 만에 듣네.
+GASPAR: Un año y tres semanas. Llamo desde un teléfono que no es mío. ||| 1년하고 3주야. 내 것이 아닌 전화로 걸고 있어.
+ÁLVARO: Eso suena a mensaje que no debes dar. ||| 해선 안 될 말을 하려는 것처럼 들리는군.
+GASPAR: Es un mensaje que debo dar. Es distinto. Ya no trabajo para el ministerio, pero sigo oyendo cosas. ||| 해야 하는 말이야. 다르지. 이제 부처 소속은 아니지만 여전히 들리는 게 있어.
+ÁLVARO: ¿Qué has oído? ||| 뭘 들었어?
+GASPAR: Que alguien del entorno de la princesa Laila está pasando información al general. ||| 라일라 공주 측근 누군가가 장군에게 정보를 넘기고 있다는 거.
+ÁLVARO: ¿Quién? ||| 누구?
+GASPAR: No lo sé. Pero tengo una prueba, indirecta. ||| 몰라. 하지만 간접 증거는 있어.
+ÁLVARO: Dime. ||| 말해 봐.
+GASPAR: El contraborrador del general, el que ha entregado esta mañana a la presidencia del Consejo, cita un párrafo del borrador tres de la princesa. ||| 오늘 아침 안보리 의장국에 제출된 장군의 대안 초안이 공주의 3차 초안 한 문단을 인용하고 있어.
+ÁLVARO: Normal. Se lo mandó ella. ||| 당연하지. 공주가 보냈으니까.
+GASPAR: Se lo mandó el dieciocho por la mañana. Y el contraborrador cita un párrafo que ella borró esa misma noche, el diecisiete. ||| 공주는 18일 아침에 보냈어. 그런데 대안 초안은 공주가 17일 밤에 지운 문단을 인용해.
+ÁLVARO: El que ya no estaba en el texto final. ||| 최종본에는 없던 문단이로군.
+GASPAR: Exacto. Alguien le dio al general una versión anterior. ||| 맞아. 누가 장군에게 이전 판본을 준 거야.
+ÁLVARO: Eso no prueba quién. ||| 누구인지는 증명하지 못하네.
+GASPAR: No. Pero prueba cuándo. Y ahí empieza el truco de la fecha. ||| 안 하지. 하지만 언제인지는 증명해. 날짜 이야기가 거기서 시작돼.
+ÁLVARO: ¿Qué truco? ||| 무슨 날짜 이야기?
+GASPAR: Un documento se cita antes de existir. En Madrid, a eso lo llamábamos «adelantar el pasado». ||| 문서가 존재하기도 전에 인용됐어. 마드리드에서 우리는 그걸 '과거를 앞당기기'라고 불렀지.
+ÁLVARO: Estás hablando como mi viejo maestro. ||| 내 옛 스승처럼 말하는군.
+GASPAR: Aprendí de ti, aunque no te lo dije nunca. ||| 너한테 배웠어. 말한 적은 없지만.
+ÁLVARO: Gaspar, ¿por qué me llamas? ||| 가스파르, 왜 전화한 거야?
+GASPAR: Porque fui rival tuyo diez años. Y no quiero que pierdas un país por una filtración que yo podía haber evitado. ||| 10년 동안 너의 라이벌이었으니까. 내가 막을 수 있었던 유출 때문에 네가 한 나라를 잃는 걸 원치 않아.
+ÁLVARO: Gracias. ||| 고맙다.
+GASPAR: No me des las gracias. Dame un café cuando vuelvas. ||| 고마워하지 말고 돌아오면 커피나 한 잔 사.
+ÁLVARO: Hecho. ||| 약속해.
+GASPAR: Cuídate. ||| 몸조심해.
++ filtración = 유출
++ contraborrador = 대안 초안
++ entorno = 측근, 주변
++ indirecto = 간접적인
++ truco = 속임수, 요령
++ adelantar = 앞당기다
++ colgar = 전화를 끊다
++ rival = 라이벌
++ contrapropuesta = 역제안
+
+## 공주의 집무실 — EL DESPACHO DE LA PRINCESA
+LAILA: ¿Y esa cara? ||| 얼굴이 왜 그래요?
+ÁLVARO: Alteza. Tengo que contarle algo desagradable. ||| 공주님. 불쾌한 이야기를 드려야 합니다.
+LAILA: Siéntese. Karim, tráenos té. ||| 앉으세요. 카림, 차를 가져와요.
+KARIM: Enseguida, alteza. ||| 바로 가져오겠습니다, 공주님.
+ÁLVARO: Prefiero que se quede, señor Sebti. Lo que voy a decir también le concierne. ||| 남아 주셨으면 합니다, 세브티 씨. 제가 할 말은 당신에게도 관련됩니다.
+KARIM: Cómo no. ||| 물론이죠.
+ÁLVARO: Alteza, el contraborrador del general cita un párrafo de su borrador tres. Un párrafo que usted eliminó la noche del diecisiete. ||| 공주님, 장군의 대안 초안이 공주님 3차 초안의 한 문단을 인용합니다. 17일 밤 삭제하신 문단입니다.
+LAILA: ¿Está seguro? ||| 확실합니까?
+ÁLVARO: Lo está diciendo el propio texto. ||| 텍스트 자체가 말하고 있습니다.
+LAILA: Entonces alguien tuvo acceso a mi borrador. Antes de que lo mandara. ||| 그럼 누군가 제가 보내기 전에 초안에 접근했다는 말이군요.
+ÁLVARO: Es la hipótesis. ||| 가설입니다.
+LAILA: Cinco personas vieron ese borrador. Mi madre. Mi abogada. Karim. El profesor Tahar. Y yo. ||| 그 초안을 본 사람은 다섯입니다. 어머니, 제 변호사, 카림, 타하르 교수, 그리고 저요.
+ÁLVARO: Cinco. ||| 다섯 명이군요.
+LAILA: Ninguna lo haría. ||| 누구도 그러지 않을 겁니다.
+ÁLVARO: Alteza, permítame recordar algo. Mil seiscientos setenta y siete. Don Juan José de Austria. ||| 공주님, 하나 상기시켜 드리겠습니다. 1677년, 돈 후안 호세 데 아우스트리아입니다.
+LAILA: Un nombre que conozco por los libros de mi tía. ||| 이모의 책에서 들어 본 이름이에요.
+ÁLVARO: Hijo natural del rey Felipe Cuarto. Mucho más listo que su medio hermano, el joven Carlos Segundo, que tenía quince años. Y mucho más ambicioso. ||| 펠리페 4세의 서자였습니다. 이복동생인 열다섯 살 카를로스 2세보다 훨씬 영리하고 훨씬 야심만만했죠.
+KARIM: ¿Y qué hizo? ||| 어떻게 했습니까?
+ÁLVARO: Marchó con tropas desde Aragón hasta Madrid, en enero. Y la reina madre, Mariana de Austria, tuvo que retirarse. ||| 1월에 아라곤에서 군대를 이끌고 마드리드로 행군했습니다. 그리고 왕비 마리아나, 즉 대비는 물러나야 했어요.
+LAILA: Un golpe. ||| 쿠데타였군요.
+ÁLVARO: Un golpe con documentos firmados. Y con informantes dentro de la propia corte. Los que rodeaban a la reina madre sabían qué decía ella antes de que lo dijera. ||| 서명된 문서와 궁정 안의 정보원이 있는 쿠데타였습니다. 대비 주변 사람들은 대비가 말하기도 전에 무슨 말을 할지 알았어요.
+LAILA: ¿Y a la reina madre nadie le avisó? ||| 대비에게는 아무도 경고하지 않았나요?
+ÁLVARO: Dicen que alguien lo intentó, pero tarde. Y la lección es que, cuando se sospecha, hay que mirar primero las fechas de los documentos, no el corazón de la gente. ||| 누군가 시도했지만 늦었다고들 합니다. 교훈은 의심이 들 때 사람들의 마음이 아니라 문서의 날짜부터 봐야 한다는 겁니다.
+LAILA: ¿Usted ha mirado las fechas? ||| 날짜를 보셨습니까?
+ÁLVARO: Esta mañana. Y quiero pedir una cosa. ||| 오늘 아침에요. 그리고 부탁이 하나 있습니다.
+LAILA: Pida. ||| 하세요.
+ÁLVARO: Que no investiguemos a nadie. Que miremos un registro. Uno solo. ||| 아무도 조사하지 말자는 겁니다. 등록부 하나만 봅시다.
+LAILA: ¿Cuál? ||| 어느 것이요?
+ÁLVARO: El libro de entradas del cuartel general del ejército. ||| 군 총사령부의 수령 장부입니다.
+KARIM: Ese libro es secreto. ||| 그 장부는 기밀입니다.
+ÁLVARO: Lo es. Y por eso no voy a pedírselo al general. ||| 그렇죠. 그래서 장군에게 요청하지 않을 겁니다.
+LAILA: ¿A quién? ||| 그럼 누구에게요?
+ÁLVARO: A quien lo conoce desde dentro. ||| 안쪽에서 아는 사람에게요.
++ borrador = 초안
++ concernir = ~와 관련되다
++ hipótesis = 가설
++ hijo natural = 서자
++ reina madre = 대비(왕의 어머니)
++ informante = 정보원
++ sospechar = 의심하다
++ libro de entradas = 수령 장부
++ cuartel general = 사령부
+
+## 소라야의 응접실 — EL SALÓN DE SORAYA
+SORAYA: Señor Quintana. ||| 킨타나 씨.
+ÁLVARO: Señora. Gracias por recibirme. ||| 부인. 만나 주셔서 감사합니다.
+SORAYA: Mi hermana me ha llamado. Dice que me pida perdón en tres idiomas. Se lo agradezco, pero no la voy a obedecer. ||| 언니가 전화했어요. 세 가지 언어로 사과하라더군요. 고맙지만 따르진 않을 거예요.
+ÁLVARO: No vengo a pedirle perdón. Vengo a pedirle un favor. ||| 사과하러 온 게 아닙니다. 부탁이 하나 있어서요.
+SORAYA: Un favor del cuartel general. ||| 총사령부에 관한 부탁이겠죠.
+ÁLVARO: ¿Cómo lo sabe? ||| 어떻게 아십니까?
+SORAYA: Mi marido lleva cuarenta años hablando dormido. ||| 남편은 40년째 잠꼬대를 해요.
+ÁLVARO: Entonces sabrá de qué libro hablo. ||| 그럼 어떤 장부 이야기인지 아시겠군요.
+SORAYA: El libro de las entradas. Lo lleva un suboficial. Se llama Ismail. Es sobrino de mi cocinera. ||| 수령 장부요. 부사관이 작성하죠. 이름은 이스마일이고 제 요리사의 조카예요.
+ÁLVARO: Yo no le pido que lo robe. ||| 훔쳐 오라는 게 아닙니다.
+SORAYA: ¿Entonces? ||| 그럼요?
+ÁLVARO: Le pido que le diga a Ismail que, si alguien le pregunta el diecisiete de febrero, diga la verdad. ||| 2월 17일에 대해 누가 물으면 사실대로 말하라고 이스마일에게 전해 주십시오.
+SORAYA: ¿Y qué verdad es esa? ||| 그게 어떤 사실이죠?
+ÁLVARO: No la sé. Por eso se la pido. ||| 모릅니다. 그래서 부탁드리는 겁니다.
+SORAYA: Es una petición muy rara. ||| 아주 이상한 부탁이군요.
+ÁLVARO: Es una petición muy segura. Nadie puede acusarla de nada. ||| 아주 안전한 부탁이기도 하죠. 누구도 부인을 비난할 수 없으니까요.
+SORAYA: Mi marido me acusaría de traición. ||| 남편은 제가 배신했다고 하겠죠.
+ÁLVARO: ¿Y usted qué diría? ||| 부인은 뭐라고 하실 겁니까?
+SORAYA: Que firmé un papel con mi hermana. Y que en ese papel decía: «Quien incumpla lo oirá leído en la plaza». ||| 언니와 문서에 서명했다고 하겠죠. 그리고 그 문서에 '어기는 자는 광장에서 낭독되는 것을 듣게 된다'고 적혀 있다고요.
+ÁLVARO: Un papel que ha obligado a todos. ||| 모두를 구속한 문서죠.
+SORAYA: Un papel que me ha obligado a mí primero. ||| 저를 가장 먼저 구속한 문서죠.
+SORAYA: Espere. ||| 기다리세요.
+SORAYA: Ismail. Pasa. ||| 이스마일. 들어와요.
+ISMAIL: Señora. ||| 마님.
+SORAYA: Este caballero es de confianza. Quiero que le cuentes lo que me contaste a mí el martes. ||| 이분은 믿을 수 있는 분이에요. 화요일에 내게 한 이야기를 들려드리세요.
+ISMAIL: Señora, es información del cuartel. ||| 마님, 부대 정보입니다.
+SORAYA: Es información del reino. ||| 왕국의 정보예요.
+ISMAIL: Está bien. Señor, el diecisiete de febrero, por la noche, a las veintidós cuarenta, vino a mi puesto un mensajero civil. Traía un sobre. ||| 알겠습니다. 선생님, 2월 17일 밤 22시 40분에 민간인 전령이 제 초소에 왔습니다. 봉투를 가져왔어요.
+ÁLVARO: ¿Quién era? ||| 누구였습니까?
+ISMAIL: Un chófer. No sé su nombre. Pero firmó el libro de entradas. Lo recuerdo porque firmó con la mano izquierda. ||| 운전사였어요. 이름은 모릅니다. 하지만 수령 장부에 서명했습니다. 왼손으로 서명해서 기억해요.
+ÁLVARO: ¿Y qué ponía en el sobre? ||| 봉투에 무엇이 적혀 있었습니까?
+ISMAIL: «Del Gabinete de Su Alteza. Borrador tres. Para S.E. el general.» ||| '공주 비서실. 3차 초안. 총사령관 각하께.'
+ÁLVARO: ¿Recuerda la firma? ||| 서명을 기억하십니까?
+ISMAIL: Una K. Una K y una S. ||| K와 S였어요.
+ÁLVARO: K. S. Karim Sebti. ||| K, S. 카림 세브티.
+ISMAIL: No he dicho eso. ||| 그렇게 말하진 않았습니다.
+ÁLVARO: Tiene usted razón. Usted ha dicho solo lo que vio. ||| 맞습니다. 본 것만 말씀하셨죠.
+ISMAIL: Y la fecha. Diecisiete de febrero. Veintidós cuarenta. ||| 그리고 날짜요. 2월 17일 22시 40분.
+ÁLVARO: Diecisiete a las veintidós cuarenta. Y el borrador tres se aprobó el dieciocho a las ocho de la mañana. ||| 17일 22시 40분이군요. 그리고 3차 초안은 18일 오전 8시에 승인됐습니다.
+SORAYA: Es decir, se firmó un recibo de algo que aún no existía. ||| 그러니까 아직 존재하지 않던 문서의 수령증에 서명한 거네요.
+ÁLVARO: Eso. ||| 그렇습니다.
+SORAYA: Se llama «acuse de recibo anticipado». ||| '사전 수령 확인'이라고 하죠.
+ÁLVARO: Se llama «el pasado, adelantado». ||| '앞당겨진 과거'라고 합니다.
+SORAYA: Mi marido no sabe que usted tiene esto. ||| 남편은 당신이 이걸 갖고 있다는 걸 모릅니다.
+ÁLVARO: No lo tengo. No he copiado nada. Solo he oído a un suboficial. ||| 갖고 있지 않습니다. 복사한 것도 없고요. 부사관 한 분의 말을 들었을 뿐입니다.
+SORAYA: Y el suboficial es sobrino de mi cocinera. ||| 그리고 그 부사관은 제 요리사의 조카고요.
+ÁLVARO: Una cadena de confianza muy corta. ||| 아주 짧은 신뢰의 사슬이군요.
+SORAYA: Las más cortas son las que no se rompen. ||| 가장 짧은 것이 끊어지지 않는 법이죠.
++ suboficial = 부사관
++ mensajero = 전령
++ chófer = 운전사
++ recibo = 수령증, 영수증
++ acuse de recibo = 수령 확인
++ anticipado = 사전의, 앞당겨진
++ puesto = 초소, 자리
++ de confianza = 믿을 만한
++ cadena de confianza = 신뢰의 사슬
+
+## 안뜰 — EL PATIO
+KARIM: Me ha pedido que viniera. Aquí estoy. ||| 오라고 하셔서 왔습니다.
+ÁLVARO: Karim. Gracias. ||| 카림. 고맙습니다.
+KARIM: ¿De qué se trata? ||| 무슨 일입니까?
+ÁLVARO: De un chófer que firmó con la mano izquierda. ||| 왼손으로 서명한 운전사에 관해서요.
+KARIM: ... ||| …
+ÁLVARO: ¿Lo conoce? ||| 아십니까?
+KARIM: Es mi primo. ||| 제 사촌입니다.
+ÁLVARO: ¿Y por qué fue al cuartel el diecisiete por la noche? ||| 그런데 17일 밤 왜 부대에 갔을까요?
+KARIM: Yo le mandé. ||| 제가 보냈습니다.
+ÁLVARO: ¿Con qué? ||| 무엇을 들려서요?
+KARIM: Con el borrador tres. ||| 3차 초안을요.
+ÁLVARO: ¿Por qué? ||| 왜요?
+KARIM: Porque tenía miedo. ||| 겁이 났으니까요.
+ÁLVARO: ¿De qué? ||| 무엇이요?
+KARIM: De la guerra. De que el general leyera el texto por primera vez en la mesa, delante de todos, y se sintiera humillado. Pensé que si lo leía antes, en casa, con calma… ||| 전쟁이요. 장군이 식탁에서 모두가 보는 앞에서 처음 텍스트를 읽고 모욕감을 느낄까 봐서요. 집에서 미리 차분히 읽으면…
+ÁLVARO: No se sentiría humillado. ||| 모욕을 느끼지 않을 거라고요.
+KARIM: Y aceptaría. ||| 그리고 받아들일 거라고요.
+ÁLVARO: ¿Le dijo a la princesa que lo hacía? ||| 공주님께 하겠다고 말씀드렸습니까?
+KARIM: No. ||| 아니요.
+ÁLVARO: ¿Por qué no? ||| 왜요?
+KARIM: Porque ella habría dicho que no. ||| 공주님은 안 된다고 하셨을 테니까요.
+ÁLVARO: Y habría tenido razón. ||| 그리고 옳으셨겠죠.
+KARIM: Lo sé. ||| 압니다.
+ÁLVARO: Karim, ¿recibió algo a cambio? ||| 카림, 대가를 받은 게 있습니까?
+KARIM: Nada. ||| 아무것도요.
+ÁLVARO: ¿Le prometieron algo? ||| 약속받은 것은요?
+KARIM: Me dijeron que, si la paz llegaba, me recordarían. ||| 평화가 오면 저를 기억해 주겠다고 했습니다.
+ÁLVARO: ¿Quién le dijo eso? ||| 누가 그렇게 말했죠?
+KARIM: Un coronel. Del círculo del general. ||| 장군 측근의 대령이요.
+ÁLVARO: Y usted pensó que era un acuerdo. ||| 그래서 약속이라고 생각하셨군요.
+KARIM: Pensé que era el principio de uno. ||| 합의의 시작이라고 생각했습니다.
+ÁLVARO: Karim, le voy a decir una cosa. Su intención era buena. Y aun así, hizo lo mismo que el informante de Don Juan José. ||| 카림, 하나 말씀드리죠. 의도는 좋았습니다. 그래도 돈 후안 호세의 정보원과 같은 일을 했어요.
+KARIM: Eso es injusto. ||| 부당한 말씀이군요.
+ÁLVARO: ¿Lo es? Don Juan José también tenía amigos que creían que servían a la paz. «Si el rey joven tiene a su hermano al lado, habrá concordia», decían. Y mandaron los papeles por adelantado. ||| 그럴까요? 돈 후안 호세에게도 평화를 위해 일한다고 믿던 친구들이 있었습니다. '어린 왕 곁에 형이 있으면 화합이 올 것'이라고 했죠. 그리고 문서를 미리 보냈어요.
+KARIM: ¿Y qué pasó? ||| 그래서 어떻게 됐습니까?
+ÁLVARO: Que ganaron el golpe. Y la corte descubrió que no se podía confiar en nadie de dentro. ||| 쿠데타에는 성공했습니다. 그리고 궁정은 안쪽의 누구도 믿을 수 없다는 걸 알게 됐죠.
+KARIM: ¿Y qué debo hacer yo? ||| 그럼 저는 어떻게 해야 합니까?
+ÁLVARO: Decírselo a la princesa. Hoy. Antes de que se entere por otro. ||| 오늘 공주님께 말씀드리는 겁니다. 다른 사람에게서 듣기 전에.
+KARIM: Me destituirá. ||| 저를 해임하실 겁니다.
+ÁLVARO: Probablemente. Pero habrá sido usted quien lo dijo primero. ||| 그럴 수 있습니다. 하지만 먼저 말한 사람은 당신이 됩니다.
+KARIM: Eso lo he oído antes. ||| 그 말은 전에도 들었습니다.
+ÁLVARO: Mucha gente lo oye. Pocos lo hacen. ||| 많은 사람이 듣죠. 실행하는 사람은 드뭅니다.
+KARIM: Voy ahora mismo. ||| 지금 당장 가겠습니다.
+ÁLVARO: Y Karim. ||| 그리고 카림.
+KARIM: ¿Sí? ||| 네?
+ÁLVARO: La princesa lo ha dicho en una ocasión: la que escribe no firma, la que firma no escribe. Usted ha firmado algo que no había escrito. Hoy, escríbalo usted y fírmelo ella. ||| 공주님이 한 번 말씀하셨죠. 쓰는 사람은 서명하지 않고, 서명하는 사람은 쓰지 않는다고. 당신은 쓰지 않은 것에 서명했습니다. 오늘은 당신이 쓰고 공주님이 서명하게 하십시오.
+KARIM: Una declaración. ||| 진술서 말씀이군요.
+ÁLVARO: Una declaración. ||| 진술서입니다.
++ destituir = 해임하다
++ concordia = 화합
++ por adelantado = 미리, 선불로
++ intención = 의도
++ golpe = 쿠데타
++ informante = 정보원
++ círculo = 측근 그룹
++ declaración = 진술서, 성명
