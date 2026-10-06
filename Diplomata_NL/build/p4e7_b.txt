@@ -1,0 +1,107 @@
+
+## 검문소 — WEER DE CONTROLEPOST
+SERSAN: Meneer Hartog. Ik moest u iets zeggen. ||| 하르토흐 씨. 말씀드릴 게 있습니다.
+JOOST: Hallo, sergeant. ||| 안녕하세요, 하사님.
+SERSAN: Er is een bevel gekomen. Vanuit het hoofdkwartier. Ik moet iedereen aanhouden die palen verwijdert. ||| 본부에서 명령이 내려왔습니다. 말뚝을 제거하는 사람은 누구든 체포하라고요.
+JOOST: Niemand heeft palen verwijderd. ||| 아무도 말뚝을 제거하지 않았습니다.
+SERSAN: Dat zie ik. Ik zie bordjes. ||| 보이네요. 팻말이 보입니다.
+JOOST: Is dat verboden? ||| 그게 금지돼 있습니까?
+SERSAN: Het staat niet in het bevel. ||| 명령서에는 없습니다.
+JOOST: Dan zijn we in orde. ||| 그럼 문제없군요.
+SERSAN: Mijn moeder zegt dat ze mooi zijn. ||| 어머니는 예쁘다고 하세요.
+JOOST: Mooi? ||| 예쁘다고요?
+SERSAN: Ze zegt: zo hoort een grens eruit te zien. Met een naam. ||| 경계는 그렇게 생겨야 한다고요. 이름이 있는 걸로.
+JOOST: Zegt u haar dank. ||| 어머님께 감사하다고 전해 주세요.
+SERSAN: Meneer, ik heb een vraag. Mag een militair meehelpen? ||| 선생님, 질문이 있습니다. 군인이 거들어도 됩니까?
+JOOST: Waarmee? ||| 무엇을요?
+SERSAN: Met de zandzakken. Over twee dagen. Mijn eenheid is vrij. ||| 모래주머니요. 이틀 뒤에요. 제 부대는 비번입니다.
+JOOST: Dat is de generaal niet gewend. ||| 장군이 달가워하지 않을 텐데요.
+SERSAN: Dat weet ik. Ik meld het op het logboek. Op verzoek van de minister. ||| 압니다. 근무일지에 적겠습니다. 장관 요청으로요.
+JOOST: Dat heb ik u geleerd. ||| 제가 가르쳐 드린 거네요.
+SERSAN: Eerst melden, dan ben je gedekt. ||| 먼저 알리면 보호받는다.
+JOOST: Zo is het. ||| 그렇습니다.
+
+## 저녁 통화 — HET AVONDGESPREK
+NOOR: Pap, Sanne is gebeld. Ze heeft iets voor je. ||| 아빠, 산네 씨가 연락했어요. 아빠한테 전할 게 있대요.
+JOOST: Wat voor iets? ||| 무슨 거요?
+NOOR: Een document. Ze zegt dat het over de generaal gaat en over Landwinning. ||| 문서요. 장군과 란트빈닝에 관한 거래요.
+JOOST: Waar is ze? ||| 어디 있죠?
+NOOR: In Kandar. In het hotel naast het ministerie. ||| 칸다르요. 부처 옆 호텔에요.
+JOOST: Zeg haar: over een uur. ||| 한 시간 뒤라고 전해라.
+NOOR: Pap, voor je gaat. Mag ik iets vragen? ||| 아빠, 가시기 전에 하나 물어도 돼요?
+JOOST: Zeg het. ||| 말해 봐.
+NOOR: Als je een document hebt dat bewijst dat de generaal liegt, maar het is illegaal verkregen, mag je het dan gebruiken? ||| 장군이 거짓말한다는 걸 증명하는 문서가 있는데 불법으로 얻은 거라면, 써도 돼요?
+JOOST: Dat is een mooie vraag. ||| 좋은 질문이구나.
+NOOR: Ik heb het bij staatsrecht gehad. Daar mag het soms. ||| 헌법 시간에 배웠어요. 어떤 경우엔 허용되기도 하더라고요.
+JOOST: En wat vind jij? ||| 네 생각은?
+NOOR: Ik weet het niet. Daarom vraag ik het. ||| 모르겠어요. 그래서 묻는 거예요.
+JOOST: Laat mij eerst lezen. ||| 먼저 읽어 보마.
+NOOR: En als het waar is? ||| 사실이면요?
+JOOST: Dan nog. Dan nog niet meteen. ||| 사실이어도 바로 쓰진 않아.
+NOOR: Waarom niet? ||| 왜요?
+JOOST: Omdat de manier waarop je iets krijgt, bepaalt of je het kunt blijven gebruiken. ||| 어떻게 얻었느냐가 계속 쓸 수 있느냐를 정하니까.
+NOOR: Zoals Vermuyden. ||| 페르뮈던처럼요.
+JOOST: Hoe bedoel je? ||| 무슨 뜻이니?
+NOOR: Hij had goede sloten. Maar hij kreeg ze zonder toestemming. Daarom bleven ze niet staan. ||| 수로는 좋았지만 허락 없이 얻은 거라서 남지 못했어요.
+JOOST: Dat is scherp. ||| 날카롭구나.
+NOOR: Ik leer van een goede leraar. ||| 훌륭한 선생님께 배웠어요.
+JOOST: Dank je. Maar je moeder was beter. ||| 고맙다. 하지만 네 엄마가 더 좋은 선생이었지.
+NOOR: Mama zou zeggen: ga naar Sanne. ||| 엄마라면 산네 씨에게 가라고 했을 거예요.
+JOOST: Ik ga. ||| 간다.
+
+## 호텔 바 — DE HOTELBAR
+SANNE: Ga zitten. Neem koffie. Het is slecht, maar het is warm. ||| 앉아요. 커피 들어요. 맛은 없지만 따뜻해요.
+JOOST: Sanne. Je hebt iets voor mij. ||| 산네. 저에게 줄 게 있다고요.
+SANNE: Zeven pagina's. Titel: «Plan Meranti Nieuw». ||| 7쪽이에요. 제목은 '새 메란티 계획'.
+JOOST: Waar is het vandaan? ||| 어디서 났죠?
+SANNE: Dat zeg ik niet. ||| 말하지 않겠어요.
+JOOST: Is het legaal verkregen? ||| 합법적으로 얻은 겁니까?
+SANNE: Het is... grijs. ||| 회색이에요.
+JOOST: Dan lees ik het niet. ||| 그럼 읽지 않겠습니다.
+SANNE: Joost. ||| 요스트.
+JOOST: Sanne. ||| 산네.
+SANNE: Je hebt me ooit zelf gezegd: een document dat je niet leest, kun je niet vergeten. ||| 당신이 예전에 말했잖아요. 읽지 않은 문서는 잊을 수 없다고.
+JOOST: Dat zei ik. ||| 그랬죠.
+SANNE: Dan lees je. En daarna doe je wat je wilt. ||| 그럼 읽어요. 그리고 원하는 대로 하세요.
+JOOST: Ik lees het hardop. Met u erbij. Zo ben je getuige. ||| 소리 내어 읽겠습니다. 당신이 곁에 있는 채로요. 그래야 증인이 되니까요.
+SANNE: Goed. ||| 좋아요.
+JOOST: «Fase één: afkondiging van de noodtoestand zes uur voor de landing.» ||| "1단계: 상륙 6시간 전 비상사태 선포."
+SANNE: Dat wisten we. ||| 알던 내용이죠.
+JOOST: «Fase twee: bevolking van de herstelzone wordt geëvacueerd naar kampen aan de kust.» ||| "2단계: 복구 구역 주민을 해안 수용소로 대피시킨다."
+SANNE: Kampen. ||| 수용소요.
+JOOST: «Fase drie: na de storm wordt de herstelzone een speciale economische zone verklaard. Landwinning heeft het eerste recht op aankoop.» ||| "3단계: 폭풍 뒤 복구 구역을 경제특구로 선포한다. 란트빈닝이 우선 매수권을 가진다."
+SANNE: Het eerste recht. ||| 우선 매수권.
+JOOST: «Prijs: de waarde van vóór de storm, min de schade.» ||| "가격: 폭풍 전 가치에서 피해액을 뺀 값."
+SANNE: Dus hoe groter de schade, hoe lager de prijs. ||| 피해가 클수록 값이 싸지네요.
+JOOST: Hoe groter de schade, hoe lager de prijs. ||| 피해가 클수록 값이 싸지죠.
+SANNE: Dat is een prikkel. ||| 유인이군요.
+JOOST: Dat is een reden om de schade groot te laten worden. ||| 피해가 커지도록 놔둘 이유입니다.
+SANNE: Joost, dit is een misdrijf. ||| 요스트, 이건 범죄예요.
+JOOST: Dit is een plan voor een misdrijf. Dat is iets anders. ||| 범죄 계획이죠. 그건 다릅니다.
+SANNE: Wat doe je ermee? ||| 어떻게 하실 건가요?
+JOOST: Eén ding niet: ik publiceer het niet. ||| 하나는 안 합니다. 공개하지 않아요.
+SANNE: Waarom niet? ||| 왜요?
+JOOST: Omdat als ik het publiceer, wordt het een zaak over hoe wij eraan kwamen. Niet over wat erin staat. ||| 공개하면 안에 든 내용이 아니라 우리가 어떻게 입수했는지가 쟁점이 되니까요.
+SANNE: En als je niets doet? ||| 아무것도 안 하면요?
+JOOST: Ik doe iets. Ik stel vragen. Drie. In het openbaar. ||| 합니다. 질문을 하죠. 세 가지를, 공개적으로.
+SANNE: Welke? ||| 어떤 질문이죠?
+JOOST: Eén: bestaat er een document met de titel «Plan Meranti Nieuw»? Twee: heeft Landwinning een eerste recht op aankoop van land in de herstelzone? Drie: wordt de prijs bepaald door voor-storm-waarde min schade? ||| 하나, '새 메란티 계획'이라는 문서가 있는가. 둘, 란트빈닝이 복구 구역 토지의 우선 매수권을 가지는가. 셋, 가격이 폭풍 전 가치에서 피해액을 뺀 값으로 정해지는가.
+SANNE: Dat zijn ja-nee-vragen. ||| 예, 아니오로 답하는 질문이네요.
+JOOST: Ja. Zo kan hij niet draaien. ||| 네. 그래서 빠져나갈 수 없죠.
+SANNE: En als hij ontkent? ||| 부인하면요?
+JOOST: Dan heeft hij tegen de camera gelogen. En dan komt de rest vanzelf. ||| 그럼 카메라 앞에서 거짓말한 겁니다. 나머지는 저절로 드러나요.
+SANNE: Dat is... elegant. ||| 우아하군요.
+JOOST: Het is Vermuyden omgekeerd. Niet doen zonder toestemming. Vragen met iedereen erbij. ||| 페르뮈던의 반대죠. 허락 없이 하는 게 아니라 모두가 보는 앞에서 묻는 겁니다.
+SANNE: Ik geef je een tip. Hij zal nee zeggen. ||| 한 가지 알려 줄게요. 그는 아니라고 할 거예요.
+JOOST: Dat hoop ik. ||| 그러길 바랍니다.
+SANNE: Waarom? ||| 왜요?
+JOOST: Omdat een nee dat later onwaar blijkt, duurder is dan een ja. ||| 나중에 거짓으로 드러나는 '아니오'가 '예'보다 비싸니까요.
++ afkondiging = 선포
++ speciale economische zone = 경제특구
++ eerste recht op aankoop = 우선 매수권
++ misdrijf = 범죄
++ prikkel = 유인, 자극
++ draaien = (질문을) 피해 가다, 빙빙 돌리다
++ getuige = 증인
++ grijs = 회색의(합법과 불법의 경계에 있다는 뜻)
++ ja-nee-vraag = 예/아니오 질문
