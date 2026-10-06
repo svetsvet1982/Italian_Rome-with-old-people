@@ -1,0 +1,168 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 5
+@title De getuige
+@ko 증인
+@setting 화요일 오전 보르뷔르흐 시민 텃밭(volkstuin) 오두막 → 밤 헤이그 외무부
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast FEMKE | 분석관, 32세
+@cast BROUWER | 평화궁 전 IT 관리자, 70세
+@cast SMIT | 국가 소송대리인(Landsadvocaat), 46세
+@note 3부 5화는 '물밑'의 화입니다. 정년 퇴직한 IT 관리자의 텃밭 오두막이 무대이고, 비밀번호 메모에 적힌 한 단어 '그로티위스'(비밀번호의 일부 '1621')가 핵심 단서입니다. 역사 논거는 그로티위스의 책 상자 탈출(1621): 감옥에서 책 상자에 숨어 나온 이야기로, '숨겨진 것이 옮겨지는 통로'를 추적하는 비유가 됩니다. 어휘는 정보 보안(wachtwoord, beheerder, inloggen, inschakelen)과 노년의 어조(tja, jongen)에 주목하세요.
+@next 3부 6화 — «Digitale neutraliteit»(디지털 중립) — 중재 네트워크의 관할과 중립을 정하는 협약. 관할은 실제로 미치는 범위만큼이라는 빈커르스훅의 원칙이 다시 올라옵니다.
+
+## 텃밭 — DE VOLKSTUIN
+BROUWER: Ho, wie is daar? Ik heb een bord dat zegt dat niemand zonder mijn toestemming mijn tuin in mag. ||| 이봐, 누구요? 내 허락 없이 아무도 정원에 들어올 수 없다는 팻말이 있소.
+JOOST: Meneer Brouwer? Joost Hartog. Ik kom namens Buitenlandse Zaken. Maar ik begin met een groet van meneer Zandstra. ||| 브라우어르 씨? 요스트 하르토흐입니다. 외무부에서 왔지만 먼저 잔드스트라 씨의 안부부터 전합니다.
+BROUWER: Zandstra. Die oude lastpak. Leeft hij nog? ||| 잔드스트라. 그 고집쟁이 노인. 아직 살아 있소?
+JOOST: Hij zegt dat de thee in het paleis niet meer is wat hij was. ||| 궁전의 차가 예전만 못하다고 하더군요.
+BROUWER: Dat heb ik hem altijd gezegd. Zonder suiker, dat is de enige thee. ||| 내가 늘 그에게 한 말이오. 설탕 없는 게 유일한 차지.
+JOOST: Mag ik binnenkomen? ||| 들어가도 될까요?
+BROUWER: Voor Zandstra's groet? Kom maar. Maar pas op de tomaten. Het zijn mijn kinderen. ||| 잔드스트라의 안부 때문이라면. 하지만 토마토를 조심하시오. 내 자식들이오.
+FEMKE: Het zijn mooie tomaten. ||| 토마토가 예쁘네요.
+BROUWER: Ze zijn niet mooi. Ze zijn eerlijk. Mooi is voor de supermarkt. ||| 예쁘지 않소. 정직하지. 예쁜 건 슈퍼마켓용이오.
+JOOST: Meneer Brouwer, ik moet u iets vragen over het paleis. ||| 브라우어르 씨, 궁전에 대해 여쭤볼 게 있습니다.
+BROUWER: Ik wist dat u zou komen. Sinds de krant van gisteren. ||| 올 줄 알았소. 어제 신문이 나온 뒤로.
+JOOST: Hoe bedoelt u? ||| 무슨 말씀입니까?
+BROUWER: «Een oud-beheerder». Ze noemen geen naam. Maar ik herkende mijn account. ||| '옛 관리자 한 명'. 이름은 없었지만 내 계정을 알아봤소.
+JOOST: U weet dat het account nog bestond? ||| 계정이 아직 있었다는 건 아셨습니까?
+BROUWER: Ik wist het. Ik heb het nooit laten opruimen. ||| 알았소. 정리하게 한 적이 없으니까.
+JOOST: Waarom niet? ||| 왜죠?
+BROUWER: Omdat niemand ernaar vroeg. Dat is wat er gebeurt in een paleis. Dingen blijven bestaan, tot iemand ze nodig heeft. ||| 아무도 묻지 않아서요. 궁전에서는 그런 일이 생기오. 누가 필요로 할 때까지 물건이 그냥 남아 있지.
+JOOST: En iemand had het nodig. ||| 그리고 누군가 필요로 했군요.
+BROUWER: Ja. ||| 그렇소.
+JOOST: Meneer Brouwer, ik wil eerlijk zijn. Ik denk niet dat u het was. ||| 브라우어르 씨, 솔직히 말씀드립니다. 당신이 한 게 아니라고 생각합니다.
+BROUWER: Dank u. ||| 고맙소.
+JOOST: Maar ik denk dat u weet wie het wel was. Of dat u hem hebt geholpen. Zonder het te weten. ||| 하지만 누가 했는지 알거나 모르는 채 도왔다고 생각합니다.
+BROUWER: ... ||| …
+FEMKE: Meneer Brouwer? ||| 브라우어르 씨?
+BROUWER: Ga zitten. Ik heb een kruk te weinig. Mevrouw, u neemt het bankje. ||| 앉으시오. 의자가 하나 모자라오. 아가씨는 벤치를 쓰시오.
+## 수첩 — HET NOTITIEBOEKJE
+BROUWER: Ik zal u iets laten zien. Het ligt in de kist. ||| 보여 드리죠. 상자 안에 있소.
+JOOST: Een kist. ||| 상자요.
+BROUWER: Een houten kist, van mijn vader. Ik bewaar er mijn schroevendraaiers in. En andere dingen. ||| 아버지의 나무 상자요. 드라이버를 넣어 두지. 다른 것도요.
+FEMKE: Een boekenkist. ||| 책 상자 같네요.
+BROUWER: Het is geen boekenkist. Het is een gereedschapskist. Maar ik noem hem zo, want mijn vrouw zei altijd dat ik meer van boeken hield dan van mensen. ||| 책 상자가 아니라 연장 상자요. 하지만 그렇게 부르오. 아내가 늘 내가 사람보다 책을 좋아한다고 했으니.
+JOOST: Wat zit erin? ||| 안에 뭐가 있습니까?
+BROUWER: Mijn notitieboekjes. Elk jaar één. Ik schrijf alles op. Wachtwoorden, versies, dingen die ik niet mag vergeten. ||| 수첩들이오. 해마다 한 권. 다 적소. 비밀번호, 버전, 잊으면 안 되는 것들.
+JOOST: Wachtwoorden op papier. ||| 비밀번호를 종이에요.
+BROUWER: Een boekje crasht niet. ||| 수첩은 먹통이 되지 않소.
+JOOST: Meneer Zandstra zegt hetzelfde. ||| 잔드스트라 씨도 같은 말을 합니다.
+BROUWER: Dat heeft hij van mij. ||| 나한테서 배운 거요.
+JOOST: Mag ik het zien? ||| 볼 수 있을까요?
+BROUWER: Dit is het van 2019. Het jaar dat ik wegging. Kijk. Hier. ||| 2019년 거요. 퇴직한 해지. 보시오. 여기.
+FEMKE: «beheer-oud. Wachtwoord: Grotius1621». ||| 'beheer-oud. 비밀번호: Grotius1621'.
+BROUWER: Ik koos hem bij mijn eerste dag. Het is de naam van de man van wie het gebouw is. En het jaar waarin hij uit de kist is gekomen. ||| 첫날 정했소. 이 건물의 주인 같은 분 이름과 그분이 상자에서 나온 해지.
+JOOST: 1621. ||| 1621년.
+BROUWER: Ik hou van een wachtwoord met een verhaal. ||| 이야기가 있는 비밀번호가 좋소.
+JOOST: Wie kende het wachtwoord? ||| 그 비밀번호를 누가 알았습니까?
+BROUWER: Alleen ik. En één iemand. ||| 나뿐이오. 그리고 한 사람.
+JOOST: Wie? ||| 누구요?
+BROUWER: Een man die mij vorig jaar heeft gebeld. Hij zei dat hij werkte voor een stichting die oude archieven digitaliseert. Hij zocht een adviseur. Iemand die het paleis kende. ||| 작년에 전화한 남자요. 오래된 문서를 디지털로 옮기는 재단에서 일한다고 했소. 자문가를 찾는다더군. 궁전을 아는 사람으로.
+JOOST: Welke stichting? ||| 어느 재단이요?
+BROUWER: De Noordvaarder. ||| 노르트파르더요.
+FEMKE: Weer die stichting. ||| 또 그 재단이네요.
+JOOST: Wat betaalde hij? ||| 얼마를 줬습니까?
+BROUWER: Vierhonderd euro per maand. Voor adviezen. Eén keer per kwartaal een gesprek. ||| 한 달에 400유로. 자문료로요. 분기마다 한 번 대화하고.
+JOOST: En het wachtwoord? ||| 비밀번호는요?
+BROUWER: Hij vroeg het niet. Hij vroeg: «Hoe beveiligde u het eigenlijk?». Ik vertelde het. Ik schreef het op een briefje. Om te laten zien hoe ik werkte. ||| 달라고 하진 않았소. "어떻게 보안을 했습니까?"라고 물었지. 설명했소. 방식을 보여 주려고 쪽지에 적었어요.
+JOOST: Een briefje. ||| 쪽지요.
+BROUWER: Ik gaf het hem. Ik dacht: wat kan het kwaad? Het account is oud. ||| 줬소. 무슨 해가 되겠나 했지. 계정은 낡았으니까.
+JOOST: En vorig jaar. Hebt u iets anders van hem gekregen? ||| 그리고 작년에요. 그 사람에게 다른 걸 받은 게 있습니까?
+BROUWER: ... Mijn kleindochter studeert in Leiden. Rechten. Ze kreeg een beurs. Van de Noordvaarder. ||| …손녀가 라이덴에서 법학을 공부하오. 장학금을 받았소. 노르트파르더에서요.
+JOOST: Ah. ||| 아.
+BROUWER: Ik weet wat u denkt. ||| 무슨 생각을 하시는지 아오.
+JOOST: Wat denk ik? ||| 제가 뭘 생각합니까?
+BROUWER: Dat ik het wachtwoord heb verkocht voor een beurs. ||| 비밀번호를 장학금과 바꿨다고요.
+JOOST: Dat denk ik niet. ||| 그렇게 생각하지 않습니다.
+BROUWER: Maar het is waar. Niet in woorden. Maar zo is het gegaan. ||| 하지만 사실이오. 말로는 아니어도 그렇게 됐소.
+JOOST: Meneer Brouwer, ik wil u iets vertellen over een boekenkist. ||| 브라우어르 씨, 책 상자 이야기를 하겠습니다.
+BROUWER: Over Grotius? ||| 그로티위스요?
+JOOST: In 1621 zat hij gevangen op slot Loevestein. Zijn vrouw Maria zorgde dat hij in een kist met boeken ontsnapte. De kist werd naar buiten gedragen door twee soldaten. De wachters controleerden hem niet. ||| 1621년 그가 로풀스테인 성에 갇혀 있었습니다. 아내 마리아가 그를 책 상자에 넣어 탈출시켰죠. 군인 둘이 상자를 들고 나갔고 경비는 검사하지 않았습니다.
+BROUWER: Ik ken het. ||| 압니다.
+JOOST: De wachters faalden niet omdat ze dom waren. Ze faalden omdat ze een kist niet verdachten. Iets wat vertrouwd is, wordt niet gecontroleerd. ||| 경비는 어리석어서 실패한 게 아닙니다. 상자를 의심하지 않았기 때문이죠. 익숙한 건 검사받지 않습니다.
+BROUWER: Mijn wachtwoord was een kist. ||| 내 비밀번호가 상자였군.
+JOOST: Uw wachtwoord was een kist. Ze hebben er iemand in gelegd. ||| 당신 비밀번호가 상자였고 그들이 거기에 사람을 넣었습니다.
++ volkstuin = 시민 텃밭(도시 근교의 개인 경작 구획)
++ lastpak = 고집쟁이, 귀찮은 사람
++ gereedschapskist = 연장 상자
++ schroevendraaier = 드라이버
++ een kruk = 등 없는 의자
++ inloggen = 로그인하다
++ digitaliseren = 디지털화하다
++ een briefje = 쪽지
++ wat kan het kwaad = 무슨 해가 되겠나
++ een beurs = 장학금
+## 계획 — HET PLAN
+BROUWER: Wat gebeurt er nu met mij? ||| 이제 나는 어떻게 되오?
+JOOST: Dat hangt van u af. Ik ga u iets voorstellen. Eerst moet ik iemand bellen. ||| 당신에게 달렸습니다. 제안을 하나 하겠습니다. 먼저 전화할 사람이 있어요.
+BROUWER: Wie? ||| 누구요?
+JOOST: Een advocaat van de Staat. Mevrouw Smit. Zij is de juridische kant. ||| 국가 소송대리인 스미트 씨입니다. 법률 쪽 담당이죠.
+SMIT: Smit. ||| 스미트입니다.
+JOOST: Mevrouw Smit, Joost Hartog. Ik zit bij meneer Brouwer, de oud-beheerder van het Vredespaleis. Hij heeft een verklaring. ||| 스미트 씨, 요스트 하르토흐입니다. 평화궁 전 관리자 브라우어르 씨와 같이 있습니다. 진술이 있어요.
+SMIT: Is hij verdachte? ||| 피의자입니까?
+JOOST: Hij is getuige. Mogelijk medeplichtige zonder opzet. ||| 증인입니다. 어쩌면 고의 없는 방조자고요.
+SMIT: Dan is mijn eerste raad: laat hem een advocaat nemen. ||| 그럼 제 첫 조언은 변호인을 선임하라는 겁니다.
+JOOST: Hij heeft er geen. ||| 없습니다.
+SMIT: Dan kan ik hem een pro-Deo-advocaat laten toewijzen. Binnen een uur. ||| 그럼 국선 변호인을 한 시간 안에 배정받게 해 드리죠.
+JOOST: Hoort u dat, meneer Brouwer? ||| 들으셨습니까, 브라우어르 씨?
+BROUWER: Ik hoor het. Ik heb nog nooit een advocaat gehad. ||| 들었소. 변호사는 한 번도 가져 본 적이 없소.
+SMIT: Het is een goede vriend om te hebben. Meneer Hartog, wat wilt u? ||| 가지면 좋은 친구입니다. 하르토흐 씨, 무엇을 원하십니까?
+JOOST: Een gecontroleerde afgifte. De man die het wachtwoord kreeg, belt meneer Brouwer elk kwartaal. De volgende keer is over twee weken. Als meneer Brouwer dan met hem praat, in aanwezigheid van uw dienst, kunnen we meer te weten komen. ||| 통제된 인도입니다. 비밀번호를 받은 남자가 분기마다 브라우어르 씨에게 전화합니다. 다음은 2주 뒤예요. 그때 당신 쪽 입회 아래 통화하면 더 알 수 있습니다.
+SMIT: Een gesprek dat wordt opgenomen. ||| 녹음되는 통화군요.
+JOOST: Met toestemming van meneer Brouwer. En met kennisgeving aan de officier van justitie. ||| 브라우어르 씨의 동의와 검사 통지 아래서요.
+SMIT: Dat kan. Maar alleen als meneer Brouwer vrijwillig meewerkt. En als hij niets zegt dat niet waar is. ||| 가능합니다. 다만 브라우어르 씨가 자발적으로 협조하고 사실 아닌 말은 하지 않아야 합니다.
+JOOST: Meneer Brouwer? ||| 브라우어르 씨?
+BROUWER: Ik zeg niets dat niet waar is. Dat doe ik al veertig jaar. ||| 사실 아닌 말은 안 하오. 40년 그렇게 해 왔소.
+SMIT: Dan hebben we een plan. Ik regel de advocaat. Meneer Brouwer, u legt vandaag nog een schriftelijke verklaring af. ||| 그럼 계획이 섰습니다. 변호인은 제가 준비합니다. 브라우어르 씨, 오늘 안에 서면 진술을 하세요.
+BROUWER: Mag ik er thee bij? ||| 차도 있어야 하오?
+SMIT: Zonder suiker. ||| 설탕 없이요.
+BROUWER: Hoe weet u dat? ||| 어떻게 아시오?
+SMIT: Meneer Zandstra heeft gebeld. ||| 잔드스트라 씨가 전화했어요.
+BROUWER: Die ouwe. ||| 그 노인네가.
+## 책 상자 — DE BOEKENKIST
+FEMKE: Mag ik iets vragen, meneer Brouwer? Waarom Grotius? ||| 하나 여쭤도 될까요, 브라우어르 씨? 왜 그로티위스죠?
+BROUWER: Dat vraagt iedereen. Mijn vader was een boekbinder. Ik groeide op tussen boeken. De eerste zin die ik uit mijn hoofd leerde, was van een prentbriefkaart van Loevestein. «Een kist met boeken, en de man daarin was vrij». ||| 다들 묻소. 아버지가 제본공이었소. 책 사이에서 자랐지. 처음 외운 문장이 로풀스테인 그림엽서에 적혀 있었소. "책이 든 상자, 그 안의 사람은 자유로웠다."
+FEMKE: Dat is mooi. ||| 아름답네요.
+BROUWER: Het is een wachtwoord. Het was bedoeld om mijn deur dicht te houden. En het was de sleutel voor iemand anders. ||| 비밀번호였소. 내 문을 닫아 두려던 거였는데 다른 사람에게는 열쇠였지.
+FEMKE: Dat gebeurt met alle slotbeveiligingen. ||| 모든 잠금 장치가 그렇죠.
+BROUWER: Nee. Alleen met die van mensen die vertrouwen. ||| 아니요. 믿는 사람의 장치만 그렇소.
+JOOST: Meneer Brouwer. Ik ga u iets zeggen dat ik tegen veel mensen heb gezegd. Wie het eerst vertelt, betaalt het minst. ||| 브라우어르 씨. 많은 사람에게 한 말을 하겠습니다. 먼저 말하는 사람이 가장 적게 냅니다.
+BROUWER: Dat is wat de krant zei. ||| 신문에 나온 말이오.
+JOOST: Het is waar. U bent de eerste in dit dossier. Dat is een goede plaats. ||| 사실입니다. 이 사건에서 당신이 첫 번째예요. 좋은 자리입니다.
+BROUWER: En de tweede? ||| 두 번째는요?
+JOOST: Die weet ik nog niet. Maar hij komt. ||| 아직 모릅니다. 하지만 올 겁니다.
+BROUWER: Jongen, ik heb nog één vraag. ||| 젊은이, 질문이 하나 더 있소.
+JOOST: Zegt u het. ||| 하세요.
+BROUWER: Mijn kleindochter. Raakt ze haar beurs kwijt? ||| 손녀가 장학금을 잃게 되오?
+JOOST: Dat kan ik niet beloven. Maar ik zal zorgen dat het niet door mij gebeurt. Het register van het Hof is er om beurzen zichtbaar te maken, niet om kinderen te straffen. ||| 약속할 수는 없습니다. 하지만 제 때문에 그렇게 되지는 않게 하겠습니다. 재판소 등록부는 장학금을 보이게 하려는 거지 아이들을 벌주려는 게 아닙니다.
+BROUWER: Dat is een mooi antwoord. Het is geen belofte. ||| 좋은 대답이오. 약속은 아니군.
+JOOST: Ik beloof alleen wat ik kan nakomen. ||| 지킬 수 있는 것만 약속합니다.
+BROUWER: Dat is eerlijker dan de meeste. ||| 대부분보다 정직하군.
+## 밤 — 'S AVONDS
+FEMKE: Joost, de man die Brouwer belde. Heb je al een naam? ||| 요스트, 브라우어르에게 전화한 남자 말이에요. 이름을 알아냈나요?
+JOOST: Hij noemde zich «Mark». Brouwer heeft zijn nummer. Smit laat het nakijken. ||| '마르크'라고 했답니다. 브라우어르 씨에게 번호가 있어요. 스미트 씨가 조회하게 하고요.
+FEMKE: En het bureau? ||| 회사는요?
+JOOST: Noordvaarder. En Meridiaan. Dezelfde sleutel, andere deur. ||| 노르트파르더와 메리디안이요. 같은 열쇠, 다른 문이죠.
+FEMKE: Weer Maas. ||| 또 마스군요.
+JOOST: Waarschijnlijk. ||| 아마도요.
+FEMKE: En Visser? ||| 비서르는요?
+JOOST: Ik moet hem bellen. Morgen. ||| 전화해야 합니다. 내일요.
+FEMKE: Dat zeg je al een week. ||| 일주일째 그 말씀이시네요.
+JOOST: Ik weet het. ||| 알아요.
+FEMKE: Wat houdt je tegen? ||| 뭐가 막고 있어요?
+JOOST: Dat ik er bang voor ben. ||| 두려워서요.
+FEMKE: Waarvoor? ||| 무엇이요?
+JOOST: Dat hij zegt dat hij het wist. ||| 그가 알고 있었다고 말할까 봐요.
++ medeplichtige = 공범, 방조자
++ gecontroleerde afgifte = 통제된 인도(수사 기법)
++ pro-Deo-advocaat = 국선 변호인
++ schriftelijke verklaring = 서면 진술
++ boekbinder = 제본공
++ prentbriefkaart = 그림엽서
++ slotbeveiliging = 잠금 보안
++ nakomen = (약속을) 지키다
++ toewijzen = 배정하다
++ opzet = 고의
