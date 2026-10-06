@@ -1,0 +1,88 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 3
+@title De sluis van Stevin
+@ko 스테빈의 수문
+@setting D−10 사와 수문 관리실 → 칸다르 수자원부 자료실 → 밤의 화상 통화
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast SLAMET | 사와 수문 감독, 49세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast SURYO | 수자원부 장관, 54세
+@cast NOOR | 요스트의 딸, 18세
+@cast FEMKE | 분석관, 33세
+@cast BRAM | 네덜란드 수리 기술자(제일란트), 38세
+@note D−10. 사와의 수문 운영 매뉴얼을 펼치자 '설계 수위' 숫자가 20년 동안 한 자리도 바뀌지 않은 것이 보입니다. 역사 논거는 시몬 스테빈(Simon Stevin, 1548~1620): 수압과 수문을 계산으로 다룬 수학자이자 공학자로, 일부러 라틴어가 아니라 네덜란드어로 썼습니다. 장인과 일꾼이 읽을 수 있어야 한다는 이유였습니다. 해법의 씨앗은 '공개 계산'입니다. 어휘는 수문·문서(sluis, handboek, aanname, herziening, kluis)와 추론 표현에 주목하세요.
+@next 4화: 농민·정부·기술자의 3자 원탁. 이주와 테르프(대피 둔덕)를 놓고, 농민이 직접 범람 구역을 그려 넣습니다.
+
+## 수문 관리실 — HET SLUISGEBOUW
+SLAMET: Dit is de bediening van de grote sluis. Hier zit ik zes dagen per week. ||| 여기가 대형 수문 조작실입니다. 저는 주 6일 여기 앉아 있어요.
+JOOST: Mag ik het handboek zien? ||| 운영 매뉴얼을 볼 수 있을까요?
+SLAMET: Het ligt op de kast. Het is oud. ||| 선반 위에 있습니다. 낡았어요.
+JOOST: Dit is gedrukt in negentienzevenenzestig. ||| 1967년에 인쇄된 거군요.
+SLAMET: Met elk jaar een bijlage. Daar, in de blauwe map. ||| 해마다 부록이 붙어요. 저기 파란 폴더에요.
+JOOST: Mag ik? ||| 봐도 될까요?
+SLAMET: Natuurlijk. U bent van de minister. ||| 물론이죠. 장관님 쪽 분이시니까요.
+JOOST: Slamet, wat is het ontwerppeil van deze sluis? ||| 슬라멧, 이 수문의 설계 수위는 얼마입니까?
+SLAMET: Drie meter negentig boven Peil 1969. ||| 1969 영점 기준 3.9미터입니다.
+JOOST: En in de bijlage van tweeduizend? ||| 2000년 부록에서는요?
+SLAMET: Drie meter negentig. ||| 3.9미터요.
+JOOST: En tweeduizend vijftien? ||| 2015년은요?
+SLAMET: Drie meter negentig. ||| 3.9미터.
+JOOST: En vorig jaar? ||| 작년은요?
+SLAMET: Drie meter negentig. ||| 3.9미터요.
+JOOST: Elk jaar hetzelfde getal. ||| 해마다 같은 숫자군요.
+SLAMET: Zoals het hoort. De sluis verandert niet. ||| 그래야죠. 수문은 변하지 않으니까요.
+JOOST: De sluis niet. Maar de zee wel. ||| 수문은 안 변하죠. 하지만 바다는 변합니다.
+SLAMET: Wat bedoelt u? ||| 무슨 뜻이죠?
+JOOST: Als de zeespiegel in twintig jaar met een paar centimeter is gestegen, dan is het ontwerppeil van een sluis niet meer hetzelfde. Dan is hij lager geworden. ||| 20년 동안 해수면이 몇 센티미터 올랐다면 수문의 설계 수위는 같은 의미일 수 없어요. 상대적으로 낮아진 겁니다.
+SLAMET: Dat zou in de bijlage staan. ||| 부록에 적혀 있어야 하겠죠.
+JOOST: Staat het er? ||| 적혀 있나요?
+SLAMET: Nee. ||| 아니요.
+JOOST: Dus iemand heeft het getal elk jaar overgeschreven zonder te rekenen. ||| 그러니 누군가 해마다 계산 없이 숫자를 베껴 쓴 거군요.
+SLAMET: Ik heb het ook overgeschreven. Elk jaar. Ik dacht dat het zo hoorde. ||| 저도 해마다 베꼈어요. 원래 그런 줄 알았죠.
+JOOST: Dat is geen verwijt. ||| 비난이 아닙니다.
+SLAMET: Het voelt wel zo. ||| 그렇게 느껴지긴 하네요.
+JOOST: Waar is de berekening achter het getal? ||| 이 숫자의 근거 계산서는 어디 있습니까?
+SLAMET: In Kandar, bij het ministerie. Of bij de generaal. ||| 칸다르 수자원부요. 아니면 장군에게 있겠죠.
+JOOST: Slamet, kunt u mij een kopie van dit boek geven? ||| 슬라멧, 이 책 사본을 줄 수 있습니까?
+SLAMET: Ik mag niets weggeven. Maar ik mag er met u in kijken. ||| 뭘 내줄 수는 없어요. 하지만 같이 들여다볼 수는 있죠.
+JOOST: Dat is genoeg. Femke, ben je daar? ||| 충분합니다. 페므커, 거기 있어요?
+FEMKE: Ik zit mee te kijken. Ik zie de bladzijde. Draai hem een kwartslag. ||| 같이 보고 있어요. 페이지가 보여요. 사분의 일만 돌려 보세요.
+JOOST: Zo? ||| 이렇게요?
+FEMKE: Zo is het leesbaar. Er staat een voetnoot onderaan. ||| 읽을 수 있어요. 아래에 각주가 있네요.
+JOOST: Wat staat er? ||| 뭐라고 적혀 있죠?
+FEMKE: «Voor dit peil is een zeespiegelstijging van twee millimeter per jaar aangenomen, voor een periode van vijftig jaar.» ||| "이 수위는 50년 기간에 연 2밀리미터의 해수면 상승을 가정한 것이다."
+JOOST: Vijftig jaar. ||| 50년.
+FEMKE: Vanaf negentienzevenenzestig. ||| 1967년부터요.
+JOOST: Dan is de ontwerpperiode drie jaar geleden verstreken. ||| 그럼 설계 기간은 3년 전에 끝났군요.
+SLAMET: Wat betekent dat? ||| 그게 무슨 뜻이죠?
+JOOST: Dat dit getal een houdbaarheidsdatum had. En niemand heeft hem gelezen. ||| 이 숫자에 유통기한이 있었다는 겁니다. 그리고 아무도 그걸 읽지 않았죠.
+SLAMET: Ik zou het gelezen moeten hebben. ||| 제가 읽었어야 했네요.
+JOOST: Wie wist dat de datum was verlopen? ||| 기한이 지난 걸 누가 알았을까요?
+SLAMET: Iemand die het heeft herzien. ||| 개정한 사람이겠죠.
+JOOST: Is er een herziening? ||| 개정본이 있습니까?
+SLAMET: Ik heb gehoord van een nieuwe lijst. Vorig jaar. Een Nederlandse adviseur kwam kijken. ||| 새 목록이 있다고 들었어요. 작년에 네덜란드 자문이 와서 봤죠.
+JOOST: Hein Rijpstra. ||| 헤인 레이프스트라.
+SLAMET: Zo heette hij, ja. Hij nam foto's van de sluis en vertrok. ||| 네, 그 이름이었어요. 수문 사진을 찍고 떠났죠.
+JOOST: En sindsdien? ||| 그 뒤로는요?
+SLAMET: Niets. Geen brief. Geen nieuwe bijlage. ||| 아무것도요. 편지도 새 부록도 없었어요.
+JOOST: Dank u, Slamet. ||| 고맙습니다, 슬라멧.
+SLAMET: Meneer Hartog, als de sluis niet hoog genoeg is, wat dan? ||| 하르토흐 씨, 수문이 충분히 높지 않으면 어떻게 되죠?
+JOOST: Dan moeten we dat eerst weten. Daarna pas beslissen. ||| 그럼 우리가 먼저 알아야죠. 결정은 그다음에.
+SLAMET: In die volgorde. ||| 그 순서로요.
+JOOST: In die volgorde. Eerst meten. Dan pas oordelen. ||| 그 순서로요. 먼저 재고, 그다음에 판단합니다.
++ sluis = 수문, 갑문
++ handboek = 운영 매뉴얼, 핸드북
++ bijlage = 부록, 첨부
++ ontwerppeil = 설계 수위
++ zeespiegelstijging = 해수면 상승
++ voetnoot = 각주
++ aangenomen = 가정된, 채택된
++ verstreken = (기간이) 지난
++ houdbaarheidsdatum = 유통기한
++ herziening = 개정, 재검토
++ overschrijven = 베껴 쓰다
++ een kwartslag draaien = 90도 돌리다
