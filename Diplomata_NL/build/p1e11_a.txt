@@ -1,0 +1,93 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 11
+@title De zijbrief
+@ko 부수서한
+@setting 3주 뒤 브뤼셀 EU 위원회 · 위원회 설치 회의(비공개 열람실)
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast GERBER | 계측 위원회 스위스 위원장·법률가, 60세
+@cast LAMBERT | EU 집행위원회 국장, 54세
+@cast SURYO | 메란티 수자원부 차관, 55세
+@cast HARTONO | 메란티 수자원부 장관, 58세
+@cast ARIEF | 메란티 대사관 서기관, 36세
+@cast DEWIT | 펠트하위스 변호사, 47세
+@cast FEMKE | 분석관, 31세
+@cast RUIJS | 전직 제방 감독관 (화상), 83세
+@note 1부 11화는 '폭로'의 화입니다. 세 장이 한자리에 놓이고, 둘째 장의 '뒷면'에서 원문이 드러납니다. 면책은 조건부였고, 그 조건은 결함을 '먼저 알리는 것'이었습니다. 번역본의 '공개 권리(mag melden)'와 원문의 '공개 의무(meldt onverwijld)'가 갈리는 대목에서 그로티위스 『전쟁과 평화의 법』(1625)의 약속 구속력 원칙이 쓰입니다. 어휘는 법률 문서(vrijstelling, vervallen, onverwijld, uitleggen)와 번역·해석 표현에 주목하세요.
+@next 1부 12화 — «Wie bouwt, betaalt»(짓는 자가 값을 치른다) — 선원 석방, 준설사의 비용 부담, 델타 기금 설립. 요스트는 청문회 출석을 감수하고, 산네는 낯선 이름 하나를 입에 올립니다. '블라우베르흐'.
+
+## 설치 — DE INSTALLATIE
+LAMBERT: Dames en heren, goedemorgen. Ik open de eerste vergadering van de Gezamenlijke Meetcommissie Kuala Delta. Voorzitter van de commissie is mevrouw Gerber, uit Bern. ||| 여러분, 안녕하십니까. 쿠알라 델타 공동 계측 위원회 첫 회의를 개회합니다. 위원장은 베른 출신의 게르버 박사입니다.
+GERBER: Guten Morgen. Entschuldigung. Goedemorgen. Mijn Nederlands is slecht, maar ik doe mijn best. Ik stel voor dat we afspreken: alles wat vandaag op tafel komt, lezen we hardop. Niemand leest in stilte. ||| 안녕하세요. 실례. 안녕하십니까. 제 네덜란드어는 서툴지만 최선을 다하겠습니다. 오늘 탁자에 오르는 모든 것은 소리 내어 읽자고 제안합니다. 아무도 묵독하지 않습니다.
+HARTONO: Waarom hardop? ||| 왜 소리 내어서입니까?
+GERBER: Omdat in Zwitserland geloven we niet in documenten die alleen één persoon heeft gelezen. ||| 스위스에서는 한 사람만 읽은 문서를 믿지 않기 때문입니다.
+DEWIT: Dat klinkt uitstekend. Mijn cliënt heeft er geen bezwaar tegen. ||| 훌륭하군요. 제 의뢰인은 반대하지 않습니다.
+GERBER: Dank u, meneer De Wit. Dan begin ik met een lijst. Wie heeft welke bladzijde meegebracht? ||| 감사합니다, 더 위트 씨. 그럼 목록부터 시작합니다. 누가 어느 쪽을 가져왔습니까?
+LAMBERT: De Commissie heeft het eerste blad en het derde blad in bewaring. Ze zijn aangeleverd door de Republiek Meranti. ||| 위원회는 첫째 장과 셋째 장을 보관하고 있습니다. 메란티 공화국이 제출했습니다.
+GERBER: Meneer Hartono, klopt dat? ||| 하르토노 장관님, 맞습니까?
+HARTONO: Dat klopt. Ze lagen in mijn ministerie. In een kluis. ||| 맞습니다. 제 부처 금고에 있었습니다.
+GERBER: En het tweede blad? ||| 둘째 장은요?
+SURYO: Dat heb ik. Mijn grootvader bewaarde het. In een blik. ||| 제가 갖고 있습니다. 할아버지가 상자에 보관하셨어요.
+GERBER: Mag ik het zien? ||| 볼 수 있을까요?
+SURYO: Hier. Ik heb het in een map gedaan. Maar het papier is breekbaar. Het is zestig jaar oud. ||| 여기요. 서류철에 넣었습니다. 하지만 종이가 약합니다. 60년 된 거예요.
+GERBER: Zestig jaar is lang genoeg. Femke de Bit, wilt u de bladen op volgorde leggen? ||| 60년이면 충분히 깁니다. 페므커 더 비트 씨, 장을 순서대로 놓아 주시겠어요?
+FEMKE: Natuurlijk. Eén, twee, drie. ||| 물론입니다. 하나, 둘, 셋.
+GERBER: Dank u. Meneer Rahman, u bent de secretaris van de commissie. Wilt u het eerste blad voorlezen? ||| 감사합니다. 라흐만 씨, 위원회 서기이시니 첫째 장을 읽어 주시겠습니까?
+ARIEF: Ja. «Bijbrief bij het Verdrag inzake de Waterwerken van de Republiek Meranti, gedateerd 12 maart 1969. Beide partijen verklaren het volgende. Artikel één: de technische bijlagen A, B en C maken deel uit van het verdrag. Artikel twee: de nulpunten voor alle peilmetingen zijn die van bijlage C. Artikel drie: ...» ||| "1969년 3월 12일자 메란티 공화국 수리 공사 조약 부수서한. 양 당사자는 다음을 선언한다. 제1조: 기술 부속서 A, B, C는 조약의 일부이다. 제2조: 모든 수위 측정의 영점은 부속서 C의 것으로 한다. 제3조: …"
+GERBER: Stop. Dat is genoeg. Het derde blad? ||| 그만. 충분합니다. 셋째 장은요?
+ARIEF: «Artikel vijf: deze bijbrief is vertrouwelijk. Artikel zes: ... Aldus overeengekomen te Kuala Delta op 12 maart 1969». Daaronder twee handtekeningen. ||| "제5조: 이 부수서한은 기밀이다. 제6조: … 1969년 3월 12일 쿠알라 델타에서 이와 같이 합의하였다." 아래에 서명 두 개가 있습니다.
+GERBER: Wiens handtekeningen? ||| 누구의 서명입니까?
+ARIEF: Eén van Pieter Veldhuis. En een van mijn... van meneer Suryo's grootvader. ||| 하나는 피터르 펠트하위스. 그리고 하나는 제… 수리요 차관님 할아버지의 서명입니다.
+SURYO: Het was mijn grootvader. ||| 제 할아버지였습니다.
+GERBER: Dank u. Nu het tweede blad. Meneer Rahman? ||| 감사합니다. 이제 둘째 장입니다. 라흐만 씨?
+ARIEF: «Artikel vier. Nederlandse ondernemingen worden vrijgesteld van aansprakelijkheid voor constructiefouten, indien zij de nulpunten volgen die in bijlage C zijn voorgeschreven. De Republiek Meranti ziet af van het recht, deze fouten in te roepen». ||| "제4조. 네덜란드 기업은 부속서 C에 규정된 영점을 따르는 경우 구조적 결함에 대한 책임을 면제한다. 메란티 공화국은 이 결함을 주장할 권리를 포기한다."
+DEWIT: Dat is precies wat ik heb gezegd. Mijn cliënt is vrijgesteld. ||| 제가 말한 그대롭니다. 제 의뢰인은 면책입니다.
+GERBER: Meneer De Wit, wacht even. Meneer Rahman, wat hebt u daar in uw hand? ||| 더 위트 씨, 잠깐요. 라흐만 씨, 손에 든 게 뭡니까?
+ARIEF: Het blad. Ik wilde het omdraaien. Er zit iets aan de achterkant. ||| 그 장입니다. 뒤집으려는 참이었어요. 뒷면에 뭔가 있습니다.
+SURYO: De achterkant? Ik heb het blad nooit omgedraaid. ||| 뒷면이요? 저는 장을 뒤집어 본 적이 없습니다.
+ARIEF: Ik zie tekst. Getypt. In dezelfde letter. ||| 글씨가 보입니다. 타자로 쳤고 같은 글꼴이에요.
+GERBER: Leest u het voor. Langzaam. ||| 읽어 주세요. 천천히.
+ARIEF: «Artikel vier, tweede lid. Deze vrijstelling vervalt indien de onderneming een haar bekende afwijking van de ontwerpgegevens niet onverwijld meldt aan de andere partij». ||| "제4조 제2항. 기업이 알고 있던 설계 자료와의 편차를 상대방에게 지체 없이 알리지 않으면 이 면책은 효력을 잃는다."
+## 뒷면 — DE ACHTERKANT
+HARTONO: Wat betekent dat? ||| 그게 무슨 뜻입니까?
+GERBER: Dat de vrijstelling alleen geldt zolang de onderneming meldt wat ze weet. ||| 기업이 아는 것을 알리는 동안에만 면책이 유효하다는 뜻입니다.
+HARTONO: Dus als Veldhuis wist dat de grond fijner was... ||| 그러니 펠트하위스가 땅이 곱다는 걸 알았다면…
+GERBER: ...en het niet meldde, vervalt de vrijstelling. Ja. ||| …그리고 알리지 않았다면 면책은 소멸합니다. 맞습니다.
+DEWIT: Mevrouw de voorzitter, ik maak bezwaar. Dit lid staat niet in de Nederlandse tekst. ||| 위원장님, 이의를 제기합니다. 이 항은 네덜란드어 본문에 없습니다.
+GERBER: Dan zullen we dat controleren. Meneer Rahman, hebt u de Nederlandse tekst? ||| 그럼 확인해 보죠. 라흐만 씨, 네덜란드어 본문이 있습니까?
+ARIEF: Ik heb de kopie uit het archief van Zeeland. Het kopieerboek. Er staat: «Artikel vier, tweede lid: De onderneming kan een haar bekende afwijking van de ontwerpgegevens aan de andere partij melden». ||| 제일란트 문서고의 사본이 있습니다. 사본 장부요. 이렇게 쓰여 있어요. "제4조 제2항: 기업은 알고 있던 설계 자료와의 편차를 상대방에게 알릴 수 있다."
+GERBER: «Kan melden». En geen woord over het vervallen van de vrijstelling. ||| '알릴 수 있다'. 그리고 면책이 소멸한다는 말은 한마디도 없군요.
+ARIEF: Dat is het verschil. «Kan melden» betekent «mag melden». «Meldt onverwijld» betekent «moet melden». ||| 그게 차이입니다. '알릴 수 있다'는 '알려도 된다'이고 '지체 없이 알린다'는 '알려야 한다'입니다.
+DEWIT: Daarmee is het artikel in feite zonder inhoud. Een recht, geen plicht. ||| 그러면 조항은 사실상 내용이 없습니다. 권리일 뿐 의무가 아니죠.
+GERBER: Dat is een mogelijke lezing. Wie heeft de Nederlandse tekst opgesteld? ||| 가능한 해석이군요. 네덜란드어 본문은 누가 작성했습니까?
+DEWIT: De Nederlandse partij. Veldhuis. ||| 네덜란드 측 펠트하위스입니다.
+GERBER: En de Meranti-tekst? ||| 메란티 문서는요?
+SURYO: Dat is het blad van mijn grootvader. Het is in het Engels. ||| 할아버지의 그 장입니다. 영어로 쓰여 있어요.
+GERBER: «Meldt onverwijld». ||| '지체 없이 알린다'.
+SURYO: Ja. In het Engels staat: «shall notify without delay». ||| 네. 영어로는 'shall notify without delay'입니다.
+GERBER: Dat is een plicht. ||| 의무군요.
+DEWIT: Dan hebben we een verschil tussen twee teksten. Het verdrag heeft een artikel over uitleg bij verschil. ||| 그럼 두 문서 사이에 차이가 있는 겁니다. 조약에는 차이가 있을 때의 해석 조항이 있습니다.
+GERBER: Wat zegt dat artikel? ||| 그 조항은 뭐라고 합니까?
+DEWIT: «Bij verschil prevaleert de tekst van de partij die de verplichting aangaat». ||| "차이가 있으면 의무를 지는 당사자의 본문이 우선한다."
+GERBER: Wie gaat de verplichting aan? ||| 누가 의무를 집니까?
+DEWIT: De onderneming. Veldhuis. Dus de Nederlandse tekst. «Kan melden». ||| 기업이요. 펠트하위스. 그러니 네덜란드어 본문 '알릴 수 있다'가 됩니다.
+GERBER: ... Dat is een scherpe redenering. ||| …날카로운 논리군요.
+DEWIT: Het is een correcte. ||| 올바른 논리입니다.
+JOOST: Mevrouw de voorzitter, mag ik iets zeggen? ||| 위원장님, 발언해도 되겠습니까?
+GERBER: U bent geen lid van de commissie. ||| 위원이 아니십니다.
+JOOST: Nee. Maar ik ben de man die de heer Ruijs heeft gevonden. En ik denk dat hij dit moet horen. ||| 아니죠. 하지만 라위스 씨를 찾은 사람입니다. 그분의 말씀을 들어야 한다고 생각합니다.
+GERBER: Wie is meneer Ruijs? ||| 라위스 씨가 누굽니까?
+JOOST: Een gepensioneerde dijkgraaf. In 1968 was hij ingenieur bij Veldhuis. Hij zit hier via video. ||| 은퇴한 제방 감독관입니다. 1968년 펠트하위스 엔지니어였고 화상으로 연결돼 있어요.
+GERBER: Laat hem inbellen. ||| 연결하세요.
++ vrijstelling = 면책, 면제. 'vrijstellen van aansprakelijkheid'
++ vervallen = 효력을 잃다, 소멸하다. 'de vrijstelling vervalt'
++ onverwijld = 지체 없이. 법률 문서에서 쓰는 부사
++ lid = (조문의) 항. 'tweede lid'는 제2항
++ prevaleren = 우선하다
++ uitleg / uitleggen = 해석 / 해석하다
++ melden = 알리다, 신고하다. 'kan melden'(알릴 수 있다)과 'meldt'(알린다)의 차이가 쟁점
++ bezwaar maken = 이의를 제기하다
++ breekbaar = 부서지기 쉬운
++ inbellen = 전화로(화상으로) 접속하다
