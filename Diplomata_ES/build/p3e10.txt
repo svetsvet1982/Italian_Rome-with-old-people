@@ -1,0 +1,197 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 10
+@title La candidatura
+@ko 입후보
+@setting 4월 · 마드리드 외무부(산타크루스 궁) → 뉴욕 유엔 본부 안보리 회의장 → 대표단 라운지
+@level B2-C1
+@cast ÁLVARO | 안보리 입후보 특사, 44세
+@cast ALBORNOZ | 외무부 장관, 60세
+@cast ARRIETA | 외무부 국무차관(Secretario de Estado), 58세
+@cast MORENO | 주유엔 스페인 대사, 55세
+@cast PILAR | 국가 변호사, 45세
+@cast HEDLUND | 노르드마르크 주유엔 대사, 58세
+@cast LUCÍA | 알바로의 딸, 17세 (영상통화)
+@note 3부 D사건(안보리 의석)의 첫 화이며 '일반 협상'의 화입니다. 스페인과 노르드마르크가 서방 그룹의 마지막 비상임 의석을 두고 겨룹니다. 역사 논거는 1815년 빈 회의의 스페인 전권대사 라브라도르 후작: 회의장에 앉아 있었지만 최종 의정서에 서명하지 않아 스페인은 한동안 밖에 남았습니다(1817년에야 가입). 교훈은 '의석을 갖는 것보다 탁자에 어떻게 앉느냐'입니다. 어휘는 선거·표결(escrutinio, mayoría de dos tercios, ronda, asiento no permanente)과 협상 표현에 주목하세요.
+@next 3부 11화 — «El voto»(표) — 뉴욕에 퍼지는 '스페인 표 명단'. 한 번 퍼진 명단이 40분 뒤에 상대의 입에서 나옵니다. 알바로는 네 개의 서로 다른 명단을 네 사람에게 보냅니다. 유출은 어디서 왔을까요.
+
+## 외무부 — EL MINISTERIO
+ALBORNOZ: Quintana. Siéntese. Ya sabe por qué le he llamado. ||| 킨타나. 앉으세요. 제가 왜 불렀는지는 아시겠죠.
+ÁLVARO: Por una silla. ||| 의자 때문이겠죠.
+ALBORNOZ: Por la última silla del Consejo de Seguridad del año que viene. Hay dos candidatos para un asiento. España y Nordmark. ||| 내년 안보리의 마지막 의자 때문입니다. 한 자리를 두고 후보가 둘이에요. 스페인과 노르드마르크.
+ÁLVARO: La votación es en junio. ||| 표결은 6월이죠.
+ALBORNOZ: El seis. En la Asamblea General. Voto secreto. Se necesitan dos tercios de los presentes: ciento veintinueve, si están los ciento noventa y tres. ||| 6일입니다. 총회에서 비밀투표로요. 출석국의 3분의 2가 필요하죠. 193개국이 모두 오면 129표입니다.
+ÁLVARO: ¿Cuántos tiene España? ||| 스페인은 몇 표입니까?
+ARRIETA: Ciento catorce comprometidos. Dieciséis dudosos. ||| 확약 114표. 불확실 16표입니다.
+ÁLVARO: Ciento catorce más dieciséis son ciento treinta. Es decir, que si ganamos todos los dudosos, justo pasamos. ||| 114 더하기 16은 130입니다. 불확실 표를 전부 얻어야 겨우 넘는다는 뜻이죠.
+ARRIETA: Es lo que he dicho. ||| 제가 말한 그대로입니다.
+ALBORNOZ: Y Nordmark tiene ciento diez comprometidos y veinte dudosos. Para no pasar de dos tercios, los dos necesitamos al mismo grupo de dudosos. ||| 노르드마르크는 확약 110표에 불확실 20표입니다. 3분의 2를 못 넘으면 둘 다 같은 불확실 표 집단이 필요해요.
+ÁLVARO: Y tenemos, como mucho, cinco rondas antes de que alguien tenga que retirarse. ||| 그리고 누군가 물러나야 하기 전까지 기껏해야 다섯 번의 투표가 있겠군요.
+ALBORNOZ: Quintana, tengo una pregunta incómoda. ¿Qué le ha pasado en Tallin? Me han contado algo de una isla y de un armario. ||| 킨타나, 불편한 질문입니다. 탈린에서 무슨 일이 있었습니까? 섬과 사물함 이야기를 들었어요.
+ÁLVARO: Es cierto. Hay un testigo, una grabación y veintidós carpetas con pagos de una sociedad llamada Meridian Holdings. Todo está ya en poder de la abogada del Estado Pilar Gil. ||| 사실입니다. 증인 한 명, 녹음 하나, 그리고 메리디언 홀딩스라는 회사의 지급 내역이 담긴 22권의 서류철이 있습니다. 모두 국가 변호사 필라르 힐이 보관하고 있어요.
+ALBORNOZ: ¿Y qué dicen? ||| 뭐라고 나옵니까?
+ÁLVARO: Que Septentrio es un fondo del Estado de Nordmark. Que financió operaciones contra intereses españoles. Y que hay un consultor en Madrid, con las iniciales F. A., que cobra cuarenta mil euros al mes. ||| 셉텐트리오가 노르드마르크 국가의 펀드라는 것. 스페인의 이익에 반하는 작전들에 자금을 댔다는 것. 그리고 마드리드에 이니셜 F. A.의 컨설턴트가 있어 매달 4만 유로를 받는다는 것입니다.
+ARRIETA: ¿F. A.? ||| F. A.요?
+ÁLVARO: Sí. ||| 네.
+ARRIETA: Hay muchos F. A. en este ministerio. ||| 이 부처에는 F. A.가 많습니다.
+ÁLVARO: Lo sé. Por eso he pedido a la abogada que haga una verificación reglada. Cada persona con esas iniciales, con una pregunta idéntica. ||| 압니다. 그래서 변호사에게 정해진 절차의 확인을 요청했습니다. 그 이니셜을 가진 사람 각각에게 똑같은 질문으로요.
+ARRIETA: ¿Incluyéndome a mí? ||| 저도 포함해서요?
+ÁLVARO: Incluyéndole a usted, señor secretario de Estado. Y a la señora ministra, si se llamase Fernanda. ||| 국무차관님도 포함해서요. 그리고 장관님도 이름이 페르난다라면 포함입니다.
+ALBORNOZ: Me llamo Elvira. ||| 제 이름은 엘비라예요.
+ÁLVARO: Entonces está a salvo. ||| 그럼 안전하시군요.
+ALBORNOZ: Qué amable. Arrieta, no se ofenda. Quintana tiene razón: un procedimiento general es lo único justo. ||| 친절하시네요. 아리에타, 기분 상하지 마세요. 킨타나 말이 맞아요. 일반 절차만이 공정합니다.
+ARRIETA: No me ofendo. Solo me sorprende que se deje este asunto en manos de quien lo ha visto desde fuera. ||| 기분 상하지 않았습니다. 다만 이 일을 밖에서 본 사람 손에 맡기는 게 놀랍군요.
+ÁLVARO: Desde fuera se ve mejor. Es lo que dice cualquier pintor. ||| 밖에서 보면 더 잘 보이죠. 화가라면 누구나 하는 말입니다.
+ALBORNOZ: Quintana, quiero encargarle algo más. En Nueva York, como enviado especial de la candidatura. Sin rango de embajador ante la ONU. Con acceso a todo. ||| 킨타나, 하나 더 맡기겠습니다. 뉴욕에서 입후보 특사로요. 유엔 대사의 직급은 없이, 모든 것에 접근할 수 있게요.
+ÁLVARO: ¿Con qué función? ||| 어떤 역할로요?
+ALBORNOZ: La de hacer lo que hace usted. Escuchar. Y encontrar el hueco. ||| 당신이 하는 일요. 듣는 것. 그리고 틈을 찾는 것.
+ÁLVARO: Acepto. Con una condición. ||| 수락합니다. 조건 하나가 있습니다.
+ALBORNOZ: Dígala. ||| 말해 보세요.
+ÁLVARO: Que todo lo que se me pida y todo lo que haga quede registrado. Sin gestiones que no consten. ||| 제게 요청되는 모든 것과 제가 하는 모든 일이 기록되는 것입니다. 기록 없는 조치는 없어야 합니다.
+ALBORNOZ: Eso ya lo tiene. Es lo que firmó con Lacalle. ||| 그건 이미 있죠. 라칼레와 서명한 내용이니까요.
+ÁLVARO: Lo sé. Pero hay veces que conviene repetirlo. ||| 압니다. 하지만 되풀이하는 게 좋을 때가 있습니다.
+## 안보리 회의장 — LA SALA DEL CONSEJO
+MORENO: Álvaro Quintana. Celia Moreno. Soy la embajadora de España ante Naciones Unidas desde hace tres años. ||| 알바로 킨타나. 셀리아 모레노입니다. 3년째 주유엔 스페인 대사로 있어요.
+ÁLVARO: Embajadora. He oído hablar mucho de usted. ||| 대사님. 말씀 많이 들었습니다.
+MORENO: Todo falso. Pase. Es la sala del Consejo de Seguridad. La van a ver en las películas. En persona es más pequeña. ||| 전부 거짓일 겁니다. 들어오세요. 안보리 회의장입니다. 영화에서나 보셨겠죠. 실제로는 더 작아요.
+ÁLVARO: Es más pequeña. ||| 더 작네요.
+MORENO: Quince sillas en una mesa de herradura. Cinco permanentes. Diez no permanentes. Y detrás... mire. ||| 말발굽 모양 탁자에 의자가 열다섯 개. 상임이사국 다섯, 비상임 열. 그리고 뒤에는… 보세요.
+ÁLVARO: Hay otras sillas. En una fila, contra la pared. ||| 다른 의자들이 있군요. 벽을 따라 한 줄로요.
+MORENO: Las sillas de los asesores. Detrás de cada embajador. Ahí se sientan los que redactan, los que susurran, los que corrigen. ||| 보좌관 의자예요. 대사들 뒤에 있죠. 문안을 쓰고, 속삭이고, 고쳐 주는 사람들이 앉습니다.
+ÁLVARO: Las sillas de los que escriben. ||| 쓰는 사람들의 의자로군요.
+MORENO: Los diplomáticos de verdad llevan años sentados en esas sillas. Rara vez sale su nombre. ||| 진짜 외교관들은 몇 년씩 그 의자에 앉아 있어요. 이름이 나오는 일은 드물고요.
+ÁLVARO: Es una cátedra. ||| 강단이군요.
+MORENO: Es un destierro cómodo. Pero tiene una ventaja: desde ahí se ve todo, y nadie le mira. ||| 편안한 유배죠. 하지만 장점이 있어요. 거기서는 다 보이고 아무도 쳐다보지 않아요.
+ÁLVARO: Embajadora, ¿puedo preguntarle una cosa? ¿Qué ha leído sobre el Congreso de Viena? ||| 대사님, 하나 여쭤도 될까요? 빈 회의에 대해 무엇을 읽으셨습니까?
+MORENO: ¿Por qué lo pregunta? ||| 왜 묻습니까?
+ÁLVARO: Porque estoy pensando en un español de aquella época. Pedro Gómez Labrador. Marqués de Labrador. ||| 그 시대의 스페인 사람을 생각하고 있어서요. 페드로 고메스 라브라도르, 라브라도르 후작입니다.
+MORENO: El plenipotenciario que no firmó el Acta Final. ||| 최종 의정서에 서명하지 않은 전권대사 말이군요.
+ÁLVARO: El mismo. En mil ochocientos quince, España estaba sentada en la sala. Había ganado la guerra contra Napoleón. Y sin embargo no fue convocada a las reuniones decisivas. ||| 그렇습니다. 1815년 스페인은 회의장에 앉아 있었습니다. 나폴레옹과의 전쟁에서 이겼는데도 결정적인 회의에는 초대받지 못했죠.
+MORENO: Los cuatro grandes se reunían aparte. ||| 4대국이 따로 모였죠.
+ÁLVARO: Y Labrador protestó, y se enfadó, y al final se negó a firmar. Cuando todos firmaron, él no. España no se adhirió hasta mil ochocientos diecisiete. ||| 그리고 라브라도르는 항의하고 화를 냈고 결국 서명을 거부했습니다. 모두 서명했을 때 그만 안 했죠. 스페인은 1817년에야 가입했습니다.
+MORENO: Dos años fuera de la mesa. ||| 2년 동안 탁자 밖에 있었군요.
+ÁLVARO: Por una silla mal ocupada. Él estaba sentado. Pero no estaba presente. ||| 잘못 앉은 의자 때문에요. 앉아는 있었지만 함께 있지는 않았어요.
+MORENO: ¿Y cuál es la lección? ||| 교훈이 뭡니까?
+ÁLVARO: Que el asiento es lo de menos. Importa cómo se sienta uno. ||| 의석은 부차적이라는 것입니다. 어떻게 앉느냐가 중요하죠.
+MORENO: Muy bonito, pero Nordmark no va a regalarnos nada. ||| 아주 멋지지만 노르드마르크는 우리에게 아무것도 거저 주지 않을 겁니다.
+ÁLVARO: No quiero que nos lo regalen. Quiero hablar con su embajador. Hoy. ||| 선물로 받고 싶지 않습니다. 그쪽 대사와 얘기하고 싶습니다. 오늘요.
+MORENO: ¿Hedlund? ¿Ole Hedlund? Es un hombre muy reservado. ||| 헤들룬드요? 올레 헤들룬드? 아주 과묵한 사람이에요.
+ÁLVARO: Los reservados suelen ser los que mejor escuchan. ||| 과묵한 사람들이 대개 가장 잘 듣죠.
+MORENO: Lo veo esta tarde en el comedor de delegados. Suele estar solo a las cinco. ||| 오늘 오후 대표단 식당에서 볼 수 있어요. 다섯 시에는 보통 혼자 있습니다.
+ÁLVARO: Perfecto. Y embajadora... ¿le importaría que Pilar Gil esté presente? ||| 좋습니다. 그리고 대사님… 필라르 힐이 동석해도 괜찮겠습니까?
+MORENO: ¿La abogada? ¿Por qué? ||| 변호사요? 왜죠?
+ÁLVARO: Para que todo conste. Para que nadie pueda decir después que hablamos de lo que no hablamos. ||| 모든 게 기록되도록요. 나중에 우리가 하지 않은 얘기를 했다고 누가 말하지 못하게요.
+MORENO: Eso es algo que no se hace en la ONU. ||| 유엔에서는 하지 않는 일이에요.
+ÁLVARO: Por eso conviene. ||| 그래서 좋은 겁니다.
++ asiento no permanente = 비상임 의석
++ mayoría de dos tercios = 3분의 2 다수. 안보리 비상임이사국은 총회 출석·투표국의 3분의 2 득표로 뽑힌다
++ ronda = (투표) 회차. 'rondas de votación'
++ enviado especial = 특사. 특정 임무로 파견되는 외교관
++ plenipotenciario = 전권대사. 국가를 대표해 협정을 협상·서명할 전권을 가진 사람
++ Acta Final = 최종 의정서. 1815년 빈 회의의 마지막 문서
++ sillas de los asesores = 보좌관 의자. 안보리 회의장에서 각국 대사 뒤에 놓이는 의자
++ destierro cómodo = 편안한 유배. 한직이지만 안락한 자리를 가리킨다
++ constar = 기록에 남다. 'que conste'(분명히 해 두다)와 같은 어근
+## 대표단 식당 — EL COMEDOR DE DELEGADOS
+HEDLUND: Señor Quintana. Me han dicho que usted era agregado en alguna parte, y que ahora es especial. ||| 킨타나 씨. 어디선가 주재관이셨고 지금은 특사라고 들었습니다.
+ÁLVARO: Eso dicen. Embajador Hedlund, gracias por aceptar. Esta es la señora Pilar Gil, abogada del Estado. Está aquí a petición mía, para que todo conste. ||| 그렇게들 말하죠. 헤들룬드 대사님, 응해 주셔서 감사합니다. 이분은 국가 변호사 필라르 힐 씨입니다. 제 요청으로 와 있고 모든 걸 기록하기 위해서입니다.
+HEDLUND: Qué peculiar. ¿Debo temer algo? ||| 별나군요. 제가 두려워해야 합니까?
+ÁLVARO: No. Debe sentirse protegido. Si usted dice algo que no quiere que se repita, lo dice delante de una persona que sabe qué se puede y qué no se puede repetir. ||| 아니요. 보호받는다고 느끼셔야 합니다. 되풀이되길 원치 않는 말을 하시면 무엇을 되풀이할 수 있고 없는지 아는 사람 앞에서 하시는 겁니다.
+HEDLUND: Muy sutil. Siéntese. Pida un café, que es bueno. ||| 아주 섬세하군요. 앉으세요. 커피를 시키세요, 괜찮습니다.
+ÁLVARO: Gracias. Embajador, ¿puedo hacerle una pregunta general? ||| 감사합니다. 대사님, 일반적인 질문을 해도 될까요?
+HEDLUND: Hágala. ||| 하세요.
+ÁLVARO: ¿Cree usted que el Consejo de Seguridad necesita a Nordmark y a España, o a uno de los dos? ||| 안보리에 노르드마르크와 스페인이 둘 다 필요하다고 보십니까, 둘 중 하나만 필요하다고 보십니까?
+HEDLUND: Necesita a quien gane. ||| 이기는 쪽이 필요하죠.
+ÁLVARO: Esa respuesta es cortés y no dice nada. ||| 정중하지만 아무 말도 안 하는 답입니다.
+HEDLUND: Ja. Es la única que se les permite a los diplomáticos. ||| 하. 외교관에게 허용된 유일한 답이죠.
+ÁLVARO: Voy a proponerle un ejercicio de memoria. ¿Recuerda cómo se resolvió la elección de dos mil dieciséis entre Italia y Países Bajos? ||| 기억 연습을 하나 제안하겠습니다. 2016년 이탈리아와 네덜란드의 선거가 어떻게 해결됐는지 기억하십니까?
+HEDLUND: Cinco rondas. Empate. Y luego decidieron repartirse el mandato: uno un año, otro el otro. ||| 다섯 번의 투표. 동점. 그리고 임기를 나누기로 했죠. 한 나라가 1년, 다른 나라가 1년.
+ÁLVARO: Exacto. Y nadie perdió la cara. ||| 맞습니다. 그리고 아무도 체면을 잃지 않았죠.
+HEDLUND: Aquello fue una excepción. ||| 그건 예외였습니다.
+ÁLVARO: Fue un precedente. Que para eso sirven. ||| 선례였습니다. 선례는 그러라고 있는 거죠.
+HEDLUND: ¿Me propone que compartamos el asiento? ||| 의석을 나누자는 제안입니까?
+ÁLVARO: Le propongo que lo piense antes de que una quinta ronda lo decida por ustedes. ||| 다섯 번째 투표가 대신 결정하기 전에 생각해 보시라는 겁니다.
+HEDLUND: Nordmark nunca comparte. Es una tradición. ||| 노르드마르크는 절대 나누지 않습니다. 전통이죠.
+ÁLVARO: Las tradiciones son mortales. Se acaban cuando alguien lee la fecha en que empezaron. ||| 전통은 죽을 수 있습니다. 누가 시작된 날짜를 읽으면 끝나죠.
+HEDLUND: ¿Y cuándo empezó la nuestra? ||| 우리 전통은 언제 시작됐습니까?
+ÁLVARO: No lo sé. Pero me gustaría que usted me lo dijera. ||| 모릅니다. 하지만 대사님이 말씀해 주시면 좋겠습니다.
+HEDLUND: Quintana, ¿qué quiere realmente? ||| 킨타나 씨, 정말 원하는 게 뭡니까?
+ÁLVARO: Una conversación honesta. Y una historia que contarle. ||| 정직한 대화입니다. 그리고 들려 드릴 이야기 하나.
+HEDLUND: Las historias me aburren. ||| 이야기는 지루합니다.
+ÁLVARO: Esta es corta. En mil ochocientos quince, un plenipotenciario español llamado Labrador estaba sentado en el Congreso de Viena. Tenía silla, voto y credenciales. Pero se negó a firmar porque no le dieron lo que quería. ||| 짧습니다. 1815년 라브라도르라는 스페인 전권대사가 빈 회의에 앉아 있었습니다. 의자도 표도 신임장도 있었죠. 하지만 원하는 걸 받지 못하자 서명을 거부했습니다.
+HEDLUND: ¿Y qué ocurrió? ||| 어떻게 됐습니까?
+ÁLVARO: Que durante dos años, España tuvo una silla vacía en la historia de Europa. Había ganado la guerra y perdió la paz. Por no saber sentarse. ||| 2년 동안 스페인은 유럽 역사에 빈 의자를 가졌습니다. 전쟁에서 이기고 평화에서 졌어요. 앉는 법을 몰라서요.
+HEDLUND: ¿Está sugiriendo que Nordmark no sabe sentarse? ||| 노르드마르크가 앉는 법을 모른다는 말입니까?
+ÁLVARO: Estoy sugiriendo que a veces se gana el asiento y se pierde la mesa. ||| 가끔은 의석을 얻고 탁자를 잃는다는 말입니다.
+HEDLUND: Qué manera de hablar. ||| 말씀하시는 방식이 참.
+ÁLVARO: Perdone. Es un defecto de la profesión. ||| 죄송합니다. 직업병입니다.
+HEDLUND: Me gusta, a mi pesar. Siga. ||| 마음에 듭니다, 내키지 않지만. 계속하십시오.
+ÁLVARO: Embajador, ¿qué piensa su Gobierno de Septentrio? ||| 대사님, 귀국 정부는 셉텐트리오를 어떻게 생각합니까?
+HEDLUND: ... ¿De qué fondo me habla? ||| …무슨 펀드 말씀입니까?
+PILAR: Queda constancia de que el embajador Hedlund ha dudado antes de responder. ||| 헤들룬드 대사가 대답 전에 망설였다는 점을 기록합니다.
+HEDLUND: No ha dudado. Ha pensado. Hay una diferencia. ||| 망설이지 않았습니다. 생각했습니다. 차이가 있죠.
+ÁLVARO: Con todo respeto, no tengo ninguna intención de acusar a su Estado. Mi tesis es otra: que hay un fondo, dentro de un Estado, que actúa en nombre del Estado sin que el Estado lo sepa del todo. ||| 정중히 말씀드리지만 귀국을 고발할 생각은 없습니다. 제 논지는 다릅니다. 국가 안의 한 펀드가 국가도 완전히 알지 못한 채 국가의 이름으로 행동한다는 것이죠.
+HEDLUND: Eso es una teoría. ||| 이론이군요.
+ÁLVARO: Una teoría que, si es cierta, su ministro de Exteriores querrá conocer antes que yo. ||| 사실이라면 귀국 외무장관이 저보다 먼저 알고 싶어 할 이론입니다.
+HEDLUND: ¿Y por qué me lo cuenta a mí? ||| 왜 제게 말씀하십니까?
+ÁLVARO: Porque usted tiene la capacidad de llevárselo. Y porque creo que ya sospecha algo. ||| 대사님은 그걸 본국에 가져갈 능력이 있으니까요. 그리고 이미 뭔가 의심하고 계신다고 생각해서입니다.
+HEDLUND: Señor Quintana... ||| 킨타나 씨…
+ÁLVARO: No hace falta que conteste. Solo que lo piense. En Nordmark hay un antiguo edicto: el que informa a tiempo, no paga el precio entero. ||| 대답하실 필요는 없습니다. 생각만 해 주세요. 노르드마르크에도 오래된 칙령이 있죠. 제때 알리는 사람은 값을 온전히 치르지 않는다.
+HEDLUND: Eso no existe. ||| 그런 건 없습니다.
+ÁLVARO: En España sí. Se llama «plazo de gracia». Lo puede aplicar un Estado, con otros. ||| 스페인에는 있습니다. '은혜의 기간'이라고 하죠. 국가가 다른 나라들과 함께 적용할 수 있습니다.
+HEDLUND: Entonces tengo una cosa que decirle yo también. ||| 그럼 저도 한 가지 말씀드릴 게 있군요.
+ÁLVARO: Adelante. ||| 말씀하세요.
+HEDLUND: Su situación es peor de lo que cree. Los ciento catorce votos que usted considera firmes... no son tan firmes. ||| 당신 상황은 생각보다 나쁩니다. 확약이라고 보시는 114표는… 그렇게 확고하지 않아요.
+ÁLVARO: ¿Ciento catorce? ||| 114표요?
+HEDLUND: Ciento catorce. Y dieciséis dudosos. Ya lo sé. ||| 114표. 그리고 불확실 16표. 이미 알고 있습니다.
+ÁLVARO: ¿Quién se lo ha dicho? ||| 누가 말했습니까?
+HEDLUND: Nadie me lo ha dicho. Se oye. En Nueva York, estas cosas se oyen. ||| 아무도 말하지 않았습니다. 들립니다. 뉴욕에서는 이런 게 들려요.
+ÁLVARO: Embajador, esas cifras las conocemos solo cinco personas. Y las supimos esta mañana. ||| 대사님, 그 숫자는 다섯 명밖에 모릅니다. 그리고 오늘 아침에 알았습니다.
+HEDLUND: ... ||| …
+PILAR: Embajador, ¿quiere que quede constancia de que usted conocía esas cifras antes de esta conversación? ||| 대사님, 이 대화 이전에 그 숫자를 알고 계셨다는 점을 기록해 드릴까요?
+HEDLUND: No. Mejor no. Y, señora, con su permiso, voy a tomarme este café y a terminar la reunión. ||| 아니요. 하지 않는 편이 좋겠습니다. 그리고 부인, 허락하신다면 이 커피를 마시고 모임을 끝내겠습니다.
+ÁLVARO: Gracias por su sinceridad. Es lo que más me ha ayudado. ||| 솔직함에 감사드립니다. 가장 큰 도움이 됐습니다.
+HEDLUND: Esta noche pensaré en su historia. En cualquier caso, no hay otra cosa que pueda hacer. ||| 오늘 밤 당신 이야기를 생각해 보겠습니다. 어쨌든 제가 할 수 있는 다른 일은 없습니다.
+ÁLVARO: Eso es más de lo que esperaba. ||| 기대한 것 이상입니다.
+## 밤 — LA NOCHE
+PILAR: Quintana, ¿qué ha ocurrido? Hedlund ha dado las cifras exactas. ||| 킨타나 씨, 무슨 일입니까? 헤들룬드가 정확한 숫자를 말했어요.
+ÁLVARO: Ha ocurrido que hay alguien que filtra. Y que ha filtrado a las cinco de la tarde lo que se le dijo a las nueve de la mañana. ||| 누군가 유출한다는 겁니다. 그리고 아침 아홉 시에 들은 걸 오후 다섯 시에 흘렸어요.
+PILAR: Siete horas. ||| 일곱 시간이군요.
+ÁLVARO: Siete horas. Es poco. Lo que significa que no pasó por mucha gente. Pasó por pocas manos y muy rápido. ||| 일곱 시간. 짧습니다. 많은 사람을 거치지 않았다는 뜻이죠. 몇 안 되는 손을 아주 빠르게 지나갔어요.
+PILAR: ¿Qué hacemos? ||| 어떻게 합니까?
+ÁLVARO: Esta noche, usted y yo vamos a redactar cuatro versiones de un cuadro de votos. ||| 오늘 밤 당신과 제가 투표 명단 네 가지 버전을 작성합니다.
+PILAR: ¿Cuatro? ||| 네 가지요?
+ÁLVARO: Cada una con una diferencia pequeña. En un país, un voto más. En otro, un voto menos. Que se lea igual, pero que no sea idéntica. ||| 각각 작은 차이를 두고요. 한 나라는 한 표 더, 다른 나라는 한 표 덜. 읽으면 같아 보이지만 똑같지는 않게요.
+PILAR: Una marca de agua. ||| 워터마크군요.
+ÁLVARO: Una marca de agua. Se la daremos a cuatro personas. Y esperaremos qué versión se oye en Nordmark. ||| 워터마크죠. 네 사람에게 줍니다. 그리고 어느 버전이 노르드마르크에서 들리는지 기다리는 겁니다.
+PILAR: Eso es un engaño. ||| 속임수입니다.
+ÁLVARO: Es una prueba. Y la hago delante de usted, con acta. Quien no tiene nada que ocultar no va a molestarse. ||| 시험입니다. 그리고 당신 앞에서 조서를 쓰며 하는 겁니다. 숨길 게 없는 사람은 불쾌해하지 않아요.
+PILAR: ¿Y quién recibirá las versiones? ||| 누가 받습니까?
+ÁLVARO: La embajadora Moreno. El secretario de Estado Arrieta. El jefe de gabinete de la ministra, Fernando Aguirre. Y el agregado de prensa, Felipe Arenas. ||| 모레노 대사. 아리에타 국무차관. 장관의 비서실장 페르난도 아기레. 그리고 공보 주재관 펠리페 아레나스.
+PILAR: ¿Los tres F. A.? ||| F. A. 셋이군요?
+ÁLVARO: Dos F. A. más Arrieta. Y la embajadora, para tener un testigo sin iniciales. ||| F. A. 둘에 아리에타, 그리고 이니셜 없는 증인으로 대사님이죠.
+PILAR: Eso va a ser doloroso. ||| 고통스러울 겁니다.
+ÁLVARO: Quizá. Pero más doloroso es no saberlo. ||| 어쩌면요. 하지만 모르는 게 더 고통스럽습니다.
+LUCÍA: Papá, ¿estás ahí? Te veo muy serio. ||| 아빠, 거기 있어요? 아주 진지해 보여요.
+ÁLVARO: Estoy en Nueva York, hija. Con muy poco sueño. ¿Qué haces despierta? ||| 뉴욕이란다, 얘야. 잠이 거의 없어. 너는 왜 안 자니?
+LUCÍA: Es por la mañana aquí. Papá, hice una nota a pie de página sobre ese Labrador. ||| 여긴 아침이에요. 아빠, 그 라브라도르에 대한 각주를 달았어요.
+ÁLVARO: ¿Una nota? ||| 각주라고?
+LUCÍA: «Pedro Gómez Labrador no firmó porque no quería quedar peor de lo que ya estaba. Y quedó peor». ||| '페드로 고메스 라브라도르는 이미 처한 것보다 더 나빠지고 싶지 않아서 서명하지 않았다. 그리고 더 나빠졌다.'
+ÁLVARO: Eso lo has escrito tú. ||| 네가 쓴 거구나.
+LUCÍA: Sí. ¿Está bien? ||| 네. 괜찮아요?
+ÁLVARO: Está mejor que lo que yo habría escrito. ||| 내가 쓸 만한 것보다 낫구나.
+LUCÍA: Mamá y yo iremos a Nueva York en junio. Dice mamá que no quiere perderse el día de la votación. ||| 엄마와 저는 6월에 뉴욕에 갈 거예요. 엄마가 표결 날을 놓치고 싶지 않대요.
+ÁLVARO: ¿Elena ha dicho eso? ||| 엘레나가 그렇게 말했다고?
+LUCÍA: Con otras palabras. Dijo: «A ver si tu padre, por una vez, termina lo que empieza». ||| 다른 말로요. '네 아빠가 이번엔 시작한 걸 끝내는지 보자'라고 했어요.
+ÁLVARO: Qué ternura. ||| 다정하기도 하지.
+LUCÍA: Es su forma de decir que cree en ti. ||| 엄마 방식으로 아빠를 믿는다는 거예요.
+ÁLVARO: Lo sé. Buenas noches. Y buen día. ||| 알아. 잘 자라. 그리고 좋은 하루 보내고.
++ marca de agua = 워터마크. 여기서는 버전마다 숨겨 둔 작은 차이
++ cuadro de votos = 투표 명단(표 집계표)
++ filtrar / filtración = 유출하다 / 유출
++ jefe de gabinete = 비서실장. 장관 직속 비서실을 이끄는 사람
++ agregado de prensa = 공보 주재관
++ plazo de gracia = 은혜의 기간(9화에서 나온 표현의 반복)
++ quedar peor = 더 나빠지다. 'quedar'는 처지가 되다
++ a mi pesar = 내키지 않지만. 'a pesar de mí'
