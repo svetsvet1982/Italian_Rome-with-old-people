@@ -1,0 +1,85 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 10
+@title De hoorzitting
+@ko 청문회
+@setting 2주 뒤 화요일 하원(Tweede Kamer) 외교위원회 청문회장 → 휴정 복도 → 저녁
+@level B2-C1
+@cast JOOST | 외무부 해사 특별 사절, 46세
+@cast VERBEEK | 외교위원회 위원장, 58세
+@cast VANDONGEN | 야당 의원, 52세
+@cast ACHTERBERG | 여당 의원, 44세
+@cast NOOR | 방청석의 딸, 17세
+@cast FEMKE | 분석관, 32세
+@cast MINISTER | 외무부 장관 판 베이크, 62세
+@note 3부 D사건(제방 청문)의 첫 화입니다. 하원 청문회에서 요스트는 '질문이 나오기 전에 답부터 밝히는' 방식으로 자신이 쓴 비공식 수단과 결정을 설명합니다. 역사 논거는 빌럼 1세의 『변론(Apologie)』(1580): 필리프 2세의 현상 수배령에 맞서 숨지 않고 공개 문서로 답한 선례입니다. 어휘는 의회·청문(hoorzitting, commissie, verantwoording, vragenlijst, doorvragen)과 법정식 직설 표현에 주목하세요.
+@next 3부 11화 — «Het geweten van Visser»(비서르의 양심) — 청문회가 끝난 뒤 비서르가 편지를 건넵니다. 처벌과 증언 사이에서 요스트가 고민합니다.
+
+## 청문회장 — DE HOORZITTING
+VERBEEK: Dames en heren, ik open de openbare hoorzitting van de vaste commissie voor Buitenlandse Zaken. Aan de orde is de werkwijze van de bijzondere gezant voor maritieme zaken, de heer J. Hartog. Meneer Hartog, u hebt de vragenlijst gekregen? ||| 여러분, 외교위원회 공개 청문회를 개회합니다. 안건은 해사 특별 사절 J. 하르토흐 씨의 업무 방식입니다. 하르토흐 씨, 질문 목록은 받으셨습니까?
+JOOST: Ik heb hem gekregen, mevrouw de voorzitter. Vijfenzestig vragen. Ik heb alle vijfenzestig gelezen. ||| 받았습니다, 위원장님. 예순다섯 개입니다. 전부 읽었습니다.
+VERBEEK: En wilt u uw standpunt toelichten? ||| 입장을 설명하시겠습니까?
+JOOST: Ja. Ik wil een verklaring afleggen. Voordat u een vraag stelt. ||| 네. 질문하시기 전에 진술을 하겠습니다.
+VERBEEK: Hoe lang? ||| 얼마나요?
+JOOST: Twintig minuten. ||| 20분입니다.
+VERBEEK: Dat is lang voor een openingsverklaring. ||| 모두 발언치고는 깁니다.
+JOOST: Ik heb vijfenzestig vragen. Dat is minder dan twintig seconden per vraag. ||| 질문이 65개니까 하나에 20초도 안 됩니다.
+VERBEEK: Ga uw gang. ||| 하세요.
+JOOST: Mevrouw de voorzitter, dames en heren. In 1580 schreef Willem van Oranje een tekst. Hij heette «Apologie». De koning van Spanje had hem vogelvrij verklaard. Er stond een prijs op zijn hoofd. Willem kon vluchten. Hij kon zwijgen. In plaats daarvan schreef hij een lange, openbare brief. Hij legde alles uit. Zijn beweegredenen. Zijn fouten. Zijn vrienden. Hij liet iedereen lezen wat hij had gedaan. ||| 위원장님, 의원 여러분. 1580년 오라녜 공 빌럼이 글을 한 편 썼습니다. 『변론』이라는 글이죠. 스페인 왕이 그를 법의 보호 밖에 두었고 목에 현상금이 걸렸습니다. 빌럼은 도망칠 수도 침묵할 수도 있었습니다. 대신 길고 공개적인 서한을 썼어요. 모든 것을 설명했습니다. 동기와 실수와 친구들을요. 자기가 한 일을 모두가 읽게 했습니다.
+ACHTERBERG: Meneer Hartog, u vergelijkt zich met Willem van Oranje? ||| 하르토흐 씨, 빌럼 판 오라녜와 자신을 비교하는 겁니까?
+JOOST: Nee. Ik vergelijk uw hoorzitting met zijn brief. Het is hetzelfde genre. ||| 아니요. 이 청문회를 그의 서한과 견주는 겁니다. 같은 장르죠.
+ACHTERBERG: Dat is een brutale opmerking. ||| 당돌한 말이군요.
+JOOST: Ik heb een vader gehad die zei: «Een dijk breekt niet door brutaliteit, maar door stilte». ||| 아버지가 말씀하셨죠. "제방은 당돌함 때문이 아니라 침묵 때문에 무너진다."
+VERBEEK: Meneer Hartog, ga verder. ||| 하르토흐 씨, 계속하세요.
+JOOST: Ik begin met de vragen die ik het liefst niet beantwoord. Er zijn er vijf. ||| 가장 답하기 싫은 질문부터 하겠습니다. 다섯 개입니다.
+VERBEEK: Welke zijn dat? ||| 어떤 거죠?
+JOOST: Eén: «Hebt u informatie van de AIVD gebruikt zonder dat de minister ervan wist?» Antwoord: ja. Twee keer. ||| 하나, '장관이 모르는 채 AIVD 정보를 사용했는가'. 답은 '네'입니다. 두 번요.
+VERBEEK: Twee keer. ||| 두 번이요.
+JOOST: Een keer in de zaak van het Vredespaleis. Toen heb ik van een medewerkster van de dienst belgegevens ontvangen die onrechtmatig waren verkregen. Ik heb ze niet gebruikt. Ik heb ze pas geopend in aanwezigheid van een landsadvocaat en een notaris. Dat staat in een proces-verbaal. ||| 한 번은 평화궁 사건 때입니다. 그때 정보기관 직원에게서 불법으로 입수된 통화 기록을 받았습니다. 쓰지 않았어요. 국가 소송대리인과 공증인이 입회한 자리에서야 열었습니다. 조서에 있습니다.
+VANDONGEN: Dat is een creatieve uitleg van de regels. ||| 규칙을 창의적으로 해석하셨군요.
+JOOST: Ik beschouw het als de minst slechte. ||| 가장 덜 나쁜 해석이라고 봅니다.
+VANDONGEN: En de tweede keer? ||| 그럼 두 번째는요?
+JOOST: Vorige week. Een transcript van een etentje in Voorburg. Ik heb het niet gebruikt. Ik heb een formeel verzoek ingediend om het lobbyregister openbaar te maken. Dat is gebeurd. ||| 지난주입니다. 포어뷔르흐 식사 자리의 녹취록이었어요. 쓰지 않았습니다. 대신 로비 등록부 공개를 공식 요청했고 공개됐습니다.
+VANDONGEN: Dus u hebt de informatie niet gebruikt, maar u hebt er wel iets mee gedaan. ||| 그러니 정보를 쓰지는 않았지만 그걸로 뭔가를 하셨군요.
+JOOST: Ja. Ik heb de vraag gesteld die het transcript me deed stellen. ||| 네. 녹취록이 던지게 한 질문을 했습니다.
+VANDONGEN: Dat is hetzelfde. ||| 같은 일입니다.
+JOOST: Dat is een aanvaardbaar verschil. Maar ik begrijp dat u het niet ziet. ||| 받아들일 만한 차이입니다. 하지만 보지 못하신다는 건 이해합니다.
+VERBEEK: Dat is een scherpe zin. ||| 날카로운 문장이군요.
+JOOST: Ik zeg het met respect. ||| 존중하며 하는 말입니다.
+## 다섯 개의 질문 — DE VIJF VRAGEN
+JOOST: Vraag twee. «Hebt u een ambtenaar langer dan nodig laten werken met een belangenverstrengeling?» Antwoord: ja. Rutger Visser. ||| 둘째 질문입니다. '이해충돌이 있는 공무원을 필요 이상으로 오래 일하게 했는가'. 답은 '네'입니다. 뤼트허르 비서르요.
+VANDONGEN: Visser. De man van de zijbrief. ||| 비서르. 부수서한의 그 사람.
+JOOST: Hij heeft in 1998 gezwegen. Hij heeft het vorig jaar zelf verteld. Ik heb hem laten blijven als getuige. Ik wist dat zijn zwager voor Helion werkte. Ik wist niet dat hij zich weer in vergaderingen bevond. ||| 1998년에 침묵했고 작년에 스스로 말했습니다. 저는 그가 증인으로 남게 했습니다. 처남이 헬리온 쪽에서 일하는 건 알았지만 그가 다시 회의에 앉아 있는지는 몰랐어요.
+VANDONGEN: U wist het niet. Of u wilde het niet weten. ||| 몰랐거나 알고 싶지 않았거나겠죠.
+JOOST: Allebei. ||| 둘 다입니다.
+VANDONGEN: Dat is een bijzonder eerlijk antwoord. ||| 아주 정직한 답이군요.
+JOOST: Het is geen compliment. Het is een tekortkoming. Ik had hem eerder moeten bellen. ||| 칭찬이 아니라 결함입니다. 더 일찍 전화했어야 했어요.
+VERBEEK: Wanneer hebt u hem gebeld? ||| 언제 전화하셨습니까?
+JOOST: Vorige week. Een maand te laat. ||| 지난주입니다. 한 달 늦었죠.
+VERBEEK: Ga door. ||| 계속하세요.
+JOOST: Vraag drie. «Hebt u in de zaak van de Karangstraat een aanbeveling gedaan die Nederlandse reders benadeelde?» Antwoord: ja. Het bakengeld is zes dollar per container. Dat kost de Nederlandse reders vierentwintig miljoen dollar per jaar. ||| 셋째 질문입니다. '카랑 해협 건에서 네덜란드 선주에게 불리한 권고를 했는가'. 답은 '네'입니다. 표지세는 컨테이너당 6달러이고 네덜란드 선주에게 연 2,400만 달러가 듭니다.
+ACHTERBERG: Waarom hebt u dat gedaan? ||| 왜 그렇게 하셨습니까?
+JOOST: Omdat de alternatieven duurder waren. Een miljard per jaar. En omdat een betaling voor een dienst, openlijk beheerd, beter is dan een tol voor een doorgang. ||| 대안이 더 비쌌으니까요. 연 10억입니다. 그리고 서비스 대가를 공개적으로 관리하는 쪽이 통과에 대한 통행료보다 낫기 때문입니다.
+ACHTERBERG: Dat is een politieke keuze. ||| 정치적 선택이군요.
+JOOST: Ja. Ik heb haar voorgelegd aan de minister. Zij heeft haar gedeeld met het kabinet. ||| 네. 장관께 제시했고 장관이 내각과 공유했습니다.
+ACHTERBERG: Dus u beslist niet alleen. ||| 그러니 혼자 결정하시는 게 아니군요.
+JOOST: Nooit. Ik doe voorstellen. Het kabinet beslist. ||| 한 번도요. 저는 제안하고 내각이 결정합니다.
+JOOST: Vraag vier. «Heeft u zich vertrouwelijk laten informeren door een buitenlandse diplomaat over een ontwikkeling in diens land?» Antwoord: ja. Mevrouw Kartika van Karang vertelde mij vooraf van de tol. Ik zal haar naam noemen, want zij is er trots op. ||| 넷째 질문입니다. '외국 외교관에게서 그 나라의 동향을 비공식적으로 들었는가'. 답은 '네'입니다. 카랑의 카르티카 대리인이 통행료를 미리 알려 줬습니다. 이름을 밝히겠습니다. 그녀가 자랑스러워하니까요.
+VERBEEK: Was dat gevaarlijk voor haar? ||| 그녀에게 위험했습니까?
+JOOST: Een beetje. Ze heeft me gebeld om te zeggen dat ze het zo wilde. ||| 조금요. 그렇게 하겠다고 직접 전화했습니다.
+JOOST: Vraag vijf. «Is er iets in uw werkwijze dat u niet zou herhalen?» Antwoord: ja. Eén ding. ||| 다섯째 질문입니다. '업무 방식 중 되풀이하지 않을 것이 있는가'. 답은 '네'입니다. 한 가지요.
+VERBEEK: Welk? ||| 어떤 거죠?
+JOOST: Te lang wachten met bellen. ||| 전화를 너무 오래 미루는 것입니다.
+VANDONGEN: Is dat alles? ||| 그게 전부입니까?
+JOOST: Voor de vijf lastigste vragen, ja. De overige zestig beantwoord ik graag. ||| 가장 어려운 다섯 개에 대해서는요. 나머지 예순 개도 기꺼이 답하겠습니다.
++ vaste commissie = 상임위원회
++ vragenlijst = 질문 목록
++ openingsverklaring = 모두 발언
++ vogelvrij = 법의 보호 밖에 놓인(현상수배 상태)
++ Apologie = 『변론』(1580). 빌럼이 공개적으로 쓴 변호서
++ beweegreden = 동기
++ proces-verbaal = 조서
++ tekortkoming = 결함, 부족한 점
++ benadelen = 불리하게 하다, 손해를 끼치다
++ vertrouwelijk = 비공개로, 내밀히
