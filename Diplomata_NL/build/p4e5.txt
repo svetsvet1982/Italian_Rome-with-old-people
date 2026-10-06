@@ -1,0 +1,181 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 5
+@title De Sint-Elisabethsvloed
+@ko 성 엘리자베스 홍수
+@setting D−8 기상청 야간 관측실 → 민방위 본부 장군 집무실 → 기자회견장
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast RENDI | 기상청 예보관(랄리타의 사촌), 36세
+@cast NOOR | 요스트의 딸, 18세
+@cast FEMKE | 분석관, 33세
+@cast BASUKI | 국방·민방위 총책 장군, 58세
+@cast SURYO | 수자원부 장관, 54세
+@cast ESTHER | 신문 기자, 40세
+@cast ARIEF | 수자원부 차관보, 38세
+@note D−8. 기상청의 야간 관측실에서 '두 개의 곡선'이 발견됩니다. 공개된 예보보다 실제 운영 예보의 정점이 하루 앞서 있습니다. 역사 논거는 성 엘리자베스 홍수(Sint-Elisabethsvloed, 1421년 11월): 홀란트 남부의 '흐로터 바르트(큰 땅)'가 하룻밤에 바다로 변한 사건으로, 제방 유지 소홀과 영주들의 다툼 속에서 '누구의 일인가'가 흐려진 결과였다고 전해집니다. 해법은 두 곡선을 한 판에 겹쳐 공개하는 것. 어휘는 예보·보도(prognose, piekmoment, uitgelekt, persconferentie)에 주목하세요.
+@next 6화: 네덜란드 자문 헤인과 정면으로 부딪칩니다. 모델의 불확실성 폭을 공개할지를 두고 — 로렌츠 위원회가 걸은 길입니다.
+
+## 야간 관측실 — DE NACHTELIJKE METEOKAMER
+RENDI: Meneer Hartog? Ik ben Rendi. Lalita is mijn tante. ||| 하르토흐 씨죠? 렌디입니다. 랄리타가 제 이모예요.
+JOOST: Ze heeft u gebeld. ||| 이모님이 전화하셨군요.
+RENDI: Ze zei: de Hollander die zijn boek in mijn keuken heeft laten liggen. ||| '내 부엌에 수첩을 두고 간 네덜란드 사람'이라고 하셨죠.
+JOOST: Dat ben ik. ||| 그게 저예요.
+RENDI: Komt u binnen. Het is hier koud. De airco staat altijd te hoog. ||| 들어오세요. 여긴 추워요. 에어컨이 늘 너무 세거든요.
+JOOST: Wat wilt u mij laten zien? ||| 저에게 보여 주실 게 뭡니까?
+RENDI: Twee schermen. Het linker is wat wij aan de regering geven. Het rechter is wat ons eigen model rekent. ||| 화면 두 개요. 왼쪽은 우리가 정부에 주는 예보고, 오른쪽은 우리 자체 모델이 계산한 거예요.
+JOOST: Waarom twee? ||| 왜 둘이죠?
+RENDI: Omdat ik ze een maand geleden nog hetzelfde noemde. ||| 한 달 전만 해도 둘을 같은 것이라고 불렀으니까요.
+JOOST: En nu niet meer. ||| 이제는 아니고요.
+RENDI: Kijk naar de piek. Links ligt hij op zaterdagavond zes uur. Rechts op vrijdagavond zes uur. ||| 정점을 보세요. 왼쪽은 토요일 저녁 6시, 오른쪽은 금요일 저녁 6시예요.
+JOOST: Vierentwintig uur verschil. ||| 24시간 차이군요.
+RENDI: Precies een dag. Links begint de golf pas een dag later te lopen. ||| 정확히 하루예요. 왼쪽에선 파도가 하루 늦게 시작되도록 돼 있죠.
+JOOST: Wie heeft het linker model aangepast? ||| 왼쪽 모델은 누가 바꿨습니까?
+RENDI: Mijn directeur. Op bevel van de generaal. ||| 제 국장입니다. 장군의 명령으로요.
+JOOST: Waarom? ||| 왜죠?
+RENDI: Hij zei dat een vroege waarschuwing paniek veroorzaakt. Als we zeggen dat het vrijdag komt, rent iedereen naar de snelweg. ||| 이른 경고는 공황을 일으킨다고 했어요. 금요일이라고 하면 다들 고속도로로 몰려들 거라고요.
+JOOST: En de waarheid? ||| 진실은요?
+RENDI: Mijn model zegt vrijdag. ||| 제 모델은 금요일이에요.
+JOOST: Hoe zeker bent u? ||| 얼마나 확신합니까?
+RENDI: Tachtig procent. ||| 80퍼센트요.
+JOOST: En het linker model? ||| 왼쪽 모델은요?
+RENDI: Dat is niet gebaseerd op een nieuwe meting. Het is dezelfde meting, een dag later. ||| 새 관측에 근거한 게 아니에요. 같은 관측을 하루 뒤로 옮긴 거죠.
+JOOST: Wie weet dit? ||| 이걸 아는 사람은 누굽니까?
+RENDI: Ik. Mijn collega Dewi. De directeur. En de generaal. ||| 저, 동료 데위, 국장, 그리고 장군이요.
+JOOST: Vier mensen. ||| 네 사람이군요.
+RENDI: Vijf. Nu ook u. ||| 다섯입니다. 이제 당신도요.
+JOOST: Rendi, waarom vertelt u dit aan mij? ||| 렌디, 왜 저에게 말하는 겁니까?
+RENDI: Omdat mijn tante zegt dat u luistert. Dat is zeldzaam. ||| 이모가 당신은 듣는 사람이라고 해서요. 드문 일이거든요.
+JOOST: Ik moet iets vragen. Wat gebeurt er met u als dit uitkomt? ||| 하나 물어야겠습니다. 이게 알려지면 당신에게 무슨 일이 생기죠?
+RENDI: Ontslag. Misschien erger. ||| 해고요. 어쩌면 더 나쁜 일도요.
+JOOST: Dat is een prijs. ||| 대가가 있군요.
+RENDI: Ik weet het. Ik heb er drie nachten over nagedacht. ||| 알아요. 사흘 밤을 고민했어요.
+JOOST: Ik wil u iets beloven. Als wij dit publiceren, dan niet met uw naam. Maar met de data en met de logs. ||| 약속하겠습니다. 이걸 공개한다면 당신 이름이 아니라 데이터와 기록으로 하겠습니다.
+RENDI: Logs zijn namen. ||| 기록은 곧 이름이에요.
+JOOST: Dan met een digitale handtekening van de computer. Niet van de mens. ||| 그럼 사람이 아니라 컴퓨터의 전자 서명으로요.
+RENDI: Dat kan. Het systeem tekent automatisch. ||| 가능해요. 시스템이 자동으로 서명하니까요.
+JOOST: Dan hebben we een bewijs zonder gezicht. ||| 그럼 얼굴 없는 증거가 되겠군요.
+RENDI: Dat is wat ik wil. ||| 제가 바라는 바예요.
+NOOR: Pap, ben je daar? Ik zie het scherm van Rendi. ||| 아빠, 거기 계세요? 렌디 씨 화면이 보여요.
+JOOST: Noor, je ziet het. ||| 노르, 보이니?
+NOOR: Twee lijnen. Een rode en een blauwe. De blauwe loopt een dag later. ||| 선이 두 개예요. 빨간 선과 파란 선. 파란 선이 하루 늦어요.
+JOOST: Kun je ze over elkaar leggen? ||| 겹칠 수 있겠니?
+NOOR: Ja. Eén grafiek, dezelfde assen. Dan ziet iedereen het verschil zonder uitleg. ||| 네. 한 그래프에 같은 축으로요. 그러면 설명 없이도 차이가 보여요.
+JOOST: Dat is het idee. Een plaatje dat niemand kan weglachen. ||| 바로 그거야. 아무도 웃어넘기지 못할 그림.
+NOOR: Hoe laat is het nu bij jullie? ||| 거긴 지금 몇 시예요?
+JOOST: Half twee 's nachts. ||| 새벽 1시 반.
+NOOR: Dan heb je zeven uur voor het ontbijt. ||| 그럼 아침 식사까지 7시간 있네요.
+JOOST: Wat doe je daarmee? ||| 그 시간에 뭘 하라고?
+NOOR: Slapen. Ik regel de rest. ||| 자요. 나머지는 제가 할게요.
++ meteokamer = 기상 관측실
++ piek = 정점
++ prognose = 예보
++ aangepast = 수정된, 조정된
++ ontslag = 해고
++ gebaseerd op = ~에 근거한
++ digitale handtekening = 전자 서명
++ zonder gezicht = 얼굴 없는
++ wegwuiven/weglachen = 웃어넘기다, 일축하다
++ airco = 에어컨
+
+## 장군의 집무실 — HET KANTOOR VAN DE GENERAAL
+BASUKI: U vraagt om een gesprek om zeven uur 's ochtends. ||| 아침 7시에 면담을 요청하셨군요.
+JOOST: Generaal, dank dat u mij ontvangt. ||| 장군님, 만나 주셔서 감사합니다.
+BASUKI: Ik ontvang u omdat ik wil weten wat u in mijn polder doet. ||| 제 폴더에서 뭘 하고 있는지 알고 싶어서 만나는 겁니다.
+JOOST: Het is niet uw polder. ||| 장군님의 폴더가 아닙니다.
+BASUKI: Het is mijn verantwoordelijkheid. ||| 제 책임입니다.
+JOOST: Dat is iets anders. Mag ik u iets laten zien? ||| 그건 다르죠. 보여 드릴 게 있습니다.
+BASUKI: Wat? ||| 뭔가요?
+JOOST: Een grafiek. Twee lijnen. ||| 그래프입니다. 선이 두 개예요.
+BASUKI: Een grafiek. ||| 그래프라.
+JOOST: De rode lijn is het model van de weerdienst, het eigen model, met een piek op vrijdagavond. De blauwe lijn, met de piek op zaterdagavond, is wat u aan de regering geeft. ||| 빨간 선은 기상청 자체 모델로, 정점이 금요일 저녁이에요. 정점이 토요일 저녁인 파란 선은 장군님이 정부에 주시는 거고요.
+BASUKI: Waar hebt u dit vandaan? ||| 이건 어디서 구했습니까?
+JOOST: Van een computer. Hij heeft het zelf getekend. ||| 컴퓨터에서요. 컴퓨터가 직접 서명했습니다.
+BASUKI: Een computer tekent niet. ||| 컴퓨터는 서명하지 않습니다.
+JOOST: Deze wel. Met een tijdstempel. Gisteravond, drieëntwintig uur eenentwintig. ||| 이건 합니다. 타임스탬프와 함께요. 어젯밤 23시 21분.
+BASUKI: U hebt geen recht op die data. ||| 그 데이터에 대한 권한이 없잖소.
+JOOST: Ik heb er geen recht op. De mensen die in de polder wonen wel. ||| 저는 없습니다. 하지만 폴더에 사는 사람들에겐 있죠.
+BASUKI: Meneer Hartog, ik doe dit om paniek te voorkomen. ||| 하르토흐 씨, 저는 공황을 막으려고 이러는 겁니다.
+JOOST: Ik begrijp dat. Mag ik u iets vertellen over iets wat vijfhonderd jaar geleden gebeurd is? ||| 이해합니다. 5백 년 전에 일어난 일 하나를 말씀드려도 될까요?
+BASUKI: U hebt vijf minuten. ||| 5분 드리겠소.
+JOOST: Negentien november veertienhonderdeenentwintig. Sint-Elisabethsnacht, in Holland. Een storm van zee, en een hoog water in de rivier. ||| 1421년 11월 19일입니다. 홀란트의 성 엘리자베스의 밤. 바다에서 폭풍이 오고 강에서도 수위가 높았죠.
+BASUKI: Een overstroming. ||| 홍수였군요.
+JOOST: Een heel land verdween. De Grote Waard. Twintig dorpen, duizenden doden. Daarna lag er een zee, en uit die zee groeide de Biesbosch. ||| 땅 하나가 통째로 사라졌습니다. 흐로터 바르트요. 마을 스무 곳, 수천 명이 죽었어요. 그 뒤에 바다가 생겼고, 그 바다에서 비스보스가 자랐죠.
+BASUKI: Dat is geschiedenis. ||| 역사네요.
+JOOST: Het is een les. De dijken waren al jaren slecht onderhouden. De graaf en de edelen waren verwikkeld in een oorlog. Wie moest de dijk repareren? Dat was niet duidelijk. ||| 교훈입니다. 제방은 몇 해 동안 제대로 관리되지 않았어요. 백작과 귀족들은 전쟁 중이었고요. 누가 제방을 고쳐야 하는지가 불분명했죠.
+BASUKI: En de moraal? ||| 그래서 교훈이 뭡니까?
+JOOST: Dat de dijk niet brak omdat niemand het wist. Hij brak omdat iedereen dacht dat het iemand anders ging melden. ||| 아무도 몰라서 제방이 무너진 게 아니라는 거죠. 누군가 다른 사람이 알릴 거라고 모두가 생각해서 무너졌습니다.
+BASUKI: Ik meld het. Aan de president. ||| 저는 알립니다. 대통령께요.
+JOOST: Aan wie nog? ||| 또 누구에게요?
+BASUKI: Aan wie het moet weten. ||| 알아야 할 사람에게요.
+JOOST: Dertigduizend boeren moeten het weten. ||| 농민 3만 명이 알아야 합니다.
+BASUKI: Zij begrijpen het niet. ||| 그들은 이해하지 못합니다.
+JOOST: Mevrouw Lalita begrijpt het. Ze heeft een kaart getekend. Ze heeft een zandzakkenkade bedacht. ||| 랄리타 씨는 이해합니다. 지도를 그렸고 모래주머니 방벽도 구상했죠.
+BASUKI: Een boerin. ||| 농부일 뿐이오.
+JOOST: Een boerin met een sirene en drieduizend namen. ||| 사이렌과 3천 개의 이름을 가진 농부입니다.
+BASUKI: Wat wilt u, meneer Hartog? ||| 원하는 게 뭡니까, 하르토흐 씨?
+JOOST: Dat u beide lijnen publiceert. Vandaag. ||| 두 선을 모두 공개하세요. 오늘.
+BASUKI: En als ik weiger? ||| 거부하면요?
+JOOST: Dan doet de minister het. Onder artikel zes. ||| 장관이 하겠죠. 6조에 따라서요.
+BASUKI: Artikel zes. Een papier van een fonds. ||| 6조라. 기금의 종이 한 장이군.
+JOOST: Een papier dat u zelf hebt laten tekenen. ||| 장군님이 직접 서명하게 한 종이죠.
+BASUKI: Dat was iets anders. ||| 그땐 사정이 달랐소.
+JOOST: Ja. Toen kostte het niets. ||| 그렇죠. 그땐 비용이 안 들었으니까요.
+BASUKI: U bent een slimme man. ||| 영리한 사람이오.
+JOOST: Mijn vader was dijkwachter. Dat is geen slimheid. Het is gewoonte. ||| 아버지가 제방지기였습니다. 영리함이 아니라 습관이죠.
+BASUKI: U laat mij geen keuze. ||| 나에게 선택지를 주지 않는군.
+JOOST: Ik geef u één. Doe het zelf, vandaag. Dan staat u erbij als de generaal die het eerst meldde. ||| 하나는 드립니다. 오늘 직접 하세요. 그러면 장군님은 먼저 알린 사람으로 남습니다.
+BASUKI: En als ik het niet doe? ||| 안 하면?
+JOOST: Dan staat u erbij als de generaal die het verborg. ||| 그럼 숨긴 사람으로 남겠죠.
+BASUKI: U dreigt. ||| 협박이군.
+JOOST: Ik reken. ||| 계산하는 겁니다.
+BASUKI: Ik denk erover na. Ga nu. ||| 생각해 보겠소. 이제 나가시오.
+JOOST: Eén ding nog, generaal. De piek komt vrijdag. Niet zaterdag. ||| 하나만 더, 장군님. 정점은 금요일입니다. 토요일이 아니에요.
+BASUKI: Dat zeggen uw studenten. ||| 당신네 학생들 얘기겠지.
+JOOST: Dat zegt uw eigen computer. ||| 장군님의 컴퓨터가 하는 말입니다.
+
+## 기자회견 — DE PERSCONFERENTIE
+SURYO: Dames en heren, ik zal kort zijn. Ik heb een grafiek bij mij met twee lijnen. ||| 여러분, 짧게 하겠습니다. 선이 두 개인 그래프를 가져왔습니다.
+ESTHER: Meneer de minister, Esther Bakker, De Nieuwe Courant. Ik zit hier als gast uit Nederland. ||| 장관님, 에스터 바커, 신문 '데 니우어 쿠란트'입니다. 네덜란드에서 온 손님으로 앉아 있습니다.
+SURYO: Mevrouw Bakker, welkom. Het is een uitzondering. Maar het is een uitzonderlijke week. ||| 바커 씨, 환영합니다. 예외지만 예외적인 한 주니까요.
+ESTHER: Wat staat er op die grafiek? ||| 그 그래프에는 무엇이 있습니까?
+SURYO: De rode lijn is het eigen model van de weerdienst. De blauwe is de voorspelling die tot gisteren aan mijn ministerie werd gegeven. ||| 빨간 선은 기상청 자체 모델입니다. 파란 선은 어제까지 제 부처에 제공된 예보고요.
+ESTHER: Zij verschillen. ||| 둘이 다르군요.
+SURYO: Zij verschillen een dag. De piek komt vrijdagavond, niet zaterdagavond. ||| 하루 다릅니다. 정점은 토요일 저녁이 아니라 금요일 저녁에 옵니다.
+ESTHER: Waarom is dat nu pas bekend? ||| 왜 이제야 알려졌습니까?
+SURYO: Dat is een goede vraag. Ik wil het ook weten. ||| 좋은 질문입니다. 저도 알고 싶습니다.
+ESTHER: Wie heeft de blauwe lijn gemaakt? ||| 파란 선은 누가 만들었죠?
+SURYO: Dat laat ik onderzoeken. Door een onafhankelijke commissie. Niet door mijn ministerie, niet door het leger. ||| 독립 위원회에 조사시키겠습니다. 제 부처도 군도 아닌 곳에서요.
+ESTHER: En de generaal? ||| 장군은요?
+SURYO: De generaal heeft vanochtend om negen uur beide lijnen aan mij gestuurd. Hij heeft de rode lijn zelf erkend. ||| 장군은 오늘 아침 9시에 두 선을 모두 제게 보냈습니다. 빨간 선을 스스로 인정했어요.
+ESTHER: Echt? ||| 정말입니까?
+SURYO: Het staat in het bericht. ||| 메시지에 있습니다.
+ESTHER: Hij heeft het dus uiteindelijk zelf gemeld. ||| 결국 스스로 알린 셈이군요.
+SURYO: Ja. Dat is een correct woord. ||| 네. 정확한 표현입니다.
+ESTHER: Meneer de minister, wat betekent die dag voor de mensen in Sawa? ||| 장관님, 그 하루가 사와 사람들에게 무슨 의미입니까?
+SURYO: Het betekent dat hun tijd korter is. Dat willen zij horen van mij, niet van de radio. ||| 그들의 시간이 더 짧아졌다는 뜻입니다. 그건 라디오가 아니라 저에게서 들어야 합니다.
+ESTHER: Hoeveel dagen hebben ze? ||| 며칠이 남았죠?
+SURYO: Zeven, geen acht. ||| 8일이 아니라 7일입니다.
+ESTHER: Hoe lang had de generaal willen wachten? ||| 장군은 얼마나 기다리려 했습니까?
+SURYO: Ik weet het niet. Dat zal de commissie zeggen. ||| 저도 모릅니다. 위원회가 말해 줄 겁니다.
+ESTHER: Mag ik een laatste vraag stellen? ||| 마지막 질문 하나 해도 됩니까?
+SURYO: Eén. ||| 하나요.
+ESTHER: Wie heeft u dit laten zien? ||| 누가 이걸 보여 줬습니까?
+SURYO: Een grafiek, mevrouw Bakker. Een grafiek zonder gezicht. ||| 그래프입니다, 바커 씨. 얼굴 없는 그래프요.
+ESTHER: Dat is een mooie zin. ||| 멋진 문장이네요.
+SURYO: Hij is niet van mij. Hij is van een Nederlander die dat soort zinnen heeft. ||| 제 문장이 아닙니다. 그런 문장을 잘 만드는 네덜란드 사람 겁니다.
+ESTHER: Meneer Hartog zit achterin. ||| 하르토흐 씨가 뒤에 앉아 있네요.
+JOOST: Ik luister alleen. ||| 저는 듣고만 있습니다.
+ESTHER: Dat doet u nooit, meneer Hartog. ||| 당신이 그럴 리 없죠, 하르토흐 씨.
+JOOST: Dit keer wel. ||| 이번엔 그렇습니다.
++ weerdienst = 기상청
++ tijdstempel = 타임스탬프
++ verwikkeld = 얽혀 있는
++ onderhouden = 관리하다, 보수하다
++ onafhankelijk = 독립적인
++ onderzoeken = 조사하다
++ uitzondering = 예외
++ meldde = 알렸다(melden의 과거형)
++ Sint-Elisabethsvloed = 성 엘리자베스 홍수(1421년 11월 18~19일 밤)
++ Biesbosch = 비스보스(홍수 뒤 생긴 습지·강 하구 지대)
