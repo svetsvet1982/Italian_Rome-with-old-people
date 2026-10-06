@@ -1,0 +1,83 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 4
+@title Ruimte voor de rivier
+@ko 강을 위한 공간
+@setting D−9 사와 학교 강당 → 칸다르(화상 연결) → 해질녘 학교 운동장
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast DARMA | 늙은 농부, 71세
+@cast SITI | 마을 교사, 29세
+@cast SURYO | 수자원부 장관, 54세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast SLAMET | 사와 수문 감독, 49세
+@cast TEUN | 오버디프 폴더 농부(화상), 55세
+@cast NOOR | 요스트의 딸, 18세
+@note D−9. 농민·정부·기술자 3자 원탁입니다. 학생들의 계산 결과가 나오고, 농민들이 직접 범람 구역을 그려 넣습니다. 역사 논거는 네덜란드 오버디프 폴더(Overdiepse Polder)와 '강을 위한 공간(Ruimte voor de Rivier)' 정책(2000년대): 강을 더 높은 제방으로 가두는 대신 강에 땅을 돌려주고, 농민은 테르프(terp, 대피 둔덕) 위의 새 농장으로 옮겨 가며 스스로 계획에 참여했습니다. 어휘는 협상·계획(draagvlak, compartiment, vergoeding, terp)에 주목하세요.
+@next 5화: 비공개 예보 곡선에서 실제 정점이 하루 앞당겨져 있음을 발견합니다. 두 곡선을 한 판에 겹쳐 그립니다.
+
+## 학교 강당 — DE AULA VAN DE SCHOOL
+SITI: Dames en heren, ik open deze bijeenkomst in de aula van mijn school. ||| 여러분, 제 학교 강당에서 이 모임을 시작하겠습니다.
+LALITA: Wie zit hier? Zeg het hardop. ||| 누가 여기 앉아 있는지 소리 내어 말해 주세요.
+SITI: Vier boeren uit het dorp Tirta. Drie uit Sawa. Twee ouders uit de hoge schuren. Slamet van de sluis. ||| 티르타 마을 농민 넷, 사와 마을 셋, 높은 창고 마을 학부모 둘, 수문의 슬라멧 씨요.
+ARIEF: En van het ministerie ben ik hier, met de minister op het scherm. ||| 그리고 부처에서는 제가 왔고, 장관님은 화면으로 계십니다.
+SURYO: Goedemiddag. Ik zie jullie. ||| 안녕하세요. 여러분이 보입니다.
+LALITA: Meneer de minister, wie is de man aan het hoofd van de tafel? ||| 장관님, 상석에 앉은 저 분은 누구죠?
+JOOST: Ik zit niet aan het hoofd. Ik zit aan het einde. Dat is iets anders. ||| 저는 상석이 아니라 끝자리에 앉았습니다. 다른 일입니다.
+LALITA: Dat is een Nederlandse grap. ||| 네덜란드식 농담이네요.
+JOOST: Ik leg het uit. Het hoofd beslist. Het einde luistert. ||| 설명드리죠. 상석은 결정하고, 끝자리는 듣습니다.
+DARMA: Dan blijf je daar zitten. ||| 그럼 거기 계속 앉아 있으시오.
+JOOST: Dat is het plan. ||| 그럴 계획입니다.
+SITI: Eerste punt. De cijfers. Meneer Hartog, u hebt iets meegebracht. ||| 첫 안건은 숫자입니다. 하르토흐 씨, 가져오신 게 있죠.
+JOOST: Mijn dochter in Leiden heeft met achtendertig studenten een model gebouwd. Zij rekenen met jullie kaart, de kaart van de kinderen. ||| 라이덴에 있는 제 딸이 학생 38명과 모델을 만들었습니다. 여러분의 지도, 아이들이 그린 지도로 계산했습니다.
+LALITA: Mijn kaart? ||| 제 지도로요?
+JOOST: De kaart van Siti's klas. Noor, ben je er? ||| 시티 선생님 반이 그린 지도요. 노르, 거기 있니?
+NOOR: Ik ben er. Ik deel mijn scherm. ||| 네, 있어요. 화면을 공유할게요.
+NOOR: Dit is de polder van Sawa. De kom. Het water komt van het noordoosten. ||| 이게 사와 폴더예요. 그 그릇이죠. 물은 북동쪽에서 들어와요.
+DARMA: Het is mooi getekend. ||| 그림이 잘 그려졌구나.
+NOOR: Dat hebben de kinderen gedaan. Wij hebben alleen de hoogtes toegevoegd. ||| 아이들이 그렸어요. 우리는 높이만 더했어요.
+JOOST: Noor, wat heb je gevonden? ||| 노르, 무엇을 알아냈지?
+NOOR: Als de hele polder in één keer vol loopt, zakt de piek in Kandar met zestig centimeter. Dat is wat de generaal zegt. ||| 폴더 전체가 한꺼번에 차면 칸다르 정점이 60센티미터 내려가요. 장군이 말한 그대로예요.
+SURYO: En het alternatief? ||| 대안은요?
+NOOR: We delen de polder in vier vakken. Met de bestaande wegen en oude dijkjes. Vak A is Tirta, het laagste. Vak B ligt daarboven. Vak C is Sawa. Vak D zijn de hoge schuren. ||| 폴더를 네 구획으로 나눠요. 기존 도로와 오래된 둑으로요. A구획은 가장 낮은 티르타, B는 그 위, C는 사와, D는 높은 창고 지대예요.
+ARIEF: En als alleen vak A vol loopt? ||| A구획만 차면요?
+NOOR: Dan zakt de piek met achtentwintig centimeter. ||| 정점이 28센티미터 내려갑니다.
+ARIEF: Achtentwintig. ||| 28이군요.
+NOOR: Met A en B samen vijftig. ||| A와 B를 합치면 50이고요.
+SLAMET: En met alle vier zestig. ||| 네 구획이면 60이죠.
+NOOR: Het laatste stuk levert weinig op. De hoge vakken liggen te hoog. Ze nemen weinig water. ||| 마지막 구획은 거의 효과가 없어요. 높은 구획은 너무 높아서 물을 거의 못 받아요.
+JOOST: Wat wil dat zeggen? ||| 무슨 뜻이죠?
+NOOR: Dat we een heel dorp onder water zetten voor tien centimeter. ||| 10센티미터를 위해 마을 하나를 통째로 잠기게 한다는 거예요.
+LALITA: Dat is wat ik de generaal wilde zeggen. Hij luisterde niet. ||| 제가 장군에게 하려던 말이 그거예요. 장군은 듣지 않았죠.
+JOOST: Er is nog een tweede getal. Het tekort in Kandar is vijfenveertig centimeter, niet dertig. ||| 두 번째 숫자가 있습니다. 칸다르의 부족분은 30이 아니라 45센티미터입니다.
+SITI: Waarom vertelt niemand ons dat? ||| 왜 아무도 우리에게 그걸 말해 주지 않죠?
+JOOST: Omdat het niet gepubliceerd is. Dat moet veranderen. ||| 공개되지 않았으니까요. 그건 바뀌어야 합니다.
+SURYO: Ik teken vandaag het besluit om de ontwerpaannames te publiceren. Artikel zes van het fonds. ||| 오늘 설계 가정을 공개하는 결정에 서명하겠습니다. 기금 6조에 따라서요.
+ARIEF: Dat gaat de generaal niet leuk vinden. ||| 장군이 좋아하지 않을 겁니다.
+SURYO: Dat weet ik. ||| 압니다.
+JOOST: Terug naar de vakken. Vijfenveertig tekort. Vak A geeft achtentwintig. Er ontbreken zeventien centimeter. ||| 구획 얘기로 돌아가죠. 부족분 45. A구획이 28. 17센티미터가 모자랍니다.
+NOOR: We hebben daar een idee voor. Een tijdelijke kade. ||| 그걸 위한 아이디어가 있어요. 임시 방벽이에요.
+JOOST: Vertel. ||| 말해 봐.
+NOOR: Slamet zei het in het gesprek. In Nederland deden ze het in negentiendrieënvijftig met zandzakken. Je legt een rij, honderd kilometer lang, in de nacht. ||| 슬라멧 씨가 통화에서 말했어요. 네덜란드는 1953년에 모래주머니로 했대요. 하룻밤에 100킬로미터를 쌓아요.
+SLAMET: Een zandzakkenkade van vijfentwintig centimeter bovenop de bestaande kade van Kandar. Zeven kilometer. ||| 칸다르의 기존 방벽 위에 25센티미터 높이로 모래주머니 방벽을 얹는 겁니다. 7킬로미터예요.
+ARIEF: Hoeveel zandzakken? ||| 모래주머니가 몇 개나 필요하죠?
+SLAMET: Anderhalf miljoen. ||| 150만 개요.
+ARIEF: Binnen negen dagen? ||| 9일 안에요?
+SLAMET: Met tienduizend vrijwilligers. ||| 자원봉사자 1만 명이 있으면요.
+JOOST: Dan hebben we de som. Vak A plus een zandzakkenkade. Achtentwintig plus vijfentwintig is drieënvijftig. ||| 그럼 계산이 나옵니다. A구획에 모래주머니 방벽. 28 더하기 25는 53이에요.
+NOOR: Dat is meer dan vijfenveertig. ||| 45보다 많아요.
+JOOST: Acht centimeter marge. ||| 8센티미터 여유죠.
+SURYO: Kleine marge. ||| 작은 여유군요.
+JOOST: Kleiner dan ik wil. Maar groter dan nul. ||| 제가 원하는 것보다 작지만 0보다는 큽니다.
++ aula = 강당
++ bijeenkomst = 모임
++ piek = 정점, 피크
++ vak = 구획, 칸
++ zandzakkenkade = 모래주머니 방벽
++ marge = 여유, 오차 범위
++ vrijwilliger = 자원봉사자
++ bestaande = 기존의
++ ontbreken = 모자라다, 결여되다
++ aan het einde zitten = 끝자리에 앉다(여기서는 '듣는 자리'의 비유)
