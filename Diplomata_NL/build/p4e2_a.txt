@@ -1,0 +1,118 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 2
+@title De molengang
+@ko 풍차 통로
+@setting D−11 사와 폴더 검문소 → 논두렁 → 랄리타의 부엌 → 제방 위 해질녘
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast DARMA | 늙은 농부, 71세
+@cast SITI | 마을 교사, 29세
+@cast SLAMET | 제방 감독, 49세
+@cast SERSAN | 검문소 하사, 30세
+@cast NOOR | 요스트의 딸, 18세
+@note D−11, 요스트는 공식 일정 없이 사와 폴더로 갑니다. 역사 논거는 레이흐워터(Jan Adriaanszoon Leeghwater)와 베임스터 간척(1608~1612): 큰 호수를 한 번에 퍼내는 대신 풍차를 계단식으로 이어(molengang) 조금씩 높이 올려 퍼냈다는 원리입니다. 해법의 씨앗: 한 곳을 크게 잠기게 하지 않고 여러 곳에 조금씩 나누는 방법. 어휘는 농사·논(dijk, sawah, oogst, rijstveld)과 협상 표현(wederkerigheid, toezegging)에 주목하세요.
+@next 3화: 수문 운영 매뉴얼의 숫자가 해마다 같다는 사실을 발견합니다. 설계 가정 개정본은 장군의 금고에 있습니다.
+
+## 검문소 — DE CONTROLEPOST
+SERSAN: Halt. Papieren. ||| 정지. 서류.
+JOOST: Goedemorgen. Joost Hartog, bijzonder gezant voor deltadiplomatie. Hier is mijn pas. ||| 안녕하세요. 델타 외교 특사 요스트 하르토흐입니다. 여권 여기 있습니다.
+SERSAN: Dit gebied is afgesloten, meneer. Op bevel van de generaal. ||| 이 구역은 폐쇄됐습니다. 장군님 명령입니다.
+JOOST: Voor wie? ||| 누구에게요?
+SERSAN: Voor iedereen zonder vergunning. ||| 허가 없는 모든 사람에게요.
+JOOST: Wie geeft de vergunning? ||| 허가는 누가 줍니까?
+SERSAN: De generaal. ||| 장군님입니다.
+JOOST: En als ik een brief van de minister van Waterstaat heb? ||| 수자원부 장관의 서한이 있다면요?
+SERSAN: Dan bel ik de generaal. ||| 그럼 장군님께 전화하겠습니다.
+JOOST: Doe dat. Maar laat mij intussen één ding zeggen. Ik ben geen journalist, ik heb geen camera. Ik wil een vrouw spreken die Lalita heet. ||| 그러세요. 하지만 그동안 한 가지만 말씀드리죠. 저는 기자도 아니고 카메라도 없습니다. 랄리타라는 분을 만나고 싶을 뿐입니다.
+SERSAN: Lalita. ||| 랄리타요.
+JOOST: U kent haar. ||| 아시는군요.
+SERSAN: Mijn moeder kent haar. Ze verbouwt rijst naast haar land. ||| 어머니가 아십니다. 그분 땅 옆에서 쌀농사를 지으시거든요.
+JOOST: Dan weet u waarom ik kom. ||| 그럼 제가 왜 왔는지 아시겠네요.
+SERSAN: Mijn moeder zegt dat ze de dijk niet openen. ||| 어머니는 사람들이 제방을 열지 못하게 할 거라고 하세요.
+JOOST: En wat zegt u? ||| 하사님 생각은요?
+SERSAN: Ik zeg niets. Ik ben sergeant. ||| 저는 아무 말도 안 합니다. 하사니까요.
+JOOST: Een sergeant heeft ook een moeder. ||| 하사에게도 어머니는 있지요.
+SERSAN: Meneer, als ik u laat gaan, verlies ik mijn baan. ||| 선생님, 통과시키면 저는 직장을 잃습니다.
+JOOST: Dan wacht ik hier op de generaal. Ik heb tijd. Het is elf dagen. ||| 그럼 여기서 장군을 기다리겠습니다. 시간이 있어요. 11일이니까요.
+SERSAN: Elf dagen? ||| 11일이요?
+JOOST: De storm komt over elf dagen. Dat weet u ook. ||| 폭풍이 11일 뒤에 옵니다. 하사님도 아시죠.
+SERSAN: De radio heeft het nog niet gezegd. ||| 라디오는 아직 말하지 않았는데요.
+JOOST: Juist. En wie wil dat u het eerst hoort van de radio? ||| 그렇죠. 그런데 하사님이 그걸 라디오로 처음 듣길 누가 원합니까?
+SERSAN: Niemand. ||| 아무도요.
+JOOST: Hier is mijn pas. Noteer mijn naam in het logboek. Schrijf erbij: op verzoek van de minister. Dan bent u gedekt. ||| 여권입니다. 제 이름을 근무일지에 적으세요. '장관 요청으로'라고 덧붙이시고요. 그러면 보호받습니다.
+SERSAN: Gedekt. ||| 보호요.
+JOOST: Eerst melden. Dan ben je gedekt. ||| 먼저 알리세요. 그러면 보호받습니다.
+SERSAN: De tweede weg links. Het huis met de blauwe sirene. ||| 두 번째 길 왼쪽입니다. 파란 사이렌이 달린 집이에요.
+JOOST: Dank u. ||| 감사합니다.
+SERSAN: Meneer. Zeg haar niet dat ik het gezegd heb. ||| 선생님. 제가 말했다고는 하지 마세요.
+JOOST: Ik zeg alleen dat de moeder van een sergeant mij gegroet heeft. ||| 어떤 하사의 어머니가 안부를 전했다고만 하겠습니다.
+
+## 논두렁 — OP DE RIJSTDIJKJES
+LALITA: U bent de Hollander. ||| 당신이 그 네덜란드 사람이군요.
+JOOST: Joost Hartog. U bent Lalita. ||| 요스트 하르토흐입니다. 랄리타 씨죠.
+LALITA: Ik ben een boerin. Ik heb geen tijd. Mijn rijst moet geoogst worden. ||| 저는 농부예요. 시간이 없어요. 벼를 거둬야 하거든요.
+JOOST: Dan help ik. Geef mij een sikkel. ||| 그럼 돕겠습니다. 낫을 주세요.
+LALITA: Hebt u dat ooit gedaan? ||| 해 본 적 있어요?
+JOOST: Nee. ||| 아니요.
+LALITA: Dan staat u in de weg. ||| 그럼 방해만 되겠네요.
+JOOST: Dan sta ik in de weg en praat ik erbij. ||| 그럼 방해하면서 얘기도 하죠.
+LALITA: Praat maar. Ik luister met mijn handen. ||| 하세요. 저는 손으로 듣습니다.
+JOOST: Er komt een storm. Over elf dagen. ||| 폭풍이 옵니다. 11일 뒤에.
+LALITA: Dat weet ik sinds zaterdag. ||| 토요일부터 알고 있었어요.
+JOOST: Wie heeft het u verteld? ||| 누가 알려 줬죠?
+LALITA: Mijn neef. Hij werkt bij het weerstation. De generaal heeft verboden dat ze het zeggen. ||| 사촌이요. 기상관측소에서 일하는데, 장군이 말하지 못하게 했대요.
+JOOST: En wat denkt u dat de generaal wil? ||| 장군이 뭘 원한다고 생각하세요?
+LALITA: Ons land. ||| 우리 땅이요.
+JOOST: Het water? ||| 물이 아니고요?
+LALITA: Het water is een excuus. Als de dijk opengaat, zijn onze papieren nat. Onze papieren kunnen niet bewijzen dat het land van ons is. ||| 물은 핑계예요. 제방이 열리면 우리 서류가 젖어요. 이 땅이 우리 것이라는 걸 서류가 증명하지 못하게 되죠.
+JOOST: Welke papieren? ||| 무슨 서류요?
+LALITA: Het kadaster. Ons land is geregistreerd sinds de tijd van mijn grootvader. Maar de kaart is oud. Na een overstroming is niemand meer zeker waar de grens loopt. ||| 지적부요. 우리 땅은 할아버지 때부터 등록돼 있어요. 하지만 지도가 낡았어요. 홍수가 나면 경계가 어디인지 아무도 확신 못 해요.
+JOOST: En dan komt iemand die land koopt. ||| 그러면 땅을 사겠다는 사람이 나타나고요.
+LALITA: Dan komt een bedrijf. Dit voorjaar kwam al een man. Hij bood drie keer de prijs. ||| 회사가 오죠. 올봄에 벌써 한 사람이 왔어요. 값의 세 배를 불렀죠.
+JOOST: Wat was zijn bedrijf? ||| 어느 회사였죠?
+LALITA: Iets met «winning». ||| '빈닝' 어쩌고 하는 곳이었어요.
+JOOST: Landwinning. ||| 란트빈닝.
+LALITA: Dat klopt. Kent u ze? ||| 맞아요. 아세요?
+JOOST: Sinds maandag. ||| 월요일부터요.
+LALITA: Waarom bent u hier, meneer Hartog? Niet om te helpen met oogsten. ||| 왜 오셨어요, 하르토흐 씨? 추수를 돕자는 건 아닐 테고.
+JOOST: Ik kom om te vragen. Niet om te zeggen. ||| 말하러 온 게 아니라 묻고 싶어서 왔습니다.
+LALITA: Vragen wat? ||| 무엇을요?
+JOOST: Wat u nodig hebt om te geloven dat het eerlijk gaat. ||| 이 일이 공정하게 진행된다고 믿으려면 무엇이 필요한지요.
+LALITA: Eerlijk. Dat woord heb ik zes keer gehoord, van zes mannen met een pet. ||| 공정. 그 말은 모자 쓴 남자 여섯 명한테서 여섯 번 들었어요.
+JOOST: Wat zeiden ze? ||| 뭐라고 했나요?
+LALITA: Dat het eerlijk was. En daarna kwam de bulldozer. ||| 공정하다고요. 그 뒤에 불도저가 왔죠.
+JOOST: Ik heb geen bulldozer. ||| 저한텐 불도저가 없습니다.
+LALITA: U hebt ook geen sikkel. ||| 낫도 없고요.
+JOOST: Geef mij er een. ||| 하나 주세요.
+LALITA: Hier. Houd hem zo. ||| 여기요. 이렇게 잡아요.
+JOOST: Zo? ||| 이렇게요?
+LALITA: Nee. Verkeerd. U snijdt uw hand. ||| 아니, 틀렸어요. 손을 벱니다.
+JOOST: Dank u. ||| 고맙습니다.
+LALITA: Dan nu de vraag. Wat wilt u weten? ||| 이제 질문을 하세요. 뭘 알고 싶죠?
+JOOST: Wie woont er in de laagste hoek van de polder? ||| 폴더에서 가장 낮은 구석에는 누가 삽니까?
+LALITA: Vierhonderdzestig huishoudens. Rond het dorp Tirta. ||| 460가구요. 티르타 마을 주변이에요.
+JOOST: Vierhonderdzestig. En de hoogste hoek? ||| 460가구. 가장 높은 구석은요?
+LALITA: Daar staan de rijstschuren. Daar wonen mensen die tien jaar geleden naar de stad zijn vertrokken. ||| 쌀 창고들이 서 있어요. 10년 전에 도시로 떠난 사람들 집이고요.
+JOOST: En in het midden? ||| 가운데는요?
+LALITA: Mijn dorp. Sawa. ||| 제 마을, 사와요.
+JOOST: En de rest van de polder? ||| 나머지 폴더는요?
+LALITA: Rijstvelden. Een veld per gezin. Het is de grootste graanschuur van het land. ||| 논이죠. 한 가정에 논 하나씩. 이 나라에서 가장 큰 쌀 곡창이에요.
+JOOST: Als de generaal de dijk opent, loopt alles tegelijk vol. ||| 장군이 제방을 열면 전부 한꺼번에 물이 차겠군요.
+LALITA: Alles. Van de laagste tot de hoogste. ||| 전부요. 가장 낮은 곳부터 가장 높은 곳까지.
+JOOST: En als het water niet alles tegelijk in zou mogen? ||| 물이 한꺼번에 들어오지 못하게 한다면요?
+LALITA: Wat bedoelt u? ||| 무슨 말이죠?
+JOOST: Dat weet ik nog niet. Ik wil het zien. Neemt u mij mee naar de dijk? ||| 아직 저도 모르겠어요. 보고 싶습니다. 제방으로 데려가 주시겠어요?
++ controlepost = 검문소
++ vergunning = 허가
++ logboek = 근무일지, 항해일지
++ gedekt = 보호받는, 책임이 면제된
++ sikkel = 낫
++ oogsten = 수확하다
++ kadaster = 지적부, 토지 등기소
++ grens = 경계
++ huishouden = 가구
++ rijstkorrel = 쌀알(여기서는 곡창이라는 비유)
++ Eerst melden. Dan ben je gedekt. = 먼저 알리면 보호받는다(시리즈의 '먼저 말하면 값이 싸다' 변주)

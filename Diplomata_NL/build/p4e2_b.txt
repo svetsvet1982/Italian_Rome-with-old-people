@@ -1,0 +1,128 @@
+
+## 제방 위 — OP DE DIJK
+SLAMET: Mevrouw Lalita. U brengt een bezoeker. ||| 랄리타 씨. 손님을 데려오셨군요.
+LALITA: Hij wil de dijk zien. ||| 제방을 보고 싶대요.
+SLAMET: Meneer Hartog. Wij hebben elkaar ontmoet. Kuala Delta. De regennacht. ||| 하르토흐 씨. 우리 만난 적 있죠. 쿠알라 델타, 비 오던 밤에.
+JOOST: Slamet. U was de toezichthouder bij het piping. ||| 슬라멧. 파이핑 때 감독을 맡으셨죠.
+SLAMET: Ik ben hier tegenwoordig ook. Ik beheer de sluizen van Sawa. ||| 요즘은 여기서 일합니다. 사와 수문을 관리해요.
+JOOST: Hoe lang kan een polder dit water verdragen? ||| 폴더가 이 물을 얼마나 견딥니까?
+SLAMET: Als de dijk opengaat? Een halve dag, en dan staat alles tot de nok. Het is een kom, meneer. ||| 제방을 열면요? 반나절이면 지붕 꼭대기까지 찹니다. 그릇이니까요.
+JOOST: Een kom. ||| 그릇.
+SLAMET: Zonder dwarsdijken. De Nederlanders hebben hem zo ontworpen. In negentienzestig. Eén grote kom. ||| 가로 제방도 없이요. 네덜란드 사람들이 1960년에 그렇게 설계했어요. 커다란 그릇 하나로.
+JOOST: En als wij hem verdelen? ||| 나눈다면요?
+SLAMET: Waarmee? ||| 무엇으로요?
+JOOST: Met wat er is. Kades, wegen, oude dijkjes, rijstdijkjes. ||| 있는 걸로요. 방벽, 도로, 오래된 둑, 논두렁.
+SLAMET: Een rijstdijkje houdt nog geen kikker tegen. ||| 논두렁은 개구리 한 마리도 못 막아요.
+JOOST: Maar met honderd rijstdijkjes? ||| 논두렁이 백 개라면요?
+SLAMET: Dan houdt het water een uur langer. ||| 그럼 물이 한 시간 더 버티죠.
+JOOST: Een uur is genoeg als je weet waar je het uur voor gebruikt. ||| 그 한 시간을 어디에 쓰는지 안다면 충분합니다.
+LALITA: Wat bedoelt u? ||| 무슨 뜻이죠?
+JOOST: Mag ik u iets vertellen over een man die dat deed? ||| 그걸 했던 사람 이야기를 해도 될까요?
+LALITA: Kort. ||| 짧게요.
+JOOST: Zestienhonderd. Noord-Holland. Een meer dat Beemster heet. Een enorm meer, zo groot als een stad. De kooplieden wilden het droogleggen. ||| 1600년대 초, 노르트홀란트입니다. 베임스터라는 호수가 있었어요. 도시만큼 큰 호수였고, 상인들이 물을 빼서 땅으로 만들고 싶어 했죠.
+LALITA: En lukte dat? ||| 됐나요?
+JOOST: In het begin niet. Eén molen kon het meer niet leeghalen. Twee ook niet. ||| 처음엔 안 됐어요. 풍차 한 대로는 호수를 비울 수 없었고, 두 대도 안 됐죠.
+SLAMET: Waarom niet? ||| 왜죠?
+JOOST: Omdat een molen water maar een paar meter kan optillen. Dan staat het water nog te laag. ||| 풍차는 물을 몇 미터밖에 못 들어 올려서요. 그래도 물이 아직 낮은 데 있는 거죠.
+SLAMET: Ah. Een trap. ||| 아, 계단이군요.
+JOOST: Precies. Een man, Jan Adriaanszoon Leeghwater, bouwde molens in rijen. De eerste tilde het water op naar de tweede. De tweede naar de derde. Een molengang. ||| 맞아요. 얀 아드리안스존 레이흐바터라는 사람이 풍차를 줄지어 세웠어요. 첫 번째가 물을 두 번째로 올리고, 두 번째가 세 번째로 올렸죠. '풍차 통로'입니다.
+LALITA: Veel molens. ||| 풍차가 많았겠네요.
+JOOST: Tientallen. Elke molen deed een klein deel. Samen leegden ze een meer. ||| 수십 대였습니다. 한 대는 조금씩만 했고, 함께 호수를 비웠죠.
+LALITA: En wat heeft dat met mijn polder te maken? ||| 그게 제 폴더와 무슨 상관이죠?
+JOOST: Wat als wij niet één dijk openen, maar het water in trappen laten stromen? Eerst een klein stuk, dan een volgend. Niet alles tegelijk, niet alles op één plek. ||| 제방 하나를 열지 않고 물을 계단식으로 흘려보내면 어떨까요? 먼저 작은 구간, 그다음 다음 구간. 한꺼번에도 아니고, 한곳에만도 아니게.
+SLAMET: Het idee is mooi. Het rekent niet. ||| 발상은 좋지만 계산이 안 맞습니다.
+JOOST: Waarom niet? ||| 왜죠?
+SLAMET: Het piekdebiet is te groot. De rivier komt in zes uur, niet in zes weken. ||| 최대 유량이 너무 커요. 강은 6주가 아니라 6시간에 옵니다.
+JOOST: Dan hebben we een model nodig dat het kan uitrekenen. ||| 그걸 계산할 모델이 필요하겠군요.
+SLAMET: Het model heeft Rijpstra. ||| 모델은 레이프스트라가 갖고 있죠.
+JOOST: Dat model ken ik. Het rekent een kom. Het rekent geen trap. ||| 그 모델은 압니다. 그릇을 계산하지, 계단을 계산하진 않아요.
+LALITA: Wilt u zeggen dat iemand dit expres niet heeft uitgerekend? ||| 누군가 일부러 이걸 계산하지 않았다는 말인가요?
+JOOST: Ik zeg dat ik het wil laten uitrekenen. Door mensen die niemand betaalt. ||| 아무도 돈을 대지 않는 사람들에게 계산시키고 싶다는 겁니다.
+SLAMET: De studenten uit Delft? ||| 델프트 학생들이요?
+JOOST: Mijn dochter heeft een lijst. ||| 제 딸한테 명단이 있습니다.
+LALITA: Uw dochter studeert? ||| 따님이 학생이에요?
+JOOST: Rechten. Eerste jaar. ||| 법학입니다. 1학년이고요.
+LALITA: En zij leest peilen voor? ||| 그런데 수위를 낭독하나요?
+JOOST: Elke dag. Hardop. ||| 매일, 소리 내어서요.
+LALITA: Dat bevalt me. ||| 마음에 드네요.
+
+## 랄리타의 부엌 — LALITA'S KEUKEN
+DARMA: Wie is die man? ||| 저 사람은 누구요?
+LALITA: Een Nederlander. Hij heeft een idee. ||| 네덜란드 사람이에요. 생각이 있대요.
+DARMA: Ideeën kosten niets. Water kost alles. ||| 생각은 공짜지. 물은 전부를 가져가고.
+LALITA: Hij heeft ook een sikkel. Hij houdt hem fout. ||| 낫도 가졌어요. 잘못 잡긴 하지만.
+DARMA: Hij moet leren. Zitten. Eet. ||| 배워야겠군. 앉아요. 먹고.
+JOOST: Dank u wel. Dit ruikt heerlijk. ||| 감사합니다. 정말 맛있는 냄새네요.
+SITI: Het is nasi met pindasaus. Mijn moeder maakte het altijd na de oogst. ||| 땅콩소스를 곁들인 밥이에요. 어머니가 추수 뒤에 늘 해 주셨죠.
+JOOST: Bent u de lerares? ||| 선생님이시죠?
+SITI: Siti. Ik geef les aan veertig kinderen in een school die op het laagste punt staat. ||| 시티예요. 가장 낮은 곳에 있는 학교에서 아이 마흔 명을 가르칩니다.
+JOOST: Tirta. ||| 티르타군요.
+SITI: Ja. Als het water komt, gaat mijn school eerst. ||| 네. 물이 오면 제 학교가 제일 먼저 잠겨요.
+JOOST: Wat wilt u dat de regering doet? ||| 정부가 어떻게 하길 바라세요?
+SITI: Dat ze het ons zeggen. Voor het gebeurt. En dat ze zeggen waar de kinderen heen kunnen. ||| 일이 벌어지기 전에 우리에게 말하는 거요. 그리고 아이들이 어디로 갈 수 있는지 알려 주는 거요.
+JOOST: Dat is een redelijke vraag. ||| 합리적인 요구입니다.
+SITI: Hoe vaak is een redelijke vraag al beantwoord? ||| 합리적인 요구에 답이 온 적이 몇 번이나 있었나요?
+JOOST: Niet vaak genoeg. ||| 충분히 자주는 아니었죠.
+DARMA: Ik ben één en zeventig. In negentienzevenentachtig kwam het water ook. Mijn buurman werd weggehaald met een bevel. Hij kwam nooit terug. ||| 나는 71세요. 1987년에도 물이 왔소. 이웃이 명령으로 끌려갔는데 돌아오지 않았지.
+JOOST: Waarheen werd hij gebracht? ||| 어디로 데려갔습니까?
+DARMA: Naar een kamp. Aan de kust. Daarna was het land van een ander. ||| 해안의 수용소로요. 그다음엔 그의 땅이 다른 사람 것이 됐소.
+JOOST: Dat is dus waarom u niet wilt vertrekken. ||| 그래서 떠나지 않겠다는 거군요.
+DARMA: Wij willen blijven. Als wij moeten gaan, willen wij zelf zeggen waarheen. ||| 우리는 남고 싶소. 가야 한다면 어디로 갈지 우리 입으로 말하고 싶고.
+JOOST: Dat is te regelen. ||| 그건 마련할 수 있습니다.
+DARMA: Jonge man, dat zeggen ze allemaal. ||| 젊은이, 다들 그렇게 말하지.
+JOOST: Dan schrijven wij het op. Hier, aan deze tafel. Met uw handtekening en de mijne, en met de handtekening van de minister. ||| 그럼 적읍시다. 여기 이 식탁에서요. 어르신 서명과 제 서명, 그리고 장관의 서명으로.
+DARMA: En als de generaal het verscheurt? ||| 장군이 찢어 버리면?
+JOOST: Dan hangen we het aan de dijk. Zodat iedereen kan zien dat hij het verscheurd heeft. ||| 그럼 제방에 걸어 놓겠습니다. 장군이 찢은 걸 모두가 볼 수 있게요.
+LALITA: Dat is een slimme zin. ||| 영리한 말이네요.
+JOOST: Het is een eerlijke. ||| 정직한 말이기도 하고요.
+LALITA: Ik geef u geen toezegging. Maar ik geef u één ding. ||| 약속은 드리지 않아요. 하지만 한 가지는 드릴게요.
+JOOST: Wat? ||| 뭔가요?
+LALITA: Een kaart. De kaart van elk huis, elke put, elke schuur in de polder. Ik heb hem laten tekenen door de kinderen van Siti. ||| 지도요. 폴더의 모든 집, 우물, 창고가 담긴 지도예요. 시티의 아이들이 그리게 했어요.
+SITI: Het is mijn aardrijkskundeles. Dit jaar was het onderwerp: ons dorp. ||| 제 지리 수업이에요. 올해 주제가 '우리 마을'이었거든요.
+JOOST: Mag ik hem kopiëren? ||| 복사해도 될까요?
+LALITA: U mag hem meenemen. Maar u brengt hem terug. ||| 가져가도 돼요. 대신 돌려주셔야 해요.
+JOOST: Ik breng hem terug. ||| 돌려 드리겠습니다.
+LALITA: Dat zeggen ze ook allemaal. ||| 그것도 다들 그렇게 말하죠.
+JOOST: Ik laat mijn notitieboekje hier tot ik terug ben. ||| 돌아올 때까지 제 수첩을 여기 두고 가겠습니다.
+LALITA: Is dat belangrijk? ||| 중요한 건가요?
+JOOST: Het is het belangrijkste dat ik heb. ||| 제가 가진 가장 중요한 물건입니다.
+
+## 해질녘 제방 — DE DIJK BIJ ZONSONDERGANG
+NOOR: Pap! Hoe was het? ||| 아빠! 어땠어요?
+JOOST: Ik heb rijst geoogst. Slecht. ||| 벼를 베었어. 서투르게.
+NOOR: En de mensen? ||| 사람들은요?
+JOOST: Ze hebben mij een kaart gegeven. Getekend door veertig kinderen. ||| 지도를 줬어. 아이 마흔 명이 그린 거야.
+NOOR: Mag ik hem zien? ||| 저도 볼 수 있어요?
+JOOST: Ik scan hem nu. Femke krijgt hem over een minuut. ||| 지금 스캔하는 중이야. 페므커가 1분 뒤에 받을 거다.
+NOOR: Wat ga je ermee doen? ||| 그걸로 뭘 하실 거예요?
+JOOST: Ik ga laten uitrekenen wat er gebeurt als het water in trappen komt. ||| 물이 계단식으로 들어올 때 어떻게 되는지 계산하게 할 거야.
+NOOR: Met een model? ||| 모델로요?
+JOOST: Met een ander model. Een open model. Jouw lijst met studenten. ||| 다른 모델로. 공개된 모델. 네 학생 명단으로.
+NOOR: Ik heb er achtendertig. ||| 서른여덟 명 있어요.
+JOOST: Welke vakken? ||| 무슨 전공이죠?
+NOOR: Waterbouw, informatica, geologie. En drie van rechten. ||| 수리공학, 정보학, 지질학이요. 그리고 법학 셋.
+JOOST: Waarom rechten? ||| 법학은 왜요?
+NOOR: Omdat iemand moet nagaan of het mag. ||| 그게 허용되는지 확인할 사람이 필요하니까요.
+JOOST: Goed. Zeg hun: twee dagen. ||| 좋아. 학생들에게 말해. 이틀이라고.
+NOOR: Twee dagen? ||| 이틀이요?
+JOOST: Elke dag telt. Het is elf dagen. ||| 하루하루가 중요해. 11일이니까.
+NOOR: Tien na vandaag. ||| 오늘 지나면 10일이에요.
+JOOST: Je hebt gelijk. Tien. ||| 맞아. 10일.
+NOOR: Pap, hoe was Lalita? ||| 아빠, 랄리타 씨는 어땠어요?
+JOOST: Als jouw opa. Hard als een dijk, en zacht als de rijst die ze oogst. ||| 네 할아버지 같았어. 제방처럼 단단하고, 자기가 거두는 벼처럼 부드러워.
+NOOR: En heeft ze ja gezegd? ||| 승낙했어요?
+JOOST: Ze heeft geen ja gezegd. Ze heeft «misschien» gezegd, met een kaart erbij. ||| 승낙은 안 했어. '어쩌면'이라고 했지, 지도 한 장과 함께.
+NOOR: Dat is genoeg. ||| 그거면 충분해요.
+JOOST: Ja. Dat is genoeg. ||| 그래. 충분하지.
++ toezichthouder = 감독관
++ dwarsdijk = 가로 제방
++ piekdebiet = 최대 유량
++ molengang = (계단식으로 이어 세운) 풍차 열
++ droogleggen = 물을 빼 육지로 만들다
++ redelijk = 합리적인
++ toezegging = (확정된) 약속, 확약
++ handtekening = 서명
++ kamp = 수용소, 캠프
++ scannen = 스캔하다
++ nagaan = 확인하다, 따져 보다
++ zo hard als een dijk = 제방처럼 단단한(직역 비유)
