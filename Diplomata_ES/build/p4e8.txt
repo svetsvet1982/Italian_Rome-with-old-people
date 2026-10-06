@@ -1,0 +1,190 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 4
+@ep 8
+@title La Gaceta
+@ko 가세타
+@setting 2월 16일 뉴욕 유엔 본부 대표부 → 기자 스테이크아웃 → 협의실 → 밤 전화
+@level B2-C1
+@cast ÁLVARO | 주유엔 스페인 부대사, 45세
+@cast MORENO | 주유엔 스페인 대사, 56세
+@cast HANNE | 유럽 일간지 기자, 40세
+@cast PALOMA | 탐사보도 기자, 39세
+@cast LUNDGREN | 노르드마르크 주유엔 대사, 49세
+@cast CALVO | 하원 외교위원회 위원장, 59세 (전화)
+@cast MARINA | 브뤼셀 EU 파견 직원, 30세 (전화)
+@note 8화는 언론전입니다. 노르드마르크 계열 신문이 '스페인의 지중해 보호령 야망'이라는 프레임을 퍼뜨립니다. 알바로는 반박 대신 '질문의 순서와 날짜'로 맞섭니다. 역사 논거는 17세기 '사건 소식지(relaciones de sucesos)'와 1661년 『가세타 누에바』: 날짜, 장소, 목격자를 밝힌 인쇄물이 소문을 이긴다는 원칙입니다. 해법의 씨앗은 결의안에 '제로 조항(cláusula cero)'을 넣는 것: 안보리 이사국(스페인 포함)은 10년간 타마지아에서 어떤 이권도 갖지 않는다. 어휘는 언론·홍보(titular, bulo, cronología, desmentir, hemeroteca)에 주목하세요.
+@next 9화: 라일라의 최측근이 군부에 정보를 넘긴 정황을 가스파르가 경고합니다. 서명 날짜의 역전이 열쇠입니다.
+
+## 아침 헤드라인 — EL TITULAR DE LA MAÑANA
+MORENO: Álvaro, ¿ha visto el periódico? ||| 알바로, 신문 봤어요?
+ÁLVARO: Lo estoy viendo. «España quiere un protectorado en el Mediterráneo». ||| 보고 있습니다. '스페인, 지중해 보호령을 원한다'.
+MORENO: Y debajo: «Un diplomático español negocia a escondidas con la heredera y gira por Salmara con un séquito». ||| 그 아래에는 이렇게 있죠. '스페인 외교관이 상속인과 몰래 협상하고 수행원을 이끌고 살마라를 돌아다닌다'.
+ÁLVARO: ¿Séquito? Fui con una nieta y una panadera. ||| 수행원이요? 손녀 한 명과 빵집 주인과 갔는데요.
+MORENO: En un titular suena a séquito. ||| 헤드라인에선 수행원처럼 들리죠.
+ÁLVARO: ¿De dónde viene? ||| 출처가 어디죠?
+MORENO: «Nordlys Tidende», de Nordmark. Reproducido por otros ocho diarios en una hora. ||| 노르드마르크의 '노르뤼스 티덴데'입니다. 한 시간 안에 다른 여덟 신문이 그대로 옮겼어요.
+ÁLVARO: Con las mismas palabras. ||| 똑같은 단어로요.
+MORENO: Con las mismas palabras. ||| 똑같은 단어로요.
+ÁLVARO: Embajador, ¿cuál es su instinto? ||| 대사님, 직감이 어떻습니까?
+MORENO: Desmentir con firmeza. Un comunicado hoy. ||| 단호히 부인하는 겁니다. 오늘 성명을 내죠.
+ÁLVARO: Yo haría lo contrario. ||| 저는 반대로 하겠습니다.
+MORENO: ¿Callar? ||| 침묵하자는 겁니까?
+ÁLVARO: No. Responder, pero no desmintiendo. Haciendo preguntas. ||| 아닙니다. 답하되 부인하지 않고 질문을 하는 겁니다.
+MORENO: Explíquese. ||| 설명해 보세요.
+ÁLVARO: Si desmentimos, discutimos nosotros y ellos sobre qué verdad cuenta. Si preguntamos, discutimos sobre quién tiene que responder. ||| 부인하면 우리와 그들이 어떤 진실이 맞느냐를 다투게 됩니다. 질문하면 누가 답해야 하느냐를 다투게 되죠.
+MORENO: Esa es una buena distinción. ||| 좋은 구분이군요.
+ÁLVARO: Y hay una historia. ||| 그리고 이야기 하나가 있습니다.
+MORENO: Naturalmente. ||| 물론 있겠죠.
+ÁLVARO: En el siglo diecisiete, España tenía un problema parecido. Corrían rumores sobre todo. Un barco hundido, un rey enfermo, una derrota. ¿Cómo se informaba la gente? ||| 17세기에 스페인에도 비슷한 문제가 있었습니다. 온갖 소문이 돌았죠. 침몰한 배, 병든 왕, 패전. 사람들은 어떻게 알았을까요?
+MORENO: Por pregones. Por cartas. ||| 포고꾼이나 편지로요.
+ÁLVARO: Y por unos pliegos impresos llamados «relaciones de sucesos». Una página, o dos. Con un título largo, un lugar, una fecha y el nombre del testigo. ||| 그리고 '사건 소식지(relaciones de sucesos)'라는 인쇄물로요. 한두 쪽짜리였고 긴 제목에 장소, 날짜, 목격자의 이름이 붙어 있었습니다.
+MORENO: «Por testigo de vista». ||| '목격자에 따르면'이로군요.
+ÁLVARO: Y en mil seiscientos sesenta y uno, en Madrid, apareció la «Gaceta Nueva». Una publicación regular, con noticias fechadas. ||| 그리고 1661년 마드리드에 『가세타 누에바』가 나왔죠. 날짜가 적힌 소식을 싣는 정기 간행물이었습니다.
+MORENO: La primera gaceta española. ||| 최초의 스페인 가제트로군요.
+ÁLVARO: La primera con continuidad. Lo importante es que su fuerza no estaba en la opinión. Estaba en la fecha. ||| 연속성을 가진 첫 간행물입니다. 중요한 건 힘이 의견에 있지 않고 날짜에 있었다는 점이에요.
+MORENO: «Aquí, el día tal, a la hora cual». ||| '여기서, 모일 모시에'라는 식이죠.
+ÁLVARO: Exacto. Un rumor no tiene fecha. Una noticia, sí. ||| 맞습니다. 소문에는 날짜가 없고 소식에는 있죠.
+MORENO: ¿Qué propone concretamente? ||| 구체적으로 무엇을 제안합니까?
+ÁLVARO: Hacer nuestra «gaceta». Una página. Con cinco preguntas, en orden, y con fechas. Y presentarla a los periodistas esta tarde. ||| 우리 '가세타'를 만드는 겁니다. 한 쪽에 질문 다섯 개를 순서대로, 날짜와 함께요. 오늘 오후 기자들에게 배포하는 거죠.
+MORENO: ¿Las preguntas? ||| 질문은요?
+ÁLVARO: Se las cuento mientras las escribo. ||| 쓰면서 말씀드리겠습니다.
++ titular = 헤드라인, 표제
++ protectorado = 보호령
++ séquito = 수행원 무리
++ desmentir = 부인하다, 반박하다
++ bulo = 가짜 뉴스, 헛소문
++ pliego = (인쇄된) 한 장짜리 종이
++ relaciones de sucesos = 사건 소식지(17세기 인쇄물)
++ testigo de vista = 목격자
++ gaceta = 가제트, 관보·소식지
++ a escondidas = 몰래
+
+## 기자 스테이크아웃 — EL ENCUENTRO CON LA PRENSA
+HANNE: Señor Quintana, Hanne Brandt. Hemos hablado antes. ||| 킨타나 씨, 한네 브란트입니다. 전에 이야기를 나눈 적이 있죠.
+ÁLVARO: Señora Brandt. Y Paloma Ríos, si no me equivoco. ||| 브란트 씨. 그리고 팔로마 리오스 씨도요, 제가 틀리지 않았다면.
+PALOMA: No se equivoca. Hace años que no nos vemos. Desde lo de las cláusulas. ||| 틀리지 않으셨어요. 몇 년 만이네요. 그 조항 건 이후로요.
+ÁLVARO: Estoy encantado de verla. ||| 뵙게 돼 반갑습니다.
+PALOMA: He leído el titular de «Nordlys Tidende». ¿Va a desmentirlo? ||| '노르뤼스 티덴데' 헤드라인을 읽었습니다. 부인하실 건가요?
+ÁLVARO: No. Les voy a dar un papel. Una página. Cinco preguntas. ||| 아니요. 종이를 한 장 드리겠습니다. 질문 다섯 개예요.
+HANNE: ¿Preguntas para nosotros? ||| 저희가 던질 질문들인가요?
+ÁLVARO: Para ustedes y para cualquiera que quiera preguntar. Con fechas. ||| 여러분과 묻고 싶은 누구에게든요. 날짜와 함께.
+PALOMA: Léalas. ||| 읽어 주세요.
+ÁLVARO: Primera: ¿quién propuso que un órgano independiente verificara los testamentos? ||| 첫째, 독립 기구가 유언을 검증하자고 제안한 사람은 누구인가?
+HANNE: ¿España? ||| 스페인인가요?
+ÁLVARO: No. El seis de febrero, en el Salón de los Gremios de Salmara, lo acordaron por escrito tres partes: la princesa, el general y el presidente de los navieros. Consta en el acta. ||| 아니요. 2월 6일 살마라 길드 회관에서 공주, 장군, 선주 협회장 세 당사자가 서면으로 합의했습니다. 회의록에 있어요.
+PALOMA: Segunda. ||| 둘째는요?
+ÁLVARO: ¿Quién compone ese órgano? Respuesta: un colegio de notarios de Ginebra, que ha aceptado custodiar los tres textos si lo piden las tres partes. ||| 그 기구는 누가 구성하는가? 답은 제네바의 공증인 협회이며, 세 당사자가 요청하면 세 문서를 보관하기로 수락했습니다.
+HANNE: Tercera. ||| 셋째.
+ÁLVARO: ¿Quién paga? Respuesta: el programa europeo de acogida costera, con seis millones de euros que estaban bloqueados. Ni un euro español. ||| 누가 비용을 내는가? 답은 유럽 연안 수용 프로그램의 보류돼 있던 600만 유로입니다. 스페인 돈은 한 푼도 없습니다.
+PALOMA: Cuarta. ||| 넷째는요?
+ÁLVARO: ¿Cuántos soldados, cuántos barcos, cuántos agentes españoles hay o habrá en Tamazia? Respuesta: ninguno. Está en el borrador de la resolución, párrafo seis. ||| 타마지아에 스페인 병사, 함선, 요원이 몇이나 있고 앞으로 있을 것인가? 답은 없습니다. 결의안 초안 6항에 있습니다.
+HANNE: Y la quinta. ||| 그리고 다섯째요.
+ÁLVARO: La quinta es la que quiero que repitan en voz alta. ¿Quién, en este Consejo, ha pedido ya un permiso, una concesión o un contrato en Tamazia? ||| 다섯째는 여러분이 소리 내어 되풀이해 주길 바라는 질문입니다. 이 이사회에서 이미 타마지아에 허가, 이권, 계약을 신청한 곳은 어디인가?
+PALOMA: ¿Y la respuesta? ||| 답은요?
+ÁLVARO: La respuesta no la tengo yo. Está en un registro público de Tamazia. Y tiene una fecha. ||| 저는 답을 갖고 있지 않습니다. 타마지아의 공개 등록부에 있고, 날짜가 있어요.
+HANNE: ¿Qué fecha? ||| 어떤 날짜요?
+ÁLVARO: Pídanla ustedes. Entren en el registro de licencias mineras de Tamazia. Busquen «fosfatos», «Tazar», «enero de dos mil veintiséis». ||| 직접 청구해 보세요. 타마지아 광업 허가 등록부에 들어가서 '인산염', '타자르', '2026년 1월'을 찾아보십시오.
+PALOMA: ¿Y qué encontraremos? ||| 무엇이 나올까요?
+ÁLVARO: No lo sé. Por eso es una pregunta. ||| 모릅니다. 그래서 질문입니다.
+HANNE: Señor Quintana, es una forma muy elegante de acusar. ||| 킨타나 씨, 아주 우아한 고발 방식이군요.
+ÁLVARO: Una acusación afirma. Una pregunta pide una respuesta. Y las preguntas tienen una ventaja: no se pueden demandar. ||| 고발은 단정합니다. 질문은 답을 요구하죠. 그리고 질문에는 장점이 있습니다. 소송당하지 않는다는 점입니다.
+PALOMA: Eso me gusta. ||| 마음에 드네요.
+HANNE: A mí también. Pero mi redactor jefe querrá saber qué hay de verdad en lo del «protectorado». ||| 저도요. 하지만 제 편집장은 '보호령' 이야기에 무슨 근거가 있는지 알고 싶어 할 겁니다.
+ÁLVARO: Hay una verdad. España tuvo un protectorado en el norte de Marruecos, de mil novecientos doce a mil novecientos cincuenta y seis. Fue un mal capítulo. ||| 사실이 하나 있습니다. 스페인은 1912년부터 1956년까지 모로코 북부에 보호령을 가졌습니다. 나쁜 장이었죠.
+HANNE: ¿Lo reconoce? ||| 인정하시는 겁니까?
+ÁLVARO: Lo reconozco. Y por eso propongo una cláusula. ||| 인정합니다. 그래서 조항을 하나 제안합니다.
+PALOMA: ¿Qué cláusula? ||| 어떤 조항이요?
+ÁLVARO: «Ningún miembro del Consejo de Seguridad, empezando por España, obtendrá en Tamazia, durante diez años, ningún contrato, licencia, base ni concesión.» ||| "안전보장이사회의 어느 이사국도, 스페인을 시작으로, 10년 동안 타마지아에서 어떤 계약, 허가, 기지, 이권도 얻지 못한다."
+HANNE: «Empezando por España». ||| '스페인을 시작으로'라고요.
+ÁLVARO: Si empezamos por nosotros, a los demás les costará más negarse. ||| 우리부터 시작하면 다른 나라들이 거부하기 더 어려워질 겁니다.
+PALOMA: ¿Cómo la llama? ||| 뭐라고 부르죠?
+ÁLVARO: En mi oficina la llamamos «la cláusula cero». ||| 제 사무실에서는 '제로 조항'이라고 부릅니다.
+PALOMA: Como en su primer caso. ||| 첫 사건처럼요.
+ÁLVARO: Como en mi primer caso. Y por la misma razón. ||| 첫 사건처럼요. 같은 이유로요.
+HANNE: Una cláusula que le quita a España lo que podría ganar. ||| 스페인이 얻을 수 있는 것을 스스로 빼앗는 조항이군요.
+ÁLVARO: Una cláusula que le quita a todos la excusa de decir que España quiere algo. ||| 스페인이 무언가를 원한다고 말할 핑계를 모두에게서 빼앗는 조항이죠.
++ redactor jefe = 편집장
++ licencia minera = 광업 허가
++ concesión = 이권, 사용권
++ demandar = 소송을 제기하다
++ fosfato = 인산염
++ cláusula cero = 제로 조항(어떤 이사국도 이권을 갖지 않는다는 자기 구속 조항)
++ comunicado = 성명, 보도자료
++ pregonero = 포고꾼
++ ventaja = 장점
+
+## 협의실 — LA SALA DE CONSULTAS
+LUNDGREN: Embajador Moreno, he visto el papel que su adjunto ha distribuido. ||| 모레노 대사님, 부대사님이 배포한 종이를 봤습니다.
+MORENO: Es un papel de preguntas, embajadora. ||| 질문지입니다, 대사님.
+LUNDGREN: Es una insinuación. ||| 암시예요.
+MORENO: Si lo es, es una insinuación abierta. ||| 암시라 해도 열려 있는 암시입니다.
+LUNDGREN: La quinta pregunta alude a mi país. ||| 다섯째 질문은 우리나라를 지목합니다.
+ÁLVARO: La quinta pregunta alude a todos los miembros del Consejo, incluido el mío. ||| 다섯째 질문은 제 나라를 포함한 이사국 모두를 지목합니다.
+LUNDGREN: Mi gobierno no ha pedido ninguna licencia. ||| 제 정부는 어떤 허가도 신청하지 않았습니다.
+ÁLVARO: Entonces no tendrá inconveniente en firmar la cláusula cero. ||| 그럼 제로 조항에 서명하는 데 문제가 없겠군요.
+LUNDGREN: Yo no he dicho eso. ||| 그렇게 말하지 않았습니다.
+ÁLVARO: Tampoco ha dicho que no. ||| 아니라고도 하지 않았고요.
+LUNDGREN: Mi gobierno ha pedido, a través de una empresa privada, un permiso de exploración. Pero fue una solicitud rutinaria. ||| 제 정부는 민간 기업을 통해 탐사 허가를 신청했습니다. 하지만 통상적인 신청이었어요.
+ÁLVARO: ¿Cuándo? ||| 언제요?
+LUNDGREN: En enero. ||| 1월에요.
+ÁLVARO: ¿Qué día? ||| 며칠입니까?
+LUNDGREN: No lo recuerdo. ||| 기억나지 않습니다.
+ÁLVARO: Treinta de enero. A las dieciséis y cuarenta. Dos días antes de la muerte del rey. ||| 1월 30일 16시 40분입니다. 왕이 서거하기 이틀 전이죠.
+LUNDGREN: ¿Cómo lo sabe? ||| 어떻게 아십니까?
+ÁLVARO: Lo sé desde hace cuatro minutos. Lo ha publicado la señora Ríos. ||| 4분 전에 알았습니다. 리오스 씨가 공개했어요.
+LUNDGREN: Es una coincidencia. ||| 우연입니다.
+ÁLVARO: No dudo que lo sea, embajadora. Pero quien lo mira de lejos podría pensar que Nordmark sabía lo que iba a ocurrir. ||| 우연이겠죠, 대사님. 하지만 멀리서 보는 사람은 노르드마르크가 일어날 일을 알고 있었다고 생각할 수도 있습니다.
+LUNDGREN: Eso es una insinuación. ||| 그건 암시예요.
+ÁLVARO: Perdón. Como usted dijo antes: una insinuación abierta. ||| 죄송합니다. 방금 말씀하신 대로 '열려 있는 암시'입니다.
+MORENO: Embajadora Lundgren, la cláusula cero beneficia a todos. Incluso a Nordmark. Sobre todo a Nordmark. ||| 룬트그렌 대사, 제로 조항은 모두에게 이롭습니다. 노르드마르크에도요. 특히 노르드마르크에.
+LUNDGREN: ¿Por qué? ||| 왜죠?
+MORENO: Porque le permite decir que no quiere nada. ||| 아무것도 원하지 않는다고 말할 수 있게 해 주니까요.
+LUNDGREN: Mi gobierno estudiará la propuesta. ||| 제 정부가 제안을 검토하겠습니다.
+MORENO: Gracias. ||| 감사합니다.
+LUNDGREN: Y quiero decir que el titular fue un error de traducción. ||| 그리고 그 헤드라인은 번역 오류였다고 말해 두고 싶습니다.
+ÁLVARO: Tiene usted, embajadora, un sentido de la ironía que le envidio. ||| 대사님은 제가 부러워할 만한 아이러니 감각이 있으시군요.
+LUNDGREN: No es ironía. Es un hecho. ||| 아이러니가 아니라 사실입니다.
+ÁLVARO: En ese caso, que conste. ||| 그렇다면 기록에 남겨 두죠.
++ insinuación = 암시, 은근한 비난
++ inconveniente = 지장, 문제
++ permiso de exploración = 탐사 허가
++ solicitud = 신청(서)
++ rutinario = 통상적인
++ a través de = ~를 통해
++ envidiar = 부러워하다
++ que conste = 기록해 두세요
+
+## 밤의 두 통화 — DOS LLAMADAS
+CALVO: Señor Quintana. Soy Teresa Calvo. He recibido su sobre. ||| 킨타나 씨. 테레사 칼보입니다. 봉투를 받았습니다.
+ÁLVARO: Presidenta. Gracias por llamar. ||| 위원장님. 전화 주셔서 감사합니다.
+CALVO: No lo he abierto. Está en la caja de la comisión. ||| 열지 않았습니다. 위원회 금고에 있어요.
+ÁLVARO: Se lo agradezco. ||| 감사합니다.
+CALVO: No me lo agradezca. Es una cuestión de procedimiento. Lo abriremos cuando acabe esta crisis, y en una sesión formal. ||| 감사하지 마세요. 절차의 문제입니다. 이번 위기가 끝나면 정식 회의에서 열겠습니다.
+ÁLVARO: Me parece justo. ||| 공정하다고 생각합니다.
+CALVO: Le anticipo que habrá una sanción. No sé de qué tamaño. ||| 미리 말씀드리지만 징계가 있을 겁니다. 크기는 모르겠어요.
+ÁLVARO: Lo asumo. ||| 받아들이겠습니다.
+CALVO: Es lo que dice su carta. Y es lo que me tranquiliza. ||| 편지에도 그렇게 쓰셨더군요. 그래서 안심이 됩니다.
+ÁLVARO: ¿Por qué? ||| 왜요?
+CALVO: Porque los que me traen un sobre cerrado son pocos. Los que me traen uno abierto, ninguno. ||| 봉한 봉투를 가져오는 사람은 드물고, 열린 봉투를 가져오는 사람은 없으니까요.
+ÁLVARO: Yo le he traído uno cerrado. ||| 저는 봉한 걸 가져왔는데요.
+CALVO: Con una carta abierta. Es casi lo mismo. ||| 열린 편지와 함께요. 거의 같은 거죠.
+ÁLVARO: Gracias, presidenta. ||| 감사합니다, 위원장님.
+CALVO: Buenas noches. Y mucho cuidado con lo que pregunta a los periodistas. Una pregunta bien hecha es una carga de profundidad. ||| 안녕히 주무세요. 그리고 기자들에게 하는 질문은 조심하세요. 잘 던진 질문은 폭뢰 같으니까요.
+ÁLVARO: Lo sé. ||| 알고 있습니다.
+MARINA: Álvaro, soy Marina. Tengo buenas noticias. ||| 알바로, 마리나예요. 좋은 소식이 있어요.
+ÁLVARO: Dime. ||| 말해 봐요.
+MARINA: Tu fondo de sueldos. La Comisión Europea ha dicho que sí. Seis millones. Pero con una condición. ||| 급여 기금 말이에요. 유럽 집행위가 승인했어요. 600만 유로. 단 조건이 하나 있어요.
+ÁLVARO: ¿Cuál? ||| 뭔가요?
+MARINA: Que los pagos se publiquen en un portal abierto. Con nombre, rango y importe. ||| 지급 내역이 공개 포털에 게시될 것. 이름, 계급, 금액으로요.
+ÁLVARO: Es lo que habíamos pensado. ||| 우리가 생각한 바로 그겁니다.
+MARINA: Lo sé. Pero me han preguntado quién lo propuso. Y he dicho: «Un diplomático español que se quiere quitar las ganas de gastar a escondidas». ||| 알아요. 하지만 누가 제안했냐고 묻더군요. 그래서 이렇게 답했어요. '몰래 돈을 쓰고 싶은 마음을 접으려는 스페인 외교관이요.'
+ÁLVARO: Marina. ||| 마리나.
+MARINA: Es verdad. ||| 사실이잖아요.
+ÁLVARO: Lo es. ||| 그렇죠.
++ carga de profundidad = 폭뢰(잘 던진 질문의 파괴력을 비유)
++ comisión = 위원회
++ sanción = 징계
++ portal abierto = 공개 포털
++ quitarse las ganas de = ~하고 싶은 마음을 접다
++ importe = 금액
