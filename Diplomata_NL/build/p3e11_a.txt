@@ -1,0 +1,72 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 3
+@ep 11
+@title Het geweten van Visser
+@ko 비서르의 양심
+@setting 화요일 밤 로테르담 집 부엌 → 수요일 아침 로테르담 크랄링언 비서르의 집
+@level B2-C1
+@cast JOOST | 해사 특별 사절, 46세
+@cast NOOR | 요스트의 딸, 17세
+@cast VISSER | 전 부국장·증인, 53세
+@cast MARIT | 비서르의 아내, 51세
+@cast FEMKE | 분석관, 32세
+@note 3부 11화는 '내부 대결'입니다. 비서르가 남긴 한 통의 편지가 중심입니다. 처벌과 증언 사이에서 요스트는 '린치가 아닌 공정한 절차'를 고민합니다. 역사 논거는 더 비트 형제(1672): 소문과 군중이 절차를 이긴 비극이므로, 아무리 죄가 커 보여도 절차가 먼저라는 교훈입니다. 어휘는 고백·양심(geweten, schuldgevoel, verantwoordelijkheid, vergeving)과 편지체에 주목하세요.
+@next 3부 12화 — «Het laatste woord»(마지막 말) — 제방 안전 개혁안이 통과됩니다. 요스트는 노르와 해안을 걷습니다. '마지막 제방은 말'.
+
+## 편지 — DE BRIEF
+NOOR: Ga je hem nu openmaken? ||| 지금 열 거예요?
+JOOST: Ja. Maar ik wil hem hardop lezen. Is dat goed? ||| 네. 하지만 소리 내어 읽고 싶어. 괜찮니?
+NOOR: Prima. Ik zet thee. ||| 좋아요. 차를 끓일게요.
+JOOST: «Beste Joost. Je hebt me eens gezegd dat een zwijgen duurder wordt met elke dag. Ik heb het gemerkt. Ik schrijf je dit omdat ik niet langer wil dat anderen mijn verhaal vertellen». ||| '친애하는 요스트. 침묵은 하루하루 비싸진다고 말했었지. 나도 느꼈네. 남이 내 이야기를 대신 하게 두고 싶지 않아서 이 글을 쓰네.'
+NOOR: Dat begint goed. ||| 시작이 좋네요.
+JOOST: «Eerst de feiten. In 1998 heb ik niet alleen gezwegen. Ik heb een afschrift gemaakt. Van de zijbrief. Drie bladen, op een kopieerapparaat in de kelder van het ministerie. Dat afschrift ligt sinds die dag in een bankkluis in Rotterdam. Ik heb het nooit aan iemand gegeven». ||| '먼저 사실부터. 1998년 나는 침묵만 한 게 아니었네. 사본을 만들었어. 부수서한 세 장을 부처 지하의 복사기로. 그날 이후 그 사본은 로테르담의 은행 금고에 있네. 누구에게도 준 적 없어.'
+NOOR: Hij had een kopie. ||| 사본이 있었네요.
+JOOST: «Ik wist dat het fout was om het niet af te geven. Maar ik wist ook dat het fout was om het te vernietigen. Dus ik hield het. Een kluis is geen bureaula, maar ook geen vuilnisbak». ||| '내놓지 않는 것도 틀렸고 없애는 것도 틀렸다는 걸 알았네. 그래서 보관했어. 금고는 서랍도 쓰레기통도 아니지.'
+NOOR: Dat is een rare zin. ||| 이상한 문장이에요.
+JOOST: Het is een Visser-zin. ||| 비서르다운 문장이야.
+JOOST: «Tweede feit. Mijn zwager Gerrit Maas heeft mij na de zijbrief-affaire telefonisch gevraagd een gunst. Dat ik hem af en toe zou informeren over de stemming op de afdeling. Ik dacht dat het onschuldig was. Een gesprek tussen zwagers. Het werd een afspraak. Elke zes weken een lunch. ||| '둘째 사실. 부수서한 사건 뒤 처남 헤리트 마스가 전화로 부탁했네. 이따금 부서 분위기를 알려 달라고. 무해하다고 생각했지. 처남끼리의 대화. 그게 약속이 되었어. 6주마다 점심.'
+NOOR: Hij is een soort zwakke schakel geworden. ||| 약한 고리가 됐네요.
+JOOST: «Derde feit. In maart kreeg mijn zoon Daan een baan bij Helion Systems. Gerrit heeft hem aanbevolen. Ik wist het. Ik heb het niet gemeld. Ik heb er niet over nagedacht, tot hij zei: "Als jij praat, praat ik. Over 1998, en over Daan"». ||| '셋째 사실. 3월에 아들 단이 헬리온 시스템스에 취직했네. 헤리트가 추천했어. 나는 알았고 신고하지 않았지. 그가 "네가 말하면 나도 말한다. 1998년에 대해서, 그리고 단에 대해서"라고 하기 전까지는 생각도 하지 않았어.'
+NOOR: Hij dreigde hem. ||| 협박한 거네요.
+JOOST: «Dat is geen verontschuldiging. Dat is een verklaring. Ik heb de keus gehad om het te melden. Ik koos mijn zoon boven mijn plicht. Als je me vraagt of ik het weer zou doen: ja. En ik zou het weer fout vinden». ||| '변명이 아니라 설명이네. 신고할 선택이 있었어. 나는 직무보다 아들을 택했네. 다시 하겠느냐고 묻는다면 하겠지. 그리고 또 틀렸다고 여길 걸세.'
+NOOR: Dat is een heel eerlijke zin. ||| 아주 정직한 문장이에요.
+JOOST: Het is een gruwelijke. ||| 끔찍한 문장이야.
+NOOR: Ja. En eerlijk. ||| 네. 그리고 정직하고요.
+JOOST: «Wat ik nu doe: Ik lever het afschrift in bij de Tweede Kamer. Morgen. Ik getuig. Ik zeg alles, ook over Daan. Ik vraag je niet me te verdedigen. Ik vraag je alleen niets te doen wat ik niet zelf zou doen. En als ze me veroordelen, heb ik dat verdiend». ||| '지금 내가 하는 일. 사본을 내일 하원에 제출하네. 증언하고 아들 단에 대해서도 전부 말하지. 변호해 달라는 게 아니네. 내가 스스로 하지 않을 일을 해 주지 말길 바랄 뿐이야. 그들이 유죄로 한다면 그럴 만하네.'
+NOOR: Pap, hij vraagt je niets te doen. ||| 아빠, 아무것도 하지 말아 달라는 거네요.
+JOOST: Ja. ||| 응.
+NOOR: Maar je wilt iets doen. ||| 하지만 아빠는 뭔가 하고 싶죠.
+JOOST: Ja. ||| 응.
+NOOR: Wat? ||| 뭘요?
+JOOST: Hem beschermen. ||| 그를 보호하는 거.
+NOOR: Waarvoor? ||| 무엇으로부터요?
+JOOST: Voor de menigte. ||| 군중으로부터.
+NOOR: Welke menigte? ||| 어떤 군중이요?
+JOOST: Die er morgen zal zijn. Zodra de krant het weet. Dat Visser een kopie had. Dat zijn zoon bij Helion werkt. Dat hij drie keer aan tafel zat. ||| 내일 있을 군중이지. 신문이 알게 되는 순간 말이야. 비서르에게 사본이 있었고, 아들이 헬리온에서 일하고, 그가 세 번 같은 탁자에 앉았다는 걸.
+NOOR: Ze maken hem af. ||| 그를 끝장내겠네요.
+JOOST: Ze lynchen hem. ||| 린치하겠지.
+NOOR: Zoals de gebroeders De Witt. ||| 더 비트 형제처럼요.
+JOOST: Jij onthoudt alles wat ik zeg. ||| 내가 한 말을 다 기억하는구나.
+NOOR: Ik ben je dochter. ||| 딸이잖아요.
+JOOST: Die mensen waren ook niet onschuldig, Noor. Ze hadden fouten gemaakt. Maar ze verdienden een rechter. Geen straat. ||| 그 사람들도 결백하진 않았어. 실수는 했지. 하지만 판사를 받을 자격이 있었어. 거리가 아니라.
+NOOR: Wat ga je doen? ||| 어떻게 할 거예요?
+JOOST: Ik ga morgenochtend naar Kralingen. ||| 내일 아침 크랄링언에 갈 거야.
+NOOR: Mag ik mee? ||| 같이 가도 돼요?
+JOOST: Het is een gesprek tussen volwassenen. ||| 어른들끼리의 대화야.
+NOOR: Ik ben zeventien. ||| 열일곱이에요.
+JOOST: Dat is nog niet volwassen. ||| 아직 어른이 아니야.
+NOOR: Wel genoeg om bij een brief te zitten. ||| 하지만 편지 곁에 앉기엔 충분하죠.
+JOOST: Dat is zo. Je mag mee. Maar je zegt niets. ||| 맞아. 와도 돼. 하지만 말은 하지 마.
+NOOR: Dat heb je nog nooit gezegd. ||| 처음 하시는 말이네요.
+JOOST: Ik zeg het nu. ||| 지금 하는 거야.
++ geweten = 양심
++ een afschrift maken = 사본을 만들다
++ bankkluis = 은행 금고
++ bureaula = 책상 서랍
++ vuilnisbak = 쓰레기통
++ gruwelijk = 끔찍한
++ lynchen = 린치하다
++ menigte = 군중
++ schuldgevoel = 죄책감
++ een verklaring / een verontschuldiging = 설명 / 변명
