@@ -1,0 +1,115 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 3
+@title El rescate
+@ko 몸값과 구속
+@setting 수요일 새벽 푸에르토 누에보 부두 → 정오 시장 광장 → 오후 출항 → 저녁 서점 옥상
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 44세
+@cast ZUBIRI | 구조선 선장, 41세
+@cast PIÑEIRO | 구조선 요리사, 59세
+@cast MARIAM | 임신 8개월의 구조된 여성, 27세
+@cast SEFIA | 서점 손녀, 공개 낭독자, 22세
+@cast KADER | 푸에르토 누에보 항만장, 56세
+@cast MANSOUR | 선주 협회 대표, 62세
+@cast HAMID | 고서점 주인, 78세
+@cast MARINA | 브뤼셀 직원 (전화)
+@cast CALVO | 하원 외교위원회 위원장 (전화)
+@note 3부 A사건의 해결 화입니다. 몸값(rescate)을 수용 기금(fondo de acogida)으로 바꾸는 한 줄이 완성되고, 장부를 광장에서 읽는 의식이 현대에 되살아납니다. 장부를 읽는 낭독 어휘(asiento 기장 항목, partida 항목, importe 금액, concepto 명목, procedencia 출처)와, 갈등을 가라앉히는 말하기에 주목하세요. 세르반테스 『돈키호테』 제2부의 '자유' 구절이 이 화의 끝을 맺습니다.
+@next 3부 4화 — «El embajador de Ulán Bator»(울란바토르 대사) — 영하 35도의 공항, 스페인어를 못 하는 대리대사, 그리고 취소 위기에 놓인 고비 사막의 광산 허가. 알바로의 운전사는 첫날 이렇게 말한다. '초원에서 길은 약속입니다.'
+
+## 새벽의 부두 — EL MUELLE
+ZUBIRI: ¡Señor Quintana! Por fin le veo la cara. ||| 킨타나 씨! 드디어 얼굴을 뵙네요.
+ÁLVARO: Capitana. Todos hablan de una voz de radio. Y usted me ha desmentido: no es tan alta. ||| 선장님. 다들 무전 목소리 얘기만 하는데, 실제로는 목소리만큼 키가 크지 않으시네요.
+ZUBIRI: Mido uno sesenta y dos. La altura de una capitana está en el timón. ||| 162센티미터예요. 선장의 키는 키(舵)에 있죠.
+ÁLVARO: Tengo el documento. «Carta explicativa de la capitana del buque “Nuestra Señora de la Merced” a la Autoridad Portuaria de Puerto Nuevo». Léalo, por favor. En voz alta. ||| 문서를 가져왔습니다. '푸에르토 누에보 항만청에 보내는 선박 「메르세드 성모」호 선장의 설명서'. 읽어 보세요. 소리 내어서요.
+ZUBIRI: «El buque que mando entró en aguas tamazias sin autorización previa ante un riesgo cierto para la vida de las personas a bordo, tras haber solicitado puerto seguro sin recibir respuesta. Lamento que esta situación haya causado inconvenientes a las autoridades del Reino de Tamazia. ||| '제가 지휘하는 선박은 탑승자의 생명에 대한 확실한 위험 때문에 안전항을 요청했으나 응답을 받지 못한 뒤 사전 허가 없이 타마지아 영해에 진입했습니다. 이 상황이 타마지아 왕국 당국에 불편을 끼친 데 유감을 표합니다.
+ZUBIRI: Reconozco la competencia del Reino sobre sus aguas y me comprometo a notificar toda futura necesidad de entrada con antelación suficiente, siempre que el estado del mar lo permita». Es muy educado. ||| 왕국이 자국 영해에 대해 가진 권한을 인정하며, 바다 상태가 허락하는 한 향후 모든 진입 필요성을 충분한 시간 전에 통지할 것을 약속합니다'. 아주 정중하네요.
+ÁLVARO: Está redactado para que ninguna parte pierda la cara. ||| 어느 쪽도 체면을 잃지 않도록 쓰였죠.
+ZUBIRI: ¿Puedo firmarlo sin humillarme? ||| 굴욕 없이 서명할 수 있나요?
+ÁLVARO: Puede firmarlo sin mentir. Es lo único que importa. ||| 거짓말 없이 서명할 수 있습니다. 중요한 건 그것뿐입니다.
+ZUBIRI: Entonces lo firmo. ||| 그럼 서명하겠어요.
+PIÑEIRO: ¡Capitana! ¡Capitana! ||| 선장님! 선장님!
+ZUBIRI: ¿Qué pasa, Piñeiro? ||| 무슨 일이야, 피녜이로?
+PIÑEIRO: ¡Mariam ha roto aguas! ¡Está de parto! ||| 마리암이 양수가 터졌어요! 진통이에요!
+ZUBIRI: ¡Avisa al doctor del puerto! ||| 항구 의사를 불러!
+PIÑEIRO: Ya lo he llamado. Dice que llega en veinte minutos. ¡Veinte minutos! ||| 이미 불렀어요. 20분 뒤에 온대요. 20분이라고요!
+ÁLVARO: Capitán Kader, necesitamos una ambulancia. Ahora. ||| 카데르 항만장님, 구급차가 필요합니다. 지금요.
+KADER: Está en camino. Pero el control de acceso... Voy a mandar que abran la barrera. ||| 오고 있습니다. 하지만 출입 통제가… 차단기를 열라고 지시하겠습니다.
+ÁLVARO: ¿Un médico a bordo? ||| 배에 의사가 있습니까?
+ZUBIRI: Una enfermera de la tripulación, Nerea. Y yo. Hemos asistido tres partos en el mar. Piñeiro, agua caliente. Toallas. ||| 승무원 중 간호사 네레아가 있어요. 그리고 저. 바다에서 세 번 분만을 도왔어요. 피녜이로, 뜨거운 물. 수건.
+PIÑEIRO: Ya, ya. Cocino mejor que parteo, pero lo intento. ||| 알겠습니다. 요리가 분만보다 낫지만 해 볼게요.
+ÁLVARO: ¿Puedo ayudar? ||| 제가 도울 수 있을까요?
+ZUBIRI: Puede ser un hombre tranquilo. Eso ayuda más de lo que parece. ||| 침착한 사람이 되어 주세요. 보기보다 큰 도움이 돼요.
++ carta explicativa = 설명서. 사과 대신 쓰는 공식 문서
++ ceder / reconozco la competencia = 관할 권한을 인정하다. 'competencia'는 권한
++ romper aguas = 양수가 터지다. 출산 시작을 알리는 표현
++ estar de parto = 분만 중이다. 'ponerse de parto'는 진통을 시작하다
++ control de acceso = 출입 통제. 항구 보안 절차
++ siempre que + 접속법 = ~하는 한. 조건을 제한하는 접속사구
+
+## 탄생 — EL NACIMIENTO
+ZUBIRI: ¡Empuja, Mariam! ¡Ya! ¡Una vez más! ||| 힘줘요, 마리암! 지금! 한 번 더!
+MARIAM: ¡Ay, Dios! ¡No puedo! ||| 아, 하느님! 못 하겠어요!
+ZUBIRI: Puedes. Estás a punto. ¡Respira! ||| 할 수 있어요. 거의 다 됐어요. 숨 쉬어요!
+NEREA: Ya veo la cabeza. Un poco más. ||| 머리가 보여요. 조금만 더.
+PIÑEIRO: (en la puerta, lejos) ¡Cuidado, que si me desmayo, se me pasa la cena! ||| (문가에서 멀찍이) 조심들 해요, 제가 기절하면 저녁 다 망쳐요!
+ZUBIRI: ¡Piñeiro, cállate! ||| 피녜이로, 조용히 해!
+NEREA: ¡Ya está! Es una niña. ||| 다 됐어요! 딸이에요.
+MARIAM: ¿Está viva? ||| 살아 있어요?
+NEREA: Llora. Fuerte. Escuche. ||| 울어요. 크게요. 들어 보세요.
+MARIAM: Gracias. Gracias a todos. ||| 감사합니다. 모두에게 감사해요.
+ZUBIRI: ¿Cómo se va a llamar? ||| 이름은 뭐라고 할 거예요?
+MARIAM: ... No lo sé. En mi pueblo se le pone el nombre de quien te ayudó. ¿Cómo se llama este barco? ||| …모르겠어요. 우리 마을에서는 도와준 사람의 이름을 붙여요. 이 배 이름이 뭐죠?
+ZUBIRI: «Nuestra Señora de la Merced». ||| '메르세드 성모'예요.
+MARIAM: ¿Qué quiere decir «merced»? ||| '메르세드'가 무슨 뜻이에요?
+ZUBIRI: En español antiguo, «gracia». Un favor que no se merece. Y que alguien da. ||| 옛 스페인어로 '은총'이에요. 받을 자격이 없는 호의를 누군가 베푸는 거죠.
+MARIAM: Entonces se llamará Merced. ||| 그럼 이름은 메르세드예요.
+PIÑEIRO: (desde fuera) ¿Merced? Es un nombre precioso. Se lo digo yo que me llamo Luciano. ||| (밖에서) 메르세드요? 예쁜 이름이네요. 루시아노라는 이름을 가진 제가 말하는 겁니다.
+ZUBIRI: Piñeiro, ¿has llorado? ||| 피녜이로, 울었어요?
+PIÑEIRO: Es la cebolla. ||| 양파 때문이에요.
+ZUBIRI: No hay cebolla en esta cocina. ||| 이 주방에 양파 없잖아.
+PIÑEIRO: La he guardado para esta ocasión. ||| 이럴 때를 위해 아껴 뒀어요.
+ÁLVARO: Capitana, la ambulancia está aquí. ||| 선장님, 구급차가 왔습니다.
+ZUBIRI: Que suban. Mariam y la niña, directas al hospital. ||| 올라오라고 해요. 마리암과 아기는 곧장 병원으로.
+ÁLVARO: Capitán Kader acaba de ordenar que las acompañe un agente de la Autoridad Portuaria. Para evitar cualquier problema en el hospital. ||| 카데르 항만장이 항만청 직원을 동행시키라고 방금 지시했습니다. 병원에서 문제가 없도록요.
+ZUBIRI: Dígale que le agradezco el gesto. ||| 그 배려가 고맙다고 전해 주세요.
+ÁLVARO: Se lo dirá usted misma al mediodía. En la plaza. ||| 정오에 광장에서 직접 말씀하시게 될 겁니다.
++ ayudar al parto = 분만을 돕다. 'partera'는 산파
++ merced = 은총, 호의. 옛 스페인어. 'vuestra merced'는 '귀하'라는 존칭의 어원이다
++ llorar / es la cebolla = 울다 / 양파 때문이다. 우는 이유를 숨기는 관용적 농담
++ guardar para = ~을 위해 아껴 두다. 'guardar para esta ocasión'
++ estar a punto = 막 ~하려는 참이다. 'estás a punto'
++ hospital = 병원. 'directas al hospital'
+
+## 시장 광장 — LA PLAZA DEL MERCADO
+SEFIA: Buenas tardes a todos. Perdón, buenos días. ¡Ya casi es mediodía! Me llamo Sefia Ben Hamid. Voy a leer, en tres lenguas, lo que se ha acordado hoy entre el puerto y los visitantes. ||| 안녕하세요, 여러분. 아니, 좋은 아침입니다. 벌써 정오가 다 됐네요! 저는 세피아 벤 하미드입니다. 오늘 항구와 방문객들 사이에 합의된 내용을 세 언어로 읽겠습니다.
+SEFIA: Primero, en árabe. Después en francés. Después en español. Si alguien no entiende una palabra, que levante la mano. ||| 먼저 아랍어로, 다음은 프랑스어, 그다음은 스페인어로요. 한 단어라도 이해하지 못하면 손을 들어 주세요.
+MANSOUR: ¡Un momento! ¡Yo tengo algo que decir! ||| 잠깐! 나도 할 말이 있소!
+KADER: Hajj Mansour. Esta no es una reunión de armadores. ||| 하지 만수르. 이건 선주들의 모임이 아니오.
+MANSOUR: Es una plaza. Y yo soy ciudadano. Hablo en nombre de ochenta familias que viven de este puerto. ||| 광장이오. 그리고 나는 시민이오. 이 항구로 먹고사는 여든 가구를 대표해서 말하는 거요.
+SEFIA: Hajj Mansour, el libro está abierto para todos. Hable. ||| 하지 만수르 어르신, 장부는 모두에게 열려 있어요. 말씀하세요.
+MANSOUR: ¿Qué es eso del «Fondo de Acogida»? Hace veinte años que alojamos a los rescatados. Los albergues son nuestros. Nos los ha pedido el propio gobierno. ¿Ahora un extranjero viene a decirnos que no podemos cobrar? ||| '수용 기금'이 뭐요? 20년 동안 우리가 구조된 사람들을 머물게 했소. 숙소는 우리 거요. 정부가 직접 우리에게 요청했지. 이제 외국인이 와서 우리더러 받지 말라는 거요?
+ÁLVARO: Hajj Mansour, ¿puedo responder? ||| 하지 만수르 어르신, 답해도 되겠습니까?
+MANSOUR: ¿Y usted quién es? ||| 당신은 누구요?
+ÁLVARO: Un visitante a título privado. Nadie me ha enviado. Solo he leído un libro en la librería de Hamid. ||| 개인 자격의 방문객입니다. 누구도 저를 보내지 않았습니다. 하미드 씨의 서점에서 책 한 권을 읽었을 뿐입니다.
+MANSOUR: Los libros no dan de comer. ||| 책은 먹을 걸 주지 않소.
+ÁLVARO: Tiene razón. Pero en ese libro, los armadores de este mismo puerto, hace cuatrocientos años, cobraban por custodiar a los cautivos. Y los frailes pagaban sin protestar, porque las cuentas se leían en voz alta. Nadie perdía. Los armadores cobraban su precio. Los frailes demostraban que no los engañaban. Y los cautivos volvían. ||| 맞는 말씀입니다. 하지만 그 책에서는 이 항구의 선주들이 4백 년 전 포로를 보관한 대가를 받았습니다. 그리고 수사들은 항의 없이 냈어요. 장부가 소리 내어 읽혔으니까요. 아무도 잃지 않았습니다. 선주들은 값을 받았고 수사들은 속이지 않았음을 증명했으며 포로들은 돌아갔죠.
+MANSOUR: ¿Y ahora? ||| 그럼 지금은요?
+ÁLVARO: Ahora ustedes pueden seguir cobrando por albergar. Pero con precio fijo, a la vista de todos, por contrato público. No cobrarán menos. Cobrarán sin sospecha. ||| 이제도 여러분은 숙소 제공으로 계속 받을 수 있습니다. 하지만 고정 가격에 모두가 보는 앞에서 공공 계약으로요. 덜 받는 게 아닙니다. 의심 없이 받는 겁니다.
+MANSOUR: Sin sospecha. Qué palabra bonita. ||| 의심 없이. 예쁜 말이오.
+ÁLVARO: Lo es. Y cuesta menos que una fotografía de un barco con niños retenido, en la portada de un diario europeo. ||| 그렇습니다. 그리고 아이들이 억류된 배 사진이 유럽 일간지 1면에 실리는 것보다 비용이 덜 듭니다.
+MANSOUR: ¿Una amenaza? ||| 위협이오?
+ÁLVARO: Una estadística. En cuarenta y ocho horas, los armadores que cobran por recibir rescatados aparecerían en un reportaje. Mejor aparecer con un libro abierto. ||| 통계입니다. 48시간 안에 구조된 사람을 받으며 돈을 받는 선주들이 기사에 나올 겁니다. 열린 장부와 함께 나오는 게 낫죠.
+MANSOUR: Se está pasando de listo, señor. ||| 너무 영리하게 구시는군, 양반.
+ÁLVARO: Y usted, hajj, es demasiado inteligente para no entenderlo. ||| 그리고 어르신은 이해하지 못하기엔 너무 똑똑하십니다.
+KADER: Hajj Mansour. Esto lo he aceptado yo. Si alguien tiene que protestar, que sea a mí. ||| 하지 만수르. 이건 내가 수락했소. 항의할 사람이 있다면 내게 하시오.
+MANSOUR: ... Capitán, he conocido a su padre. Jamás habría hecho esto. ||| …항만장, 자네 아버지를 알았네. 절대 이러지 않았을 거야.
+KADER: Mi padre no tuvo que explicar a ochenta familias de qué vivían. Yo, sí. ||| 아버지는 여든 가구에 무엇으로 먹고사는지 설명하실 필요가 없었소. 나는 해야 하고요.
++ Hajj / Hayy = 하지(메카 순례를 마친 사람에 대한 존칭). 'Hajj Mansour'는 존경받는 연장자
++ a título privado = 개인 자격으로. 3부 1화에서 나온 표현
++ por contrato público = 공공 계약으로. 'licitación'과 같은 맥락
++ pasarse de listo = 너무 똑똑한 척하다. 구어체 경고
++ cobrar sin sospecha = 의심 없이 받다. 이 화의 핵심 문장
++ demostrar = 증명하다. 'los frailes demostraban que no los engañaban'

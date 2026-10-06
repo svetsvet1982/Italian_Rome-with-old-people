@@ -1,0 +1,108 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 2
+@title El cautivo de Argel
+@ko 알제의 포로
+@setting 화요일 살마라(타마지아 왕국 수도) 구시가 항구 지구 → 서점 → 항만청 → 밤 옥상
+@level B2-C1
+@cast ÁLVARO | 외교관 · 개인 자격 방문객, 44세
+@cast HAMID | 살마라의 고서점 주인, 78세
+@cast SEFIA | 서점 손녀, 통역을 돕는 대학생, 22세
+@cast KADER | 푸에르토 누에보 항만장, 56세
+@cast REBECA | 국가정보원(CNI) 연락관, 41세 (전화)
+@cast PIÑEIRO | 구조선 요리사 (무선)
+@note 3부 A사건의 두 번째 화입니다. 이 화는 '물밑 협상'입니다. 공식 면담이 막힌 상황에서 낡은 서점과 한 노인의 서가가 협상의 무대가 됩니다. 역사 논거는 세르반테스가 알제에서 포로로 있다가 1580년 삼위일체 수도회의 후안 힐 수사에 의해 몸값 500에스쿠도로 풀려난 일(1575–80)입니다. 서술 어휘(cautivo 포로, rescate 몸값, redención 구속, recibo 영수증, testimonio 증언)와, 오래된 문서를 현재 협상에 연결하는 어법에 주목하세요.
+@next 3부 3화 — «El rescate»(몸값과 구속) — 항만장 앞에 놓인 장부 한 권. 몸값이라는 이름을 '수용 기금'으로 바꾸는 한 줄, 그리고 레베카가 마지막으로 알바로에게 청하는 한 가지.
+
+## 살마라 — LA LLEGADA
+SEFIA: ¿El señor español? Soy Sefia. Mi abuelo me ha dicho que le espere en la puerta de la mezquita de los zapateros. ||| 스페인 분이세요? 저는 세피아예요. 할아버지가 제화공 모스크 문 앞에서 기다리라고 하셨어요.
+ÁLVARO: Álvaro Quintana. Encantado. ¿Cómo me ha reconocido? ||| 알바로 킨타나입니다. 반갑습니다. 어떻게 알아보셨어요?
+SEFIA: Es el único hombre de la calle que mira los tejados en lugar del suelo. ||| 길에서 땅 대신 지붕을 쳐다보는 유일한 남자라서요.
+ÁLVARO: Una mala costumbre de diplomático. Uno busca antenas. ||| 외교관의 나쁜 버릇이죠. 안테나를 찾아요.
+SEFIA: Aquí no hay antenas. Hay palomas. ||| 여긴 안테나가 없어요. 비둘기만 있죠.
+ÁLVARO: ¿Adónde vamos? ||| 어디로 가죠?
+SEFIA: A la librería de mi abuelo. Hace sesenta años que está en el mismo sitio. Hamid el Librero. Es el hombre que sabe de la historia de este puerto más que el rey. ||| 할아버지의 서점으로요. 60년째 같은 자리에 있어요. 서점 주인 하미드. 이 항구의 역사를 왕보다 더 잘 아는 분이에요.
+ÁLVARO: ¿Y por qué me recibe? ||| 그런데 왜 저를 만나 주시죠?
+SEFIA: Porque el embajador de Madrid le envió una nota. Con una sola frase. ||| 마드리드 대사가 쪽지를 보냈어요. 한 문장만요.
+ÁLVARO: ¿Cuál? ||| 뭐라고요?
+SEFIA: «El señor que va a visitarte pregunta por qué a un cocinero». ||| '찾아갈 분은 왜 요리사에게 묻는지 질문합니다'.
+ÁLVARO: ¿Y eso es suficiente? ||| 그걸로 충분합니까?
+SEFIA: Con mi abuelo, sí. Le encantan las frases que no se entienden hasta la tercera lectura. ||| 할아버지에게는요. 세 번 읽어야 이해되는 문장을 좋아하시거든요.
++ mezquita de los zapateros = 제화공 모스크. 장인 지구 이름을 딴 가상의 장소
++ en lugar de = ~ 대신. 3부 1화에서 반복된 구문
++ mirar los tejados = 지붕을 쳐다보다. 외교관의 시선 습관을 가리키는 농담
++ librero / librería = 서점 주인 / 서점. 'librero'는 책을 파는 사람
++ más que el rey = 왕보다 더. 비교 구문
++ a la tercera lectura = 세 번째 읽을 때. 'a la tercera'는 세 번째에
+
+## 서점 — LA LIBRERÍA DE HAMID
+HAMID: Señor Quintana. Sea bienvenido a la casa de los libros muertos. Todos están vivos, pero les gusta que los llamen muertos para que nadie los moleste. ||| 킨타나 씨. 죽은 책들의 집에 오신 걸 환영합니다. 모두 살아 있지만 아무도 방해하지 않도록 죽은 책이라 불리는 걸 좋아하죠.
+ÁLVARO: Es un honor. ||| 영광입니다.
+HAMID: Siéntese. Sefia, el té. Con menta. Y con poco azúcar, que los españoles siempre le echan demasiado y luego dicen que el té está malo. ||| 앉으세요. 세피아, 차를 가져오렴. 민트로. 설탕은 적게. 스페인 사람들은 늘 너무 많이 넣고 차가 나쁘다고 하거든.
+ÁLVARO: Tomaré lo que sea. ||| 뭐든 마시겠습니다.
+HAMID: Mi español viene de mi abuelo, que lo recibió de su abuelo, que lo había aprendido de los cautivos. Hace tres siglos y medio. ||| 제 스페인어는 할아버지에게서 왔고, 할아버지는 그분의 할아버지에게서 받았고, 그분은 포로들에게서 배웠어요. 3세기 반 전에요.
+ÁLVARO: ¿Cautivos españoles? ||| 스페인 포로들이요?
+HAMID: Españoles, italianos, portugueses. En esta ciudad, en el siglo diecisiete, había cinco mil. Los llamaban «los cristianos del banco». Trabajaban en las obras del puerto. ||| 스페인, 이탈리아, 포르투갈 사람들요. 17세기 이 도시에는 오천 명이 있었죠. '벤치의 그리스도인들'이라 불렸습니다. 항구 공사에서 일했어요.
+ÁLVARO: ¿Y los libros? ||| 그럼 책들은요?
+HAMID: Ahí. Detrás de usted, la estantería de abajo. Están sin catalogar. Mi abuelo decía que catalogar es matar. ||| 저기요. 선생님 뒤 아래 서가. 분류하지 않았어요. 할아버지는 분류하는 건 죽이는 거라고 하셨죠.
+ÁLVARO: ¿Puedo...? ||| 봐도 되겠습니까…?
+HAMID: Hágalo con las manos limpias. Eso sí. ||| 손을 깨끗이 하고 보세요. 그것만요.
+ÁLVARO: Aquí hay un libro de cuentas. Con tapas de pergamino. «Redención de cautivos, año de mil quinientos ochenta». ||| 여기 장부가 있군요. 양피지 표지입니다. '포로 구속, 1580년'.
+HAMID: Lo ha encontrado enseguida. Usted tiene ojo. ||| 바로 찾으셨군요. 눈이 좋으십니다.
+ÁLVARO: Hamid, esto es una copia de un registro mercedario, o trinitario, que se llevó en Argel. ¿Cómo ha llegado a Salmara? ||| 하미드 씨, 이건 알제에서 작성된 메르세드회나 삼위일체회 기록의 사본입니다. 어떻게 살마라까지 왔습니까?
+HAMID: Mi antepasado, Si Abderrahmán, fue intérprete en el puerto. Cuando los frailes escribían en español, él escribía una copia en árabe para el pachá. Así nadie podía decir que se había pagado una cifra distinta. ||| 제 조상 시 압데라만은 항구에서 통역관이었어요. 수사들이 스페인어로 쓸 때 그는 총독을 위해 아랍어로 사본을 썼죠. 그래서 아무도 다른 금액이 지급됐다고 말할 수 없었습니다.
+ÁLVARO: Una doble contabilidad al revés. En lugar de ocultar, duplicaban para comprobar. ||| 거꾸로 된 이중 장부로군요. 숨기는 대신 대조하려고 두 벌을 만든 거네요.
+HAMID: Eso mismo. Mire la página marcada con la cinta roja. ||| 바로 그겁니다. 빨간 리본이 꽂힌 쪽을 보세요.
+ÁLVARO: «En diecinueve de setiembre de mil quinientos ochenta, fray Juan Gil, de la Orden de la Santísima Trinidad, rescató a Miguel de Cervantes Saavedra, natural de Alcalá de Henares, soldado manco, por quinientos escudos de oro». ||| '1580년 9월 19일, 지극히 거룩한 삼위일체 수도회의 후안 힐 수사가 알칼라 데 에나레스 출신 외팔이 병사 미겔 데 세르반테스 사아베드라를 금화 500에스쿠도로 구속했다'.
+HAMID: El famoso soldado. ||| 유명한 병사죠.
+ÁLVARO: Cervantes. El autor del «Quijote». Estuvo cinco años cautivo en Argel, entre mil quinientos setenta y cinco y mil quinientos ochenta. Intentó huir cuatro veces. ||| 세르반테스입니다. 『돈키호테』의 작가죠. 1575년부터 1580년까지 5년간 알제에서 포로였고 네 번 탈출을 시도했습니다.
+HAMID: Y sus amos no lo mataron. ¿Por qué cree usted? ||| 그런데 주인들은 그를 죽이지 않았죠. 왜 그런 것 같습니까?
+ÁLVARO: Porque... valía más vivo. ||| 살아 있는 편이… 값이 더 나갔으니까요.
+HAMID: Porque valía más vivo. Un cautivo es una inversión. Su amo, Dalí Mamí, un renegado griego, le puso un precio de quinientos escudos. Altísimo para un soldado. Pensaba que era un hombre importante porque llevaba cartas de recomendación de don Juan de Austria. ||| 살아 있는 편이 값이 나갔기 때문이죠. 포로는 투자입니다. 그의 주인 달리 마미, 그리스 출신 배교자는 500에스쿠도의 값을 붙였어요. 병사에게는 아주 높은 금액이죠. 후안 데 아우스트리아 공의 추천서를 지니고 있어서 중요한 사람이라 생각했거든요.
+ÁLVARO: Es decir, el precio no reflejaba lo que Cervantes valía, sino lo que su amo creía que él valía. ||| 그러니까 값은 세르반테스의 가치가 아니라 주인이 그의 가치라고 믿는 것을 반영했군요.
+HAMID: Exacto. Y la cifra no se bajó hasta que alguien le dijo con claridad qué era realmente. Los frailes tuvieron que mostrarle que era un pobre soldado manco, sin fortuna. Entonces el precio bajó a quinientos. ||| 정확합니다. 그리고 누군가 그가 실제로 누구인지 분명히 말해 주기 전까지 금액은 내려가지 않았죠. 수사들이 그가 재산 없는 가난한 외팔이 병사임을 보여 줘야 했습니다. 그제야 값이 500으로 내려갔어요.
+ÁLVARO: Hamid, esto me está diciendo algo. Un precio que no refleja el valor de nadie, sino la confianza del que cobra en poder cobrar. ||| 하미드 씨, 이게 제게 뭔가를 말하고 있습니다. 누구의 가치도 반영하지 않고 받는 사람이 받을 수 있다는 자신감만 반영하는 값이요.
+HAMID: En esta ciudad, el precio de todo depende de lo que los demás crean que puedes pagar. ||| 이 도시에서는 모든 값이 남들이 당신이 낼 수 있다고 믿는 것에 달려 있죠.
++ cautivo = 포로. 3부 1화부터 이어지는 핵심 어휘
++ rescate / redención = 몸값·구속. 삼위일체 수도회(trinitarios)와 메르세드 수도회(mercedarios)가 포로 구속을 담당했다
++ Cervantes en Argel (1575–80) = 레판토 해전 참전 후 돌아오다 해적에게 잡혀 알제에서 5년 포로 생활. 1580년 후안 힐 수사가 500에스쿠도로 몸값을 치러 풀려났다. 이 화의 역사 논거
++ renegado = 배교자. 이슬람으로 개종한 유럽 출신자를 가리키는 역사 용어
++ pachá = 총독(파샤). 오스만 체제의 지방 통치자
++ tener ojo = 눈썰미가 있다. 'tienes ojo'
+
+## 구속 장부의 교훈 — LA LECCIÓN DEL LIBRO
+ÁLVARO: Hamid, ¿puedo hacerle una pregunta directa? ||| 하미드 씨, 직접적인 질문을 해도 되겠습니까?
+HAMID: En esta librería, las preguntas indirectas son un insulto a los libros. ||| 이 서점에서 돌려 하는 질문은 책에 대한 모욕입니다.
+ÁLVARO: Hay un barco español retenido en Puerto Nuevo. El puerto exige dos millones de euros. Me han dicho que es un precio inventado. ¿Quién fija ese precio? ||| 푸에르토 누에보에 스페인 배 한 척이 억류돼 있습니다. 항구가 200만 유로를 요구해요. 지어낸 값이라고 들었습니다. 그 값은 누가 정합니까?
+HAMID: Kader. El capitán de puerto. Un hombre al que conozco desde niño. Cuando tenía diez años, me robaba los cuentos del estante de abajo. ||| 카데르요. 항만장이죠. 어릴 때부터 아는 사람입니다. 열 살 때 아래 서가의 이야기책을 훔쳐 가곤 했어요.
+ÁLVARO: ¿Es un hombre malo? ||| 나쁜 사람입니까?
+HAMID: Es un hombre con una hipoteca, tres hijos y una esposa que quiere una casa en el sur. Los hombres malos son una minoría. Los hombres con hipoteca, la mayoría. ||| 대출이 있고 자식이 셋이며 남쪽에 집을 원하는 아내가 있는 사람이죠. 나쁜 사람은 소수예요. 대출 있는 사람이 다수고요.
+ÁLVARO: ¿Y por qué retiene un barco de rescate? ||| 그런데 왜 구조선을 억류합니까?
+HAMID: Porque los armadores que le pagan se lo piden. Hay un programa de dinero extranjero. Seis millones al año para alojar a los rescatados. Los armadores tienen los albergues. Cada barco que desembarca sin pasar por ellos es una pérdida. ||| 돈을 대는 선주들이 요구하니까요. 외국 자금 프로그램이 있어요. 구조된 사람들을 머물게 하는 데 연 600만. 선주들이 숙소를 갖고 있죠. 그들을 거치지 않고 하선하는 배는 손실이고요.
+ÁLVARO: Lo sé. Ya me lo ha dicho un cocinero. ||| 압니다. 요리사가 이미 말했어요.
+HAMID: Los cocineros siempre saben. ||| 요리사는 늘 알죠.
+ÁLVARO: Pero Kader también tiene un problema. Los armadores le piden retener barcos. Pero si uno retiene un barco español con niños a bordo, aparece en la prensa europea. Y la prensa europea mira dónde va el dinero. ||| 하지만 카데르에게도 문제가 있습니다. 선주들은 배를 억류해 달라고 하지만 아이들이 탄 스페인 배를 억류하면 유럽 언론에 나옵니다. 그리고 유럽 언론은 돈이 어디로 가는지 봅니다.
+HAMID: Eso ya lo piensa él. Todas las noches. Por eso estaba dispuesto a pedir dos millones y no más. Si fuera por los armadores, habría pedido diez. ||| 그건 본인도 이미 생각해요. 매일 밤. 그래서 200만을 요구하고 더 요구하지 않은 겁니다. 선주들 뜻이면 천만을 요구했을 거예요.
+ÁLVARO: Entonces él tiene miedo. ||| 그러니까 그도 두려워하는 겁니다.
+HAMID: Como todo el mundo. ||| 모두가 그렇듯이요.
+ÁLVARO: ¿A qué? ||| 무엇을요?
+HAMID: A que el programa se acabe. Si el dinero europeo se acaba, los armadores le exigirán el contrato. Y le cobrarán las promesas. ||| 프로그램이 끝날까 봐요. 유럽 자금이 끊기면 선주들이 그에게 계약을 요구하고 약속한 걸 청구할 겁니다.
+ÁLVARO: Hamid, ¿y si hubiera una manera de que Kader no tuviera que cobrar a los armadores ni a nadie? Si el precio se convirtiera en otra cosa. ||| 하미드 씨, 카데르가 선주들에게도 누구에게도 받지 않아도 되는 방법이 있다면요? 값이 다른 것이 된다면요.
+HAMID: ¿Otra cosa? ||| 다른 것이라니요?
+ÁLVARO: Una contribución pública a un fondo con libro abierto. Un fondo de acogida administrado por el puerto, con auditoría europea, que reciba fondos de España y de la Unión Europea, y que atienda a todos: a los rescatados de mi barco y a los de otros. ||| 열린 장부를 가진 공공 기금에 대한 출연입니다. 항만이 운영하고 유럽의 감사를 받으며, 스페인과 유럽연합의 자금을 받아 모두를 돌보는 수용 기금이요. 제 배의 구조된 사람들과 다른 배의 사람들까지요.
+HAMID: Un fondo con libro abierto. Como los de los frailes. ||| 열린 장부를 가진 기금. 수사들의 것처럼요.
+ÁLVARO: Como los frailes. «Se leía en la plaza cuánto había costado cada uno, y quién había pagado, y a quién». ||| 수사들처럼요. '광장에서 한 사람당 얼마가 들었고 누가 냈으며 누구에게 냈는지 읽었다'.
+HAMID: ¿Y quién lee? ||| 그럼 누가 읽습니까?
+ÁLVARO: ... Esa es la pregunta. ||| …그게 질문이군요.
+HAMID: En mi ciudad, durante siglos, leía el que sabía leer los dos idiomas. Mi antepasado. Hoy lo haría mi nieta. ||| 제 도시에서는 수 세기 동안 두 언어를 읽을 줄 아는 사람이 읽었어요. 제 조상이요. 오늘은 제 손녀가 할 겁니다.
+SEFIA: ¡Abuelo! ||| 할아버지!
+HAMID: Es la verdad. Habla español, árabe, francés y un poco de cabila. Lee mejor que yo. Si quiere un lector público, aquí tiene uno. ||| 사실이다. 스페인어, 아랍어, 프랑스어, 카빌어도 조금 해. 나보다 잘 읽는다. 공개 낭독자가 필요하다면 여기 한 명 있소.
+ÁLVARO: Sefia, ¿lo haría? ||| 세피아, 해 주시겠습니까?
+SEFIA: Si el libro está abierto de verdad... sí. ||| 장부가 정말 열려 있다면… 네.
++ hipoteca = 주택 담보 대출. 평범한 사람의 부담을 상징
++ libro abierto = 열린 장부. 2부의 포시토 모티프가 이어진다
++ en lugar de ocultar, duplicaban = 숨기는 대신 이중으로 기록했다. 투명성을 위한 이중 장부
++ cabila = 카빌어(베르베르 계열 언어). 북아프리카 소수 언어
++ lector público = 공개 낭독자. 장부를 광장에서 읽는 사람
++ si el libro está abierto de verdad = 장부가 진짜로 열려 있다면. 'de verdad'는 진짜로
