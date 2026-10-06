@@ -1,0 +1,195 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 7
+@title Strand otra vez
+@ko 다시 스트란드
+@setting 울란바토르 · 대통령궁 신임장 제정 → 대사관 → 자이산 전망 언덕(영하 20도, 해 질 녘)
+@level B2-C1
+@cast ÁLVARO | 주몽골 스페인 대사, 44세
+@cast ESCOBEDO | 대사관 차석(전 대리대사), 53세
+@cast STRAND | 보레알 캐피털 대표, 55세
+@cast CALVO | 하원 외교위원회 위원장 (전화)
+@cast REBECA | 국가정보원(CNI) 연락관, 41세 (전화)
+@cast NARAN | 대사관 운전사, 58세
+@note 3부 C사건(보레알 최종 대결)의 첫 화이며 '정공법'의 화입니다. 스트란드는 협박이 아니라 제안으로 다가옵니다. 일자리 4천 명과 침묵을 맞바꾸자는 것이죠. 역사 논거는 푸거 가문과 카를 5세가 맺은 알마덴 수은 광산 담보 계약(1525년경부터 1645년까지 약 1백 20년)으로, '담보로 잡힌 자원은 빚을 갚아도 주권을 갉아먹는다'는 교훈이 나옵니다. 어휘는 인수·투자(adquisición, participación, cláusula de reversión)와 제안·거절 표현에 주목하세요.
+@next 3부 8화 — «El Báltico»(발트해) — 탈린 9번 부두. 8년 전 이반이 마지막으로 서명한 물류 장부, 그리고 스페인에서 오는 가도(街道)의 비유. 알바로는 '허가받은 인도주의적 조치'로 레베카와 함께 갑니다.
+
+## 신임장 — LAS CREDENCIALES
+PRESIDENTE: Señor Quintana, bienvenido a Mongolia. Hoy es un día de frío y de calor. De frío, por el termómetro. De calor, porque usted lleva botas. ||| 킨타나 씨, 몽골에 오신 걸 환영합니다. 오늘은 추우면서도 따뜻한 날이군요. 온도계로는 춥고, 부츠를 신으셨으니 따뜻하고요.
+ÁLVARO: Presidente, me han dicho que los zapatos son para la ciudad y las botas para la palabra. ||| 대통령님, 구두는 도시를 위한 것이고 부츠는 말을 위한 것이라고 들었습니다.
+PRESIDENTE: ¿Quién le ha dicho eso? ||| 누가 그렇게 말했습니까?
+ÁLVARO: Un conductor. ||| 운전사입니다.
+PRESIDENTE: Los conductores son los verdaderos embajadores. ||| 운전사들이 진짜 대사입니다.
+ÁLVARO: Presento mis cartas credenciales, firmadas por Su Majestad el Rey de España. ||| 스페인 국왕 폐하께서 서명하신 신임장을 제정합니다.
+PRESIDENTE: Las acepto con gusto. Y le diré una cosa privada. Me han contado lo de Khar Us. ||| 기꺼이 받습니다. 그리고 사적인 말씀 하나. 하르 우스 이야기를 들었습니다.
+ÁLVARO: ¿Lo que cuenta la prensa? ||| 신문에 나온 이야기 말입니까?
+PRESIDENTE: Lo que cuentan las yurtas. Es más fiable. ||| 게르들이 들려준 이야기입니다. 더 믿을 만하죠.
+ÁLVARO: Me alegro. Pero el mérito es de un joven pastor y de una anciana que escribe con el pulgar. ||| 기쁩니다. 하지만 공은 젊은 목동과 엄지로 서명하는 노인에게 있습니다.
+PRESIDENTE: Siempre dicen eso los buenos embajadores. Y siempre tienen un cuaderno. Buenas tardes. ||| 좋은 대사들은 늘 그렇게 말하죠. 그리고 늘 수첩이 있고요. 안녕히 가십시오.
+ESCOBEDO: Ha sido una ceremonia muy cordial, embajador. ||| 아주 정중한 의식이었습니다, 대사님.
+ÁLVARO: Y muy corta. Escobedo, ¿hay noticias de Madrid? ||| 그리고 아주 짧았죠. 에스코베도, 마드리드에서 소식이 있습니까?
+ESCOBEDO: La presidenta Calvo ha llamado dos veces. Y hay una llamada extraña en la centralita. Un hombre que no quiere dar el nombre. ||| 칼보 위원장이 두 번 전화했습니다. 그리고 교환대에 이상한 전화가 있어요. 이름을 말하지 않는 남자입니다.
+ÁLVARO: ¿Qué acento? ||| 어떤 억양입니까?
+ESCOBEDO: Inglés con un deje... nórdico. Dice que si usted lo desea, estará esta tarde a las cuatro en la colina de Zaisan. ||| 영어인데… 북유럽 느낌이 있는 억양이에요. 원하시면 오늘 오후 네 시에 자이산 언덕에 있겠답니다.
+ÁLVARO: ¿Dejó un mensaje? ||| 메시지는 남겼습니까?
+ESCOBEDO: Solo una frase. «Dígale que vengo sin actas». ||| 한 문장만요. "회의록 없이 왔다고 전해 주세요."
+ÁLVARO: Ya sé quién es. ||| 누군지 압니다.
+ESCOBEDO: ¿Va a ir? ||| 가실 겁니까?
+ÁLVARO: Voy a ir. Pero primero voy a llamar a Madrid. Lacalle me obliga: tengo que comunicar antes de cualquier operación reservada. ||| 갈 겁니다. 하지만 먼저 마드리드에 전화하겠습니다. 라칼레 결정문이 의무를 지우죠. 비공개 작전은 사전에 통지해야 합니다.
+ESCOBEDO: ¿Esto es una operación? ||| 이게 작전입니까?
+ÁLVARO: Es una conversación con alguien que no debería estar aquí. Prefiero que alguien sepa que la tengo. ||| 여기 있어서는 안 되는 사람과의 대화입니다. 제가 그 대화를 한다는 걸 누가 알아 두는 편이 낫죠.
+## 전화 — LA LLAMADA
+ÁLVARO: Presidenta Calvo, soy Quintana. Perdone que le llame a esta hora. ||| 칼보 위원장님, 킨타나입니다. 이 시간에 전화드려 죄송합니다.
+CALVO: Son las nueve de la mañana aquí, Quintana. Aunque supongo que allí ya es tarde. ¿Qué ocurre? ||| 여기는 아침 아홉 시입니다, 킨타나. 그쪽은 이미 늦었겠지만요. 무슨 일입니까?
+ÁLVARO: Hoy, a las cuatro de la tarde, voy a reunirme con Mikael Strand, de Boreal Capital. Ha venido a Ulán Bator sin avisar. ||| 오늘 오후 네 시에 보레알 캐피털의 미카엘 스트란드를 만날 겁니다. 예고 없이 울란바토르에 왔습니다.
+CALVO: ¿Strand? ¿El de Punta Sal? ||| 스트란드? 푼타 살의 그 사람?
+ÁLVARO: El mismo. No sé qué va a ofrecerme. Pero quiero que conste que le he avisado antes. ||| 같은 사람입니다. 무엇을 제안할지 모릅니다. 하지만 사전에 알렸다는 사실이 기록되길 원합니다.
+CALVO: Lo anoto. ¿Hay riesgo físico? ||| 기록하겠습니다. 신변 위험이 있습니까?
+ÁLVARO: Ninguno. Es un lugar público. Y mi conductor estará abajo con el motor encendido. ||| 없습니다. 공공장소고, 운전사가 아래에서 시동을 켠 채 기다릴 겁니다.
+CALVO: Quintana, ¿qué quiere que haga? ||| 킨타나, 제가 무엇을 하길 원합니까?
+ÁLVARO: Nada. Solo quiero que, si dentro de una hora le llamo con una noticia, sepa que fue la segunda llamada de hoy. ||| 없습니다. 한 시간 뒤 제가 소식을 전할 때 오늘 두 번째 전화였다는 걸 아시길 바랍니다.
+CALVO: Entendido. Tenga cuidado. Y sea breve. ||| 알겠습니다. 조심하시오. 그리고 짧게 하시오.
+ÁLVARO: Lo intentaré. Es un hombre que habla despacio. ||| 노력하겠습니다. 천천히 말하는 사람이라서요.
+## 자이산 언덕 — LA COLINA DE ZAISAN
+STRAND: Señor Quintana. Qué placer. Y qué frío. ||| 킨타나 씨. 반갑습니다. 그리고 춥군요.
+ÁLVARO: Menos veinte. Es primavera. ||| 영하 20도입니다. 봄이죠.
+STRAND: Así que me lo dicen. Subamos juntos. Se ve toda la ciudad desde arriba. ||| 다들 그렇게 말하더군요. 같이 올라가죠. 위에서는 도시 전체가 보입니다.
+ÁLVARO: Strand, no me ha dicho cómo me ha encontrado. ||| 스트란드 씨, 어떻게 저를 찾았는지 말씀하지 않으셨네요.
+STRAND: Es fácil. Su nombre estaba en un libro de pastores que alguien fotografió. Hoy en día, todo el mundo es un archivo. ||| 쉽습니다. 당신 이름이 목동들의 책에 있었고 누군가 사진을 찍었죠. 요즘은 누구나 기록 보관소예요.
+ÁLVARO: Y ha viajado siete mil kilómetros para decirme algo. ||| 그리고 7천 킬로미터를 날아와서 말씀하실 게 있다고요.
+STRAND: Para ofrecerle algo. Es distinto. ||| 제안하러 왔습니다. 다르죠.
+ÁLVARO: Adelante. ||| 말씀하세요.
+STRAND: Boreal, en nombre de sus socios, está dispuesta a retirarse de tres operaciones: Punta Sal, Khar Us y todo lo que tenga que ver con Gobi Mining Partners. Sin contraprestación. ||| 보레알은 투자자들을 대신해 세 건에서 철수할 용의가 있습니다. 푼타 살, 하르 우스, 그리고 고비 마이닝 파트너스와 관련된 모든 것. 대가 없이요.
+ÁLVARO: Qué generoso. ||| 후하군요.
+STRAND: No lo es. Tampoco es una derrota. Es una reorganización de prioridades. ||| 아닙니다. 패배도 아니고요. 우선순위의 재편이죠.
+ÁLVARO: ¿Y cuál es la nueva prioridad? ||| 새 우선순위는 무엇입니까?
+STRAND: España. ||| 스페인입니다.
+ÁLVARO: España. ||| 스페인이요.
+STRAND: En concreto, Astilleros del Cantábrico. Ferrol. Cuatro mil doscientos trabajadores. ||| 구체적으로는 아스티예로스 델 칸타브리코. 페롤입니다. 노동자 4,200명.
+ÁLVARO: Los astilleros que construyen las fragatas. ||| 호위함을 만드는 조선소죠.
+STRAND: Los astilleros que han perdido ciento ochenta millones en dos años y que el Gobierno no sabe cómo rescatar sin que Bruselas proteste. Septentrio está dispuesto a comprar el cincuenta y uno por ciento, a pagar las deudas y a garantizar todos los empleos durante diez años. ||| 2년 동안 1억 8천만 유로를 잃었고 정부가 브뤼셀의 반발 없이 어떻게 구제해야 할지 모르는 조선소입니다. 셉텐트리오가 지분 51퍼센트를 사고 부채를 갚고 10년간 전 일자리를 보장할 용의가 있습니다.
+ÁLVARO: ¿Y cuál es la contrapartida? ||| 그리고 대가는요?
+STRAND: Ninguna. Salvo que su Gobierno no se oponga. ||| 없습니다. 귀국 정부가 반대하지 않기만 하면요.
+ÁLVARO: Ya. Y esa «no oposición» necesita algún tipo de... gesto mío. ||| 그렇군요. 그 '반대하지 않음'에는 제 쪽의… 몸짓이 필요하겠죠.
+STRAND: Un gesto pequeño. Que no lleve a la comisión de Calvo ciertos documentos. Que no mire más allá del muelle nueve. Que deje en paz el pasado de mi cliente. ||| 작은 몸짓입니다. 칼보 위원회에 특정 문서를 가져가지 않는 것. 9번 부두 너머를 더 보지 않는 것. 제 고객의 과거를 평온히 놔두는 것.
+ÁLVARO: Empleos a cambio de silencio. ||| 일자리와 침묵의 교환이군요.
+STRAND: Cuatro mil doscientos empleos. Contra unos papeles que nadie ha pedido. ||| 4,200개의 일자리와 아무도 요구하지 않은 서류들의 교환이죠.
+ÁLVARO: Strand, ¿conoce la historia de Almadén? ||| 스트란드 씨, 알마덴의 역사를 아십니까?
+STRAND: ¿Una mina? ||| 광산입니까?
+ÁLVARO: La mina de mercurio más grande del mundo. En el siglo dieciséis, el emperador Carlos V debía tanto dinero a los banqueros alemanes, los Fugger, que les entregó la administración de Almadén como garantía. ||| 세계에서 가장 큰 수은 광산입니다. 16세기에 카를 5세 황제는 독일 은행가 푸거 가문에 너무 많은 빚을 져서 알마덴의 운영권을 담보로 넘겼습니다.
+STRAND: Una operación de colateral. Muy razonable. ||| 담보 거래로군요. 아주 합리적입니다.
+ÁLVARO: Razonable durante más de cien años. Los Fugger administraban la mina, recibían el mercurio, y cada vez que el emperador pedía otro préstamo, la garantía se hacía más difícil de recuperar. ||| 1백 년이 넘는 동안은 합리적이었죠. 푸거 가문은 광산을 운영하고 수은을 받았고, 황제가 새 대출을 부탁할 때마다 담보는 되찾기가 더 어려워졌습니다.
+STRAND: Y al final la Corona la recuperó. ||| 그리고 결국 왕실이 되찾았죠.
+ÁLVARO: Sí. En mil seiscientos cuarenta y cinco. Pagando. Y después de que más de un siglo de «gestión eficiente» hubiese dejado a los mineros en condiciones de las que nadie quiere acordarse. ||| 네. 1645년에요. 값을 치르고서. 그리고 1백 년 넘는 '효율적 경영'이 광부들을 아무도 기억하고 싶지 않은 처지에 남긴 뒤에요.
+STRAND: Una historia triste. Pero la mina se salvó. ||| 슬픈 이야기군요. 하지만 광산은 살아남았습니다.
+ÁLVARO: La mina sí. La soberanía, a medias. ||| 광산은요. 주권은 반쪽이었고요.
+STRAND: Usted es un moralista. ||| 당신은 도덕가로군요.
+ÁLVARO: No. Soy un lector. Y la historia de Almadén dice que quien pone un recurso estratégico como garantía no pierde el recurso, pierde la capacidad de decidir sobre él. ||| 아닙니다. 독자일 뿐입니다. 그리고 알마덴의 역사는 전략 자원을 담보로 내놓은 쪽이 자원을 잃는 게 아니라 그에 관해 결정할 능력을 잃는다고 말합니다.
+STRAND: Los astilleros no son una mina de mercurio. ||| 조선소는 수은 광산이 아닙니다.
+ÁLVARO: Fabrican barcos de guerra. Con un cincuenta y uno por ciento en manos de un fondo cuyo dueño nadie conoce. ||| 군함을 만듭니다. 그런데 51퍼센트가 주인을 아무도 모르는 펀드의 손에 들어가는 거죠.
+STRAND: ¿Ve? Tiene una objeción de principios. Pero no ha dicho que no a los empleos. ||| 보세요, 원칙적인 반대는 있지만 일자리에 대해서는 아니라고 하지 않았습니다.
+ÁLVARO: No he dicho que no a los empleos. He dicho que no a la mordaza. Son dos cosas distintas. ||| 일자리에 아니라고 한 게 아닙니다. 재갈에 아니라고 했습니다. 서로 다른 두 가지입니다.
++ colina de Zaisan = 자이산 전망 언덕. 울란바토르 남쪽의 기념탑이 있는 언덕
++ sin actas = 회의록 없이. 2부 10화의 스트란드 표현이 되풀이된다
++ astillero = 조선소. 'Astilleros del Cantábrico'는 가상의 회사
++ contraprestación / contrapartida = 반대급부. 거래에서 상대에게 되돌려 주는 것
++ garantía / colateral = 담보. 빚을 확보하는 재산
++ Almadén = 스페인 시우다드 레알 주의 수은 광산. 푸거 가문이 1525년경부터 운영권을 쥐었고 1645년에 왕실이 회수했다
++ mordaza = 재갈. 말을 못 하게 하는 것의 비유('ley mordaza')
++ moralista = 도덕가. 여기서는 비꼬는 어조
++ sin avisar = 예고 없이. 'sin previo aviso'
+STRAND: Está bien. Se lo pongo de otra manera. Olvide los astilleros un momento. ¿Qué quiere usted, Quintana? ||| 좋습니다. 다르게 말씀드리죠. 조선소는 잠시 잊으십시오. 당신이 원하는 건 무엇입니까, 킨타나?
+ÁLVARO: ¿Yo? ||| 저요?
+STRAND: Usted. No el diplomático, no el padre. El hombre. ||| 당신요. 외교관도 아버지도 아닌 사람 자체요.
+ÁLVARO: Quiero que a la gente que me importa nadie la compre. ||| 제게 소중한 사람들을 아무도 사지 않았으면 합니다.
+STRAND: Es una frase muy bonita. ¿Quiere saber qué quiere realmente? Quiere encontrar a alguien. ||| 아주 멋진 문장이군요. 정말 원하는 게 뭔지 말씀드릴까요? 누군가를 찾고 싶으신 겁니다.
+ÁLVARO: No sé de qué habla. ||| 무슨 말인지 모르겠습니다.
+STRAND: Ivar Sandell. O como se llame hoy. ||| 이바르 산델. 오늘은 뭐라고 불리든.
+ÁLVARO: ... ||| …
+STRAND: Está vivo, señor Quintana. Está cansado, pero vivo. Y puedo hacer que su hermana lo vea. ||| 살아 있습니다, 킨타나 씨. 지쳤지만 살아 있어요. 그리고 여동생이 그를 보게 해 줄 수 있습니다.
+ÁLVARO: ¿A cambio de qué? ||| 무엇의 대가로요?
+STRAND: A cambio de nada. Esa es la belleza. No le pido nada. Solo que no se interponga entre nosotros y los astilleros. ||| 대가는 없습니다. 그게 아름다운 점이죠. 아무것도 요구하지 않습니다. 우리와 조선소 사이에 서지 않으시면 됩니다.
+ÁLVARO: Eso no es «nada». ||| 그건 '아무것'이 아닙니다.
+STRAND: Es una categoría de nada. ||| '아무것' 종류의 하나죠.
+ÁLVARO: Strand, tengo que preguntarle una cosa. Con franqueza. ¿Usted sabe dónde está? ||| 스트란드 씨, 하나 묻겠습니다. 솔직하게요. 그가 어디 있는지 아십니까?
+STRAND: Sé dónde estuvo la semana pasada. Y sé que se le puede encontrar. ||| 지난주에 어디 있었는지는 압니다. 그리고 찾을 수 있다는 것도요.
+ÁLVARO: ¿Está retenido? ||| 억류돼 있습니까?
+STRAND: Está donde le conviene a todos que esté. ||| 모두에게 편한 곳에 있습니다.
+ÁLVARO: Eso significa que sí. ||| 그럼 맞다는 뜻이군요.
+STRAND: Significa lo que usted quiera entender. ||| 당신이 이해하고 싶은 대로입니다.
+ÁLVARO: Voy a decirle algo muy despacio. Un hombre que ofrece devolver a alguien que él mismo ha retenido no está ofreciendo un favor. Está pidiendo un rescate. ||| 아주 천천히 말씀드리겠습니다. 자신이 붙잡아 둔 사람을 돌려주겠다는 사람은 호의를 베푸는 게 아니라 몸값을 요구하는 겁니다.
+STRAND: Una palabra fea. ||| 흉한 말이군요.
+ÁLVARO: Una palabra exacta. En un libro de cuentas de los frailes mercedarios se lee que no se paga a quien captura. Se paga a quien custodia. Y se paga en público. ||| 정확한 말입니다. 메르세드 수사들의 장부에는 붙잡은 쪽에는 지불하지 않는다고 쓰여 있습니다. 보관하는 쪽에 내고, 그것도 공개적으로 냅니다.
+STRAND: Eso es muy bonito, pero no estamos en el siglo trece. ||| 아주 멋지지만 지금은 13세기가 아닙니다.
+ÁLVARO: Tampoco usted estaba en el siglo dieciséis cuando propuso los astilleros. Y sin embargo, la propuesta es la misma. ||| 조선소를 제안하셨을 때도 16세기는 아니었죠. 하지만 제안은 같습니다.
+STRAND: Está empezando a ser impertinente. ||| 무례해지기 시작하시는군요.
+ÁLVARO: Estoy empezando a entender. ||| 이해하기 시작하는 겁니다.
+STRAND: Una propuesta concreta, entonces. Dígame qué haría usted para que los astilleros se salvaran sin Septentrio. ||| 그럼 구체적으로 말씀해 보시죠. 셉텐트리오 없이 조선소를 살리려면 어떻게 하겠습니까?
+ÁLVARO: No lo haría yo. Lo haría el que los conoce. Pero le diré una cosa: yo aceptaría a Septentrio como accionista minoritario, con un máximo del veinticinco por ciento, con propietario identificado públicamente, una «acción de oro» para el Estado y una cláusula de reversión a los diez años. ||| 제가 하는 게 아닙니다. 조선소를 아는 사람이 하겠죠. 하지만 한 가지는 말씀드립니다. 저라면 셉텐트리오를 소수 주주로, 최대 25퍼센트로, 소유주를 공개적으로 밝히고, 국가에 '황금주'를 주고, 10년 뒤 환수 조항을 달아 받아들이겠습니다.
+STRAND: Eso no es una oferta. Es una rendición. ||| 그건 제안이 아니라 항복입니다.
+ÁLVARO: Es la única que podría firmar un Estado sin vergüenza. ||| 부끄럽지 않은 국가가 서명할 수 있는 유일한 안이죠.
+STRAND: Septentrio no revela a su propietario. Nunca. ||| 셉텐트리오는 소유주를 밝히지 않습니다. 절대로.
+ÁLVARO: Entonces no hay trato. Mire, Strand, es muy sencillo. Con propietario a la vista, los astilleros pueden ser de ustedes. Con propietario escondido, no. ||| 그럼 거래는 없습니다. 보세요, 스트란드 씨, 간단합니다. 소유주가 보이면 조선소는 여러분 것이 될 수 있어요. 숨어 있으면 안 됩니다.
+STRAND: ¿Y por qué le importa tanto quién es? ||| 왜 그렇게 소유주가 누구인지 중요합니까?
+ÁLVARO: Porque quien paga es a quien se le debe. Y a alguien que no se nombra, no se le puede deber. ||| 돈을 내는 사람에게 빚을 지게 되니까요. 이름 없는 사람에게는 빚을 질 수 없습니다.
+STRAND: Qué refrán tan jurídico. ||| 법률가 같은 속담이군요.
+ÁLVARO: Es de Lucía. Mi hija. Me lo dijo en un mensaje de voz. ||| 딸 루시아의 말입니다. 음성 메시지로 해 줬어요.
+STRAND: Una hija sensata. ||| 현명한 딸이군요.
+ÁLVARO: Las hay. ||| 있죠.
+STRAND: Vamos a hacer una cosa. Yo le diré dónde se puede encontrar a Sandell. Usted irá, hablará con él, y volverá a hablar conmigo. Con calma. ||| 이렇게 하죠. 산델을 어디서 찾을 수 있는지 알려 드리겠습니다. 가서 그와 이야기하고 다시 저와 이야기하십시오. 차분하게요.
+ÁLVARO: ¿Dónde? ||| 어디입니까?
+STRAND: En Tallin. Muelle nueve. Dentro de tres días. ||| 탈린입니다. 9번 부두. 사흘 뒤.
+ÁLVARO: ¿Solo? ||| 혼자서요?
+STRAND: Con su amiga, si quiere. Ella lo desea, además. Lleva ocho años deseándolo. ||| 원하시면 친구분과 함께요. 그분도 원할 테고요. 8년째 원해 왔으니까요.
+ÁLVARO: Voy a comunicarlo. A mi presidenta de comisión, y a mi ministra. En voz alta, y ahora mismo. ||| 통지하겠습니다. 위원회 위원장님께, 그리고 장관님께. 소리 내어, 지금 바로요.
+STRAND: Lo imaginaba. Hágalo. Lo que no puede evitar es llegar. ||| 짐작했습니다. 하세요. 하지만 도착하는 것까지 피할 수는 없습니다.
+ÁLVARO: ¿Por qué? ||| 왜죠?
+STRAND: Porque usted no es de los que dejan a alguien a medio camino. Lo he leído en su expediente. ||| 당신은 누군가를 중도에 내버려 두는 사람이 아니니까요. 당신 기록에서 읽었습니다.
+ÁLVARO: Mi expediente. ¿Cómo ha llegado a él? ||| 제 기록이요? 어떻게 접근했습니까?
+STRAND: Como llega todo. Alguien lo prestó a cambio de un favor. ||| 모든 것이 닿는 방식 그대로요. 누군가 호의의 대가로 빌려줬죠.
+ÁLVARO: Ahora ya sé que hay un favor más que investigar. ||| 이제 조사해야 할 호의가 하나 더 있다는 걸 알겠군요.
+STRAND: Buenas tardes, señor embajador. Y cuídese del frío. En Tallin hace menos, pero más húmedo. ||| 좋은 오후 되십시오, 대사님. 추위 조심하시고요. 탈린은 덜 춥지만 더 눅눅합니다.
+## 내려오는 길 — LA BAJADA
+NARAN: Embajador, ¿todo bien? Tiene la cara de un hombre que ha escuchado una oferta. ||| 대사님, 괜찮으십니까? 제안을 들은 사람의 얼굴이시네요.
+ÁLVARO: ¿Cómo sabe qué cara es esa? ||| 그게 어떤 얼굴인지 어떻게 아십니까?
+NARAN: Trece años conduciendo a embajadores. Es una cara entre la risa y las ganas de vomitar. ||| 13년 동안 대사들을 태웠습니다. 웃음과 구역질 사이의 얼굴이죠.
+ÁLVARO: Llévame a la embajada. Y, Naran, ¿recuerda el camino de las ovejas? ||| 대사관으로 가 주세요. 그리고 나란, 양들의 길 기억하십니까?
+NARAN: Sí. Una promesa. ||| 네. 약속이죠.
+ÁLVARO: Hoy me han ofrecido un camino sin promesas. Es lo más peligroso que hay. ||| 오늘 저는 약속 없는 길을 제안받았습니다. 가장 위험한 길이죠.
+NARAN: Los caminos sin promesa llevan siempre a un precipicio. O a una tienda de alguien. ||| 약속 없는 길은 늘 낭떠러지나 누군가의 상점으로 이어집니다.
+ÁLVARO: Eso lo apunto. ||| 그건 적어 두겠습니다.
+ÁLVARO: Presidenta Calvo, soy yo otra vez. Es la segunda llamada de hoy. ||| 칼보 위원장님, 또 접니다. 오늘 두 번째 전화입니다.
+CALVO: Cuénteme. ||| 말씀하시오.
+ÁLVARO: Strand me ha ofrecido dos cosas. Un rescate de los astilleros de Ferrol por un fondo que no revela su propietario, a cambio de mi silencio. Y la posibilidad de que Rebeca Salas vea a su hermano, que está retenido. ||| 스트란드가 두 가지를 제안했습니다. 소유주를 밝히지 않는 펀드의 페롤 조선소 구제, 대가는 제 침묵. 그리고 레베카 살라스가 억류된 오빠를 만날 수 있게 해 주겠다는 것입니다.
+CALVO: ¿Dos ofertas al mismo tiempo? ||| 두 가지를 동시에요?
+ÁLVARO: Una, presidenta. Es una sola con dos envoltorios. ||| 하나입니다, 위원장님. 포장이 둘인 하나요.
+CALVO: Lo sé. ¿Y usted qué ha respondido? ||| 압니다. 그래서 뭐라고 답했습니까?
+ÁLVARO: Que acepto la oferta de los empleos con propietario a la vista, y que rechazo la mordaza. Y que dentro de tres días estaré en Tallin. Con permiso, por «gestión humanitaria». ||| 소유주가 드러난다는 조건으로 일자리 제안은 받아들이고 재갈은 거절한다고요. 그리고 사흘 뒤 탈린에 가 있겠다고요. '인도주의적 조치'로 허가를 받고서요.
+CALVO: ¿Va solo? ||| 혼자 갑니까?
+ÁLVARO: Con Rebeca, y con un abogado del Estado que usted designe. Que lea todo en voz alta. ||| 레베카와, 위원장님이 지정하실 국가 변호사 한 명과 갑니다. 모든 걸 소리 내어 읽게 하죠.
+CALVO: Le mando a Arrieta. ||| 아리에타를 보내겠소.
+ÁLVARO: Presidenta... Arrieta no. ||| 위원장님… 아리에타는 안 됩니다.
+CALVO: ¿Por qué? ||| 왜요?
+ÁLVARO: Porque Strand ha dicho una cosa que me preocupa: que mi expediente se lo prestó alguien. Y quiero saber primero quién. ||| 스트란드가 마음에 걸리는 말을 했습니다. 제 기록을 누군가 빌려줬다고요. 그게 누군지 먼저 알고 싶습니다.
+CALVO: Comprendo. Mande a Beltrán entonces. De la oposición. Sería más difícil de comprar. ||| 알겠소. 그럼 야당의 벨트란을 보내겠소. 매수하기는 더 어려울 거요.
+ÁLVARO: Perfecto. ||| 좋습니다.
+REBECA: Álvaro. Ha llamado la presidenta Calvo. Dice que me voy contigo a Tallin. ||| 알바로. 칼보 위원장이 전화했어. 나도 너랑 탈린에 간대.
+ÁLVARO: ¿Cuánto te ha contado? ||| 얼마나 들었어?
+REBECA: Que Strand dice que mi hermano está vivo. ||| 스트란드가 오빠가 살아 있다고 했다고.
+ÁLVARO: Rebeca, escucha bien. Él lo dice. No lo sabemos. ||| 레베카, 잘 들어. 그가 말하는 거야. 우리는 몰라.
+REBECA: Tú lo has creído. ||| 넌 믿었잖아.
+ÁLVARO: Yo he creído que lo usa. Que es otra cosa. ||| 난 그가 그걸 이용한다고 믿어. 그건 다른 거야.
+REBECA: Si es verdad, me debes un barco. ||| 사실이라면 넌 나한테 배 한 척을 빚졌어.
+ÁLVARO: Te debo muchas cosas. Un barco entra. ||| 많은 걸 빚졌지. 배도 포함해서.
+REBECA: Nos vemos en Helsinki. Y Álvaro, cuéntales a todos que tengo un hermano. Quiero que se sepa. ||| 헬싱키에서 보자. 그리고 알바로, 모두에게 내게 오빠가 있다고 말해 줘. 알려지길 원해.
+ÁLVARO: Se sabrá. Se leerá en voz alta. ||| 알려질 거야. 소리 내어 읽힐 거야.
++ acción de oro = 황금주. 국가가 전략 기업에 갖는 특별 거부권 주식
++ cláusula de reversión = 환수 조항. 일정 기간 뒤 자산이 원 소유자에게 돌아오는 조건
++ propietario real = 실소유주. 'titular real'이라고도 함
++ retener = 억류하다, 붙들어 두다. 여기서는 사람을 가두는 뜻
++ un envoltorio = 포장. '하나의 거래에 두 겹의 포장'이라는 비유
++ rescate = 구출 / 몸값. 3부 A사건에서 나온 단어가 반복된다
++ abogado del Estado = 국가 변호사. 스페인 국가 법무 공무원
++ cuidarse del frío = 추위를 조심하다. 영하의 도시에서 건네는 인사
++ una categoría de nada = '아무것' 종류의 하나. 스트란드의 말장난
