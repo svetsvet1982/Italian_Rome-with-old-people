@@ -1,0 +1,91 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 1
+@ep 9
+@title Verraad in Den Haag
+@ko 헤이그의 배신
+@setting 목요일 밤 외무부 요스트의 사무실 → 헤이그 부이턴호프(광장) → 금요일 아침 비서르의 사무실 → 장관실
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 45세
+@cast FEMKE | 분석관, 31세
+@cast VISSER | 외무부 부국장, 52세
+@cast MINISTER | 외무부 장관 판 베이크, 61세
+@note 1부 9화는 '배신'의 화입니다. 이메일 메타데이터(전송 시각, 수신 경로)가 협상 정보가 새어 나간 시점을 말해 줍니다. 역사 논거는 더 비트 형제 사건(1672): 재앙의 해에 소문과 불신 속에서 요한과 코르넬리스 더 비트가 헤이그 부이턴호프에서 군중에게 살해된 비극으로, '소문이 절차를 이길 때의 비용'이 요스트가 비서르를 다루는 방식(공개 폭로 대신 본인의 자진 보고)의 근거가 됩니다. 어휘는 디지털 흔적(verzendtijd, kopie, doorsturen, metadata)과 배신·신뢰 표현에 주목하세요.
+@next 1부 10화 — «Onderhandelen op de dijk»(제방 위의 협상) — 위원회 설치 협상이 폭풍우 속 제방 위에서 비공식으로 이어집니다. 메란티 대표가 건네는 모래주머니 한 포대, 그리고 겐트 평화(1576)의 교훈.
+
+## 메타데이터 — DE METADATA
+FEMKE: Joost, ik moet je iets laten zien. En ik wil dat je gaat zitten. ||| 요스트, 보여 드릴 게 있어요. 앉으세요.
+JOOST: Ik zit al. ||| 이미 앉아 있어요.
+FEMKE: Dan wil ik dat je blijft zitten. ||| 그럼 계속 앉아 있으세요.
+JOOST: Femke. ||| 페므커.
+FEMKE: Ik heb de metadata van de mails rond Brussel nagelopen. Eén voor één. ||| 브뤼셀 관련 메일의 메타데이터를 하나하나 확인했어요.
+JOOST: Dat is een heleboel werk. ||| 일이 많았겠군요.
+FEMKE: Het kostte me twee nachten. Weet je nog dat Suryo zei dat de Meranti-kant het voorstel al een dag van tevoren kende? ||| 이틀 밤이 걸렸어요. 수리요가 메란티 쪽이 하루 전에 제안을 알았다고 했던 거 기억나세요?
+JOOST: Sanne zei het. Niet Suryo. ||| 산네가 한 말이에요. 수리요가 아니라.
+FEMKE: Sanne dan. Dat klopt niet. Meranti kende het niet. Veldhuis kende het. ||| 그럼 산네요. 그건 틀렸어요. 메란티가 아니라 펠트하위스가 알았어요.
+JOOST: Hoe weet je dat? ||| 어떻게 알아요?
+FEMKE: De advocaat van Veldhuis, meneer De Wit, antwoordde in Brussel om vijf voor negen: «Akkoord met een voorschot van twintig miljoen». ||| 펠트하위스 변호사 더 위트 씨가 브뤼셀에서 아홉 시 오 분 전에 이렇게 답했어요. '2천만 선지급에 동의'.
+JOOST: Dat zei hij na mijn voorstel. ||| 제 제안 뒤에 한 말이잖아요.
+FEMKE: Nee. Hij zei het in een mail. Aan zijn cliënt. Om 08:55. ||| 아니요. 메일로 말했어요. 의뢰인에게. 08시 55분에요.
+JOOST: Wanneer begon de vergadering? ||| 회의는 언제 시작됐죠?
+FEMKE: Om negen uur. En jij deed je voorstel om tien over negen. ||| 아홉 시요. 그리고 요스트 씨는 아홉 시 십 분에 제안했고요.
+JOOST: Dus hij accepteerde vóór ik het voorstel deed. ||| 그러니까 제가 제안하기 전에 수락했군요.
+FEMKE: Hij accepteerde iets wat hij al kende. ||| 이미 아는 걸 수락한 거예요.
+JOOST: Waar kende hij het van? ||| 어디서 알았죠?
+FEMKE: Van een document. «Concept voorstel Brussel, versie twee». Dat heb jij de avond ervoor om half elf verstuurd. Aan drie personen. ||| 문서로요. '브뤼셀 제안 초안, 2판'. 전날 밤 열 시 반에 보내셨죠. 세 사람에게.
+JOOST: Aan jou, aan Lambert, en aan Visser. ||| 당신, 랑베르, 비서르에게요.
+FEMKE: Precies. En om 22:41 is de mail doorgestuurd. Naar een privéadres. ||| 맞아요. 그리고 22시 41분에 어떤 사적인 주소로 전달됐어요.
+JOOST: Van wie? ||| 누구에게서요?
+FEMKE: Van Vissers account. ||| 비서르의 계정에서요.
+JOOST: ... ||| …
+FEMKE: Het privéadres hoort bij een domein dat is geregistreerd door een kantoor in Rijswijk. Veldhuis Waterwerken. ||| 그 사적 주소는 레이스베이크의 한 사무실이 등록한 도메인에 속해요. 펠트하위스 수리공사요.
+JOOST: Kan het zijn dat iemand zijn account heeft gebruikt? ||| 누가 그의 계정을 썼을 수도 있지 않나요?
+FEMKE: Dat heb ik ook gecontroleerd. Het apparaat dat het verzond, was zijn eigen telefoon. Dezelfde die hij gisteren bij het ministerie gebruikte. ||| 그것도 확인했어요. 보낸 기기는 그의 휴대폰이었어요. 어제 부처에서 쓰던 그 기기요.
+JOOST: En de locatie? ||| 위치는요?
+FEMKE: Zijn thuisnetwerk. Rotterdam-Kralingen. ||| 집 네트워크예요. 로테르담 크랄링언.
+JOOST: Hij was thuis. ||| 집에 있었군요.
+FEMKE: Hij zat thuis, en hij stuurde het door. ||| 집에서 전달했어요.
+JOOST: Waarom? ||| 왜죠?
+FEMKE: Dat weet ik niet. Maar het is verraad, Joost. ||| 모르죠. 하지만 배신이에요, 요스트.
+JOOST: Dat is een groot woord. ||| 큰 단어네요.
+FEMKE: Het is het juiste woord. ||| 맞는 단어예요.
+JOOST: Femke, zes dagen geleden zat ik bij hem. Hij vertelde me over 1998. Hij was bijna in tranen. ||| 페므커, 엿새 전 그와 같이 앉아 있었어요. 1998년 얘기를 했죠. 거의 울 뻔했어요.
+FEMKE: Dan was het oprecht. En hij verraadt je tóch. Dat gaat samen. Mensen kunnen allebei. ||| 그럼 진심이었겠죠. 그런데도 배신해요. 같이 가는 거예요. 사람은 둘 다 할 수 있어요.
+JOOST: Dat is een zin die ik niet wil horen. ||| 듣고 싶지 않은 말이네요.
+FEMKE: Je moet hem horen. ||| 들어야 해요.
+JOOST: Ik weet het. ||| 알아요.
+## 부이턴호프 — HET BUITENHOF
+FEMKE: Waar gaan we heen? ||| 어디로 가는 거예요?
+JOOST: Naar het Buitenhof. Hier. Dit is de plek. ||| 부이턴호프로요. 여기예요. 이 자리죠.
+FEMKE: Het plein. ||| 광장이네요.
+JOOST: In augustus 1672 stonden hier duizenden mensen. Ze hadden gehoord dat de gebroeders De Witt landverraders waren. ||| 1672년 8월 이곳에 수천 명이 서 있었어요. 더 비트 형제가 매국노라는 말을 들었죠.
+FEMKE: Johan en Cornelis. ||| 요한과 코르넬리스요.
+JOOST: Cornelis zat in de Gevangenpoort. Johan kwam hem bezoeken. De menigte brak de deur open. Ze vermoordden beiden, hier, op dit plein. ||| 코르넬리스는 헤이그 감옥문에 갇혀 있었고 요한이 면회를 왔죠. 군중이 문을 부수고 둘 다 이곳에서 살해했습니다.
+FEMKE: En ze waren onschuldig. ||| 그리고 결백했죠.
+JOOST: Ze hadden fouten gemaakt. Maar het was geen landverraad. Het gerucht was sterker dan het bewijs. ||| 실수는 했지만 매국은 아니었어요. 소문이 증거보다 강했죠.
+FEMKE: Waarom neem je me mee hierheen? ||| 왜 나를 여기 데려왔어요?
+JOOST: Omdat ik wil dat we niet hetzelfde doen. We hebben iets gevonden. Dat is een feit. Maar wat het betekent, weten we niet. En als we het fout doen, maken we iemand kapot. ||| 같은 일을 하지 않기 위해서요. 우리는 뭔가를 찾았어요. 사실이죠. 하지만 그 의미는 모릅니다. 그리고 잘못하면 누군가를 망가뜨려요.
+FEMKE: Ook al heeft hij ons verraden? ||| 그가 우릴 배신했는데도요?
+JOOST: Ook dan. Juist dan. ||| 그래도요. 그래서 더더욱요.
+FEMKE: Dat is makkelijk gezegd door iemand die niet verraden is. ||| 배신당하지 않은 사람이 쉽게 하는 말이죠.
+JOOST: Ik ben verraden. Ik ben alleen niet de enige. ||| 저도 배신당했어요. 다만 혼자가 아닐 뿐이죠.
+FEMKE: Wat doen we dan? ||| 그럼 어떻게 해요?
+JOOST: We geven hem een kans. Geen kans om te liegen. Een kans om als eerste te vertellen. ||| 기회를 줍니다. 거짓말할 기회가 아니라 먼저 말할 기회를요.
+FEMKE: Dat heb je al gedaan. Hij heeft het laten liggen. ||| 이미 했잖아요. 그는 흘려보냈고요.
+JOOST: Hij heeft sinds zes dagen niets gezegd. Maar morgenochtend om negen uur heb ik een gesprek met hem. ||| 엿새 동안 아무 말도 안 했어요. 하지만 내일 아침 아홉 시에 그와 면담이 있습니다.
+FEMKE: Waarom wacht je zo lang? ||| 왜 그렇게 오래 기다려요?
+JOOST: Omdat ik wil dat hij zelf kiest. Wie gedwongen wordt, vertelt een deel. Wie kiest, vertelt alles. ||| 그가 스스로 고르길 원해서요. 강요받는 사람은 일부를 말하고 선택하는 사람은 전부를 말합니다.
+FEMKE: Dat is een risico. ||| 위험하네요.
+JOOST: Een risico, ja. ||| 위험이죠.
+FEMKE: Je laat mensen rijpen als fruit. ||| 사람을 과일처럼 익히시네요.
+JOOST: Sommige dingen. Niet allemaal. ||| 어떤 것들은요. 전부는 아니고요.
++ metadata = 메타데이터. 이메일의 전송 시각·경로·기기 정보 같은 부가 정보
++ doorsturen = 전달하다(포워딩)
++ privéadres = 사적 주소(개인 이메일)
++ verraad = 배신, 반역. 'landverraad'는 매국
++ het Buitenhof = 헤이그 부이턴호프. 1672년 더 비트 형제가 살해된 광장
++ de Gevangenpoort = 헤이그 감옥문(옛 감옥). 지금은 박물관
++ de menigte = 군중
++ gerucht = 소문
++ laten rijpen = 익히다, 숙성시키다. 때가 오도록 두는 것
++ gebroeders = 형제들. 'de gebroeders De Witt'
