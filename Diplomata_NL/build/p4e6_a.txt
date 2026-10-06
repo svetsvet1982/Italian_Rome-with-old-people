@@ -1,0 +1,94 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 6
+@title De commissie-Lorentz
+@ko 로렌츠 위원회
+@setting D−7 수자원부 기술 회의실 → 복도 → 저녁 옥상 → 밤 화상 통화
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast KARTINI | 칸다르 공대 교수·수리학자, 60세
+@cast SURYO | 수자원부 장관, 54세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast RENDI | 기상청 예보관, 36세
+@cast NOOR | 요스트의 딸, 18세
+@cast FEMKE | 분석관, 33세
+@note D−7. 모델의 불확실성을 두고 헤인과 정면으로 부딪칩니다. 헤인은 "불확실성을 공개하면 아무도 결정하지 못한다"고 하고, 요스트는 "불확실성을 숨기면 아무도 믿지 않는다"고 합니다. 역사 논거는 로렌츠 위원회(1918~1926): 물리학자 헨드릭 로렌츠가 이끈 위원회가 아프슬라위트 제방을 쌓기 전에 조수 변화를 미리 계산하고 그 오차 범위까지 공개했으며, 실제 건설 뒤 예측이 대체로 맞았다는 사례입니다. '계산을 먼저, 건설은 나중에.' 어휘는 모델·통계(onzekerheidsmarge, betrouwbaarheid, voorspelling, afwijking)와 반박 표현에 주목하세요.
+@next 7화: 산네가 장군의 '토지 취득 계획' 문서를 확보합니다. 노르가 묻습니다. "안전을 위해서라면 강제해도 돼?"
+
+## 기술 회의 — DE TECHNISCHE VERGADERING
+SURYO: Dames en heren, wij zijn hier om één ding te besluiten. Welk getal gebruiken wij? ||| 여러분, 하나를 결정하러 모였습니다. 어떤 숫자를 쓸 것인가.
+ARIEF: Twee modellen. Het model van de studenten uit Leiden en Delft, en dat van Rijpstra. ||| 모델이 둘입니다. 라이덴·델프트 학생들의 모델과 레이프스트라의 모델이요.
+SURYO: Meneer Rijpstra, begin. ||| 레이프스트라 씨, 시작하세요.
+HEIN: Dank u. Mijn model zegt: vak A vol laten lopen geeft een daling van achtentwintig centimeter, met een marge van twee centimeter. Betrouwbaar. ||| 감사합니다. 제 모델은 A구획을 채우면 28센티미터가 내려가고, 오차는 2센티미터라고 합니다. 신뢰할 수 있어요.
+JOOST: Plus min twee. ||| 플러스마이너스 2요.
+HEIN: Ja. ||| 네.
+JOOST: Mag ik het studentenmodel laten zien? ||| 학생 모델을 보여 드려도 될까요?
+KARTINI: Ik ben Kartini Wibowo, hoogleraar waterbouw in Kandar. Wij hebben het model nagekeken. ||| 칸다르 공대 수리학 교수 카르티니 위보워입니다. 저희가 그 모델을 검토했습니다.
+JOOST: Professor, wat is uw oordeel? ||| 교수님, 판단이 어떻습니까?
+KARTINI: Het is goed gebouwd. Maar het geeft een andere marge: plus min twaalf centimeter. ||| 잘 만들어졌어요. 하지만 오차는 다르게 나옵니다. 플러스마이너스 12센티미터예요.
+HEIN: Twaalf. Dat is zes keer groter dan de mijne. ||| 12요. 제 것보다 6배나 크군요.
+KARTINI: Dat is zo. ||| 그렇습니다.
+HEIN: Dan is het model slecht. Een goed model is nauwkeurig. ||| 그럼 모델이 나쁜 겁니다. 좋은 모델은 정확하죠.
+KARTINI: Een goed model is eerlijk over wat het niet weet. ||| 좋은 모델은 모르는 것에 대해 정직합니다.
+HEIN: Dat is een filosofische stelling. ||| 철학적인 주장이군요.
+KARTINI: Het is een rekenkundige. De rivier heeft drie onbekenden die uw model vastzet: de bodemruwheid, de storm op zee en de afvoer van de zijrivier. ||| 계산상의 주장입니다. 강에는 세 가지 미지수가 있는데, 당신 모델은 이를 고정해 버렸어요. 바닥 거칠기, 바다의 폭풍, 지류 유량이요.
+HEIN: Die zijn vastgesteld op basis van metingen. ||| 그것들은 측정에 근거해 정했습니다.
+KARTINI: Van gisteren. ||| 어제 측정 말이죠.
+HEIN: Ja. ||| 네.
+KARTINI: Maar het regent anders vandaag. ||| 하지만 오늘은 비가 다르게 옵니다.
+JOOST: Mag ik iets zeggen? ||| 제가 말해도 될까요?
+SURYO: Ga uw gang. ||| 하세요.
+JOOST: Wat gebeurt er als wij zeggen: achtentwintig, plus min twee? ||| 우리가 '28, 플러스마이너스 2'라고 말하면 어떻게 될까요?
+HEIN: Dan hebben wij een duidelijk getal. Wij weten waar wij aan toe zijn. ||| 명확한 숫자가 생기죠. 어떻게 해야 할지 알게 됩니다.
+JOOST: En als het echt achtentwintig min twaalf is? ||| 그런데 실제로 28 마이너스 12라면요?
+HEIN: Dan is het zestien. ||| 그럼 16입니다.
+JOOST: Zestien plus een zandzakkenkade van vijfentwintig geeft eenenveertig. ||| 16에 모래주머니 방벽 25를 더하면 41입니다.
+ARIEF: Het tekort is vijfenveertig. ||| 부족분은 45예요.
+JOOST: Dus vier centimeter te weinig. En Kandar loopt onder. ||| 4센티미터가 모자라요. 그러면 칸다르가 잠깁니다.
+HEIN: Daarom hebben we vak B nodig. ||| 그래서 B구획이 필요한 거죠.
+JOOST: Dat is precies mijn punt. De marge bepaalt hoeveel land we opofferen. ||| 바로 그 점이에요. 오차가 얼마나 많은 땅을 희생시킬지를 정합니다.
+HEIN: Wij nemen altijd het gemiddelde. ||| 우리는 늘 평균을 씁니다.
+JOOST: Wie zegt dat? ||| 누가 그럽니까?
+HEIN: Het is wat een ingenieur doet. ||| 엔지니어가 하는 일이죠.
+JOOST: Dan heeft de ingenieur een probleem. De mensen in vak B willen niet horen: wij nemen het gemiddelde. Ze willen horen: wij nemen de ongunstigste uitkomst. ||| 그럼 엔지니어에게 문제가 생기죠. B구획 사람들은 '평균을 씁니다'가 아니라 '최악의 결과를 씁니다'를 듣고 싶어 해요.
+HEIN: Dan neemt u de ongunstigste uitkomst. Dat is veiliger. ||| 그럼 최악의 결과를 쓰세요. 더 안전하니까요.
+JOOST: En dan zet u vijftienhonderd extra mensen onder water voor een scenario van tien procent. ||| 그러면 10퍼센트짜리 시나리오 때문에 1500명을 더 물에 잠기게 합니다.
+HEIN: Dat is de prijs. ||| 그게 대가죠.
+JOOST: Wie betaalt de prijs? ||| 대가는 누가 치르죠?
+HEIN: Dat is geen technische vraag. ||| 그건 기술적인 질문이 아닙니다.
+JOOST: Nee. Dat is mijn punt. ||| 아니죠. 제 요점이 바로 그겁니다.
+KARTINI: Meneer Rijpstra, heeft u ooit van de commissie-Lorentz gehoord? ||| 레이프스트라 씨, 로렌츠 위원회에 대해 들어 보셨나요?
+HEIN: Natuurlijk. Mijn opa vertelde erover. ||| 물론입니다. 할아버지가 얘기해 주셨죠.
+KARTINI: Vertel het ons. ||| 우리에게도 말씀해 주세요.
+HEIN: Het was negentienachttien. Nederland wilde de Zuiderzee afsluiten. Een enorme dijk. Maar niemand wist wat het met het getij zou doen. ||| 1918년이었습니다. 네덜란드가 조이더르 해를 막으려 했어요. 엄청난 제방이었죠. 하지만 그것이 조수에 어떤 영향을 줄지 아무도 몰랐습니다.
+KARTINI: Wie heeft het uitgerekend? ||| 누가 계산했나요?
+HEIN: Hendrik Lorentz. Een natuurkundige. Een Nobelprijswinnaar. ||| 헨드릭 로렌츠, 물리학자입니다. 노벨상 수상자였죠.
+KARTINI: Wat deed hij? ||| 무엇을 했죠?
+HEIN: Hij leidde een commissie. Acht jaar rekenen, voordat er één steen werd gelegd. ||| 위원회를 이끌었어요. 돌 하나 놓기 전에 8년을 계산했습니다.
+KARTINI: En wat was het resultaat? ||| 결과는요?
+HEIN: Dat het hoogwater in het Wad hoger zou worden. Zoveel centimeter, met een marge. ||| 바덴 해의 만조가 높아진다는 거였어요. 몇 센티미터라고, 오차를 붙여서요.
+KARTINI: Met een marge. ||| 오차를 붙여서.
+HEIN: Ja. ||| 네.
+KARTINI: En klopte het? ||| 맞았습니까?
+HEIN: Het klopte ongeveer. Binnen de marge. ||| 대체로 맞았어요. 오차 범위 안에서요.
+KARTINI: Dan had Lorentz een slecht model. Hij zei niet «precies». Hij zei «ongeveer, met deze grenzen». ||| 그럼 로렌츠의 모델은 나쁜 모델이었네요. '정확히'라고 하지 않고 '대략, 이 한계 안에서'라고 했으니까요.
+HEIN: U draait mijn woorden om. ||| 제 말을 뒤집으시는군요.
+KARTINI: Ik herhaal ze. ||| 되풀이하는 겁니다.
+JOOST: Meneer Rijpstra, de commissie-Lorentz zei niet alleen wat zij wist. Zij zei ook wat zij niet wist, in dezelfde zin. ||| 레이프스트라 씨, 로렌츠 위원회는 아는 것만 말한 게 아닙니다. 모르는 것도 같은 문장 안에서 말했어요.
+HEIN: En dat heeft hen niet verlamd? ||| 그게 마비를 일으키진 않았나요?
+JOOST: Het heeft hen geloofwaardig gemaakt. ||| 신뢰할 수 있게 만들었죠.
+HEIN: In een crisis is geloofwaardigheid een luxe. ||| 위기에서 신뢰성은 사치입니다.
+JOOST: Nee. In een crisis is het het enige wat je nog hebt. ||| 아닙니다. 위기에서는 그게 남은 전부예요.
++ onzekerheidsmarge = 불확실성 범위
++ betrouwbaar = 신뢰할 수 있는
++ nauwkeurig = 정확한
++ bodemruwheid = 바닥 거칠기
++ zijrivier = 지류
++ gemiddelde = 평균
++ ongunstigste = 가장 불리한
++ getij = 조수
++ verlamd = 마비된
++ geloofwaardigheid = 신뢰성
++ commissie-Lorentz = 로렌츠 위원회(1918~1926, 조이더르 해 폐쇄의 조수 영향을 계산)

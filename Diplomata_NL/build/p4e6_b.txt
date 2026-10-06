@@ -1,0 +1,101 @@
+
+## 복도 — DE GANG
+HEIN: Meneer Hartog, mag ik u even spreken? ||| 하르토흐 씨, 잠깐 이야기할 수 있을까요?
+JOOST: Natuurlijk. Hier? ||| 물론이죠. 여기서요?
+HEIN: In de gang. Zonder de professor. ||| 복도에서요. 교수님 없이.
+JOOST: Zeg het. ||| 말씀하세요.
+HEIN: U denkt dat ik de generaal dien. ||| 제가 장군을 위해 일한다고 생각하시죠.
+JOOST: Dat denk ik niet. Ik denk dat de generaal u betaalt. ||| 그렇게 생각하지 않습니다. 장군이 돈을 준다고 생각하죠.
+HEIN: Dat is hetzelfde. ||| 같은 말입니다.
+JOOST: Nee. Een man die betaald wordt, kan nog altijd zeggen wat hij weet. ||| 아닙니다. 돈을 받는 사람도 아는 것을 말할 수는 있어요.
+HEIN: Ik zeg wat ik weet. ||| 저는 아는 것을 말합니다.
+JOOST: U zegt het getal. Niet de marge. ||| 숫자만 말하고 오차는 말하지 않죠.
+HEIN: De marge is een zorg voor later. ||| 오차는 나중 문제입니다.
+JOOST: Later is er geen kade meer. ||| 나중엔 방벽이 없을 겁니다.
+HEIN: Meneer Hartog, ik heb een dochter. Ze studeert in Delft. Waterbouw. ||| 하르토흐 씨, 저는 딸이 있습니다. 델프트에서 수리공학을 공부해요.
+JOOST: Dat wist ik niet. ||| 몰랐네요.
+HEIN: Ze zou mijn bedrijf overnemen. ||| 그 애가 제 회사를 이어받을 겁니다.
+JOOST: En het bedrijf? ||| 회사는요?
+HEIN: Het bedrijf is drie jaar geleden bijna failliet gegaan. De generaal heeft het gered. ||| 3년 전에 거의 파산할 뻔했습니다. 장군이 살려 줬어요.
+JOOST: Hoe? ||| 어떻게요?
+HEIN: Contracten. Zonder aanbesteding. ||| 계약으로요. 입찰 없이.
+JOOST: Dat is een schuld. ||| 빚이군요.
+HEIN: Het is een afspraak. ||| 약속입니다.
+JOOST: Ja. Mijn vader zei dat ook. Een dijk is een afspraak. Maar hij zei er iets bij. ||| 네. 우리 아버지도 그러셨죠. 제방은 약속이라고. 그런데 한마디 덧붙이셨어요.
+HEIN: Wat? ||| 뭐였죠?
+JOOST: Met wie je de afspraak maakt, moet je kunnen aankijken. ||| 누구와 약속했는지 그 사람 눈을 바라볼 수 있어야 한다고요.
+HEIN: Ik kan u aankijken. ||| 당신 눈은 볼 수 있습니다.
+JOOST: En uw dochter? ||| 따님은요?
+HEIN: Dat is oneerlijk. ||| 불공평하군요.
+JOOST: Het is een vraag. ||| 질문입니다.
+HEIN: Ik zal eraan denken. ||| 생각해 보겠습니다.
+JOOST: Meneer Rijpstra, één verzoek. Zet de marge in uw rapport. Beide: de uwe en de studentenmarge. ||| 레이프스트라 씨, 한 가지 부탁입니다. 보고서에 오차를 넣어 주세요. 두 가지 모두, 당신 것과 학생들 것을요.
+HEIN: Dat kan ik niet beslissen. ||| 제가 정할 수 없습니다.
+JOOST: Dan beslist de commissie. ||| 그럼 위원회가 정하죠.
+HEIN: Welke commissie? ||| 어떤 위원회요?
+JOOST: Die we vanmiddag instellen. De commissie-Lorentz van Kandar. ||| 오늘 오후 설치할 위원회입니다. 칸다르의 로렌츠 위원회요.
+
+## 위원회 구성 — DE INSTELLING VAN DE COMMISSIE
+SURYO: Ik stel voor een commissie in. Vijf leden. Professor Kartini als voorzitter. ||| 위원회를 설치합니다. 위원은 다섯 명, 카르티니 교수가 위원장입니다.
+KARTINI: Ik accepteer. Onder drie voorwaarden. ||| 수락합니다. 조건 세 가지가 있어요.
+SURYO: Zeg het. ||| 말씀하세요.
+KARTINI: Een: alle aannames op tafel, in de eerste vergadering. Twee: elk lid leest zijn eigen getal hardop voor. Drie: ons rapport bevat één pagina met alles wat wij niet weten. ||| 하나, 모든 가정을 첫 회의에서 탁자에 올릴 것. 둘, 위원이 각자 자기 숫자를 소리 내어 읽을 것. 셋, 보고서에 '우리가 모르는 모든 것'을 적은 한 쪽을 포함할 것.
+SURYO: Aangenomen. ||| 채택합니다.
+ARIEF: Wie zitten er verder in? ||| 다른 위원은 누굽니까?
+SURYO: Jij, Arief. Meneer Rijpstra. Mevrouw Rendi van de weerdienst. En iemand van de boeren. ||| 당신, 아리프. 레이프스트라 씨. 기상청의 렌디 씨. 그리고 농민 대표 한 분.
+JOOST: Lalita? ||| 랄리타요?
+SURYO: Zij heeft het gevraagd. Ze zei: ik lees ook hardop. ||| 본인이 요청했어요. 자기도 소리 내어 읽겠다고요.
+HEIN: Wat leest zij voor? ||| 무엇을 읽습니까?
+SURYO: De waterstand van haar eigen put. Elke ochtend. ||| 자기 집 우물의 수위요. 매일 아침.
+HEIN: Dat is geen wetenschap. ||| 그건 과학이 아닙니다.
+KARTINI: Het is een meting. ||| 측정입니다.
+HEIN: Het is anekdotisch. ||| 일화일 뿐이에요.
+KARTINI: Dan is Lorentz ook anekdotisch. Hij liet kapiteins hun getijden opschrijven. ||| 그럼 로렌츠도 일화였겠네요. 선장들에게 조수를 적게 했으니까요.
+HEIN: Dat was iets anders. ||| 그건 달랐습니다.
+KARTINI: Ja. Het was meer. ||| 네. 더 많았죠.
+SURYO: Het besluit wordt genomen. De eerste vergadering is vanavond om acht uur. ||| 결정됐습니다. 첫 회의는 오늘 밤 8시입니다.
+SURYO: Meneer Hartog, u zit er niet in. ||| 하르토흐 씨, 당신은 위원이 아닙니다.
+JOOST: Dat wil ik ook niet. Ik ben een gast. ||| 저도 원치 않습니다. 저는 손님이니까요.
+SURYO: U mag luisteren. ||| 들을 수는 있습니다.
+JOOST: Dat is het enige dat ik ooit wilde. ||| 제가 늘 원한 건 그것뿐입니다.
+
+## 옥상의 밤 — HET DAK ’S AVONDS
+NOOR: Pap, ik heb een vraag over vanmiddag. ||| 아빠, 오늘 오후 일에 대해 질문이 있어요.
+JOOST: Vraag maar. ||| 해 봐.
+NOOR: Meneer Rijpstra zei: een marge verlamt. Is dat niet waar? ||| 레이프스트라 씨가 오차는 마비를 일으킨다고 했잖아요. 그게 맞지 않나요?
+JOOST: Soms. ||| 가끔은.
+NOOR: Waarom dan toch publiceren? ||| 그런데도 왜 공개하죠?
+JOOST: Omdat een beslissing zonder marge een gok is, ook al ziet hij eruit als een besluit. ||| 오차 없는 결정은 도박이니까. 결정처럼 보여도 말이야.
+NOOR: En als de mensen er bang van worden? ||| 사람들이 겁을 먹으면요?
+JOOST: Dan zijn ze bang om de juiste reden. ||| 그럼 올바른 이유로 무서워하는 거지.
+NOOR: Dat is een rare zin. ||| 이상한 문장이에요.
+JOOST: Ik denk dat hij waar is. Bang zijn voor iets dat bestaat is beter dan gerust zijn over iets dat niet klopt. ||| 맞다고 생각해. 실제로 있는 것을 무서워하는 편이 맞지 않는 것에 안심하는 것보다 낫지.
+NOOR: Opa zei dat ook. ||| 할아버지도 그렇게 말씀하셨어요.
+JOOST: Wat zei hij? ||| 뭐라고 하셨니?
+NOOR: Als de dijkwachter zegt dat alles in orde is, kijk dan extra goed. ||| 제방지기가 다 괜찮다고 하면 더 잘 살펴보라고요.
+JOOST: Dat zei hij inderdaad. ||| 그렇게 말씀하셨지.
+NOOR: Pap, hoe was meneer Rijpstra? ||| 아빠, 레이프스트라 씨는 어땠어요?
+JOOST: Bang. ||| 겁먹었더라.
+NOOR: Bang voor wat? ||| 무엇을요?
+JOOST: Dat zal ik pas weten als hij het zelf zegt. ||| 본인이 말하기 전엔 모르겠어.
+NOOR: En als hij het niet zegt? ||| 말하지 않으면요?
+JOOST: Dan komt het toch uit. Water liegt niet. ||| 그래도 드러나지. 물은 거짓말하지 않으니까.
+NOOR: Water geeft niemand de schuld. Alleen een peil. ||| 물은 누구도 탓하지 않아요. 수위만 줄 뿐이죠.
+JOOST: Jij hebt dat al geschreven. ||| 네가 이미 쓴 문장이구나.
+NOOR: Ik heb het vanavond herschreven. Het was te kort. ||| 오늘 밤 고쳐 썼어요. 너무 짧아서요.
+JOOST: Wat staat er nu? ||| 지금은 어떻게 돼 있니?
+NOOR: «Water geeft niemand de schuld. Wij moeten dat elkaar niet aandoen.» ||| "물은 누구도 탓하지 않는다. 우리는 서로에게 그러지 말아야 한다."
+JOOST: Dat is beter. ||| 그게 더 낫구나.
+NOOR: Pap? Slaap een beetje. ||| 아빠? 조금이라도 주무세요.
+JOOST: Dat zeg ik tegen jou. ||| 그건 내가 네게 할 말인데.
+NOOR: Dan doen we het allebei. ||| 그럼 둘 다 하죠.
++ vergadering = 회의
++ instellen = 설치하다, 구성하다
++ voorzitter = 위원장, 의장
++ aangenomen = 채택된
++ anekdotisch = 일화적인
++ failliet = 파산한
++ aanbesteding = (공개) 입찰
++ aankijken = 마주 보다, 눈을 바라보다
++ gerust = 안심한
++ Water liegt niet. = 물은 거짓말하지 않는다.

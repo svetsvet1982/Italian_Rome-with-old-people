@@ -1,0 +1,195 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 6
+@title De commissie-Lorentz
+@ko 로렌츠 위원회
+@setting D−7 수자원부 기술 회의실 → 복도 → 저녁 옥상 → 밤 화상 통화
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast KARTINI | 칸다르 공대 교수·수리학자, 60세
+@cast SURYO | 수자원부 장관, 54세
+@cast ARIEF | 수자원부 차관보, 38세
+@cast RENDI | 기상청 예보관, 36세
+@cast NOOR | 요스트의 딸, 18세
+@cast FEMKE | 분석관, 33세
+@note D−7. 모델의 불확실성을 두고 헤인과 정면으로 부딪칩니다. 헤인은 "불확실성을 공개하면 아무도 결정하지 못한다"고 하고, 요스트는 "불확실성을 숨기면 아무도 믿지 않는다"고 합니다. 역사 논거는 로렌츠 위원회(1918~1926): 물리학자 헨드릭 로렌츠가 이끈 위원회가 아프슬라위트 제방을 쌓기 전에 조수 변화를 미리 계산하고 그 오차 범위까지 공개했으며, 실제 건설 뒤 예측이 대체로 맞았다는 사례입니다. '계산을 먼저, 건설은 나중에.' 어휘는 모델·통계(onzekerheidsmarge, betrouwbaarheid, voorspelling, afwijking)와 반박 표현에 주목하세요.
+@next 7화: 산네가 장군의 '토지 취득 계획' 문서를 확보합니다. 노르가 묻습니다. "안전을 위해서라면 강제해도 돼?"
+
+## 기술 회의 — DE TECHNISCHE VERGADERING
+SURYO: Dames en heren, wij zijn hier om één ding te besluiten. Welk getal gebruiken wij? ||| 여러분, 하나를 결정하러 모였습니다. 어떤 숫자를 쓸 것인가.
+ARIEF: Twee modellen. Het model van de studenten uit Leiden en Delft, en dat van Rijpstra. ||| 모델이 둘입니다. 라이덴·델프트 학생들의 모델과 레이프스트라의 모델이요.
+SURYO: Meneer Rijpstra, begin. ||| 레이프스트라 씨, 시작하세요.
+HEIN: Dank u. Mijn model zegt: vak A vol laten lopen geeft een daling van achtentwintig centimeter, met een marge van twee centimeter. Betrouwbaar. ||| 감사합니다. 제 모델은 A구획을 채우면 28센티미터가 내려가고, 오차는 2센티미터라고 합니다. 신뢰할 수 있어요.
+JOOST: Plus min twee. ||| 플러스마이너스 2요.
+HEIN: Ja. ||| 네.
+JOOST: Mag ik het studentenmodel laten zien? ||| 학생 모델을 보여 드려도 될까요?
+KARTINI: Ik ben Kartini Wibowo, hoogleraar waterbouw in Kandar. Wij hebben het model nagekeken. ||| 칸다르 공대 수리학 교수 카르티니 위보워입니다. 저희가 그 모델을 검토했습니다.
+JOOST: Professor, wat is uw oordeel? ||| 교수님, 판단이 어떻습니까?
+KARTINI: Het is goed gebouwd. Maar het geeft een andere marge: plus min twaalf centimeter. ||| 잘 만들어졌어요. 하지만 오차는 다르게 나옵니다. 플러스마이너스 12센티미터예요.
+HEIN: Twaalf. Dat is zes keer groter dan de mijne. ||| 12요. 제 것보다 6배나 크군요.
+KARTINI: Dat is zo. ||| 그렇습니다.
+HEIN: Dan is het model slecht. Een goed model is nauwkeurig. ||| 그럼 모델이 나쁜 겁니다. 좋은 모델은 정확하죠.
+KARTINI: Een goed model is eerlijk over wat het niet weet. ||| 좋은 모델은 모르는 것에 대해 정직합니다.
+HEIN: Dat is een filosofische stelling. ||| 철학적인 주장이군요.
+KARTINI: Het is een rekenkundige. De rivier heeft drie onbekenden die uw model vastzet: de bodemruwheid, de storm op zee en de afvoer van de zijrivier. ||| 계산상의 주장입니다. 강에는 세 가지 미지수가 있는데, 당신 모델은 이를 고정해 버렸어요. 바닥 거칠기, 바다의 폭풍, 지류 유량이요.
+HEIN: Die zijn vastgesteld op basis van metingen. ||| 그것들은 측정에 근거해 정했습니다.
+KARTINI: Van gisteren. ||| 어제 측정 말이죠.
+HEIN: Ja. ||| 네.
+KARTINI: Maar het regent anders vandaag. ||| 하지만 오늘은 비가 다르게 옵니다.
+JOOST: Mag ik iets zeggen? ||| 제가 말해도 될까요?
+SURYO: Ga uw gang. ||| 하세요.
+JOOST: Wat gebeurt er als wij zeggen: achtentwintig, plus min twee? ||| 우리가 '28, 플러스마이너스 2'라고 말하면 어떻게 될까요?
+HEIN: Dan hebben wij een duidelijk getal. Wij weten waar wij aan toe zijn. ||| 명확한 숫자가 생기죠. 어떻게 해야 할지 알게 됩니다.
+JOOST: En als het echt achtentwintig min twaalf is? ||| 그런데 실제로 28 마이너스 12라면요?
+HEIN: Dan is het zestien. ||| 그럼 16입니다.
+JOOST: Zestien plus een zandzakkenkade van vijfentwintig geeft eenenveertig. ||| 16에 모래주머니 방벽 25를 더하면 41입니다.
+ARIEF: Het tekort is vijfenveertig. ||| 부족분은 45예요.
+JOOST: Dus vier centimeter te weinig. En Kandar loopt onder. ||| 4센티미터가 모자라요. 그러면 칸다르가 잠깁니다.
+HEIN: Daarom hebben we vak B nodig. ||| 그래서 B구획이 필요한 거죠.
+JOOST: Dat is precies mijn punt. De marge bepaalt hoeveel land we opofferen. ||| 바로 그 점이에요. 오차가 얼마나 많은 땅을 희생시킬지를 정합니다.
+HEIN: Wij nemen altijd het gemiddelde. ||| 우리는 늘 평균을 씁니다.
+JOOST: Wie zegt dat? ||| 누가 그럽니까?
+HEIN: Het is wat een ingenieur doet. ||| 엔지니어가 하는 일이죠.
+JOOST: Dan heeft de ingenieur een probleem. De mensen in vak B willen niet horen: wij nemen het gemiddelde. Ze willen horen: wij nemen de ongunstigste uitkomst. ||| 그럼 엔지니어에게 문제가 생기죠. B구획 사람들은 '평균을 씁니다'가 아니라 '최악의 결과를 씁니다'를 듣고 싶어 해요.
+HEIN: Dan neemt u de ongunstigste uitkomst. Dat is veiliger. ||| 그럼 최악의 결과를 쓰세요. 더 안전하니까요.
+JOOST: En dan zet u vijftienhonderd extra mensen onder water voor een scenario van tien procent. ||| 그러면 10퍼센트짜리 시나리오 때문에 1500명을 더 물에 잠기게 합니다.
+HEIN: Dat is de prijs. ||| 그게 대가죠.
+JOOST: Wie betaalt de prijs? ||| 대가는 누가 치르죠?
+HEIN: Dat is geen technische vraag. ||| 그건 기술적인 질문이 아닙니다.
+JOOST: Nee. Dat is mijn punt. ||| 아니죠. 제 요점이 바로 그겁니다.
+KARTINI: Meneer Rijpstra, heeft u ooit van de commissie-Lorentz gehoord? ||| 레이프스트라 씨, 로렌츠 위원회에 대해 들어 보셨나요?
+HEIN: Natuurlijk. Mijn opa vertelde erover. ||| 물론입니다. 할아버지가 얘기해 주셨죠.
+KARTINI: Vertel het ons. ||| 우리에게도 말씀해 주세요.
+HEIN: Het was negentienachttien. Nederland wilde de Zuiderzee afsluiten. Een enorme dijk. Maar niemand wist wat het met het getij zou doen. ||| 1918년이었습니다. 네덜란드가 조이더르 해를 막으려 했어요. 엄청난 제방이었죠. 하지만 그것이 조수에 어떤 영향을 줄지 아무도 몰랐습니다.
+KARTINI: Wie heeft het uitgerekend? ||| 누가 계산했나요?
+HEIN: Hendrik Lorentz. Een natuurkundige. Een Nobelprijswinnaar. ||| 헨드릭 로렌츠, 물리학자입니다. 노벨상 수상자였죠.
+KARTINI: Wat deed hij? ||| 무엇을 했죠?
+HEIN: Hij leidde een commissie. Acht jaar rekenen, voordat er één steen werd gelegd. ||| 위원회를 이끌었어요. 돌 하나 놓기 전에 8년을 계산했습니다.
+KARTINI: En wat was het resultaat? ||| 결과는요?
+HEIN: Dat het hoogwater in het Wad hoger zou worden. Zoveel centimeter, met een marge. ||| 바덴 해의 만조가 높아진다는 거였어요. 몇 센티미터라고, 오차를 붙여서요.
+KARTINI: Met een marge. ||| 오차를 붙여서.
+HEIN: Ja. ||| 네.
+KARTINI: En klopte het? ||| 맞았습니까?
+HEIN: Het klopte ongeveer. Binnen de marge. ||| 대체로 맞았어요. 오차 범위 안에서요.
+KARTINI: Dan had Lorentz een slecht model. Hij zei niet «precies». Hij zei «ongeveer, met deze grenzen». ||| 그럼 로렌츠의 모델은 나쁜 모델이었네요. '정확히'라고 하지 않고 '대략, 이 한계 안에서'라고 했으니까요.
+HEIN: U draait mijn woorden om. ||| 제 말을 뒤집으시는군요.
+KARTINI: Ik herhaal ze. ||| 되풀이하는 겁니다.
+JOOST: Meneer Rijpstra, de commissie-Lorentz zei niet alleen wat zij wist. Zij zei ook wat zij niet wist, in dezelfde zin. ||| 레이프스트라 씨, 로렌츠 위원회는 아는 것만 말한 게 아닙니다. 모르는 것도 같은 문장 안에서 말했어요.
+HEIN: En dat heeft hen niet verlamd? ||| 그게 마비를 일으키진 않았나요?
+JOOST: Het heeft hen geloofwaardig gemaakt. ||| 신뢰할 수 있게 만들었죠.
+HEIN: In een crisis is geloofwaardigheid een luxe. ||| 위기에서 신뢰성은 사치입니다.
+JOOST: Nee. In een crisis is het het enige wat je nog hebt. ||| 아닙니다. 위기에서는 그게 남은 전부예요.
++ onzekerheidsmarge = 불확실성 범위
++ betrouwbaar = 신뢰할 수 있는
++ nauwkeurig = 정확한
++ bodemruwheid = 바닥 거칠기
++ zijrivier = 지류
++ gemiddelde = 평균
++ ongunstigste = 가장 불리한
++ getij = 조수
++ verlamd = 마비된
++ geloofwaardigheid = 신뢰성
++ commissie-Lorentz = 로렌츠 위원회(1918~1926, 조이더르 해 폐쇄의 조수 영향을 계산)
+
+## 복도 — DE GANG
+HEIN: Meneer Hartog, mag ik u even spreken? ||| 하르토흐 씨, 잠깐 이야기할 수 있을까요?
+JOOST: Natuurlijk. Hier? ||| 물론이죠. 여기서요?
+HEIN: In de gang. Zonder de professor. ||| 복도에서요. 교수님 없이.
+JOOST: Zeg het. ||| 말씀하세요.
+HEIN: U denkt dat ik de generaal dien. ||| 제가 장군을 위해 일한다고 생각하시죠.
+JOOST: Dat denk ik niet. Ik denk dat de generaal u betaalt. ||| 그렇게 생각하지 않습니다. 장군이 돈을 준다고 생각하죠.
+HEIN: Dat is hetzelfde. ||| 같은 말입니다.
+JOOST: Nee. Een man die betaald wordt, kan nog altijd zeggen wat hij weet. ||| 아닙니다. 돈을 받는 사람도 아는 것을 말할 수는 있어요.
+HEIN: Ik zeg wat ik weet. ||| 저는 아는 것을 말합니다.
+JOOST: U zegt het getal. Niet de marge. ||| 숫자만 말하고 오차는 말하지 않죠.
+HEIN: De marge is een zorg voor later. ||| 오차는 나중 문제입니다.
+JOOST: Later is er geen kade meer. ||| 나중엔 방벽이 없을 겁니다.
+HEIN: Meneer Hartog, ik heb een dochter. Ze studeert in Delft. Waterbouw. ||| 하르토흐 씨, 저는 딸이 있습니다. 델프트에서 수리공학을 공부해요.
+JOOST: Dat wist ik niet. ||| 몰랐네요.
+HEIN: Ze zou mijn bedrijf overnemen. ||| 그 애가 제 회사를 이어받을 겁니다.
+JOOST: En het bedrijf? ||| 회사는요?
+HEIN: Het bedrijf is drie jaar geleden bijna failliet gegaan. De generaal heeft het gered. ||| 3년 전에 거의 파산할 뻔했습니다. 장군이 살려 줬어요.
+JOOST: Hoe? ||| 어떻게요?
+HEIN: Contracten. Zonder aanbesteding. ||| 계약으로요. 입찰 없이.
+JOOST: Dat is een schuld. ||| 빚이군요.
+HEIN: Het is een afspraak. ||| 약속입니다.
+JOOST: Ja. Mijn vader zei dat ook. Een dijk is een afspraak. Maar hij zei er iets bij. ||| 네. 우리 아버지도 그러셨죠. 제방은 약속이라고. 그런데 한마디 덧붙이셨어요.
+HEIN: Wat? ||| 뭐였죠?
+JOOST: Met wie je de afspraak maakt, moet je kunnen aankijken. ||| 누구와 약속했는지 그 사람 눈을 바라볼 수 있어야 한다고요.
+HEIN: Ik kan u aankijken. ||| 당신 눈은 볼 수 있습니다.
+JOOST: En uw dochter? ||| 따님은요?
+HEIN: Dat is oneerlijk. ||| 불공평하군요.
+JOOST: Het is een vraag. ||| 질문입니다.
+HEIN: Ik zal eraan denken. ||| 생각해 보겠습니다.
+JOOST: Meneer Rijpstra, één verzoek. Zet de marge in uw rapport. Beide: de uwe en de studentenmarge. ||| 레이프스트라 씨, 한 가지 부탁입니다. 보고서에 오차를 넣어 주세요. 두 가지 모두, 당신 것과 학생들 것을요.
+HEIN: Dat kan ik niet beslissen. ||| 제가 정할 수 없습니다.
+JOOST: Dan beslist de commissie. ||| 그럼 위원회가 정하죠.
+HEIN: Welke commissie? ||| 어떤 위원회요?
+JOOST: Die we vanmiddag instellen. De commissie-Lorentz van Kandar. ||| 오늘 오후 설치할 위원회입니다. 칸다르의 로렌츠 위원회요.
+
+## 위원회 구성 — DE INSTELLING VAN DE COMMISSIE
+SURYO: Ik stel voor een commissie in. Vijf leden. Professor Kartini als voorzitter. ||| 위원회를 설치합니다. 위원은 다섯 명, 카르티니 교수가 위원장입니다.
+KARTINI: Ik accepteer. Onder drie voorwaarden. ||| 수락합니다. 조건 세 가지가 있어요.
+SURYO: Zeg het. ||| 말씀하세요.
+KARTINI: Een: alle aannames op tafel, in de eerste vergadering. Twee: elk lid leest zijn eigen getal hardop voor. Drie: ons rapport bevat één pagina met alles wat wij niet weten. ||| 하나, 모든 가정을 첫 회의에서 탁자에 올릴 것. 둘, 위원이 각자 자기 숫자를 소리 내어 읽을 것. 셋, 보고서에 '우리가 모르는 모든 것'을 적은 한 쪽을 포함할 것.
+SURYO: Aangenomen. ||| 채택합니다.
+ARIEF: Wie zitten er verder in? ||| 다른 위원은 누굽니까?
+SURYO: Jij, Arief. Meneer Rijpstra. Mevrouw Rendi van de weerdienst. En iemand van de boeren. ||| 당신, 아리프. 레이프스트라 씨. 기상청의 렌디 씨. 그리고 농민 대표 한 분.
+JOOST: Lalita? ||| 랄리타요?
+SURYO: Zij heeft het gevraagd. Ze zei: ik lees ook hardop. ||| 본인이 요청했어요. 자기도 소리 내어 읽겠다고요.
+HEIN: Wat leest zij voor? ||| 무엇을 읽습니까?
+SURYO: De waterstand van haar eigen put. Elke ochtend. ||| 자기 집 우물의 수위요. 매일 아침.
+HEIN: Dat is geen wetenschap. ||| 그건 과학이 아닙니다.
+KARTINI: Het is een meting. ||| 측정입니다.
+HEIN: Het is anekdotisch. ||| 일화일 뿐이에요.
+KARTINI: Dan is Lorentz ook anekdotisch. Hij liet kapiteins hun getijden opschrijven. ||| 그럼 로렌츠도 일화였겠네요. 선장들에게 조수를 적게 했으니까요.
+HEIN: Dat was iets anders. ||| 그건 달랐습니다.
+KARTINI: Ja. Het was meer. ||| 네. 더 많았죠.
+SURYO: Het besluit wordt genomen. De eerste vergadering is vanavond om acht uur. ||| 결정됐습니다. 첫 회의는 오늘 밤 8시입니다.
+SURYO: Meneer Hartog, u zit er niet in. ||| 하르토흐 씨, 당신은 위원이 아닙니다.
+JOOST: Dat wil ik ook niet. Ik ben een gast. ||| 저도 원치 않습니다. 저는 손님이니까요.
+SURYO: U mag luisteren. ||| 들을 수는 있습니다.
+JOOST: Dat is het enige dat ik ooit wilde. ||| 제가 늘 원한 건 그것뿐입니다.
+
+## 옥상의 밤 — HET DAK ’S AVONDS
+NOOR: Pap, ik heb een vraag over vanmiddag. ||| 아빠, 오늘 오후 일에 대해 질문이 있어요.
+JOOST: Vraag maar. ||| 해 봐.
+NOOR: Meneer Rijpstra zei: een marge verlamt. Is dat niet waar? ||| 레이프스트라 씨가 오차는 마비를 일으킨다고 했잖아요. 그게 맞지 않나요?
+JOOST: Soms. ||| 가끔은.
+NOOR: Waarom dan toch publiceren? ||| 그런데도 왜 공개하죠?
+JOOST: Omdat een beslissing zonder marge een gok is, ook al ziet hij eruit als een besluit. ||| 오차 없는 결정은 도박이니까. 결정처럼 보여도 말이야.
+NOOR: En als de mensen er bang van worden? ||| 사람들이 겁을 먹으면요?
+JOOST: Dan zijn ze bang om de juiste reden. ||| 그럼 올바른 이유로 무서워하는 거지.
+NOOR: Dat is een rare zin. ||| 이상한 문장이에요.
+JOOST: Ik denk dat hij waar is. Bang zijn voor iets dat bestaat is beter dan gerust zijn over iets dat niet klopt. ||| 맞다고 생각해. 실제로 있는 것을 무서워하는 편이 맞지 않는 것에 안심하는 것보다 낫지.
+NOOR: Opa zei dat ook. ||| 할아버지도 그렇게 말씀하셨어요.
+JOOST: Wat zei hij? ||| 뭐라고 하셨니?
+NOOR: Als de dijkwachter zegt dat alles in orde is, kijk dan extra goed. ||| 제방지기가 다 괜찮다고 하면 더 잘 살펴보라고요.
+JOOST: Dat zei hij inderdaad. ||| 그렇게 말씀하셨지.
+NOOR: Pap, hoe was meneer Rijpstra? ||| 아빠, 레이프스트라 씨는 어땠어요?
+JOOST: Bang. ||| 겁먹었더라.
+NOOR: Bang voor wat? ||| 무엇을요?
+JOOST: Dat zal ik pas weten als hij het zelf zegt. ||| 본인이 말하기 전엔 모르겠어.
+NOOR: En als hij het niet zegt? ||| 말하지 않으면요?
+JOOST: Dan komt het toch uit. Water liegt niet. ||| 그래도 드러나지. 물은 거짓말하지 않으니까.
+NOOR: Water geeft niemand de schuld. Alleen een peil. ||| 물은 누구도 탓하지 않아요. 수위만 줄 뿐이죠.
+JOOST: Jij hebt dat al geschreven. ||| 네가 이미 쓴 문장이구나.
+NOOR: Ik heb het vanavond herschreven. Het was te kort. ||| 오늘 밤 고쳐 썼어요. 너무 짧아서요.
+JOOST: Wat staat er nu? ||| 지금은 어떻게 돼 있니?
+NOOR: «Water geeft niemand de schuld. Wij moeten dat elkaar niet aandoen.» ||| "물은 누구도 탓하지 않는다. 우리는 서로에게 그러지 말아야 한다."
+JOOST: Dat is beter. ||| 그게 더 낫구나.
+NOOR: Pap? Slaap een beetje. ||| 아빠? 조금이라도 주무세요.
+JOOST: Dat zeg ik tegen jou. ||| 그건 내가 네게 할 말인데.
+NOOR: Dan doen we het allebei. ||| 그럼 둘 다 하죠.
++ vergadering = 회의
++ instellen = 설치하다, 구성하다
++ voorzitter = 위원장, 의장
++ aangenomen = 채택된
++ anekdotisch = 일화적인
++ failliet = 파산한
++ aanbesteding = (공개) 입찰
++ aankijken = 마주 보다, 눈을 바라보다
++ gerust = 안심한
++ Water liegt niet. = 물은 거짓말하지 않는다.
