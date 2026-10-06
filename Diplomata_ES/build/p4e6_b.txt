@@ -1,0 +1,107 @@
+
+## 노수사의 방 — LA CELDA DE FRAY BENITO
+BENITO: Siéntate, hijo. La silla cojea. Todo cojea en esta casa. ||| 앉게, 젊은이. 의자가 흔들리네. 이 집은 다 흔들린다네.
+ÁLVARO: Fray Benito. Soy Álvaro Quintana. ||| 베니토 수사님. 알바로 킨타나입니다.
+BENITO: Ya lo sé. Eres el que ha dejado la corbata en la puerta. ||| 알지. 넥타이를 문 앞에 두고 온 사람이로군.
+ÁLVARO: Me lo han pedido. ||| 그렇게 부탁받았거든요.
+BENITO: Anselmo es un buen hombre. A veces, un poco teatral. ||| 안셀모는 좋은 사람이야. 가끔 좀 연극적이지만.
+ÁLVARO: Fray Benito, no he venido a pedirle nada. ||| 베니토 수사님, 무언가를 요구하러 온 게 아닙니다.
+BENITO: Todos vienen a pedir. Es la naturaleza del mundo. ||| 다들 요구하러 오지. 세상의 본성이라네.
+ÁLVARO: Entonces vengo a escuchar. ||| 그럼 들으러 왔습니다.
+BENITO: Eso es más raro. ||| 그건 더 드문 일이군.
+BENITO: Cuarenta y tres años, hijo. Cuarenta y tres años de conversaciones con Idris. ||| 43년이라네. 이드리스와 나눈 대화가 43년이야.
+ÁLVARO: ¿Se confesaba con usted? ||| 수사님께 고해했습니까?
+BENITO: Su madre era española. De Melilla. Doña Inés. Católica. Se casó con el rey anterior con una condición: que su hijo recibiera la mitad de la educación en una escuela de los frailes. ||| 어머니가 스페인 사람이었네. 멜리야 출신 도냐 이네스. 가톨릭 신자였지. 선왕과 결혼할 때 조건이 있었어. 아들이 교육의 절반을 수사들의 학교에서 받는 것.
+ÁLVARO: Y así llegó usted. ||| 그렇게 수사님이 오셨군요.
+BENITO: Yo era un joven fraile de treinta y cinco años. Él, un niño de doce. Fuimos amigos de golpe. ||| 서른다섯 살 젊은 수사였고, 그는 열두 살 소년이었지. 단번에 친구가 됐다네.
+ÁLVARO: ¿Y los domingos? ||| 일요일에는요?
+BENITO: Los domingos, no. Un rey musulmán no se confiesa a un fraile. Pero cada año, el día de la Merced, el veinticuatro de septiembre, venía a la capilla vacía, se sentaba en el último banco y hablaba. ||| 일요일엔 아니었어. 이슬람 왕은 수사에게 고해하지 않으니까. 하지만 해마다 메르세드 축일인 9월 24일에 텅 빈 예배당에 와서 맨 뒷자리에 앉아 이야기했지.
+ÁLVARO: ¿Y usted escuchaba? ||| 수사님은 들으셨고요?
+BENITO: Escuchaba. Y no le absolvía. Solo escuchaba. Para mí era una confesión. Para él, una conversación. ||| 들었지. 사죄는 하지 않았어. 듣기만 했네. 나에겐 고해였고, 그에게는 대화였지.
+ÁLVARO: Esa diferencia es muy importante. ||| 그 차이는 아주 중요합니다.
+BENITO: Lo sé. Llevo cuatro días dándole vueltas. ||| 알아. 나흘째 그걸 곱씹고 있다네.
+ÁLVARO: Fray Benito. ¿Qué le prometió al rey? ||| 베니토 수사님. 왕에게 무엇을 약속하셨습니까?
+BENITO: Que no diría nada. ||| 아무 말도 하지 않겠다고.
+ÁLVARO: ¿Sobre qué? ||| 무엇에 대해서요?
+BENITO: Sobre lo que me dijo el día de la Merced del año pasado. ||| 작년 메르세드 축일에 그가 한 말에 대해서.
+ÁLVARO: Eso no se lo voy a pedir. ||| 그건 요구하지 않겠습니다.
+BENITO: ¿No? ||| 정말인가?
+ÁLVARO: No. Quiero preguntarle otra cosa. ¿Hubo algo más que palabras? ||| 네. 다른 걸 묻고 싶습니다. 말 말고 다른 것도 있었습니까?
+BENITO: ¿Algo más? ||| 다른 것?
+ÁLVARO: Un objeto. Un papel. Un sobre. ||| 물건이요. 종이나 봉투요.
+BENITO: ... ||| …
+ÁLVARO: Fray Benito, no lo pregunto por el contenido. Lo pregunto por la naturaleza del acto. ||| 수사님, 내용을 묻는 게 아닙니다. 행위의 성격을 묻는 겁니다.
+BENITO: Hijo, ¿qué sabes tú de eso? ||| 젊은이, 자네가 그걸 뭘 안다고.
+ÁLVARO: Muy poco. Pero sé una historia. ¿Me permite contarla? ||| 아주 조금요. 하지만 이야기 하나는 압니다. 들려드려도 되겠습니까?
+BENITO: Cuenta. Aquí hay tiempo. ||| 하게. 여긴 시간이 있으니.
+ÁLVARO: Mil seiscientos noventa y ocho. Carlos Segundo. El último Habsburgo. Enfermo, sin hijos. Y todo el mundo dice que está «hechizado». ||| 1698년입니다. 카를로스 2세, 마지막 합스부르크 왕. 병약하고 자식도 없었죠. 그리고 모두들 '매혹당했다'고 말합니다.
+BENITO: Conozco la historia. El fraile Froilán Díaz. ||| 그 이야기는 아네. 프로일란 디아스 수사.
+ÁLVARO: El confesor del rey. Un dominico. Sus enemigos decían que le dictaba la política desde el confesionario. Y él decía que había exorcizado a la corte entera. ||| 왕의 고해 신부였죠. 도미니코회 수사입니다. 그의 적들은 그가 고해소에서 정치를 지시한다고 했고, 그는 궁정 전체를 퇴마했다고 했습니다.
+BENITO: Y acabó mal. ||| 그리고 결말이 나빴지.
+ÁLVARO: Lo procesó la Inquisición después de la muerte del rey. Pero antes, durante dos años, todos usaron al confesor como si fuera la voz del rey. Todos decían: «El rey me lo confesó». ||| 왕이 죽은 뒤 종교재판에 넘겨졌습니다. 하지만 그 전 2년 동안 모두가 고해 신부를 왕의 목소리처럼 이용했죠. 다들 '왕이 내게 고해했다'고 말했습니다.
+BENITO: Y nadie podía comprobar nada. ||| 아무도 확인할 수 없었고.
+ÁLVARO: Exacto. La confesión es un secreto. Pero cuando es un secreto y a la vez un arma, todos la quieren. ||| 맞습니다. 고해는 비밀입니다. 하지만 비밀이면서 동시에 무기가 되면 모두가 그것을 원합니다.
+BENITO: Qué quieres decir. ||| 무슨 말을 하려는 건가.
+ÁLVARO: Que usted puede salvar a Tamazia del destino de Carlos Segundo. No hablando de lo que oyó. Sino separando dos cosas. ||| 수사님이 타마지아를 카를로스 2세의 운명에서 구할 수 있다는 겁니다. 들은 말을 이야기하지 않으면서요. 두 가지를 나누는 겁니다.
+BENITO: ¿Cuáles? ||| 어떤 두 가지?
+ÁLVARO: Lo que se dice en confesión. Y lo que se deja en depósito. ||| 고해에서 한 말과 맡겨 둔 물건입니다.
+BENITO: Depósito. ||| 맡김.
+ÁLVARO: Si un hombre le entrega un objeto a otro para que lo guarde y lo entregue a un tercero, eso no es confesión. Es depósito. Tiene un deber distinto. ||| 한 사람이 다른 사람에게 물건을 맡겨 보관하게 하고 제삼자에게 전하게 한다면, 그건 고해가 아니라 맡김입니다. 의무가 다릅니다.
+BENITO: Anselmo te ha ayudado. ||| 안셀모가 도와줬군.
+ÁLVARO: Me ha dado unos argumentos. Pero la pregunta es mía: ¿qué le dejó el rey? ||| 논거를 몇 가지 주셨죠. 하지만 질문은 제 겁니다. 왕이 무엇을 남겼습니까?
+BENITO: Un sobre. ||| 봉투를.
+ÁLVARO: ¿Dónde? ||| 어디서요?
+BENITO: En el hospital. El día doce de enero. Me llamó a su cama. Me dio un sobre cerrado y me dijo: «Dáselo a Hamid cuando lo pidan tres personas». ||| 병원에서. 1월 12일이었네. 침대로 나를 부르더니 봉한 봉투를 주며 말했지. '세 사람이 요청하면 하미드에게 주게'라고.
+ÁLVARO: ¿Tres personas? ||| 세 사람이요?
+BENITO: Tres personas. Sin decir quiénes. Solo que fueran tres. ||| 세 사람. 누구인지는 말하지 않았네. 세 사람이면 된다고만.
+ÁLVARO: ¿Y han venido tres personas? ||| 세 사람이 왔습니까?
+BENITO: Han venido cuarenta. Un general, un armador, una princesa, una embajadora. Todos querían el sobre. Nadie lo ha pedido para Hamid. ||| 마흔 명이 왔다네. 장군, 선주, 공주, 대사. 모두 봉투를 원했지. 하미드에게 주려고 요청한 사람은 아무도 없었어.
+ÁLVARO: Nadie lo pidió «para Hamid». ||| '하미드에게'라고 요청한 사람은 없었군요.
+BENITO: Esa fue la condición. ||| 그게 조건이었네.
+ÁLVARO: Entonces yo le pido tres cosas. ||| 그럼 제가 세 가지를 요청하겠습니다.
+BENITO: ¿Tú? ||| 자네가?
+ÁLVARO: Yo no. Pero conozco a tres personas. Una vecina de Salmara, la panadera Fátima. Un estibador. Una doctora. Los tres candidatos de la última elección. ||| 저는 아니고요. 하지만 세 사람을 압니다. 살마라의 빵집 주인 파티마, 하역 노동자, 의사입니다. 지난 선거의 후보 셋이죠.
+BENITO: ¿Y qué quieres que hagan? ||| 그들이 뭘 하길 바라나?
+ÁLVARO: Que vengan aquí, los tres, y le pidan el sobre para Hamid. Eso es lo que el rey pedía. No más. ||| 세 사람이 와서 하미드를 위해 봉투를 청하게 하는 겁니다. 왕이 바란 건 그것입니다. 그 이상은 아닙니다.
+BENITO: Que Dios te bendiga. Idris habría reído. ||| 하느님이 자네를 축복하시길. 이드리스가 웃었겠군.
+ÁLVARO: ¿Por qué? ||| 왜요?
+BENITO: Porque tú has encontrado la salida que él había dejado: no se la entregues a los poderosos. Dásela a quien lo pida en nombre del pueblo. ||| 자네가 그가 남겨 둔 출구를 찾았으니까. 권력자들에게 주지 말고, 민중의 이름으로 청하는 사람에게 주라는 것.
+ÁLVARO: Esta noche. Mañana, sábado, está lo de la plaza. ||| 오늘 밤에요. 내일 토요일에는 광장 행사가 있습니다.
+BENITO: Que vengan. Les esperaré. ||| 오라고 하게. 기다리겠네.
++ celda = (수도원의) 방, 독방
++ absolver = 사죄하다
++ depósito = 맡김, 기탁
++ exorcizar = 퇴마하다
++ confesionario = 고해소
++ procesar = 기소하다, 재판에 넘기다
++ hechizado = 매혹당한, 마법에 걸린
++ en depósito = 맡겨 둔 상태로
++ hospital = 병원
++ ¿Qué sabes tú de eso? = 자네가 그걸 뭘 안다고?
+
+## 저녁 서점 — LA LIBRERÍA POR LA NOCHE
+SEFIA: ¡Señor Quintana! Mi abuelo no para de caminar. ||| 킨타나 씨! 할아버지가 계속 서성이세요.
+ÁLVARO: Señor Hamid. He estado con fray Benito. ||| 하미드 어르신. 베니토 수사님을 만났습니다.
+HAMID: Lo sé. Me lo ha dicho el viento. ||| 알고 있소. 바람이 알려 줬지.
+ÁLVARO: Hay un sobre. Está en el convento. ||| 봉투가 있습니다. 수도원에 있어요.
+HAMID: Hay un sobre. Sí. ||| 봉투가 있소. 그렇지.
+ÁLVARO: Pide que vengan tres personas del pueblo. ||| 민중의 세 사람이 와서 청해야 한다더군요.
+HAMID: Idris me lo dijo hace un mes. «Hamid, cuando me muera, tres personas pedirán algo en tu nombre. Entonces sabrás que el pueblo ha decidido.» ||| 이드리스가 한 달 전 말했소. '하미드, 내가 죽으면 세 사람이 자네 이름으로 무언가를 청할 걸세. 그때 자네는 백성이 결정했다는 걸 알게 될 거야'라고.
+ÁLVARO: ¿Y ya sabe cuál es el contenido? ||| 내용은 이미 아십니까?
+HAMID: Sé dónde está lo más importante. Lo demás lo sabré mañana. ||| 가장 중요한 게 어디 있는지는 아오. 나머지는 내일 알겠지.
+ÁLVARO: ¿Dónde? ||| 어디에요?
+HAMID: En mi tienda. En un libro. En el que le gustaba más. ||| 내 가게에 있소. 책 속에. 그분이 제일 좋아하시던 책에.
+ÁLVARO: ¿Qué libro? ||| 무슨 책입니까?
+HAMID: El libro de cuentas. El de mi padre. ||| 장부요. 우리 아버지의 장부.
+ÁLVARO: El libro de cuentas. ||| 장부요.
+HAMID: Todos los libreros tenemos uno. Allí anotamos lo que se compra y lo que se vende. Y alguna vez, lo que se deja. ||| 서점 사람이면 누구나 하나씩 있소. 거기에 사고판 것을 적지. 그리고 가끔은 맡겨 둔 것도 적고.
+ÁLVARO: ¿Idris escribió en su libro de cuentas? ||| 이드리스가 어르신의 장부에 썼습니까?
+HAMID: Una noche. La última vez que vino. Se sentó en esa silla. Me pidió una pluma. Escribió una línea. Y dijo: «Que se lea cuando haya una plaza que quiera oírla». ||| 어느 밤이었소. 마지막으로 오신 날. 저 의자에 앉아 펜을 청하셨지. 한 줄을 쓰셨소. 그러고는 '그 줄은 광장이 들으려 할 때 읽도록 하게'라고 하셨소.
+ÁLVARO: Una línea. ||| 한 줄이요.
+HAMID: Una línea. ||| 한 줄이오.
+ÁLVARO: ¿Y qué dice? ||| 뭐라고 쓰여 있습니까?
+HAMID: Mañana. ||| 내일 알게 될 거요.
++ el viento me lo ha dicho = 바람이 알려 주었다(소문으로 들었다는 비유)
++ libro de cuentas = 장부
++ anotar = 적어 두다, 기록하다
++ cuando lo pidan tres personas = 세 사람이 요청할 때
