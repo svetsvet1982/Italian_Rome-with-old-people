@@ -1,0 +1,83 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 5
+@title Ronde tafel in Rotterdam
+@ko 로테르담의 원탁
+@setting 목요일 로테르담 구 홀란드-아메리카 라인 건물의 회의실(중립 장소) → 점심 휴정 → 오후 재개
+@level B2-C1
+@cast JOOST | 개최국 연락관, 45세
+@cast BENEDETTI | 중재재판소 의장, 66세
+@cast OKAFOR | 카랑 지명 중재인, 61세
+@cast FERREIRA | 남마린데 대리인, 57세
+@cast KARTIKA | 카랑 대리인, 48세
+@cast BRANDSMA | 상설중재재판소 서기, 52세
+@cast FEMKE | 분석관, 31세
+@note 2부 5화는 '일반 협상'입니다. 서기의 자진 서면으로 재판부의 이해관계가 드러난 뒤, 양측 대리인이 중립 장소인 로테르담 원탁에서 절차를 다시 짭니다. 역사 논거는 알라바마호 청구 중재(1872, 제네바): 당사자 지명 중재인이 섞여 있어도 절차의 공개와 규칙이 결과를 지탱한 선례입니다. 요스트는 '이해관계 공개 진술서를 소리 내어 읽고, 당사자가 계속·기피를 고르게' 하는 구조를 만듭니다. 어휘는 절차(wraking, belangenverstrengeling, verklaring van onafhankelijkheid, zittingsdata)와 농담조 협상 표현에 주목하세요.
+@next 2부 6화 — «Oom Herman»(헤르만 선생) — 요스트는 스승의 배로 가서 블라우베르흐 이사 명단의 '카위퍼르스'를 묻습니다. 운하 위에서의 고백.
+
+## 원탁 — DE RONDE TAFEL
+JOOST: Dames en heren, welkom in Rotterdam. U vraagt zich af waarom hier en niet in het Vredespaleis. Het antwoord is eenvoudig: dit gebouw is van niemand. Het was van een rederij die niet meer bestaat. ||| 여러분, 로테르담에 오신 걸 환영합니다. 왜 평화궁이 아니라 여기인지 궁금하시겠죠. 답은 간단합니다. 이 건물은 누구의 것도 아니에요. 지금은 없어진 선사의 건물이었습니다.
+KARTIKA: Een gebouw dat van niemand is, kan van iedereen worden. ||| 누구의 것도 아닌 건물은 누구의 것이든 될 수 있죠.
+JOOST: Daarom hebben we de tafel rond gemaakt. Niemand zit aan het hoofd. ||| 그래서 탁자를 둥글게 했습니다. 아무도 상석에 앉지 않아요.
+FERREIRA: Een mooie symboliek. En wie zit het dichtst bij de deur? ||| 멋진 상징이군요. 그럼 문에서 가장 가까운 사람은 누굽니까?
+JOOST: Ik. Ik ben de gastheer. Als iemand wil weglopen, loopt hij eerst langs mij. ||| 접니다. 주인이니까요. 누가 나가고 싶으면 먼저 저를 지나가야 합니다.
+KARTIKA: Dat is geruststellend. ||| 안심되네요.
+JOOST: Voorzitter Benedetti heeft het woord voor een mededeling. ||| 베네데티 의장이 공지가 있습니다.
+BENEDETTI: Dank u. Dames en heren, ik heb gisteren een brief ontvangen van onze griffier, de heer Brandsma. Daarin staat dat hij als jongere een beurs heeft ontvangen van de Stichting Blauwberg. ||| 감사합니다. 여러분, 어제 서기 브란츠마 씨의 편지를 받았습니다. 젊은 시절 블라우베르흐 재단의 장학금을 받았다고 쓰여 있었어요.
+KARTIKA: Dat is geen nieuws. Dat wist ik. ||| 새로운 소식이 아닙니다. 알고 있었어요.
+BENEDETTI: Dat weet ik. Maar ik wil de rest van de brief voorlezen, en daarna iets over mijzelf zeggen. ||| 압니다. 하지만 편지의 나머지를 읽고 나서 제 자신에 관해 말씀드리겠습니다.
+FERREIRA: Over uzelf? ||| 본인에 대해서요?
+BENEDETTI: In 2017 gaf ik een gastcollege op de zomerschool van de Stichting Blauwberg in Leiden. Ik ontving een honorarium van vierduizend euro. Ik heb dit nooit gemeld bij de aanvaarding van mijn benoeming. ||| 2017년 라이덴의 블라우베르흐 재단 여름학교에서 객원 강의를 했습니다. 사례비로 4천 유로를 받았어요. 이 임명을 수락할 때 한 번도 알리지 않았습니다.
+KARTIKA: ... ||| …
+BENEDETTI: Ik doe dat nu. Ik beschouw het niet als een omkoping. Maar ik begrijp dat anderen het anders kunnen zien. En ik stel voor dat de partijen beslissen of ik door mag gaan. ||| 지금 알리는 겁니다. 매수라고 보지는 않습니다. 하지만 다른 분들은 달리 볼 수 있다는 점을 이해합니다. 제가 계속할지는 양 당사자가 정하길 제안합니다.
+OKAFOR: Voorzitter, mag ik? ||| 의장님, 발언해도 되겠습니까?
+BENEDETTI: Natuurlijk, collega Okafor. ||| 물론입니다, 오카포르 동료.
+OKAFOR: Ik moet iets soortgelijks bekennen. In 2022 werd ik uitgenodigd om een leerstoel te bekleden, gefinancierd door Blauwberg. Ik heb dat aanvaard. Het betrof vijf colleges per jaar. Honderdtwintigduizend euro. ||| 비슷한 걸 고백해야 합니다. 2022년에 블라우베르흐가 재정을 대는 석좌직을 제안받아 수락했습니다. 연 다섯 번 강의에 12만 유로였어요.
+FERREIRA: Honderdtwintigduizend. ||| 12만 유로요.
+OKAFOR: Ik heb het nooit als iets verdachts beschouwd. Het was een leerstoel. Ik ben een oude jurist. Ik dacht: eindelijk iemand die in onderwijs investeert. ||| 의심스럽다고 여긴 적이 없습니다. 석좌였어요. 저는 늙은 법률가입니다. 마침내 교육에 투자하는 사람이 있구나 싶었죠.
+KARTIKA: En nu? ||| 지금은요?
+OKAFOR: Nu denk ik dat ik te lang niet heb gevraagd wie de beurs betaalt. ||| 이제는 누가 장학금을 내는지 너무 오래 묻지 않았다고 생각합니다.
+JOOST: Een zin die ik zou willen inlijsten. ||| 액자에 넣고 싶은 문장이군요.
+OKAFOR: Doe maar. Ik heb er een nodig. ||| 넣으세요. 저도 하나 필요합니다.
+KARTIKA: Voorzitter, mijnheer Okafor, ik waardeer uw openheid. Maar het verandert niets aan het feit dat twee van de drie leden van dit tribunaal door dezelfde stichting zijn gefinancierd. ||| 의장님, 오카포르 씨, 솔직함은 높이 평가합니다. 하지만 재판부 세 명 중 둘이 같은 재단의 재정 지원을 받았다는 사실은 달라지지 않습니다.
+FERREIRA: Als u dat zo wilt zeggen. ||| 그렇게 말하고 싶으시다면요.
+KARTIKA: Ik wil het zo zeggen. ||| 그렇게 말하고 싶습니다.
+FERREIRA: Mijn regering vindt dat dit tribunaal door moet gaan. ||| 우리 정부는 이 재판부가 계속해야 한다고 봅니다.
+KARTIKA: Natuurlijk vindt uw regering dat. Het is uw arbiter die verdwenen is. Een tribunaal dat verlamd is, is voor u gunstig. ||| 당연히 그렇겠죠. 사라진 건 대사님 쪽 중재인입니다. 마비된 재판부는 대사님께 유리하니까요.
+FERREIRA: Wat bedoelt u daarmee? ||| 무슨 뜻입니까?
+KARTIKA: Dat u liever met twee arbiters een uitspraak krijgt die u bevalt, dan met drie een die dat misschien niet doet. ||| 세 명으로 마음에 안 들 수 있는 판결을 받느니 두 명으로 마음에 드는 판결을 받겠다는 뜻입니다.
+JOOST: Mag ik iets zeggen? Ik heb een voorstel. Maar eerst een verhaal. ||| 제가 한마디 해도 될까요? 제안이 있습니다. 먼저 이야기 하나요.
+## 알라바마호 — DE ALABAMA
+JOOST: In 1872 kwamen in Genève vijf arbiters bijeen. De Verenigde Staten tegen Groot-Brittannië. Over een schip, de Alabama. Een Brits schip dat tijdens de Amerikaanse burgeroorlog de Noordelijke handelsvloot had geteisterd. ||| 1872년 제네바에 중재인 다섯이 모였습니다. 미국 대 영국이었죠. 알라바마라는 배 때문이었습니다. 미국 남북전쟁 중 북부 상선단을 괴롭힌 영국 배였어요.
+KARTIKA: Ik ken de zaak. ||| 그 사건은 압니다.
+JOOST: Dan weet u dat het een moeilijk tribunaal was. De Britten hadden een arbiter benoemd, de Amerikanen ook. Drie anderen kwamen van neutrale landen: Zwitserland, Italië, Brazilië. ||| 그럼 까다로운 재판부였다는 것도 아시겠죠. 영국이 한 명, 미국이 한 명을 지명했고 나머지 셋은 중립국인 스위스, 이탈리아, 브라질에서 왔습니다.
+KARTIKA: En de Britse arbiter stemde als enige tegen. ||| 그리고 영국 중재인만 홀로 반대표를 던졌죠.
+JOOST: Precies. Hij was partijdig. Iedereen wist het. Maar niemand verborg het. De regels waren duidelijk, de zittingen openbaar. En de uitspraak, vijftien miljoen dollar voor de Verenigde Staten, werd door beide kanten aanvaard. ||| 맞습니다. 편파적이었고 모두가 알았어요. 하지만 누구도 숨기지 않았습니다. 규칙이 분명했고 심리는 공개였죠. 그리고 미국에 1,550만 달러를 인정한 판결은 양쪽 모두 받아들였습니다.
+FERREIRA: Waarom vertelt u ons dit? ||| 왜 이 이야기를 하십니까?
+JOOST: Omdat de les van Genève niet was dat een tribunaal onpartijdig moet zijn. De les is dat een tribunaal zichtbaar moet zijn. ||| 제네바의 교훈은 재판부가 공정해야 한다는 게 아니라 눈에 보여야 한다는 것이었으니까요.
+BENEDETTI: Zichtbaar. ||| 눈에 보인다는 것.
+JOOST: Mijn voorstel heeft drie delen. Eén: elk lid van het tribunaal en de griffier leggen een verklaring af over al hun banden met Blauwberg en andere financiers. Hardop, in deze zaal. ||| 제안은 세 부분입니다. 하나, 재판부 전원과 서기가 블라우베르흐 및 다른 재정 지원자와의 모든 관계를 이 자리에서 소리 내어 진술합니다.
+FERREIRA: Hardop? ||| 소리 내어서요?
+JOOST: Hardop. Niet in een bijlage. ||| 소리 내어요. 부록이 아니라.
+KARTIKA: En twee? ||| 둘째는요?
+JOOST: Twee: na elke verklaring beslissen de partijen, apart, of zij het lid accepteren of wraken. Zonder uitleg. ||| 둘, 진술마다 양 당사자가 따로 해당 위원을 수용할지 기피할지 정합니다. 이유는 설명하지 않고요.
+KARTIKA: En drie? ||| 셋째는요?
+JOOST: Drie: de opengevallen plaats van mevrouw Wijnaendts wordt niet ingevuld voordat alle verklaringen zijn gehoord. En de nieuwe arbiter legt dezelfde verklaring af. ||| 셋, 바이나엔츠 박사의 빈자리는 모든 진술을 듣기 전에는 채우지 않습니다. 그리고 새 중재인도 같은 진술을 합니다.
+FERREIRA: Dat betekent dat de procedure weken duurt. ||| 그러면 절차가 몇 주 걸립니다.
+JOOST: Het duurt veertien dagen. ||| 14일입니다.
+FERREIRA: Elke dag kost mijn land geld. Rechtszaken worden duurder naarmate ze langer duren. ||| 하루하루 우리나라는 돈이 듭니다. 재판은 길어질수록 비싸지죠.
+KARTIKA: Uitgezonderd voor wie ervan leeft. ||| 그걸로 먹고사는 사람은 예외죠.
+FERREIRA: Dat was een grap? ||| 농담이었습니까?
+KARTIKA: Het was een observatie. ||| 관찰이었습니다.
+JOOST: Het was allebei. Zo zijn de beste. ||| 둘 다였죠. 최고의 말은 그렇습니다.
++ ronde tafel = 원탁
++ rederij = 선사
++ wraken = 기피하다(재판부 구성원을 배제하다). 'wraking'은 기피
++ honorarium = 사례비
++ leerstoel = 석좌직
++ partijdig = 편파적인
++ opengevallen plaats = 공석
++ een verklaring afleggen = 진술하다, 성명을 내다
++ verlamd = 마비된
++ burgeroorlog = 내전, 남북전쟁
