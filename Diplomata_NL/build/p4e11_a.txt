@@ -1,0 +1,74 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 4
+@ep 11
+@title De caissons
+@ko 케이슨
+@setting D−1 낮 티르타 마을 대피 → 금요일 밤 칸다르 방벽 7구간 → 자정 이후 항구
+@level B2-C1
+@cast JOOST | 델타 외교 특사, 47세
+@cast BASUKI | 민방위 총책 장군, 58세
+@cast SLAMET | 사와 수문 감독, 49세
+@cast HEIN | 네덜란드 수리 컨설턴트, 50세
+@cast LALITA | 사와 폴더 농민 대표, 62세
+@cast SITI | 마을 교사, 29세
+@cast SERSAN | 하사, 30세
+@cast RENDI | 기상청 예보관, 36세
+@cast KARTINI | 위원장, 60세
+@cast NOOR | 요스트의 딸, 18세
+@note D−1에서 D까지, 이야기의 절정입니다. 락슈미가 상륙하고, 약속대로 A구획(티르타)이 열리며, 모래주머니 방벽의 7구간이 무너집니다. 마지막 틈은 항구에 놓여 있던 낡은 콘크리트 케이슨(caisson, 침함 상자) 둘로 막습니다. 역사 논거는 브라우어르스하벤 틈 폐쇄(1971): 델타 계획의 막바지에 거대한 케이슨을 조류가 약한 짧은 시간(정조 시간대)에 맞춰 가라앉혀 마지막 틈을 닫은 작전으로, '시간표와 협업'이 핵심이었습니다. 어휘는 위기 대응(doorbraak, stuwen, zinken, getijdenvenster)에 주목하세요.
+@next 12화(최종화): 침수는 최소화되고, 장군은 구속되며, 란트빈닝은 해체됩니다. 노르가 요스트의 수첩을 이어 씁니다.
+
+## 금요일 낮, 티르타 — TIRTA, VRIJDAGMIDDAG
+SITI: Kinderen, in rijen. Elk kind houdt het touw vast. ||| 얘들아, 줄을 서요. 모두 밧줄을 잡아요.
+LALITA: Hoeveel huizen zijn leeg? ||| 빈집이 몇 채죠?
+SERSAN: Driehonderdtwaalf van de vierhonderdzestig. De rest pakt nu in. ||| 460채 중 312채요. 나머지는 지금 짐을 싸고 있습니다.
+LALITA: Niemand is met geweld gehaald? ||| 강제로 데려온 사람은 없죠?
+SERSAN: Niemand. Mijn eenheid heeft vanochtend zeventig keer «mag ik uw tas dragen?» gezegd. ||| 없습니다. 우리 부대는 오늘 아침 '가방 들어 드려도 될까요'를 일흔 번 말했어요.
+LALITA: Dat is een nieuwe zin voor een soldaat. ||| 군인에게는 새로운 문장이네요.
+SERSAN: Mijn moeder is trots. ||| 어머니가 자랑스러워하세요.
+BASUKI: Sergeant, status. ||| 하사, 상황 보고.
+SERSAN: Generaal, driehonderdtwaalf, op weg naar de hoge dorpen. De bussen rijden. ||| 장군님, 312채입니다. 고지 마을로 이동 중이고 버스가 운행 중입니다.
+BASUKI: Mevrouw Lalita. ||| 랄리타 씨.
+LALITA: Generaal. ||| 장군님.
+BASUKI: Mijn mannen hebben de terpen gecontroleerd. Honderdachtendertig zijn klaar. De rest is half. ||| 우리 병사들이 테르프를 점검했습니다. 138개가 완성됐고 나머지는 반쯤입니다.
+LALITA: Dan blijven de mensen van de halve terpen in het huis van Darma. ||| 그럼 반쯤 지어진 테르프 사람들은 다르마 어르신 집에서 지내요.
+BASUKI: Dat is een logistieke... ||| 병참상으로 보면…
+LALITA: Dat is een afspraak, generaal. ||| 약속입니다, 장군님.
+BASUKI: Ik regel de matrassen. ||| 매트리스는 내가 마련하겠소.
+LALITA: Dank u. ||| 감사합니다.
+DARMA: Wie ruimt mijn schuur? ||| 내 창고는 누가 치워 주겠소?
+SITI: Wij, meneer Darma. De leerlingen. ||| 우리가요, 다르마 어르신. 학생들이요.
+DARMA: Zij zijn te jong. ||| 너무 어리잖소.
+SITI: Dan doen de oude mensen het. ||| 그럼 어르신들이 하세요.
+DARMA: Ik ben de oudste. ||| 내가 제일 늙었는데.
+SITI: Dan hebt u ervaring. ||| 그럼 경험이 있으시겠네요.
+JOOST: Mevrouw Lalita, het peil bij Kandar is drie meter negentien. ||| 랄리타 씨, 칸다르 수위가 3.19미터입니다.
+LALITA: Eén centimeter van de drempel. ||| 기준선까지 1센티미터네요.
+JOOST: En stijgend. ||| 그리고 오르고 있어요.
+LALITA: Dan is het zover. ||| 그럼 때가 됐군요.
+KARTINI: Wij hebben de drempel bereikt. Het besluit is aan de commissie. ||| 기준선에 도달했습니다. 결정은 위원회가 합니다.
+HEIN: Stem. ||| 표결하죠.
+KARTINI: Wie is voor het openen van vak A? ||| A구획 개방에 찬성하는 분?
+ARIEF: Voor. ||| 찬성합니다.
+RENDI: Voor. ||| 찬성합니다.
+HEIN: Voor. Met mijn naam. ||| 찬성합니다. 제 이름으로요.
+LALITA: Voor. Voor mijn dorp. ||| 찬성해요. 제 마을을 위해서요.
+KARTINI: Voor. Vier tegen nul, een onthouding van de stem van de student. Het besluit is aangenomen. ||| 찬성입니다. 4 대 0, 학생 대표는 기권. 결정이 채택됐습니다.
+SLAMET: Dan open ik de sluis. Twaalf uur van tevoren, zoals afgesproken. ||| 그럼 수문을 열겠습니다. 합의대로 12시간 전에요.
+LALITA: Slamet, wacht. ||| 슬라멧, 잠깐만요.
+SLAMET: Mevrouw? ||| 네?
+LALITA: Laat mij eerst de sirene laten gaan. ||| 사이렌부터 울리게 해 주세요.
+SLAMET: Dat is niet het protocol. ||| 절차는 아닌데요.
+LALITA: Het is mijn afspraak. Eén lange toon. Dan weet iedereen: nu. ||| 제 약속이에요. 길게 한 번. 그러면 모두 알아요, 지금이라고.
+SLAMET: Doe het. ||| 하세요.
++ rijen = 줄, 열
++ touw = 밧줄
++ terp = 테르프, 대피 둔덕
++ onthouding = 기권
++ protocol = 절차, 규정
++ sirene = 사이렌
++ eenheid = 부대
++ matras = 매트리스
++ drempel = 기준선, 문턱
++ logistiek = 병참, 물류
