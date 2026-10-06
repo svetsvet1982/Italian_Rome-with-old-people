@@ -1,0 +1,87 @@
+@series HOOGWATER · 외교관 시리즈
+@lang 네덜란드어 낭독 교재
+@part 2
+@ep 1
+@title Het lege paleis
+@ko 빈 평화궁전
+@setting 월요일 아침 헤이그 평화궁 → 중재인 대기실 → 경비실 → 정원 문
+@level B2-C1
+@cast JOOST | 외무부 특별협상국장, 평화궁 개최국 연락관, 45세
+@cast ZANDSTRA | 평화궁 경비원, 60세
+@cast BRANDSMA | 상설중재재판소 서기, 52세
+@cast BENEDETTI | 중재재판소 의장, 66세
+@cast FERREIRA | 남마린데 연방 대리인(대사), 57세
+@cast KARTIKA | 카랑 해협국 대리인, 48세
+@cast FEMKE | 분석관, 31세
+@note 2부 첫 화입니다. 남마린데 대 카랑의 강 수량 중재가 개정 사흘 전, 한 중재인이 사라집니다. 이 화의 핵심 장치는 경비원의 방명록입니다. 서명 시각이 비어 있다는 사소한 사실이 '어디서부터 찾아야 하는가'를 정해 줍니다. 역사 논거는 1899년 헤이그 평화회의와 상설중재재판소(1900) 설립으로, 국가 간 분쟁을 전쟁 대신 문서와 재판으로 푼다는 이념이 '중립 개최국'의 신뢰와 한 묶음이라는 점을 보여 줍니다. 어휘는 중재(scheidsgerecht, raadsman, zitting)와 경비 기록(gastenboek, sleutel)에 주목하세요.
+@next 2부 2화 — «Thee met de griffier»(서기와 차) — 요스트는 평화궁 정원 벤치에서 중재재판소 서기와 차를 마십니다. 점심 도시락 영수증 한 장과 '교육 기금'이라는 말.
+
+## 아침의 평화궁 — HET VREDESPALEIS
+ZANDSTRA: Goedemorgen, meneer Hartog. U bent vroeg. De bezoekers komen pas om negen uur. ||| 안녕하십니까, 하르토흐 씨. 일찍 오셨네요. 방문객은 아홉 시부터인데요.
+JOOST: Goedemorgen, meneer Zandstra. Ik hoorde van mevrouw Vos aan de telefoon dat er iets aan de hand was. ||| 안녕하세요, 잔드스트라 씨. 보스 씨와의 통화에서 무슨 일이 있다고 들었습니다.
+ZANDSTRA: Aan de hand. Ja. Dat is zacht uitgedrukt. ||| 무슨 일이라. 부드럽게 말하셨네요.
+JOOST: Vertel. ||| 말씀하세요.
+ZANDSTRA: Zaterdagavond om twintig over negen heeft mevrouw Wijnaendts zich hier ingeschreven. In het gastenboek. Hier, kijkt u. Haar handtekening. ||| 토요일 밤 아홉 시 이십 분에 바이나엔츠 박사가 여기 방명록에 서명했습니다. 보세요. 그분 서명이에요.
+JOOST: «21.20. L. Wijnaendts. Arbiter. Bibliotheek». ||| '21.20. L. 바이나엔츠. 중재인. 도서관'.
+ZANDSTRA: En dan kijkt u naar de kolom ernaast. «Vertrek». ||| 그리고 옆 칸을 보세요. '퇴장'.
+JOOST: Leeg. ||| 비어 있군요.
+ZANDSTRA: Leeg. Dat is niet normaal. Ik heb dit boek veertig jaar. Mensen schrijven soms een verkeerde tijd. Maar ze vergeten nooit helemaal te tekenen als ze weggaan. ||| 비어 있죠. 정상이 아닙니다. 40년 이 방명록을 맡았어요. 가끔 시각을 틀리게 적는 사람은 있지만 나갈 때 아예 서명을 잊는 사람은 없습니다.
+JOOST: Wanneer bent u gisteren weggegaan? ||| 어제 몇 시에 퇴근하셨죠?
+ZANDSTRA: Mijn dienst eindigt om tien uur 's avonds. Mijn collega Mohan nam over. ||| 근무는 밤 열 시에 끝납니다. 동료 모한이 이어받았어요.
+JOOST: En Mohan heeft haar niet zien weggaan? ||| 모한은 그분이 나가는 걸 못 봤고요?
+ZANDSTRA: Mohan zit achter een glazen wand. Hij ziet mensen alleen als ze de hal in komen. Wie via de zijdeur gaat, ziet hij niet. ||| 모한은 유리벽 뒤에 있어요. 로비에 들어오는 사람만 보입니다. 옆문으로 나가는 사람은 못 봐요.
+JOOST: Welke zijdeur? ||| 어느 옆문입니까?
+ZANDSTRA: De tuindeur. Die gaat met een sleutel van binnenuit open. Alleen het personeel en de griffier hebben er een. ||| 정원 문이요. 안쪽에서 열쇠로 엽니다. 직원과 서기만 열쇠가 있습니다.
+JOOST: En de griffier is meneer Brandsma. ||| 서기는 브란츠마 씨고요.
+ZANDSTRA: Meneer Brandsma, ja. ||| 브란츠마 씨죠.
+JOOST: Is er een logboek voor de tuindeur? ||| 정원 문 기록부가 있습니까?
+ZANDSTRA: Elektronisch. Maar het systeem is vrijdag gecrasht. Niemand kon het herstellen. ||| 전자식인데 금요일에 시스템이 멈췄어요. 아무도 복구하지 못했습니다.
+JOOST: Vrijdag. Dus drie dagen geleden. ||| 금요일이요. 사흘 전이군요.
+ZANDSTRA: Meneer Hartog, ik ben maar een portier. Maar ik heb het idee dat iemand dit expres heeft gedaan. ||| 하르토흐 씨, 저는 경비원일 뿐입니다. 하지만 누군가 일부러 그랬다는 생각이 듭니다.
+JOOST: Waarom? ||| 왜죠?
+ZANDSTRA: Omdat een systeem dat veertien jaar werkt, niet precies op de vrijdag voor de zaak crasht. ||| 14년 작동한 시스템이 하필 재판 전 금요일에 멈추진 않으니까요.
+JOOST: Dat is een scherpe waarneming. ||| 날카로운 관찰이군요.
+ZANDSTRA: Veertig jaar boek. Je leert dingen. ||| 40년 장부를 맡으면 배우는 게 있죠.
+## 대기실 — DE ARBITERKAMER
+BENEDETTI: Meneer Hartog. Buongiorno. Goedemorgen, zou ik moeten zeggen. Ik leer Nederlands, maar het gaat langzaam. ||| 하르토흐 씨. 안녕하십니까. 아니, 굿모르헨이라고 해야겠죠. 네덜란드어를 배우는데 더디네요.
+JOOST: Voorzitter Benedetti. Uw Nederlands is uitstekend. ||| 베네데티 의장님. 네덜란드어가 훌륭하십니다.
+BENEDETTI: U bent een diplomaat. Een leugen met een glimlach. ||| 외교관이시군요. 미소 띤 거짓말이죠.
+JOOST: Een compliment met een glimlach. ||| 미소 띤 칭찬입니다.
+BENEDETTI: Ik heb een probleem. Ik heb drie arbiters, en twee zijn er. ||| 문제가 있습니다. 중재인이 셋인데 둘뿐입니다.
+JOOST: Ik weet het. ||| 압니다.
+BENEDETTI: De zitting begint woensdag. Zonder mevrouw Wijnaendts kan het tribunaal niet vergaderen. ||| 개정은 수요일입니다. 바이나엔츠 박사 없이는 재판부가 열릴 수 없어요.
+JOOST: Hoeveel tijd hebben we? ||| 시간이 얼마나 있습니까?
+BENEDETTI: Tot woensdag negen uur. Daarna moet ik de partijen informeren dat de zitting wordt uitgesteld. En ze zullen schreeuwen. ||| 수요일 아홉 시까지입니다. 그 뒤에는 당사자들에게 개정 연기를 알려야 하고 그들은 소리칠 겁니다.
+JOOST: Wie zal het hardst schreeuwen? ||| 누가 가장 크게 소리칠까요?
+BENEDETTI: Dat zult u zo meemaken. De twee agenten komen eraan. ||| 곧 직접 보시게 될 겁니다. 두 대리인이 오고 있어요.
+FERREIRA: Voorzitter! Dit is onaanvaardbaar! Mijn arbiter verdwijnt in uw paleis en niemand heeft iets te zeggen! ||| 의장님! 용납할 수 없습니다! 우리 중재인이 이 궁전에서 사라졌는데 아무도 할 말이 없다니요!
+BENEDETTI: Ambassadeur Ferreira, ik vraag u kalm te blijven. ||| 페헤이라 대사님, 침착해 주십시오.
+FERREIRA: Kalm! Mijn land heeft vier jaar op deze zaak gewacht! Honderd en twintig miljoen mensen in het stroomgebied van de Marinde! ||| 침착이요! 우리나라는 이 사건을 4년 기다렸습니다! 마린데 유역에 1억 2천만 명이 삽니다!
+KARTIKA: Ambassadeur Ferreira. Met alle respect, het is uw arbiter die verdween. Ik vind het opmerkelijk. ||| 페헤이라 대사님. 실례지만 사라진 건 대사님 측 중재인입니다. 주목할 만하군요.
+FERREIRA: Wat insinueert u? ||| 무슨 암시를 하는 겁니까?
+KARTIKA: Niets. Ik zeg alleen dat mijn regering overweegt de zetel van het tribunaal te verplaatsen, naar een plaats waar arbiters niet verdwijnen. ||| 아무것도요. 다만 우리 정부가 재판 소재지를 중재인이 사라지지 않는 곳으로 옮기는 걸 검토 중이라고 말할 뿐입니다.
+JOOST: Mevrouw Kartika, mag ik iets zeggen? ||| 카르티카 대리인, 한마디 해도 되겠습니까?
+KARTIKA: U bent van de Nederlandse regering. Dus u bent ook een partij. ||| 네덜란드 정부 사람이시죠. 그러니 당신도 한쪽입니다.
+JOOST: Ik ben de gastheer. Dat is iets anders. ||| 저는 주인입니다. 다릅니다.
+KARTIKA: Een gastheer die zijn gast kwijt is. ||| 손님을 잃어버린 주인이군요.
+JOOST: Precies. En daarom wil ik niets liever dan haar vinden. Eerder dan wie ook. ||| 맞습니다. 그래서 누구보다 먼저 그분을 찾고 싶습니다.
+FERREIRA: Wat kunt u doen? ||| 무엇을 할 수 있습니까?
+JOOST: Dat leg ik u uit, maar eerst vraag ik u iets. Laten we even gaan zitten. ||| 설명드리겠습니다. 하지만 먼저 부탁이 있습니다. 잠깐 앉읍시다.
+KARTIKA: Ik sta liever. ||| 서 있겠습니다.
+JOOST: Dan sta ik ook. Maar dan praten we wel. ||| 그럼 저도 서서 하죠. 그래도 이야기는 합시다.
+BENEDETTI: Meneer Hartog heeft me gevraagd of hij iets mag voorstellen. Ik sta het toe. ||| 하르토흐 씨가 제안해도 되는지 물었습니다. 허락합니다.
+JOOST: Dank u, voorzitter. Mijn voorstel is eenvoudig. Eén: de zitting wordt niet geschrapt. Ze wordt met zevenenzeventig uur uitgesteld. Twee: in die tijd onderzoekt een onafhankelijke commissie wat er is gebeurd. Drie: beide partijen mogen eigen waarnemers sturen. ||| 제안은 간단합니다. 하나, 개정을 취소하지 않고 77시간 연기합니다. 둘, 그 동안 독립 조사 위원회가 무슨 일이 있었는지 조사합니다. 셋, 양 당사자가 각자 참관인을 보낼 수 있습니다.
+FERREIRA: Een uitstel van drie dagen? ||| 사흘 연기요?
+JOOST: Drie dagen en vijf uur. Dus tot zaterdagmiddag twee uur. ||| 사흘하고 다섯 시간입니다. 그러니 토요일 오후 두 시까지죠.
+KARTIKA: En als ze niet gevonden wordt? ||| 그분을 못 찾으면요?
+JOOST: Dan komen we op zaterdag samen en besluiten we wat dan. Maar niet vandaag. Vandaag is te vroeg om te beslissen. ||| 그럼 토요일에 모여 어떻게 할지 정합니다. 하지만 오늘은 아닙니다. 오늘은 결정하기엔 이릅니다.
++ gastenboek = 방명록
++ arbiter / scheidsrechter = 중재인
++ tribunaal = 재판부(중재재판소)
++ gastheer = 주인 역할, 개최자. 국제기구에서는 '개최국'
++ stroomgebied = (강의) 유역
++ zetel = 소재지, 재판소의 소재
++ tuindeur = 정원 문
++ insinueren = 은근히 암시하다
++ onaanvaardbaar = 용납할 수 없는
++ schrappen = 지우다, 취소하다
