@@ -1,0 +1,95 @@
+@series EL AGREGADO · 외교관 시리즈
+@lang 스페인어 낭독 교재
+@part 3
+@ep 5
+@title La yurta
+@ko 게르
+@setting 이튿날 오후~사흘째 새벽 · 옴누고비 초원 · 나란 어머니의 게르 → 광산 도로 교차점
+@level B2-C1
+@cast ÁLVARO | 신임 주몽골 대사(지명), 44세
+@cast NARAN | 대사관 운전사, 58세
+@cast DOLGOR | 나란의 어머니, 목동, 81세
+@cast BATJARGAL | 목동 마을의 어른, 67세
+@cast MUNKH | 스마트폰을 쓰는 젊은 목동, 24세
+@cast ARANTXA | 미네라 아랄라르 현지 소장, 46세
+@note 3부 B사건의 두 번째 화이며 '물밑 협상'의 화입니다. 공식 면담 대신 게르에서 사흘을 보내며 듣는 방식이 협상이 됩니다. 이 화의 반전은 목동들의 편지 뒤에 이해관계가 숨어 있다는 점이고, 해법의 역사 논거는 스페인의 '메스타'(1273)와 가축 이동로 '카냐다 레알'입니다. 환대 어휘(umbral, huésped, anfitrión)와 길·권리 어휘(derecho de paso, cañada, paso de ganado)에 주목하세요.
+@next 3부 6화 — «La tierra y el pasto»(땅과 풀) — 광산 수익의 일부를 목초지 공동체 기금으로 돌리는 계약, 그리고 모든 장부를 공개하는 낭독회. 장관 에르덴은 마지막 조건 하나를 내겁니다.
+
+## 게르 앞 — LA PUERTA
+NARAN: Hemos llegado. Esa es la yurta de mi madre. La del humo. ||| 도착했습니다. 저게 어머니 게르예요. 연기 나는 곳이요.
+ÁLVARO: Se ve a tres kilómetros. Y no hay un árbol. ||| 3킬로미터 밖에서도 보이네요. 나무 한 그루 없고요.
+NARAN: Por eso mismo se ve. Aquí el humo es la dirección. ||| 그래서 보이죠. 여기선 연기가 주소입니다.
+ARANTXA: Los perros nos han oído. ¿Son peligrosos? ||| 개들이 우리 소리를 들었네요. 위험한가요?
+NARAN: Un poco. No se baje del coche hasta que mi madre los llame. ||| 조금요. 어머니가 부르실 때까지 차에서 내리지 마세요.
+ÁLVARO: ¿Cuánto hay que esperar? ||| 얼마나 기다려야 합니까?
+NARAN: Lo que ella decida. Es su casa. ||| 어머니가 정하시는 만큼요. 어머니 집이니까요.
+DOLGOR: ¡Naran! ¡Hijo! ¿Quiénes son estos que traes? ||| 나란! 아들아! 데려온 사람들이 누구냐?
+NARAN: Madre, es el nuevo embajador de España. Y la jefa de la mina. ||| 어머니, 새로 오신 스페인 대사님이에요. 그리고 광산 소장님이고요.
+DOLGOR: ¿La jefa de la mina? Que entre. Pero la ceniza la dejo yo. ||| 광산 소장? 들어오라고 해라. 하지만 재는 내가 맡는다.
+NARAN: Dice que entren, pero que ella decide qué se tira al fuego y qué no. ||| 들어오시라고요. 하지만 불에 뭘 넣을지는 어머니가 정하신답니다.
+ÁLVARO: Perfectamente. ¿Qué hago con los pies? ||| 아주 좋습니다. 발은 어떻게 하죠?
+NARAN: No pise el umbral. Se levanta el pie y se pasa sin tocar la madera. ||| 문턱을 밟지 마세요. 발을 들어 나무를 건드리지 않고 넘어가는 겁니다.
+ÁLVARO: Así. ¿Y el sombrero? ||| 이렇게요. 모자는요?
+NARAN: Se quita en la puerta. Y se saluda con las dos manos. ||| 문에서 벗습니다. 그리고 양손으로 인사하고요.
+DOLGOR: Mucho gusto, embajador. Siéntese a mi izquierda. Es el lado de los invitados. ||| 반갑소, 대사. 내 왼쪽에 앉으시오. 손님이 앉는 자리요.
+ÁLVARO: Muchas gracias, señora. Traigo un regalo. ||| 감사합니다, 부인. 선물을 가져왔습니다.
+DOLGOR: ¿Té, cuchillo y pañuelo? Naran siempre aconseja lo mismo. ||| 차, 칼, 스카프냐? 나란은 늘 같은 걸 권하는구나.
+ÁLVARO: ¿Cómo lo sabe? ||| 어떻게 아십니까?
+NARAN: Mi madre sabe todo lo que mando yo. ||| 어머니는 제가 시키는 건 다 아세요.
+DOLGOR: Yo le enseñé a aconsejar. ||| 내가 조언하는 법을 가르쳤지.
+ARANTXA: Señora, soy Arantxa Etxeberria, de la mina de Khar Us. Quería... ||| 부인, 저는 하르 우스 광산의 아란차 에체베리아입니다. 말씀드리고 싶은 게…
+DOLGOR: Primero se bebe. Después se habla. ||| 먼저 마시고 나서 말한다.
+ARANTXA: Perdone. ||| 실례했습니다.
+DOLGOR: No hay nada que perdonar. Pero aquí quien habla antes de beber es un abogado. ||| 용서할 건 없소. 하지만 여기서는 마시기 전에 말하는 사람은 변호사요.
+ÁLVARO: Hay un refrán español parecido. «En boca cerrada no entran moscas». ||| 비슷한 스페인 속담이 있습니다. "닫힌 입에는 파리가 들어오지 않는다."
+NARAN: No lo traduzco, que mi madre pensaría que es una amenaza. ||| 통역하지 않겠습니다. 어머니가 협박으로 들을 테니까요.
+DOLGOR: ¿Qué dice? ||| 뭐라는 거냐?
+NARAN: Que en España se come en silencio. ||| 스페인에서는 조용히 먹는다고요.
+DOLGOR: Qué gente tan sensata. ||| 현명한 사람들이구나.
+## 우유차 — EL TÉ CON LECHE
+DOLGOR: Beba. Con las dos manos. El codo izquierdo en la derecha. ||| 마시시오. 양손으로. 왼쪽 팔꿈치는 오른팔 아래에.
+ÁLVARO: Así. ... Está salado. ||| 이렇게요. …짭니다.
+DOLGOR: Es té. Es sal. Es leche. Es lo que hay. ||| 차고, 소금이고, 우유요. 있는 게 이거요.
+ÁLVARO: Está muy bueno. De verdad. ||| 아주 맛있습니다. 정말로요.
+DOLGOR: Miente. Pero miente con cortesía. Eso vale. ||| 거짓말이군. 하지만 예의 바른 거짓말이야. 그건 인정하지.
+ARANTXA: Yo... ¿puedo repetir? ||| 저는… 한 잔 더 마셔도 될까요?
+DOLGOR: ¿Le gusta? ||| 마음에 드시오?
+ARANTXA: No. Pero me parece lo correcto. ||| 아니요. 하지만 그게 맞는 것 같아서요.
+DOLGOR: Ja. Esta es más lista de lo que parece. ||| 하. 이 사람은 보기보다 영리하군.
+ÁLVARO: Señora Dolgor, ¿cuántas ovejas tiene? ||| 돌고르 부인, 양은 몇 마리 있습니까?
+DOLGOR: Setecientas diez. Más veinte cabras, ocho camellos y tres caballos. ||| 710마리요. 염소 스무 마리, 낙타 여덟 마리, 말 세 마리도 있소.
+ÁLVARO: ¿Y las lleva usted sola? ||| 혼자 돌보십니까?
+DOLGOR: Con mi sobrino y su mujer. Y con un perro que sabe más que mi sobrino. ||| 조카와 그 처와 같이. 그리고 조카보다 많이 아는 개 한 마리와.
+ÁLVARO: Dígame, ¿qué hace falta para que una oveja llegue viva al verano? ||| 말씀해 주세요. 양이 여름까지 살아 있으려면 무엇이 필요합니까?
+DOLGOR: Tres cosas. Agua, pasto, camino. ||| 세 가지요. 물, 풀, 길.
+ÁLVARO: ¿Camino? ||| 길이요?
+DOLGOR: En invierno las ovejas bajan al valle. En primavera suben. Cada año el mismo camino. Mi abuelo, mi padre, yo. El camino pasa por el pozo de los camellos y por la colina de las piedras. ||| 겨울에는 양들이 골짜기로 내려가고 봄에는 올라가오. 해마다 같은 길로. 할아버지, 아버지, 나. 그 길이 낙타 우물과 돌 언덕을 지나지.
+ÁLVARO: Y hace un año construyeron la carretera. ||| 그리고 1년 전에 도로가 생겼고요.
+DOLGOR: Hace catorce meses. La carretera pasa justo por la colina de las piedras. Los camiones aplastan la hierba. Y ahora, en marzo, cuando mis ovejas suban, no sabrán dónde cruzar. ||| 14개월 전이오. 도로가 바로 돌 언덕을 지나지. 트럭이 풀을 짓밟고. 그리고 3월에 양들이 올라갈 때 어디로 건너야 할지 모를 거요.
+ARANTXA: Señora, nosotros dejamos pasos. ||| 부인, 저희가 건널목을 남겨 놨습니다.
+DOLGOR: Los hicieron donde les convenía a ustedes. No donde pasan las ovejas. ||| 당신네에게 편한 곳에 만들었지. 양들이 지나는 곳이 아니라.
+ARANTXA: ... Tiene razón. Los ingenieros los pusieron donde el terreno era plano. ||| …맞는 말씀입니다. 기술자들이 지형이 평평한 곳에 뒀어요.
+DOLGOR: Las ovejas no leen mapas. ||| 양은 지도를 읽지 못하오.
+ÁLVARO: Señora, quiero contarle una cosa. En España, hace setecientos cincuenta años, el rey Alfonso el Sabio fundó una asociación de pastores que se llamaba la Mesta. ||| 부인, 말씀드릴 게 있습니다. 스페인에서는 750년 전 현왕 알폰소가 '메스타'라는 목동 조합을 세웠습니다.
+NARAN: Mi madre dice que si es una asociación, ya no le gusta. ||| 어머니는 조합이라면 벌써 마음에 안 드신대요.
+ÁLVARO: Díganle que esta tenía una ley: las ovejas siempre pasan primero. Por todo el reino había caminos, las cañadas reales, de unos setenta y cinco metros de ancho, que ninguna aldea ni ningún señor podía cerrar. ||| 이 조합에는 법이 하나 있었다고 전해 주세요. 양이 언제나 먼저 지나간다. 왕국 곳곳에 폭 75미터쯤 되는 '카냐다 레알'이라는 길이 있었는데 어떤 마을도 영주도 막을 수 없었습니다.
+NARAN: Setenta y cinco metros. Mi madre dice que eso es más ancho que su carretera. ||| 75미터. 어머니 말씀이 광산 도로보다 넓대요.
+ÁLVARO: Más ancho que casi todas las carreteras. Y existen todavía. Hoy en día, una vez al año, los coches paran en Madrid cuando pasa un rebaño por la calle de Alcalá. ||| 대부분의 도로보다 넓죠. 지금도 있습니다. 오늘날에도 마드리드 알칼라 거리에서는 1년에 한 번 양 떼가 지나갈 때 자동차가 멈춰 섭니다.
+DOLGOR: ¿En una capital? ¿Las ovejas cruzan una capital? ||| 수도에서? 양이 수도를 건넌다고?
+ÁLVARO: Cada otoño, en la Fiesta de la Trashumancia. Y es también un derecho. ||| 해마다 가을, '이동 방목 축제' 때입니다. 그리고 권리이기도 하죠.
+DOLGOR: Un derecho de paso. ||| 지나갈 권리로군.
+ÁLVARO: Derecho de paso. Exacto. ||| 통행권입니다. 맞습니다.
+DOLGOR: Eso es lo que quiero. Que la carretera tenga que esperar a las ovejas. No al revés. ||| 내가 원하는 게 그거요. 도로가 양을 기다리는 거. 거꾸로가 아니라.
+ÁLVARO: Lo apunto en mi cuaderno. «Doña Dolgor: la carretera espera a las ovejas». ||| 수첩에 적겠습니다. "돌고르 부인: 도로가 양을 기다린다."
+DOLGOR: ¿Escribe todo lo que le digo? ||| 내가 하는 말을 다 적소?
+ÁLVARO: Y la fecha, y la hora, y quién estaba presente. Como un fraile. ||| 날짜와 시간과 누가 있었는지도요. 수사처럼요.
+DOLGOR: ¿Un lama? ||| 라마승처럼?
+ÁLVARO: Algo parecido. Un lama con bolígrafo. ||| 비슷합니다. 볼펜 든 라마승이죠.
++ umbral = 문턱. 게르의 문턱을 밟는 것은 금기
++ anfitrión / huésped = 주인 / 손님. 'huésped'는 손님과 숙박객 양쪽을 가리킨다
++ cañada real = 카냐다 레알. 스페인의 가축 이동로. 폭 약 75미터(90바라)로 법이 보호했다
++ la Mesta = 메스타. 1273년 알폰소 10세가 인가한 목동 조합. 이동 방목의 권리를 보호했다
++ derecho de paso = 통행권. 지나갈 권리
++ las ovejas no leen mapas = 양은 지도를 읽지 못한다. 길을 실제 이동에 맞춰야 한다는 뜻
++ En boca cerrada no entran moscas = 닫힌 입에는 파리가 들어오지 않는다. 말을 삼가라는 스페인 속담
++ lama = 라마승. 몽골 불교 승려
