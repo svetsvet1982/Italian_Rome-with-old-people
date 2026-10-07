@@ -1,0 +1,228 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 12
+@title La nuance a un prix
+@ko 뉘앙스에는 값이 있다
+@setting 파리 샤를드골 공항 도착홀 → 외무부 비서실장 집무실 → 국회 외교위원회 청문회장 → 엘렌과의 점심(브라스리) → 발쿠르가 이끄는 치즈 카트가 있는 식탁
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast MAYARD | 티에리 마야르, 조선소 «Chantiers de l'Estuaire» 프로젝트 책임자, 52세
+@cast NADIA | 나디아 베나이사, 전투체계 엔지니어, 38세
+@cast MATHIEU | 마티외 코르, 막내 엔지니어, 29세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세
+@cast MARCHAL | 오데트 마르샬, 국회 외교위원회 위원장, 60세. 허구의 인물
+@cast LENOIR | 파브리스 르누아르, 위원회 소속 의원, 54세. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 12화(1부 완결)입니다. 의견서가 나온 뒤 카스라 검찰은 사건을 종결하고 기술자 열세 명은 귀국합니다. 르포르는 사임하고, 쥘리앵은 자진해서 국회 외교위원회 청문회에서 7화의 '회색 호의'를 밝힙니다. 그는 엘렌에게서 받은 계좌 내역을 어떤 절차에도 인용하지 않았지만, '알았다'는 것 자체가 행위였다고 인정하고 처분을 받아들입니다. 해법의 순간은 이 문장입니다. «Un mot a un prix, et c'est à celui qui le choisit de le payer.» (단어에는 값이 있고, 그것을 고른 사람이 치러야 한다.) 엘렌은 점심 자리에서 V.A.의 풀네임을 처음으로 입에 올립니다. 'Valois Advisory'. 이 사무소는 룩셈부르크의 청구 회사이며, 최근 프랑스 영토 하나를 바라보는 이웃 나라에도 자문을 시작했다는 정보입니다. 역사적 배경은 '책임 윤리'입니다. 독일 사회학자 막스 베버는 1919년 뮌헨 강연 『직업으로서의 정치』에서 신념 윤리와 책임 윤리를 구분했고, 프랑스 외교의 전통에서는 외교관이 말과 서명의 결과를 스스로 지는 것이 기본 규범으로 여겨집니다. 발쿠르는 치즈 카트 앞에서 이 구분을 식탁의 말로 풀어 줍니다. 마지막 장면에는 레아가 '값'과 '가치'의 차이를 묻습니다. prix가 가격과 값어치, 두 뜻을 가진 단어라는 점이 제목의 열쇠입니다. 어휘는 접속법(pour que, quoi que, sans que), 책임·징계 표현(blâme, assumer, rendre des comptes), 관용구(payer le prix fort, y laisser des plumes)에 주목하세요.
+@next 2부 «L'Archipel de Saint-Aubin» (생토뱅 군도): 인접국 말라비 공화국이 프랑스 해외 영토 생토뱅 군도의 영유권을 제기합니다. 1962년 독립 직전에 교환된 비공개 서한이 쟁점이 됩니다. 'Valois Advisory'라는 이름이 다시 나타납니다.
+
+## 귀국 — L'ARRIVÉE À ROISSY
+CAMILLE: Terminal 2E, sept heures dix. Le vol de Ras Safina a atterri avec vingt minutes d'avance. ||| 2E 터미널, 일곱 시 십 분. 라스 사피나발 비행기가 이십 분 일찍 착륙했어.
+JULIEN: Deux fois en une semaine, une arrivée en avance. Je me méfie des bonnes nouvelles ponctuelles. ||| 일주일에 두 번이나 일찍 도착이라. 시간 잘 지키는 좋은 소식은 믿음이 안 가.
+CAMILLE: Regarde, les voilà. Mayard est devant, avec sa valise toute froissée. ||| 봐, 나왔다. 마야르가 구겨진 가방을 들고 맨 앞에 있어.
+MAYARD: Monsieur Delorme. Je ne sais pas comment dire... Merci n'est pas assez grand. ||| 들로름 선생님. 어떻게 말해야 할지... '감사합니다'로는 작아요.
+JULIEN: Dites-le petit, Monsieur Mayard. Les petits mots sont ceux qui durent. ||| 작게 말씀하세요, 마야르 씨. 작은 말이 오래 갑니다.
+MAYARD: Alors : merci. Et pardon pour le mot qui nous a fait perdre onze jours à tous. ||| 그럼 이렇게요. 고맙습니다. 그리고 우리 모두에게 열하루를 잃게 한 단어에 대해 미안합니다.
+JULIEN: Le mot n'était pas de vous. Il était du texte, et le texte n'était pas complet. ||| 그 단어는 당신 몫이 아니었어요. 텍스트의 몫이었고, 텍스트가 온전하지 않았죠.
+NADIA: Monsieur Delorme, Camille. Ils m'ont rendu mon téléphone à l'aéroport de Ras Safina. Il est mort. Je n'ai pas osé le rallumer. ||| 들로름 선생님, 카미유. 라스 사피나 공항에서 휴대폰을 돌려줬는데 방전됐어요. 켜 볼 용기가 안 나더라고요.
+CAMILLE: Rallume-le, Nadia. Les messages t'attendent depuis onze jours, ils sont patients. ||| 켜 봐요, 나디아. 열하루 동안 기다린 메시지들이라 참을성이 있을 거예요.
+NADIA: Il y en a quarante-trois de ma sœur. Les derniers disent seulement : « Je suis là ». ||| 언니가 보낸 게 마흔세 개예요. 마지막 몇 개는 그냥 '나 여기 있어'라고만 했네요.
+MATHIEU: Madame Roussel, je me suis fait la promesse de ne plus jamais livrer un bateau avant d'avoir lu toutes les pages. ||| 루셀 씨, 앞으로는 모든 쪽을 다 읽기 전에는 절대 배를 인도하지 않겠다고 스스로 약속했어요.
+CAMILLE: Mathieu, ce n'est pas la bonne leçon. La bonne leçon, c'est de demander à qui appartient la page que tu ne vois pas. ||| 마티외, 그건 올바른 교훈이 아니에요. 올바른 교훈은 안 보이는 쪽이 누구의 것인지 묻는 거예요.
+MATHIEU: Je le note sur ma main. ||| 손에 적어 둘게요.
+MAYARD: Une chose, Monsieur Delorme. Le parquet de Kasra a clos le dossier hier soir. Ils parlent d'un « classement pour insuffisance de charges ». ||| 한 가지 있어요, 들로름 선생님. 카스라 검찰이 어젯밤 사건을 종결했습니다. '증거 불충분에 따른 종결'이라고 하더군요.
+JULIEN: C'est la formule qui permet à chacun de sauver la face. Acceptez-la. ||| 모두 체면을 지킬 수 있게 해 주는 문구예요. 받아들이세요.
+MAYARD: Et la pénalité ? ||| 위약금은요?
+JULIEN: Elle reste consignée jusqu'à la preuve des efforts. Vous aurez à prouver, pas à payer. C'est une grande différence. ||| 노력이 입증될 때까지 공탁 상태입니다. 당신들이 할 일은 지불이 아니라 입증이고, 그건 큰 차이죠.
+MAYARD: Nous avons un journal de chantier, jour par jour, avec les signatures des sous-traitants. Nous avons tout gardé. ||| 공사 일지가 있습니다. 하루 단위로 하청업체 서명까지 다 있어요. 전부 보관했습니다.
+CAMILLE: Alors la page trois vous aura sauvés. ||| 그럼 세 번째 쪽이 당신들을 구한 거네요.
+MAYARD: C'est une drôle de chose. Je croyais que c'étaient les hommes qui sauvaient les hommes. ||| 이상한 일이에요. 사람이 사람을 구한다고 믿었는데.
+JULIEN: C'est le cas. Seulement, les hommes écrivent des pages, et les pages restent. ||| 그렇습니다. 다만 사람들이 쪽을 쓰고, 쪽이 남는 거죠.
+NADIA: Je vous dois une explication. Ma sœur m'a demandé : « Qu'est-ce que tu as fait pour que ce soit fini ? » Je ne savais pas quoi répondre. ||| 설명을 드려야 해요. 언니가 '끝나게 하려고 네가 뭘 했어?'라고 물었는데 대답을 못 했어요.
+JULIEN: Répondez : « J'ai attendu qu'on lise. » C'est exact et c'est suffisant. ||| '누가 읽어 주기를 기다렸어'라고 답하세요. 정확하고 충분합니다.
+MATHIEU: Je peux dire une dernière chose ? Quand ils m'ont donné mon passeport à la grille, le garde m'a dit : « Bonne chance pour votre bateau. » Je crois qu'il l'a pensé. ||| 마지막으로 한마디 해도 될까요? 정문에서 여권을 돌려줄 때 경비원이 '배 잘되길 빕니다'라고 했어요. 진심 같았어요.
+JULIEN: Je crois aussi. Les gardes sont rarement les derniers à comprendre. ||| 저도 그렇게 생각합니다. 경비는 이해가 가장 늦은 사람인 경우가 드물죠.
++ classement pour insuffisance de charges = 증거 불충분 종결. 법정 선고 없이 사건을 닫는 완곡한 공식 표현
++ sauver la face = 체면을 지키다. 외교 합의의 문구가 맡는 역할
++ prouver, pas payer = 입증하되 지불하지는 않는다. 공탁 아래 증명 책임이 이동한 상황
++ ne pas être assez grand = (말이) 작다, 충분히 크지 않다. 감사 표현의 과장을 거두는 대화
++ se promettre de + inf. = 스스로 ~하겠다고 다짐하다. 대명동사 pronominal 구문
++ rester patient = 참을성 있게 기다리다. 쌓인 메시지에 대한 위로 표현
++ journal de chantier = 공사 일지. 노력 의무의 증거가 되는 문서
+
+## 사직서 — LA LETTRE DE LEFORT
+LEFORT: Entrez, Julien. Je range mon bureau. C'est étonnant comme on met du temps à rendre ce qu'on a mis du temps à se faire donner. ||| 들어오세요, 쥘리앵. 사무실을 정리하는 중입니다. 받는 데 오래 걸린 것은 돌려주는 데도 오래 걸리더군요.
+JULIEN: Vous avez remis votre lettre au ministre ? ||| 장관님께 사직서는 내셨습니까?
+LEFORT: Hier à seize heures. Il l'a lue debout, sans s'asseoir. Il m'a dit : « Je n'accepte pas votre démission, je l'enregistre. » ||| 어제 오후 네 시에요. 장관님은 선 채로 읽으셨습니다. '당신의 사직을 수락하지 않습니다, 기록할 뿐입니다'라고 하시더군요.
+JULIEN: La nuance est jolie. ||| 뉘앙스가 곱네요.
+LEFORT: C'est un homme qui sait distinguer ce qu'il reçoit de ce qu'il approuve. Je l'ai toujours envié. ||| 받는 것과 승인하는 것을 구별할 줄 아는 분이죠. 늘 부러웠습니다.
+JULIEN: Vous voulez me montrer la lettre ? ||| 그 편지를 보여 주시겠습니까?
+LEFORT: Je n'avais pas l'intention de la montrer. Mais lisez. Elle tient en quatre lignes. ||| 보여 줄 생각은 없었습니다. 하지만 읽어 보세요. 네 줄입니다.
+JULIEN: « Monsieur le ministre, j'ai connu en mars de l'année dernière l'existence d'une lettre annexe dont je n'ai pas cherché la teneur. Je demande à être relevé de mes fonctions. » ||| '장관님, 저는 작년 3월 부속 서한의 존재를 알았으나 그 내용을 알아보지 않았습니다. 직책에서 물러나기를 요청합니다.'
+LEFORT: Le mot important est « teneur ». Il ne dit pas « contenu ». La teneur, c'est ce qui tient. Je n'ai pas cherché ce qui tenait. ||| 중요한 단어는 'teneur'입니다. 'contenu'(내용)가 아니에요. 'teneur'는 버티는 것을 뜻하죠. 저는 버티고 있는 것이 무엇인지 찾지 않았습니다.
+JULIEN: Ce n'est pas une démission d'honneur. C'est une démission de précision. ||| 명예 사직이 아니라 정확성의 사직이군요.
+LEFORT: Je vous remercie. Quatre lignes, c'est ce que mon talent permet. Un jour, un historien comptera les mots. ||| 고맙습니다. 제 재능으로는 네 줄이 한계입니다. 언젠가 역사가가 단어를 셀 겁니다.
+JULIEN: Monsieur Lefort, je vais être entendu jeudi par la commission des affaires étrangères. Je veux que vous sachiez ce que j'y dirai. ||| 르포르 실장님, 저는 목요일 외교위원회에 출석합니다. 거기서 무엇을 말할지 알려 드리고 싶습니다.
+LEFORT: Vous n'y êtes pas obligé. ||| 그러실 의무는 없습니다.
+JULIEN: Justement. J'y dirai que j'ai utilisé un moyen que le ministère n'a pas autorisé. Un relevé bancaire. ||| 그래서 말씀드립니다. 저는 부처가 허가하지 않은 수단을 썼다고 진술할 겁니다. 은행 거래 내역이요.
+LEFORT: Vous le savez bien : le dire, c'est vous exposer. Vous aurez un blâme, ou pire. ||| 잘 아시지 않습니까. 밝히면 자신을 노출하는 겁니다. 견책이든 더 나쁜 처분이든 받으실 거예요.
+JULIEN: Je le sais. Mais j'ai demandé aux autres de lire jusqu'au bout. Je ne peux pas laisser une page de ce dossier sans être lue. ||| 압니다. 하지만 저는 다른 사람들에게 끝까지 읽으라고 요구했어요. 이 서류에 읽히지 않은 쪽을 남겨 둘 수는 없습니다.
+LEFORT: C'est une position que je n'ai pas eue. Je m'en voudrai jusqu'à ma mort de ne pas l'avoir eue. ||| 제게는 없던 입장이군요. 저는 평생 그걸 갖지 못한 것을 자책할 겁니다.
+JULIEN: Vous n'êtes pas encore mort, Monsieur Lefort. ||| 아직 돌아가시지 않았잖습니까, 실장님.
+LEFORT: C'est vrai. C'est même mon principal avantage sur les historiens. Allez, Julien. Et dites à Valcourt que, pour le chaource, j'avoue tout. ||| 맞는 말이네요. 역사가들에 대한 저의 가장 큰 이점이죠. 가세요, 쥘리앵. 그리고 발쿠르에게 전해 주세요. 샤우르스에 관해서는 모두 자백한다고.
+JULIEN: Il le saura. Il en rira longtemps. ||| 전하겠습니다. 오래 웃으실 겁니다.
++ relever quelqu'un de ses fonctions = ~를 직책에서 해임하다. 사직 요청에서 쓰는 공식 동사
++ la teneur d'une lettre = 서한의 요지, 내용. 르포르가 contenu와 구분하는 어휘
++ enregistrer une démission = 사직을 접수하다. 수락(accepter)과 구별되는 행정 용어
++ s'exposer = 자신을 노출시키다. 위험에 몸을 내놓는 행위
++ s'en vouloir = 자책하다. 스스로를 원망하다
++ Je ne peux pas laisser une page sans être lue. = 읽히지 않은 쪽을 남겨 둘 수 없다. 쥘리앵의 투명성 원칙
++ un blâme = 견책. 공무원 징계 중 가벼운 처분
+
+## 청문회 — L'AUDITION
+MARCHAL: Mesdames et messieurs les députés, la séance est ouverte. Nous entendons ce matin M. Julien Delorme, directeur adjoint de la Mission de médiation et d'arbitrage au ministère de l'Europe et des Affaires étrangères. ||| 의원 여러분, 개회합니다. 오늘 아침에는 유럽·외교부 중재조정실의 쥘리앵 들로름 부실장을 청취합니다.
+JULIEN: Madame la présidente, je vous remercie. Je voudrais, avant vos questions, faire une déclaration. ||| 위원장님, 감사합니다. 질문을 받기 전에 먼저 진술하고 싶습니다.
+MARCHAL: Faites. Vous disposez de dix minutes. ||| 하세요. 십 분 드립니다.
+JULIEN: Il n'en faudra que cinq. Pendant l'affaire des ingénieurs de la société « Chantiers de l'Estuaire », j'ai reçu d'un service de l'État un document qui ne m'a pas été remis par la voie ordinaire. Un relevé bancaire. ||| 오 분이면 됩니다. 조선소 기술자 사건 중에 저는 국가 기관 한 곳에서 정상 경로로 전달되지 않은 문서를 받았습니다. 은행 거래 내역이었습니다.
+LENOIR: Madame la présidente, je demande que l'on précise la nature de ce document. S'agit-il d'une pièce obtenue par des moyens illégaux ? ||| 위원장님, 그 문서의 성격을 밝혀 줄 것을 요구합니다. 불법적인 수단으로 얻은 자료입니까?
+JULIEN: Je ne peux pas qualifier juridiquement un moyen que je n'ai pas employé moi-même. Ce que je peux dire, c'est qu'il n'avait pas fait l'objet d'une autorisation. ||| 제가 직접 쓰지 않은 수단을 법적으로 규정할 수는 없습니다. 말씀드릴 수 있는 건 그것이 허가를 거친 것이 아니었다는 점입니다.
+LENOIR: Et vous l'avez gardé ? ||| 그리고 보관하셨습니까?
+JULIEN: Non. J'ai posé quatre règles. Ne pas en divulguer l'existence. Ne le citer dans aucune procédure, qu'elle soit commission, tribunal ou presse. Ne pas le montrer à l'autre partie. Et ne pas le conserver : je l'ai lu une page, et je l'ai rendu. ||| 아닙니다. 네 가지 규칙을 세웠습니다. 존재를 알리지 않는다. 위원회든 법원이든 언론이든 어떤 절차에도 인용하지 않는다. 상대측에 보여 주지 않는다. 그리고 보관하지 않는다. 한 쪽만 읽고 돌려주었습니다.
+LENOIR: Alors pourquoi nous en parlez-vous aujourd'hui, si vous n'avez rien fait de ce document ? ||| 그 문서로 아무것도 하지 않으셨다면 오늘 왜 그 얘기를 하십니까?
+JULIEN: Parce que savoir est déjà un acte. J'ai lu cette page, et je n'ai pas pu ne pas l'avoir lue. Elle a orienté une question que j'ai posée ensuite, par écrit, à la partie adverse. ||| 안다는 것 자체가 이미 행위이기 때문입니다. 저는 그 쪽을 읽었고, 읽지 않은 상태로 돌아갈 수는 없었습니다. 그것이 이후 상대측에 서면으로 던진 질문의 방향을 정했습니다.
+MARCHAL: Vous dites que la question n'a pas utilisé le document. Mais elle en est née. ||| 질문이 문서를 사용하지는 않았지만 거기서 나왔다는 말씀이시군요.
+JULIEN: Précisément, Madame la présidente. La question était publique et vérifiable. Son origine ne l'était pas. Je vous dois cette différence. ||| 정확합니다, 위원장님. 질문은 공개되어 있고 검증할 수 있었지만 출처는 그렇지 않았습니다. 그 차이를 위원회에 빚지고 있습니다.
+LENOIR: Qui vous a remis ce relevé ? Je demande le nom. ||| 누가 그 내역을 건넸습니까? 이름을 요구합니다.
+JULIEN: Je ne le donnerai pas. Un service de l'État. Si la commission veut interroger ce service, elle le peut par ses voies. Le nom d'un agent n'est pas à moi. ||| 말하지 않겠습니다. 국가 기관 한 곳입니다. 위원회가 그 기관을 조사하려면 정해진 경로로 하실 수 있습니다. 요원의 이름은 제 것이 아닙니다.
+LENOIR: C'est un refus de répondre. ||| 답변 거부입니다.
+JULIEN: C'est une limite. J'accepte d'en répondre devant vous, devant l'Inspection générale et devant le ministre. Je n'accepte pas d'en faire répondre quelqu'un d'autre. ||| 한계입니다. 위원회와 감찰, 장관님 앞에서 책임을 지겠습니다. 다른 사람이 대신 책임지게 하지는 않겠습니다.
+MARCHAL: Monsieur Lenoir, je crois que nous avons la réponse. M. Delorme, une question de la présidence. Pourquoi avoir pris un risque qui ne vous était pas demandé ? ||| 르누아르 의원님, 답은 나온 듯합니다. 들로름 씨, 위원장으로서 묻습니다. 요구받지 않은 위험을 왜 감수하셨습니까?
+JULIEN: Parce que treize personnes étaient retenues à onze jours d'un jugement. Je ne dis pas que cela justifie tout. Je dis que cela a pesé. ||| 열세 명이 재판 열하루 전에 억류되어 있었기 때문입니다. 그것이 모든 것을 정당화한다는 말은 아닙니다. 다만 무게가 있었다는 말입니다.
+MARCHAL: Cela pèse, en effet. Mais le Parlement n'est pas là pour approuver les poids. Il est là pour s'assurer que quelqu'un les a pesés. ||| 무게가 있기는 하죠. 하지만 의회는 무게를 승인하러 있는 곳이 아닙니다. 누군가 달아 보았는지 확인하러 있는 곳입니다.
+JULIEN: C'est la plus juste définition de mon métier que j'aie entendue cette année. ||| 올해 들은 제 직업의 정의 중 가장 정확합니다.
+LENOIR: Monsieur Delorme, accepteriez-vous que la commission demande une sanction ? ||| 들로름 씨, 위원회가 처분을 요청하는 것도 받아들이시겠습니까?
+JULIEN: Elle en a le droit. Je demande seulement qu'elle soit proportionnée et qu'elle porte sur ce que j'ai fait, non sur ce que la décision a permis d'éviter. ||| 그럴 권리가 있으십니다. 다만 처분이 비례적이어야 하고, 제가 한 일에 대한 것이어야 하며 그 결정이 막아 준 일에 대한 것이어서는 안 된다고 요청합니다.
+LENOIR: Ce serait pourtant la tentation : juger du résultat. ||| 그래도 결과로 판단하고 싶은 유혹이 있겠지요.
+JULIEN: C'est la tentation de tout le monde, monsieur le député. Si les treize avaient été condamnés, on m'aurait reproché de n'en avoir pas fait assez. Si j'avais échoué, on m'aurait reproché d'en avoir trop fait. Un mot choisi a un prix, quel que soit le résultat. ||| 모두의 유혹이지요, 의원님. 열세 명이 유죄가 됐다면 충분히 하지 않았다고 비난받았을 겁니다. 제가 실패했다면 너무 많이 했다고 비난받았겠지요. 고른 단어에는 결과와 상관없이 값이 있습니다.
+MARCHAL: Concluons. Monsieur Delorme, la commission prend acte de votre déclaration. Elle transmettra le dossier à l'Inspection générale des affaires étrangères. ||| 마무리합시다. 들로름 씨, 위원회는 진술을 기록합니다. 사건은 외무 감찰단에 이송됩니다.
+JULIEN: Je m'y présenterai le jour qu'elle voudra. ||| 감찰단이 원하는 날 출석하겠습니다.
+MARCHAL: J'en suis certaine. La séance est levée. ||| 확신합니다. 산회합니다.
+CAMILLE: Julien, tu as été très calme. Ta voix était plus basse que d'habitude. ||| 줄리앵, 아주 차분하던데. 평소보다 목소리가 낮았어.
+JULIEN: Quand j'ai peur, je parle plus exactement. C'est mon seul talent. ||| 무서우면 말이 더 정확해져. 내 유일한 재능이지.
+CAMILLE: Tu avais peur ? ||| 무서웠어?
+JULIEN: Camille, l'honnêteté n'est jamais gratuite. Je viens de payer la première mensualité. ||| 카미유, 정직은 절대 공짜가 아니야. 방금 첫 할부금을 낸 거야.
++ prendre acte de = ~을 기록해 두다, 인정하다. 위원회가 진술을 접수하는 공식 표현
++ en répondre / répondre de = ~에 대해 책임지다. répondre à(대답하다)와 구별한다
++ porter sur = ~에 관한 것이다. 처분의 대상을 한정하는 구문
++ quel que soit le résultat = 결과가 어떠하든. quel que + subj. 양보 구문
++ Savoir est déjà un acte. = 안다는 것 자체가 이미 행위다. 쥘리앵의 윤리적 요지
++ la séance est levée = 산회한다. 회의를 마칠 때의 공식 선언
++ proportionné(e) = 비례적인. 처분의 균형을 가리키는 징계법의 개념
++ la première mensualité = 첫 월 할부금. 쥘리앵의 비유로, 정직의 값이 분할 납부된다는 뜻
+## 네 번째 점심 — LE QUATRIÈME DÉJEUNER
+HÉLÈNE: Vous êtes à l'heure. C'est inquiétant. Je m'attendais à ce que vous soyez en retard, comme tous ceux qui ont une dette. ||| 시간에 맞춰 오셨네요. 불안하군요. 빚진 사람은 다 늦게 오는 줄 알았는데.
+JULIEN: Je suis en avance. Une dette, ça se paie ponctuellement, sinon elle grossit. ||| 일찍 왔습니다. 빚은 제때 갚아야죠. 안 그러면 불어나니까요.
+HÉLÈNE: Ma foi, on dirait un banquier. Asseyez-vous. J'ai pris la table du fond, celle que le serveur appelle « la table des gens qui n'ont rien à dire ». ||| 세상에, 은행가 같은 말씀이시네요. 앉으세요. 안쪽 테이블을 잡았어요. 종업원이 '할 말 없는 사람들의 테이블'이라고 부르는 곳이죠.
+JULIEN: Et nous, nous avons quelque chose à dire ? ||| 그런데 우리는 할 말이 있나요?
+HÉLÈNE: Moi, oui. Vous, vous avez surtout beaucoup à payer. Je vous ai écouté ce matin. À la radio, évidemment, je n'étais pas dans la salle. ||| 저는 있죠. 당신은 지불할 게 많고요. 오늘 아침 청문회 들었어요. 방에 있진 않았고 라디오로요.
+JULIEN: Je n'ai pas donné votre nom. ||| 당신 이름은 말하지 않았습니다.
+HÉLÈNE: Je sais. Vous avez dit « un service de l'État ». La moitié de la commission a compris, l'autre moitié a fait semblant. J'en suis restée sans voix, et je ne suis pas souvent sans voix. ||| 알아요. '국가 기관 한 곳'이라고 하셨죠. 위원회 절반은 알아들었고 나머지 절반은 모르는 척했어요. 말문이 막혔어요. 저는 말문이 막히는 일이 별로 없는데.
+JULIEN: C'est une phrase que je n'étais pas prêt à entendre de vous. ||| 당신에게서 들을 줄 몰랐던 말이군요.
+HÉLÈNE: Moi non plus, à vrai dire. Commandons. Je prends la blanquette. ||| 저도 그래요, 솔직히. 주문하죠. 저는 블랑케트로 할게요.
+JULIEN: La blanquette de veau, à l'ancienne. Et pour moi, un œuf cocotte. Simple, pour que l'addition reste digne. ||| 송아지 블랑케트, 옛날 방식으로요. 저는 달걀 코코트로 하겠습니다. 계산서가 점잖게 나오도록 단순하게요.
+HÉLÈNE: Vous plaisantez encore, c'est bon signe. Julien, je vais vous dire pourquoi je vous ai invité à cette table, et ce n'est pas pour la blanquette. ||| 아직도 농담을 하시니 좋은 신호네요. 쥘리앵, 왜 이 테이블로 초대했는지 말씀드릴게요. 블랑케트 때문은 아닙니다.
+JULIEN: Je vous écoute. ||| 듣고 있습니다.
+HÉLÈNE: Ce que j'ai remis dans l'enveloppe de la brasserie, il y a trois semaines, était la moitié du dossier. L'autre moitié est arrivée la semaine dernière. J'ai décidé de vous la donner. ||| 3주 전 브라스리에서 봉투로 건넨 건 서류의 절반이었어요. 나머지 절반이 지난주에 도착했고, 당신에게 주기로 했어요.
+JULIEN: Hélène, je vous ai dit les règles. Je n'utiliserai pas... ||| 엘렌, 규칙을 말씀드렸죠. 저는 쓰지 않을...
+HÉLÈNE: Je sais les règles. Celle-ci, vous n'avez pas besoin de l'utiliser. Vous avez seulement besoin de la savoir. Je vous donne un nom, non une pièce. ||| 규칙 알아요. 이건 쓸 필요가 없어요. 알기만 하면 돼요. 서류가 아니라 이름 하나를 드리는 거예요.
+JULIEN: Un nom. ||| 이름이요.
+HÉLÈNE: V.A. Vous avez cherché les deux lettres pendant onze jours. Elles s'écrivent « Valois ». Valois Advisory. ||| V.A. 두 글자를 열하루 동안 찾으셨죠. 'Valois'로 시작해요. Valois Advisory.
+JULIEN: Valois. Comme la dynastie. ||| 발루아. 왕조 이름 그대로군요.
+HÉLÈNE: Comme la dynastie, comme le goût du faste, comme le nom qu'on choisit quand on veut avoir l'air d'une maison ancienne. Cabinet de conseil, enregistré à Luxembourg, bureaux discrets à Londres. ||| 왕조처럼, 화려함에 대한 취향처럼, 오래된 가문처럼 보이고 싶을 때 고르는 이름이죠. 컨설팅 사무소, 룩셈부르크 등록, 런던에 조용한 사무실이 있어요. 
+JULIEN: Et ce cabinet a facturé tout le monde. L'ancien traducteur, le lobbyiste, le ministre des Finances de Kasra. ||| 그리고 그 사무소가 전부에게 청구했군요. 옛 번역사, 로비스트, 카스라 재무장관에게.
+HÉLÈNE: Tous les trois. Chacun pour un morceau du dossier, jamais le même. Une page ici, une page là. ||| 셋 모두요. 서류의 한 조각씩, 같은 조각은 절대 아니고. 여기 한 쪽, 저기 한 쪽.
+JULIEN: C'est un cabinet qui vend des pages. ||| 쪽을 파는 사무소로군요.
+HÉLÈNE: Qui vend l'absence d'une page. C'est plus rentable. ||| 쪽의 부재를 파는 곳이죠. 그게 더 수익이 나요.
+JULIEN: Et Lefort ? ||| 르포르는요?
+HÉLÈNE: Pas client. Je n'ai rien trouvé qui le lie à eux, sinon sa propre phrase : « Je préfère ne pas savoir. » Quelqu'un lui a offert cette ignorance, sans la facturer. ||| 고객이 아니에요. 그와 그들을 잇는 건 그 자신의 문장뿐이었어요. '알고 싶지 않다'. 누군가 그 무지를 청구서 없이 제공한 거죠.
+JULIEN: C'est la plus chère de toutes. ||| 가장 비싼 거로군요.
+HÉLÈNE: Elle le sera. Maintenant le prix de ma confidence : vous n'y toucherez pas pendant quinze jours. Ni la presse, ni la commission, ni votre ministre. Je vous demande du temps. ||| 비싸질 거예요. 이제 제 고백의 대가입니다. 보름 동안은 건드리지 마세요. 언론도, 위원회도, 장관도요. 시간을 달라는 겁니다.
+JULIEN: Pourquoi ? ||| 왜죠?
+HÉLÈNE: Parce que Valois Advisory a ouvert un dossier de plus, il y a un mois. Pour un client dont je ne peux pas encore dire le nom. Un pays voisin d'un de nos territoires d'outre-mer. ||| Valois Advisory가 한 달 전에 건수를 하나 더 열었어서요. 아직 이름을 말할 수 없는 고객인데, 우리 해외 영토 하나와 인접한 나라예요.
+JULIEN: Un territoire d'outre-mer. Lequel ? ||| 해외 영토라니. 어느 곳이죠?
+HÉLÈNE: Vous le saurez quand j'aurai moi-même terminé de le comprendre. Mangez votre œuf, il refroidit. ||| 제가 이해를 끝내면 알게 될 거예요. 달걀 드세요, 식어요.
+JULIEN: Hélène, vous me demandez un silence. Je viens de passer la matinée à promettre la transparence. ||| 엘렌, 침묵을 요구하시네요. 저는 오전 내내 투명성을 약속했는데요.
+HÉLÈNE: Je vous demande un délai, pas un silence. C'est une nuance, et vous savez ce que les nuances coûtent. ||| 침묵이 아니라 유예를 요구하는 거예요. 뉘앙스고, 뉘앙스가 얼마나 비싼지 아시잖아요.
+JULIEN: Quinze jours. Et si le dossier avance sans moi ? ||| 보름이요. 서류가 저 없이 진행되면요?
+HÉLÈNE: Alors vous aurez un cinquième déjeuner. Je suis une créancière patiente. ||| 그럼 다섯 번째 점심이 생기겠죠. 저는 참을성 있는 채권자거든요.
+JULIEN: Un cinquième. Mon portefeuille ne s'en remettra pas. ||| 다섯 번째라니. 제 지갑이 못 견딜 겁니다.
+HÉLÈNE: Votre portefeuille est solide. C'est votre conscience qui est inflationniste. ||| 지갑은 튼튼해요. 인플레이션이 심한 건 당신의 양심이죠.
++ ne pas être prêt à entendre = 들을 준비가 안 되어 있다. 예상 못 한 고백에 대한 반응
++ restée sans voix = 말문이 막힌. rester sans voix는 놀람의 관용구
++ une maison ancienne = 오래된 가문, 유서 깊은 회사. 이름으로 권위를 사는 컨설팅의 이미지
++ vendre l'absence d'une page = 한 쪽의 부재를 판다. Valois의 사업 모델에 대한 엘렌의 정의
++ un délai, pas un silence = 유예이지 침묵이 아니다. 뉘앙스 구분의 마지막 예
++ une créancière patiente = 참을성 있는 채권자. créancier는 채권자, débiteur는 채무자
++ inflationniste = 인플레이션을 일으키는. 양심이 값을 올린다는 엘렌의 말
+
+## 값의 사전 — LE DICTIONNAIRE DU PRIX
+LÉA: Papa, regarde ce que j'ai trouvé dans le dictionnaire. « Prix : valeur d'une chose, évaluée en argent. » Mais aussi : « Récompense, distinction. » ||| 아빠, 사전에서 이런 걸 찾았어요. 'Prix: 어떤 것의 가치를 돈으로 평가한 것.' 그리고 '상, 포상'이라는 뜻도 있어요.
+JULIEN: Le prix et le Prix. Deux mots pour un seul sens, ou un seul mot pour deux sens ? ||| 가격과 상이라. 두 단어가 한 뜻인 걸까, 한 단어가 두 뜻인 걸까?
+LÉA: C'est exactement ma question de philosophie. Si une chose n'a pas de prix, est-ce qu'elle a une valeur ? ||| 정확히 제 철학 질문이에요. 값이 없는 것에도 가치가 있을까요?
+JULIEN: Kant dirait que la dignité n'a pas de prix, justement parce qu'on ne peut pas l'échanger. ||| 칸트라면 존엄은 교환할 수 없으니 값이 없다고 했겠지.
+LÉA: Mais papa, tu viens de me dire que la nuance a un prix. Alors la nuance n'est pas la dignité ? ||| 그런데 아빠는 방금 뉘앙스에는 값이 있다고 했잖아요. 그럼 뉘앙스는 존엄이 아닌가요?
+VALCOURT: Permettez-moi d'intervenir, mademoiselle. Je suis arrivé en retard, mais je n'arrive jamais sans arguments. ||| 끼어들어도 되겠소, 아가씨. 늦게 왔지만 논거 없이 오는 법은 없소.
+JULIEN: Monsieur l'ambassadeur ! Vous êtes en avance sur mon propre dîner. ||| 대사님! 제 저녁 식사보다도 먼저 오셨군요.
+VALCOURT: J'ai pensé qu'une longue journée se conclut mieux avec un chariot qu'avec un discours. Léa, c'est toi ? Tu as grandi depuis l'été. ||| 긴 하루는 연설보다 카트로 마무리하는 게 낫다고 생각했지. 레아, 너로구나. 여름 이후로 컸구나.
+LÉA: Bonsoir, monsieur. Papa dit que vous êtes l'homme le plus patient de Paris. ||| 안녕하세요. 아빠가 파리에서 제일 참을성 있는 분이라고 하셨어요.
+VALCOURT: Il exagère. Je suis seulement l'homme le plus lent. Regarde ce que je t'ai apporté : un époisses de Bourgogne, un vacherin du Mont-d'Or, un brillat-savarin, un cantal entre-deux, et un roquefort que ton père n'aime pas. ||| 과장이야. 가장 느린 사람일 뿐이지. 가져온 걸 보렴. 부르고뉴 에푸아스, 몽도르 바슈랭, 브리야사바랭, 중간 숙성 캉탈, 그리고 네 아버지가 안 좋아하는 로크포르다.
+JULIEN: Je n'ai jamais dit cela. J'ai dit qu'il avait une personnalité exigeante. ||| 그런 말은 한 적 없습니다. 까다로운 성격이라고 했죠.
+VALCOURT: C'est ce que dit un homme qui n'aime pas un fromage. Léa, tu vois ce chariot ? Chaque fromage a un prix. Le plus cher n'est pas toujours le meilleur. Mais le meilleur, lui, a toujours coûté du temps. ||| 치즈를 안 좋아하는 사람이 하는 말이지. 레아, 이 카트 보이니? 치즈마다 값이 있단다. 가장 비싼 게 항상 가장 좋은 건 아니야. 하지만 가장 좋은 건 언제나 시간을 치렀지.
+LÉA: Alors le prix, c'est le temps qu'on paie ? ||| 그럼 값이란 우리가 치른 시간인가요?
+VALCOURT: Le prix, c'est ce qu'on a accepté de perdre pour que la chose existe. Un fromage perd du lait, un contrat perd un peu de liberté, un mot perd d'autres mots possibles. ||| 값이란 그것이 존재하도록 우리가 잃기로 받아들인 거란다. 치즈는 우유를 잃고, 계약은 자유를 조금 잃고, 한 단어는 다른 가능한 단어들을 잃지.
+CAMILLE: Monsieur l'ambassadeur, c'est exactement ce qui s'est passé avec « engagement ». Le mot choisi a perdu « obligation », et c'est ce qui l'a rendu dangereux. ||| 대사님, 'engagement'에서 정확히 그런 일이 벌어졌어요. 고른 단어가 'obligation'을 잃었고, 그래서 위험해졌죠.
+VALCOURT: Et c'est ce qui l'a rendu précieux, pour ceux qui voulaient le garder ambigu. Il y a toujours quelqu'un qui profite du mot choisi. Le diplomate, lui, répond de ce qu'il a choisi. ||| 그리고 애매하게 두고 싶은 사람들에게는 그 때문에 귀했지. 고른 단어로 이득을 보는 사람은 늘 있어. 외교관은 자신이 고른 것에 책임을 지는 사람이고.
+LÉA: Il répond. C'est un verbe bizarre. Répondre à, répondre de. Ce n'est pas pareil. ||| '답하다'. 이상한 동사예요. répondre à와 répondre de는 같지 않아요.
+VALCOURT: Bravo. Répondre à, c'est donner une réponse. Répondre de, c'est offrir sa personne en garantie. Voilà l'éthique de responsabilité : on ne répond pas seulement à une question, on répond d'une conséquence. ||| 잘했다. répondre à는 대답을 주는 것이고 répondre de는 자기 자신을 담보로 내놓는 거야. 이게 책임 윤리란다. 질문에만 답하는 게 아니라 결과에 책임을 지는 거지.
+LÉA: Monsieur Weber, en cours de philo, on en a parlé : éthique de conviction et éthique de responsabilité. ||| 철학 수업에서 베버 선생님 얘기를 했어요. 신념 윤리와 책임 윤리요.
+VALCOURT: Max Weber, en 1919, à Munich. Il disait que la conviction ne regarde que son propre geste, et que la responsabilité regarde aussi ce qui en résulte. Un diplomate français ne peut pas se permettre le premier luxe sans le second. ||| 막스 베버, 1919년 뮌헨에서였지. 신념은 자기 행동만 보고 책임은 그 결과까지 본다고 했단다. 프랑스 외교관은 책임 없이 신념의 사치를 누릴 수 없소.
+LÉA: Alors, monsieur, dites-moi ce qu'on paie, et je vous dirai qui on est. ||| 그럼 선생님, 무엇을 치르는지 말해 주세요. 우리가 누구인지 말해 줄게요.
+VALCOURT: Voilà qui est excellent. Julien, tu as une fille qui se débrouille mieux que toi dans les maximes. ||| 훌륭하구나. 쥘리앵, 자네 딸은 격언을 자네보다 잘 다루는군.
+JULIEN: Elle tient cela de sa mère. ||| 엄마를 닮았어요.
+LÉA: Papa, qu'est-ce que tu as payé, cette semaine ? ||| 아빠, 이번 주에 뭘 치렀어요?
+JULIEN: Un blâme, probablement. Du temps de repos. Un déjeuner ou deux. Et la tranquillité d'un homme qui n'a jamais dû rendre de comptes. ||| 아마 견책이겠지. 쉬는 시간. 점심 한두 번. 그리고 한 번도 책임을 따진 적 없는 사람의 평온함이고.
+LÉA: C'est cher. ||| 비싸네요.
+JULIEN: Non. C'est juste. Il y a une différence, tu me l'as appris : le cher se discute, le juste se paie. ||| 아니, 정당하단다. 차이가 있어. 네가 가르쳐 줬지. 비싼 건 흥정할 수 있지만 정당한 건 치르는 거라고.
+LÉA: Je n'ai jamais dit ça. ||| 그런 말 한 적 없는데요.
+JULIEN: Tu l'as pensé tellement fort que je l'ai entendu. ||| 네가 너무 강하게 생각해서 내가 들었지.
+CAMILLE: Je prends un peu de vacherin, si personne n'y voit d'inconvénient. Ce qui m'étonne, c'est qu'on s'est trompés deux fois en une seule semaine. ||| 바슈랭을 조금 먹을게요, 반대하는 사람 없으면요. 놀라운 건 일주일에 우리가 두 번이나 틀렸다는 거예요.
+JULIEN: Deux fois ? ||| 두 번이나?
+CAMILLE: La première en croyant que la page trois était perdue. La seconde en croyant qu'elle ne coûtait rien. ||| 첫 번째는 세 번째 쪽이 사라졌다고 믿은 거고, 두 번째는 그게 아무 대가도 없다고 믿은 거예요.
+VALCOURT: Voilà, mademoiselle Roussel. Vous venez de dire plus en une phrase que ce que Weber a mis trente pages à dire. ||| 바로 그거요, 루셀 양. 한 문장으로 베버가 서른 쪽에 걸쳐 한 말보다 많이 말했소.
+JULIEN: Monsieur l'ambassadeur, puis-je vous demander quelque chose ? ||| 대사님, 하나 여쭤도 될까요?
+VALCOURT: Je vous écoute, mon ami. ||| 말해 보게, 친구.
+JULIEN: Valois. Cela vous dit quelque chose ? ||| 발루아. 짚이는 게 있으십니까?
+VALCOURT: Valois. Évidemment. C'est le nom de la dynastie qui a régné de 1328 à 1589, de Philippe VI à Henri III. Mais vous me demandez quelque chose de plus précis, n'est-ce pas ? ||| 발루아라. 물론이지. 1328년부터 1589년까지 필리프 6세에서 앙리 3세까지 통치한 왕조 이름이오. 하지만 더 구체적인 걸 묻는 거겠지?
+JULIEN: Un cabinet de conseil qui porte ce nom. À Luxembourg. ||| 그 이름을 쓰는 컨설팅 사무소입니다. 룩셈부르크에 있고요.
+VALCOURT: Alors prenez garde. Les Valois ont fini par s'éteindre sans héritier. Quelqu'un qui prend ce nom veut peut-être qu'on oublie qu'il n'a pas d'héritage. ||| 그럼 조심하게. 발루아 왕조는 후계자 없이 끝났지. 그 이름을 쓰는 사람은 자기에게 유산이 없다는 걸 잊게 하고 싶은지도 모르오.
+CAMILLE: Vous en savez plus que vous ne dites. ||| 말씀하시는 것보다 더 아시는 것 같아요.
+VALCOURT: Je sais toujours plus que je ne dis. C'est ce qu'on appelle un âge. Servez-vous de fromage, il faut manger avant que l'histoire ne commence. ||| 나는 말하는 것보다 늘 더 알지. 그걸 나이라고 하오. 치즈를 드시게, 역사가 시작되기 전에 먹어 둬야 하니까.
+JULIEN: Avant que l'histoire ne commence. Nous sommes donc encore au début. ||| 역사가 시작되기 전이라. 그럼 우리는 아직 시작 단계인가요.
+VALCOURT: Nous sommes toujours au début, Julien. C'est ce qui rend la fin si difficile à écrire. ||| 우리는 언제나 시작이라네, 쥘리앵. 그래서 끝을 쓰기가 그렇게 어렵지.
+LÉA: Papa, je peux goûter le roquefort ? ||| 아빠, 로크포르 먹어 봐도 돼요?
+JULIEN: Il est amer, Léa. ||| 쓰단다, 레아.
+LÉA: Alors c'est le bon moment, non ? ||| 그럼 지금이 딱 좋은 때 아니에요?
+VALCOURT: Voilà une jeune personne qui comprend le prix. Julien, trinquons. Aux nuances. ||| 값을 아는 젊은이로구나. 쥘리앵, 건배하세. 뉘앙스를 위하여.
+JULIEN: Aux nuances, et à ceux qui les paient. ||| 뉘앙스와, 그 값을 치르는 사람들을 위하여.
++ répondre à / répondre de = ~에 답하다 / ~에 책임지다. 외교관의 책임 윤리를 가르는 두 구문
++ l'éthique de responsabilité = 책임 윤리. 막스 베버가 신념 윤리와 구분한 개념
++ le prix = 가격, 값어치, 상. 하나의 단어가 여러 의미를 갖는 예
++ se permettre un luxe = 사치를 부리다. 신념의 사치와 책임의 대가
++ prendre garde (à) = 조심하다. 발쿠르의 경고에 쓰인 관용구
++ avant que + ne explétif + subj. = ~하기 전에. 접속법과 허사 ne를 쓰는 시간 접속사
++ trinquer = 건배하다. 마지막 장면의 동사
++ le cher / le juste = 비싼 것 / 정당한 것. 값의 정당함을 따지는 구별

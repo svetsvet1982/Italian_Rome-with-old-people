@@ -1,0 +1,221 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 10
+@title Négocier sur un bateau
+@ko 배 위의 협상
+@setting 툴롱 군항의 부두와 프리깃함 «Aigue-Marine»(하루 동안): 현문 → 사관 식당 → 갑판 식탁(점심) → 뱃머리 → 후갑판의 저녁
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu, 상대가 있을 때는 vous
+@cast AL-FAROUQI | 이드리스 알 파루키, 카스라 외교차관, 61세. 몽펠리에에서 법학을 공부해 옛 프랑스어를 쓴다
+@cast ZIAD | 지아드 바라카트, 카스라 측 변호사, 47세
+@cast MORVAN | 오렐리앙 모르방, 프리깃함 «Aigue-Marine»의 함장(capitaine de vaisseau), 48세
+@cast PUJOL | 이방 퓌졸, 함정의 조리장(maître principal), 세트 출신, 44세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 10화입니다. 알 파루키는 '구두로, 그리고 바다 위에서' 답하겠다고 했고, 목요일 툴롱에서 쥘리앵과 카미유는 프리깃함 «Aigue-Marine» 갑판에서 하루 종일 협상합니다. 그가 바다를 고른 이유는 문서가 없고 전화가 안 터지고 서류를 든 중개인이 탈 수 없기 때문입니다. 아침의 공식 협상은 교착됩니다. 점심에 함정의 조리장이 내놓은 요리의 이름 «tielle»(세트의 문어 파이)에 알 파루키가 반응합니다. 몽펠리에 유학 시절 세트의 과부 생선 장수가 외상으로 먹여 주던 음식이기 때문입니다. 이 단어 하나로 분위기가 바뀌고, 그는 자신이 서명한 서한이 4쪽이었다는 사실과 영어로 먼저 쓰였다는 사실을 처음으로 시인합니다. 해법의 순간입니다. 역사 논거는 앙탕트 코르디알(Entente cordiale, 1904년 4월 8일 런던 조인)입니다. 1898년 파쇼다 위기 뒤 불과 6년 만에 외무장관 테오필 델카세는 영국과 이집트·모로코에 관한 교환(프랑스는 이집트에서의 경쟁을 접고 영국은 모로코에서 프랑스의 특수한 지위를 인정), 뉴펀들랜드 어업권과 서아프리카·시암·마다가스카르 등 여러 현안을 한 묶음으로 풀었습니다. 런던에서 조인한 사람은 프랑스 대사 폴 캉봉과 영국 외무장관 랜스다운 경이었습니다. 교훈은 '각자 덜 아끼는 것을 내주고 더 아끼는 것을 받는다'는 타협의 구조입니다. 어휘는 접속법(à moins que, pourvu que, bien que), 해상·요리 용어(passerelle, carré, tielle), 조건 표현(sous condition de, à charge de)에 주목하세요.
+@next 11화: 카스라가 약속한 원본이 위원회 테이블에 오릅니다. 세 판본을 정렬하자 영어 작업본이 원본이었고, 프랑스어 'engagement'는 노력 의무였음이 드러납니다.
+
+## 현문에서 — LA PASSERELLE
+CAMILLE: Il est sept heures quarante, le quai est désert et la frégate est blanche comme un cachet de cire. ||| 일곱 시 사십 분인데 부두는 텅 비었고 프리깃함은 봉인용 밀랍처럼 하얗네.
+JULIEN: Une frégate de guerre pour une négociation sur une lettre. Il n'a pas choisi le lieu par hasard. ||| 서한 하나 때문에 군함이라. 장소를 아무렇게나 고른 건 아니야.
+CAMILLE: Pas de papier, pas de réseau, pas d'intermédiaire. C'est le seul endroit où personne ne peut dire « j'ai reçu un courriel ». ||| 종이도 없고 통신도 안 되고 중개인도 못 오지. '이메일 받았어요' 하고 말할 사람이 아무도 없는 유일한 곳이야.
+JULIEN: Et sans lieu neutre, on négocie toujours sur le terrain de quelqu'un. Là, c'est celui de la mer. ||| 중립 장소가 없으면 늘 누군가의 홈에서 협상하게 되지. 여기는 바다의 홈이고.
+MORVAN: Monsieur le directeur adjoint, madame, bienvenue à bord. Capitaine de vaisseau Morvan, commandant l'Aigue-Marine. ||| 부실장님, 선생님, 승선을 환영합니다. 함장 모르방 대령, «Aigue-Marine» 지휘관입니다.
+JULIEN: Commandant, merci de nous accueillir. Je dois vous prévenir : nous ne sommes pas des marins. ||| 함장님, 맞아 주셔서 감사합니다. 미리 말씀드리지만 저희는 뱃사람이 아닙니다.
+MORVAN: Personne ne l'est le premier jour. La règle est simple : une main pour vous, une main pour le navire. ||| 첫날부터 뱃사람인 사람은 없습니다. 규칙은 간단합니다. 한 손은 자신을 위해, 한 손은 배를 위해 쓰는 겁니다.
+CAMILLE: On ne nous a pas demandé nos téléphones. ||| 휴대폰은 안 걷으시네요.
+MORVAN: Inutile. Au large de Porquerolles, ils ne servent à rien. Vous les gardez, vous les regarderez par habitude. ||| 필요 없습니다. 포르크롤 앞바다에서는 아무 소용이 없어서요. 갖고 계시면 습관처럼 쳐다보게 될 겁니다.
+JULIEN: Et la délégation de Kasra ? ||| 카스라 대표단은요?
+MORVAN: Arrivée à sept heures. Le vice-ministre est déjà sur la plage arrière, avec son avocat. Il m'a demandé de ne pas appareiller avant votre arrivée. ||| 일곱 시에 도착했습니다. 차관님은 이미 후갑판에서 변호사와 계십니다. 두 분이 오시기 전에는 출항하지 말라고 하셨어요.
+CAMILLE: Alors il a quelque chose à dire qui ne tient pas dans une heure. ||| 그럼 한 시간에 안 들어가는 할 말이 있다는 거네.
+AL-FAROUQI: Monsieur Delorme, soyez le bienvenu céans. Excusez-moi de vous recevoir sur un pont qui n'est ni le mien ni le vôtre. ||| 들로름 선생, 이곳에 오신 걸 환영합니다. 제 것도 당신 것도 아닌 갑판에서 맞이하는 걸 양해하시오.
+JULIEN: Monsieur le vice-ministre, c'est précisément ce qui fait son prix. ||| 차관님, 바로 그 점이 이곳의 값어치입니다.
+AL-FAROUQI: Voilà qui est bien dit. Vous avez lu ma lettre ? Je veux dire : vous avez lu la réponse que je n'ai pas écrite ? ||| 잘 말씀하셨소. 내 서한은 읽으셨소? 아니, 내가 쓰지 않은 답장을 읽으셨느냐는 말이오.
+JULIEN: J'ai lu votre silence sur le papier et votre invitation sur la mer. Les deux disent la même chose : vous ne voulez pas d'un écrit avant d'avoir parlé. ||| 종이 위의 침묵과 바다 위의 초대를 읽었습니다. 둘 다 같은 말이지요. 말을 나누기 전에 글을 쓰고 싶지 않으시다는 것.
+AL-FAROUQI: Exactement. Un écrit est une porte qui se ferme. Je préfère la tenir entrouverte jusqu'au soir. ||| 정확하오. 글은 닫히는 문이오. 저녁까지는 문을 조금 열어 두고 싶소.
+ZIAD: Monsieur Delorme, Ziad Barakat. Je suis chargé de prendre note de tout ce qui ne sera pas dit. ||| 들로름 선생, 지아드 바라카트입니다. 말해지지 않은 모든 것을 기록하는 게 제 일이지요.
+CAMILLE: Alors nous avons le même métier, Maître. Camille Roussel. ||| 그럼 같은 직업이네요, 변호사님. 카미유 루셀입니다.
+JULIEN: Une dernière précision avant de larguer les amarres : tout ce qui est dit aujourd'hui est dit sous condition, c'est-à-dire que rien n'engage personne avant le soir. ||| 닻줄을 풀기 전에 마지막으로 하나. 오늘 말하는 모든 것은 조건부입니다. 저녁 전에는 누구도 구속되지 않는다는 뜻이지요.
+AL-FAROUQI: Sous condition. Vous voyez, Monsieur Delorme, nous avons déjà trouvé notre premier mot commun. ||| 조건부라. 보시오, 들로름 선생, 벌써 첫 공통어를 찾았구려.
+JULIEN: Je préférerais qu'il ne soit pas le dernier. ||| 마지막 단어는 아니면 좋겠습니다.
+MORVAN: Mesdames et messieurs, nous appareillons. Dites adieu à la terre, elle ne vous poursuivra plus avant ce soir. ||| 여러분, 출항합니다. 땅에 작별 인사를 하세요. 오늘 저녁까지는 땅이 여러분을 쫓아오지 않을 겁니다.
++ céans = (옛말) 이곳에. 알 파루키의 고풍스러운 어휘, 현대 프랑스어에서는 거의 쓰이지 않는다
++ larguer les amarres = 닻줄을 풀다, 출항하다. 비유적으로 '관계를 끊다'
++ sous condition = 조건부로. 외교에서 비공식 대화를 열 때 쓰는 보호 장치
++ appareiller = 출항하다. 해군 용어, 일상 프랑스어에서는 partir
++ une main pour toi, une main pour le navire = 한 손은 너를, 한 손은 배를. 선원의 안전 수칙을 따온 표현
++ ce qui fait son prix = 그것의 값어치를 만드는 것. prix는 '가격'과 '가치' 둘 다 가리킨다
++ témoin = 증인. 문서 대신 바다를 증인으로 삼는다는 표현
+
+## 사관 식당의 아침 — LE CARRÉ, LE MATIN
+AL-FAROUQI: Commençons par ce qui nous sépare, cela évitera de faire semblant. Treize hommes et une femme... pardon, douze hommes et une femme sont retenus à Ras Safina. ||| 갈라진 점부터 시작합시다. 그래야 모르는 척하지 않아도 되니까. 남자 열세 명과 여자 한... 아니, 남자 열두 명과 여자 한 명이 라스 사피나에 억류되어 있소.
+JULIEN: Treize personnes, dont une femme. Vous venez de vous reprendre, Monsieur le vice-ministre. Pourquoi ? ||| 열세 명이고, 그중 한 명이 여성입니다. 방금 말을 고치셨죠, 차관님. 왜입니까?
+AL-FAROUQI: Parce que je compte mal quand je suis fatigué. Et parce que Mme Benaïssa vaut qu'on la nomme. ||| 피곤하면 계산이 틀리거든. 그리고 베나이사 씨는 이름을 불러 줄 만한 사람이니까.
+JULIEN: Alors parlons de ce qui nous sépare réellement : la phrase du 14 mars. Vous dites que la Société s'est obligée. Nous disons qu'elle s'est engagée. ||| 그럼 정말 갈라진 것을 얘기하죠. 3월 14일의 문장입니다. 차관님은 회사가 '의무를 졌다'고 하시고, 우리는 '약속했다'고 합니다.
+AL-FAROUQI: Et la différence, Monsieur Delorme, c'est une coque de plusieurs centaines de millions qui n'est pas arrivé à la date promise. ||| 그리고 그 차이가 약속한 날짜에 도착하지 않은 수억 유로짜리 선체요, 들로름 선생.
+ZIAD: Pour être précis, huit jours de retard et quatre-vingt-sept millions de pénalités, selon notre calcul. ||| 정확히 말씀드리면 8일 지연에 위약금 8,700만 유로입니다. 저희 계산으로는요.
+JULIEN: Le calcul suppose une obligation de résultat. Il faut d'abord établir que c'en est une. ||| 그 계산은 결과 의무를 전제합니다. 먼저 그것이 결과 의무임이 입증되어야 하죠.
+ZIAD: Elle l'est. L'arabe dit iltizām, et ce mot ne laisse aucune porte de sortie. ||| 그렇습니다. 아랍어로 iltizām이고, 이 단어는 빠져나갈 문을 남기지 않습니다.
+CAMILLE: Le mot arabe est une traduction. Le texte que la Société a signé ne contient pas ce mot. ||| 아랍어 단어는 번역입니다. 회사가 서명한 텍스트에는 그 단어가 없어요.
+ZIAD: Le texte que la Société a signé, Mademoiselle, contient un mot qu'elle a choisi : engagement. Et vous savez ce que vaut un engagement en droit français quand on ne l'a pas qualifié. ||| 회사가 서명한 텍스트에는 회사가 스스로 고른 단어, 즉 engagement가 있죠. 규정하지 않은 engagement가 프랑스 법에서 어떤 값인지 아실 텐데요.
+CAMILLE: Il vaut ce que la jurisprudence en fait : obligation de moyens ou de résultat selon le contexte. Il n'est pas muet. ||| 판례가 만드는 만큼의 값이죠. 맥락에 따라 수단 의무가 되기도 하고 결과 의무가 되기도 해요. 침묵하는 단어가 아닙니다.
+AL-FAROUQI: Contexte. Voilà un mot dangereux. Le contexte, c'est le mot que prononcent ceux qui n'ont pas gagné sur le texte. ||| 맥락이라. 위험한 단어요. 맥락이란 텍스트로는 이기지 못한 사람들이 하는 말이오.
+JULIEN: Ou ceux qui veulent le lire jusqu'au bout. Monsieur le vice-ministre, je ne suis pas venu défendre un mot. Je suis venu comprendre pourquoi vous avez fait de treize ingénieurs un argument. ||| 아니면 끝까지 읽으려는 사람이죠. 차관님, 저는 단어 하나를 변호하러 온 게 아닙니다. 왜 기술자 열세 명을 논거로 삼으셨는지 이해하러 왔어요.
+AL-FAROUQI: Un argument ? Ils sont retenus à la disposition de la justice. La justice de mon pays. ||| 논거라고? 그들은 사법 당국에 억류된 거요. 우리나라의 사법에.
+JULIEN: La justice qui siège dans quelques jours. Et dont le calendrier, par un heureux hasard, correspond à celui de vos pénalités. ||| 며칠 뒤에 열리는 그 사법 말이죠. 우연히도 위약금 일정과 딱 맞아떨어지는.
+AL-FAROUQI: Laissez, Maître. Il a raison de la poser. Mais je ne répondrai pas ici. Pas encore. ||| 놔두시오, 변호사. 질문할 만하오. 하지만 여기서, 아직은 대답하지 않겠소.
+CAMILLE: Alors nous voilà au même point qu'à Bruxelles : tout le monde veut lire, personne ne veut conclure. ||| 그럼 브뤼셀과 같은 지점이네요. 읽고 싶어 하는 사람은 많은데 결론짓고 싶은 사람은 없어요.
+AL-FAROUQI: Mademoiselle Roussel, à Bruxelles on a fait une commission. Une commission, c'est ce qu'on crée quand on ne veut pas décider. ||| 루셀 양, 브뤼셀에서는 위원회를 만들었소. 위원회란 결정하고 싶지 않을 때 만드는 거요.
+JULIEN: Ou quand on veut décider sur une base solide. Monsieur le vice-ministre, que vous faut-il pour que la commission ne soit pas un décor ? ||| 아니면 단단한 토대 위에서 결정하려 할 때 만들죠. 차관님, 위원회가 장식이 되지 않으려면 무엇이 필요합니까?
+AL-FAROUQI: Un pouvoir. Pas de lire : de dire. De dire ce que le texte signifie, et que cela lie vos tribunaux comme les nôtres. ||| 권한이오. 읽을 권한이 아니라 말할 권한. 텍스트가 무엇을 뜻하는지 말하고, 그것이 귀국 법원도 우리 법원도 구속한다는 것.
+JULIEN: Je ne peux pas vous donner cela ce matin. Aucun ministère ne cède à une commission le pouvoir de ses juges. ||| 오늘 아침에는 그걸 드릴 수 없습니다. 어느 부처도 위원회에 자국 법관의 권한을 넘기지는 않아요.
+AL-FAROUQI: Alors je ne peux pas vous donner mes treize personnes. Voilà. Nous avons chacun dit non, et il n'est pas encore neuf heures. ||| 그럼 나도 열세 명을 드릴 수 없소. 자, 우리 둘 다 안 된다고 했고 아직 아홉 시도 안 됐구려.
++ obligation de moyens / obligation de résultat = 수단 의무 / 결과 의무. 프랑스 계약법의 핵심 구분
++ retenu à la disposition de la justice = 사법 당국의 처분 아래 억류된. 완곡한 공식 표현
++ ne laisser aucune porte de sortie = 빠져나갈 길을 남기지 않다. porte de sortie는 '출구'
++ avoir raison de + inf. = ~하는 것이 옳다. Il a raison de la poser, '질문할 만하다'
++ à jeun = 공복으로. 금식 상태, 비유적으로 '아직 식사 전에는'
++ une impasse = 막다른 골목, 교착. 협상 기록에서 쓰는 단어
++ ce qu'on fait quand on ne veut pas décider = 결정하고 싶지 않을 때 하는 일. 위원회에 대한 냉소적 정의
+## 점심의 조리장 — LE DÉJEUNER DU COQ
+MORVAN: Messieurs, madame, le maître Pujol me fait dire que le déjeuner est prêt. Sur le pont avant, à l'abri du vent. ||| 여러분, 퓌졸 조리장이 점심이 준비됐다고 전해 왔습니다. 바람을 피할 수 있는 앞갑판입니다.
+CAMILLE: Une table de campagne en pleine mer. Avec une nappe, en plus. ||| 한바다 한가운데 야전 식탁이라니. 식탁보까지 깔았네.
+PUJOL: Bonjour tout le monde. Excusez la nappe, c'est une idée du commandant. Moi, j'aurais mis du papier. ||| 안녕하십니까. 식탁보는 함장님 아이디어라서 양해하세요. 저라면 종이를 깔았을 겁니다.
+JULIEN: Maître, le menu ? ||| 조리장님, 메뉴는요?
+PUJOL: Pour commencer, une soupe de poissons de roche, avec la rouille. Ensuite, un plat de chez moi, que je n'ai pas fait depuis trois ans. Et du fromage, parce que sinon le commandant me renvoie. ||| 먼저 바위고기 수프에 루이유를 곁들입니다. 그다음은 우리 고향 요리인데 삼 년 만에 만들어 봅니다. 그리고 치즈요. 안 내놓으면 함장님이 저를 쫓아내시거든요.
+MORVAN: Je n'ai jamais dit cela. J'ai dit que sans fromage, un repas est une déclaration de guerre manquée. ||| 그런 말은 한 적 없네. 치즈 없는 식사는 실패한 선전포고라고 했지.
+AL-FAROUQI: Voilà un commandant qui sait ce qu'est une nuance. ||| 뉘앙스를 아는 함장님이로군.
+PUJOL: Allez-y, la soupe refroidit vite quand on parle trop. ||| 드세요. 말이 길어지면 수프가 금방 식습니다.
+JULIEN: Vous êtes de la région, maître ? ||| 이 지방 분이십니까, 조리장님?
+PUJOL: De Sète, monsieur. Mon père était pêcheur à l'étang de Thau, ma mère faisait les tielles. Quand j'ai rejoint la Marine, j'ai dit à ma mère que je ne ferais plus jamais de tielles, parce que personne ne les fait comme elle. ||| 세트 출신입니다. 아버지는 퇴 호수에서 고기를 잡으셨고 어머니는 tielle를 만드셨죠. 해군에 들어갈 때 어머니께 다시는 tielle를 안 만들겠다고 했습니다. 어머니만큼 하는 사람이 없으니까요.
+AL-FAROUQI: Pardonnez-moi, maître. Répétez le nom. ||| 실례하오, 조리장. 이름을 다시 말해 주시오.
+PUJOL: Tielle, monsieur. Tielle sétoise. On dit « tièlo » dans la vieille langue, mais personne ne l'écrit plus ainsi. ||| tielle입니다. 세트식 tielle요. 옛 말로는 '티엘로'라고 하는데, 이제는 아무도 그렇게 쓰지 않죠.
+AL-FAROUQI: Tielle. ||| 티엘.
+JULIEN: Monsieur le vice-ministre ? ||| 차관님?
+AL-FAROUQI: Excusez-moi. J'ai mangé de la tielle mille fois, sans jamais la nommer. Madame Carbasse, rue de la Loge... non, c'est impossible. ||| 미안하오. 천 번은 먹어 봤지만 이름을 불러 본 적은 없소. 카르바스 부인, 라 로주 거리의... 아니, 그럴 리가 없지.
+PUJOL: Carbasse ? Rue de la Loge ? Mais c'est ma tante, monsieur. Enfin, sa belle-sœur. Elle tenait la poissonnerie. ||| 카르바스요? 라 로주 거리요? 우리 고모예요. 정확히는 고모의 올케요. 생선 가게를 했거든요.
+AL-FAROUQI: Elle m'a nourri, mon ami, pendant l'hiver de 1985. Chaque vendredi, une tielle chaude dans un papier gras, et jamais un centime ce jour-là. Elle disait : « Tu me rendras ça quand tu seras ministre. » ||| 그분이 날 먹여 살렸소, 친구. 1985년 겨울 내내. 금요일마다 기름종이에 싼 따끈한 tielle를, 그날은 한 푼도 받지 않고. 그분이 말했지. '장관이 되면 갚아라.'
+PUJOL: Je vous apporte la tielle, monsieur. Elle n'est pas aussi bonne que la sienne. ||| tielle를 내오겠습니다. 그분 것만큼 맛있지는 않을 겁니다.
+AL-FAROUQI: Cette dette-là n'avait qu'un seul texte, le geste. Et personne n'a jamais demandé s'il fallait lire « devoir » ou « promettre ». ||| 그 빚에는 텍스트가 오로지 하나, 몸짓뿐이었소. 그리고 '의무'로 읽어야 하는지 '약속'으로 읽어야 하는지 아무도 묻지 않았지.
+PUJOL: Le fromage, mesdames et messieurs. Un saint-nectaire fermier, un comté de vingt-quatre mois et une tomme de Savoie que le commandant garde pour les grandes occasions. ||| 치즈 나갑니다, 여러분. 농가 생넥테르, 24개월 콩테, 그리고 함장님이 큰 날을 위해 아껴 둔 사부아 톰입니다.
+AL-FAROUQI: Monsieur Delorme, je vais vous dire une chose que je n'aurais pas dite ce matin. ||| 들로름 선생, 오늘 아침에는 하지 않았을 말을 하나 하겠소.
+JULIEN: Je vous écoute. ||| 듣고 있습니다.
+AL-FAROUQI: La lettre du 14 mars. Je l'ai signée. Mais je ne l'ai pas lue en français. Je l'ai lue en anglais, d'abord. ||| 3월 14일 서한. 서명은 내가 했소. 하지만 프랑스어로 읽지 않았소. 먼저 영어로 읽었소.
+CAMILLE: Vous l'avez lue en anglais avant de la signer ? ||| 서명하기 전에 영어로 읽으셨다고요?
+AL-FAROUQI: Le texte que j'ai signé avait quatre pages. Vous en avez trois, n'est-ce pas ? ||| 내가 서명한 텍스트는 네 쪽이었소. 당신들에게는 세 쪽뿐이지, 그렇지 않소?
+JULIEN: Nous en avons trois du côté français. Et une page manque : la troisième. ||| 프랑스 쪽에는 세 쪽입니다. 그리고 한 쪽이 없죠. 세 번째 쪽이.
+AL-FAROUQI: Voilà. Maintenant, vous savez pourquoi j'ai choisi la mer. Je ne pouvais pas vous le dire dans un bureau où quelqu'un écoute. ||| 그렇소. 이제 내가 왜 바다를 골랐는지 알겠지. 누가 엿듣는 사무실에서는 이 말을 할 수 없었소.
+ZIAD: Monsieur le vice-ministre, vous... ||| 차관님, 그건...
+AL-FAROUQI: Maître, je vous demande de ne rien noter, pour une fois. ||| 변호사, 이번 한 번은 아무것도 적지 말아 주시오.
+ZIAD: Je n'ai rien noté. Je n'ai qu'une phrase : « Une tielle a changé l'humeur de la table. » ||| 아무것도 안 적었습니다. 한 문장만 남겼어요. 'tielle 하나가 식탁의 기분을 바꿨다.'
++ une tielle sétoise = 세트의 문어 파이. 토마토 소스와 문어를 넣은 둥근 파이로 세트 지방의 대표 음식
++ la vieille langue = 옛말(오크어). 지방 이름을 옛 언어로 부르는 인물의 향수를 보여 준다
++ il sied de + inf. = ~하는 것이 마땅하다. 법률·공증 문체에서 쓰는 고어체
++ Tu me rendras ça quand tu seras ministre. = 장관이 되면 갚아라. 문서 없는 신용과 훗날의 보답
++ garder pour les grandes occasions = 특별한 때를 위해 아껴 두다
++ une dette qu'on respecte = 지키는 빚. 법적 의무가 아닌 도덕적 채무를 가리킨다
++ changer l'humeur de la table = 식탁의 기분을 바꾸다. 협상에서 분위기가 전환되는 순간
+
+## 델카세의 교환 — L'ENTENTE CORDIALE
+CAMILLE: Je vais vous donner un exemple, Monsieur le vice-ministre, parce que nous avons un point commun avec lui : il s'agit d'un échange. ||| 예를 하나 들게요, 차관님. 우리와 닿는 점이 있어요. 교환에 관한 이야기거든요.
+JULIEN: Mille neuf cent quatre. Théophile Delcassé est ministre des Affaires étrangères depuis six ans. En 1898, il a dû céder à Fachoda devant les Anglais. ||| 1904년입니다. 테오필 델카세는 육 년째 외무장관이었죠. 1898년에 파쇼다에서 영국에 양보해야 했고요.
+CAMILLE: En 1903, le roi Édouard VII vient à Paris. Il n'était pas aimé, il arrive dans une ville sceptique. ||| 1903년에 에드워드 7세가 파리에 와요. 인기가 없던 왕이 의심 많은 도시에 도착한 거죠.
+JULIEN: Et le 8 avril 1904, à Londres, l'ambassadeur Paul Cambon et lord Lansdowne signent plusieurs textes à la fois. ||| 그리고 1904년 4월 8일, 런던에서 폴 캉봉 대사와 랜스다운 경이 여러 문서에 동시에 서명합니다.
+AL-FAROUQI: Plusieurs textes à la fois. Je vois où vous voulez en venir. ||| 여러 문서를 동시에. 어디로 가려는지 알겠구려.
+JULIEN: L'Égypte, le Maroc, Terre-Neuve, quelques frontières en Afrique de l'Ouest, le Siam, Madagascar, les Nouvelles-Hébrides. Aucune de ces questions n'était résolue en elle-même. ||| 이집트, 모로코, 뉴펀들랜드, 서아프리카 국경 몇 군데, 시암, 마다가스카르, 신헤브리디스. 이 문제 중 어느 것도 그 자체로는 풀리지 않았습니다.
+CAMILLE: La France renonçait à contester la place de l'Angleterre en Égypte. L'Angleterre reconnaissait que le Maroc relevait de l'influence française. ||| 프랑스는 이집트에서 영국의 지위에 다투지 않기로 했고, 영국은 모로코가 프랑스의 영향권임을 인정했어요.
+AL-FAROUQI: Chacun a donné ce qui lui coûtait le moins et reçu ce qui lui importait le plus. ||| 각자 자기에게 덜 아까운 것을 주고 더 중요한 것을 받았구려.
+JULIEN: C'est exactement ce que j'allais dire, Monsieur le vice-ministre, et vous l'avez dit mieux que moi. ||| 제가 하려던 말 그대로입니다, 차관님. 저보다 낫게 말씀하셨네요.
+JULIEN: La commission de lecture. Qu'elle ne soit plus seulement une lecture. ||| 독회 위원회입니다. 이제 단순한 독회가 아니게 하는 거죠.
+ZIAD: Vous accepteriez qu'elle ait un pouvoir d'interprétation ? ||| 해석 권한을 갖는 걸 받아들이시겠다는 겁니까?
+JULIEN: Un avis motivé, rendu en huit jours, et que la France s'engage... non, s'oblige à lire avant de plaider. ||| 팔 일 안에 내는 이유 있는 의견입니다. 그리고 프랑스는 변론 전에 이를 읽을 것을 약속... 아니, 의무로 받아들입니다.
+AL-FAROUQI: Alors voici ce qui me coûte peu : le calendrier. Mon parquet a besoin d'une expertise linguistique avant d'entendre les treize. Une expertise de ce genre ne se fait pas en un jour. ||| 그럼 내게 별로 아깝지 않은 건 일정이오. 우리 검찰은 열세 명을 심리하기 전에 언어 감정이 필요하오. 이런 감정은 하루에 끝나지 않지.
+CAMILLE: Vous demanderiez vous-même le report de l'audience. ||| 차관님이 직접 재판 기일 연기를 요청하시겠다는 거네요.
+AL-FAROUQI: Mon parquet le demandera. La nuance est capitale : un parquet qui demande n'est pas un gouvernement qui cède. ||| 우리 검찰이 요청하는 거요. 이 뉘앙스가 결정적이지. 요청하는 검찰은 양보하는 정부가 아니니까.
+JULIEN: Et le gouvernement ne cède pas, il attend un avis. D'accord. À condition que les treize quittent l'hôtel pour la résidence de notre consul. ||| 그리고 정부는 양보하는 게 아니라 의견을 기다리는 거고요. 좋습니다. 단, 열세 명이 호텔을 나와 우리 영사 관저로 옮긴다는 조건이에요.
+CAMILLE: À la grille, pas à l'étage. C'est la différence entre être gardé et être retenu. ||| 문 앞이지 층마다가 아니라. 갇혀 있는 것과 머물러 있는 것의 차이네요.
+ZIAD: Le gouvernement aura une contrepartie : la pénalité. Elle ne peut pas disparaître. ||| 정부에는 대가가 있어야 합니다. 위약금은 사라질 수 없어요.
+JULIEN: Elle ne disparaît pas. Elle est consignée, c'est-à-dire déposée chez un tiers, jusqu'à l'avis. Ni vous, ni la Société n'y touchez. ||| 사라지지 않습니다. 의견이 나올 때까지 제3자에게 공탁합니다. 귀국도 회사도 손대지 않아요.
+AL-FAROUQI: Chez qui ? ||| 누구에게요?
+JULIEN: Dans un établissement qu'aucun de nous deux n'a choisi seul, désigné d'un commun accord. ||| 우리 둘 중 누구도 혼자서는 고르지 않은, 합의해 지정한 기관에요.
++ à condition que + subj. = ~라는 조건으로. 접속법 필수, 협상의 전형적인 구문
++ renoncer à contester = 다투기를 포기하다. 델카세–캉봉의 교환 구조를 요약하는 동사
++ donner ce qui coûte le moins, recevoir ce qui importe le plus = 가장 적게 드는 것을 주고 가장 중요한 것을 받다. 타협 외교의 공식
++ un avis motivé = 이유를 단 의견. 법적 구속력은 없지만 이유 제시가 중요하다
++ consigner = 공탁하다, 기록하다. consignation은 분쟁 금액을 제3자에게 맡기는 절차
++ la grille / l'étage = 철문 앞 / 층. 경비 위치로 구금과 억류의 차이를 보여 준다
++ La nuance est capitale. = 뉘앙스가 결정적이다. 검찰이 요청하는 것과 정부가 양보하는 것의 구분
+
+## 뱃머리의 질문 — LA QUESTION DE V.A.
+AL-FAROUQI: Vous disiez que vous reviendriez à votre « V.A. ». Voici la mer, voici le déjeuner derrière nous. Je vous écoute. ||| 'V.A.' 얘기로 돌아오겠다고 하셨죠. 바다가 있고 점심도 끝났소. 말해 보시오.
+JULIEN: Une société enregistrée à Luxembourg a payé l'ancien traducteur juré de la lettre. Une société voisine a facturé le lobbyiste de notre chantier. Les deux portent un sigle : V.A. ||| 룩셈부르크에 등록된 회사가 서한을 번역한 공증 번역사에게 대금을 냈습니다. 비슷한 회사가 우리 조선소의 로비스트에게 청구했고요. 두 회사 모두 'V.A.'라는 약자를 씁니다.
+ZIAD: Et vous soupçonnez que Kasra serait impliqué. ||| 카스라도 연루됐다고 의심하시는군요.
+JULIEN: Je soupçonne que quelqu'un a été payé pour que deux pays lisent deux fois la même phrase différemment. ||| 같은 문장을 두 나라가 다르게 읽도록 누군가 돈을 받았다고 의심합니다.
+AL-FAROUQI: Alors je dois vous dire que je ne sais pas qui est V.A. Je sais seulement que mon ministre des Finances, M. al-Hamdi, recevait ses conseils. ||| 그렇다면 나는 V.A.가 누군지 모른다고 말해야겠소. 다만 재무장관 알 함디 씨가 그곳의 조언을 받았다는 것은 아오.
+CAMILLE: Les relevés dont on parle dans certains dossiers, vous n'en avez jamais demandé, n'est-ce pas ? ||| 몇몇 서류에서 거론되는 계좌 내역을 차관님이 요구하신 적은 없지요?
+AL-FAROUQI: Jamais. Mais je continue. M. al-Hamdi m'a présenté cette lettre de mars comme une formalité. Il m'a dit : « Signez la version courte ». ||| 없소. 계속하겠소. 알 함디 씨는 3월 서한을 형식적 절차로 내게 내밀었소. '짧은 판본에 서명하십시오'라고 했지.
+CAMILLE: La version courte. Celle de trois pages ? ||| 짧은 판본. 세 쪽짜리 말씀이세요?
+AL-FAROUQI: Celle où manquait la page que je n'ai jamais vue en français : la troisième de la version anglaise. Il l'avait gardée dans ses papiers. ||| 프랑스어로 본 적 없는 쪽이 빠진 판본이오. 영어판의 세 번째 쪽이지. 그가 자기 서류에 보관하고 있었소.
+JULIEN: Et vous avez signé. ||| 그리고 서명하셨고요.
+AL-FAROUQI: J'ai signé un original de quatre pages, en anglais. Mais ce que le ministère français a reçu... Je ne sais pas ce qu'on lui a transmis. ||| 영어 원본 네 쪽에 서명했소. 하지만 프랑스 부처가 받은 것은... 무엇을 전달했는지 모르오.
+JULIEN: Et l'original, où est-il ? ||| 원본은 어디에 있습니까?
+AL-FAROUQI: Dans le coffre de mon bureau, à Ras Safina. J'ai demandé qu'on l'envoie à Paris par la valise diplomatique. Elle arrive demain soir. ||| 라스 사피나 내 사무실 금고에 있소. 외교 행낭으로 파리에 보내라고 지시했소. 내일 저녁에 도착하오.
+CAMILLE: Vous aviez ce document depuis le début et vous nous avez fait venir sur un bateau ? ||| 처음부터 그 문서를 갖고 계셨으면서 배까지 타게 하셨어요?
+JULIEN: Alors pourquoi me le dire aujourd'hui, et pas à Genève ? ||| 그런데 왜 제네바가 아니라 오늘 말씀해 주시는 겁니까?
+AL-FAROUQI: Parce que la tielle m'a rappelé que j'avais déjà décidé. Les décisions sont comme les dettes : on les connaît avant de les payer. ||| tielle가 내가 이미 결정했다는 걸 일깨웠기 때문이오. 결정은 빚과 같소. 갚기 전에 이미 알고 있는 거요.
+CAMILLE: Alors, pour résumer : l'audience est reportée par le parquet, les treize vont à la résidence du consul, la pénalité est consignée, l'avis est rendu en huit jours, et l'original arrive demain. ||| 정리하면, 검찰이 재판 기일을 미루고, 열세 명은 영사 관저로 가고, 위약금은 공탁하고, 의견은 팔 일 안에 나오고, 원본은 내일 도착한다는 거죠.
+AL-FAROUQI: Voilà. Chacun a donné ce qu'il pouvait donner, et reçu ce qu'il ne pouvait pas prendre seul. ||| 그렇소. 각자 줄 수 있는 것을 주었고, 혼자서는 가질 수 없는 것을 받았구려.
++ la version courte = 짧은 판본. 한 쪽이 빠진 서한을 가리키는 알 함디의 표현
++ la valise diplomatique = 외교 행낭. 검열 없이 공문서를 보내는 수단
++ ne remettre un texte qu'à quelqu'un qui le lira = 읽을 사람에게만 문서를 건네다. 신뢰의 조건
++ la vérité utile n'est pas la vérité entière = 쓸모 있는 진실이 전체 진실은 아니다. 보고서의 취사선택을 정당화하는 말
++ gardé / retenu = 지켜지는 / 붙들려 있는. 경비 위치로 구분한 상태
+
+## 저녁의 후갑판 — LE PONT ARRIÈRE, LE SOIR
+MORVAN: Dix-neuf heures quinze. Nous sommes en vue de la rade. Le soleil est derrière l'île de Porquerolles. ||| 열아홉 시 십오 분. 항만이 보입니다. 해는 포르크롤 섬 뒤에 있고요.
+CAMILLE: Nous avons négocié douze heures sans une seule feuille. C'est la première fois. ||| 종이 한 장 없이 열두 시간을 협상했어. 처음 있는 일이야.
+JULIEN: Il faut maintenant écrire. Pas un traité : un aide-mémoire d'une page. ||| 이제는 써야지. 조약이 아니라 한 쪽짜리 비망록으로.
+AL-FAROUQI: En trois langues ? ||| 세 언어로요?
+JULIEN: En une seule. Le français. Et lu à voix haute devant vous, mot par mot, pour que vous disiez à chaque mot : oui ou non. ||| 하나로요. 프랑스어로. 그리고 단어마다 차관님이 '네' '아니오'를 말씀하시도록 소리 내어 읽겠습니다.
+AL-FAROUQI: Voilà une méthode de notaire. Commencez. ||| 공증인식이구려. 시작하시오.
+JULIEN: « Un. Le parquet de Kasra demande le report de l'audience pour expertise linguistique. » ||| '하나. 카스라 검찰은 언어 감정을 위해 재판 기일 연기를 요청한다.'
+AL-FAROUQI: Oui. ||| 좋소.
+JULIEN: « Deux. Les treize personnes retenues sont placées à la résidence du consul de France, sous la seule garde de la grille. » ||| '둘. 억류된 열세 명은 프랑스 영사 관저로 옮기고, 경비는 문 앞에 한정한다.'
+AL-FAROUQI: Oui. « Retenues » : conservez ce mot, je vous prie. Il n'y a pas d'otages ici. ||| 좋소. '억류된'은 그 단어를 유지해 주시오. 여기에 인질은 없소.
+JULIEN: Je le conserve, à condition que le mot soit suivi de son objet exact. « Retenues à la disposition de la justice ». ||| 유지하겠습니다. 단, 그 단어에 정확한 목적어가 붙는다는 조건으로요. '사법 당국의 처분 아래 억류된'.
+AL-FAROUQI: Accepté. ||| 받아들이겠소.
+JULIEN: « Trois. La pénalité de quatre-vingt-sept millions est consignée chez un tiers désigné d'un commun accord. » ||| '셋. 8,700만 유로의 위약금은 쌍방이 합의해 지정한 제3자에게 공탁한다.'
+AL-FAROUQI: Oui. ||| 좋소.
+JULIEN: « Quatre. La commission de lecture rend un avis motivé en huit jours. » ||| '넷. 독회 위원회는 팔 일 안에 이유를 단 의견을 낸다.'
+AL-FAROUQI: Oui, sous réserve que mon traducteur y siège. ||| 좋소. 우리 번역사가 위원으로 들어간다는 전제로.
+CAMILLE: Il y siège déjà, depuis Bruxelles. ||| 브뤼셀 때부터 이미 들어 있습니다.
+AL-FAROUQI: Alors, oui. ||| 그럼 좋소.
+JULIEN: « Cinq. Le texte original de la lettre du 14 mars est remis à la commission par la partie qui le détient, sans commentaire. » ||| '다섯. 3월 14일 서한의 원본은 보유 측이 논평 없이 위원회에 제출한다.'
+AL-FAROUQI: Sans commentaire. Oui. C'est même la phrase que je préfère. ||| 논평 없이. 좋소. 내가 가장 좋아하는 문장이오.
+MORVAN: Messieurs, madame, nous accostons dans dix minutes. J'espère que le navire a été un bon témoin. ||| 여러분, 십 분 뒤 접안합니다. 배가 좋은 증인이었기를 바랍니다.
+PUJOL: Excusez-moi de vous déranger. Pour le vice-ministre : j'ai fait une seconde tielle. Elle est emballée dans un papier gras, comme avant. ||| 방해해서 죄송합니다. 차관님께 드릴 tielle를 하나 더 만들었습니다. 예전처럼 기름종이에 쌌어요.
+AL-FAROUQI: Alors la dette recommence, maître. Merci. ||| 그럼 빚이 다시 시작되는구려, 조리장. 고맙소.
+JULIEN: Monsieur le vice-ministre, une dernière question : la page trois, celle qui manque. Vous l'avez lue ? ||| 차관님, 마지막 질문입니다. 빠진 세 번째 쪽을 읽으셨습니까?
+AL-FAROUQI: Je l'ai lue. Elle est courte : un titre et trois lignes. Vous la lirez demain, dans une autre voix que la mienne. ||| 읽었소. 짧소. 제목 하나와 세 줄이오. 내일 내가 아닌 다른 목소리로 듣게 될 거요.
+CAMILLE: Pourquoi pas la vôtre ? ||| 왜 차관님 목소리는 안 되나요?
+AL-FAROUQI: Parce qu'une page qui blesse doit être lue par quelqu'un qui n'est pas blessé. ||| 상처 주는 쪽은 상처 입지 않은 사람이 읽어야 하니까.
+LÉA: Papa ? Tu es là ? Camille m'a envoyé un message : tu es sur un bateau ! ||| 아빠? 지금 계세요? 카미유가 문자 보냈어요. 배 위에 있다고요!
+JULIEN: Léa ? Comment tu me captes ? Nous sommes en rade, le réseau est revenu. ||| 레아? 어떻게 연락이 됐니? 항구 근처로 오니 통신이 돌아왔구나.
+LÉA: Question de philosophie : quand on négocie sur un bateau, est-ce que c'est plus honnête ? ||| 철학 질문이에요. 배 위에서 협상하면 더 정직해지나요?
+JULIEN: Pourquoi cette question ? ||| 왜 그런 질문을 하니?
+LÉA: Parce que sur la terre ferme, tout le monde peut sortir. Sur un bateau, on reste jusqu'au bout. Alors on ne ment pas pour partir. ||| 땅 위에서는 누구든 나갈 수 있잖아요. 배 위에서는 끝까지 있어야 하니까 도망치려고 거짓말하지는 않을 것 같아요.
+JULIEN: C'est une question de définition, n'est-ce pas ? ||| 개념 정의의 문제겠구나, 그렇지?
+LÉA: Oui. Mais dis-moi quand même. ||| 맞아요. 그래도 말해 주세요.
+JULIEN: Ce n'est pas le bateau qui rend honnête. C'est le fait d'avoir besoin de l'autre pour revenir au port. ||| 배가 정직하게 만드는 게 아니란다. 항구로 돌아가려면 상대가 필요하다는 사실이 정직하게 만들지.
+LÉA: Alors le contraire de l'honnêteté, c'est l'autarcie. ||| 그럼 정직의 반대는 자급자족이네요.
+JULIEN: Non. C'est l'illusion qu'on n'a besoin de personne. Bonne nuit, Léa. À demain. ||| 아니야. 아무도 필요 없다는 착각이지. 잘 자, 레아. 내일 보자.
+CAMILLE: Elle te connaît bien. ||| 레아가 널 잘 아네.
+JULIEN: Elle connaît surtout mes réponses avant que je les donne. Allons voir cette page trois. ||| 내가 대답하기 전에 내 대답을 아는 거지. 세 번째 쪽을 보러 가자.
++ aide-mémoire = 비망록. 서명하지 않는 약식 합의 문서
++ sous réserve que + subj. = ~라는 전제로. 접속법을 쓰는 협상 단서
++ sans commentaire = 논평 없이. 원본 제출의 중립성을 확보하는 문구
++ accoster = 접안하다. 해상 용어로, 협상의 결말을 알리는 장면 전환
++ rendre un verdict = 평결을 내리다. 말이 판결을 대신하는 비유
++ l'autarcie = 자급자족. 레아의 정직 정의에서 쓰는 철학 용어
++ le papier gras = 기름종이. 외상으로 먹은 tielle를 감싸던 종이, 빚의 기억
