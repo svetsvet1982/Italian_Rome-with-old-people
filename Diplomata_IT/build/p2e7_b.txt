@@ -112,7 +112,7 @@ ORSOLINI: Dottor Lanza, non è un caso che la domanda fosse così precisa. ||| �
 CORRADO: Ambasciatore, le dico come stanno le cose. Una collega ha provato a darmi un dato. Io non l'ho preso. Poi ho fatto la domanda giusta. ||| 대사님, 사실을 말씀드립니다. 동료 한 사람이 자료를 건네려 했습니다. 저는 받지 않았고, 그다음 올바른 질문을 했습니다.
 ORSOLINI: Questa è una distinzione sottile. ||| 미묘한 구분이군요.
 CORRADO: Lo è. E se vuole, la verifichi. ||| 그렇습니다. 원하시면 검증하십시오.
-ORSOLINI: La collega è Rusfoli? ||| 그 동료가 루스폴리입니까?
+ORSOLINI: La collega è Ruspoli? ||| 그 동료가 루스폴리입니까?
 CORRADO: Non lo dico. Ma non la nego. ||| 말하지 않습니다. 부인도 안 합니다.
 ORSOLINI: Dottor Lanza, la prossima volta mi avvisi prima. ||| 란차 박사, 다음에는 미리 알리세요.
 CORRADO: La prossima volta lei mi dica di no, prima. ||| 다음에는 대사님이 먼저 안 된다고 말씀해 주세요.
