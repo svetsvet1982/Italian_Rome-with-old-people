@@ -1,0 +1,96 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 1
+@title L'archipel
+@ko 군도
+@setting 파리 케도르세 위기 상황실 → 새 비서실장 집무실 → 생토뱅 시청과의 화상 연결 → 말라비 대사관 응접실 → 쥘리앵의 아파트 저녁 식탁과 발쿠르의 전화
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 감찰단(IGAE)의 조사를 앞둔 상태
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 르포르의 후임 장관 비서실장, 49세. 허구의 인물
+@cast VANTOUR | 로잘리 방투르, 생토뱅 군도 시장, 58세. 허구의 인물
+@cast RIVIÈRE | 아르망 리비에르, 생토뱅 어업위원회 위원장, 64세. 아들이 억류된 어선의 선장. 허구의 인물
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 2부 1화입니다. 가상의 프랑스 해외 영토 '생토뱅 군도'(주민 1만 1천4백 명, 주도 포르토뱅)에서 말라비 해군이 프랑스 어선 세 척(생트안, 코르모랑, 알바트로스)을 나포하고 선원 열아홉 명을 억류합니다. 말라비는 외교 공한(note verbale)으로 군도의 영유권을 주장하며 '독립 이전의 약속'을 암시합니다. 이 서한의 실체는 다음 화부터 드러납니다. 쥘리앵은 1부 끝 청문회 이후 감찰단 조사를 기다리는 처지이며, 새 비서실장 아르샹보는 모든 단계를 서면으로 보고하라는 조건을 겁니다. 엘렌이 요청한 15일간의 외부 공개 유예 중에 일어난 사건이어서, 쥘리앵은 'Valois Advisory'의 새 고객이 말라비일 수 있다고 추정만 합니다. 해법의 순간은 억류된 선장의 아버지 아르망 리비에르의 말입니다. «Les îles ont deux noms, la mer n'en a qu'un.» (섬에는 이름이 둘이고 바다는 하나요.) 쥘리앵은 이 말을 법적 구조로 바꿉니다. 영유권 문제(이름)와 해양법 제도(바다)를 분리해, 영유권 논쟁과 별개로 선박과 선원을 보증금으로 풀어 달라고 요구합니다. 역사적 배경은 1982년 12월 10일 몬테고베이에서 서명된 UN 해양법 협약입니다. 1973년부터 이어진 제3차 해양법 회의의 결과물로, 영해 12해리, 배타적 경제수역(EEZ) 200해리를 확립했습니다. 제121조는 사람이 살 수 있는 섬은 EEZ를 가지고, 사람이 살 수 없고 독자적 경제 생활을 못 하는 암초는 EEZ를 갖지 못한다고 정합니다. 제73조는 나포된 어선과 선원을 합리적 보증금 제공 시 지체 없이 석방하고, 선원에게 금고형을 부과하지 못하게 합니다. 1960년 UN 총회 결의 1514(식민지 독립 부여 선언)는 자결권과 영토 보전 원칙을 함께 담고 있어 양측이 각자 인용합니다. 어휘는 note verbale, zone économique exclusive, mainlevée, caution raisonnable, sans préjudice de, 접속법(quoi qu'il arrive, pourvu que, à moins que)에 주목하세요.
+@next 2화 «Dîner à Lisbonne» (리스본의 저녁): 말라비 외교장관이 쥘리앵을 리스본의 생선 식당 저녁에 초대합니다. 식탁 위에서 그가 '1962년 서한'이라는 말을 꺼냅니다.
+
+## 나포 — LA SAISIE
+CAMILLE: Julien, je t'appelle avant que tu n'ouvres ta boîte. Trois chalutiers français ont été arraisonnés cette nuit par la marine du Malavi. ||| 쥘리앵, 메일함 열기 전에 전화했어. 프랑스 트롤 어선 세 척이 간밤에 말라비 해군에 나포됐어.
+JULIEN: Où, et dans quelles eaux ? C'est la seule question qui compte. ||| 어디서, 어느 바다에서? 중요한 건 그것뿐이야.
+CAMILLE: À quarante-sept milles de Port-Aubin, selon le commandement de la zone maritime. Le Malavi dit quatre-vingt-trois milles de sa côte à lui. ||| 해군 지역사령부 말로는 포르토뱅에서 47해리 지점이야. 말라비는 자기네 해안에서 83해리라고 하고.
+JULIEN: Donc les deux zones se recouvrent, et chacun dit « chez moi ». Les bateaux ? ||| 그럼 두 수역이 겹치고 서로 "내 바다"라고 하는 거네. 배 이름은?
+CAMILLE: La Sainte-Anne, le Cormoran et l'Albatros. Dix-neuf marins en tout, tous emmenés au port de Kandara. ||| 생트안, 코르모랑, 알바트로스. 선원은 전부 열아홉 명이고 칸다라 항으로 끌려갔어.
+JULIEN: Blessés ? ||| 다친 사람은?
+CAMILLE: Aucun. Mais le patron de la Sainte-Anne a eu le temps de dire à la radio : « Ils nous emmènent chez eux, et ils appellent ça chez eux. » ||| 없어. 그런데 생트안 선장이 무전으로 "우릴 자기네 집으로 데려가는데, 그걸 자기네 집이라고 부르네"라고 말할 시간은 있었대.
+JULIEN: Il a plus de sang-froid que la moitié de mes collègues. Et côté Malavi, rien d'écrit ? ||| 내 동료 절반보다 침착하군. 말라비 쪽에서 문서로 온 건 없어?
+CAMILLE: Une note verbale, arrivée à six heures. Elle « réaffirme la souveraineté de la République du Malavi sur l'archipel d'Ilo Savara ». ||| 여섯 시에 공한이 왔어. "말라비 공화국이 일로 사바라 군도에 대한 주권을 재확인한다"는 내용이야.
+JULIEN: Ilo Savara. C'est donc ainsi qu'ils appellent Saint-Aubin. Le nom vient avant l'argument. ||| 일로 사바라. 그러니까 생토뱅을 그렇게 부르는 거군. 논거보다 이름이 먼저 나오네.
+CAMILLE: Il y a une phrase que je n'aime pas, en bas de la deuxième page. « Conformément aux engagements antérieurs à l'indépendance. » ||| 마음에 안 드는 문장이 하나 있어, 두 번째 쪽 아래에. "독립 이전의 약속에 따라"라고.
+JULIEN: Quels engagements ? Elle cite une date, un article, une signature ? ||| 어떤 약속? 날짜나 조항, 서명을 대?
+CAMILLE: Rien. Pas un mot de plus. C'est une porte entrouverte, pas une preuve. ||| 한 마디도 없어. 증거가 아니라 살짝 열어 둔 문이야.
+JULIEN: Une porte entrouverte, c'est fait pour qu'on y pose la main. Ils veulent qu'on demande. ||| 살짝 열어 둔 문은 손을 대 보라고 있는 거지. 우리가 먼저 묻기를 바라는 거야.
+CAMILLE: Et on ne demande pas. ||| 그래서 우린 안 묻고.
+JULIEN: On ne demande pas, on n'en parle pas, et on note la date de la première fois qu'ils l'écrivent. Appelle la salle de crise, je descends. ||| 안 묻고, 말도 안 꺼내고, 그들이 처음 그걸 쓴 날짜만 적어 둬. 상황실에 연락해, 내려갈게.
+CAMILLE: Tu dois aussi savoir que la chef de cabinet veut te voir à neuf heures. ||| 비서실장이 아홉 시에 보자고 하는 것도 알아 둬.
+JULIEN: La nouvelle ? Je ne l'ai croisée qu'une fois, dans un couloir, et elle m'a regardé comme un dossier. ||| 새로 온 분? 복도에서 한 번 마주쳤는데 날 서류처럼 보더군.
+CAMILLE: Elle s'appelle Solène Archambault. Elle vient de l'Inspection des finances et elle n'a jamais fait de diplomatie. ||| 솔렌 아르샹보야. 재무감찰단 출신이고 외교는 한 번도 안 해 봤어.
+JULIEN: Alors elle posera des questions simples. Les questions simples sont les plus dangereuses. ||| 그럼 단순한 질문을 하겠네. 단순한 질문이 제일 위험해.
+CAMILLE: À propos, Hélène ne t'a pas écrit depuis quatre jours ? ||| 그러고 보니 엘렌에게서 나흘째 연락 없지?
+JULIEN: Elle a demandé quinze jours de silence, et ce silence a quatre jours de vie. Je le respecte. ||| 열닷새 침묵을 요구했고 그 침묵이 나흘 지났어. 지킬 거야.
+CAMILLE: Même si l'affaire d'aujourd'hui regarde un territoire français et son voisin ? ||| 오늘 일이 프랑스 영토와 그 이웃 나라 이야기여도?
+JULIEN: Elle m'a parlé d'un voisin d'un territoire français, pas d'un nom. Je ne mettrai pas de nom là où il n'y en a pas. ||| 엘렌은 프랑스 영토의 이웃이라고만 했지 이름은 말하지 않았어. 이름이 없는 데에 이름을 붙이진 않을 거야.
+CAMILLE: Tu le penses quand même. ||| 그래도 생각은 하잖아.
+JULIEN: Penser n'est pas écrire, Camille. Et écrire n'est pas signer. Les trois ne se mélangent pas. ||| 생각하는 것과 쓰는 것은 달라, 카미유. 쓰는 것과 서명하는 것도 달라. 셋을 섞으면 안 돼.
+CAMILLE: D'accord, mais le mot « voisin » a de la place dans une tête. ||| 다코르, 하지만 '이웃'이라는 단어는 머릿속에서 자리를 많이 차지해.
+JULIEN: D'accord, mais il y a de la place aussi pour dix-neuf marins qui dorment cette nuit dans un port étranger. ||| 다코르, 하지만 오늘 밤 외국 항구에서 자야 할 선원 열아홉 명을 위한 자리도 있어야지.
+CAMILLE: J'ouvre la salle de crise. Café noir ? ||| 상황실 열게. 블랙커피?
+JULIEN: Double. Et une carte marine, la plus grande, avec les lignes. ||| 두 잔. 그리고 가장 큰 해도로, 선이 그려진 걸로.
++ arraisonner un navire = 선박을 정선시켜 검문·나포하다. 해상 단속의 기본 동사
++ une note verbale = 서명 없이 보내는 외교 공한. 가장 흔한 공식 통신 형식
++ avant que + ne explétif + subj. = ~하기 전에. 'avant que tu n'ouvres'처럼 접속법과 허사 ne를 씀
++ ce n'est pas une preuve, c'est une porte entrouverte = 증거가 아니라 열어 둔 문. 암시와 입증을 구별하는 표현
++ il a plus de sang-froid que... = ~보다 침착하다. sang-froid는 위기 때의 냉정함
++ regarder quelqu'un comme un dossier = 사람을 서류처럼 대하다. 비인격적 시선을 빗댄 구어
++ ne pas mettre de nom là où il n'y en a pas = 이름 없는 곳에 이름을 붙이지 않는다. 쥘리앵의 신중한 방식
+
+## 새 비서실장 — LE NOUVEAU CABINET
+ARCHAMBAULT: Monsieur Delorme, asseyez-vous. Je vais vous parler franchement, ce qui est rare dans cette maison. ||| 들로름 씨, 앉으세요. 솔직하게 말할게요, 이 건물에선 드문 일이죠.
+JULIEN: Madame, je vous écoute. La franchise m'a coûté assez cher pour que je la respecte. ||| 말씀하세요. 솔직함이 저에게 꽤 값비싼 것이었던 만큼 존중합니다.
+ARCHAMBAULT: Le ministre m'a demandé de ne rien décider sur votre cas avant l'Inspection générale. Mais l'affaire du Malavi ne peut pas attendre. ||| 장관께서 감찰단 결과 전에는 당신 건에 대해 아무것도 결정하지 말라고 하셨어요. 하지만 말라비 건은 기다릴 수 없고요.
+JULIEN: Donc je suis suspendu au-dessus du vide, mais on me demande de marcher. ||| 그러니까 저는 허공에 매달려 있는데 걷기를 요구받는군요.
+ARCHAMBAULT: Je dirais plutôt : vous êtes en poste, sous réserve. Voici les conditions. Un compte rendu écrit après chaque contact. ||| 저라면 "유보 조건부로 근무 중"이라고 하겠어요. 조건은 이렇습니다. 접촉마다 서면 보고.
+JULIEN: Après, et non pendant ? ||| 접촉 후입니까, 도중이 아니라?
+ARCHAMBAULT: Après. Je ne tiens pas à ce que vous négociiez avec un stylo dans une main et mon autorisation dans l'autre. ||| 후요. 한 손엔 펜, 한 손엔 제 허가서를 들고 협상하라는 건 아니니까.
+JULIEN: C'est raisonnable. Et la deuxième condition ? ||| 합리적이군요. 두 번째 조건은요?
+ARCHAMBAULT: Aucun contact avec un service de renseignement sans mon accord préalable. Vous voyez à quoi je pense. ||| 제 사전 동의 없이 정보기관과 접촉하지 않을 것. 무슨 말인지 아시죠.
+JULIEN: Je vois, Madame. Et je ne vous cacherai pas que j'ai un déjeuner qui pourrait tomber sous cette règle. ||| 압니다. 그리고 그 규칙에 걸릴 수 있는 점심이 하나 있다는 것도 숨기지 않겠습니다.
+ARCHAMBAULT: Le cinquième déjeuner. Je l'ai lu dans le rapport de l'audition. Vous me le direz le jour où l'invitation arrive, pas le lendemain. ||| 다섯 번째 점심 말이군요. 청문회 보고서에서 읽었어요. 초대가 오는 날 말씀하세요, 다음 날이 아니라.
+JULIEN: Entendu. Je vous le dirai le jour même. ||| 알겠습니다. 당일에 말씀드리겠습니다.
+ARCHAMBAULT: Maintenant le fond. Expliquez-moi Saint-Aubin comme à quelqu'un qui n'a jamais vu une carte. ||| 이제 본론입니다. 지도를 한 번도 본 적 없는 사람에게 설명하듯 생토뱅을 설명해 주세요.
+JULIEN: Quatre îles : Sainte-Marthe, Saint-Loup, la Petite-Sœur et les Écueils, qui sont inhabités. Onze mille quatre cents habitants. Port-Aubin est le chef-lieu. ||| 섬 네 개입니다. 생트마르트, 생루, 쁘띠트쇠르, 그리고 무인도인 레제퀘이. 주민은 1만 1천4백 명이고 포르토뱅이 중심 도시예요.
+ARCHAMBAULT: Et pourquoi sont-elles françaises ? ||| 그런데 왜 프랑스 땅이죠?
+JULIEN: Parce que leurs habitants l'ont voulu. En 1962, le Malavi devient indépendant, et les îles, qui étaient administrées depuis Kandara, restent françaises par un vote. ||| 주민들이 원했기 때문입니다. 1962년에 말라비가 독립했고, 칸다라에서 관할되던 섬들은 투표를 거쳐 프랑스에 남았죠.
+ARCHAMBAULT: Le Malavi conteste ce vote ? ||| 말라비는 그 투표를 문제 삼나요?
+JULIEN: Il contestera ce qu'il pourra. Sa ligne est simple : la géographie, l'histoire administrative, et une indépendance « inachevée ». ||| 할 수 있는 건 다 문제 삼겠죠. 논리는 단순합니다. 지리, 행정의 역사, 그리고 "미완의" 독립.
+ARCHAMBAULT: Inachevée ? Expliquez. ||| 미완이라니, 설명해 주세요.
+JULIEN: Ils s'appuient sur la résolution 1514 de l'Assemblée générale, de 1960, qui proclame le droit des peuples, mais aussi l'intégrité territoriale. Chacun lit la moitié qui l'arrange. ||| 1960년 UN 총회 결의 1514호를 근거로 듭니다. 민족의 권리를 선언하지만 영토 보전도 말하죠. 각자 유리한 절반만 읽어요.
+ARCHAMBAULT: Et nous, quelle moitié lisons-nous ? ||| 우리는 어느 쪽 절반을 읽고요?
+JULIEN: La première, celle des habitants. Mais je la lis avec la seconde ouverte à côté, sur la table. ||| 앞쪽, 주민들의 절반이요. 다만 뒤쪽 절반을 옆 책상에 펴 놓고 읽습니다.
+ARCHAMBAULT: Vous dites que nous n'avons pas gagné d'avance. ||| 미리 이긴 게 아니라는 말씀이군요.
+JULIEN: Je dis qu'une position forte se défend mieux quand on connaît le meilleur argument de l'autre. ||| 강한 입장일수록 상대의 가장 좋은 논거를 알아야 더 잘 지킬 수 있다는 겁니다.
+ARCHAMBAULT: Je note. Et pour les marins, que proposez-vous aujourd'hui, concrètement ? ||| 적어 두죠. 그럼 선원들을 위해 오늘 구체적으로 뭘 제안하겠습니까?
+JULIEN: Je ne propose rien avant d'avoir parlé à ceux qui vivent là-bas. Une heure, par visioconférence. ||| 그곳에 사는 사람들과 이야기하기 전에는 아무것도 제안하지 않겠습니다. 화상으로 한 시간요.
+ARCHAMBAULT: Vous voulez parler à une mairie avant de parler à un ambassadeur ? ||| 대사보다 시청에 먼저 말하겠다고요?
+JULIEN: Un ambassadeur parle de ce qu'il défend. Une mairie parle de ce qu'elle a perdu cette nuit. ||| 대사는 자기가 지키려는 것을 말하고, 시청은 오늘 밤 잃은 것을 말하죠.
+ARCHAMBAULT: Faites-le. Et Monsieur Delorme... ne me faites pas regretter de vous avoir laissé la main. ||| 하세요. 그리고 들로름 씨, 제가 당신에게 키를 맡긴 걸 후회하게 하지는 마세요.
++ sous réserve = 유보 조건부로. 징계 대기 중의 직무 지위를 완곡하게 말하는 표현
++ je ne tiens pas à ce que + subj. = ~하기를 원치 않는다. 정중한 거절의 접속법 구문
++ le chef-lieu = 행정 중심지. 군도의 주도를 가리킨다
++ chacun lit la moitié qui l'arrange = 각자 유리한 절반만 읽는다. 조약 해석 다툼의 핵심 표현
++ laisser la main à quelqu'un = ~에게 주도권을 맡기다
++ une indépendance inachevée = 미완의 독립. 말라비가 쓰는 정치적 수사
++ à côté, sur la table = 곁에 펴 놓고. 상대의 논거를 나란히 두고 읽는 태도의 비유
