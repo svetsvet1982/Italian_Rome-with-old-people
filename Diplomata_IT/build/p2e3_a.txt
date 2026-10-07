@@ -1,0 +1,55 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 3
+@title L'archivio segreto
+@ko 비밀 문서고
+@setting 수요일 오전 교황청 문서고 열람실 → 서고 → 오후 파르네시나 → 저녁 보치아 클럽
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast DON FABRIZIO | 교황청 문서고 사제 기록관, 58세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast ERCOLE | 보치아 클럽 노인, 82세
+@cast CONCETTA | 보치아 클럽의 노나, 84세
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세 (전화)
+@note 3화는 조사의 화입니다. 란차와 조울리아가 교황청 문서고에서 17세기 포로 구속 기록을 찾아 몸값의 선례를 확인합니다. 해법의 씨앗은 '영수증은 기도와 같이 보관한다'는 문서고 사제의 말과, 옛 몸값이 현금이 아니라 현물(천·밀)로, 중개인의 이름과 함께 장부에 기록되었다는 발견입니다. 역사 논거는 베네치아·제노바의 포로 몸값 기록입니다. 제노바는 16세기 말 포로 석방을 전담하는 관청을 두었고, 베네치아에도 비슷한 제도가 있었습니다(세부는 일반화). 어휘는 문서·기록(registro, ricevuta, fascicolo, sigillo, in natura)에 주목하세요.
+@next 4화: 퇴역 군종 사제가 과거의 몸값 지급을 알고 있습니다. 돈의 출처는 한 재단입니다. 고해와 증언 사이의 윤리가 쟁점입니다.
+
+## 문서고 열람실 — LA SALA DI CONSULTAZIONE
+DON FABRIZIO: Dottor Lanza, dottoressa Marchetti. Benvenuti. Qui si parla piano, si cammina piano e si sbaglia piano. ||| 란차 박사님, 마르케티 박사님. 어서 오세요. 여기서는 조용히 말하고 조용히 걷고 조용히 실수합니다.
+CORRADO: Don Fabrizio, grazie dell'accoglienza. ||| 파브리치오 신부님, 맞아 주셔서 감사합니다.
+DON FABRIZIO: L'accoglienza è un dovere. La fiducia è un'altra cosa. Mi ha scritto monsignor Bellandi. ||| 맞이는 의무이지만 신뢰는 다른 문제입니다. 벨란디 몬시뇰이 편지를 보냈더군요.
+CORRADO: Che cosa dice? ||| 뭐라고 적었습니까?
+DON FABRIZIO: Che lei cerca precedenti, e che io le mostri tutto quello che è lecito mostrare. ||| 박사님이 선례를 찾고 있으니 보여 드려도 되는 건 전부 보여 드리라고요.
+CORRADO: «Tutto quello che è lecito». ||| '보여 드려도 되는 건 전부'라.
+DON FABRIZIO: Sono parole che in un archivio significano molte cose. ||| 문서고에서는 많은 뜻을 가진 말이죠.
+GIULIA: Padre, quali sono i fondi che ci interessano? ||| 신부님, 저희에게 해당하는 문서군은 어떤 것들입니까?
+DON FABRIZIO: Secoli diciassettesimo e diciottesimo, ordini redentori. Trinitari, Mercedari. E i registri dei nunzi nelle città marinare. ||| 17~18세기 포로 구속 수도회, 즉 삼위일체회와 메르체다회, 그리고 해양 도시들에 파견된 교황 사절의 기록입니다.
+CORRADO: Che cosa cerchiamo, esattamente, dottoressa? ||| 정확히 무엇을 찾는 거죠, 박사님?
+GIULIA: Tre cose. Chi pagava, chi riceveva, e chi firmava la ricevuta. ||| 세 가지예요. 누가 냈는지, 누가 받았는지, 누가 영수증에 서명했는지.
+DON FABRIZIO: Le ricevute. Brava. ||| 영수증이군요. 훌륭합니다.
+CORRADO: Perché «brava»? ||| 왜 '훌륭하다'고 하십니까?
+DON FABRIZIO: Perché il novanta per cento dei visitatori chiede dove sono i segreti. Lei chiede dove sono le ricevute. ||| 방문객의 90퍼센트는 비밀이 어디 있느냐고 묻습니다. 이분은 영수증이 어디 있느냐고 물으셨으니까요.
+CORRADO: E le ricevute dove sono? ||| 그럼 영수증은 어디 있습니까?
+DON FABRIZIO: Nello stesso scaffale delle preghiere. ||| 기도문과 같은 서가에요.
+CORRADO: Nello stesso scaffale. ||| 같은 서가라니.
+DON FABRIZIO: Una ricevuta, per un frate del Seicento, era una forma di preghiera. Perché diceva: «Ho ricevuto tanto, da tale persona, per la libertà di tale uomo. Dio vede». ||| 17세기 수사에게 영수증은 일종의 기도였습니다. '아무개에게서 이만큼을 받아 아무개의 자유를 위해 썼다. 하느님이 보신다'라고 말하니까요.
+CORRADO: «Dio vede». ||| '하느님이 보신다'.
+DON FABRIZIO: E oggi, se lei mi permette, anche l'archivista vede. ||| 그리고 오늘은, 허락하신다면 문서고 사제도 봅니다.
+GIULIA: Padre, posso fotografare le pagine? ||| 신부님, 페이지를 촬영해도 될까요?
+DON FABRIZIO: Fotografare, no. Copiare a matita, sì. ||| 촬영은 안 됩니다. 연필로 베끼는 건 됩니다.
+GIULIA: A matita. ||| 연필로요.
+DON FABRIZIO: La matita si cancella. La memoria no. Ci vuole più rispetto a ricopiare che a fotografare. ||| 연필은 지워지지만 기억은 지워지지 않아요. 촬영보다 베껴 쓸 때 더 존중이 필요합니다.
+CORRADO: Giulia, hai una matita? ||| 조울리아, 연필 있어요?
+GIULIA: Ne ho tre. Sono di Bologna. ||| 세 자루 있어요. 볼로냐 사람이니까요.
+DON FABRIZIO: Allora vi porto il primo volume. Si chiama «Libro delle redenzioni, 1642-1651». ||| 그럼 첫 권을 가져오겠습니다. 『구속 장부, 1642~1651』입니다.
++ sala di consultazione = 열람실
++ ordine redentore = 포로 구속 수도회
++ nunzio = 교황 사절
++ ricevuta = 영수증
++ a matita = 연필로
++ fondi = 문서군(archivio의 컬렉션)
++ è lecito = 허용된다
++ scaffale = 서가
++ Dio vede = 하느님이 보신다(영수증 문구)
