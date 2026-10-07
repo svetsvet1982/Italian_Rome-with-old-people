@@ -1,0 +1,122 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 4
+@title Le traducteur juré
+@ko 공증 번역사
+@setting 몽파르나스발 앙제행 TGV → 앙제의 뷔소르 부인 집(사전들 사이) → 번역 노트 읽기 → 차 한 잔 뒤의 진술 → 귀로
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 마르세유 출신 법학자
+@cast VASSEUR | 오딜 뷔소르, 은퇴 공증 번역사(아랍어·영어), 78세. 앙제 거주, 번역 노트를 모두 보관한다
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 4화입니다. 쥘리앵과 카미유는 앙제에 사는 은퇴 공증 번역사 오딜 뷔소르를 찾아갑니다. 그녀는 3월에 부속 서한의 영어 작업본(brouillon de travail)을 프랑스어로 옮겼고, 번역 노트 여백에 이렇게 적어 두었습니다. «ENGAGEMENT (choix du client) / OBLIGATION (sens du texte)». 의뢰인이 '더 부드럽고 더 프랑스어답다'며 engagement를 요구했고, 아랍어 iltizām(어근 l-z-m: 들러붙다, 필요하다)은 obligation에 가깝다는 것입니다. 노트에는 '영어 초안 3(draft 3) 미확인'이라는 메모도 남아 있고, 번역료가 의뢰인이 아닌 제3자 계좌로 지급되었다는 단서도 있습니다. 역사 논거는 칼리에르의 『군주와의 협상 방법』(1716)과 라슈타트 조약(1714)입니다. 칼리에르는 협상가가 사실에 정통하고 신의를 지켜야 한다고 썼고, 라슈타트 조약은 유럽의 주요 강화 조약 가운데 처음으로 프랑스어로 쓰였으며 이것이 선례가 되지 않는다는 조항을 붙였습니다. 어휘는 접속법(à moins que… ne…, bien que…), 번역 어휘(rendre, traduire, le sens vs la lettre), 존댓말 vous의 결을 살피세요.
+@next 5화: 번역 위원회라는 아이디어를 들고 쥘리앵과 카미유는 브뤼셀로 갑니다. EU 대표와 걸프 측 대표들이 억류 해제와 계약 구조를 협의하는 테이블에서 벨기에 대표가 '세 판본이면 세 번 합의한 셈'이라고 농담합니다.
+
+## 열차와 인증본 — LE TRAIN POUR ANGERS
+CAMILLE: La communication certifiée est arrivée ce matin, par coursier. Monsieur Pochon a même joint un mot : « Page trois, manquante. Ne la cherchez pas dans mes rayons. » ||| 인증 열람본이 오늘 아침 배달부 편으로 왔어요. 포숑 씨가 쪽지도 붙였어요. '3쪽, 없음. 제 서가에서는 찾지 마십시오.'
+JULIEN: Un homme qui sait être drôle en dix mots. Et Lefort ? ||| 열 마디로 웃길 줄 아는 사람이네요. 르포르는요?
+CAMILLE: Il a appris la demande par la Direction juridique. Il a téléphoné à sept heures du matin pour demander qui avait sollicité l'expertise. ||| 법무국을 통해 신청 사실을 알았어요. 아침 7시에 전화해서 누가 감정을 요청했냐고 물었답니다.
+JULIEN: Et qu'a répondu la sous-directrice ? ||| 부국장은 뭐라고 답했답니까?
+CAMILLE: Qu'il y avait eu « une consultation de routine concernant la cohérence linguistique d'un dossier d'exportation ». Elle a ajouté qu'elle était en réunion. ||| '수출 서류의 언어적 정합성에 대한 일상적 문의'였다고 했대요. 그리고 회의 중이라고 덧붙였고요.
+JULIEN: Excellent. Une phrase inattaquable et un prétexte pour raccrocher. ||| 훌륭하군요. 공격할 수 없는 문장 하나와 전화를 끊을 구실 하나.
+CAMILLE: Nous arrivons à Angers dans quarante minutes. J'ai préparé une fiche sur madame Vasseur. ||| 40분 뒤에 앙제에 도착해요. 뷔소르 부인에 대한 카드를 만들어 왔어요.
+JULIEN: Lisez-la-moi. ||| 읽어 주세요.
+CAMILLE: Odile Vasseur, soixante-dix-huit ans, traductrice jurée près la cour d'appel de Paris de 1981 à 2019. Arabe, anglais, un peu d'italien. Radiée sur sa demande. ||| 오딜 뷔소르, 78세. 1981년부터 2019년까지 파리 항소법원 등록 공증 번역사. 아랍어, 영어, 이탈리아어 약간. 본인 요청으로 말소됐어요.
+JULIEN: Radiée sur sa demande. Pourquoi ? ||| 본인 요청으로 말소됐다. 왜죠?
+CAMILLE: Il n'y a rien. Pas un incident, pas une plainte. Simplement : « Cessation d'activité. » ||| 아무것도 없어요. 사고도 민원도 없고요. 그냥 '활동 중단'이에요.
+JULIEN: Les gens qui partent sans incident ont presque toujours une raison très ordinaire et très secrète. ||| 사고 없이 떠나는 사람은 거의 항상 아주 평범하고 아주 비밀스러운 이유가 있죠.
+CAMILLE: Vous voulez que je lui pose la question ? ||| 제가 물어볼까요?
+JULIEN: Non. Je veux que vous écoutiez comment elle parle de ses dictionnaires. On apprend tout d'une personne par la manière dont elle parle de ses outils. ||| 아니요. 사전들을 어떻게 말하는지 들어 주세요. 도구를 어떻게 말하는가에서 그 사람의 모든 걸 알 수 있어요.
+CAMILLE: Et le crémet d'Anjou ? ||| 앙주 크레메는요?
+JULIEN: Je l'ai acheté gare Montparnasse, dans la boutique à côté du kiosque. Je me sens ridicule. ||| 몽파르나스역 가판대 옆 가게에서 샀어요. 우스꽝스러운 기분이 드네요.
+CAMILLE: Monsieur Valcourt vous l'avait demandé. ||| 발쿠르 대사님이 부탁하신 거잖아요.
+JULIEN: C'est précisément pourquoi je me sens ridicule. Je lui obéis comme un petit garçon. ||| 바로 그래서 우스꽝스러운 겁니다. 꼬마처럼 그 말을 따르고 있잖아요.
+CAMILLE: Je vous trouve plutôt courtois. ||| 오히려 예의 바르다고 생각해요.
+JULIEN: On dit « courtois » à ceux qui obéissent avec grâce. ||| 우아하게 복종하는 사람에게 '예의 바르다'고 하죠.
++ une communication certifiée = 인증 열람본. coursier = 배달원
++ radié(e) sur sa demande = 본인 요청으로 말소된. cessation d'activité = 활동 중단
++ Elle a ajouté qu'elle était en réunion = 간접화법 시제 일치. 회의를 핑계로 하는 외교적 거절
++ Je veux que vous écoutiez… = vouloir que + 접속법. 도구를 말하는 방식으로 사람을 읽는다
++ On dit « courtois » à ceux qui… = 완곡한 평가 어휘. courtois vs poli
++ presque toujours = 거의 항상. une raison très ordinaire et très secrète = 대조적 형용사 병치
+
+## 사전들 사이의 집 — LA MAISON AUX DICTIONNAIRES
+VASSEUR: Entrez, entrez. Vous êtes ceux qui ont téléphoné hier soir. Je vous attendais à quatre heures, vous arrivez à quatre heures et deux minutes. Pardonnés. ||| 들어오세요, 들어와요. 어젯밤에 전화하신 분들이군요. 4시에 기다렸는데 4시 2분에 오셨네. 용서해 드리지요.
+JULIEN: Madame Vasseur, bonjour. Julien Delorme. Voici Camille Roussel. Henri de Valcourt nous a donné votre adresse et nous demande de vous apporter ceci. ||| 뷔소르 부인, 안녕하십니까. 쥘리앵 들로름입니다. 이쪽은 카미유 루셀이고요. 앙리 드 발쿠르 대사가 주소를 알려 주며 이걸 가져가라고 했습니다.
+VASSEUR: Un crémet d'Anjou ! Il se souvient donc. Henri me l'apportait en 1991, quand il revenait de Tripoli avec ses rapports. ||| 앙주 크레메! 기억하고 있었네요. 앙리는 1991년에 보고서를 들고 트리폴리에서 돌아올 때 이걸 가져오곤 했지요.
+CAMILLE: Vous connaissiez l'ambassadeur à l'époque ? ||| 그때 대사님을 아셨어요?
+VASSEUR: Je traduisais pour sa mission. Il m'a appris qu'une dépêche mal traduite peut coûter plus cher qu'une dépêche mal écrite. ||| 그분 공관을 위해 번역했지요. 잘못 번역한 전문이 잘못 쓴 전문보다 비쌀 수 있다고 가르쳐 주더군요.
+JULIEN: C'est précisément ce qui nous amène, madame. ||| 바로 그것이 저희가 찾아온 이유입니다.
+VASSEUR: Asseyez-vous. Du thé ? J'ai de la verveine. Pas de café, je n'en bois plus, mon médecin me l'a interdit. ||| 앉으세요. 차 드릴까요? 버베나가 있어요. 커피는 이제 안 마셔요, 의사가 금지했거든.
+CAMILLE: Volontiers. Vous avez une bibliothèque impressionnante. ||| 좋아요. 서재가 대단하시네요.
+VASSEUR: Quarante-trois ans de dictionnaires. Le Hans Wehr, le Kazimirski, le Robert, les glossaires juridiques. Je les garde dans l'ordre où je m'en suis servie. ||| 43년 치 사전이에요. 한스 베어, 카지미르스키, 로베르, 법률 용어집들. 쓴 순서대로 꽂아 둬요.
+JULIEN: Madame, nous venons vous parler d'un travail que vous avez effectué en mars de l'année dernière. Un travail confidentiel. ||| 부인, 작년 3월에 하신 작업에 대해 말씀드리러 왔습니다. 기밀 업무였죠.
+VASSEUR: J'ai cessé d'être juré il y a six ans, monsieur. Mais je suis restée discrète. Je suis tenue au secret, même à la retraite. ||| 6년 전에 공증 번역사를 그만뒀어요. 하지만 입은 무거운 채로 있었지요. 은퇴해도 비밀 유지 의무가 있어요.
+JULIEN: Je le comprends parfaitement. Je ne vous demanderai rien que votre conscience ne puisse donner. ||| 충분히 이해합니다. 부인의 양심이 줄 수 없는 건 아무것도 청하지 않겠습니다.
+VASSEUR: Voilà qui est bien tourné. Mais entre la conscience et la loi, il y a toujours un petit couloir. Parlez-moi du contexte. ||| 말을 잘 하시네. 하지만 양심과 법 사이에는 늘 작은 복도가 있지요. 상황을 들려주세요.
+CAMILLE: Quatorze ingénieurs français sont retenus dans l'émirat de Kasra. Les autorités se fondent sur une lettre annexe qui crée, selon elles, une obligation de livrer. ||| 프랑스 기술자 열네 명이 카스라 에미르국에 억류돼 있습니다. 당국은 인도 의무를 만든다고 주장하는 부속 서한을 근거로 삼고 있고요.
+VASSEUR: Une obligation. Le mot est fort. Dans la version française, savez-vous ce qu'on lit ? ||| 의무라. 강한 말이네요. 프랑스어판에서는 뭐라고 쓰여 있는지 아세요?
+JULIEN: « La Société prend l'engagement de livrer… » ||| '회사는 인도하겠다는 약속을 한다…'입니다.
+VASSEUR: Voilà. Prend l'engagement. Je ne suis pas étonnée. ||| 그렇지. 약속을 한다. 놀랍지 않네요.
+CAMILLE: Vous voulez dire que vous connaissez cette phrase ? ||| 그 문장을 아신다는 말씀인가요?
+VASSEUR: Je l'ai écrite. Ou plutôt, je l'ai traduite à la demande de quelqu'un qui souhaitait qu'elle soit ainsi. ||| 제가 썼어요. 정확히는 그렇게 되길 바란 사람의 요청대로 번역했죠.
+JULIEN: Madame Vasseur, vous nous rendez un très grand service. ||| 뷔소르 부인, 크게 도와주시는 겁니다.
+VASSEUR: Je ne vous rends pas service. Je décharge ma conscience, ce qui est tout autre chose. Attendez. Il me faut mon carnet. ||| 도와드리는 게 아니에요. 양심의 짐을 내려놓는 거지, 전혀 다른 일이에요. 기다려요. 노트가 필요하겠네.
+JULIEN: Un carnet ? ||| 노트요?
+VASSEUR: Un traducteur sans carnet, monsieur, c'est un menteur sans témoin. J'en ai cent quatorze. Le numéro cent douze est celui de votre mois de mars. ||| 노트 없는 번역사는 증인 없는 거짓말쟁이예요. 114권 있어요. 112번이 당신들의 3월이고.
+CAMILLE: Vous avez conservé cent quatorze carnets ? ||| 114권을 다 보관하셨어요?
+VASSEUR: Dans la cave, par ordre alphabétique des clients, et par ordre chronologique à l'intérieur. Je suis une femme méthodique, ce qui m'a longtemps tenue éloignée des ennuis. ||| 지하실에 고객 가나다순으로, 그 안에서는 시간순으로 있어요. 나는 체계적인 사람이라 오랫동안 곤란한 일을 피했지요.
+JULIEN: Et ensuite ? ||| 그런데 그 뒤엔요?
+VASSEUR: Ensuite, il y a eu mars. ||| 그 뒤엔 3월이 왔지요.
+CAMILLE: Madame Vasseur, nous pouvons attendre. ||| 뷔소르 부인, 기다리겠습니다.
+VASSEUR: Je sais. C'est ce qui est insupportable chez les gens bien élevés. Ils attendent. ||| 알아요. 그게 예의 바른 사람들의 견딜 수 없는 점이지, 기다린다는 거.
++ jurer / traducteur juré = 선서하다 / 공증 번역사. être tenu au secret = 비밀 유지 의무가 있다
++ Pardonnés = 용서해 드리지요(어르신 말투의 짧은 판결). Voilà qui est bien tourné = 말이 잘 다듬어졌군요
++ une obligation de livrer = 인도 의무. se fonder sur = ~에 근거하다
++ Je ne vous demanderai rien que votre conscience ne puisse donner = rien… que + 접속법. 양심이 줄 수 있는 것만 청한다는 우아한 한정
++ décharger sa conscience = 양심의 짐을 덜다. Un traducteur sans carnet, c'est un menteur sans témoin = 비유적 경구
++ Le Hans Wehr, le Kazimirski = 아랍어 사전의 대표 이름(영어·프랑스어 사전). 번역사 직업의 도구를 보여 주는 소품
++ Vous êtes ceux qui ont téléphoné = 지시대명사 + 관계절. 이름 대신 '~한 분들'로 호명
+
+## 노트 112번 — LE CARNET CENT DOUZE
+VASSEUR: Voici. Carnet cent douze, mars. Ne le posez pas à plat, la reliure est fragile. ||| 여기 있어요. 112번 노트, 3월분. 평평하게 놓지 마세요, 제본이 약해요.
+JULIEN: Nous le manipulerons comme une pièce de musée. ||| 박물관 소장품처럼 다루겠습니다.
+VASSEUR: Page quarante. « Dix mars. Client : cabinet de conseil. Texte source : brouillon de travail en anglais, quatre pages, dit draft quatre. À traduire en français. » ||| 40쪽. '3월 10일. 의뢰인: 컨설팅 사무소. 원문: 영어 작업 초안 4쪽, 이른바 4차 초안. 프랑스어로 번역할 것.'
+CAMILLE: Quatre pages en anglais. Et la version française en fait trois. ||| 영어로 네 쪽이네요. 프랑스어판은 세 쪽이고요.
+VASSEUR: Parce qu'on m'a demandé de ne traduire que trois pages sur quatre. Le client m'a dit : « La troisième sera traitée à part. » ||| 네 쪽 중 세 쪽만 번역하라는 요청을 받았거든요. 의뢰인이 말했어요. '셋째 쪽은 따로 처리할 겁니다.'
+JULIEN: La troisième page. Vous l'avez lue ? ||| 셋째 쪽을 읽으셨습니까?
+VASSEUR: Je l'ai lue avant de l'écarter. Elle était intitulée « Language ». Je l'ai notée dans mon carnet, voyez : « p.3 — Language : non traduite sur instruction ». ||| 제외하기 전에 읽었어요. 제목이 'Language'였어요. 노트에 적어 뒀지요, 보세요. '3쪽 — 언어 조항: 지시로 번역하지 않음'.
+CAMILLE: Que disait cet article ? ||| 그 조항에는 뭐라고 쓰여 있었죠?
+VASSEUR: Je ne l'ai pas retenu mot à mot. Je me souviens seulement qu'il disait que le texte de travail anglais servait de référence en cas de doute. ||| 한 마디 한 마디 기억하진 못해요. 의심이 생길 땐 영어 작업본이 기준이 된다는 내용이었다는 것만 기억해요.
+JULIEN: Un texte de référence anglais pour une lettre que personne n'a signée en anglais. ||| 아무도 영어로 서명하지 않은 서한의 기준 텍스트가 영어라니.
+VASSEUR: C'est ce qui m'a frappée. Mais je ne suis pas juriste. Je suis traductrice. Je n'ai pas à juger de ce qu'on me donne à traduire. ||| 그게 눈에 띄었어요. 하지만 나는 법률가가 아니에요. 번역사예요. 번역하라고 준 걸 판단할 자격은 없지요.
+CAMILLE: Et le paragraphe de l'engagement ? ||| 그럼 '약속'의 단락은요?
+VASSEUR: Page quarante et un. Regardez la marge. J'écris toujours à gauche mes doutes, à droite mes choix. ||| 41쪽. 여백을 보세요. 왼쪽에 의심, 오른쪽에 선택을 적어요.
+CAMILLE: À gauche : « undertakes » — « s'engage », « s'oblige », « promet » ? À droite : « prend l'engagement ». ||| 왼쪽에 'undertakes' — '약속하다', '의무를 지다', '언약하다'? 오른쪽에는 '약속을 한다'고 되어 있고요.
+VASSEUR: Et en dessous, en rouge, ce que j'ai écrit le soir même. Lisez. ||| 그리고 그 아래에 같은 날 저녁 빨간색으로 쓴 걸 읽어 보세요.
+JULIEN: « ENGAGEMENT : choix du client. OBLIGATION : sens du texte. » Soulignés deux fois. ||| '약속: 의뢰인의 선택. 의무: 텍스트의 의미.' 두 번 밑줄이 쳐져 있군요.
+VASSEUR: Je l'ai souligné deux fois parce que je savais qu'un jour, quelqu'un viendrait me poser la question. ||| 두 번 밑줄 친 건 언젠가 누군가 와서 물을 줄 알았기 때문이에요.
+JULIEN: Pourquoi le client voulait-il « engagement » ? ||| 의뢰인은 왜 '약속'을 원했습니까?
+VASSEUR: Il m'a dit que « obligation » sonnait trop juridique, trop rigide. Que « engagement » était plus souple et plus français. ||| '의무'는 너무 법률적이고 뻣뻣하게 들린다더군요. '약속'이 더 부드럽고 프랑스어답다고.
+CAMILLE: Plus souple pour qui ? ||| 누구에게 더 부드럽다는 거죠?
+VASSEUR: C'est la bonne question. Plus souple pour celui qui doit livrer, évidemment. ||| 맞는 질문이에요. 인도해야 하는 쪽에게 더 부드럽다는 거지요, 물론.
+JULIEN: Et l'arabe ? Vous avez eu accès à la version arabe ? ||| 아랍어판은요? 아랍어판을 보셨습니까?
+VASSEUR: Je l'ai vue après. Le client me l'a envoyée pour que je vérifie la concordance. Le mot est iltizām. ||| 나중에 봤어요. 의뢰인이 일치 여부를 확인하라고 보내 줬지요. 단어는 일티잠이었어요.
+CAMILLE: Quel est le sens exact de ce mot ? ||| 그 단어의 정확한 뜻은 뭔가요?
+VASSEUR: Il vient de la racine l-z-m, qui exprime ce qui colle, ce qui est nécessaire, ce dont on ne peut se détacher. Dans un contrat, c'est une obligation. Pas un souhait. Pas un effort. ||| 어근 l-z-m에서 오는데, 달라붙는 것, 꼭 필요한 것, 떼어 낼 수 없는 것을 뜻해요. 계약에서는 의무예요. 희망도 노력도 아니고요.
+JULIEN: Alors les deux versions ne disent pas la même chose, et vous le saviez. ||| 그럼 두 판본이 같은 말을 하지 않는데, 알고 계셨던 거군요.
+VASSEUR: Je le savais en écrivant. J'ai alerté le client par courriel. Voici sa réponse, imprimée dans le carnet. ||| 쓰면서 알았어요. 의뢰인에게 이메일로 알렸고, 답장을 노트에 인쇄해 붙여 놨지요.
+CAMILLE: « Merci de votre vigilance. Nous gardons "engagement". La question sera traitée au niveau politique. » ||| '주의 깊게 봐 주셔서 감사합니다. 우리는 '약속'을 유지합니다. 이 문제는 정치적 차원에서 처리될 것입니다.'
+JULIEN: Au niveau politique. Comme si un mot pouvait être réglé en conseil des ministres. ||| 정치적 차원이라. 단어 하나를 각의에서 정리할 수 있다는 듯이.
+VASSEUR: Un mot peut être réglé n'importe où, pourvu qu'on le règle avant la signature. Après, il ne se règle plus : il se plaide. ||| 서명 전에만 정리한다면 단어 하나는 어디서든 정리할 수 있어요. 서명 뒤에는 정리하는 게 아니라 다투게 되고요.
++ le texte source / le texte cible = 원문 / 번역문. brouillon de travail = 작업 초안
++ Soulignés deux fois = 두 번 밑줄 친. la marge = 여백. traduire sur instruction = 지시에 따라 번역하다
++ iltizām (어근 l-z-m) = 달라붙다·꼭 필요하다. 계약에서는 '의무'. engagement보다 강하다
++ pour que je vérifie = pour que + 접속법. pourvu qu'on le règle avant = pourvu que + 접속법
++ Plus souple pour qui ? = 누구에게 유리한가를 묻는 질문. À qui profite… 의 일상 표현
++ se plaider = 법정에서 다투어지다(대명동사 수동). 서명 뒤엔 정리가 아니라 소송이라는 대비
++ Je n'ai pas à juger = 판단할 자격(입장)이 아니다. avoir à + inf.는 의무·자격의 뉘앙스

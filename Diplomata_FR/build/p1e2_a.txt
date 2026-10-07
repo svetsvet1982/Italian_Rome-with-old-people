@@ -1,0 +1,141 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 2
+@title Thé à Genève
+@ko 제네바의 차
+@setting 파리 리옹역에서 제네바행 열차 → 제네바 호텔 레스토랑의 치즈 카트(발쿠르) → 호텔 티룸(카스라 외교차관) → 복도 전화 → 호텔 방
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 마르세유 출신 법학자
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast FAROUQI | 이드리스 알 파루키, 카스라 외교차관, 61세. 몽펠리에에서 법학을 공부했고 옛 프랑스어를 쓴다
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 2화입니다. 제네바 호텔 티룸에서 카스라 외교차관 이드리스 알 파루키와 비공식으로 만납니다. 그는 몽펠리에에서 법학을 배운 사람으로 «céans», «nonobstant», «sied» 같은 옛 프랑스어를 씁니다. 해법의 순간은 그가 '약속하다'(s'engager)가 아니라 옛 공증 문서의 말투 «promettre et s'obliger»를 쓰는 대목입니다. 쥘리앵은 이 동사 하나에서 부속 서한의 아랍어 단어(iltizām)를 의식합니다. 역사 논거는 탈레랑과 빈 회의(1814년 9월~1815년 6월)입니다. 패전국 프랑스의 대표 탈레랑은 정통성 원칙을 내세워 4대국의 논의에 끼어들었고 1815년 1월 3일 프랑스·오스트리아·영국의 비밀 방어 조약을 맺었으며, 요리사 카렘의 만찬은 외교의 도구가 되었다고 전해집니다. 어휘는 tu/vous 구분, 접속법(Je souhaite que…, avant que… ne…), 옛 표현(céans, nonobstant, point), 법률 용어(s'obliger, ladite lettre)에 주목하세요.
+@next 3화: 케도르세 문서고(라 쿠르뇌브)에서 부속 서한의 프랑스어판과 아랍어판 목록의 쪽수가 다르다는 사실을 문서고 직원의 '쪽수 도장'으로 확인합니다.
+
+## 열차 칸에서 — DANS LE TRAIN POUR GENÈVE
+CAMILLE: Quatre heures dix de trajet, et vous n'avez pas ouvert le dossier une seule fois. ||| 네 시간 십 분 가는데 서류를 한 번도 안 여셨어요.
+JULIEN: Je regarde le Jura. Il y a des problèmes qui se résolvent mieux en regardant les montagnes qu'en lisant les annexes. ||| 쥐라 산맥을 보는 중이에요. 부속 문서를 읽는 것보다 산을 보는 게 나은 문제도 있어요.
+CAMILLE: Lefort vous a répondu ? ||| 르포르가 답을 줬나요?
+JULIEN: Il a répondu en quarante minutes, ce qui est son record. « Dossier transmis en l'état. Aucune autre pièce n'est à ce stade jugée utile. » ||| 40분 만에 답했어요, 그 사람 신기록이죠. '서류는 현 상태로 전달함. 현 단계에서 다른 자료는 불필요하다고 판단함.'
+CAMILLE: « Jugée utile par qui ? » ||| '누가' 불필요하다고 판단했다는 거죠?
+JULIEN: Voilà la bonne question. La voix passive est la forme préférée de ceux qui ne veulent pas qu'on les trouve. ||| 바로 그 질문이에요. 수동태는 들키고 싶지 않은 사람들이 좋아하는 형식이죠.
+CAMILLE: J'ai tout de même demandé au service juridique de la société. Ils m'ont envoyé le contrat et ses quatre avenants. ||| 그래도 회사 법무팀에 물었어요. 계약서와 추가 합의서 네 건을 보내 줬어요.
+JULIEN: Et la lettre annexe ? ||| 부속 서한은요?
+CAMILLE: Ils n'en ont qu'une copie sans en-tête, sans signature lisible, en français seulement. Ils disent que c'est « un courrier de politesse ». ||| 머리글도 읽을 만한 서명도 없는 프랑스어 사본 하나뿐이래요. '예의상 쓴 편지'라고 하고요.
+JULIEN: Un courrier de politesse qui réclame quatre-vingt-sept millions. La politesse coûte cher, dans ce monde. ||| 8,700만 유로를 청구하는 예의상 편지라. 이 세계에서 예의는 값이 나가네요.
+CAMILLE: Que sait-on du vice-ministre ? Hélène vous a dit quelque chose ? ||| 차관에 대해서는 뭘 알죠? 엘렌이 뭐라고 했나요?
+JULIEN: Idris al-Farouqi, soixante et un ans. Étudiant à Montpellier, puis fonctionnaire pendant trente ans. Il a signé en personne la lettre annexe, du côté kasrien. ||| 이드리스 알 파루키, 61세. 몽펠리에에서 공부했고 이후 30년간 관료로 일했죠. 카스라 측에서 부속 서한에 직접 서명한 사람이에요.
+CAMILLE: Alors il connaît le texte mieux que nous. ||| 그럼 우리보다 문서를 더 잘 알겠네요.
+JULIEN: Mieux que nous, mais peut-être pas mieux que lui-même. Un homme qui a signé une lettre en trois langues oublie parfois la langue dans laquelle il l'a lue. ||| 우리보다는 낫겠지만 본인만큼은 모를지도 몰라요. 세 언어로 쓰인 편지에 서명한 사람은 자기가 어느 언어로 읽었는지 가끔 잊어버리죠.
+CAMILLE: Trois langues ? Vous disiez deux. ||| 세 언어요? 두 개라고 하셨잖아요.
+JULIEN: J'ai dit deux hier. Aujourd'hui, je n'en suis plus certain. Le français, l'arabe, et l'anglais avec lequel tout le monde a commencé à travailler. ||| 어제는 두 개라고 했죠. 오늘은 확신이 없어요. 프랑스어, 아랍어, 그리고 모두가 처음에 작업을 시작했던 영어요.
+CAMILLE: L'anglais n'est cité nulle part dans la lettre. ||| 서한 어디에도 영어는 언급이 없어요.
+JULIEN: Précisément. C'est toujours la langue dont on ne parle pas qui a rédigé le premier jet. ||| 바로 그거예요. 초안을 쓴 건 늘 말해지지 않는 언어죠.
+CAMILLE: Vous voulez que je prépare des questions écrites ? ||| 질문을 서면으로 준비할까요?
+JULIEN: Non. Il ne faut surtout pas arriver avec un questionnaire. Avec un homme comme lui, on va au thé comme on va à l'église, sans programme. ||| 아니에요. 질문지를 들고 가면 절대 안 돼요. 그런 사람한테는 교회에 가듯 차를 마시러 가는 거예요, 프로그램 없이.
+CAMILLE: Et si nous restons sur la météo ? ||| 날씨 얘기만 하다 끝나면요?
+JULIEN: Alors nous aurons appris que la météo l'intéresse plus que nous. C'est déjà une information. ||| 그럼 날씨가 우리보다 그에게 더 관심사라는 걸 알게 되겠죠. 그것도 정보예요.
+CAMILLE: Je note : ne pas mentionner la lettre avant qu'il ne l'ait fait. ||| 메모할게요. 그가 먼저 말하기 전에는 서한을 언급하지 말 것.
+JULIEN: Si possible. Et s'il ne le fait pas, c'est à moi de le faire sans que ça ressemble à une accusation. ||| 가능하면요. 그가 안 꺼내면 비난처럼 들리지 않게 내가 꺼내야죠.
+CAMILLE: Comment dit-on cela en français ? ||| 그건 프랑스어로 어떻게 말하죠?
+JULIEN: On dit : « Il se trouve que… » C'est la formule des gens qui ont tout préparé. ||| '그러고 보니…'라고 해요. 모든 걸 준비해 온 사람들의 말투죠.
++ en l'état = 현 상태 그대로. Aucune pièce n'est jugée utile = 수동태로 책임 주체를 숨기는 행정 문체
++ le premier jet = 초안. rédiger un premier jet
++ courrier de politesse = 의례적 서신. 법적 구속력을 깎아내리는 말
++ avant qu'il ne l'ait fait = avant que + (ne 허사) + 접속법 과거
++ sans que ça ressemble à… = sans que + 접속법. ~처럼 보이지 않게
++ Il se trouve que… = 마침(공교롭게도) ~하다. 준비된 질문을 우연처럼 꺼낼 때
++ comme on va à l'église = 비유 비교. 격식과 존중의 분위기를 말함
++ C'est à moi de + inf. = 그건 내가 해야 한다
+
+## 제네바의 치즈 카트 — LE CHARIOT DU BORD DU LAC
+VALCOURT: Mes enfants, vous êtes à l'heure, ce qui est suspect. Asseyez-vous. Le lac est gris, le vacherin est tiède, tout va bien. ||| 얘들아, 시간 맞춰 왔구나, 수상한데. 앉아라. 호수는 잿빛이고 바슈랭은 따뜻하고, 다 좋다.
+JULIEN: Monsieur l'ambassadeur, je ne savais pas que vous seriez à Genève. ||| 대사님이 제네바에 계신 줄 몰랐습니다.
+VALCOURT: Je donne une conférence à l'Institut, sur la politesse des traités. Un public de cinquante étudiants et de trois dormeurs. ||| 연구소에서 조약의 예절을 주제로 강연해요. 학생 쉰 명과 조는 사람 셋이 청중이죠.
+CAMILLE: Je suis ravie de vous revoir, monsieur l'ambassadeur. ||| 다시 뵙게 되어 기뻐요, 대사님.
+VALCOURT: Camille Roussel. La seule personne du Quai qui lise les notes de bas de page. Prenez du vacherin, avec une cuillère. ||| 카미유 루셀. 케도르세에서 각주를 읽는 유일한 사람이지. 바슈랭 좀 들어요, 숟가락으로.
+JULIEN: Je dois voir al-Farouqi à dix-sept heures. Je n'ai pas de plan. ||| 오후 5시에 알 파루키를 만납니다. 계획이 없어요.
+VALCOURT: Vous n'avez pas de plan, mais vous avez un hôte. Savez-vous ce que Talleyrand faisait à Vienne, en 1814 ? ||| 계획은 없어도 주인은 있잖아요. 1814년 빈에서 탈레랑이 뭘 했는지 알아요?
+JULIEN: Il a obtenu que la France soit admise à la table des vainqueurs. ||| 프랑스가 승전국들의 테이블에 앉게 만들었죠.
+VALCOURT: Bien. Mais comment ? On est en septembre, la France est vaincue, et les quatre grandes puissances — la Russie, la Prusse, l'Autriche et l'Angleterre — veulent régler l'Europe entre elles. ||| 좋아요. 하지만 어떻게? 9월이었고 프랑스는 패전국이었고, 러시아·프로이센·오스트리아·영국 네 강국은 자기들끼리 유럽을 정리하려 했어요.
+CAMILLE: Et lui représente le roi Louis XVIII, qui n'a pas d'armée. ||| 그리고 그는 군대 없는 루이 18세를 대표했죠.
+VALCOURT: Il n'a que deux armes, le principe de légitimité et une table. On raconte que son cuisinier, Carême, lui préparait des dîners dont tout Vienne parlait. ||| 무기는 두 개뿐이었어요. 정통성 원칙과 식탁. 요리사 카렘이 차려 낸 만찬은 빈 전체의 화젯거리였다고 전해져요.
+JULIEN: On lui prête cette phrase : « Donnez-moi de bonne cuisine, je vous ferai de bonne politique. » ||| 이런 말이 그의 것으로 전해지죠. '좋은 요리를 주시면 좋은 정치를 해 드리겠소.'
+VALCOURT: On lui prête beaucoup de choses. Mais ce qui est certain, c'est qu'en janvier 1815, la France signait avec l'Autriche et l'Angleterre une alliance secrète contre les ambitions de la Russie et de la Prusse. ||| 그에게는 많은 말이 붙죠. 하지만 확실한 건 1815년 1월 프랑스가 오스트리아·영국과 러시아·프로이센의 야심에 맞선 비밀 동맹에 서명했다는 겁니다.
+JULIEN: Le vaincu s'était fait allié en quatre mois. ||| 패전국이 넉 달 만에 동맹국이 됐군요.
+VALCOURT: Une légende veut qu'au dîner, on ait fait un concours de fromages, et que le brie de Meaux ait été proclamé roi des fromages. Je crois que c'est trop beau pour être vrai. ||| 전설에 따르면 만찬에서 치즈 대회가 열렸고 모 브리가 '치즈의 왕'으로 선포됐다고 해요. 너무 아름다워서 진짜 같지 않죠.
+CAMILLE: Alors quelle morale en tirer pour demain ? ||| 그럼 내일을 위해 거기서 어떤 교훈을 얻죠?
+VALCOURT: Que le sujet sérieux n'entre jamais par la grande porte. Il entre par la cuisine, par l'anecdote, par le fromage. Avec al-Farouqi, parlez d'abord de Montpellier. ||| 진지한 주제는 정문으로 들어오지 않는다는 것. 부엌으로, 일화로, 치즈로 들어와요. 알 파루키와는 먼저 몽펠리에 얘기를 하세요.
+JULIEN: Hélène me l'a dit : c'est un homme qui a appris le français dans les codes, pas dans la rue. ||| 엘렌이 그랬어요. 길이 아니라 법전으로 프랑스어를 배운 사람이라고요.
+VALCOURT: Alors écoutez ses verbes, pas ses adjectifs. Les adjectifs, il les emprunte. Les verbes, il les a choisis. ||| 그럼 형용사 말고 동사를 들어요. 형용사는 빌려 쓰지만 동사는 직접 고른 거니까.
+JULIEN: C'est un conseil ou un indice ? ||| 조언이에요, 힌트예요?
+VALCOURT: Un vieux conseil, déguisé en indice. Allez, prenez de la tomme vaudoise avant qu'on ne l'emporte. ||| 낡은 조언이 힌트로 변장한 거지. 자, 토므 보두아즈를 들어요, 치워 가기 전에.
+CAMILLE: Monsieur l'ambassadeur, puis-je vous poser une question qui n'a pas de rapport ? ||| 대사님, 상관없는 질문 하나 드려도 될까요?
+VALCOURT: Seules ces questions-là sont intéressantes. ||| 그런 질문만 흥미롭죠.
+CAMILLE: Avez-vous déjà perdu une négociation parce que vous n'avez pas écouté un verbe ? ||| 동사 하나를 못 듣는 바람에 협상에서 진 적이 있으세요?
+VALCOURT: À Bonn, en 1989. J'avais entendu « nous examinerons » et j'avais compris « nous accepterons ». Quarante ans de métier n'ont pas guéri ma surdité sélective. ||| 1989년 본에서요. '검토하겠다'를 듣고 '수락하겠다'로 이해했죠. 40년을 해도 내 선택적 난청은 낫지 않았어요.
+JULIEN: Je m'en souviendrai. Examiner n'est pas accepter. ||| 기억하겠습니다. 검토는 수락이 아니라는 걸.
+VALCOURT: Ni s'engager n'est s'obliger, d'ailleurs. Mais c'est vous qui le direz. Maintenant, mangez, le thé sera froid. ||| 그리고 약속과 의무도 같지 않죠. 그건 당신이 말하게 될 거예요. 자, 먹어요, 차가 식겠어요.
++ vaincu / vainqueur = 패전국(자) / 승전국(자). le principe de légitimité = 탈레랑이 빈에서 내세운 정통성 원칙
++ On lui prête… = ~라는 말이 그의 것으로 전해진다(확실치 않을 때). Une légende veut que + 접속법
++ trop beau pour être vrai = 너무 좋아서 사실 같지 않다
++ entrer par la grande porte / par la cuisine = 정문으로 / 부엌으로. 사교가 외교의 뒷문이라는 비유
++ avant qu'on ne l'emporte = avant que + ne 허사 + 접속법
++ écouter les verbes, pas les adjectifs = 동사가 입장을, 형용사가 장식을 말한다는 발쿠르의 경구
++ la surdité sélective = 선택적 난청. 협상에서 듣고 싶은 것만 듣는 오류
++ Examiner n'est pas accepter. Ni s'engager n'est s'obliger. = 동사 하나로 달라지는 책임의 층위
+
+## 티룸의 차관 — LE SALON DE THÉ
+FAROUQI: Soyez les bienvenus céans, messieurs-dames. Je vous prie de vous asseoir, le thé est à point. ||| 여기 오신 걸 환영합니다, 신사 숙녀 여러분. 앉으시지요, 차가 알맞게 우러났습니다.
+JULIEN: Excellence, merci de nous recevoir. Je suis Julien Delorme, du ministère des Affaires étrangères. Voici Camille Roussel. ||| 각하, 맞아 주셔서 감사합니다. 외무부의 쥘리앵 들로름입니다. 이쪽은 카미유 루셀이고요.
+FAROUQI: Je sais qui vous êtes. Le Quai d'Orsay envoie de plus en plus de gens à qui l'on peut parler sans interprète. C'est un progrès. ||| 누구신지 압니다. 케도르세가 통역 없이 말할 수 있는 사람들을 점점 더 많이 보내는군요. 진보입니다.
+CAMILLE: On nous a dit, Excellence, que vous avez fait vos études de droit à Montpellier. ||| 각하께서 몽펠리에에서 법학을 공부하셨다고 들었습니다.
+FAROUQI: Ah, Montpellier ! Cinq ans, de 1983 à 1988. La faculté de droit, rue de l'Université, et un petit logement près de l'Écusson, sans chauffage. ||| 아, 몽펠리에! 1983년부터 1988년까지 5년이었죠. 위니베르시테 거리의 법학부, 그리고 에퀴송 근처의 난방 없는 작은 방.
+JULIEN: Vous avez bien vécu pour un étudiant. ||| 학생치고는 잘 지내셨군요.
+FAROUQI: J'ai vécu, ma foi, comme un moine qui aurait lu trop de Code civil. Mon professeur disait : « Qui ne sait pas rédiger ne sait pas gouverner. » ||| 민법전을 너무 많이 읽은 수도사처럼 살았지요. 제 교수님은 '쓸 줄 모르는 자는 다스릴 줄 모른다'고 하셨습니다.
+JULIEN: Un adage qui ferait bien dans plus d'une chancellerie. ||| 여러 외교 사무국에서 통할 만한 격언이군요.
+FAROUQI: Il sied surtout à ceux qui ne sont plus tenus de rédiger. Prenez ce thé à la cardamome, c'est mon petit luxe. ||| 더는 문서를 쓸 필요가 없는 이들에게 어울리지요. 카르다몸 차를 드십시오, 제 작은 사치입니다.
+JULIEN: Il est excellent. Shukran. ||| 훌륭합니다. 슈크란.
+FAROUQI: Afwan. Vous avez raison de ne pas parler tout de suite d'affaires. Nous ne sommes point des marchands, nous autres. ||| 아프완. 곧바로 사업 얘기를 꺼내지 않으시는 건 옳으십니다. 우리는 장사꾼이 아니니까요.
+JULIEN: J'espère toutefois que vous ne me reprocherez pas de venir en émissaire d'une inquiétude. ||| 그래도 제가 걱정을 전하는 사자로 온 것을 나무라지는 않으시길 바랍니다.
+FAROUQI: Je ne vous reproche rien. Quatorze hommes sont logés chez nous, et je souhaite qu'ils s'y trouvent bien. ||| 아무것도 나무라지 않습니다. 열네 사람이 우리 집에 묵고 있으니 편히 지내길 바라고 있습니다.
+JULIEN: Ils se portent bien, sauf l'un d'eux, monsieur Lucas, dont le traitement va s'épuiser. ||| 건강한 편입니다, 한 분만 빼고요. 뤼카 씨는 약이 곧 떨어집니다.
+FAROUQI: Le docteur de l'ambassade de France sera admis demain matin à l'hôtel. Je l'ai fait savoir ce midi. ||| 프랑스 대사관 의사는 내일 아침 호텔에 들어갈 수 있을 겁니다. 오늘 정오에 전달했습니다.
+CAMILLE: Excellence, c'est un geste que nous apprécions beaucoup. ||| 각하, 크게 감사하는 조치입니다.
+FAROUQI: Ce n'est point un geste, mademoiselle, c'est une décence. Les gestes se négocient. Les décences, non. ||| 조치가 아닙니다, 아가씨. 도리입니다. 조치는 협상하지만 도리는 협상하지 않습니다.
+JULIEN: Je retiens la différence. ||| 그 차이를 새겨 두겠습니다.
+FAROUQI: Faites, je vous prie. Maintenant parlons des vaisseaux, puisqu'il le faut. Vous savez que nous avons conclu un contrat fort honorable. ||| 그러시지요. 이제 함선 얘기를 합시다, 해야 한다면요. 우리가 매우 영예로운 계약을 맺은 건 아시지요.
+JULIEN: Honorable des deux côtés, à ma connaissance. Les trois premières coques sont à flot, et la marine kasrienne en est satisfaite. ||| 양쪽 모두에게 영예롭다고 알고 있습니다. 세 척은 물에 떠 있고 카스라 해군도 만족하고 있고요.
+FAROUQI: Satisfaite, certes. Mais la quatrième ne vient point. Et l'on m'a demandé de faire valoir la lettre. ||| 만족하지요, 물론. 하지만 네 번째는 오지 않습니다. 그래서 저는 그 서한을 원용하라는 요청을 받았습니다.
+JULIEN: La lettre annexe du 14 mars. ||| 3월 14일자 부속 서한 말씀이군요.
+FAROUQI: Ladite lettre. Vous l'avez lue, sans doute. ||| 그 서한 말입니다. 읽어 보셨겠지요.
+JULIEN: J'en ai lu une version, Excellence. Celle que vos amis français m'ont transmise. ||| 한 판본은 읽었습니다, 각하. 프랑스 쪽 사람들이 건넨 거요.
+FAROUQI: Vous dites bien : une version. Peu d'étrangers sont si précis. ||| '한 판본'이라고 하셨군요. 그렇게 정확한 외국인은 드뭅니다.
+JULIEN: Je suis lyonnais, Excellence. Chez nous, on ne dit pas « le vin », on dit « quel vin ». ||| 저는 리옹 사람입니다, 각하. 우리는 '포도주'라 하지 않고 '무슨 포도주'냐고 묻습니다.
+FAROUQI: Voilà un bon principe. Écoutez donc ceci, sans y voir une menace. Ces messieurs de Saint-Nazaire se sont obligés, par ladite lettre, à livrer. Ils ont promis et se sont obligés. ||| 좋은 원칙입니다. 그럼 위협으로 여기지 말고 들어 보십시오. 생나제르의 신사분들은 그 서한으로 인도할 의무를 졌습니다. 그들은 약속했고 스스로 의무를 졌습니다.
+JULIEN: « Promis et obligés ». C'est la formule des notaires du XIXe siècle. ||| '약속하고 의무를 졌다'라. 19세기 공증인들의 문구군요.
+FAROUQI: Vous êtes fin. Mon professeur d'obligations la répétait comme un chant. « Promet et s'oblige. » Le mot « engagement », il n'aimait point. Il le trouvait mou. ||| 예리하시군요. 제 채권법 교수님이 그 문구를 노래처럼 읊곤 하셨지요. '약속하고 의무를 진다.' '약속'이라는 말은 싫어하셨습니다. 무르다고 하시면서.
+CAMILLE: Pardonnez-moi, Excellence. Dans la version que nous avons, le texte dit : « La Société prend l'engagement de livrer ». ||| 실례합니다, 각하. 저희가 가진 판본에는 '회사는 인도하겠다는 약속을 한다'로 되어 있습니다.
+FAROUQI: Je ne doute point que vous ayez bien lu. Je dis seulement que le mot que j'ai signé n'a pas la même couleur. En arabe, c'est iltizām. Un mot que l'on ne prononce pas à la légère. ||| 제대로 읽으셨으리라 믿어 의심치 않습니다. 다만 제가 서명한 말은 색깔이 다르다는 겁니다. 아랍어로는 '일티잠'. 가볍게 입에 올리지 않는 말이지요.
+JULIEN: Iltizām. Excellence, serait-il indiscret de demander un exemplaire arabe de cette lettre ? ||| 일티잠. 각하, 이 서한의 아랍어 사본을 청하는 것이 무례일까요?
+FAROUQI: Il serait prématuré, non indiscret. Les lettres, comme les vins, ne se débouchent point avant l'heure. ||| 무례가 아니라 시기상조일 겁니다. 서한도 포도주처럼 때가 되기 전에 따지 않지요.
+JULIEN: Alors puis-je vous poser une dernière question avant que nous ne finissions ce thé ? ||| 그럼 이 차를 다 마시기 전에 마지막 질문을 드려도 될까요?
+FAROUQI: Je vous en prie. ||| 말씀하시지요.
+JULIEN: Quand deux hommes rédigent une lettre en deux langues, y a-t-il un troisième qui tient la plume ? ||| 두 사람이 두 언어로 서한을 쓸 때, 펜을 쥔 세 번째 사람이 있습니까?
+FAROUQI: Il y en a toujours un, monsieur Delorme. Le tout est de savoir s'il écrit pour les deux, ou pour un seul. ||| 늘 있지요, 들로름 씨. 문제는 그가 둘을 위해 쓰는지 한 사람을 위해 쓰는지입니다.
+JULIEN: Et dans le cas présent ? ||| 이번 경우는요?
+FAROUQI: Dans le cas présent, nonobstant mon estime pour vous, je ne dis plus rien. Mon thé refroidit, et nos audiences ne tarderont pas. ||| 이번 경우에는, 당신에 대한 존중에도 불구하고, 더 말하지 않겠습니다. 차가 식고 우리 재판 기일도 머지않았으니까요.
+JULIEN: Je vous remercie, Excellence. Vous m'avez donné plus que vous ne croyez. ||| 감사합니다, 각하. 생각하신 것보다 많은 걸 주셨습니다.
+FAROUQI: Nul ne donne jamais plus que ce que l'autre sait recevoir. Au revoir, monsieur. Et que Dieu vous garde. ||| 받는 사람이 받을 줄 아는 것 이상을 주는 이는 없습니다. 안녕히 가십시오. 신의 가호가 있기를.
++ céans = 이곳에, 여기. 고어 부사. Soyez les bienvenus céans
++ il sied à… = ~에 어울린다(문어). nonobstant = ~에도 불구하고(법률 문어)
++ ne… point = 고풍스러운 부정. 현대의 ne… pas보다 문어적 어감
++ promettre et s'obliger = 약속하고 스스로 의무를 지다. 옛 공증문의 정형구, 19세기 공증인 어투
++ ladite lettre / ledit contrat = 앞서 말한 서한 / 계약. 법률 문체
++ Je souhaite qu'ils s'y trouvent bien = souhaiter que + 접속법. Je ne doute point que vous ayez bien lu = douter que + 접속법
++ geste vs décence = 협상 대상인 조치 vs 협상 못 하는 도리. 외교 어휘의 층위
++ avant que nous ne finissions = 접속법 + ne 허사. ne tarderont pas = 머지않아 ~하다

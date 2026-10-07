@@ -1,0 +1,61 @@
+## 복도의 전화 — LE TÉLÉPHONE DU COULOIR
+CAMILLE: Vous l'avez entendu ? Il a dit « s'obliger ». Trois fois. Jamais « s'engager ». ||| 들으셨어요? '의무를 지다'라고 했어요, 세 번이나. '약속하다'는 한 번도 안 썼고요.
+JULIEN: Je l'ai entendu. Et il a prononcé iltizām comme on prononce un nom de famille. ||| 들었어요. 게다가 '일티잠'을 성(姓)이라도 부르듯 말했죠.
+CAMILLE: En arabe, que veut dire iltizām exactement ? ||| 아랍어에서 '일티잠'은 정확히 뭘 뜻하나요?
+JULIEN: Je ne suis pas arabisant. Mais je sais que dans les contrats, il se traduit plutôt par « obligation » que par « engagement ». C'est à vérifier avec un traducteur assermenté. ||| 저는 아랍어 전문가가 아닙니다. 하지만 계약에서 보통 '약속'보다 '의무'로 번역된다는 건 알아요. 공증 번역사에게 확인해야 합니다.
+CAMILLE: Donc le mot français serait plus faible que le mot arabe. ||| 그럼 프랑스어 단어가 아랍어 단어보다 약하다는 거네요.
+JULIEN: Peut-être. Ou alors, c'est le mot arabe qui est plus fort que ce que les signataires voulaient. ||| 그럴 수도 있고, 아랍어 단어가 서명자들이 원한 것보다 강한 걸 수도 있죠.
+CAMILLE: La différence est la même. ||| 차이는 같아요.
+JULIEN: Pas pour le juge. Dans un cas, c'est la faute du traducteur. Dans l'autre, c'est la faute du signataire. ||| 판사에게는 달라요. 한 경우는 번역사의 잘못이고, 다른 경우는 서명자의 잘못이니까요.
+HÉLÈNE: Allô, Delorme ? Vous avez fini votre thé ? ||| 여보세요, 들로름? 차는 다 마셨어요?
+JULIEN: Hélène. Vous avez un don pour appeler dans les secondes qui comptent. ||| 엘렌. 중요한 순간마다 전화하는 재주가 있으시군요.
+HÉLÈNE: C'est mon métier. Alors, il vous a donné quoi ? ||| 제 직업이니까요. 그래서 그가 뭘 줬어요?
+JULIEN: Un verbe. S'obliger. ||| 동사 하나요. 의무를 지다.
+HÉLÈNE: C'est tout ? Pour un verbe, je vous aurais coûté moins cher. ||| 그게 전부예요? 동사 하나라면 제 비용이 덜 들었겠네요.
+JULIEN: C'est un très bon verbe, Hélène. Et il n'a pas parlé de l'anglais. Ça, c'est le deuxième verbe. ||| 아주 좋은 동사예요, 엘렌. 그리고 그는 영어 얘기를 안 했어요. 그게 두 번째 동사죠.
+HÉLÈNE: L'anglais ? Je note. Je n'aime pas qu'on me dise qu'il y a un troisième texte. ||| 영어요? 메모해 둘게요. 제3의 텍스트가 있다는 말은 듣기 싫은데.
+JULIEN: Je n'ai pas dit qu'il y en avait un. Je dis qu'il y a un absent. ||| 있다고는 안 했어요. 부재자가 하나 있다고 말하는 겁니다.
+HÉLÈNE: Les absents ont toujours tort, dit-on. Mais en général, ce sont eux qui paient. ||| 부재자는 늘 틀린다고들 하죠. 하지만 보통 값을 치르는 건 그들이에요.
+JULIEN: Je vous dois un déjeuner. Je l'inscris sous « deuxième acompte ». ||| 점심 한 끼 빚졌죠. '두 번째 선금' 항목에 적어 두겠습니다.
+HÉLÈNE: Bien. Rentrez à Paris, Delorme. Lefort vous a déjà cherché trois fois. ||| 좋아요. 파리로 돌아오세요, 들로름. 르포르가 벌써 세 번이나 찾았어요.
++ assermenté(e) = 선서한(법원 등에 등록된). un traducteur assermenté = 공증·선서 번역사
++ plutôt… que… = ~보다는 오히려. iltizām을 둘러싼 번역 뉘앙스
++ avoir un don pour + inf. = ~에 재능이 있다. dans les secondes qui comptent = 중요한 순간에
++ coûter moins cher = 값이 덜 들다. acompte = 선금
++ Les absents ont toujours tort = 속담. 부재자는 늘 불리하다
++ Je n'ai pas dit qu'il y en avait un. = 간접화법의 시제 일치(imparfait). 단정을 피하는 외교 화법
+
+## 호텔 방, 비서실장의 전화 — L'APPEL DU CABINET
+LEFORT: Monsieur Delorme, j'apprends par d'autres que vous avez rencontré le vice-ministre kasrien. Sans mandat. ||| 들로름 씨, 다른 사람을 통해 당신이 카스라 차관을 만났다고 들었습니다. 위임도 없이.
+JULIEN: Un thé n'est pas un acte, monsieur le directeur. Il n'a pas besoin de mandat. ||| 차 한 잔은 행위가 아닙니다, 실장님. 위임이 필요 없어요.
+LEFORT: Un thé avec un haut fonctionnaire étranger engage la France. Vous le savez. ||| 외국 고위 관료와의 차는 프랑스를 구속합니다. 아시잖습니까.
+JULIEN: Engage, ou oblige ? ||| '구속'입니까, '의무'입니까?
+LEFORT: Je ne vois pas la différence. ||| 차이를 모르겠군요.
+JULIEN: C'est précisément ce que je vérifie. Auriez-vous l'obligeance de me faire parvenir le texte intégral de la lettre annexe, y compris ses versions ? ||| 바로 그걸 확인 중입니다. 서한 전문을, 판본들까지 포함해서 보내 주시겠습니까?
+LEFORT: Je l'ai déjà dit. Le dossier vous a été transmis en l'état. ||| 이미 말했습니다. 서류는 현 상태로 전달했습니다.
+JULIEN: Alors je vous prie de me confirmer par écrit que ce dossier est complet. ||| 그럼 그 서류가 완전하다는 점을 서면으로 확인해 주십시오.
+LEFORT: Vous demandez une chose que personne n'a jamais demandée. ||| 아무도 요구한 적 없는 걸 요구하시는군요.
+JULIEN: C'est ce qui la rend intéressante. Si le dossier est complet, vous signerez en une minute. ||| 그래서 흥미로운 겁니다. 서류가 완전하다면 1분이면 서명하시겠죠.
+LEFORT: Je ne signe pas sous la contrainte. Revenez demain, nous en parlerons de vive voix. ||| 강요 속에선 서명하지 않습니다. 내일 오셔서 직접 얘기합시다.
+JULIEN: Très bien. Demain matin, à la première heure. ||| 좋습니다. 내일 아침 첫 시간에.
+LEFORT: Et faites en sorte que cette conversation ne se retrouve pas dans votre compte rendu. ||| 그리고 이 대화가 보고서에 들어가지 않도록 해 주십시오.
+JULIEN: Je ne peux rien promettre qui ressemble à un silence. ||| 침묵처럼 보이는 건 아무것도 약속할 수 없습니다.
+LEFORT: Bonne soirée, monsieur Delorme. ||| 좋은 저녁 되세요, 들로름 씨.
+LÉA: Papa, tu appelles de Genève et tu ne me racontes rien ? Même pas un chocolat ? ||| 아빠, 제네바에서 전화하는데 아무 얘기도 안 해 줘요? 초콜릿 하나도 없이?
+JULIEN: Je te rapporte un chocolat suisse, mais il aura la forme d'une question. ||| 스위스 초콜릿 하나 가져갈게, 질문 모양으로.
+LÉA: Quelle question ? ||| 무슨 질문?
+JULIEN: « S'engager » et « s'obliger », est-ce la même chose ? ||| '약속하다'와 '의무를 지다', 같은 걸까?
+LÉA: Il faut d'abord définir « engagement ». C'est une question de définition, papa. ||| 먼저 '약속'을 정의해야죠. 그건 개념 정의의 문제예요, 아빠.
+JULIEN: Alors donne-moi une définition en dix secondes. ||| 그럼 10초 안에 정의를 줘 봐.
+LÉA: Je m'engage quand je choisis. Je suis obligée quand je n'ai pas le choix. ||| 제가 선택할 때는 약속하는 거고, 선택의 여지가 없을 때는 의무를 지는 거예요.
+JULIEN: Et si je choisis d'être obligé ? ||| 그럼 의무를 지기로 '선택'하면?
+LÉA: Alors tu fais une promesse. Arendt dit que la promesse est notre manière de gouverner l'avenir. ||| 그럼 약속을 하는 거죠. 아렌트는 약속이 미래를 다스리는 우리의 방식이라고 말해요.
+JULIEN: Gouverner l'avenir. Je vais dire ça à al-Farouqi la prochaine fois, il apprécierait. ||| 미래를 다스린다. 다음에 알 파루키에게 말해야겠다, 좋아할 거야.
+LÉA: Tu vas lui citer Arendt ? ||| 아렌트를 인용할 거예요?
+JULIEN: Non. Je vais citer sa propre langue, et il comprendra que je l'ai lue. Bonne nuit, ma chérie. ||| 아니. 그의 언어를 인용할 거야, 그러면 내가 그걸 읽었다는 걸 알겠지. 잘 자라, 우리 딸.
++ engager la France = 프랑스를 법적·정치적으로 구속하다. 비공식 접촉의 한계를 둘러싼 말
++ avoir l'obligeance de + inf. = 친절하게도 ~해 주시다. 격식 있는 요청
++ de vive voix = 직접 말로. faire en sorte que + 접속법 = ~하도록 조치하다
++ sous la contrainte = 강압 하에. compte rendu = 보고서(회의록)
++ Je ne peux rien promettre qui ressemble à un silence = 관계절 속 직설법. 침묵에 대한 거부
++ La promesse gouverne l'avenir = 아렌트의 약속론(『인간의 조건』)을 가볍게 인용
