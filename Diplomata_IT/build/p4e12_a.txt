@@ -1,0 +1,126 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 12
+@title La pace di Venezia
+@ko 베네치아의 평화
+@setting 6월 28일 금요일 발레타 요새의 참나무 원탁 → 29일 토요일 새벽 섬이 있던 바다 위 어선 '산타 로살리아' → 6월 30일 일요일 오후~자정 로마 테스타초 보치아 클럽의 긴 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast LEO | 란차의 아들, 17세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast SAADI | 타르시아 장관
+@cast ZERHOUNI | 타르시아 국방장관 하킴 제르후니, 63세(이드리스가 통역)
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast VALDES | 스페인 대표 이네스 발데스 대사, 57세
+@cast ZAMMIT | 몰타 대표(주최국) 차미트
+@cast FEDERICA | 대외정보기관(AISE) 연락관 페데리카 루스폴리
+@cast SCIUTO | 카타니아 화산학 연구원 안토넬라 샤우토 박사, 55세
+@cast HOCINE | 마르사 베이다의 은퇴한 '라이스' 호신 벨카셈, 79세
+@cast GASPARE | 선장의 아버지 가스파레, 84세
+@cast MANGIARACINA | 마차라 델 발로 어선 선장 살바토레 만자라치나, 58세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 84세
+@cast PEPPINO | 보치아 클럽 노인, 80세
+@cast CONCETTA | 노나 콘체타, 86세
+@cast LUCIANA | 클럽 회원 루차나 벨루치, 82세
+@cast MATTIA | 클럽 최연소 회원 마티아 파다, 18세
+@cast MADRE | 사아디의 어머니(로마 방문)
+@note 시리즈의 마지막 화입니다. 섬은 목요일 새벽 완전히 가라앉았고, 금요일 발레타의 참나무 원탁에서 '바다 한가운데 협정'이 서명됩니다. 협정에는 섬의 이름이 없고, 계절 번갈아 어장의 '차례(turno)', 해저 조사 공동 기금, 흰 선박의 감시, '가장 가까운 배가 먼저'의 규칙, 매해 6월 22일 두 항구에서의 낭독, 그리고 '나중에 오는 사람을 위한 빈 의자'가 담깁니다. 일요일 로마의 긴 식탁에서 코라도는 레오에게 합의문을 소리 내어 읽게 하고, 레오가 첫 잔을 듭니다. 역사 논거는 1177년 베네치아 평화입니다. 프리드리히 1세 바르바로사 황제와 교황 알렉산데르 3세가 롬바르디아 동맹과의 오랜 전쟁 끝에 베네치아의 산 마르코 앞에서 화해했고, 승리를 서명한 것이 아니라 '중립의 장소와 식탁을 내준 도시'가 이긴 평화였습니다(세부 일화 가운데 일부는 전설로 여겨집니다). 사라진 섬의 소유권 분쟁은 1831년 페르디난데아처럼 대상이 없어져 소멸합니다. 1부부터 이어진 레오나르도의 49% 신탁은 유예 12개월이 6월 30일 자정에 만료되고, 조항 전문이 공개되어 '조용히 마무리'됩니다. 어휘는 협정·의례 표현(accordo, articolo, turno, fondo comune, leggere ad alta voce, brindare, scadere)과 미래·조건법 및 비인칭 구문에 주목하세요.
+@next 시리즈 완결. 「DUE SPONDE」 4부는 여기서 끝나고, 식탁은 늘 의자가 하나 더 남은 채로 이어집니다.
+
+## 발레타의 참나무 원탁 — LA FIRMA
+ZAMMIT: Signori, signore. Il tavolo è lo stesso del quattordici giugno. Sette sedie. Sei occupate. La settima è come l'avevamo lasciata. ||| 여러분. 탁자는 6월 14일과 같은 것입니다. 의자 일곱. 여섯이 찼고 일곱째는 그날 그대로입니다.
+VALDES: Un'ultima volta: nessuno scriva il nome dell'isola, in nessun documento. Nemmeno in una nota a piè di pagina. ||| 마지막으로 부탁합니다. 어느 문서에도 섬의 이름을 적지 마세요. 각주에도요.
+CORRADO: Ambasciatrice, nell'accordo si dice soltanto «il luogo». ||| 대사님, 합의문에는 '그 장소'라고만 되어 있습니다.
+VALDES: E la parola «luogo» è sufficiente. Una cosa che non c'è più non ha bisogno di un nome per essere ricordata. ||| 그리고 '장소'라는 말로 충분하죠. 더는 없는 것은 기억되기 위해 이름이 필요 없어요.
+SAADI: Corrado, ti ricordi il primo giorno? Il mio messaggio vocale: «A sud di Marsa Beida il fondo sale». ||| 코라도, 첫날 기억나? 내 음성 메시지, '마르사 베이다 남쪽 해저가 솟는다'.
+CORRADO: Lo ricordo come ricordo la prima volta che mi hai chiamato «Corrà». ||| '코라'라고 처음 불러 준 날처럼 기억해.
+SAADI: Il mare è bello perché non tiene i nomi. ||| 바다가 아름다운 건 이름을 붙들고 있지 않아서야.
+ZERHOUNI: Je dois dire quelque chose avant de signer. ||| 서명하기 전에 한마디 하겠소.
+IDRIS: Il ministro vuole dire una cosa prima di firmare. ||| 장관님이 서명하기 전에 한 말씀 하시겠답니다.
+VALDES: Prego, signor ministro. ||| 하세요, 장관님.
+IDRIS: Il ministro dice: «Una settimana fa non volevo sedermi a questa tavola. Oggi mi siedo con una tazza di tè che non è né mia né vostra. Non so se questo si chiami amicizia. Ma conosco una parola araba che somiglia: "ʿishra". Vuol dire il pane condiviso». ||| 장관님이 말씀하십니다. '일주일 전에는 이 탁자에 앉고 싶지 않았소. 오늘은 내 것도 당신들 것도 아닌 차 한 잔을 앞에 두고 앉소. 이것이 우정인지는 모르겠소. 하지만 비슷한 아랍어 한 단어를 알고 있소. \'이슈라\', 함께 나눈 빵이라는 뜻이오.'
+CORVI: Ministro, io la parola non la conosco. Ma la sto imparando. ||| 장관님, 저는 그 단어를 모릅니다. 하지만 배우는 중입니다.
+ZERHOUNI: Alors, signons. ||| 그럼 서명합시다.
+VALDES: Dodici fogli, nove articoli. Chi legge ad alta voce l'articolo uno? ||| 열두 장, 아홉 조항입니다. 제1조를 누가 소리 내어 읽겠습니까?
+CORRADO: Ambasciatrice, io non leggo. Domenica sera, alla mia tavola, c'è una persona che lo leggerà. ||| 대사님, 저는 읽지 않겠습니다. 일요일 저녁 제 식탁에 읽을 사람이 있습니다.
+ZAMMIT: Prima il ministro Zerhouni. Con la penna nera. ||| 먼저 제르후니 장관님. 검은 펜으로요.
+IDRIS: Il ministro firma. Ha firmato. Mi chiede di dire: «L'ho fatto con la mano destra. La sinistra è per la preghiera». ||| 장관님이 서명하십니다. 서명하셨습니다. 이렇게 전하라고 하십니다. '오른손으로 했소. 왼손은 기도를 위한 손이오.'
+CORRADO: Firmo. Corrado Lanza. Penna nera. Ventotto giugno. ||| 서명합니다. 코라도 란차. 검은 펜. 6월 28일.
+SAADI: Firmo io. Saadi. Con la penna nera. ||| 제가 서명합니다. 사아디. 검은 펜으로.
+ZAMMIT: Firmano gli altri. ... Fatto. Le firme sono tutte. ||| 나머지도 서명합니다. ...끝났습니다. 서명이 모두 있습니다.
+VALDES: Ora il gesto che non si scrive. ||| 이제 쓰지 않는 몸짓입니다.
+CORRADO: Chi cede, brinda per primo. ||| 양보한 사람이 먼저 건배합니다.
+CORRADO: No. Lo alzerà un ragazzo, domenica. Qui brindiamo con l'acqua. ||| 아닙니다. 일요일에 한 아이가 들 겁니다. 여기서는 물로 건배하죠.
+ZAMMIT: Con l'acqua del Forte. È la meno cattiva dell'isola. ||| 요새의 물로요. 이 섬에서 가장 덜 나쁜 물이죠.
++ la settima sedia = 일곱째 의자. 4-4에서 정립된 빈 의자로 이 화에서는 '나중에 오는 사람'을 위해 그대로 남는다
++ non tenere i nomi = 이름을 붙들지 않는다. 사라진 섬에 이름이 남지 않는다는 협정의 핵심
++ una nota a piè di pagina = 각주. 'a piè di pagina'는 페이지 아래에
++ ʿishra = 이슈라(아랍어). '함께 나눈 빵과 소금에 의한 우정'이라는 뜻으로 제르후니가 인용한다
++ la mano sinistra / destra = 왼손 / 오른손. 서명하는 손을 두고 하는 말에 성격이 담긴다
++ brindare con l'acqua = 물로 건배하다. 서명 현장에서는 술 대신 물을 든다
++ il gesto che non si scrive = 쓰지 않는 몸짓. 규칙은 적고 몸짓은 적지 않는다는 4-2의 원칙
+
+## 섬이 있던 바다 — IL MARE SENZA NOME
+MANGIARACINA: Siamo alla posizione. Ecco. Giulia ha scritto sulla carta: trentasei gradi, ... Non importa. Questo è il posto. ||| 지점에 도착했습니다. 자. 줄리아 씨가 지도에 썼죠. 36도... 중요하지 않아요. 여기가 그 장소입니다.
+CORRADO: Capitano, qui sotto, quanto c'è? ||| 선장님, 이 밑으로 깊이가 얼마입니까?
+MANGIARACINA: L'ecoscandaglio dice nove metri. E mezzo. Il mare è piatto, come se niente fosse mai successo. ||| 음향측심기는 9미터 반이라고 합니다. 바다는 평평해요, 마치 아무 일도 없었던 것처럼.
+SCIUTO: Nove metri e mezzo, ma domani, quando i gas si saranno depositati, l'acqua sarà un'altra. Il cono è ormai una sagoma sotto di noi. Come una tazza rovesciata. ||| 9미터 반이지만 내일 가스가 가라앉으면 물은 달라질 겁니다. 원뿔은 이제 우리 밑의 윤곽일 뿐이에요. 엎어 놓은 찻잔처럼요.
+SCIUTO: A me piace che non sia finito. Ho milleduecento ore di registrazione. Nessuno ha mai registrato la nascita e la morte di un'isola. ||| 저는 끝나지 않아서 좋습니다. 1,200시간의 기록이 있어요. 섬의 탄생과 죽음을 기록한 사람은 아직 없었으니까요.
+GASPARE: Salvatore, la boa. ||| 살바토레, 부표.
+MANGIARACINA: Eccola. Boa numero uno del fondo comune. Gialla, con una luce bianca. Niente scritte. ||| 여기 있습니다. 공동 기금의 1호 부표. 노란색에 흰 불빛, 글씨는 없습니다.
+CORRADO: Niente scritte? ||| 글씨가 없다고요?
+MANGIARACINA: Una boa che dice «qui c'è un'isola» sarebbe una bugia, e una che dice «qui c'era» sarebbe un monumento. Noi vogliamo una boa. ||| '여기 섬이 있다'고 쓴 부표는 거짓이고 '여기 있었다'고 쓴 부표는 기념비입니다. 우리는 부표가 필요합니다.
+SCIUTO: Dentro ci sono due sensori. Uno italiano e uno tarsiano. Rilevano ogni movimento del fondo. Se il mare ricomincia, lo sapremo prima di tutti. ||| 안에 센서가 둘 있습니다. 이탈리아 것 하나와 타르시아 것 하나. 해저의 모든 움직임을 감지해요. 바다가 다시 시작되면 누구보다 먼저 알게 됩니다.
+CORRADO: Qualcuno vuole dire qualcosa? ||| 한마디 하실 분 계십니까?
+HOCINE: Io non conosco le formule dei vostri trattati. Conosco quella di mia madre per quando si butta in mare qualcosa: «Va', e torna, se hai ancora un posto». ||| 나는 당신들의 조약 문구는 모르오. 내 어머니가 바다에 뭘 던질 때 하시던 말은 안다오. '가거라, 그리고 아직 자리가 있다면 돌아오너라.'
+GASPARE: Bella. Io dico: «Va', e che il mare ti ricordi come noi ti abbiamo conosciuto». ||| 좋구먼. 나는 이렇게 하겠네. '가거라, 우리가 너를 알았던 대로 바다가 너를 기억하기를.'
+CORRADO: Capitano, la calate voi. ||| 선장님, 부표는 선장님들이 내려 주십시오.
+MANGIARACINA: Con due mani. Padre, tu e Hocine. Piano. ||| 두 손으로요. 아버지와 호신 어른이요. 천천히.
+SCIUTO: Dodici metri di catena. Giù. Giù. ||| 쇠사슬 12미터입니다. 내려요. 내려요.
+GIULIA: Corrado, è giù. Il segnale arriva sul mio tablet. Primo dato: dieci metri e quindici. ||| 코라도, 내려갔어요. 신호가 제 태블릿에 들어와요. 첫 자료는 10미터 15예요.
+CORRADO: Dieci metri e quindici. Il mare ha ripreso il suo posto. ||| 10미터 15라. 바다가 제 자리를 되찾았군.
+HOCINE: E noi il nostro. ||| 우리도 우리 자리를요.
++ ecoscandaglio = 음향측심기. 수심을 재는 선박 장비
++ una sagoma = 윤곽, 실루엣. 보이지 않는 물체의 모양
++ la boa = 부표. 노란색 부표에는 일부러 글씨를 쓰지 않았다
++ come se niente fosse = 아무 일도 없었던 것처럼. 'come se' + 접속법 반과거
++ va' e torna = 가거라, 돌아오너라. 호신의 어머니가 바다에 무언가를 던질 때 했다는 말
++ rilevare = 감지하다, 측정하다. 'rilievo'와 같은 어근
++ un monumento = 기념비. 이름과 글씨가 소유와 기억을 굳히는 일을 경계하는 말
++ che il mare ti ricordi = 바다가 너를 기억하기를. 기원의 접속법 현재
+
+## 일요일 오후, 테스타초 — IL GIORNO DELLA TAVOLA
+ERCOLE: Aò, Corrà! Dov'eri? Il tavolo non si apparecchia da solo, lo vedi? ||| 어이, 코라! 어디 갔었냐? 식탁은 혼자 차려지지 않는다, 보이지?
+CORRADO: Ercole, sono sceso dall'aereo mezz'ora fa. ||| 에르콜레 어르신, 30분 전에 비행기에서 내렸습니다.
+LUCIANA: Il tavolo è lungo ventiquattro metri. Lo abbiamo fatto con quattro tavole del vecchio magazzino. La tovaglia è quella del matrimonio di Concetta. ||| 식탁은 24미터예요. 옛 창고의 널빤지 넷으로 만들었어요. 식탁보는 콘체타의 결혼식 때 것이에요.
+CONCETTA: Era il ventidue giugno, millenovecentocinquantasei. Un caldo che si moriva. ||| 1956년 6월 22일이었지. 죽을 만큼 더웠어.
+MATTIA: Nonna Concetta, abbiamo contato: novantasei posti. Come l'anno scorso. ||| 콘체타 할머니, 세어 봤어요. 96석이에요. 작년과 같아요.
+CORRADO: Novantasei. E la sedia in più? ||| 96석이라. 의자 하나 더는요?
+CONCETTA: La sedia in più non si conta. ||| 의자 하나 더는 세지 않는다.
+LEO: Papà, ho il foglio. Dodici fogli, nove articoli. Me lo ha mandato Zammit stamattina, firmato in originale. ||| 아빠, 서류가 있어요. 열두 장에 아홉 조항. 차미트가 아침에 서명 원본을 보냈어요.
+CORRADO: Hai letto tutto? ||| 다 읽었니?
+LEO: Tre volte. La prima per capire, la seconda per cercare i buchi, la terza per sentire come suona. ||| 세 번요. 처음엔 이해하려고, 두 번째엔 빈틈을 찾으려고, 세 번째엔 어떻게 들리는지 들으려고요.
+CORRADO: E come suona? ||| 어떻게 들리니?
+LEO: Come un tavolo con le gambe uguali. ||| 다리 길이가 같은 탁자 같아요.
+GIULIA: Corrado, due notizie. La prima: Saadi atterra alle diciassette, con sua madre e una cassa di datteri. Ha insistito. ||| 코라도, 소식이 둘이에요. 첫째, 사아디가 17시에 도착해요. 어머니와 대추야자 한 상자를 모시고요. 고집을 피웠어요.
+CORRADO: Sua madre? A Roma? ||| 어머니가요? 로마에요?
+GIULIA: Lei voleva vedere il tavolo. «L'unico tavolo dove mio figlio ha detto che si promette e si paga». ||| 그 식탁을 보고 싶다고 하셨대요. '내 아들이 약속하고 갚는다고 말한 단 하나의 식탁'이라고요.
+CORRADO: E la seconda? ||| 둘째는요?
+GIULIA: Il registro dell'accordo mediterraneo ha emesso l'avviso di scadenza. Alle ventitré e cinquantanove, stasera, la proroga di dodici mesi del trust Alba termina. ||| 지중해 협정 등록부에서 만료 통지가 나왔어요. 오늘 밤 23시 59분에 알바 신탁의 12개월 유예가 끝나요.
+CORRADO: Termina, senza essere rinnovata? ||| 갱신 없이 끝난다는 거죠?
+GIULIA: Nessuno ha chiesto il rinnovo. Né il fiduciario, né Leonardo Holding, né l'avvocato Ferretti. ||| 아무도 갱신을 신청하지 않았어요. 수탁자도, 레오나르도 홀딩도, 페레티 변호사도요.
+CORRADO: E il testo della clausola? ||| 조항 본문은요?
+GIULIA: Pubblicato. Alle sei di stamattina, in Gazzetta e sul registro. Articolo quattordici bis, il paragrafo che nessuno voleva leggere, adesso lo legge chiunque. ||| 오늘 아침 6시에 관보와 등록부에 공시됐어요. 14조의 2, 아무도 읽고 싶어 하지 않던 항이 이제 누구나 읽게 됐어요.
+CORRADO: Il testo pubblico. Giulia, a mezzanotte lo leggi tu. A tavola. ||| 본문이 공개된다. 줄리아, 자정에 당신이 읽어요. 식탁에서요.
+GIULIA: Io? ||| 제가요?
+CORRADO: Chi altro? L'hai trovata tu, la clausola. ||| 누가 또 있어요? 조항을 찾은 사람이 당신인데요.
++ il tavolo con le gambe uguali = 다리 길이가 같은 탁자. 레오가 합의문의 균형을 표현한 비유
++ l'avviso di scadenza = 만료 통지. 기한이 끝났음을 알리는 공식 통지
++ il trust / il fiduciario = 신탁 / 수탁자. 49% 지분을 이름을 숨긴 채 맡아 둔 장치
++ la proroga = 유예, 연장. 기한을 늦춘 조치
++ la Gazzetta = (Gazzetta Ufficiale) 관보. 법령과 공시가 실리는 정부 간행물
++ in anticipo = 일찍. 'ritardo'의 반대말

@@ -1,0 +1,239 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 9
+@title Ludovico il Moro
+@ko 루도비코 일 모로
+@setting 6월 19일 수요일 아침 파르네지나 위기상황실 → 낮 해군 참모부 회의실 → 오후 위성 회선 → 밤 란차의 집 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast DESSI | 기함 부관, 프리깃 함장 파브리치오 데시, 44세
+@cast VALENTI | 이탈리아 국방참모총장 피에로 발렌티 장군, 63세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast SAADI | 타르시아 장관
+@cast ALBA UNO | 민간 보조선 '알바 우노' 무전(음성)
+@cast LEO | 란차의 아들, 17세
+@cast CONCETTA | 노나 콘체타, 86세
+@note 4부 9화는 '배신'의 화입니다. 줄리아가 '거울 경보' 두 건이 제독 코르비가 아니라 기함 부관 데시의 개인 인증으로 발신되었음을 찾아내고, 같은 인증으로 민간 보조선 '알바 우노'와 외부 조사선에 '초대장'이 나간 사실이 드러납니다. 해법의 순간은 초대장의 발송 시각입니다. 초대장은 토요일 19시 05분에 나갔고, 제독이 야간 기동을 스스로 결심한 것은 그 뒤입니다. 초대장이 이미 '밤의 작전'을 알고 있다는 사실이 누가 문을 열었는지 말해 줍니다. 역사 논거는 1494년 밀라노의 루도비코 일 모로(루도비코 스포르차)입니다. 그는 나폴리 왕가와 맞서기 위해 프랑스의 샤를 8세를 이탈리아로 불러들였고, 초대한 손님은 떠나지 않았으며 훗날 그는 프랑스의 포로로 생을 마쳤습니다(전통적으로 구이차르디니 등이 '이탈리아의 문을 연 사람'으로 비판했습니다). 레오는 마키아벨리 『군주론』 3장과 hospes/hostis의 어원으로 '손님과 적'의 경계를 묻습니다. 어휘는 지휘·보안(credenziale, invio, invito, revocare, ospite, intruso)과 시제(trapassato prossimo, 선후 관계)에 주목하세요.
+@next 4-10 «카노사» — 목요일, 제르후니가 몰타의 요새에서 만나자고 하고, 협상은 성벽 안에서 사흘 동안 이어집니다.
+
+## 수요일 8시, 발송 시각 — L'ORA DI INVIO
+GIULIA: Ecco l'elenco. Sono otto messaggi partiti dalla credenziale «F.D.» negli ultimi dieci giorni. Quattro sono di servizio. Quattro no. ||| 목록이에요. 최근 열흘 동안 'F.D.' 인증으로 나간 메시지가 여덟 건이에요. 네 건은 일상 업무이고 네 건은 아니에요.
+CORRADO: Leggi i quattro che non lo sono. Solo l'ora e il destinatario. ||| 아닌 네 건을 읽어 줘요. 시각과 수신자만요.
+GIULIA: Primo: sabato quindici, ore diciannove e cinque, destinatario «Alba Uno». Secondo: sabato quindici, ore ventuno e quaranta, destinatario «Roma sala operativa, anonimo». Terzo: stessa ora, ventuno e quaranta, destinatario «Marsa Beida, canale civile». Quarto: domenica sedici, ore tre e dieci, destinatario «Meridian Star». ||| 첫째, 15일 토요일 19시 5분, 수신자 '알바 우노'. 둘째, 15일 토요일 21시 40분, 수신자 '로마 작전실, 익명'. 셋째, 같은 시각 21시 40분, 수신자 '마르사 베이다, 민간 채널'. 넷째, 16일 일요일 3시 10분, 수신자 '메리디안 스타'.
+CORRADO: Due avvisi gemelli, e due altri messaggi. Chi è «Meridian Star»? ||| 쌍둥이 경보 둘과 다른 메시지 둘이로군요. '메리디안 스타'는 누구죠?
+GIULIA: Nave oceanografica battente bandiera panamense, noleggiata da una società di Ginevra. È partita da Malta ieri sera e arriverà qui domani a mezzogiorno. ||| 파나마 국적의 해양 조사선이에요. 제네바의 한 회사가 용선했어요. 어제 저녁 몰타를 떠나 내일 정오에 이쪽에 도착해요.
+CORRADO: Chi l'ha invitata? ||| 누가 초대했죠?
+GIULIA: Il messaggio dice: «Si invita la nave a prendere posizione a cinque miglia dall'isola per fornire assistenza tecnica alle operazioni previste». ||| 메시지에는 '예정된 작전에 기술 지원을 제공하기 위해 섬에서 5마일 지점에 위치할 것을 초대한다'고 되어 있어요.
+CORRADO: Assistenza tecnica alle operazioni previste. Quali operazioni? ||| 예정된 작전의 기술 지원이라. 어떤 작전이죠?
+GIULIA: Non lo specifica. Ma guarda il primo, quello di sabato alle diciannove e cinque. Stesso testo, destinatario «Alba Uno»: «Si invita il natante a restare in posizione per l'appoggio logistico alle operazioni notturne». ||| 명시하지 않아요. 그런데 토요일 19시 5분의 첫 메시지를 보세요. 같은 문구에 수신자가 '알바 우노'예요. '야간 작전의 병참 지원을 위해 해당 선박은 위치를 유지할 것을 초대한다'.
+CORRADO: Operazioni notturne. Alle diciannove e cinque di sabato. ||| 야간 작전이라. 토요일 19시 5분에요.
+GIULIA: Sì. E ora arriva il punto. Il registro dell'«Alcione» dice che l'ammiraglio ha deciso di entrare nel cerchio dei sei miglia alle ventuno e quindici. Ha acceso il motore principale alle ventuno e trenta. Ha spento il transponder alle ventuno e cinquantacinque. ||| 네. 이제 핵심이에요. '알치오네' 일지에는 제독이 6마일 원 안으로 들어가기로 결정한 시각이 21시 15분으로 적혀 있어요. 주기관은 21시 30분에 켰고 트랜스폰더는 21시 55분에 껐고요.
+CORRADO: Quindi l'invito per le operazioni notturne è stato scritto... ||| 그러니 야간 작전 초대장은 쓰인 게...
+GIULIA: Due ore e dieci minuti prima della decisione. ||| 결정보다 2시간 10분 앞서요.
+CORRADO: Il testo conosceva il futuro. ||| 문서가 미래를 알고 있었군요.
+GIULIA: O qualcuno aveva già deciso che sarebbe andata così. ||| 아니면 누군가 일이 그렇게 되도록 이미 정해 둔 거죠.
+CORRADO: Giulia, ripetimelo con ordine. Alle diciannove e cinque? ||| 줄리아, 순서대로 다시 말해 줘요. 19시 5분에는?
+GIULIA: L'invito ad Alba Uno. Alle ventuno e quaranta, i due avvisi gemelli. Alle ventuno e quindici... ||| 알바 우노에 초대장. 21시 40분, 쌍둥이 경보. 21시 15분에...
+CORRADO: Aspetta. Ventuno e quindici viene prima di ventuno e quaranta. L'ammiraglio ha deciso prima dell'avviso? ||| 잠깐만요. 21시 15분은 21시 40분보다 먼저예요. 제독이 경보보다 먼저 결심했나요?
+GIULIA: Sì. Ma c'è un'ultima riga del registro. Alle ventuno e dodici, l'ammiraglio annota: «Ricevuta segnalazione riservata di movimenti tarsiani, da fonte ufficiale di bordo». ||| 네. 하지만 일지의 마지막 줄이 있어요. 21시 12분에 제독이 적었어요. '함정 내 공식 출처로부터 타르시아 쪽 움직임에 관한 기밀 신호 접수.'
+CORRADO: Una segnalazione riservata a bordo, nove minuti prima della sua decisione. Ma l'avviso identico parte alle ventuno e quaranta. ||| 결정 9분 전에 함정 내 기밀 신호가 있었고, 똑같은 경보는 21시 40분에 나가는군요.
+GIULIA: Quindi la segnalazione interna è stata passata a voce, prima dell'avviso scritto. ||| 그러니 내부 신호는 문서 경보보다 먼저 구두로 전해졌어요.
+CORRADO: Da chi? ||| 누구에게서요?
+GIULIA: Dall'aiutante. Fabrizio Dessì. L'unico che entra nella cabina dell'ammiraglio senza bussare. ||| 부관 파브리치오 데시요. 제독의 선실에 노크 없이 들어가는 유일한 사람이에요.
+ORSOLINI: Mi spiegate o devo indovinare? ||| 설명해 주겠나, 아니면 내가 맞혀야 하나?
+CORRADO: Luca, ti spiego in una frase. Il tempo ha lasciato tre impronte. L'invito ad Alba è delle diciannove e cinque. La decisione dell'ammiraglio è delle ventuno e quindici. Chi ha scritto l'invito sapeva dove sarebbe andata la nave prima che lo sapesse la nave. ||| 루카, 한 문장으로 설명할게요. 시간이 세 개의 지문을 남겼어요. 알바에 간 초대장은 19시 5분, 제독의 결정은 21시 15분. 초대장을 쓴 사람은 배 자신이 알기도 전에 배가 어디로 갈지 알고 있었어요.
+ORSOLINI: Quindi non è stato Corvi a invitare. ||| 그럼 초대한 사람은 코르비가 아니군.
+CORRADO: Non lo dico ancora. Dico che non lo possiamo escludere, né accusare. Voglio il testo originale firmato, e voglio che Corvi sia il primo a saperlo. ||| 아직은 말 못 해요. 배제할 수도 비난할 수도 없다는 말입니다. 서명된 원문을 원하고, 코르비가 가장 먼저 알게 하고 싶어요.
++ l'ora di invio = 발송 시각. 이 화의 해법인 시간 증거
++ ha lasciato tre impronte = 세 개의 지문을 남겼다. 시간이 증거가 된다는 코라도의 비유
++ prima che lo sapesse la nave = 배가 알기도 전에. 'prima che' 뒤에는 접속법 반과거를 쓴다
++ si invita il natante a... = 선박에 ~하도록 초대한다. 관청 문서의 비인칭 수동형. 'natante'는 소형 선박을 가리키는 법률 용어
++ battente bandiera = 국적 깃발을 단. 선박의 선적국을 나타내는 표현
++ senza bussare = 노크 없이. 'bussare'는 문을 두드리다
++ segnalazione riservata = 기밀 신호. 군 통신에서 비공개 등급의 연락
++ a voce = 구두로. 문서가 아닌 말로 전달한다는 뜻
+
+## 산드리와 루도비코 일 모로 — IL MORO
+SANDRI: Corrado, il tuo messaggio dice «urgente», ma l'urgenza ha un'ora. Io, alle undici, mangio un biscotto. ||| 코라도, 자네 메시지에는 '긴급'이라고 쓰여 있지만 긴급에도 시각이 있지. 나는 11시에 비스킷을 하나 먹는다네.
+CORRADO: Ambasciatore, mangi il biscotto e mi racconti Ludovico il Moro. ||| 대사님, 비스킷을 드시면서 루도비코 일 모로 이야기를 해 주십시오.
+SANDRI: Perché Ludovico? ||| 왜 루도비코인가?
+CORRADO: Perché qualcuno ha invitato qualcun altro dentro la nostra casa, e io voglio sapere come finisce. ||| 누군가 다른 누군가를 우리 집 안으로 초대했는데 어떻게 끝나는지 알고 싶어서요.
+SANDRI: Ah. Milano, millequattrocentonovantaquattro. Ludovico Sforza, detto il Moro, è reggente di un ducato che appartiene, per diritto, al nipote Gian Galeazzo. Il nipote ha sposato Isabella d'Aragona, nipote del re di Napoli. ||| 아. 밀라노, 1494년. 루도비코 스포르차, 별칭 일 모로는 법적으로 조카 잔 갈레아초의 것인 공국의 섭정이었네. 조카는 나폴리 왕의 손녀 이사벨라 다라고나와 결혼했지.
+CORRADO: E il re di Napoli, a quel punto, minacciava lo zio. ||| 그리고 나폴리 왕이 그 무렵 숙부를 위협했군요.
+SANDRI: Lo zio aveva paura che gli Aragonesi lo mettessero da parte. Allora fece una cosa che sembrava abilissima. Invitò il re di Francia, Carlo VIII, a venire a prendersi Napoli, che il re rivendicava per ragioni di eredità. ||| 숙부는 아라곤 가문이 자신을 밀어낼까 두려웠네. 그래서 아주 영리해 보이는 일을 했지. 프랑스 왕 샤를 8세를 불러 나폴리를 차지하러 오라고 한 거야. 왕은 상속을 이유로 그 땅을 요구하고 있었지.
+CORRADO: Un invito per togliersi un nemico di dosso. ||| 적을 덜어내려고 한 초대였군요.
+SANDRI: Esatto. Carlo scese nell'autunno del '94 con un esercito enorme, per quei tempi. Passò per Milano, e l'ospite fu festeggiato. Poi Gian Galeazzo morì, in circostanze che ancora si discutono, e Ludovico divenne duca. ||| 맞네. 샤를은 94년 가을에 당시로서는 엄청난 군대를 이끌고 내려왔지. 밀라노를 지나갔고 손님은 환대를 받았어. 그 뒤 잔 갈레아초가 죽었는데 여전히 논란이 되는 정황이었고 루도비코는 공작이 되었지.
+CORRADO: Quindi l'invito funzionò. ||| 그러니 초대는 통했군요.
+SANDRI: Per un anno. Poi l'ospite divenne un problema. L'Italia intera si spaventò, e nel 1495 Ludovico entrò nella lega con Venezia e altri per cacciare i francesi. Alla fine i francesi tornarono, nel 1499, e presero Milano. Ludovico fu catturato, e morì in Francia, nel castello di Loches. ||| 일 년 동안은 그랬지. 그 뒤 손님이 문제가 되었어. 이탈리아 전체가 놀랐고 1495년에 루도비코는 베네치아 등과 동맹에 들어가 프랑스군을 몰아내려 했네. 결국 프랑스는 1499년에 돌아와 밀라노를 차지했고 루도비코는 붙잡혀 프랑스의 로슈 성에서 죽었지.
+CORRADO: Chi invita un forte, rovina. ||| 강한 자를 부르는 사람은 무너지는군요.
+SANDRI: Lo disse Machiavelli, nel terzo capitolo del «Principe», più o meno così: colui che è cagione che uno diventi potente, rovina. Guicciardini disse peggio. Disse che Ludovico aveva aperto le porte d'Italia. ||| 마키아벨리가 『군주론』 3장에서 대략 그렇게 말했지. 강력해지는 데 원인이 된 사람은 무너진다고. 구이차르디니는 더 심하게 말했네. 루도비코가 이탈리아의 문을 열었다고.
+CORRADO: Una porta aperta da dentro. ||| 안에서 열린 문이로군요.
+SANDRI: È la peggiore, Corrado. Quelle dal di fuori si difendono. Quelle da dentro si scoprono quando il vento è già entrato. ||| 가장 나쁜 문이지, 코라도. 밖에서 여는 문은 막을 수 있어. 안에서 여는 문은 바람이 이미 들어온 뒤에야 알게 되지.
+CORRADO: E se chi ha invitato non ha deciso lui? Se è stato convinto? ||| 초대한 사람이 스스로 결정한 게 아니라면요? 설득당한 거라면요?
+SANDRI: Allora la colpa si divide, ma non il risultato. Ludovico credeva di usare Carlo. Fu Carlo a usare lui. Chi invita pensa sempre di tenere la chiave. ||| 그럼 잘못은 나뉘지만 결과는 나뉘지 않지. 루도비코는 샤를을 이용한다고 믿었어. 이용당한 건 그였지. 초대하는 사람은 늘 자기가 열쇠를 쥐고 있다고 생각하네.
+CORRADO: Due chiavi. Per questo ce ne servono due. ||| 열쇠 둘이요. 그래서 둘이 필요한 거죠.
+SANDRI: Giusto. E ora la raccomandazione dell'anziano: non umiliare chi ha aperto la porta. Se gli togli la dignità, ti aprirà quella dopo. ||| 맞아. 이제 노인의 권고를 하나 하지. 문을 연 사람을 모욕하지 말게. 존엄을 빼앗으면 그 사람은 다음 문을 열 걸세.
+CORRADO: Ambasciatore, devo sapere se è una porta aperta per ingenuità o per soldi. ||| 대사님, 순진해서 연 문인지 돈 때문에 연 문인지 알아야 합니다.
+SANDRI: La stessa porta. Non cambia il vento. Cambia la scelta di dopo. ||| 같은 문이네. 바람은 달라지지 않아. 달라지는 건 그다음의 선택이지.
++ il Moro = 일 모로. 루도비코 스포르차의 별칭으로 피부색 또는 뽕나무(모로)에서 왔다는 설이 있다
++ il reggente = 섭정. 어린 군주를 대신해 통치하는 사람
++ cacciare = 쫓아내다. 침입자를 몰아낼 때 쓴다. 'Cacciare via'로도 쓴다
++ colui che è cagione che uno diventi potente, rovina = 누군가를 강력하게 만든 원인이 된 자는 무너진다. 마키아벨리 『군주론』 3장의 취지를 옮긴 문장
++ aprire le porte d'Italia = 이탈리아의 문을 열다. 구이차르디니가 루도비코를 비판할 때 쓴 취지의 표현
++ se è passato il vento = 바람이 이미 들어온 뒤. 일이 벌어진 뒤에야 안다는 비유
++ non umiliare chi ha aperto la porta = 문을 연 사람을 모욕하지 말라. 협상의 원칙을 담은 산드리의 권고
+
+## 기함 부관의 자리 — L'AIUTANTE
+CORVI: Dottor Lanza, sono nell'ufficio dello stato maggiore, a Roma. Mi hanno detto che aveva una cosa da dirmi, e che prima dovevo sedermi. ||| 란차 박사, 로마의 참모부 사무실에 있습니다. 하실 말씀이 있고 먼저 앉으라고 하더군요.
+CORRADO: Ammiraglio, mi creda, preferirei dirglielo in un altro modo. Ma l'ordine dei fatti è questo. L'invito ad Alba Uno è partito dalla credenziale del suo aiutante, sabato alle diciannove e cinque. ||| 제독님, 저도 다른 방식으로 말씀드리고 싶습니다. 하지만 사실의 순서가 이렇습니다. 알바 우노에 간 초대장은 토요일 19시 5분에 부관의 인증으로 발신되었습니다.
+CORVI: Alle diciannove e cinque. Io a quell'ora ero in sala ufficiali, a cena, con tre comandanti. ||| 19시 5분이라. 그 시각에 나는 사관실에서 지휘관 셋과 저녁을 먹고 있었소.
+CORRADO: Lo so. E alle ventuno e dodici ha annotato di aver ricevuto una segnalazione riservata da una fonte ufficiale di bordo. ||| 알고 있습니다. 그리고 21시 12분에 함정 내 공식 출처에서 기밀 신호를 받았다고 적으셨죠.
+CORVI: Me l'ha portata Fabrizio. Con una busta. Mi ha detto: «Ammiraglio, dobbiamo uscire». ||| 파브리치오가 봉투에 담아 가져왔소. '제독님, 나가야 합니다'라고 했소.
+CORRADO: E la busta? ||| 그 봉투는요?
+CORVI: Conteneva il testo del primo avviso, quello su «Tanit prepara uno sbarco». Io l'ho creduto. Lo avevo ricevuto da un uomo di cui mi fidavo da undici anni. ||| 첫 경보 문안이 들어 있었소. '타니트가 상륙을 준비한다'. 나는 믿었소. 십일 년 동안 믿어 온 사람에게서 받았으니까.
+CORRADO: Ammiraglio, l'avviso identico è partito alle ventuno e quaranta. Quindi la busta che le ha portato alle ventuno e dodici conteneva un testo che doveva ancora partire. ||| 제독님, 똑같은 경보는 21시 40분에 나갔습니다. 그러니 21시 12분에 가져온 봉투에는 아직 발송되지 않은 문안이 들어 있었습니다.
+CORVI: ... ||| ...
+CORVI: Quindi lo aveva scritto lui. ||| 그러니 그가 쓴 것이로군.
+CORRADO: Lo ha scritto, o ne era a conoscenza prima. Io non so ancora quale delle due. ||| 직접 썼거나 먼저 알고 있었거나요. 어느 쪽인지는 아직 모릅니다.
+CORVI: Dottor Lanza, mi dica come si fa a non strangolare un uomo che ha scritto il tuo ordine al posto tuo. ||| 란차 박사, 내 명령을 내 대신 써 준 사람의 목을 조르지 않는 법을 알려 주시오.
+CORRADO: Non si strangola. Si chiede. E si chiede con la porta aperta. ||| 조르지 않습니다. 묻습니다. 문을 열어 두고 묻습니다.
+CORVI: Con la porta aperta. Io non apro mai le porte. ||| 문을 열어 두고라. 나는 문을 여는 사람이 아니오.
+CORRADO: Ammiraglio, l'ha detto lei, sabato, sul peschereccio: «Obbedisco». Oggi le chiedo un'altra parola. Ascolti. ||| 제독님, 토요일 어선 위에서 '복종합니다'라고 하셨죠. 오늘은 다른 말을 청합니다. 들어 주십시오.
+CORVI: La ascolto. ||| 듣고 있소.
+CORRADO: Lo faccia entrare, sieda con lui, e lo ascolti senza dire niente per quindici minuti. Io sono al telefono, in ascolto, e Valenti pure. ||| 그를 들어오게 하고 같이 앉아 15분 동안 아무 말 없이 들으십시오. 저는 전화로 듣고 있고 발렌티 장군도 같이 듣습니다.
+CORVI: Mi sta chiedendo di fare il giudice e l'amico. ||| 판사 노릇과 친구 노릇을 동시에 하라는 거로군.
+CORRADO: Le sto chiedendo di essere il suo ammiraglio. ||| 제독으로 계시라는 말씀입니다.
+CORVI: Va bene. Fabrizio, entra. ||| 좋소. 파브리치오, 들어오게.
+DESSI: Ammiraglio, mi hanno detto che vuole parlarmi. ||| 제독님, 말씀하실 게 있다고 들었습니다.
+CORVI: Siediti. Chiudi la porta. No. Lasciala aperta. ||| 앉게. 문을 닫게. 아니, 열어 두게.
+DESSI: Aperta? ||| 열어 두라고요?
+CORVI: Aperta. Dimmi tutto, dall'inizio. Ti ascolto. Niente domande da parte mia per un quarto d'ora. ||| 열어 두게. 처음부터 다 말하게. 듣겠네. 15분 동안은 내가 묻지 않겠네.
+DESSI: Ammiraglio, io... ho sempre pensato al bene della Marina. ||| 제독님, 저는... 늘 해군을 위해 생각했습니다.
+CORVI: Lo so. Continua. ||| 알고 있네. 계속하게.
+DESSI: Tre mesi fa mi ha cercato un uomo di Alba Logistica. Un signore garbato, con un grande rispetto per l'uniforme. Mi ha detto che la Farnesina stava per mettere la Marina sotto un tavolo. Che sarebbe stato un affronto. Che c'era un modo di aiutare. ||| 석 달 전에 알바 로지스티카 쪽 사람이 저를 찾아왔습니다. 정중한 신사였고 군복을 몹시 존중했습니다. 외무부가 해군을 탁자 밑에 밀어 넣으려 한다고, 모욕이 될 것이라고, 도울 방법이 있다고 했습니다.
+CORVI: E tu ci hai creduto. ||| 그리고 자네는 믿었군.
+DESSI: Ho creduto di aiutare. Mi hanno detto di tenere pronta la «presenza civile di appoggio». Sabato alle diciannove mi hanno mandato il testo da inviare. Ho obbedito. ||| 돕는 거라고 믿었습니다. '민간 지원 병력'을 대기시키라고 했습니다. 토요일 19시에 발송할 문안을 보내 왔고 저는 따랐습니다.
+CORVI: E gli avvisi gemelli? ||| 쌍둥이 경보는?
+DESSI: Me li hanno dati con la scadenza: «Alle ventuno e quaranta, uno a Roma, uno a Marsa Beida». Mi dissero: «Serve per vedere chi reagisce». ||| 기한과 함께 받았습니다. '21시 40분에 로마에 하나, 마르사 베이다에 하나.' '누가 반응하는지 보려는 것'이라고 했습니다.
+CORVI: E la busta con la segnalazione riservata che mi hai portato prima? ||| 그럼 먼저 내게 가져온 기밀 신호 봉투는?
+DESSI: L'ho scritta io, ammiraglio. Sulla traccia che mi avevano dato. ||| 제가 썼습니다, 제독님. 받은 초안을 바탕으로요.
++ stato maggiore = 참모부. 군대의 지휘 참모 조직
++ la sala ufficiali = 사관실. 함정 장교들이 식사하는 공간
++ chiedere con la porta aperta = 문을 열어 두고 묻다. 상대에게 명예로운 퇴로를 두는 방식
++ ho sempre pensato al bene di... = 늘 ~의 이익을 생각했다. 'pensare a'로 대상을 취한다
++ sotto un tavolo = 탁자 밑에. 중요한 협상에서 제외된다는 비유
++ la presenza civile di appoggio = 민간 지원 병력. 알바 로지스티카가 쓰던 완곡어
++ per vedere chi reagisce = 누가 반응하는지 보려고. 도발의 효과를 시험하는 공작의 흔한 구실
+## 열려 있는 문 — LA PORTA APERTA
+CORVI: Ti hanno promesso qualcosa? ||| 자네에게 뭘 약속했나?
+DESSI: Un incarico, ammiraglio. Dopo il congedo. Responsabile della sicurezza marittima di una società. Non ho firmato niente. Ma non ho detto di no. ||| 자리 하나요, 제독님. 전역 뒤에요. 어느 회사의 해상 안전 책임자. 아무것도 서명하지 않았습니다. 하지만 거절하지도 않았습니다.
+CORVI: Da quanto, il non dire di no? ||| 거절하지 않은 게 언제부터인가?
+DESSI: Da tre mesi. ||| 석 달 전부터입니다.
+CORVI: Tre mesi. E in tre mesi non una parola con me. ||| 석 달이라. 석 달 동안 나에게 한 마디도 없었군.
+DESSI: Avevo paura che lei mi fermasse. E avevo paura che avesse ragione. ||| 제독님이 저를 막으실까 두려웠습니다. 그리고 제독님이 옳을까 두려웠습니다.
+VALENTI: Corvi, sono Valenti. Sono in linea da dieci minuti. Dessì, mi sente? ||| 코르비, 발렌티일세. 10분 전부터 연결되어 있네. 데시 함장, 들리나?
+DESSI: Signor generale. Sì. ||| 장군님. 네.
+VALENTI: Una sola domanda, e la dica con calma. Lei ha mai visto un solo euro? ||| 질문은 하나입니다. 침착하게 답하십시오. 함장은 단 1유로라도 본 적이 있습니까?
+DESSI: No, signor generale. Ho visto una promessa. ||| 아닙니다, 장군님. 약속을 보았을 뿐입니다.
+VALENTI: Una promessa. La promessa è peggio di un euro, perché uno la rispetta anche quando non gli è stata fatta. ||| 약속이라. 약속은 1유로보다 나쁘네. 하지 않은 약속까지 지키려 하게 되니까.
+CORRADO: Generale, posso aggiungere una cosa? ||| 장군님, 한 가지 덧붙여도 되겠습니까?
+VALENTI: Dica, dottor Lanza. ||| 말씀하십시오, 란차 박사.
+CORRADO: Capitano Dessì, non voglio sapere chi l'ha convinta. Quello lo faranno altri. Voglio sapere una cosa sola: l'invito ad Alba Uno, lo vuole ritirare? ||| 데시 함장님, 누가 설득했는지는 알고 싶지 않습니다. 그건 다른 사람들이 알아낼 겁니다. 한 가지만 알고 싶습니다. 알바 우노에 보낸 초대를 거두시겠습니까?
+DESSI: Sì. Lo ritiro. ||| 네. 거두겠습니다.
+CORRADO: Non basta che lo dica. Lo deve scrivere, con la sua credenziale, nello stesso formato, con l'ora. ||| 말로는 충분하지 않습니다. 같은 형식으로, 시각과 함께, 본인 인증으로 써야 합니다.
+CORVI: E con la mia firma sotto, come ammiraglio. ||| 그리고 그 밑에 제독인 내 서명도 넣게.
+CORRADO: Ammiraglio, la sua firma è un'altra storia. La sua firma dice «L'invito non è mio». Ma l'invito non era suo. E allora deve dire «L'invito è revocato dal comando». ||| 제독님, 제독님의 서명은 또 다른 이야기입니다. 서명은 '초대는 내 것이 아니다'라고 말하는데, 초대는 제독님 것이 아니었습니다. 그러니 '초대는 사령부가 취소한다'고 해야 합니다.
+CORVI: Capisco. Non mi scarico, mi assumo. ||| 알겠소. 떠넘기지 않고 떠맡으라는 거로군.
+CORRADO: Lei non ha scritto l'invito, ma l'invito è partito dalla sua nave. E se lei lo nega, il testo resterà il testo di Dessì. Se lo revoca, diventa il testo di chi lo ha riportato. ||| 초대장을 쓴 사람은 제독님이 아니지만 초대장은 제독님의 배에서 나갔습니다. 부인하면 문안은 데시의 것으로 남고, 취소하면 바로잡은 사람의 문안이 됩니다.
+CORVI: «Il testo di chi lo ha riportato». Che bella frase. Dessì, scrivi. ||| '바로잡은 사람의 문안'이라. 멋진 문장이군. 데시, 쓰게.
+DESSI: Ammiraglio, e dopo? Che cosa succede a me? ||| 제독님, 그다음에는요? 저는 어떻게 되는 겁니까?
+CORVI: Sarai a disposizione del comando, in cabina, senza credenziali, fino a quando la procura militare ti convocherà. Non sarai umiliato. Né adesso né davanti ai ragazzi. ||| 자네는 군사 검찰이 소환할 때까지 사령부 대기 상태로 선실에 있게 될 걸세. 인증은 없이. 모욕은 주지 않겠네. 지금도, 후배들 앞에서도.
+DESSI: Ammiraglio, perché? ||| 제독님, 왜입니까?
+CORVI: Perché stamattina un diplomatico mi ha ricordato che chi apre la porta non è per questo il nemico. Ma il suo ospite sì. ||| 오늘 아침 한 외교관이 문을 연 사람이라고 해서 적은 아니라고 일깨워 주었네. 하지만 그의 손님은 적이야.
++ a disposizione del comando = 사령부 대기. 직무에서 풀려 조사를 기다리는 군의 표현
++ non scaricare, ma assumere = 떠넘기지 않고 떠맡다. 'assumersi la responsabilità'를 줄인 말투
++ non ho firmato niente, ma non ho detto di no = 아무것도 서명하지 않았지만 거절하지도 않았다. 침묵이 곧 동조가 되는 과정을 보여 주는 말
++ è peggio di un euro = 1유로보다 나쁘다. 발렌티가 '약속'의 구속력을 강조한 표현
++ il testo di chi lo ha riportato = 바로잡은 사람의 문안. 코라도가 만든 '책임 이동'의 문장
++ la procura militare = 군 검찰. 군 내부 범죄를 수사하는 기관
++ davanti ai ragazzi = 후배들 앞에서. 'ragazzi'는 부하 장병을 정답게 부르는 말
+
+## 취소 통지 — LA REVOCA
+CORVI: Giulia, è tutto pronto? ||| 줄리아, 다 준비됐나?
+GIULIA: Ammiraglio, il testo è pronto. Versione italiana, inglese e francese. Orario di invio previsto: quattordici e zero zero. ||| 제독님, 문안은 준비됐습니다. 이탈리아어, 영어, 프랑스어판이고 발송 예정 시각은 14시 정각입니다.
+CORVI: Leggimelo. ||| 읽어 주게.
+GIULIA: «Del Comando Flotta, diciannove giugno, ore quattordici. L'invito del quindici giugno, diciannove e cinque, al natante "Alba Uno" e del sedici giugno, tre e dieci, alla nave "Meridian Star", è revocato. Gli invitati non lo sono più. Chi resta nell'area è ospite non invitato». ||| '함대 사령부에서, 6월 19일 14시. 6월 15일 19시 5분 선박 \'알바 우노\'에, 6월 16일 3시 10분 \'메리디안 스타\'에 보낸 초대는 취소한다. 초대받은 자는 더는 초대받은 자가 아니다. 구역에 남는 자는 초대받지 않은 손님이다.'
+CORRADO: «Ospite non invitato». Una frase che si può capire in tutte le lingue. ||| '초대받지 않은 손님'이라. 어느 언어로나 이해되는 문장이군요.
+CORVI: L'ho scritta io. Mi pare un po' teatrale. ||| 내가 썼소. 조금 연극 같긴 하군.
+CORRADO: Va bene. A volte il teatro è l'unico modo per far arrivare una frase. ||| 괜찮습니다. 때로는 연극이 문장을 도착시키는 유일한 방법이죠.
+GIULIA: Ammiraglio, a «Alba Uno» lo mandiamo sul canale sedici e per messaggio certificato. ||| 제독님, '알바 우노'에는 16번 채널과 인증 메시지로 보냅니다.
+CORVI: Ora. ||| 지금 하게.
+GIULIA: Inviato. Quattordici e zero zero. ||| 발송했습니다. 14시 정각.
+ALBA UNO: Qui «Alba Uno», ricevuto. Siamo in acque internazionali, comandante. Non c'è legge che ci obblighi a partire. ||| 여기는 '알바 우노', 수신했습니다. 우리는 공해에 있습니다, 함장님. 우리를 떠나게 할 법은 없습니다.
+CORVI: Nessuno la obbliga, «Alba Uno». Le comunico solo che l'invito è revocato. Da questo momento nessun porto italiano la rifornisce di carburante o acqua. ||| 아무도 강요하지 않소, '알바 우노'. 초대가 취소되었음을 알릴 뿐이오. 지금부터 이탈리아의 어느 항구도 귀선에 연료나 물을 공급하지 않소.
+ALBA UNO: Questo è un provvedimento arbitrario. ||| 그것은 자의적 조치입니다.
+CORRADO: Non è un provvedimento. È il contrario di un invito. È una porta che si chiude da una parte. ||| 조치가 아니라 초대의 반대입니다. 한쪽에서 닫히는 문이죠.
+SAADI: Corrado, sono io. Marsa Beida ha un comunicato. Il ministero dei Trasporti dichiara che nessuna nave non invitata riceverà bunkeraggio, ancoraggio o acqua nei porti tarsiani nell'area. ||| 코라도, 나야. 마르사 베이다가 성명을 냈어. 교통부가 해당 해역에서 초대받지 않은 어떤 선박도 타르시아 항에서 급유, 정박, 급수를 받지 못한다고 발표했어.
+CORRADO: Saadi, il comunicato è del vostro ministero? ||| 사아디, 그 성명이 너희 부처 거야?
+SAADI: Del mio. Con la mia firma. E con la penna nera. ||| 내 거야. 내 서명으로. 검은 펜으로.
+CORRADO: Allora due porti, due penne. Nessuno dei due ospita chi non è invitato. ||| 그럼 항구 둘에 펜 둘이군. 어느 쪽도 초대받지 않은 이를 대접하지 않아.
+SAADI: Si chiama ospitalità, Corrado. E quello che stiamo togliendo, la ospitalità, è la sanzione più antica che esiste. ||| 환대라고 하지, 코라도. 우리가 거두는 건 환대고, 그건 존재하는 가장 오래된 제재야.
+ALBA UNO: Comandante, ripeto: siamo in acque libere. ||| 함장님, 반복합니다. 우리는 자유 수역에 있습니다.
+CORVI: Lo so, «Alba Uno». Resti pure. Ma resti da sola. ||| 알고 있소, '알바 우노'. 계속 있으시오. 다만 혼자 있게 될 것이오.
+GIULIA: Ammiraglio, anche «Meridian Star» ha risposto. Dice che «ha ricevuto istruzioni» di fermarsi a Gozo. ||| 제독님, '메리디안 스타'도 응답했어요. '지시를 받아' 고조에서 멈춘다고 합니다.
+CORRADO: Gozo. Dalla Malta di Zammit. Qualcuno ha detto una parola a Zammit. ||| 고조라. 차미트의 몰타로군요. 누군가 차미트에게 한마디 했군요.
+ORSOLINI: Zammit ha telefonato alle quattordici e quattro per dire che l'autorità portuale di Gozo non rilascia permessi di ormeggio a navi non invitate nell'area. ||| 차미트가 14시 4분에 전화해서 고조 항만청이 해당 해역에서 초대받지 않은 선박에는 정박 허가를 내주지 않는다고 하더군.
+CORRADO: Quattro minuti. Il tempo di un gesto, non di una pratica. ||| 4분이라. 서류가 아니라 몸짓의 시간이군요.
+ORSOLINI: È la prima volta che vedo Malta più veloce di Roma. ||| 몰타가 로마보다 빠른 건 처음 보네.
++ revocare un invito = 초대를 취소하다. 초대의 시각을 되돌려 놓는 행위로 이 화의 핵심 동사
++ ospite non invitato = 초대받지 않은 손님. 환대의 관계가 끊긴 상대를 가리키는 말
++ acque internazionali = 공해. 영해 밖 수역으로, 법이 허용하는 행위와 외교가 막는 행위는 다르다
++ bunkeraggio = 선박 급유. 항만에서 연료를 보급하는 일
++ ospitalità = 환대. 사아디가 '가장 오래된 제재'라 부른 대접의 중단
++ messaggio certificato = 인증 메시지. 수신 확인이 남는 공식 통신
++ la pratica = 서류 절차. 몸짓과 대비해 느린 행정 처리를 가리킨다
+
+## 손님과 적 — HOSPES, HOSTIS
+LEO: Papà, sei arrivato tardi. La nonna ha messo tre posti e ne ha tolto uno. Poi ne ha rimesso uno. ||| 아빠, 늦었네요. 할머니가 자리를 셋 놓았다가 하나 빼고 다시 하나 놓았어요.
+CONCETTA: Perché un ospite è un posto che si apparecchia e si leva. Siediti. ||| 손님이란 차렸다가 치우는 자리니까. 앉아라.
+CORRADO: Nonna, è l'ospite che si invita o che si accetta? ||| 할머니, 손님은 초대하는 건가요, 받아들이는 건가요?
+CONCETTA: Tutti e due. Ma c'è un proverbio: «L'ospite è come il pesce, dopo tre giorni puzza». ||| 둘 다다. 하지만 속담이 있지. '손님은 생선 같아서 사흘이 지나면 냄새가 난다.'
+LEO: Nonna, sei una fonte di filosofia ogni sera. ||| 할머니, 매일 저녁 철학의 샘이에요.
+CONCETTA: Mangia, che si fredda. ||| 먹어라, 식는다.
+LEO: Papà, una cosa che ho scoperto oggi. In latino «ospite» e «nemico» sono quasi la stessa parola. «Hospes» e «hostis». ||| 아빠, 오늘 알게 된 게 있어요. 라틴어에서 '손님'과 '적'은 거의 같은 말이에요. 'hospes'와 'hostis'.
+CORRADO: «Hostis» è lo straniero. Poi diventa il nemico. ||| 'hostis'는 이방인이었다가 나중에 적이 되었지.
+LEO: E «hospes» significa «signore dello straniero». Cioè chi lo ospita. Quindi il rapporto è un'unica parola e due direzioni: chi riceve e chi arriva. ||| 그리고 'hospes'는 '이방인의 주인'이에요. 즉 그를 대접하는 사람이죠. 그러니 관계는 한 단어에 두 방향이에요. 맞는 사람과 도착하는 사람.
+CORRADO: Capisco. Hai fatto un ragionamento per me. ||| 알겠다. 나를 위해 추론해 줬구나.
+LEO: Per te e per me. Il filosofo Kant parla del «diritto di visita». Non è il diritto di restare. È il diritto di non essere trattato come un nemico quando arrivi. ||| 아빠와 저를 위해서요. 철학자 칸트는 '방문의 권리'를 말해요. 머무를 권리가 아니라 도착했을 때 적으로 대우받지 않을 권리예요.
+CORRADO: Non il diritto di restare. ||| 머무를 권리가 아니라.
+LEO: Quindi un ospite ha dei diritti e dei limiti. E il vero problema è chi decide quando l'ospite smette di essere ospite. ||| 그러니 손님에게는 권리와 한계가 있죠. 진짜 문제는 손님이 손님이기를 그치는 때를 누가 정하느냐예요.
+CORRADO: Oggi l'abbiamo deciso con un'ora esatta: le quattordici. L'invito era valido fino a quell'ora. ||| 오늘은 정확한 시각으로 정했어. 14시. 초대는 그 시각까지 유효했지.
+LEO: Un'ora che cancella un invito. Come una scadenza, ma al contrario. ||| 초대를 지우는 시각이라. 반대 방향의 만기 같네요.
+CORRADO: E chi ha invitato non è per forza il nemico. Il suo capitano di fregata si è fidato di un ospite che prometteva troppo. ||| 그리고 초대한 사람이 반드시 적인 건 아니야. 부관은 너무 많이 약속하는 손님을 믿었던 거지.
+LEO: Machiavelli dice che chi fa potente un altro rovina se stesso. Ma qui nessuno è rovinato. ||| 마키아벨리는 남을 강하게 만든 사람은 자기가 무너진다고 해요. 그런데 여기선 아무도 무너지지 않았어요.
+CORRADO: Perché abbiamo chiuso la porta in tempo. E perché abbiamo lasciato aperta l'altra. ||| 제때 문을 닫았고 다른 쪽 문은 열어 뒀으니까.
+LEO: Quale altra? ||| 어느 다른 문요?
+CORRADO: Quella di Dessì. Non l'abbiamo umiliato. Se lo avessimo umiliato, avrebbe aperto una porta peggiore. ||| 데시의 문이지. 그를 모욕하지 않았어. 모욕했다면 더 나쁜 문을 열었을 거야.
+CONCETTA: Questo l'ha detto il vecchio ambasciatore, non tu. ||| 그건 늙은 대사님이 한 말이지 네가 한 말이 아니다.
+CORRADO: Nonna, ho un buon maestro. ||| 할머니, 저는 좋은 스승이 있어요.
+CONCETTA: Il maestro non basta. Ci vuole una nonna che cucina. ||| 스승으로는 모자라. 요리하는 할머니가 있어야 하지.
+SAADI: Corrado, scusa l'ora. Ho una proposta di Zerhouni. Ti ho detto: non mi piace come suona, ma devi saperla. ||| 코라도, 늦은 시간에 미안해. 제르후니의 제안이 있어. 어조가 마음에 들지 않지만 알아야 해.
+CORRADO: Dimmi. ||| 말해 줘.
+SAADI: Giovedì, domani, alle otto, nel Forte Sant'Angelo, a Birgu. Una fortezza. Lui ci vuole stare dentro, con noi, con Corvi e con una mediatrice. Fino a quando non si decide. ||| 내일 목요일 8시에 비르구의 산탄젤로 요새에서. 요새야. 그는 우리와 코르비와 중재자 한 명과 함께 그 안에 있고 싶어 해. 결정이 날 때까지.
+CORRADO: Fino a quando? ||| 언제까지?
+SAADI: La scadenza è sabato alle sei. Ha detto: «Tre giorni». Giovedì, venerdì, e la notte fino a sabato. ||| 기한은 토요일 6시야. '사흘'이라고 했어. 목요일, 금요일, 그리고 토요일까지의 밤.
+CORRADO: Tre giorni dentro un forte. E come mediatrice? ||| 요새 안에서 사흘이라. 중재자는요?
+SAADI: Ha chiesto Inés Valdés. Quella di Spagna. ||| 이네스 발데스를 청했어. 스페인 대표 말이야.
+CORRADO: Inés. La signora di Valencia che sa sedere in silenzio. Va bene, Saadi. Porto la penna nera e il caffè. ||| 이네스라. 침묵 속에 앉을 줄 아는 발렌시아의 부인이죠. 좋아, 사아디. 검은 펜과 커피를 가져갈게.
+SAADI: Porta anche un pigiama. In un forte l'umidità arriva alle ossa. ||| 잠옷도 가져와. 요새에서는 습기가 뼛속까지 스며들어.
++ hospes, hostis = 라틴어로 '손님(대접하는 주인)'과 '이방인, 적'. 인도유럽어 어근이 같다는 설이 있어 레오가 인용한다
++ L'ospite è come il pesce, dopo tre giorni puzza = 손님은 생선과 같아 사흘이면 냄새가 난다. 이탈리아의 속담이며 10화의 '사흘'을 예고한다
++ il diritto di visita = 방문의 권리. 칸트의 『영구 평화론』(1795)에서 나오는 외국인이 적으로 대우받지 않을 권리
++ apparecchiare = 식탁을 차리다. 'apparecchiare la tavola'에서 목적어를 생략해 쓴다
++ Forte Sant'Angelo = 산탄젤로 요새. 몰타 비르구에 있는 중세 이래의 요새. 4-10의 무대
++ una mediatrice = 여성 중재자. 'mediatore'의 여성형
++ l'umidità arriva alle ossa = 습기가 뼛속까지 스며든다. 오래된 석조 건물의 한기를 표현하는 구어

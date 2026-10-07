@@ -1,0 +1,242 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 11
+@title Plinio
+@ko 플리니우스
+@setting 6월 22일 토요일 새벽 02시 30분 ~ 오전 07시 몰타 산탄젤로 요새의 안뜰 → 위성 회선 → 섬 앞바다(어선 140척의 집결 선, 6마일) → 저녁 로마 란차의 집
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast SAADI | 타르시아 장관
+@cast ZERHOUNI | 타르시아 국방장관 하킴 제르후니, 63세(프랑스어, 이드리스가 통역)
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast VALENTI | 이탈리아 국방참모총장 피에로 발렌티 장군, 63세
+@cast SCIUTO | 카타니아 화산학 연구원 안토넬라 샤우토 박사, 55세
+@cast GRECO | 이탈리아 화산학 연구원 마테오 그레코, 31세(무전)
+@cast BRAHIMI | 타르시아 지질학자 브라히미 박사(무전)
+@cast ALBA UNO | 민간 보조선 '알바 우노' 선장(무전)
+@cast HOCINE | 마르사 베이다의 은퇴한 '라이스' 호신 벨카셈, 79세(무전)
+@cast GASPARE | 선장의 아버지 가스파레, 84세(무전)
+@cast YASSINE | 마르사 베이다 어선 '누르' 선장 야신 벨카셈(무전)
+@cast MANGIARACINA | 마차라 델 발로 어선 선장 살바토레 만자라치나, 58세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세(전화)
+@cast LEO | 란차의 아들, 17세
+@cast CONCETTA | 노나 콘체타, 86세
+@note 4부 11화는 '위기'의 화입니다. 토요일 새벽 샤우토가 섬이 가라앉기 시작했다고 알리지만, 측정소를 설치하러 올라간 이탈리아·타르시아 연구원 두 명이 이미 섬 위에 있고 140척의 어선이 6시에 출어합니다. 코라도는 출어를 미루지 않고(첫 등불의 약속을 깨지 않기 위해) 한 줄 규칙을 공개합니다. '구조는 깃발이 아니라 거리 순서: 가장 가까운 배가 가장 먼저 간다.' 가장 가까운 배는 이틀 전 초대가 취소된 '알바 우노'입니다. 역사 논거는 서기 79년 베수비오 분출과 소(小)플리니우스가 타키투스에게 쓴 편지(『서간집』 6권 16, 20)입니다. 함대 사령관이던 대(大)플리니우스는 레크티나라는 여인이 바다로밖에 탈출할 수 없다는 쪽지를 받고 관찰하려던 계획을 구조로 바꿔 사두 갤리선을 띄웠고(그는 스타비아이에서 숨졌습니다), 당시 열일곱 살 조카는 집에 남아 리비우스를 읽었다고 적었습니다. 해법의 순간은 '가장 가까운 배가 가장 먼저'입니다. 레오는 '떠난 사람과 남은 사람 가운데 누구의 몫이 더 어려웠나'를 묻습니다. 어휘는 위기·구조 표현(soccorso, naufrago, calare in mare, in ritardo, a portata, il più vicino)과 명령형 및 현재완료 구문에 주목하세요.
+@next 4-12 «베네치아의 평화» — 섬은 사라지고 합의문이 남으며 마지막 식탁이 차려집니다.
+
+## 새벽의 규칙 — LA REGOLA DEL PIÙ VICINO
+SCIUTO: Dottor Lanza, non l'ho detto subito per non spaventarvi. Gli strumenti del versante ovest registrano un abbassamento di undici centimetri in tre ore. Il cono perde peso da dentro. ||| 란차 박사님, 놀라지 않게 하려고 바로 말씀드리지 않았습니다. 서쪽 사면의 계측기가 세 시간 동안 11센티미터 낮아졌다고 기록합니다. 원뿔이 안에서부터 무게를 잃고 있습니다.
+CORRADO: Undici centimetri in tre ore sono... quanto in un giorno? ||| 세 시간에 11센티미터면 하루에는 얼마입니까?
+SCIUTO: Quasi un metro, se resta costante. Ma non resterà costante. Le cose che cedono accelerano. ||| 일정하다면 거의 1미터입니다. 하지만 일정하지 않을 겁니다. 무너지는 것은 빨라지니까요.
+CORRADO: I due colleghi dove sono ora? ||| 두 분은 지금 어디 계십니까?
+SCIUTO: Hanno lasciato Marsa Beida alle tre e venti su un gommone della guardia costiera tarsiana. Tra mezz'ora toccano l'isola, sul lato sud. Sono Matteo Greco, trentuno anni, e il dottor Brahimi. ||| 3시 20분에 마르사 베이다에서 타르시아 해안경비대 고무보트로 출발했습니다. 30분 뒤에 섬 남쪽에 닿습니다. 서른한 살의 마테오 그레코와 브라히미 박사입니다.
+ZERHOUNI: Qu'on les rappelle. ||| 불러들이시오.
+IDRIS: Il ministro dice: «Richiamateli». ||| 장관님이 '불러들이시오'라고 하십니다.
+SCIUTO: Ministro, si può. Ma non lo farei. Se non posano le due stazioni, non sapremo quanto e dove cede. E se non lo sappiamo, non saremo in grado di dire ai pescherecci da che parte non passare. ||| 장관님, 가능합니다. 하지만 하지 않겠습니다. 측정소 둘을 설치하지 않으면 얼마나 어디가 무너지는지 알 수 없고, 그러면 어선들에게 어느 쪽으로 지나가지 말라고 말할 수 없습니다.
+CORRADO: Il patto del forte dice: salgono in due, uno per parte. Il ministro lo ha firmato dieci ore fa. ||| 요새의 약속은 둘이 올라가되 한 쪽에 한 명이라고 합니다. 장관님이 열 시간 전에 서명하셨죠.
+IDRIS: Il ministro dice: «Lo so che l'ho firmato. Non ho detto che mi piace». ||| 장관님이 '서명한 건 아오. 마음에 든다고는 안 했소'라고 하십니다.
+CORRADO: Allora gli diamo una regola: venticinque minuti sul cono, e non uno di più. Alle cinque e quarantacinque sono di nuovo in mare. ||| 그럼 규칙을 하나 줍니다. 원뿔 위에 25분, 1분도 더는 안 됩니다. 5시 45분에는 다시 바다에 있어야 합니다.
+SCIUTO: Va bene. Venticinque minuti. Li avverto. ||| 좋습니다. 25분. 알리겠습니다.
+VALENTI: Dottor Lanza, qui Valenti, sono in sala operativa. Se succede qualcosa, qual è il piano di recupero? ||| 란차 박사, 발렌티입니다. 작전실에 있습니다. 무슨 일이 생기면 구조 계획은 무엇입니까?
+CORRADO: Generale, io non ho un piano. Ho una domanda per il vostro Stato Maggiore. In acqua, in un'ora, chi può arrivare per primo? ||| 장군님, 저는 계획이 없습니다. 참모부에 질문이 하나 있습니다. 한 시간 안에 바다에서 누가 가장 먼저 도착할 수 있습니까?
+VALENTI: Un elicottero dell'«Alcione». Quattro minuti. ||| '알치오네'의 헬기입니다. 4분.
+SCIUTO: No. Non l'elicottero. Con la cenere che esce dal cono, un rotore a bassa quota aspira polvere e si ferma. Niente elicotteri sotto i trecento metri. ||| 안 됩니다. 헬기는 안 됩니다. 원뿔에서 나오는 재 때문에 낮은 고도의 회전 날개는 가루를 빨아들이고 멈춥니다. 300미터 아래로는 헬기를 쓰지 마십시오.
+VALENTI: Allora una lancia. Dalla «Tanit»? Dall'«Alcione»? ||| 그럼 보트로요. '타니트'에서요? '알치오네'에서요?
+CORRADO: Generale, entrambe sono oltre sette miglia. Il protocollo del forte tiene le navi grigie fuori dalle dodici miglia dalle sei in poi. ||| 장군님, 둘 다 7마일 밖입니다. 요새 의정서에 따라 6시부터는 회색 군함이 12마일 밖에 있어야 하고요.
+VALENTI: Mi sta dicendo che non c'è nessuno? ||| 아무도 없다는 말입니까?
+CORRADO: C'è qualcuno. Giulia, chi è il più vicino all'isola in questo momento? ||| 누가 있긴 합니다. 줄리아, 지금 섬에서 가장 가까운 배가 누구죠?
+GIULIA: Da radar e da transponder, a cinque miglia e quattro decimi: «Alba Uno». Al secondo posto, a sei miglia e due, il peschereccio «Nour». Poi i centoquaranta, in fila sulla linea. ||| 레이더와 트랜스폰더로 5마일 4/10 지점에 '알바 우노'가 있어요. 둘째로 6마일 2/10에 어선 '누르'. 그다음에 140척이 선에 줄지어 있고요.
+CORVI: «Alba Uno». L'ospite non invitato. ||| '알바 우노'라. 초대받지 않은 손님이로군요.
+CORRADO: Ammiraglio, il più vicino. Non l'ospite, non il nemico. Il più vicino. ||| 제독님, 가장 가까운 배입니다. 손님도 적도 아닙니다. 가장 가까운 배죠.
+CORVI: E se non risponde? ||| 응답하지 않으면?
+CORRADO: Risponde. Il mare non chiede inviti. E c'è una legge del mare più vecchia di qualsiasi protocollo: chi può soccorrere, soccorre. ||| 응답합니다. 바다는 초대장을 묻지 않습니다. 어떤 의정서보다 오래된 바다의 법이 있죠. 구조할 수 있는 사람이 구조한다.
+SAADI: Corrado, vuoi dirlo a tutti i pescherecci? ||| 코라도, 어선 전부에게 말할 거야?
+CORRADO: Con un avviso. Sul canale sedici, con data, luogo e testimone. Mattia, Giulia, preparate il numero tre. ||| 소식으로요. 16번 채널에서 날짜와 장소와 증인을 붙여서. 마티아, 줄리아, 제3호를 준비해요.
+GIULIA: Che cosa scriviamo? ||| 뭐라고 쓸까요?
+CORRADO: Una riga. «Se qualcuno chiama dal mare, il più vicino va per primo, di qualunque bandiera sia. Gli altri seguono per distanza, e nessuno chiede il nome del vicino». ||| 한 줄입니다. '바다에서 누가 부르면 어느 국기이든 가장 가까운 배가 가장 먼저 간다. 나머지는 거리 순서로 따르며 아무도 가까운 배의 이름을 묻지 않는다.'
+ZERHOUNI: Qu'est-ce que c'est que cette phrase? ||| 이게 무슨 문장이오?
+IDRIS: Il ministro: «Che frase è questa?». ||| 장관님이 '이게 무슨 문장이오?'라고 하십니다.
+CORRADO: Una frase che potrebbe salvare un uomo del mio Paese o del suo. Mi pare sufficiente. ||| 우리나라 사람이든 그쪽 사람이든 한 사람을 살릴 수 있는 문장입니다. 충분하다고 봅니다.
+ZERHOUNI: Je la signe. ||| 서명하겠소.
+IDRIS: Il ministro dice: «La firmo». ||| 장관님이 '서명하겠소'라고 하십니다.
++ il più vicino va per primo = 가장 가까운 배가 가장 먼저 간다. 이 화의 해법인 거리 순서의 규칙
++ in sala operativa = 작전실에서. 군과 해경의 지휘 센터를 가리키는 말
++ cedere = 무너지다, 양보하다. 지반이 주저앉는 뜻과 양보의 뜻이 한 동사에 겹친다
++ sotto i trecento metri = 300미터 아래로. 'sotto' 뒤 수량은 고도의 한계를 표현한다
++ in fila sulla linea = 선 위에 줄지어. 어선 140척이 6마일 선에서 6시를 기다리는 모습
++ chi può soccorrere, soccorre = 구조할 수 있는 사람이 구조한다. 해양 구조 의무를 요약한 말로 UNCLOS 98조와 통한다
++ posare una stazione = 측정소를 설치하다. 계측 장비를 놓는 일
+
+## 산드리와 대(大)플리니우스 — IL PRIMO DI PLINIO
+SANDRI: Corrado, è l'alba, o quasi. Concetta mi ha fatto alzare per dirmi che ieri sera hai tolto il pesce dal piatto. ||| 코라도, 동틀 무렵이군. 콘체타가 나를 깨워서 어젯밤 자네가 생선을 접시에서 치웠다고 하더군.
+CORRADO: Non l'ho toccato, ambasciatore. Ho solo mangiato con un cuore che non c'era. ||| 손도 대지 않았습니다, 대사님. 마음이 거기 없이 먹었을 뿐입니다.
+SANDRI: Raccontami cosa è successo. ||| 무슨 일인지 말해 보게.
+CORRADO: Sull'isola ci sono due ragazzi. Stanno posando due strumenti. L'isola cede. Alle sei partono centoquaranta barche. ||| 섬 위에 젊은이 둘이 있습니다. 측정기 둘을 놓고 있고요. 섬이 가라앉습니다. 6시에 배 140척이 출발하고요.
+SANDRI: Capisco. E hai fatto una regola. ||| 알겠네. 그리고 자네는 규칙 하나를 만들었군.
+CORRADO: Il più vicino va per primo. ||| 가장 가까운 배가 가장 먼저 갑니다.
+SANDRI: Una regola nata quasi duemila anni fa, all'altro capo del Golfo di Napoli. L'anno è il settantanove dopo Cristo. Il vulcano è il Vesuvio. L'uomo è Plinio il Vecchio, prefetto della flotta di Miseno. ||| 거의 이천 년 전, 나폴리만의 반대편 끝에서 생긴 규칙이지. 서기 79년, 화산은 베수비오, 사람은 미세노 함대의 사령관 대(大)플리니우스야.
+CORRADO: Lo scrittore dell'«Historia Naturalis». ||| 『박물지』를 쓴 사람이요.
+SANDRI: Lo scrittore, sì. Un uomo curioso. Vede una nube che si alza dal monte, in forma di pino, e vuole andare a guardare. Prepara una nave leggera. ||| 맞아, 저술가였지. 호기심 많은 사람이야. 산에서 소나무 모양의 구름이 솟는 것을 보고 가서 보고 싶어 했네. 가벼운 배 한 척을 준비시켰지.
+CORRADO: Ma poi succede qualcosa. ||| 그런데 무슨 일이 생기는군요.
+SANDRI: Gli arriva un biglietto. Di una donna, Rectina, moglie di Tascio. La villa è ai piedi del vulcano. L'unica via d'uscita è il mare. Chiede aiuto. ||| 쪽지 한 장이 도착하네. 타스쿠스의 아내 레크티나라는 여인에게서 온 거야. 저택이 화산 발치에 있고 유일한 탈출로는 바다뿐이었지. 도움을 청했어.
+CORRADO: E lui cambia piano. ||| 그래서 계획을 바꾸는군요.
+SANDRI: Lo racconta suo nipote, Plinio il Giovane, in una lettera a Tacito. La frase è bellissima: ciò che aveva cominciato per curiosità di studioso, lo continuò da eroe. Fa uscire le quadriremi. Non per una donna sola, ma per tutta la costa, che era piena di gente. ||| 조카 소(小)플리니우스가 타키투스에게 보낸 편지에 적었지. 문장이 아주 아름다워. 학자의 호기심으로 시작한 일을 영웅으로서 이어 갔다고. 사두 갤리선을 출항시켰네. 한 여인만이 아니라 사람으로 가득한 해안 전체를 위해서였지.
+CORRADO: E dove va? ||| 어디로 갑니까?
+SANDRI: Dritto verso il punto da cui gli altri fuggono. Questo lo scrive il nipote. Poi sbarca a Stabia, a sud, dove il vento lo spinge, e muore il giorno dopo sulla riva, per i fumi. ||| 다른 사람들이 도망치는 지점으로 곧장 가지. 조카가 적은 대로야. 이후 바람에 밀려 남쪽 스타비아이에 상륙했고, 다음 날 해안에서 연기 때문에 숨졌네.
+CORRADO: Quindi non è una regola felice. ||| 행복한 규칙은 아니군요.
+SANDRI: È una regola onesta. Tu non devi andare dove va lui. Tu devi organizzare in modo che il primo vada, e che chi va non vada solo. ||| 정직한 규칙이지. 자네는 그가 간 곳으로 가서는 안 되네. 첫 사람이 가고 가는 사람이 혼자 가지 않게 정리해야 해.
+CORRADO: E il nipote? ||| 조카는요?
+SANDRI: Il nipote rimase a casa. Aveva diciassette anni. Racconta che continuò a studiare Livio. Poi la terra tremò, la madre lo svegliò, scapparono in mezzo alla folla. ||| 조카는 집에 남았지. 열일곱 살이었네. 리비우스를 계속 읽었다고 하더군. 그러다 땅이 흔들렸고 어머니가 깨워서 군중 틈으로 도망쳤어.
+CORRADO: Diciassette anni. ||| 열일곱 살이요.
+SANDRI: L'età di tuo figlio. Non so perché te lo dico. Forse perché non sempre chi resta ha il compito più facile. ||| 자네 아들의 나이지. 왜 이 말을 하는지 모르겠네. 어쩌면 남는 사람이 늘 쉬운 몫을 맡는 게 아니라서일 거야.
+CORRADO: Ambasciatore, questa mattina c'è uno che resta, e uno che va. ||| 대사님, 오늘 아침에는 남는 사람과 가는 사람이 있습니다.
+SANDRI: Chi va è chi si trova più vicino. Chi resta è chi tiene l'elenco. Entrambi sono Plinio. Chiudi il telefono e vai a vedere il mare. ||| 가는 사람은 가장 가까이 있는 사람이고 남는 사람은 명단을 쥐고 있는 사람이네. 둘 다 플리니우스야. 전화를 끊고 바다를 보러 가게.
++ prefetto della flotta = 함대 사령관. 대플리니우스는 미세노 함대(classis Misenensis)를 지휘했다
++ la quadrireme = 사두 갤리선. 노 젓는 사람이 네 줄 있는 고대 군함
++ Plinio il Giovane a Tacito = 소플리니우스가 타키투스에게. 『서간집』 6권 16번과 20번이 베수비오 분출을 전한다
++ ciò che aveva cominciato per curiosità lo continuò da eroe = 호기심으로 시작한 일을 영웅으로서 이어 갔다. 소플리니우스의 편지의 취지를 옮긴 문장
++ Rectina, moglie di Tascio = 타스쿠스의 아내 레크티나. 구조를 청한 쪽지의 발신자
++ Stabia = 스타비아이. 폼페이 남쪽의 해안 도시로 대플리니우스가 숨진 곳
++ tenere l'elenco = 명단을 쥐고 있다. 남아서 관리와 기록을 맡는 역할
+## 5시 38분 — IL CEDIMENTO
+MANGIARACINA: Qui Mazara, peschereccio «Santa Rosalia», sulla linea dei sei miglia. Sono le cinque in punto. Avviso numero tre, dal Mare di Mezzo. ||| 여기는 마차라, 어선 '산타 로살리아', 6마일 선입니다. 5시 정각입니다. 바다 한가운데의 제3호 소식입니다.
+YASSINE: Qui «Nour», sul canale sedici, con trentasei barche attorno a me, che ascoltano. ||| 여기는 '누르', 16번 채널입니다. 주변의 서른여섯 척이 듣고 있습니다.
+MANGIARACINA: «Se qualcuno chiama dal mare, il più vicino va per primo, di qualunque bandiera sia. Gli altri seguono per distanza, e nessuno chiede il nome del vicino». Firmato Saadi, firmato Zerhouni, firmato Lanza, in un forte, alle due e quaranta. ||| '바다에서 누가 부르면 어느 국기이든 가장 가까운 배가 가장 먼저 간다. 나머지는 거리 순서로 따르며 아무도 가까운 배의 이름을 묻지 않는다.' 사아디, 제르후니, 란차가 요새에서 2시 40분에 서명했습니다.
+YASSINE: Testimoni: tutti quelli che ci sentono. ||| 증인은 이 말을 듣는 모든 사람입니다.
+GASPARE: Qui Gaspare, a terra. Sento tutto. Un ragazzo di ottantaquattro anni ha ancora un'orecchia. ||| 여기는 가스파레, 육지입니다. 다 듣고 있습니다. 여든네 살 소년도 귀는 있지요.
+CORRADO: Giulia, dimmi il tempo e la posizione dei due. ||| 줄리아, 두 분의 시각과 위치를 알려 줘요.
+GIULIA: Greco e Brahimi sono a terra dalle cinque e dieci. Stazione uno posata alle cinque e ventidue, sul lato sud. Stanno posando la due, sul lato ovest, a dodici metri dal bordo. ||| 그레코와 브라히미는 5시 10분부터 섬 위에 있어요. 1번 측정소는 5시 22분에 남쪽에 설치했고, 지금 서쪽 가장자리에서 12미터 떨어진 곳에 2번을 설치 중이에요.
+SCIUTO: Dodici metri dal bordo ovest? Ma quel bordo è già instabile! Richiamateli. Adesso. ||| 서쪽 가장자리에서 12미터요? 그 가장자리는 이미 불안정합니다! 불러들이세요. 지금 당장.
+GRECO: Qui Greco. Dottoressa, abbiamo finito. Brahimi sta serrando l'ultima vite. Un minuto e rientriamo. ||| 그레코입니다. 박사님, 끝났습니다. 브라히미 박사가 마지막 나사를 조이고 있습니다. 1분 뒤 복귀합니다.
+SCIUTO: Un minuto. ||| 1분이라.
+GIULIA: Cinque e trentotto. ||| 5시 38분이에요.
+GRECO: Dottoressa, la terra... ||| 박사님, 땅이...
+SCIUTO: Greco? Greco! ||| 그레코? 그레코!
+GRECO: Il bordo si è abbassato! Brahimi è caduto! È a tre metri sotto di me, in un taglio! ||| 가장자리가 내려앉았어요! 브라히미 박사가 떨어졌어요! 제 아래 3미터 틈에 있어요!
+BRAHIMI: Je suis là. Ma jambe... ||| 여기 있소. 내 다리가...
+GRECO: Dice che è lì. La gamba. Non riesce a salire. Il gommone è sparito, il mare l'ha portato via! ||| 여기 있다고 합니다. 다리요. 올라오지 못합니다. 고무보트가 사라졌어요, 바다가 휩쓸어 갔어요!
+SCIUTO: Greco, ascoltami bene. Non scendere a prenderlo. Fatti sentire, sali sul punto più alto che puoi raggiungere e stai fermo. Le scosse stanno aumentando. Abbiamo venti minuti prima che ceda il resto del fianco. ||| 그레코, 잘 들어요. 데리러 내려가지 마세요. 소리를 내고 닿을 수 있는 가장 높은 곳으로 올라가 가만히 있어요. 진동이 커지고 있어요. 나머지 사면이 무너지기까지 20분 있습니다.
+CORRADO: Giulia! Chi è il più vicino? ||| 줄리아! 가장 가까운 배가 누구예요?
+GIULIA: «Alba Uno». Cinque miglia e quattro. Dieci minuti con il loro tender, se partono adesso. ||| '알바 우노'예요. 5마일 4/10. 지금 출발하면 부속 보트로 10분이에요.
+CORRADO: «Alba Uno», qui Lanza, dalla sala del forte di Sant'Angelo. Mi sentite? ||| '알바 우노', 여기는 산탄젤로 요새의 란차입니다. 들립니까?
+ALBA UNO: Ricevuto. Qui «Alba Uno». Abbiamo sentito il canale. ||| 수신했습니다. 여기는 '알바 우노'. 채널을 들었습니다.
+CORRADO: Due uomini sul cono, uno ferito. Siete i più vicini. ||| 원뿔 위에 둘이 있고 한 명은 다쳤습니다. 가장 가까운 배는 당신들입니다.
+ALBA UNO: Comandante... Non siamo invitati nell'area. Non riceviamo ordini. ||| 지휘관님... 우리는 이 구역에 초대받지 않았습니다. 명령은 받지 않습니다.
+CORVI: «Alba Uno», qui Corvi. Non è un ordine. Non ho un invito da offrirle e non lo offro. Le dico una cosa sola: sono due uomini. Il mare non chiede inviti. ||| '알바 우노', 코르비입니다. 명령이 아닙니다. 드릴 초대도 없고 드리지도 않겠습니다. 한 가지만 말씀드립니다. 사람이 둘입니다. 바다는 초대장을 묻지 않습니다.
+ALBA UNO: ... ||| ...
+GIULIA: Novanta secondi di silenzio. ||| 90초째 침묵이에요.
+CORRADO: Capitano, ha un figlio? ||| 선장님, 아들 있습니까?
+ALBA UNO: Ho due figlie. ||| 딸이 둘입니다.
+CORRADO: Allora sa a che ora si decide. ||| 그럼 몇 시에 결정하는지 아시겠군요.
+ALBA UNO: Il tender è in acqua. Cinque e quarantasei. Quattro uomini, un medico. ||| 부속 보트를 내렸습니다. 5시 46분. 인원 넷, 의사 한 명.
+YASSINE: «Nour» al secondo posto per distanza. Mi muovo verso il punto di consegna a tre miglia. ||| '누르'는 거리상 둘째입니다. 3마일 인수 지점으로 이동합니다.
+MANGIARACINA: «Santa Rosalia» terza. Seguo la «Nour» a un miglio, con il medico di bordo, che è mia moglie. ||| '산타 로살리아'는 셋째입니다. '누르'를 1마일 간격으로 따릅니다. 선상 의사는 제 아내입니다.
+VALENTI: Dottor Lanza, il cronometro dice sei minuti. ||| 란차 박사, 시계가 6분을 가리킵니다.
+SCIUTO: Cinque e cinquantatré. Un'altra scossa. Il bordo ovest ha perso altri due metri. Greco sta ancora fermo? ||| 5시 53분. 또 진동이 있었습니다. 서쪽 가장자리가 2미터 더 줄었어요. 그레코는 아직 가만히 있습니까?
+GRECO: Sono qui, dottoressa. Lo vedo arrivare. Il gommone grigio con la scritta bianca. ||| 여기 있습니다, 박사님. 오는 게 보입니다. 흰 글씨가 쓰인 회색 고무보트입니다.
+ALBA UNO: Qui il tender. Siamo sotto il bordo sud. Vedo due uomini. ||| 여기는 부속 보트입니다. 남쪽 가장자리 밑에 있습니다. 사람 둘이 보입니다.
+CORRADO: Prendete prima il ferito. ||| 다친 사람부터 태우십시오.
+ALBA UNO: Il ferito è in un taglio. Mando due uomini con la corda. ||| 다친 사람은 틈 안에 있습니다. 밧줄을 들고 둘이 올라갑니다.
+SCIUTO: Dodici minuti. ||| 12분입니다.
+ALBA UNO: Preso. Preso il ferito. Il medico lo sta... ha la gamba rotta. È cosciente. ||| 구했습니다. 부상자를 구했습니다. 의사가... 다리가 부러졌습니다. 의식은 있습니다.
+ALBA UNO: Prendo il secondo. Il giovane. Sale con noi. Cinque e cinquantanove. ||| 둘째를 태웁니다. 젊은 사람입니다. 함께 오릅니다. 5시 59분.
+GIULIA: Corrado, un'onda. Sciuto dice che un fianco ha ceduto proprio ora. ||| 코라도, 파도예요. 샤우토 박사님이 방금 한쪽 사면이 무너졌다고 해요.
+ALBA UNO: Una colonna di cenere! Mollo! Mollo! Andiamo! ||| 재기둥입니다! 출발합니다! 출발!
+CORRADO: Capitano? ||| 선장님?
+ALBA UNO: Ce la facciamo. Siamo fuori. Tutti a bordo. Sei e due. ||| 해냈습니다. 빠져나왔습니다. 모두 탑승했습니다. 6시 2분.
++ cedimento = 침하, 무너짐. 'cedere'의 명사형으로 이 화에서 섬의 붕괴를 가리킨다
++ posare la stazione = 측정소를 설치하다. 지진과 지반 변위를 재는 장비를 놓는 일
++ mollo = (줄을) 놓다, 출발하다. 구어에서 'mollare'는 놓아 버리다는 뜻도 있다
++ Non è un ordine = 명령이 아니다. 지휘 계통 밖의 선박에게 부탁의 형식을 취하는 코르비의 말
++ il tender = 부속 보트. 본선에서 내려 짧은 거리를 오가는 작은 보트
++ il punto di consegna = 인수 지점. 구조된 사람을 다른 배가 받는 합의된 위치
++ ha la gamba rotta = 다리가 부러졌다. 'avere'로 상태를 말하는 구어 구문
++ il medico di bordo = 선상 의사. 마차라 어선에서는 선장 아내가 맡았다
+
+## 첫 등불 — LA LANTERNA
+ALBA UNO: Qui «Alba Uno». Il ferito è affidato alla «Nour», punto di consegna a tre miglia. Passaggio completato alle sei e ventidue. ||| 여기는 '알바 우노'. 부상자는 '누르'에 인계했습니다. 3마일 인수 지점, 인계 완료 6시 22분.
+YASSINE: Qui «Nour». Preso il ferito e il giovane. Dottoressa Mangiaracina a bordo con me. Siamo a posto. ||| 여기는 '누르'. 부상자와 젊은 분을 인수했습니다. 마차라치나 선장 부인께서 저와 함께 계십니다. 안정적입니다.
+BRAHIMI: Je vous remercie, mes amis. Merci à ceux qui sont venus. ||| 고맙소, 친구들. 와 준 분들께 감사하오.
+IDRIS: Il dottor Brahimi ringrazia. Ha detto «a quelli che sono venuti». Non ha detto da dove. ||| 브라히미 박사님이 감사하다고 하십니다. '와 준 분들'이라고 하셨습니다. 어디서 왔는지는 말씀하지 않으셨고요.
+CORRADO: Capitano di «Alba Uno». ||| '알바 우노' 선장님.
+ALBA UNO: Dica. ||| 말씀하십시오.
+CORRADO: Grazie. ||| 감사합니다.
+ALBA UNO: Non mi ringrazi. Io ero in quell'area per un motivo che non le dico. ||| 감사하지 마십시오. 저는 말씀드리지 않을 이유로 그 구역에 있었습니다.
+CORRADO: Lo so. Non posso perdonarla per quel motivo. Ma la ringrazio per questa mattina. Sono due verbi diversi. ||| 압니다. 그 이유로는 용서할 수 없습니다. 하지만 오늘 아침에 대해서는 감사합니다. 두 동사는 다릅니다.
+ALBA UNO: Sì. Sono diversi. ||| 네. 다릅니다.
+CORVI: Capitano, a nome della Marina, non a nome mio: il suo ingresso nei porti italiani per carburante e acqua resta sospeso. Ma la sospensione ha una data. Lunedì la riesamino io. ||| 선장님, 제 이름이 아니라 해군의 이름으로 말씀드립니다. 귀선의 이탈리아 항 연료·급수 이용 정지는 유지됩니다. 하지만 정지에는 날짜가 있습니다. 월요일에 제가 다시 검토하겠습니다.
+ALBA UNO: Ammiraglio, non me l'aspettavo. ||| 제독님, 예상하지 못했습니다.
+CORVI: Nemmeno io. ||| 저도 그렇습니다.
+SCIUTO: Dottor Lanza, ho i dati del mattino. Il cono si è abbassato di sei metri in un'ora. Era diciassette. Ora è undici. ||| 란차 박사님, 아침 자료가 있습니다. 원뿔이 한 시간 동안 6미터 낮아졌습니다. 17미터였는데 지금은 11미터입니다.
+CORRADO: E la tendenza? ||| 추세는요?
+SCIUTO: Entro lunedì sarà sotto il livello del mare. Forse martedì. Le due stazioni, le ho perse. Ma ho i primi diciotto minuti di dati, e sono preziosi. ||| 월요일 안에 해수면 아래가 될 겁니다. 화요일일 수도 있고요. 측정소 둘은 잃었습니다. 하지만 처음 18분의 자료가 있고 값집니다.
+CORRADO: Dottoressa, quanto valgono? ||| 박사님, 얼마나 값집니까?
+SCIUTO: Valgono il primo mattone del fondo comune. Nessuno ha misurato un'isola mentre moriva. ||| 공동 기금의 첫 벽돌만큼요. 죽어 가는 섬을 잰 사람은 아무도 없었으니까요.
+GIULIA: Corrado, sono le sei e quaranta. La flotta è ferma da quaranta minuti sulla linea. ||| 코라도, 6시 40분이에요. 선단이 40분째 선 위에 멈춰 있어요.
+CORRADO: Mangiaracina, Yassine, la partenza. Chi accende la lanterna? ||| 만자라치나 선장, 야신 선장, 출발입니다. 누가 등불을 켭니까?
+MANGIARACINA: Il turno è Tarsia, da marzo a giugno. Spetta a un tarsiano. ||| 3월부터 6월까지 차례는 타르시아입니다. 타르시아 사람 몫이죠.
+YASSINE: Capitano, signor Lanza, io sono il più giovane. Non spetta a me. ||| 선장님, 란차 씨, 저는 가장 어립니다. 제 몫이 아닙니다.
+HOCINE: Qui Marsa Beida. Parla Hocine. Yassine, accendi tu. Hai preso a bordo un uomo che non era tuo. Accendi la lanterna. ||| 여기는 마르사 베이다. 호신입니다. 야신, 네가 켜라. 네 사람이 아닌 사람을 태웠잖니. 등불을 켜라.
+YASSINE: Nonno... ||| 할아버지...
+HOCINE: Accendi. E quando la lanterna è accesa, la «Santa Rosalia» offre il vino. Gaspare, tu sei lì? ||| 켜라. 그리고 등불이 켜지면 '산타 로살리아'가 포도주를 올린다. 가스파레, 거기 있나?
+GASPARE: Ci sono, Hocine. Il vino lo porto io. Lo bevo subito. Anzi, tu bevi il tè, io il vino, e chi cede brinda per primo. ||| 있네, 호신. 포도주는 내가 가져가지. 바로 마시고. 아니, 자네는 차를 마시고 나는 포도주를 마시되 양보한 사람이 먼저 건배하세.
+HOCINE: E chi ha ceduto stamattina? ||| 그럼 오늘 아침 누가 양보했나?
+GASPARE: Tutti. Perfino un ospite non invitato. ||| 모두. 초대받지 않은 손님까지도.
+YASSINE: Accesa. È accesa. Sei e quarantasette. ||| 켰습니다. 켜졌습니다. 6시 47분.
+MANGIARACINA: Allora centoquaranta barche... avanti. Piano. Non c'è fretta. Il pesce sa aspettare. ||| 자, 140척 전진. 천천히. 서두를 것 없습니다. 생선은 기다릴 줄 압니다.
+ZERHOUNI: Je les vois, depuis la muraille. Toutes les lumières. Comme un collier. ||| 성벽에서 보이오. 모든 불빛이. 목걸이처럼.
+IDRIS: Il ministro dice: «Li vedo dalle mura. Tutte le luci. Come una collana». ||| 장관님이 '성벽에서 보이오. 모든 불빛이. 목걸이처럼'이라고 하십니다.
+CORVI: Ministro, io dalla sala non vedo niente. Ma sento il canale. ||| 장관님, 저는 회의실에서는 아무것도 보이지 않습니다. 하지만 채널은 들립니다.
+ZERHOUNI: Venez. Montez sur la muraille. ||| 오시오. 성벽에 올라오시오.
+IDRIS: «Venga. Salga sulle mura». ||| '오시오. 성벽에 올라오시오.'
+CORVI: Vengo. ||| 가겠습니다.
++ affidare = 맡기다, 인계하다. 구조자를 다른 배에 넘길 때 쓴다
++ non spetta a me = 제 몫이 아닙니다. 'spettare a'는 권리나 의무가 누구에게 돌아가는지 말하는 동사
++ sono due verbi diversi = 두 동사는 다르다. 용서와 감사를 구별하는 코라도의 말
++ la sospensione ha una data = 정지에는 날짜가 있다. 제재가 영구적이지 않음을 보이는 코르비의 말
++ i primi diciotto minuti di dati = 처음 18분의 자료. 소멸하는 섬을 최초로 측정한 기록
++ come una collana = 목걸이처럼. 140척의 불빛을 보는 제르후니의 시적 비유
++ brinda per primo chi cede = 양보한 사람이 먼저 건배한다. 4-2에서 정립된 장치
+
+## 남은 사람의 몫 — CHI RESTA
+LEO: Papà, ti ho aspettato. Sono sveglio dalle quattro. Ho tenuto l'elenco. ||| 아빠, 기다렸어요. 4시부터 깨어 있었어요. 명단을 갖고 있었어요.
+CORRADO: Quale elenco? ||| 무슨 명단?
+LEO: I centoquaranta nomi delle barche. Mattia mi ha mandato la lista, io ho segnato ogni barca quando è partita. Alle sei e cinquantadue, mi sono fermato a quarantasette. Ho scritto «Nour, la prima». ||| 140척의 배 이름요. 마티아가 목록을 보내서 배가 출발할 때마다 표시했어요. 6시 52분에 마흔일곱 번째에서 멈췄고 '누르, 첫째'라고 적었어요.
+CORRADO: Era la quarantasettesima? ||| 마흔일곱 번째였니?
+LEO: No. La prima. Ma l'avevo messa alla quarantasettesima perché mi ero sbagliato. Ho cancellato con la penna blu, ho riscritto sopra. ||| 아니, 첫 번째였어요. 하지만 제가 틀려서 마흔일곱 번째에 넣었어요. 파란 펜으로 지우지 않고 그 위에 다시 적었어요.
+CORRADO: Con la penna blu non si cancella. ||| 파란 펜으로는 지우지 않는데.
+LEO: Per questo ho scritto sopra. Papà, è stata una mattina lunga. ||| 그래서 위에 덧썼어요. 아빠, 긴 아침이었어요.
+CORRADO: Lo so. ||| 알아.
+LEO: Plinio il Giovane aveva diciassette anni. Ha scritto che, dopo la partenza dello zio, è rimasto a studiare Livio. Che cosa dobbiamo pensare di lui? ||| 소플리니우스는 열일곱 살이었어요. 삼촌이 떠난 뒤 집에 남아 리비우스를 읽었다고 썼죠. 우리는 그를 어떻게 생각해야 해요?
+CORRADO: Che sia stato prudente? Che sia stato un codardo? ||| 신중했다고? 겁쟁이였다고?
+LEO: Non lo so. Ma lui ha scritto la lettera. Venticinque anni dopo, a Tacito, che gliela chiedeva. Se fosse partito, la lettera non esisterebbe. ||| 모르겠어요. 하지만 편지를 쓴 건 그예요. 25년 뒤 부탁한 타키투스에게. 그가 갔다면 편지는 없었을 거예요.
+CORRADO: Interessante. ||| 흥미롭구나.
+LEO: Non dico che sia meglio restare. Dico che quello che parte e quello che resta fanno due metà della stessa cosa. Una persona porta il corpo. L'altra porta il racconto. ||| 남는 게 낫다는 말이 아니에요. 가는 사람과 남는 사람이 같은 일의 두 반쪽이라는 거예요. 한 사람은 몸을 가져가고 다른 사람은 이야기를 가져가요.
+CORRADO: E oggi chi è stato chi? ||| 그럼 오늘은 누가 누구였니?
+LEO: Il comandante di «Alba Uno» è stato lo zio. Io, il nipote. Tu... tu sei stato quello che ha scritto il biglietto. ||| '알바 우노' 선장님이 삼촌이었고 제가 조카였어요. 아빠는... 쪽지를 쓴 사람이었어요.
+CORRADO: Il biglietto di Rectina? ||| 레크티나의 쪽지 말이니?
+LEO: Il biglietto che dice che qualcuno è lì, e che è il più vicino a chi può arrivare. ||| 누군가 거기 있고, 닿을 수 있는 가장 가까운 사람에게 알리는 쪽지요.
+CORRADO: Leo, ho ancora da dirti una cosa. Una frase che il tuo vecchio ambasciatore ha detto stamattina. ||| 레오, 아직 해 줄 말이 있다. 네 늙은 대사님이 오늘 아침 한 말이야.
+LEO: Dimmi. ||| 말해 봐요.
+CORRADO: «Non sempre chi resta ha il compito più facile». ||| '남는 사람이 늘 쉬운 몫을 맡는 것은 아니다.'
+LEO: È vero. Ho tremato per quattro ore e non ho potuto fare niente. ||| 맞아요. 네 시간 동안 떨었는데 아무것도 할 수 없었어요.
+CONCETTA: Non è vero. Hai tenuto la lista. Quella è una cosa. ||| 아니다. 명단을 쥐고 있었잖니. 그것도 하나의 일이다.
+CORRADO: Nonna, lei è ancora in piedi? ||| 할머니, 아직 깨어 계세요?
+CONCETTA: Ho fatto il brodo. Quando uno parte, il brodo si fa lo stesso. È l'unico modo di fare qualcosa. ||| 국물을 끓였다. 누가 떠나도 국물은 끓이는 거다. 뭔가를 하는 유일한 방법이거든.
+LEO: Nonna, anche tu hai la tua parte. ||| 할머니도 할머니의 몫이 있네요.
+CONCETTA: La mia parte è il brodo. A tavola si promette. ||| 내 몫은 국물이다. 식탁에서 약속한다.
+CORRADO: E a tavola si paga. Stasera io mangio due volte. ||| 그리고 식탁에서 갚는다. 오늘 밤 나는 두 번 먹겠어요.
+GIULIA: Corrado, ti scrivo per l'ultima cosa. Lunedì sera, il cono sarà sotto di due metri. Martedì, di cinque. Sciuto dice che mercoledì il mare ne coprirà la cima, e giovedì non si vedrà più. ||| 코라도, 마지막으로 적어요. 월요일 저녁에 원뿔은 해수면 아래 2미터, 화요일에는 5미터가 돼요. 샤우토 박사님은 수요일에 바다가 꼭대기를 덮고 목요일엔 보이지 않게 될 거라고 해요.
+CORRADO: E il nome che nessuno ha scritto resta senza essere scritto. ||| 아무도 적지 않은 이름은 적히지 않은 채로 남겠군.
+GIULIA: E c'è una cosa per Leo. Il ragazzo che ha scritto «Nour, la prima». Domenica prossima, a tavola. ||| 그리고 레오에게 전할 게 있어요. '누르, 첫째'라고 적은 그 아이요. 다음 일요일 식탁에서요.
+CORRADO: Una cosa che non gli dico adesso. ||| 지금은 말하지 않을 거예요.
++ tenere l'elenco = 명단을 쥐고 있다. 남아서 기록하는 사람의 일을 가리킨다
++ scrivere sopra = 위에 덧쓰다. 지우지 않는 파란 펜의 방식
++ metà della stessa cosa = 같은 일의 반쪽. 가는 사람과 남는 사람이 합쳐 하나를 이룬다는 레오의 말
++ il biglietto di Rectina = 레크티나의 쪽지. 대플리니우스의 계획을 구조로 바꾼 부탁
++ fare il brodo lo stesso = 어쨌든 국물을 끓이다. 위기에도 식탁을 차리는 콘체타의 태도
++ sott'acqua = 물속에, 수면 아래. 'il cono sarà sotto di due metri'는 해수면보다 2미터 낮다는 뜻
++ non sempre... il compito più facile = 늘 ~ 쉬운 일은 아니다. 'non sempre' + 최상급 구문

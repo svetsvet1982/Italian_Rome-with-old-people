@@ -1,0 +1,128 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 7
+@title La contessa
+@ko 백작 부인
+@setting 6월 17일 월요일 아침 파르네지나 위기상황실 → 트라스테베레 골목의 작은 바 → 저녁 란차의 집 식탁 → 밤 화상 회의(타르시아 국방부)
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast FEDERICA | 대외정보기관(AISE) 연락관 페데리카 루스폴리
+@cast LEO | 란차의 아들, 17세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast SAADI | 타르시아 장관
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast CONCETTA | 노나 콘체타, 86세
+@note 4부 7화는 '더러운 수단'의 화입니다. 페데리카가 강경파 장관 제르후니의 치부를 담은 서류를 코라도에게 내밉니다. 합법적으로 얻은 것이 아니고, 터뜨리면 협상은 끝나지만 타르시아 군부는 '이탈리아의 공작'이라고 믿게 됩니다. 레오는 사르트르의 『더러운 손』을 떠올리며 '그 값을 누가 치르느냐'를 묻습니다. 역사 논거는 1856년 카스틸리오네 백작 부인입니다. 카보우르는 사촌인 젊은 백작 부인을 파리 궁정에 보냈고(영향력의 정도는 사가들이 논쟁하지만 그가 사촌을 이용한 것은 사실로 전해집니다), 이탈리아 문제는 파리 회의에서 처음 국제 무대에 올랐습니다. 그녀는 훗날 쓰라린 말을 남겼다고 전해집니다. 해법의 순간은 '남의 이름 뒤에 숨지 않고 내 이름으로 값을 치른다'입니다. 코라도는 서류를 기자에게 흘리지 않고 제르후니에게 직접, 회의록에 자기 서명으로 알립니다. 어휘는 정보·윤리 표현(fascicolo, ricatto, conflitto di interessi, ricusarsi, a mio nome)과 조건문·접속법(se lo usassi, a patto che, qualora)에 주목하세요.
+@next 4-8 «아비시» — 화요일 새벽 타르시아 국영 방송이 '이탈리아의 식민 야욕'을 틀고, 코라도는 소식에 날짜와 장소와 증인을 붙입니다.
+
+## 월요일 아침, 파르네지나 — LUNEDÌ MATTINA
+GIULIA: Buongiorno, Corrado. Due notizie, una buona e una che sembra buona. ||| 좋은 아침이에요, 코라도. 소식이 둘 있는데 하나는 좋고 하나는 좋아 보일 뿐이에요.
+CORRADO: Comincia da quella che sembra buona, così so già come finisce. ||| 좋아 보이는 것부터 해요. 그래야 어떻게 끝날지 미리 알죠.
+GIULIA: La donazione. Stamattina alle nove, in commissione, il legale dell'associazione ha dovuto leggere ad alta voce l'undicesima riga. ||| 기증 문서요. 오늘 아침 9시 위원회에서 협회 변호사가 열한 번째 줄을 소리 내어 읽어야 했어요.
+CORRADO: E ha letto «emersit» o «emerserit»? ||| 그래서 'emersit'으로 읽었나요, 'emerserit'으로 읽었나요?
+GIULIA: Ha letto «emersit», poi si è fermato e ha chiesto cinque minuti. Dopo cinque minuti ha ritirato il deposito «per approfondimenti». ||| 'emersit'으로 읽고는 멈춰서 5분만 달라고 했어요. 5분 뒤에 '추가 검토를 위해' 제출을 철회했고요.
+CORRADO: Per approfondimenti. Che bella parola, quando uno scappa in punta di piedi. ||| '추가 검토를 위해'라. 발끝으로 도망칠 때 쓰기 참 좋은 말이네요.
+CORRADO: E l'altra? Quella che sembra buona? ||| 그럼 다른 하나는요? 좋아 보이는 것은?
+GIULIA: Questa è la «Tanit». Da stamattina è a sette miglia e un quarto, quindi più lontana di quanto promesso. Larbi ha tenuto la parola. ||| '타니트'예요. 오늘 아침부터 7.25마일 밖이라 약속보다 더 멀리 있어요. 라르비가 약속을 지켰죠.
+CORRADO: E perché dovrebbe essere una notizia che sembra buona? ||| 그런데 그게 왜 좋아 보이기만 하는 소식이죠?
+GIULIA: Perché Zerhouni ha dato un'intervista alla televisione di Stato, a mezzogiorno di ieri. Dice che le «conversazioni di mare» non valgono nulla finché l'Italia tiene un generale su una barca di pescatori. ||| 제르후니가 어제 정오에 국영 방송에서 인터뷰를 했기 때문이에요. 이탈리아가 어선 위에 장군을 앉혀 놓는 한 '바다 회담'은 아무 가치도 없다고 했어요.
+CORRADO: Su una barca di pescatori. È stato il tavolo di Mangiaracina, e adesso lo usano contro di noi. ||| 어선 위라. 만자라치나의 탁자였는데, 이제 그걸로 우리를 공격하는군요.
+GIULIA: E dice di più. Che il turno stagionale, quello della bocciofila, è «una cortesia da pensionati» e che la Tarsia non firma cortesie. ||| 더 있어요. 보치아 클럽의 계절 차례는 '연금 생활자들의 예의'일 뿐이고 타르시아는 예의에는 서명하지 않는다고요.
+CORRADO: Cortesia da pensionati. Concetta lo prenderà come un complimento. ||| 연금 생활자들의 예의라. 콘체타 할머니는 칭찬으로 들으실 거예요.
+GIULIA: Potrebbe saperlo qualcuno che è appena entrato dalla porta in fondo. ||| 방금 끝쪽 문으로 들어온 사람이 알지도 몰라요.
+CORRADO: Federica. ||| 페데리카로군요.
+FEDERICA: Buongiorno a tutti. Corrado, ho bisogno di un caffè che non sia il vostro. ||| 모두 안녕하세요. 코라도, 여기 커피 말고 다른 커피가 필요해요.
+CORRADO: Il nostro caffè lo critichi da anni. ||| 우리 커피를 몇 해째 흉보시는군요.
+FEDERICA: E da anni ho ragione. C'è un bar a Trastevere, dietro la fontana, alle undici. Vieni da solo. ||| 몇 해째 내가 옳고요. 트라스테베레 분수 뒤에 바가 하나 있어요. 11시에, 혼자 와요.
+ORSOLINI: Corrado, un minuto. Prima di uscire. ||| 코라도, 잠깐만. 나가기 전에.
+CORRADO: Dimmi, Luca. ||| 말해, 루카.
+ORSOLINI: Qualunque cosa ti metta in mano, e lo sai che te la metterà in mano, non decidere senza di me. Non per controllarti. Perché stavolta la firma sarà mia, se va male. ||| 그 사람이 뭘 쥐여 주든, 틀림없이 쥐여 줄 텐데, 나 없이 결정하지 마. 통제하려는 게 아니야. 이번엔 잘못되면 서명한 사람이 나이기 때문이야.
+CORRADO: Non decido niente. Ascolto, e ti telefono dall'angolo del bar. ||| 아무것도 결정 안 해요. 듣기만 하고 바 모퉁이에서 전화할게요.
+ORSOLINI: Dall'angolo del bar. Sai che a Federica non piace essere il punto di un telefono. ||| 바 모퉁이에서라. 페데리카는 전화 한 통의 한 점이 되는 걸 안 좋아한다는 거 알지.
+CORRADO: Lo so. Però le piace essere pagata, e io i conti li pago sempre. ||| 알아요. 하지만 그녀는 값을 받는 건 좋아하고 나는 늘 셈을 치르는 사람이죠.
++ una cortesia da pensionati = 연금 생활자들의 예의. 노인들의 관행을 낮춰 부르는 제르후니의 말, 훗날 클럽의 자랑거리가 된다
++ per approfondimenti = 추가 검토를 위해. 곤란할 때 문서를 거두면서 쓰는 관청식 완곡어
++ in punta di piedi = 발끝으로, 살금살금. 조용히 빠져나가는 모양
++ fare finta di (non) ascoltare = 듣는(듣지 않는) 척하다. 'fingere'보다 구어적인 표현
++ il punto di un telefono = 전화 한 통의 한 점. 정보 연락관이 '추적될 한 점'이 되기 싫다는 농담
++ non decidere senza di me = 나 없이 결정하지 마. 'senza' 뒤에는 강세형 인칭 대명사 'me'를 쓴다
++ meno male = 다행이다. 'male'이 'meno'(덜)한 것이 다행이라는 일상 표현
+
+## 트라스테베레의 작은 바 — IL FASCICOLO
+FEDERICA: Siediti. Ho già ordinato per te. Un caffè lungo e una pasta alla crema, che ti serve zucchero. ||| 앉아요. 당신 것도 시켰어요. 룽고 커피 하나, 크림빵 하나. 당신한텐 설탕이 필요하니까.
+CORRADO: Tu non offri mai niente senza una fattura. ||| 당신은 청구서 없이 뭘 사 주는 법이 없잖아요.
+FEDERICA: Infatti la fattura arriva dopo. Ma ricordi il patto di Ndolo: tutto in chiaro. Quindi te lo dico subito. Sto per darti qualcosa che non è pulito. ||| 그러니 청구서는 나중에 오죠. 하지만 놀로의 약속을 기억하죠, 전부 투명하게. 그래서 먼저 말해 둘게요. 지금 깨끗하지 않은 걸 건네려 해요.
+CORRADO: Non pulito come? ||| 깨끗하지 않다는 게 어떤 식으로요?
+FEDERICA: Non nel contenuto. Nel percorso. Un servizio amico, di un Paese che non nominerò, ha avuto accesso a dei movimenti bancari senza un mandato. Poi li ha condivisi con noi con una clausola. ||| 내용이 아니라 경로가 그래요. 이름은 말하지 않을 어느 우방국 기관이 영장 없이 은행 거래 내역에 접근했고, 조건을 달아 우리와 공유했어요.
+CORRADO: Quale clausola? ||| 어떤 조건요?
+FEDERICA: Che non si usi in nessun tribunale, e che non si citi la fonte. ||| 어떤 법정에서도 쓰지 말 것, 그리고 출처를 대지 말 것.
+CORRADO: Quindi in tribunale non vale niente. ||| 그러니 법정에서는 아무 가치도 없군요.
+FEDERICA: In tribunale non vale niente. Su un giornale vale tutto. ||| 법정에서는 아무것도 아니고 신문에서는 전부죠.
+CORRADO: Di chi si parla? ||| 누구 얘기죠?
+FEDERICA: Di Hakim Zerhouni. ||| 하킴 제르후니요.
+CORRADO: Mi stai dicendo che l'uomo più duro di Tarsia ha un fascicolo. ||| 타르시아에서 가장 강경한 사람에게 서류 철이 하나 있다는 말이군요.
+FEDERICA: Ho una sola pagina riassuntiva e nove di estratti. Una società di Marsa Beida, la «Tafsut Servizi Marittimi», intestata al cognato. Tre bonifici in diciotto mesi, un milione e duecentomila euro, passati da un intermediario del Lussemburgo. ||| 요약 한 장과 발췌 아홉 장이에요. 마르사 베이다의 '타프수트 해양 서비스'라는 회사가 있는데 명의는 처남이고, 18개월 동안 룩셈부르크 중개인을 거친 송금이 세 번, 120만 유로예요.
+CORRADO: E chi paga? ||| 그럼 누가 보냈죠?
+FEDERICA: Un fornitore di navi. Alba Logistica. ||| 선박 공급업체예요. 알바 로지스티카.
+CORRADO: Alba Logistica. La stessa che ha provato a darci gli elicotteri e le due navi d'appoggio. ||| 알바 로지스티카라. 우리에게 헬기와 지원선 두 척을 대 주겠다던 그 회사로군요.
+FEDERICA: La stessa. Cioè il ministro che grida contro l'Italia per le barche degli altri incassa da chi vuole i nostri problemi. ||| 바로 그 회사요. 즉 남의 배 때문에 이탈리아를 향해 소리치는 장관이, 우리 문제를 원하는 쪽에게서 돈을 받는 거죠.
+CORRADO: Sembra un regalo, ma non lo è. ||| 선물처럼 보이지만 선물이 아니군요.
+FEDERICA: Infatti ti dico anche chi lo vuole fuori. Chi me l'ha passato mi ha detto che entro mercoledì deve finire su un giornale. Meglio se europeo. ||| 그래서 누가 이걸 터뜨리길 원하는지도 말해 줄게요. 나에게 넘긴 쪽이 수요일까지 신문에 나와야 한다고 했어요. 유럽 신문이면 더 좋고요.
+CORRADO: Perché mercoledì? ||| 왜 수요일이죠?
+FEDERICA: Perché giovedì e venerdì sono i giorni in cui si tratta, e sabato alle sei partono i pescherecci. Se cade Zerhouni mercoledì, il suo successore sarà un militare più giovane, senza nessun legame con Saadi. ||| 목요일과 금요일이 협상일이고 토요일 6시에 어선이 나가니까요. 수요일에 제르후니가 무너지면 후임은 사아디와 아무 인연도 없는 더 젊은 군인이 될 거예요.
+CORRADO: E tutti in Tarsia leggerebbero: «l'Italia ha comprato un banchiere per far cadere un ministro». ||| 그러면 타르시아에서는 모두 이렇게 읽겠죠. '이탈리아가 은행원을 매수해 장관을 쓰러뜨렸다'고요.
+FEDERICA: Anche se tu non c'entri niente. Un dossier che arriva da noi, nei giorni di un confronto, non è mai senza padre. ||| 당신이 전혀 관련이 없어도요. 대치하는 날들에 우리 쪽에서 나온 서류는 아버지 없는 서류가 되지 못해요.
+CORRADO: E la fattura? Qual è? ||| 그럼 청구서는요? 얼마죠?
+FEDERICA: Stavolta non c'è prezzo in denaro. Il prezzo è un altro. Se lo prendi, devi decidere tu. Non voglio che il mio nome stia sotto questo foglio, né ora, né fra dieci anni. ||| 이번엔 돈으로 치르는 값이 없어요. 값은 다른 거예요. 받으면 결정은 당신이 해야 해요. 이 종이 밑에 내 이름이 들어가길 원하지 않아요. 지금도, 십 년 뒤에도요.
+CORRADO: Quindi il conto lo pago io. ||| 그러니까 계산은 내가 치르는 거군요.
+FEDERICA: Con il tuo nome. Sì. ||| 당신 이름으로요. 맞아요.
+CORRADO: E se io lo rifiutassi? ||| 내가 거절한다면요?
+FEDERICA: Allora lo tengo in cassaforte e dico alla fonte che il canale è chiuso. Ma la fonte ha altri destinatari, Corrado. ||| 그럼 금고에 넣어 두고 출처에는 통로가 막혔다고 말하겠죠. 하지만 그쪽에는 다른 수신자들이 있어요, 코라도.
+CORRADO: Federica, perché lo dai proprio a me? ||| 페데리카, 왜 하필 나한테 주는 거죠?
+FEDERICA: Perché so che non lo useresti per ricattare. Magari non sai ancora come usarlo. Ma ricattare non lo sai fare. ||| 당신은 협박에 쓰지 않을 사람이니까요. 아직 어떻게 쓸지는 모를 수 있어요. 하지만 협박할 줄은 모르는 사람이죠.
+CORRADO: Allora, mercoledì, io avrò già detto tutto a lui. ||| 그럼 수요일에는 내가 이미 그에게 다 말했을 겁니다.
+FEDERICA: A lui? A Zerhouni? ||| 그에게요? 제르후니에게요?
+CORRADO: A lui. A voce, davanti a Saadi, con un interprete e un verbale. Ma devo prima pensarci. ||| 그에게요. 사아디 앞에서 통역과 회의록을 두고 직접요. 하지만 먼저 생각해야 해요.
+FEDERICA: Non l'ha mai fatto nessuno. ||| 그렇게 한 사람은 아무도 없어요.
+CORRADO: Per questo magari funziona. ||| 그래서 어쩌면 통할지도 모르죠.
++ un servizio amico = 우방국 정보기관. 'servizio'는 정보기관을 가리키는 업계어
++ un fascicolo = 서류 철, 파일. 사건이나 사람에 관한 문서 묶음
++ non c'entrare niente = 아무 관련이 없다. 'entrarci' 관용구로 'non c'entra' 형태가 흔하다
++ senza padre = 아버지 없는. 출처 없는 문서는 남의 눈에 출처가 있어 보인다는 뜻의 은유
++ ricattare = 협박하다. 'il ricatto'(협박)와 'la richiesta'(요청)의 경계가 이 화의 쟁점이다
++ intestata al cognato = 처남 명의의. 'intestare'는 이름을 올리다
++ prima del dolce = 후식 전에. 이탈리아식 식사 순서를 빌려 위험은 미리 말한다는 규칙
++ in cassaforte = 금고 안에. 'cassaforte'는 안전한 보관을 상징하는 말
+
+## 식탁 위의 질문 — LA CENA DI CASA LANZA
+LEO: Papà, hai la faccia di uno che mangia con la testa altrove. ||| 아빠, 딴 데 정신이 팔린 사람의 얼굴이에요.
+CONCETTA: Lascialo stare. Oggi gli hanno portato una busta. ||| 가만 놔둬라. 오늘 편지 봉투를 받았단다.
+CORRADO: Nonna, come lo sai? ||| 할머니, 어떻게 아세요?
+CONCETTA: Perché hai messo il tovagliolo accanto al piatto come lo mettevi a dodici anni, quando avevi rotto una cosa. ||| 열두 살 때 뭘 깨 먹고 나서 하던 대로 냅킨을 접시 옆에 놓았거든.
+LEO: Papà, è una cosa che puoi dire? ||| 아빠, 말할 수 있는 거예요?
+CORRADO: Posso dire la forma, non il nome. Ho tra le mani qualcosa che potrebbe far cadere un ministro. È vero, ma non è pulito. ||| 형태는 말할 수 있어도 이름은 못 말해. 장관 하나를 쓰러뜨릴 수 있는 걸 손에 쥐게 됐어. 사실이지만 깨끗하지는 않아.
+LEO: Vero ma non pulito. Come i soldi che un ladro dà alla chiesa? ||| 사실이지만 깨끗하지 않다는 거죠. 도둑이 교회에 내는 돈처럼요?
+CORRADO: Più o meno. Una verità presa con un mezzo sbagliato. ||| 얼추 그렇지. 틀린 수단으로 얻은 진실이야.
+LEO: C'è una pièce di Sartre, «Le mani sporche». Il protagonista è un giovane che deve uccidere un dirigente del partito. Hugo dice: «Io ho le mani sporche fino ai gomiti. E allora?». ||| 사르트르의 희곡 『더러운 손』이 있어요. 주인공 청년이 당 간부를 암살해야 해요. 위고가 말하죠. '나는 팔꿈치까지 손이 더러워. 그래서 뭐?'
+CORRADO: E tu cosa ne trai? ||| 거기서 뭘 읽었니?
+LEO: Che a volte non si può governare senza sporcarsi, ma che la domanda vera non è «ho le mani sporche?». È «chi le lava dopo?». ||| 때로는 손을 더럽히지 않고 통치할 수 없지만 진짜 질문은 '손이 더러운가'가 아니라 '나중에 누가 씻는가'라는 거요.
+CORRADO: Chi le lava dopo. Bella domanda. ||| 나중에 누가 씻느냐. 좋은 질문이구나.
+LEO: E poi un'altra. Chi paga quando le usi? Perché se lo usi, qualcuno ha pagato prima per averlo, giusto? ||| 하나 더요. 그걸 쓰면 누가 값을 치르죠? 쓰기 전에 이미 누군가가 값을 치르고 얻었을 텐데, 맞죠?
+CORRADO: Giusto. Una banca è stata violata e qualcuno ha lavorato nell'ombra. ||| 맞아. 은행이 침해됐고 누군가 그늘에서 일했지.
+LEO: Allora c'è un'altra domanda ancora. Se lo tieni nascosto e lo usi come minaccia, sei diverso da quello che ha preso i dati? ||| 그럼 질문이 또 있어요. 숨겨 두고 협박으로 쓰면, 데이터를 빼낸 사람과 달라요?
+CORRADO: Sì e no. Se lo uso come minaccia sono uguale. Se lo uso in un altro modo, non so ancora quale. ||| 맞기도 하고 아니기도 해. 협박으로 쓰면 똑같아. 다른 방식으로 쓴다면, 아직 어떤 방식인지는 모르겠구나.
+CONCETTA: Voi due parlate come due avvocati, e il brodo si fredda. ||| 너희 둘은 변호사처럼 말하느라 국물이 식는다.
+CORRADO: Scusi, nonna. Lo mangio subito. ||| 죄송해요, 할머니. 바로 먹을게요.
+CONCETTA: Mangia, e poi chiama il vecchio ambasciatore. Lui ha sempre una storia per le mani sporche. ||| 먹고 나서 그 늙은 대사님께 전화해라. 더러운 손에 대해서는 늘 이야기가 하나 있는 분이니까.
+LEO: Papà, una cosa ancora. Se sbagli, posso vederti sbagliare? ||| 아빠, 한 가지만 더요. 아빠가 틀리면 틀리는 걸 내가 봐도 돼요?
+CORRADO: Sì. Anzi, voglio che tu veda come si paga un errore. Con il proprio nome. ||| 그래. 오히려 네가 실수를 어떻게 치르는지 봤으면 좋겠구나. 자기 이름으로.
++ avere le mani sporche = 손이 더럽다. 사르트르의 희곡 제목 'Les mains sales'를 이탈리아어로 옮긴 표현
++ chi le lava dopo? = 나중에 누가 씻는가? 수단의 더러움을 누가 책임지는가를 묻는 레오의 질문
++ vero ma non pulito = 사실이나 깨끗하지 않은. 내용과 경로를 나눠 말하는 표현
++ mettere il tovagliolo accanto al piatto = 냅킨을 접시 옆에 놓다. 콘체타가 손자의 표정을 읽는 식탁 몸짓
++ togliere il sonno = 잠을 앗아 가다. 걱정거리를 가리키는 관용구
++ parlare come due avvocati = 변호사처럼 말하다. 따지기만 하고 행동하지 않는다는 핀잔
++ si paga un errore = 실수를 치르다. 'pagare un errore'는 책임을 지고 대가를 치르는 일

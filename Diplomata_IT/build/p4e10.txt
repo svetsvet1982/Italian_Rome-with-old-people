@@ -1,0 +1,256 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 10
+@title Canossa
+@ko 카노사
+@setting 6월 20일 목요일 08시 ~ 22일 토요일 새벽 02시 몰타 비르구의 산탄젤로 요새(석조 회의실, 안뜰, 두꺼운 문)
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast SAADI | 타르시아 장관
+@cast ZERHOUNI | 타르시아 국방장관 하킴 제르후니, 63세(프랑스어, 이드리스가 통역)
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast VALDES | 스페인 대표 이네스 발데스 대사, 57세(중재자)
+@cast ZAMMIT | 몰타 대표(주최국) 차미트
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세(전화)
+@cast LEO | 란차의 아들, 17세(전화)
+@cast GIULIA | 분석관 조울리아 마르케티, 32세(전화)
+@cast SCIUTO | 카타니아 화산학 연구원 안토넬라 샤우토 박사, 55세(전화)
+@note 4부 10화는 '물밑 협상'의 화입니다. 목요일 아침부터 토요일 새벽까지 몰타의 산탄젤로 요새 안에서 사흘 동안 이어지는 협상입니다. 둘째 날 저녁 코르비가 '사건은 잊어 드리겠다'고 말해 제르후니가 '용서해 주는 쪽'의 어투에 모욕을 느끼고 안뜰로 나가 버립니다. 이탈리아 쪽은 따라가자거나 문을 닫자거나 두 갈래로 갈립니다. 역사 논거는 1077년 1월 카노사입니다. 파문당한 독일 왕 하인리히 4세가 교황 그레고리오 7세에게 용서를 빌러 눈 속에서 사흘을 서 있었고, 토스카나의 마틸데(마틸다)와 클뤼니의 위그 수도원장이 중재해 교황이 파문을 풀었습니다. 그러나 하인리히는 훗날 힘을 되찾아 1084년 로마로 진군했고(그레고리오는 쫓겨나 살레르노에서 죽었습니다), 1872년 비스마르크는 '우리는 카노사에 가지 않는다'고 말했습니다. 해법의 순간은 '눈 속에 세워 두지도, 쫓아가지도 않고 문을 열어 둔다'입니다. 이네스 발데스는 의자와 차와 문을 그대로 두고 회의를 이어 갑니다. 레오는 헤겔의 인정 투쟁을 묻습니다. 어휘는 협상·감정 표현(umiliare, perdonare, ritirarsi, soglia, lasciare aperto, salvare la faccia)과 명령형·접속법(purché, affinché)에 주목하세요.
+@next 4-11 «플리니우스» — 토요일 새벽 6시, 어선 140척이 출어하는 순간 섬이 가라앉기 시작합니다.
+
+## 요새의 문 — IL FORTE
+ZAMMIT: Benvenuti al Forte Sant'Angelo. Le mura sono del Cinquecento, i pavimenti sono del Settecento, e il riscaldamento è dell'anno scorso, e non funziona. ||| 산탄젤로 요새에 오신 것을 환영합니다. 성벽은 16세기, 바닥은 18세기, 난방은 작년 것인데 작동하지 않습니다.
+CORRADO: Zammit, è giugno. ||| 차미트, 6월인데요.
+ZAMMIT: Per questo ho previsto i ventilatori. Anche quelli non funzionano. ||| 그래서 선풍기를 준비했는데 그것도 안 됩니다.
+VALDES: Ho una regola per le stanze in cui si sta tre giorni. Si comincia con le regole, e la prima è la più semplice. ||| 사흘을 지내는 방에 대한 규칙이 있어요. 규칙부터 시작하는데 첫째가 가장 단순해요.
+CORRADO: Ambasciatrice, la prima? ||| 대사님, 첫째는요?
+VALDES: La porta di questa sala non si chiude, finché siamo qui. Né a chiave, né con la spalla. ||| 이 방의 문은 우리가 여기 있는 동안 닫지 않습니다. 열쇠로도, 어깨로도.
+CORVI: Una sala di trattative con la porta aperta? ||| 협상장에서 문을 열어 둔다고요?
+VALDES: Ammiraglio, non sono i suoi segreti che mi preoccupano. Mi preoccupa che qualcuno, durante i tre giorni, abbia bisogno di uscire senza che sembri una fuga. ||| 제독님, 제 걱정은 비밀이 아닙니다. 사흘 동안 누군가 도망치는 것처럼 보이지 않고 나가야 할 때가 있으리라는 거예요.
+SAADI: Ambasciatrice, l'idea mi piace. In un forte si respira meglio quando la porta ha un modo di essere aperta. ||| 대사님, 마음에 듭니다. 요새에서는 문이 열릴 방법이 있을 때 숨쉬기가 낫지요.
+VALDES: Seconda regola. Ognuno ha una sedia, e la sua sedia resta sua. Se uno esce, la sedia resta com'è. ||| 둘째 규칙. 각자에게 의자가 하나 있고 의자는 그 사람 것으로 남습니다. 누가 나가면 의자는 그대로 둡니다.
+CORRADO: Come la sedia vuota di Valletta. ||| 발레타의 빈 의자처럼요.
+VALDES: Una sedia vuota, ma di chi c'è già stato. È diverso. ||| 빈 의자지만 이미 앉았던 사람의 의자예요. 다르죠.
+CORRADO: Terza? ||| 셋째는요?
+VALDES: Tè e acqua sul tavolo, sempre caldi e sempre freschi. Chi esce ritrova la sua tazza. ||| 탁자 위에는 차와 물을 늘 따뜻하게, 늘 신선하게 둡니다. 나간 사람은 자기 잔을 다시 찾게 되죠.
+ZERHOUNI: Madame, ça me va. Je suis venu ici pour parler, pas pour qu'on me ferme dessus. ||| 부인, 좋습니다. 말하러 왔지 문이 닫히러 온 게 아닙니다.
+IDRIS: Il ministro dice: «Va bene così. Sono venuto per parlare, non per essere chiuso dentro». ||| 장관님은 '그렇게 좋습니다. 이야기하러 왔지 갇히러 온 게 아닙니다'라고 하십니다.
+VALDES: Allora cominciamo, e cominciamo piano. Signor ministro, lei ha chiesto questi tre giorni. Che cosa vuole ottenere? ||| 그럼 시작하되 천천히 시작하죠. 장관님, 이 사흘을 요청하셨습니다. 무엇을 얻으려 하십니까?
+IDRIS: Il ministro dice: «Voglio due cose. Che la mia gente non sia trattata come ospite sulla propria acqua. E che mai più una nave grigia entri senza avvisare». ||| 장관님은 '두 가지를 원하오. 우리 사람들이 자기 바다에서 손님 대우를 받지 않을 것, 그리고 회색 군함이 다시는 알리지 않고 들어오지 않을 것'이라고 하십니다.
+CORRADO: Ministro, la seconda l'abbiamo già messa per iscritto: un'ora di preavviso, due chiavi. Sulla prima ho una domanda. Che cosa vuol dire «propria acqua»? ||| 장관님, 둘째는 이미 서면으로 약속했습니다. 한 시간 사전 통보, 열쇠 둘. 첫째에 관해 질문이 하나 있습니다. '자기 바다'란 무슨 뜻입니까?
+IDRIS: Il ministro risponde: «Dove i miei hanno gettato le reti da secoli, quella è acqua mia. Non per un trattato. Per un'abitudine». ||| 장관님이 답하십니다. '내 사람들이 수백 년 그물을 던진 곳이 내 바다요. 조약이 아니라 관습 때문이오.'
+CORRADO: Questo lo dice anche Concetta: «Il mare conosce le stagioni». Ministro, siamo più vicini di quanto crede. ||| 콘체타 할머니도 그렇게 말씀하십니다. '바다는 계절을 안다.' 장관님, 우리는 생각보다 가깝습니다.
+IDRIS: Il ministro: «Non commetta l'errore di pensare che un proverbio sia una concessione». ||| 장관님이 말씀하십니다. '속담을 양보로 여기는 실수는 하지 마시오.'
+CORRADO: Non lo penso. Penso che sia un punto di partenza. ||| 그렇게 생각하지 않습니다. 출발점이라고 생각합니다.
+ZAMMIT: Il pranzo è alle tredici. Pastizzi, tè e frutta. I pastizzi sono la mia unica fierezza nazionale. ||| 점심은 13시입니다. 파스티치, 차, 과일이요. 파스티치는 제 유일한 국가적 자랑입니다.
+CORVI: Pastizzi? Ne ho mangiati in giovinezza. A Messina c'era un bar... ||| 파스티치라. 젊을 때 먹어 봤습니다. 메시나에 바가 하나 있었는데...
+VALDES: Ammiraglio, i ricordi del bar a Messina li teniamo per il terzo giorno. Il primo giorno si mettono sul tavolo le richieste. ||| 제독님, 메시나 바의 추억은 사흘째로 미룹시다. 첫날에는 요구를 탁자 위에 놓습니다.
+CORRADO: Allora cominciamo. Giulia, hai le mappe? ||| 그럼 시작하죠. 줄리아, 지도 있어요?
+GIULIA: Sono con voi in telefono, Corrado. Metto in tavola, da qui, tre mappe: le zone di pesca, la linea dei sei miglia, la zona dell'isola. Un livello alla volta. ||| 전화로 함께 있어요, 코라도. 여기서 탁자 위에 지도 셋을 올려요. 어장 구역, 6마일 선, 섬 구역. 한 겹씩이요.
++ la porta non si chiude = 문은 닫지 않는다. 이네스 발데스의 첫째 규칙으로 도망치듯 보이지 않고 나가는 길을 보장한다
++ lasciare la sedia com'è = 의자를 그대로 두다. 'com'è'는 'come è'의 축약
++ ça me va = (프랑스어) 좋습니다. 제르후니의 동의를 이드리스가 이탈리아어로 옮긴다
++ per un'abitudine = 관습 때문에. 조약이 아니라 습관이 권리의 근거가 된다는 4-2의 주제를 잇는다
++ pastizzi = 파스티치. 몰타의 치즈 또는 완두콩 소를 넣은 페이스트리
++ i ricordi del bar = 바의 추억. 협상 단계를 순서대로 지키자는 이네스의 농담
++ non commetta l'errore di pensare che... = ~라고 생각하는 실수를 하지 마시오. 'commettere un errore'와 접속법의 명령형 결합
+
+## 둘째 날 저녁, 용서한다는 말 — IL PERDONO
+SAADI: Corrado, siamo a venerdì sera, alle diciannove e venti. In trentacinque ore abbiamo concordato quattordici articoli e sospeso tre. ||| 코라도, 금요일 저녁 19시 20분이야. 서른다섯 시간 동안 열네 조항에 합의하고 세 조항은 보류했어.
+CORRADO: E gli articoli sospesi? ||| 보류한 조항은?
+SAADI: Il sette, sulla sorveglianza. Il nove, sul fondo comune. E il dodici, sul preambolo. ||| 감시에 관한 제7조, 공동 기금에 관한 제9조, 그리고 전문에 관한 제12조.
+CORRADO: Il preambolo. Sempre il preambolo. ||| 전문이라. 늘 전문이 문제죠.
+VALDES: Il preambolo è il posto dove si scrivono i sentimenti che non devono entrare negli articoli. E quando non si riesce a scriverli lì, entrano di nascosto negli articoli. ||| 전문은 조항에 들어가면 안 되는 감정을 적는 자리죠. 거기에 쓰지 못하면 감정이 몰래 조항 안으로 들어와요.
+IDRIS: Il ministro propone: «Preambolo breve. Tre righe. Che si dica che il mare di mezzo è una casa di due popoli». ||| 장관님이 제안하십니다. '짧은 전문. 세 줄. 가운데 바다는 두 민족의 집이라고 말할 것.'
+CORRADO: Mi piace. «Una casa di due popoli». ||| 좋습니다. '두 민족의 집.'
+CORVI: Una casa. Una casa in cui, da giorni, la parte più forte è rimasta due passi indietro per cortesia. ||| 집이라. 며칠째 더 강한 쪽이 예의로 두 걸음 물러나 있는 집이로군요.
+CORRADO: Ammiraglio... ||| 제독님...
+CORVI: Lasciatemi finire. Signor ministro, voglio dirle una cosa. Io capisco che la «Tanit» si sia spostata per difesa. Per parte nostra, la Marina è disposta a dimenticare l'incidente della notte di sabato, e anche il suo avanzamento di cinquecento metri. ||| 끝까지 말하게 해 주십시오. 장관님, 한 가지 말씀드리겠습니다. 저는 '타니트'가 방어를 위해 움직였다는 걸 이해합니다. 우리 쪽에서는 해군이 토요일 밤의 사건을, 그리고 500미터 전진도 잊어 드릴 용의가 있습니다.
+IDRIS: Il ministro... Il ministro ha fermato il tè a metà strada. ||| 장관님이... 장관님이 차를 입에 가져가다 멈추셨습니다.
+ZERHOUNI: Dimenticare? ||| 잊는다고?
+IDRIS: «Dimenticare». ||| '잊는다'고요.
+ZERHOUNI: Vous nous pardonnez? C'est vous qui êtes entrés les premiers! ||| 우리를 용서한다고? 먼저 들어온 건 당신들이오!
+IDRIS: Il ministro dice: «Voi ci perdonate? Siete voi che siete entrati per primi!». ||| 장관님이 말씀하십니다. '당신들이 우리를 용서한다고? 먼저 들어온 건 당신들이오!'
+CORVI: Ministro, non intendevo... ||| 장관님, 그런 뜻이 아니라...
+ZERHOUNI: Je n'ai pas besoin de votre oubli. ||| 당신의 망각은 필요 없소.
+IDRIS: «Non ho bisogno del vostro oblio». ||| '당신들의 망각은 필요하지 않소.'
+CORRADO: Ministro, l'ammiraglio ha scelto male la parola. Ma se mi permette... ||| 장관님, 제독님이 말을 잘못 고르셨습니다. 하지만 허락하신다면...
+ZERHOUNI: Non. Pas maintenant. ||| 아니. 지금은 아니오.
+IDRIS: «No. Non adesso». ||| '아니오. 지금은 아닙니다.'
+SAADI: Hakim... ||| 하킴...
+IDRIS: Il ministro si è alzato. Ha lasciato la tazza. Va verso la porta. ||| 장관님이 일어나셨습니다. 잔을 두고 가십니다. 문 쪽으로 가십니다.
+CORVI: Signor ministro! Mi lasci spiegare! ||| 장관님! 설명하게 해 주십시오!
+VALDES: Ammiraglio, resti seduto. ||| 제독님, 앉아 계세요.
+CORVI: Se non lo seguo, è finita. ||| 따라가지 않으면 끝입니다.
+VALDES: Se lo segue, è finita in un altro modo. Resti seduto. Quella è la sua sedia. Il signor Zerhouni sa dov'è la sua. ||| 따라가시면 다른 방식으로 끝납니다. 앉아 계세요. 그것이 제독님 의자예요. 제르후니 장관은 자기 의자가 어디 있는지 압니다.
+IDRIS: Il ministro è nell'atrio. Si è fermato nel cortile. Cammina vicino al cannone. ||| 장관님이 현관에 계십니다. 안뜰에 멈춰 서서 대포 곁을 걷고 계십니다.
+CORRADO: Idris, non lo segua nemmeno lei. ||| 이드리스 씨, 당신도 따라가지 마십시오.
+IDRIS: Dottor Lanza, io sono il suo interprete. Se lui parla, devo essere vicino. ||| 박사님, 저는 장관님의 통역입니다. 말씀하시면 가까이 있어야 합니다.
+VALDES: Lui non parla. Lui cammina. Il suo interprete resti qui, con la sua tazza. ||| 말씀하시는 게 아니라 걷고 계십니다. 통역사는 자기 잔과 함께 여기 계세요.
+CORVI: Ho fatto un errore. ||| 제가 실수를 했습니다.
+VALDES: Un errore di parola, ammiraglio. Non di intenzione. Ma ha il suo peso. ||| 말의 실수죠, 제독님. 의도의 실수가 아니라. 그래도 무게가 있습니다.
+CORRADO: Ambasciatrice, io vado a parlargli. ||| 대사님, 제가 가서 말을 하겠습니다.
+VALDES: No. Aspetti. ||| 안 됩니다. 기다리세요.
+CORRADO: Se resta fuori un'ora, torna con tutto il peso di un'ora. Se resta fuori tre ore, torna con la sua rabbia. ||| 한 시간 밖에 있으면 한 시간의 무게를 안고 돌아옵니다. 세 시간이면 분노를 안고 돌아오고요.
+VALDES: E se lei esce, la rabbia diventa pubblica. Io le chiedo di fidarsi di un'altra cosa. ||| 그리고 나가시면 분노가 공개적인 것이 됩니다. 다른 것을 믿어 달라고 청합니다.
+CORRADO: Che cosa? ||| 무엇을요?
+VALDES: Una porta. Se la teniamo aperta, lui sa che può tornare senza spiegare. E nessun uomo come lui torna se deve spiegare. ||| 문 하나요. 열어 두면 그는 설명하지 않고 돌아올 수 있다는 걸 알아요. 그런 사람은 설명해야 한다면 돌아오지 않습니다.
+CORRADO: Senza spiegare. Va bene. Ma fuori c'è un vento che gli fa freddo. ||| 설명 없이 돌아온다. 알겠습니다. 하지만 밖에는 바람이 불어 추울 겁니다.
+VALDES: Allora mandiamogli la tazza. Non un messaggio. La tazza. ||| 그럼 잔을 보냅시다. 전갈이 아니라 잔을요.
++ perdonare = 용서하다. 강한 쪽이 '용서한다'고 말하는 순간 상대는 잘못한 쪽이 된다
++ dimenticare l'incidente = 사건을 잊다. 코르비의 실수: '잊어 준다'는 말은 상대에게 은혜를 베푸는 어조
++ il preambolo = 전문(前文). 조약 앞머리에 취지나 감정을 적는 부분
++ per cortesia = 예의로. 'cortesia'는 4-7의 '연금 생활자들의 예의'와 호응한다
++ resti seduto = 앉아 계세요. 'restare + 형용사'의 존댓말 명령형(접속법 현재)
++ il cortile = 안뜰. 요새의 중앙 마당으로 대포와 돌바닥이 있다
++ senza spiegare = 설명하지 않고. 명예를 지키며 돌아올 수 있는 길의 핵심
++ mandiamogli la tazza = 그에게 잔을 보냅시다. 'mandare' + 간접 목적 대명사 'gli'
+
+## 산드리와 카노사 — NON ANDREMO A CANOSSA
+SANDRI: Corrado, è mezzanotte meno dieci. Io sono sveglio perché Concetta mi ha telefonato. Mi ha detto: «Il ragazzo non mangia». ||| 코라도, 자정 10분 전이네. 콘체타가 전화를 해서 깨어 있어. '그 애가 안 먹는다'고 하더군.
+CORRADO: Ambasciatore, ho mangiato un pastizzo. Sono in un angolo del forte, sotto una lampada gialla. ||| 대사님, 파스티초 하나는 먹었습니다. 요새 모퉁이 노란 전등 밑에 있습니다.
+SANDRI: Racconta. ||| 이야기해 보게.
+CORRADO: Il ministro è uscito per una parola dell'ammiraglio. Siamo tentati o di inseguirlo, o di chiudere la porta. ||| 장관이 제독의 한마디 때문에 나갔습니다. 우리는 쫓아가거나 문을 닫고 싶은 유혹을 받고 있습니다.
+SANDRI: Canossa. ||| 카노사로군.
+CORRADO: Perché? ||| 왜요?
+SANDRI: Gennaio del millesettantasette. L'imperatore Enrico IV, scomunicato dal papa Gregorio VII, attraversa le Alpi nell'inverno più freddo che si ricordi. Il papa è ospite nel castello di Matilde, marchesa di Toscana, sull'Appennino, a Canossa. ||| 1077년 1월. 황제 하인리히 4세는 교황 그레고리오 7세에게 파문당한 채 기억에 남는 가장 추운 겨울에 알프스를 넘네. 교황은 아펜니노 산맥 카노사에 있는 토스카나 여후작 마틸데의 성에 머물고 있었지.
+CORRADO: E l'imperatore resta fuori. ||| 그리고 황제는 밖에 남고요.
+SANDRI: Per tre giorni, tra il venticinque e il ventisette di gennaio, nella neve, in veste penitenziale, a chiedere di essere ricevuto. Per secoli l'abbiamo raccontato come l'umiliazione dell'imperatore. ||| 1월 25일부터 27일까지 사흘 동안 눈 속에서 속죄의 옷을 입고 만나 달라고 청했지. 수 세기 동안 우리는 그걸 황제의 굴욕으로 이야기해 왔어.
+CORRADO: E invece? ||| 그런데 사실은요?
+SANDRI: Invece è un'altra storia, se la guardi dalla porta. Lei, Matilde, era la padrona di casa. Con l'abate Ugo di Cluny, padrino dell'imperatore, cercò per tre giorni di convincere il papa. Il papa si fece pregare. Il ventotto, la porta si aprì e il papa tolse la scomunica. ||| 사실은 문에서 바라보면 다른 이야기라네. 마틸데가 집주인이었어. 황제의 대부인 클뤼니의 위그 수도원장과 함께 사흘 동안 교황을 설득했지. 교황은 못 이기는 척 간청을 받았고 28일에 문이 열려 교황이 파문을 풀었네.
+CORRADO: Quindi la protagonista non è nessuno dei due. È lei. ||| 그러니 주인공은 두 사람 중 아무도 아니라 마틸데로군요.
+SANDRI: Una donna che tiene il tavolo in un luogo che non può chiudere. Ma c'è un finale che a scuola non ti raccontano. ||| 닫을 수 없는 곳에서 탁자를 지키는 한 여성이지. 그런데 학교에서 가르쳐 주지 않는 결말이 있다네.
+CORRADO: Mi dica. ||| 말씀해 주세요.
+SANDRI: Enrico tornò forte. Nel 1080 il papa lo scomunicò ancora. Nel 1084, Enrico entrò a Roma con il suo esercito, e Gregorio dovette fuggire. Morì a Salerno nel 1085, in esilio. ||| 하인리히는 다시 강해져서 돌아왔네. 1080년에 교황이 다시 파문했고 1084년에 하인리히가 군대를 이끌고 로마에 들어갔지. 그레고리오는 달아나야 했고 1085년에 살레르노에서 망명 중에 죽었어.
+CORRADO: Quindi chi è stato lasciato fuori nella neve, prima o poi torna. ||| 그러니 눈 속에 서 있게 둔 사람은 언젠가 돌아오는군요.
+SANDRI: Torna, e non con una candela in mano. Nel 1872 Bismarck disse una frase che diventò un proverbio: «Non andremo a Canossa». Voleva dire: non ci umilieremo davanti a Roma. Ecco perché il nome è rimasto, come una ferita. ||| 돌아오는데 촛불을 들고 오지는 않지. 1872년에 비스마르크가 속담이 된 문장을 말했네. '우리는 카노사에 가지 않는다.' 로마 앞에서 굴욕당하지 않겠다는 뜻이었어. 그래서 이름이 상처처럼 남았지.
+CORRADO: Quindi se lo lasciamo fuori, o se facciamo il papa che si fa pregare... ||| 그러니 밖에 세워 두거나 교황처럼 못 이기는 척하면...
+SANDRI: ...prepari la sua rivincita. La soglia, Corrado. Non serve a tenerlo fuori, né a tirarlo dentro. Serve a lasciargli scegliere quando entrare. ||| ...그의 설욕을 준비하는 셈이지. 문턱이란 말이네, 코라도. 밖에 두려는 것도, 끌어들이려는 것도 아닐세. 언제 들어올지 고르게 해 주는 거야.
+CORRADO: E noi? Noi che cosa facciamo, mentre è fuori? ||| 그럼 우리는요? 그가 밖에 있는 동안 무얼 합니까?
+SANDRI: Lavorate. Sul suo punto, in sua presenza anche se non è presente. Che senta il rumore di un tavolo che funziona. ||| 일하게. 그가 없어도 그의 사안을 그가 있는 것처럼. 잘 돌아가는 탁자의 소리가 그에게 들리도록.
+CORRADO: E chiudere il preambolo, quello che voleva lui. ||| 그가 원한 전문을 마무리하고요.
+SANDRI: Prima lui. Se vuole una casa di due popoli, scrivete la casa di due popoli. E mettete la cosa in una frase tale che il suo ritorno non sia una resa. ||| 먼저 그의 안을 쓰게. 두 민족의 집을 원하면 두 민족의 집을 쓰고, 그가 돌아오는 것이 항복이 되지 않도록 문장을 만드는 거야.
+CORRADO: «Una casa di due popoli, che nessuno dei due ha ricevuto in dono dall'altro». ||| '두 민족의 집, 어느 쪽도 상대로부터 선물로 받지 않은 집.'
+SANDRI: Ecco. Ora hai una frase. E la frase sta in una tazza calda. ||| 됐네. 이제 문장 하나를 얻었군. 그리고 그 문장은 뜨거운 잔 속에 있지.
++ la scomunica = 파문. 교회가 신자를 공동체에서 내치는 처분
++ in veste penitenziale = 속죄의 옷을 입고. 참회를 나타내는 거친 옷
++ Matilde di Canossa = 토스카나 여후작 마틸데(1046~1115). 교황 편에서 하인리히와 교황 사이를 중재한 인물
++ Non andremo a Canossa = 우리는 카노사에 가지 않는다. 1872년 비스마르크가 교회에 굴복하지 않겠다며 한 말. 독일어 'Nach Canossa gehen wir nicht'
++ prima o poi torna = 언젠가는 돌아온다. 'prima o poi'는 '조만간'이라는 관용 표현
++ la rivincita = 설욕. 한 번 진 쪽이 되갚으려는 경기를 뜻한다
++ la soglia = 문턱. 안과 밖 사이에서 선택의 자유를 주는 자리
++ farsi pregare = 못 이기는 척 간청을 받다. 즉시 수락하지 않고 상대가 청하게 두는 태도
+## 헤겔과 잔 — LA TAZZA
+LEO: Papà, ti rispondo da sotto la coperta. Ho sentito che sei in una fortezza. Come Canossa? ||| 아빠, 이불 속에서 받아요. 요새에 있다고 들었어요. 카노사 같아요?
+CORRADO: Sì. Un ministro è uscito dopo una parola sbagliata. Un ammiraglio ha detto «dimenticare» e non «riconoscere». ||| 응. 장관이 잘못된 말 한마디에 나갔어. 제독이 '인정한다'고 하지 않고 '잊는다'고 했거든.
+LEO: Hegel. ||| 헤겔이네요.
+CORRADO: Perché Hegel? ||| 왜 헤겔이니?
+LEO: Nella «Fenomenologia dello spirito» scrive che un uomo diventa un «io» soltanto se un altro lo riconosce. Il signore e il servo. Il signore vuole il riconoscimento, ma lo pretende da uno che non considera suo pari. ||| 『정신현상학』에서 사람은 다른 사람이 알아볼 때에야 '나'가 된다고 해요. 주인과 노예요. 주인은 인정받기를 원하지만 자기와 대등하지 않다고 보는 사람에게서 그걸 요구해요.
+CORRADO: E quindi chi perdona, mette l'altro in debito. ||| 그럼 용서하는 사람은 상대를 빚진 쪽에 놓는 거구나.
+LEO: Chi perdona si pone più in alto. Chi riconosce, si pone allo stesso livello. Papà, «dimenticare» è un modo di perdonare. ||| 용서하는 사람은 자기를 더 높이 놓아요. 인정하는 사람은 같은 높이에 놓고요. 아빠, '잊는다'는 용서하는 방식이에요.
+CORRADO: Ha ragione, e il cannone nel cortile ha ragione con lui. ||| 맞아. 안뜰의 대포도 그와 함께 옳다고 하겠다.
+LEO: Che cosa farai? ||| 어떻게 할 거예요?
+CORRADO: Niente. Lascerò la porta aperta, e lavoreremo come se lui fosse seduto. ||| 아무것도. 문을 열어 두고 그가 앉아 있는 것처럼 일하겠다.
+LEO: Come se. Papà, questo non è un trucco? ||| '~인 것처럼'이라. 아빠, 그건 속임수 아니에요?
+CORRADO: È un trucco se lo faccio per costringerlo. Non è un trucco se lo faccio perché lui lo senta quando decide di tornare. ||| 억지로 돌아오게 하려고 하면 속임수지. 돌아오기로 결정할 때 그가 들을 수 있게 하려는 거면 속임수가 아니야.
+LEO: Allora è un invito. ||| 그럼 초대네요.
+CORRADO: Un invito che non si può revocare. Vai a dormire. ||| 취소할 수 없는 초대지. 가서 자라.
+SAADI: Ambasciatrice, vado io con la tazza. ||| 대사님, 제가 잔을 들고 가겠습니다.
+VALDES: Vada, signor Saadi. Appoggi la tazza su un muretto vicino a lui e non dica niente. Se lui parla, ascolti. Se tace, tacete insieme. ||| 가세요, 사아디 장관님. 그의 가까운 낮은 담 위에 잔을 놓고 아무 말도 하지 마세요. 그가 말하면 들으시고 침묵하면 같이 침묵하세요.
+SAADI: Corrado, mi accompagni con lo sguardo? Io non sono bravo a stare zitto. ||| 코라도, 눈으로 함께 가 줄래? 나는 조용히 있는 데 서툴러.
+CORRADO: Ti accompagno con le spalle. Rimango qui, con le carte. ||| 어깨로 함께 갈게. 서류를 들고 여기 남아 있겠어.
+IDRIS: Il ministro Saadi è uscito. Ha poggiato la tazza. Si è seduto. Non ha detto niente. ||| 사아디 장관님이 나가셨습니다. 잔을 놓으셨고 앉으셨습니다. 아무 말씀도 없으십니다.
+VALDES: Bene. Ora, signori, lavoriamo. Articolo sette. Sorveglianza. ||| 좋습니다. 이제 일합시다. 제7조, 감시. 
+CORRADO: Ambasciatrice, in sua assenza? ||| 대사님, 그가 없는데요?
+VALDES: In sua presenza. Il suo posto è lì, con la tazza che manca. Leggiamo l'articolo e lo scriviamo come se lui lo ascoltasse. ||| 그가 있는 겁니다. 그의 자리가 저기 있고 잔만 없을 뿐이에요. 조항을 읽고 그가 듣는 것처럼 씁니다.
+CORVI: Ambasciatrice, posso fare una proposta sull'articolo sette? ||| 대사님, 제7조에 제안을 하나 해도 됩니까?
+VALDES: Lei è un ammiraglio, e i suoi interventi sono i benvenuti. Ma mi dica prima che cosa vuole. ||| 제독님은 제독이시니 발언을 환영합니다. 하지만 먼저 무엇을 원하시는지 말씀해 주세요.
+CORVI: Nessuna nave grigia, entro dodici miglia dall'isola, dall'inizio del turno stagionale. Solo unità bianche. Una per parte. ||| 섬에서 12마일 이내에는 회색 군함을 두지 않습니다. 계절 차례가 시작될 때부터요. 흰색 선박만. 한 쪽에 한 척씩.
+VALDES: Unità bianche, cioè guardia costiera. ||| 흰색 선박, 즉 해안경비대로군요.
+CORVI: Con un osservatore dell'altra parte a bordo. Due uomini sulla stessa nave. ||| 상대편 참관인 한 명을 태우고요. 한 배에 두 사람.
+CORRADO: Ammiraglio, lo dice senza condizioni? ||| 제독님, 조건 없이 말씀하십니까?
+CORVI: Con una sola condizione. Che lo scriva lui. Lo scriva il ministro. Con la sua mano. ||| 조건은 하나입니다. 그가 직접 쓰는 것. 장관께서 자기 손으로 쓰는 것.
+VALDES: Ammiraglio, questa è una proposta che io le chiedo di formulare in modo che non sembri una condizione. ||| 제독님, 그 제안은 조건처럼 들리지 않게 표현해 주시길 청합니다.
+CORVI: «L'articolo sette potrà essere scritto dalla parte tarsiana, e firmato per prima». Va meglio? ||| '제7조는 타르시아 쪽이 작성하고 먼저 서명할 수 있다.' 이러면 낫습니까?
+VALDES: Va molto meglio. Lei sta imparando, ammiraglio. ||| 훨씬 낫습니다. 배우고 계시군요, 제독님.
+CORVI: Dopo sessant'anni è tardi, ma non è mai troppo tardi per cambiare una parola. ||| 예순 해를 살고 나니 늦었지만 말 한마디 바꾸는 데 너무 늦은 때는 없습니다.
++ riconoscere / perdonare = 인정하다 / 용서하다. 레오의 헤겔 해석에서 '용서'는 위에서 아래로, '인정'은 대등한 눈높이를 뜻한다
++ come se lui fosse seduto = 그가 앉아 있는 것처럼. 'come se' 뒤에는 접속법 반과거를 쓴다
++ il riconoscimento (Hegel) = 인정. 『정신현상학』(1807)의 '주인과 노예' 장에서 자기의식은 타자의 인정으로 성립한다
++ appoggiare la tazza = 잔을 기대어 놓다. 말 대신 두는 몸짓으로 이네스가 시킨다
++ unità bianche = 흰색 선박. 군함(회색)이 아닌 해안경비대 선박의 색을 이르는 표현
++ in sua presenza = 그가 있는 상태에서. 이네스의 말은 부재자의 자리를 그대로 존중한다는 뜻
++ non è mai troppo tardi per... = ~하기에 너무 늦은 때는 없다. 격언식 구문
+
+## 문턱 — LA SOGLIA
+IDRIS: Dottor Lanza, il ministro è in piedi sulla soglia. Non è entrato. Ha la tazza in mano. ||| 박사님, 장관님이 문턱에 서 계십니다. 들어오지는 않으셨습니다. 손에 잔을 들고 계십니다.
+CORRADO: Che ora è? ||| 몇 시죠?
+IDRIS: Mezzanotte e cinquantadue. ||| 0시 52분입니다.
+VALDES: Non lo guardi, dottor Lanza. Continui a leggere. ||| 보지 마세요, 란차 박사. 계속 읽으세요.
+CORRADO: «Preambolo. Le Parti riconoscono che il mare di mezzo è una casa di due popoli, che nessuno dei due ha ricevuto in dono dall'altro». ||| '전문. 양 당사국은 가운데 바다가 두 민족의 집임을 인정한다. 어느 쪽도 그 집을 상대로부터 선물로 받지 않았다.'
+IDRIS: Il ministro tace. Ha ancora la tazza. Beve. ||| 장관님은 말씀이 없으십니다. 아직 잔을 들고 계십니다. 마십니다.
+CORRADO: «Articolo sette. La sorveglianza dell'area è affidata a due unità non militari, di colore bianco, una per parte. A bordo di ciascuna un osservatore dell'altra parte. L'articolo è scritto dalla parte tarsiana». ||| '제7조. 구역의 감시는 군용이 아닌 흰색 선박 두 척에 맡기며 한 쪽에 한 척이다. 각 선박에는 상대 쪽 참관인이 탑승한다. 이 조항은 타르시아 쪽이 작성한다.'
+IDRIS: Il ministro ha fatto un passo. Mezzo. ||| 장관님이 한 걸음을 내디디셨습니다. 반 걸음이요.
+CORRADO: «Articolo nove. Un fondo comune per il rilievo del fondale è costituito con contributi eguali. Il fondo è custodito da un terzo, concordato dalle Parti». ||| '제9조. 해저 조사를 위한 공동 기금을 동일한 분담금으로 설치한다. 기금은 당사국이 합의한 제삼자가 보관한다.'
+ZERHOUNI: Qui est ce troisième? ||| 그 제삼자는 누구요?
+IDRIS: Il ministro chiede: «Chi è questo terzo?». ||| 장관님이 묻습니다. '그 제삼자가 누구요?'
+VALDES: Signor ministro, ho una proposta, ma non è mia. È un'idea di un vecchio ambasciatore di Roma che non conosco. Un fondo custodito da una banca che non sia né dell'una né dell'altra sponda. ||| 장관님, 제안이 하나 있는데 제 것이 아닙니다. 제가 모르는 로마의 늙은 대사의 생각이에요. 어느 해안의 것도 아닌 은행이 보관하는 기금입니다.
+CORRADO: Ambasciatrice, non è dell'ambasciatore. L'ha pensata uno scolaro di diciassette anni, a tavola, dopo il brodo. ||| 대사님, 대사님 생각이 아닙니다. 열일곱 살 학생이 국물을 먹은 뒤 식탁에서 생각해 낸 겁니다.
+IDRIS: Il ministro sorride. Ho visto una cosa che in quarant'anni ho visto tre volte. ||| 장관님이 웃으십니다. 사십 년 동안 세 번밖에 본 적 없는 장면입니다.
+ZERHOUNI: Je m'assois. Mais pas sur ma chaise. À côté de la porte. ||| 앉겠소. 하지만 내 의자에는 아니오. 문 옆에.
+IDRIS: Il ministro dice: «Mi siedo. Ma non sulla mia sedia. Accanto alla porta». ||| 장관님이 말씀하십니다. '앉겠소. 하지만 내 의자가 아니라 문 옆에.'
+VALDES: Zammit! Una sedia accanto alla porta, per favore. ||| 차미트! 문 옆에 의자 하나를 부탁합니다.
+ZAMMIT: Una sedia della sala del Gran Maestro. È la più comoda, e anche la più vecchia. ||| 대수도원장 방의 의자입니다. 가장 편하고 가장 오래된 것이죠.
+CORVI: Signor ministro. Una parola, se mi permette. Io ritiro «dimenticare». Non la sostituisco con un'altra. La ritiro. ||| 장관님. 허락하시면 한 말씀 드리겠습니다. '잊는다'는 말을 거두겠습니다. 다른 말로 바꾸지 않겠습니다. 거두겠습니다.
+IDRIS: Il ministro: «Ritirata». Una parola sola. ||| 장관님이 '거두어졌소'라고 하십니다. 한 단어입니다.
+SAADI: Hakim, il tè è freddo. Te ne porto uno caldo. ||| 하킴, 차가 식었어. 뜨거운 걸 가져다줄게.
+IDRIS: Il ministro: «Lo bevo freddo. Così so che è stato un vero tè». ||| 장관님이 말씀하십니다. '식은 채로 마시겠소. 진짜 차였다는 걸 아니까.'
+CORRADO: Idris, non lo traduca, ma lo scrivo nel mio verbale. ||| 이드리스 씨, 통역하지는 마십시오. 하지만 제 회의록에는 적겠습니다.
+VALDES: Allora, signori. Questa è la porta che non si è chiusa. Resta il tavolo. ||| 그럼 여러분. 이것이 닫히지 않은 문입니다. 탁자는 남아 있습니다.
++ la soglia = 문턱. 안과 밖의 경계에서 돌아올 시간을 주는 장소
++ fare mezzo passo = 반 걸음 내딛다. 완전한 양보는 아니지만 방향을 틀었다는 표시
++ ritirare una parola = 말을 거두다. 'ritirare'는 '철회하다'. 대체어를 제시하지 않는 것이 핵심이다
++ un fondo custodito da un terzo = 제삼자가 보관하는 기금. 해저 조사 공동 기금의 골격
++ una sedia della sala del Gran Maestro = 대수도원장의 방 의자. 산탄젤로 요새는 성 요한 기사단 총장의 거처였다
++ un vero tè = 진짜 차. 식은 차를 마시는 제르후니의 자존심이 담긴 농담
++ non lo traduca ma lo scrivo = 통역하진 마십시오, 그러나 적겠습니다. 접속법 명령형(Lei)과 직설법 현재의 대비
++ rilievo del fondale = 해저 측량 조사. 'rilievo'는 측량이나 지도 제작에 쓰는 말
+
+## 새벽 2시의 서명 — IL PROTOCOLLO DEL FORTE
+VALDES: Sono le due e dieci di sabato. Questi sono i fogli. Quattro pagine, diciassette articoli, un preambolo di tre righe. ||| 토요일 2시 10분입니다. 이것이 서류예요. 네 쪽, 열일곱 조항, 세 줄의 전문.
+CORRADO: Ambasciatrice, qual è il titolo? ||| 대사님, 제목은 무엇입니까?
+VALDES: «Protocollo del Forte». Senza un nome per il luogo. Dice solo «l'area di mare». ||| '요새 의정서'입니다. 장소의 이름은 없습니다. '해역'이라고만 쓰죠.
+SAADI: Senza un nome. Fumo, Dukhan... ||| 이름이 없다니. 푸모, 두칸...
+CORRADO: Non scritto. Se un nome si scrive, qualcuno lo possiede. ||| 쓰지 않습니다. 이름을 쓰면 누군가 소유하게 되니까요.
+ZERHOUNI: Je signe en premier. Avec ma main. ||| 내가 먼저 서명하겠소. 내 손으로.
+IDRIS: Il ministro: «Firmo per primo. Con la mia mano». ||| 장관님이 '내가 먼저 서명하겠소. 내 손으로'라고 하십니다.
+VALDES: Tutti con la penna nera. Poi ci mettiamo un timbro, e basta. ||| 모두 검은 펜으로요. 그다음 도장을 찍고 끝입니다.
+CORRADO: Ministro, un'ultima cosa. Fra quattro ore, alle sei, la prima lanterna della stagione è la sua. ||| 장관님, 마지막 하나. 네 시간 뒤 6시에 이번 철 첫 등불은 장관님 것입니다.
+ZERHOUNI: Le premier filet est à nous. ||| 첫 그물은 우리 것이오.
+IDRIS: «Il primo filo di rete è nostro». Intende il primo lancio. ||| '첫 그물은 우리 것이오.' 첫 투망을 말씀하십니다.
+CORVI: E il primo brindisi è di chi cede. L'ho imparato da un'altra tavola. Ministro, a lei. ||| 그리고 첫 건배는 양보하는 사람의 것입니다. 다른 식탁에서 배웠습니다. 장관님께 올립니다.
+ZERHOUNI: Je lève mon thé froid. À la porte. ||| 식은 차를 들겠소. 문을 위하여.
+IDRIS: «Alzo il mio tè freddo. Alla porta». ||| '식은 차를 들겠소. 문을 위하여.'
+SAADI: Alla porta. ||| 문을 위하여.
+CORRADO: Alla porta, e a chi arriva dopo. ||| 문을 위하여, 그리고 나중에 오는 사람을 위하여.
+GIULIA: Corrado! Scusa, ti chiamo dalla sala operativa. Ho in linea la dottoressa Sciuto, da Catania. Dice che è urgente. ||| 코라도! 미안해요, 작전실에서 전화해요. 카타니아의 샤우토 박사님이 연결돼 있어요. 급하다고 하세요.
+SCIUTO: Dottor Lanza, buonanotte, o buongiorno. Ho le registrazioni delle ultime tre ore. ||| 란차 박사님, 안녕히 주무셨는지, 아니면 좋은 아침인지. 지난 세 시간의 기록이 있습니다.
+CORRADO: Dica, dottoressa. ||| 말씀하십시오, 박사님.
+SCIUTO: Lo sciame di microterremoti è cambiato. Prima era di spinta, ora è di cedimento. In altre parole, il cono ha cominciato a perdere materiale da sotto. ||| 미소 지진군의 성격이 바뀌었습니다. 전에는 밀어 올리는 것이었는데 지금은 주저앉는 것입니다. 즉 원뿔이 아래에서부터 물질을 잃기 시작했습니다.
+CORRADO: Cioè? ||| 그러면요?
+SCIUTO: Cioè l'isola è cominciata a sprofondare. Non so quanto in fretta. Ma se i modelli del 1831 valgono, sono ore, non giorni. ||| 섬이 가라앉기 시작했다는 뜻입니다. 얼마나 빠른지는 모릅니다. 하지만 1831년의 모델이 맞다면 며칠이 아니라 몇 시간입니다.
+CORRADO: E alle sei partono centoquaranta pescherecci. ||| 그런데 6시에 어선 140척이 출어합니다.
+SCIUTO: E i pescherecci passeranno a un miglio e mezzo dal bordo. Ho due colleghi, due, uno italiano e uno tarsiano, che stamattina alle cinque devono salire per fissare le stazioni di misura. ||| 어선들은 가장자리에서 1.5마일 떨어진 곳을 지나갑니다. 오늘 아침 5시에 측정소를 설치하러 올라가야 하는 동료가 둘 있습니다. 이탈리아인 하나, 타르시아인 하나요.
+CORRADO: Due persone sull'isola, in un'area che avete detto che sta per cedere. ||| 무너질 거라고 하신 곳에 사람 둘이 섬 위에 있다는 말씀이군요.
+SCIUTO: Sì. Autorizzati dall'articolo cinque del vostro protocollo, che è stato firmato un'ora fa. ||| 네. 한 시간 전에 서명된 의정서 제5조의 허가를 받았습니다.
+CORRADO: Allora ci stiamo andando tutti. Giulia, dimmi quando sono le cinque. ||| 그럼 우리 모두 가는 겁니다. 줄리아, 5시가 언제인지 알려 줘요.
+GIULIA: Fra due ore e quarantanove minuti. ||| 2시간 49분 뒤예요.
++ Protocollo del Forte = 요새 의정서. 4-10에서 서명된 열일곱 조항짜리 임시 합의로 장소의 이름을 쓰지 않는다
++ l'area di mare = 해역. 이름을 적지 않고 장소를 가리키는 조약상의 표현
++ il primo brindisi è di chi cede = 첫 건배는 양보하는 사람의 것. 4-2에서 정립된 시리즈 장치를 코르비가 인용한다
++ lo sciame di microterremoti = 미소 지진군. 연속적으로 일어나는 작은 지진의 무리
++ cedimento = 주저앉음, 침하. 지반이 가라앉는 것
++ sprofondare = 가라앉다, 푹 꺼지다. 바닥이 무너져 내리는 동작
++ a chi arriva dopo = 나중에 오는 사람에게. 시리즈 장치로 건배 때 쓴다

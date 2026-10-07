@@ -1,0 +1,226 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 8
+@title Gli avvisi
+@ko 아비시
+@setting 6월 18일 화요일 새벽 파르네지나 위기상황실 → 낮 마르사 베이다와의 화상 → 오후 테스타초 보치아 클럽 → 저녁 18시 두 항구의 낭독 → 밤 위기상황실
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast SAADI | 타르시아 장관
+@cast IDRIS | 마르사 베이다의 통역 이드리스, 73세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast LEO | 란차의 아들, 17세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 84세
+@cast CONCETTA | 노나 콘체타, 86세
+@cast LUCIANA | 클럽 회원 루차나 벨루치, 82세(키오자 출신)
+@cast MATTIA | 클럽 최연소 회원 마티아 파다, 18세
+@cast HOCINE | 마르사 베이다의 은퇴한 '라이스' 호신 벨카셈, 79세
+@cast MANGIARACINA | 마차라 델 발로 어선 선장 살바토레 만자라치나, 58세
+@note 4부 8화는 '언론전'의 화입니다. 화요일 새벽 타르시아 국영 방송이 '이탈리아의 새로운 식민 야욕'이라는 특별 방송을 내보내고, 이탈리아의 일부 언론이 곧바로 받아씁니다. 줄리아가 영상과 지도를 해체하지만, 반박만으로는 이기지 못합니다(나쁜 거짓말에는 늘 손톱만큼의 진실이 들어 있기 때문입니다). 역사 논거는 16세기 베네치아의 필사 소식지 '아비시(avvisi)'입니다. 인쇄가 아니라 손으로 베껴 쓴 소식지가 '어느 곳에서, 어느 날'이라는 표제를 달고 돌았고, 값으로 치른 작은 동전 '가제타'가 훗날 신문 '가제트'의 어원이 되었다고 전해집니다. 해법의 순간은 모든 소식에 날짜·장소·증인을 붙인 '아비시' 형식입니다. 흄의 증언론이 레오의 질문으로 나옵니다. 어휘는 언론·검증 표현(smentire, fonte, testimone, voce, attribuire, smontare)과 수동·비인칭 구문(si dice che, a quanto pare)에 주목하세요.
+@next 4-9 «루도비코 일 모로» — 코라도는 '거울 경보'가 어디서 발신되었는지 쫓고, 제독의 측근이 문을 열어 준 사실을 알게 됩니다.
+
+## 화요일 새벽, 특별 방송 — IL PROGRAMMA SPECIALE
+GIULIA: Corrado, sono le sei e mezza e l'abbiamo già visto in quarantamila. ||| 코라도, 6시 반인데 벌써 4만 명이 봤어요.
+CORRADO: Quarantamila in Tarsia o quarantamila in tutto? ||| 타르시아에서 4만이에요, 전부 합쳐서 4만이에요?
+GIULIA: In tutto. Ma la clip in francese gira già sui social italiani con il titolo «Ecco cosa non vi dicono». ||| 전부 합쳐서요. 그런데 프랑스어 클립은 벌써 이탈리아 SNS에서 '그들이 말해 주지 않는 것'이라는 제목으로 돌고 있어요.
+CORRADO: Fammi sentire il ritmo. Voglio sentire dove respira. ||| 리듬을 들려줘요. 어디서 숨을 쉬는지 듣고 싶어요.
+GIULIA: Primo blocco: una nave grigia, immagini notturne, voce fuori campo: «L'Italia manda i suoi soldati dove ha già comandato». Secondo: una cartina del 1937 con le colonie. Terzo: un uomo senza volto che dice di essere un ufficiale. ||| 첫 블록은 회색 군함에 야간 영상, 내레이션이 '이탈리아는 이미 지배했던 곳으로 군인을 보낸다'고 해요. 둘째는 식민지가 표시된 1937년 지도, 셋째는 얼굴 없는 남자가 자기가 장교라고 말해요.
+CORRADO: Nave, mappa, testimone anonimo. Il manuale completo. ||| 군함, 지도, 익명의 증인. 교과서 그대로군요.
+ORSOLINI: Sono arrivato. Dimmi che non è peggio di come lo descrive la stampa. ||| 도착했네. 언론이 말하는 것보다 나쁘지 않다고 말해 주게.
+CORRADO: È peggio, Luca, perché è fatto bene. Non è una bugia sciocca. ||| 더 나빠요, 루카. 잘 만들었거든요. 어설픈 거짓말이 아니에요.
+ORSOLINI: Che cosa ti preoccupa di più? ||| 가장 걱정되는 게 뭔가?
+CORRADO: Che dentro ci sia un'unghia di vero. Una bugia buona ha sempre un'unghia di vero. ||| 안에 손톱만큼의 진실이 있다는 거예요. 좋은 거짓말에는 늘 손톱만큼의 진실이 있죠.
+GIULIA: E io l'unghia l'ho trovata. Il «piano tricolore» di Corvi esisteva. Dodici marinai, due gommoni, sbarco il mercoledì all'alba. Lo avevamo fermato il dieci giugno. ||| 그 손톱을 찾았어요. 코르비의 '삼색기 작전'은 실제로 있었어요. 해병 열둘, 고무보트 둘, 수요일 새벽 상륙. 6월 10일에 우리가 막았고요.
+CORRADO: E chi lo sapeva fuori da qui? ||| 그럼 이 방 밖에서 누가 알았죠?
+GIULIA: Pochi. Corvi, il suo stato maggiore, e... l'ufficio di coordinamento della Marina. ||| 몇 명뿐이에요. 코르비, 그의 참모부, 그리고 해군 조정실이요.
+CORRADO: Quindi l'ufficiale senza volto può essere vero. ||| 그러면 얼굴 없는 장교는 진짜일 수 있겠군요.
+GIULIA: Può essere vero, o può avere letto una versione vera. ||| 진짜일 수도 있고, 진짜 버전을 읽은 사람일 수도 있죠.
+SAADI: Corrado, sono io. Sono nel mio ufficio, ma stamattina ho il telefono pieno di madri. ||| 코라도, 나야. 내 사무실인데 오늘 아침 전화기가 어머니들로 가득해.
+CORRADO: Madri di pescatori? ||| 어부들의 어머니요?
+SAADI: Madri e mogli. Dicono: «Se è vero che sbarcano, che cosa facciamo, partiamo sabato o no?». La paura ha preso casa. ||| 어머니들과 아내들이야. '정말 상륙한다면 우리는 어떻게 하나, 토요일에 출어하나 마나' 하고 묻지. 두려움이 집을 차지했어.
+CORRADO: Saadi, c'è una parte di vero. Te lo dico io, a nome mio. Il piano tricolore c'è stato. ||| 사아디, 진실인 부분이 있어. 내가 내 이름으로 말하지. 삼색기 작전은 있었어.
+SAADI: Lo so. Me l'hai detto tu il primo giorno. ||| 알아. 첫날 네가 직접 말했잖아.
+CORRADO: Esatto. E questo è l'unico motivo per cui puoi fidarti ancora di me. ||| 맞아. 그리고 그게 네가 아직 나를 믿을 수 있는 유일한 이유야.
+SAADI: Allora dimmi come rispondo alle madri. Io dico: «L'Italia è onesta»? Non mi crederebbero. ||| 그럼 어머니들에게 어떻게 답할지 말해 줘. '이탈리아는 정직하다'고 하면 믿지 않을 거야.
+CORRADO: Non dire niente su di noi. Dì una cosa che si possa controllare. ||| 우리에 대해서는 아무 말도 하지 마. 확인할 수 있는 한 가지를 말해.
+SAADI: Per esempio? ||| 예를 들면?
+CORRADO: Oggi alle quattordici, dove si trova l'«Alcione», e chi lo può vedere dal mare. ||| 오늘 오후 2시에 '알치오네'가 어디에 있고 바다에서 누가 볼 수 있는지.
+SAADI: Hai già un testimone? ||| 벌써 증인이 있어?
+CORRADO: Ne ho due. Uno dei vostri e uno dei nostri. Dammi fino a sera. ||| 둘 있어. 너희 쪽에 하나, 우리 쪽에 하나. 저녁까지 시간을 줘.
++ un'unghia di vero = 손톱만큼의 진실. 'unghia'는 아주 조금의 비유로 쓴다
++ il manuale completo = 교과서적인 완성형. 선전의 정석을 이르는 코라도의 농담
++ voce fuori campo = 화면 밖 내레이션. 영상 기사에서 나오는 목소리 처리
++ la paura ha preso casa = 두려움이 집을 차지했다. 사아디가 쓰는 시적 은유
++ una cosa che si possa controllare = 확인할 수 있는 한 가지. 'una cosa che' 뒤 접속법 현재로 조건을 나타낸다
++ dare fino a sera = 저녁까지 시간을 주다. 'dammi fino a sera'는 여유를 청하는 구어 표현
++ lo stato maggiore = 참모부. 군대의 지휘 참모 조직
+
+## 가짜 해체 작업 — SMONTARE IL FALSO
+GIULIA: Smontiamo la nave. Il video notturno ha un orologio in basso a destra, a un certo punto si vede: ventitré e dodici. ||| 군함부터 해체하죠. 야간 영상 오른쪽 아래에 시계가 있고 한 순간 보여요. 23시 12분.
+CORRADO: E la data? ||| 날짜는요?
+GIULIA: Non c'è. Ma ho riconosciuto la gru sul molo. È la banchina di Taranto, e il cartello dietro è dell'esercitazione «Mare Aperto» del duemiladiciannove. ||| 없어요. 하지만 부두의 크레인을 알아봤어요. 타란토 부두이고, 뒤의 표지판은 2019년 '마레 아페르토' 훈련 것이에요.
+CORRADO: Taranto, non Lampedusa. E la cartina? ||| 람페두사가 아니라 타란토로군요. 지도는요?
+GIULIA: Atlante scolastico del 1937. L'ho trovato su un sito d'antiquariato, stessa legenda, stesso errore su Tripoli. ||| 1937년 학교용 지도책이에요. 골동품 사이트에서 찾았는데 같은 범례에 트리폴리 표기 오류까지 똑같아요.
+CORRADO: Quindi nave del duemiladiciannove, mappa del trentasette, testimone senza volto. Tre cose vere in tre luoghi sbagliati. ||| 2019년의 배, 37년의 지도, 얼굴 없는 증인. 틀린 곳에 놓인 진짜 셋이로군요.
+GIULIA: Ma se lo dico così, sembra una difesa. E una smentita è sempre una difesa. ||| 하지만 그렇게 말하면 변명처럼 들려요. 반박은 늘 변명이에요.
+CORRADO: Hai ragione. Una smentita arriva sempre tardi e a piedi. ||| 맞아요. 반박은 늘 늦고 걸어서 오죠.
+ORSOLINI: Che cosa propone la stampa italiana? ||| 이탈리아 언론은 뭐라 하나?
+GIULIA: Due quotidiani hanno ripreso «fonti tarsiane» e un terzo «fonti vicine alla Marina». ||| 두 일간지가 '타르시아 측 소식통'을 받아썼고, 세 번째는 '해군 가까운 소식통'을 인용했어요.
+CORRADO: Fonti. «Fonti vicine a». Quanta gente ci sta vicino... Giulia, c'è un modo di sapere se queste «fonti» sono due o una sola? ||| 소식통이라. '가까운 소식통'이라니, 가까이 있는 사람이 참 많군요. 줄리아, 이 '소식통'이 둘인지 하나인지 알 방법이 있어요?
+GIULIA: Si può vedere se la stessa frase è identica. Se due «fonti» dicono «dove ha già comandato» con le stesse parole, la fonte è una. ||| 같은 문장이 똑같은지 보면 돼요. 두 '소식통'이 같은 단어로 '이미 지배했던 곳'이라고 한다면 출처는 하나예요.
+CORRADO: E? ||| 그래서요?
+GIULIA: Identiche, parola per parola. Anche la virgola. ||| 한 단어씩 똑같아요. 쉼표까지요.
+CORRADO: Come i due avvisi dell'altra sera. Qualcuno scrive una frase e la fa girare. ||| 그날 밤의 두 경보처럼요. 누가 한 문장을 쓰고 돌리는 거죠.
+GIULIA: È lo stesso metodo. Forse la stessa mano. ||| 같은 방식이에요. 아마 같은 손이겠죠.
+IDRIS: Dottor Lanza, mi sente? Sono Idris, dalla cucina di mia sorella, a Marsa Beida. Il collegamento a casa funziona meglio. ||| 란차 박사님, 들리십니까? 이드리스입니다. 마르사 베이다에 있는 누이 집 부엌에서요. 집 회선이 더 잘 터집니다.
+CORRADO: Idris, benvenuto in cucina. Che si dice al porto? ||| 이드리스, 부엌에 오신 걸 환영합니다. 항구에서는 뭐라 합니까?
+IDRIS: Si dice tante cose. Quando una voce è troppo ben fatta, la gente smette di domandarsi chi l'ha cucita. ||| 별말이 다 돕니다. 소문이 너무 잘 짜이면 사람들은 누가 꿰맸는지 묻지 않게 되지요.
+CORRADO: Mio caro Idris, dovrebbe scrivere proverbi. ||| 이드리스 씨, 속담을 지어 내셔도 되겠습니다.
+IDRIS: Ne ho uno di mio padre. «Le notizie, come il pesce, hanno un giorno». Quando il pesce non ha giorno, non lo comprare. ||| 아버지의 속담이 하나 있습니다. '소식은 생선처럼 하루가 있다.' 날짜 없는 생선은 사지 말라는 거지요.
+CORRADO: Un giorno, un luogo, e chi l'ha visto. Idris, mi ripeta l'ultima frase. ||| 하루, 장소, 그리고 본 사람이로군요. 이드리스 씨, 마지막 문장을 다시 말해 주십시오.
+IDRIS: «Quando il pesce non ha giorno, non lo comprare». ||| '날짜 없는 생선은 사지 말라.'
+CORRADO: Sarà il titolo di oggi. Ma prima, una telefonata a un vecchio ambasciatore. ||| 오늘의 제목이 되겠군요. 하지만 먼저 늙은 대사님께 전화 한 통 드려야겠습니다.
++ smontare = 해체하다. 영상이나 주장의 허점을 하나씩 뜯어보는 작업
++ una smentita arriva sempre tardi e a piedi = 반박은 늘 늦고 걸어서 온다. 거짓은 빠르고 반박은 느리다는 뜻의 코라도의 말
++ fonti vicine a... = ~에 가까운 소식통. 기자가 출처를 흐릴 때 쓰는 정형 표현
++ parola per parola = 한 단어씩. 완전히 같은 문장이라는 증거로 쓴다
++ cucire una voce = 소문을 꿰매다. 'voce'(소문)를 '짜다, 꿰매다'라는 동사와 결합한 이드리스의 은유
++ in tre luoghi sbagliati = 틀린 세 곳에서. 장소와 시기가 뒤섞여 사실이 거짓의 재료가 되는 방식
++ una difesa = 변명, 방어. 반박이 곧 방어로 읽힌다는 선전의 논리
++ dalla cucina di mia sorella = 누이의 부엌에서. 화상 회선의 사정까지 일상적인 장면으로 만든 대사
+
+## 산드리와 베네치아의 아비시 — GLI AVVISI DI VENEZIA
+SANDRI: Corrado, ho già letto i giornali. Non dirmi niente. Fatti dare un caffè e ascolta. ||| 코라도, 신문은 이미 읽었네. 아무 말 말게. 커피 한 잔 얻어 마시고 들어 보게.
+CORRADO: Ambasciatore, ho l'acqua. Ma ascolto. ||| 대사님, 저는 물이 있습니다. 하지만 듣겠습니다.
+SANDRI: A Venezia, nel Cinquecento, la notizia era una merce. Chi la sapeva per primo guadagnava. Così nacquero gli avvisi. ||| 16세기 베네치아에서는 소식이 상품이었지. 먼저 아는 사람이 이익을 보았고, 그래서 아비시가 생겼네.
+CORRADO: Giornali a mano? ||| 손으로 쓴 신문 말입니까?
+SANDRI: Fogli scritti a mano, copiati da scrivani, che passavano da un mercante all'altro. Non c'era stampa libera, e il Senato guardava con sospetto. Ma ogni foglio cominciava con un nome di luogo e una data. «Di Costantinopoli, il tal giorno». «Di Roma, il tal giorno». ||| 필경사들이 베껴 쓴 종이가 상인에게서 상인에게로 돌았지. 자유로운 인쇄는 없었고 원로원은 의심스러운 눈으로 보았네. 하지만 모든 종이는 지명과 날짜로 시작했어. '콘스탄티노폴리스에서, 어느 날.' '로마에서, 어느 날.'
+CORRADO: Il luogo e il giorno prima del fatto. ||| 사건보다 장소와 날짜가 먼저군요.
+SANDRI: Perché un mercante non pagava una notizia senza sapere da dove e da quando. Se il foglio diceva «da Costantinopoli, il 12», lui calcolava quanti giorni aveva impiegato la barca. Se i conti non tornavano, il foglio perdeva credito. ||| 상인은 어디서 언제 온 것인지 모르는 소식에는 돈을 내지 않았으니까. 종이에 '콘스탄티노폴리스에서, 12일'이라고 쓰여 있으면 배가 며칠 걸렸을지 계산했지. 셈이 맞지 않으면 그 종이는 신용을 잃었어.
+CORRADO: E il nome «gazzetta»? ||| 그리고 '가제타'라는 이름은요?
+SANDRI: Si racconta che derivi da una piccola moneta veneziana, la «gazzetta», che si pagava per leggere il foglio. Gli storici discutono sui dettagli, ma la sostanza sta lì: si pagava per una notizia con data e luogo. ||| 종이를 읽을 때 치르던 작은 베네치아 동전 '가제타'에서 왔다고 전해지네. 세부는 역사가들이 논쟁하지만 핵심은 거기 있어. 날짜와 장소가 있는 소식에 값을 치렀다는 것.
+CORRADO: Quindi la notizia non era un'accusa. Era un conto con le voci. ||| 그러니 소식은 비난이 아니라 소문에 대한 셈이었군요.
+SANDRI: Esatto. E c'era un terzo elemento: il nome di chi l'aveva riferito. Non sempre, ma ogni volta che il foglio voleva essere preso sul serio. «Riferisce il capitano tale, arrivato ieri». ||| 맞네. 그리고 세 번째 요소가 있었어. 전한 사람의 이름이야. 늘 그런 건 아니지만 종이가 진지하게 받아들여지고 싶을 때는 꼭 있었지. '어제 도착한 아무개 선장이 전하기를.'
+CORRADO: Luogo, giorno, testimone. È la formula di Idris: il pesce con la data. ||| 장소, 날짜, 증인. 이드리스 씨의 공식이로군요. 날짜 있는 생선.
+SANDRI: Idris ha un padre saggio. E una cosa te la dico io, Corrado. Una notizia non ha bisogno di essere difesa, se è fatta bene. Ha bisogno di poter essere controllata. ||| 이드리스에게는 현명한 아버지가 계셨군. 그리고 한 가지는 내가 말해 두지, 코라도. 잘 만든 소식은 변호가 필요 없네. 확인될 수 있기만 하면 되지.
+CORRADO: E se il nemico scrive un avviso falso con la data giusta? ||| 적이 날짜까지 맞춘 가짜 아비시를 쓰면요?
+SANDRI: Allora ci vuole il terzo. Il testimone che non dipende da te. E soprattutto che sia di entrambe le sponde. ||| 그럼 세 번째가 필요하지. 자네에게 속하지 않은 증인. 특히 양쪽 해안 모두에서 온 증인이.
+CORRADO: Un avviso con due firme. Di qua e di là. ||| 서명이 둘인 아비시로군요. 이쪽과 저쪽에서.
+SANDRI: Non l'ho mai visto, e mi pare che sia una buona invenzione. Ricordati però il risvolto. Chi scrive il foglio non è il padrone della notizia: ne è il custode. ||| 본 적은 없지만 좋은 발명 같네. 다만 뒷면도 기억하게. 종이를 쓰는 사람은 소식의 주인이 아니라 지킴이야.
++ gli avvisi = 아비시. 16세기 베네치아와 로마에서 손으로 베껴 돌던 소식지. 지명과 날짜를 머리에 달았다
++ lo scrivano = 필경사. 인쇄 이전에 문서를 손으로 베끼던 사람
++ la gazzetta = 가제타. 소식지 한 장을 읽을 때 치르던 작은 베네치아 동전이라고 전해지며 '신문'의 이탈리아어 이름의 어원 설 중 하나
++ se i conti non tornavano = 셈이 맞지 않으면. 'tornare'의 구어적 용법으로 '앞뒤가 맞다'는 뜻
++ un conto con le voci = 소문에 대한 셈. 코라도가 소식을 '청구서의 상대'로 바꿔 말한 표현
++ il custode della notizia = 소식의 지킴이. 소유가 아니라 보관의 책임이라는 산드리의 맺음말
++ si racconta che derivi... = ~에서 왔다고 전해진다. 비인칭 'si' + 접속법으로 불확실한 어원을 소개한다
+## 클럽의 게시판 — LA BACHECA DELLA BOCCIOFILA
+ERCOLE: Aò, Corrà, arrivi tardi. Abbiamo già bevuto due caffè e deciso tre cose. ||| 어이, 코라, 늦었구나. 우리는 벌써 커피를 두 잔 마시고 세 가지를 결정했다.
+CORRADO: Ercole, le decisioni le prendete sempre prima di me. ||| 에르콜레 어르신, 결정은 늘 저보다 먼저 하시는군요.
+ERCOLE: Perché tu ci metti i verbi, e noi mettiamo i fatti. Prima: la televisione non ci fa paura. Seconda: l'ha detto uno che non si vede in faccia. Terza: nessuno si fida di uno che non si vede in faccia. ||| 너는 동사를 넣고 우리는 사실을 넣으니까. 첫째, 텔레비전은 무섭지 않다. 둘째, 얼굴을 안 보이는 놈이 한 말이다. 셋째, 얼굴 안 보이는 놈은 아무도 안 믿는다.
+PEPPINO: Quarta, che non l'abbiamo decisa: si risponde con una lavagna. ||| 넷째는 아직 결정 안 했다. 칠판으로 대답한다는 것.
+CORRADO: Una lavagna? ||| 칠판이요?
+LUCIANA: Al mercato di Chioggia, quando ero ragazza, ogni banco aveva la sua. Gesso bianco. «Sogliole di ieri, baracche». Scrivevamo tutto: che cosa, di che barca, di che giorno, a che ora. ||| 키오자 시장에서 내가 소녀였을 때 가판마다 칠판이 있었어요. 흰 분필로 '어제 잡은 서대, 바라케'. 무엇을, 어느 배에서, 어느 날, 몇 시에 잡았는지 다 적었죠.
+CORRADO: Che cosa, quale barca, quale giorno. ||| 무엇을, 어느 배로, 어느 날.
+LUCIANA: E il nome del pescatore. Se la sogliola era vecchia, il pescatore ci rimetteva la faccia. Quindi nessuno scriveva il falso: lo sapeva tutta la riva. ||| 그리고 어부의 이름도요. 서대가 오래됐으면 어부가 체면을 잃으니까 아무도 거짓을 쓰지 않았어요. 강변 사람이 다 알았으니까요.
+MATTIA: Ho già fatto il modulo. L'ho copiato da Luciana e dal suo racconto, e ci ho aggiunto il lato tecnico. ||| 양식은 제가 벌써 만들었어요. 루차나 님과 그분 이야기를 베껴서 기술적인 쪽을 더했어요.
+CORRADO: Fammi vedere. ||| 보여 줘 봐.
+MATTIA: Quattro righe. Dove e quando. Che cosa è successo, in una frase. Chi l'ha visto, con nome e barca. E in fondo: «Chi sa altro, lo scriva sotto, con il suo nome». ||| 네 줄이에요. 어디서 언제. 무슨 일인지 한 문장. 누가 봤는지 이름과 배까지. 그리고 맨 밑에 '더 아는 사람은 자기 이름으로 아래에 적을 것'.
+CORRADO: «Chi sa altro, lo scriva sotto». È la penna blu. Si aggiunge, non si cancella. ||| '더 아는 사람은 아래에 적을 것'이라. 파란 펜이로군요. 더하고 지우지 않는다.
+MATTIA: Sì. Con un'aggiunta. Ogni foglio ha due colonne. Una per un testimone italiano, una per un testimone tarsiano. ||| 네. 한 가지 더해서요. 종이마다 칸이 둘이에요. 이탈리아 증인 칸 하나, 타르시아 증인 칸 하나.
+CORRADO: E se un lato non ha testimoni? ||| 한쪽에 증인이 없으면요?
+MATTIA: Allora lo scriviamo. «Colonna tarsiana: vuota». La colonna vuota è un'informazione. ||| 그럼 그렇게 적어요. '타르시아 칸: 비어 있음'. 빈칸도 정보예요.
+CORRADO: Come la sedia vuota. ||| 빈 의자처럼요.
+CONCETTA: Il pesce, quando è vecchio, si capisce dagli occhi. La notizia, quando è vecchia, si capisce dalla data. Quella che non ha la data è come il pesce con gli occhi tolti. ||| 생선은 오래되면 눈을 보면 안다. 소식은 오래되면 날짜를 보면 알지. 날짜 없는 소식은 눈을 뽑은 생선 같은 거야.
+LEO: Nonna, hai appena fatto un'epistemologia in due frasi. ||| 할머니, 지금 두 문장으로 인식론을 하셨어요.
+CONCETTA: Non so che cosa sia. Ma mi piace come la dici. ||| 그게 뭔지는 모르지만 네가 말하는 게 좋구나.
+LEO: Papà, ho una domanda. Se uno mi dice una cosa che non posso verificare, perché dovrei crederci? ||| 아빠, 질문 있어요. 누가 제가 확인할 수 없는 걸 말하면, 왜 믿어야 하죠?
+CORRADO: Di solito non dovresti. Ma nella vita ci credi a mille cose che non hai verificato. ||| 보통은 믿지 말아야지. 하지만 살면서 확인 못 한 천 가지를 믿잖니.
+LEO: Hume dice proprio così. Nella «Ricerca sull'intelletto umano» scrive che la testimonianza vale quanto il carattere del testimone, il loro numero, e il modo in cui parlano. ||| 흄이 정확히 그렇게 말해요. 『인간 지성에 관한 탐구』에서 증언의 가치는 증인의 성품, 인원수, 말하는 방식에 달렸다고 해요.
+CORRADO: E aggiunge che vale meno se chi parla ha un interesse. ||| 그리고 말하는 사람에게 이해관계가 있으면 가치가 줄어든다고 덧붙이지.
+LEO: Appunto. Allora un'informazione con due testimoni che hanno interessi opposti vale più di una con un testimone solo? ||| 바로 그거예요. 그럼 이해관계가 반대인 증인 둘이 있는 정보가 증인 하나인 것보다 더 값져요?
+CORRADO: Più dei due messi insieme. Se due che si odiano dicono la stessa cosa, la cosa è sicura. ||| 둘을 합친 것보다 더 값지지. 서로 미워하는 두 사람이 같은 말을 하면 그건 확실한 거야.
+LEO: Quindi la colonna doppia di Mattia è un metodo, non solo un'idea simpatica. ||| 그러니까 마티아의 이중 칸은 귀여운 아이디어가 아니라 방법이네요.
+ERCOLE: Un metodo con due colonne. Mi piace. In ufficio, quando sbagliavo un protocollo, mi dicevano: «Aggiunga un secondo firmatario». ||| 칸이 둘인 방법이라. 좋구나. 사무실에서 내가 의전 서류를 틀리면 '서명인 하나 더 올리게'라고들 했지.
+CORRADO: Ercole, dobbiamo avere un nome per questo foglio. ||| 에르콜레 어르신, 이 종이에 이름이 하나 있어야겠어요.
+PEPPINO: «Avvisi del Mare di Mezzo». ||| '바다 한가운데의 아비시'.
+LUCIANA: Il numero uno. Con la data. Con l'ora. E il gesso. ||| 제1호요. 날짜랑 시각이랑 분필도요.
+CORRADO: Allora oggi alle sei, in due porti insieme. Mazara e Marsa Beida. ||| 그럼 오늘 6시에 두 항구에서 동시에요. 마차라와 마르사 베이다.
+ERCOLE: Con chi leggiamo? ||| 누가 읽지?
+CORRADO: A Mazara, Mangiaracina. A Marsa Beida, un uomo che ha una voce che porta. ||| 마차라에서는 만자라치나 선장이요. 마르사 베이다에서는 목소리가 멀리 가는 분이요.
+LEO: Hocine? ||| 호신 어른요?
+CORRADO: Hocine. ||| 호신 어른이죠.
++ la bacheca = 게시판. 클럽 입구에 붙이는 공지판으로 '아비시'의 발판이 된다
++ ci rimetteva la faccia = 체면을 잃었다. 'rimetterci la faccia'는 평판에 손해를 보는 관용구
++ la sogliola = 서대. 이탈리아 시장의 대표 생선의 하나. 어시장에서는 매일 칠판에 잡힌 날을 적었다
++ l'epistemologia = 인식론. 지식과 믿음의 근거를 다루는 철학. 레오가 할머니의 말에 붙인 이름이다
++ la Ricerca sull'intelletto umano = 『인간 지성에 관한 탐구』. 흄(1748)의 저서로 증언의 신뢰도를 따진 절이 있다
++ colonna doppia = 이중 칸. 이탈리아 증인과 타르시아 증인을 나란히 적는 아비시의 양식
++ aggiunga un secondo firmatario = 두 번째 서명인을 올리십시오. 'aggiunga'는 Lei에 대한 접속법 명령형(존대 명령)
+
+## 오후 6시, 두 항구의 낭독 — L'AVVISO NUMERO UNO
+MANGIARACINA: Siamo in diretta da Mazara, banchina del Mercato, e dal telefono di mio padre, che regge il microfono. Gaspare, tieni su! ||| 마차라 어시장 부두에서 생중계입니다. 마이크를 잡고 있는 건 아버지 전화기예요. 가스파레, 들고 있어요!
+GASPARE: Non mi tremano le mani. Mi trema il telefono. ||| 내 손이 떠는 게 아니다. 전화기가 떠는 거다.
+HOCINE: Qui Marsa Beida, caffè del Faro. Sono le diciotto. Sono con quaranta pescatori e il barista. Abbiamo il telefono di mia figlia, e io il binocolo. ||| 여기는 마르사 베이다, 등대 카페입니다. 18시입니다. 어부 마흔 명과 바리스타와 함께 있습니다. 딸의 전화기가 있고 저는 쌍안경이 있습니다.
+MANGIARACINA: Avviso numero uno. «Del Mare di Mezzo, diciotto giugno, ore diciotto». ||| 제1호 소식입니다. '바다 한가운데에서, 6월 18일, 18시.'
+HOCINE: Primo. Dove sta la nave grigia dell'Italia? Alle quattordici di oggi, l'«Alcione» era a sei miglia e nove decimi dall'isola. ||| 첫째. 이탈리아의 회색 배는 어디 있는가? 오늘 14시에 '알치오네'는 섬에서 6마일 9/10 지점에 있었습니다.
+MANGIARACINA: Testimoni, colonna italiana: il capitano Salvatore Mangiaracina, peschereccio «Santa Rosalia», radar acceso. Colonna tarsiana: il capitano Yassine Belkacem, peschereccio «Nour», radar acceso. ||| 증인, 이탈리아 칸. 어선 '산타 로살리아' 선장 살바토레 만자라치나, 레이더 가동. 타르시아 칸. 어선 '누르' 선장 야신 벨카셈, 레이더 가동.
+HOCINE: Yassine è mio nipote. Se ha scritto una bugia, lo schiaffeggio io. ||| 야신은 내 손자입니다. 거짓을 적었다면 내가 따귀를 때리겠소.
+MANGIARACINA: Secondo. Il «piano tricolore» di cui parla la televisione esisteva. Dodici marinai, due gommoni, sbarco previsto mercoledì dodici giugno. Fu ritirato il dieci giugno alle diciotto. ||| 둘째. 텔레비전이 말하는 '삼색기 작전'은 있었습니다. 해병 열둘, 고무보트 둘, 6월 12일 수요일 상륙 예정. 6월 10일 18시에 철회되었습니다.
+HOCINE: Chi lo dice? ||| 누가 말합니까?
+MANGIARACINA: Lo dice Corrado Lanza, dell'ufficio crisi del Ministero degli Esteri, a nome suo. E lo dicono i registri della sala operativa, che il capitano Larbi della «Tanit» può confrontare. ||| 외무부 위기대응국의 코라도 란차가 자기 이름으로 말합니다. 그리고 '타니트'의 라르비 함장이 대조해 볼 수 있는 작전실 기록이 말합니다.
+HOCINE: Un uomo che mette il proprio nome sotto la cosa che gli fa male. Non ne ho visti tanti. ||| 자기를 아프게 하는 일 밑에 제 이름을 적는 사람이라. 많이 보지 못했소.
+MANGIARACINA: Terzo. La clip che gira dalle sei di stamattina. Le immagini della nave sono del duemiladiciannove, dal porto di Taranto. La cartina è del millenovecentotrentasette. ||| 셋째. 오늘 아침 6시부터 도는 영상. 군함 화면은 2019년 타란토 항구의 것입니다. 지도는 1937년 것입니다.
+HOCINE: Testimoni? ||| 증인은?
+MANGIARACINA: Colonna italiana: l'analista Giulia Marchetti, che ha riconosciuto la gru. Colonna tarsiana: il tecnico del porto di Taranto non ce l'abbiamo. Colonna tarsiana: vuota. ||| 이탈리아 칸. 크레인을 알아본 분석관 조울리아 마르케티. 타르시아 칸. 타란토 항 기술자는 우리에게 없습니다. 타르시아 칸은 비어 있습니다.
+HOCINE: Una colonna vuota. Se qualcuno la vuole riempire, il caffè del Faro è aperto. ||| 빈 칸이라. 채우고 싶은 분이 있다면 등대 카페는 열려 있소.
+MANGIARACINA: Quarto. «Fonti vicine a». Due giornali italiani riportano parola per parola la stessa frase. Chi l'ha scritta per primo? Chi lo sa, lo dica. ||| 넷째. '가까운 소식통'. 이탈리아 일간지 둘이 한 단어씩 똑같은 문장을 싣고 있습니다. 누가 처음 썼습니까? 아는 분은 말해 주십시오.
+HOCINE: Il foglio resta qui sul banco fino a domani sera. Con il gesso. ||| 이 종이는 내일 저녁까지 이 탁자에 있겠소. 분필도 함께.
+MANGIARACINA: E a Mazara il foglio sta davanti alla chiesa di San Francesco, dove siamo abituati a metterci d'accordo. ||| 마차라에서는 종이를 산 프란체스코 성당 앞에 둡니다. 우리가 늘 의견을 맞추던 곳이지요.
+CORRADO: Saadi, hai sentito? ||| 사아디, 들었어?
+SAADI: Ho sentito, e sono in un punto stretto. La televisione di sera ha già detto che il ministero della Difesa «prende atto» dell'avviso numero uno. ||| 들었어. 그리고 난처한 자리에 있어. 저녁 방송이 이미 국방부가 제1호 소식을 '인지했다'고 했어.
+CORRADO: «Prende atto». È una formula morbida. ||| '인지했다'라. 부드러운 표현이군.
+SAADI: Per un ministero che stamattina urlava è una resa. Zerhouni ha dichiarato in consiglio alle nove, come aveva detto, e si è ritirato da Alba. L'edizione speciale non è passata da lui. ||| 오전에 소리치던 부처에게는 항복이야. 제르후니는 말한 대로 9시에 각료 회의에서 밝히고 알바 건에서 물러났어. 특별 방송은 그를 거치지 않았고.
+CORRADO: Quindi qualcuno ha spinto da fuori. Chi ha preparato il pacchetto? ||| 그러면 누군가 밖에서 밀어붙인 거로군. 누가 이 묶음을 만들었지?
+SAADI: Un'agenzia di Malta, con un nome di fiore. Ho chiesto il contratto. ||| 몰타의 대행사요, 꽃 이름이 붙은. 계약서를 요청했어.
+CORRADO: Ottimo. Quando lo hai, mettilo nella colonna tarsiana. ||| 좋아. 받으면 타르시아 칸에 넣어 줘.
+SAADI: Corrado, lo scrivo con il mio nome. Con la penna nera. ||| 코라도, 내 이름으로 적을게. 검은 펜으로.
+CORRADO: Allora siamo in due. ||| 그럼 우리가 둘이군.
++ avviso numero uno = 제1호 소식. 날짜·시각·증인을 갖춘 새 형식의 첫 호
++ del Mare di Mezzo = 바다 한가운데의. '아비시'의 표제어로, 지중해 '가운데 선'에서 따온 이름
++ colonna vuota = 빈 칸. 증인이 없다는 사실도 정보로 기록하는 방식
++ prendere atto = 인지하다, 공식적으로 접수하다. 부정도 긍정도 하지 않는 관청식 완곡어
++ a nome suo = 자기 이름으로. 7화의 'a nome mio'가 이어진다
++ lo schiaffeggio io = 내가 따귀를 때리겠소. 가족의 책임을 직접 지겠다는 노인 특유의 허세
++ un nome di fiore = 꽃 이름. 실체를 숨긴 대행사의 상호를 가리키는 표현
++ una formula morbida = 부드러운 표현. 어조를 낮춘 공식 문구
+
+## 밤, 위성 단말의 이니셜 — LE INIZIALI
+GIULIA: Corrado, ho una cosa. Non sono sicura che ti piaccia. ||| 코라도, 한 가지 알아냈어요. 마음에 드실지는 모르겠어요.
+CORRADO: Dimmi. Piano, un livello alla volta. ||| 말해 봐요. 천천히, 한 겹씩.
+GIULIA: I due avvisi della notte di sabato, quelli identici, sono partiti da un satellitare. Non da un telefono qualsiasi. Da un terminale marittimo registrato. ||| 토요일 밤의 두 경보, 똑같은 그 둘은 위성 단말에서 나갔어요. 아무 전화기가 아니라 등록된 선박 단말이에요.
+CORRADO: Registrato a chi? ||| 누구 명의로요?
+GIULIA: Al Comando della Flotta. Al sistema di comunicazione di bordo dell'«Alcione». Ma l'accesso è con una credenziale personale. ||| 함대 사령부 명의예요. '알치오네'의 함내 통신 체계요. 그런데 접속은 개인 인증으로 했어요.
+CORRADO: Di chi? ||| 누구 거죠?
+GIULIA: Iniziali «F.D.». È tutto quello che ho visto. L'ufficio che gestisce il sistema mi ha risposto: «Non siamo autorizzati». ||| 이니셜 'F.D.'예요. 제가 본 건 그게 전부예요. 시스템을 관리하는 부서는 '권한이 없다'고 답했고요.
+CORRADO: F.D. Non Corvi. ||| F.D.요. 코르비가 아니군요.
+GIULIA: No. Corvi è R.C. ||| 아니에요. 코르비는 R.C.예요.
+CORRADO: Giulia, l'ammiraglio ha un aiutante di bandiera? ||| 줄리아, 제독에게 기함 부관이 있죠?
+GIULIA: Sì. Un capitano di fregata. Fabrizio Dessì. ||| 네. 대령급인 프리깃 함장이에요. 파브리치오 데시요.
+CORRADO: Non lo dico a nessuno stasera. Domani mattina, alle otto, voglio la lista di tutti i messaggi partiti con quella credenziale, con orario. ||| 오늘 밤은 아무에게도 말하지 않겠어요. 내일 아침 8시에 그 인증으로 나간 모든 메시지 목록을 시각과 함께 원해요.
+GIULIA: Orario di invio? ||| 발송 시각 말이죠?
+CORRADO: Quello soprattutto. Il tempo è l'unica cosa che non ha la lingua per mentire. ||| 그게 제일 중요해요. 시간은 거짓말할 혀가 없는 유일한 것이니까요.
+GIULIA: Corrado, una cosa. Se è Dessì, Corvi lo sa? ||| 코라도, 한 가지요. 데시라면 코르비는 알고 있을까요?
+CORRADO: Non lo so. Non lo accuso, non lo difendo. Lo misuro. ||| 모르겠어요. 비난하지도 변호하지도 않고 잽니다.
+GIULIA: Mi hai ripetuto la frase di Leo. ||| 레오의 말을 그대로 따라 하시네요.
+CORRADO: Ho imparato più da lui in un anno che da trenta in questo palazzo. A tavola, domani. ||| 이 청사에서 삼십 년보다 레오에게 일 년 동안 더 배웠어요. 내일 식탁에서요.
++ i due avvisi identici = 똑같은 두 경보. 6화의 '거울 경보'를 가리킨다
++ un terminale marittimo = 선박 단말. 선박 위성통신 장비로 개인 인증과 함께 등록된다
++ una credenziale personale = 개인 인증 정보. 'credenziale'는 로그인 권한을 뜻하는 IT 용어
++ F.D. = 이니셜. 9화에서 기함 부관 파브리치오 데시로 밝혀진다
++ il capitano di fregata = 프리깃 함장 계급. 이탈리아 해군 대령급
++ non lo accuso, non lo difendo, lo misuro = 비난하지도 변호하지도 않고 잰다. '먼저 재고 그다음에 토론한다'의 변주
++ un livello alla volta = 한 겹씩. 시리즈 장치로 성급한 결론을 미루는 말
