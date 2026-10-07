@@ -1,0 +1,60 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 4
+@title Il cappellano
+@ko 군종 사제
+@setting 목요일 오전 프라스카티 돈 리비오의 포도밭 → 정원의 점심 → 오후 파르네시나 문서 검색실 → 저녁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast DON LIVIO | 퇴역 군종 사제, 79세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast MADRE COSTANZA | 자비의 수녀회 총장 수녀, 74세 (전화)
+@note 4화는 비밀 폭로의 화입니다. 퇴역 군종 사제 돈 리비오는 3년 전 선교사 석방 때 몸값에 해당하는 돈의 출처를 압니다. 하지만 일부는 고해 중에 들은 것입니다. 해법의 순간은 '들은 것(고해)'과 '한 일·본 것(증언 가능)'을 구분하는 윤리입니다. 역사·법 논거는 교회법과 국가법 사이의 증언 거부권입니다. 이탈리아 형사소송법 제200조는 성직자가 직무상 알게 된 사실에 대해 증언을 강요받지 않는다고 정합니다. 어휘는 법·윤리(segreto confessionale, testimoniare, sigillo, coscienza, fondazione)에 주목하세요.
+@next 5화: UN·적십자·EU가 모이는 로마 회의에서 인도주의 회랑 협정 초안을 놓고 다자 협상이 벌어집니다.
+
+## 프라스카티의 포도밭 — LA VIGNA DI DON LIVIO
+DON LIVIO: Dottor Lanza! Venga, venga. Non guardi la casa, guardi le viti. La casa è del Seicento, le viti sono più vecchie. ||| 란차 박사! 이리 와요. 집 말고 포도나무를 봐요. 집은 17세기 거지만 포도나무가 더 오래됐죠.
+CORRADO: Don Livio, grazie per avermi ricevuto. ||| 돈 리비오, 맞아 주셔서 감사합니다.
+DON LIVIO: Mi ha telefonato Ettore. Mi ha detto: «Prendi quel ragazzo e dagli del vino». Ho settantanove anni, e nessuno mi chiama più «ragazzo». ||| 에토레가 전화했어요. '그 젊은이를 데려다 포도주를 줘라'고요. 나는 일흔아홉인데 이제 아무도 날 '젊은이'라 안 부르죠.
+CORRADO: Lei è stato cappellano militare. ||| 군종 사제로 계셨죠.
+DON LIVIO: Trentacinque anni. Kosovo, Libano, Afghanistan, poi Mandà, due missioni. Ho confessato ragazzi di diciannove anni la sera prima di una pattuglia. ||| 35년이에요. 코소보, 레바논, 아프가니스탄, 그다음 만다에서 두 차례 임무. 순찰 나가기 전날 밤 열아홉 살 아이들의 고해를 들었죠.
+CORRADO: Capisco che pesi. ||| 무거우셨겠습니다.
+DON LIVIO: Non pesa il confessare. Pesa il sapere. Il confessore sa e non può dire. È un mestiere di pietra. ||| 고해를 듣는 게 무거운 게 아니에요. 아는 게 무겁죠. 고해 사제는 알면서 말할 수 없어요. 돌의 일이죠.
+CORRADO: Ettore mi ha detto che lei sa di dove viene un denaro. ||| 에토레가 돈이 어디서 나왔는지 아신다고 하더군요.
+DON LIVIO: Sì. E non lo so tutto allo stesso modo. ||| 네. 그런데 전부 같은 방식으로 아는 게 아닙니다.
+CORRADO: Che cosa vuol dire? ||| 무슨 뜻입니까?
+DON LIVIO: Mi lasci spiegare. Siediti qui, all'ombra. Mangiamo una cosa. ||| 설명할게요. 이 그늘에 앉아요. 뭘 좀 먹읍시다.
+CORRADO: Volentieri. ||| 기꺼이요.
+DON LIVIO: Pane, pecorino e olive. E il vino di questa vigna, che è un Frascati, ma non lo dica a nessuno: è troppo buono per essere venduto. ||| 빵, 페코리노, 올리브. 그리고 이 밭의 포도주는 프라스카티지만 아무에게도 말하지 마요. 팔기엔 너무 좋거든요.
+CORRADO: Parola. ||| 약속합니다.
+DON LIVIO: Tre anni fa. Due missionari rapiti a Ndolo. Un padre e un fratello laico. Il governo italiano dice: non si paga. E per una settimana tutto tace. ||| 3년 전이에요. 놀로에서 선교사 둘이 납치됐죠. 신부 한 분과 평수사 한 분. 이탈리아 정부는 지급하지 않는다고 했고 일주일간 모든 게 조용했어요.
+CORRADO: E poi li liberano. ||| 그리고 풀려났죠.
+DON LIVIO: E poi li liberano. «Senza pagamento». ||| 그리고 풀려났죠. '지급 없이'.
+CORRADO: E invece? ||| 그런데 실은요?
+DON LIVIO: E invece qualcosa è passato. Non denaro in contanti, come si pensa. Un container. ||| 실은 뭔가 건너갔어요. 흔히 생각하듯 현금이 아니라 컨테이너였죠.
+CORRADO: Un container. ||| 컨테이너요.
+DON LIVIO: Con attrezzature mediche usate. Una sala operatoria smontata, tre letti, un generatore. Spedito da Civitavecchia a nome di una fondazione. ||| 중고 의료 장비가 들어 있었어요. 분해된 수술실, 침대 셋, 발전기. 치비타베키아에서 한 재단 이름으로 발송됐죠.
+CORRADO: Quale fondazione? ||| 어느 재단이죠?
+DON LIVIO: Eccoci. Qui comincia la distinzione. ||| 자, 여기서 구분이 시작돼요.
+CORRADO: Quale distinzione? ||| 어떤 구분입니까?
+DON LIVIO: C'è quello che ho sentito dire in confessione. E c'è quello che ho visto con i miei occhi. ||| 고해 중에 들은 것이 있고, 제 눈으로 본 것이 있어요.
+CORRADO: E sono due cose diverse. ||| 서로 다른 둘이군요.
+DON LIVIO: Sono due cose diversissime. Quello che ho sentito in confessione, non lo dirò mai. A nessuno. Neanche se mi mettono al muro. ||| 아주 다른 둘이에요. 고해에서 들은 건 절대 말하지 않아요. 누구에게도요. 벽에 세워도.
+CORRADO: Lo rispetto. ||| 존중합니다.
+DON LIVIO: Quello che ho visto: il container, le casse, i timbri, la bolla di spedizione. Le ho viste mentre aiutavo a caricare. E quello, se serve, posso dirlo. ||| 본 것은 컨테이너, 상자, 도장, 선하증권이에요. 짐 싣는 걸 도우며 봤죠. 그건 필요하면 말할 수 있습니다.
+CORRADO: Perché il sigillo copre ciò che si dice in confessione, non ciò che il sacerdote vede. ||| 봉인은 고해에서 말해진 것을 덮는 것이고 사제가 본 것은 덮지 않으니까요.
+DON LIVIO: Esattamente. Il sigillo protegge il peccatore. Non il peccato. ||| 정확해요. 봉인은 죄인을 보호하지 죄를 보호하지 않아요.
+CORRADO: È una frase molto bella. ||| 아주 아름다운 문장입니다.
+DON LIVIO: L'ha detta il mio maestro di diritto canonico, nel sessantasette. Io l'ho fatta mia. ||| 1967년 교회법 스승이 하신 말이에요. 제가 제 것으로 만들었죠.
++ cappellano militare = 군종 사제
++ pecorino = 양젖 치즈
++ pesare = 무겁게 느껴지다
++ confessare = 고해를 듣다, 고백하다
++ container = 컨테이너
++ bolla di spedizione = 발송 증서, 선하증권
++ sigillo = (고해의) 봉인
++ mettere al muro = 총살하려 벽에 세우다(비유: 협박해도)
++ diritto canonico = 교회법
