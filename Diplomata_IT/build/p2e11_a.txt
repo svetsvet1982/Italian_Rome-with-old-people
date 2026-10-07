@@ -1,0 +1,69 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 11
+@title Il riscatto
+@ko 몸값
+@setting 수요일 오전 놀로 병원 예배당 → 정오 재단 이사회 서한 → 오후 '놀로 협정' 문안 작성 → 저녁 서면 보고
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast SUOR BENEDETTA | 석방을 앞둔 수녀 원장, 62세
+@cast IDRISSA | 납치 청년들의 우두머리, 19세
+@cast FAVRE | 적십자국제위원회 의사 대표, 64세
+@cast ABDOULAYE | 놀로 마을 중재인, 60세
+@cast SISSOKO | 만다 공화국 보건장관, 60세 (위성 전화)
+@cast SERENI | 성 마르티노 재단 회계 담당(서한), 56세
+@cast GIULIA | 분석관, 31세 (위성 전화)
+@note 11화는 몸값 대신 병원 건립 협정으로 방식을 바꾸는 화입니다. 인질 다섯 명이 예배당으로 옮겨져 마을의 손님이 되고, 재단 이사회가 공개 장부를 받아들이며, 놀로 사람들이 직접 협정문을 씁니다. 역사 논거는 트렌토 공의회(1545~1563): 개혁 합의를 공개 칙령으로 만들고, 세례·혼인 장부(교구 기록부)를 의무화해 '기록'을 제도로 만든 사례입니다. 어휘는 협정·제도(accordo, registro, garanzia, donazione, ricevuta)에 주목하세요.
+@next 12화(2부 완결): 인질 귀환, 벨란디의 명예로운 퇴장, 란차가 정보 공급자에게 빚을 갚습니다. 스폰다 파이낸스 뒤의 이름이 하나 드러납니다.
+
+## 예배당의 아침 — LA CAPPELLA DI MATTINA
+CORRADO: Suor Benedetta. ||| 베네데타 수녀님.
+SUOR BENEDETTA: Dottor Lanza. Finalmente la vedo. È più alto che al telefono. ||| 란차 박사님. 드디어 뵙네요. 전화보다 키가 크시네요.
+CORRADO: E lei più viva di come mi aspettavo. ||| 수녀님은 제가 생각한 것보다 훨씬 생기 있으세요.
+SUOR BENEDETTA: Ho dormito in cappella, sotto una coperta rossa. Sono stata benissimo. ||| 예배당에서 빨간 담요를 덮고 잤어요. 아주 편했어요.
+FAVRE: Sono stati tutti visitati. La febbre di suor Benedetta è scesa. Chiara ha una tosse leggera. Fabbri, Serra e la signorina Ferrante sono in buone condizioni. ||| 전원 진찰했습니다. 베네데타 수녀의 열은 내렸어요. 키아라는 가벼운 기침이 있습니다. 파브리, 세라, 페란테 양은 상태가 좋습니다.
+CORRADO: Siete qui da ieri sera. ||| 어제 저녁부터 여기 계셨군요.
+SUOR BENEDETTA: Dalle sette. I ragazzi hanno lasciato le armi alla porta, in una cassa. Una cassa di legno, con un lucchetto. Il lucchetto l'ha chiuso Abdoulaye. La chiave la tiene il dottor Favre. ||| 7시부터요. 아이들이 문 앞 상자에 무기를 두고 왔어요. 나무 상자에 자물쇠를 채웠고, 자물쇠는 압둘라예가 잠갔고 열쇠는 파브르 박사가 갖고 있어요.
+CORRADO: Due chiavi. ||| 열쇠가 둘이군요.
+SUOR BENEDETTA: Le chiavi sono sempre due. Lo ha detto lei. ||| 열쇠는 늘 둘이죠. 박사님이 말씀하셨잖아요.
+CORRADO: Io l'ho imparato da un ambasciatore. ||| 저는 어떤 대사님께 배웠습니다.
+SUOR BENEDETTA: E la porta della clinica? ||| 병원 문은요?
+CORRADO: Aperta. Dal martedì. ||| 열려 있습니다. 화요일부터요.
+SUOR BENEDETTA: Ho sentito. Ho scritto una riga nel registro. Anche Idrissa ha scritto. ||| 들었어요. 장부에 한 줄 썼어요. 이드리사도 썼고요.
+CORRADO: «Ora è aperta». ||| '이제 열려 있다'.
+SUOR BENEDETTA: «Ora è aperta». Dottore, lei capisce perché mi è venuto da piangere? ||| '이제 열려 있다'. 박사님, 제가 왜 울고 싶었는지 아세요?
+CORRADO: Perché è una frase che si scrive una volta sola. ||| 평생 한 번밖에 쓰지 못하는 문장이라서요.
+SUOR BENEDETTA: Esatto. ||| 맞아요.
+IDRISSA: Suora. ||| 수녀님.
+SUOR BENEDETTA: Idrissa. Vieni. ||| 이드리사. 이리 오렴.
+IDRISSA: Non voglio disturbare. ||| 방해하고 싶지 않아요.
+SUOR BENEDETTA: Non disturbi. Siediti. Il dottor Lanza e io parliamo di te. ||| 방해 아니야. 앉아라. 란차 박사님과 나는 네 이야기를 하고 있어.
+IDRISSA: Di me? ||| 저요?
+CORRADO: Di quello che accade adesso. ||| 지금부터 일어날 일에 대해서요.
+IDRISSA: Ho deciso. ||| 결정했습니다.
+CORRADO: Mi dica. ||| 말씀하세요.
+IDRISSA: Resto in cappella. Ma non da carceriere. Da guardiano. La cassa con le armi la porto al fiume. ||| 예배당에 남겠습니다. 하지만 간수가 아니라 문지기로요. 무기 상자는 제가 강으로 가져가겠습니다.
+CORRADO: Al fiume? ||| 강으로요?
+IDRISSA: Al fiume. Dove la vecchia nave arenata. Il ferro nel fiume arrugginisce. ||| 강으로요. 낡은 배가 좌초해 있는 곳. 강에 담근 쇠는 녹슬어요.
+SUOR BENEDETTA: Idrissa. ||| 이드리사.
+IDRISSA: Non voglio più sentire il peso. ||| 더는 그 무게를 느끼고 싶지 않아요.
+CORRADO: E gli altri ragazzi? ||| 다른 청년들은요?
+IDRISSA: Sono sette. Cinque sono d'accordo con me. Due no. ||| 일곱 명입니다. 다섯은 저와 같은 생각이고 둘은 아닙니다.
+CORRADO: E i due? ||| 둘은요?
+IDRISSA: Verranno quando vedranno la clinica illuminata di notte. ||| 밤에 불 켜진 병원을 보면 올 겁니다.
+FAVRE: Ci penso io, alla luce. Ho portato un generatore piccolo. ||| 불은 제가 맡겠습니다. 소형 발전기를 가져왔어요.
+IDRISSA: Un generatore. ||| 발전기요.
+FAVRE: Piccolo. Ma abbastanza per otto lampadine. ||| 작지만 전구 여덟 개는 켜질 정도입니다.
+IDRISSA: Otto lampadine. ||| 전구 여덟 개.
+FAVRE: Otto. Una per ciascuno dei cinque, una per te, una per Abdoulaye, e una per il bambino. ||| 여덟 개요. 다섯 사람에게 하나씩, 당신에게 하나, 압둘라예에게 하나, 그리고 아이에게 하나.
+IDRISSA: Per Amadou. ||| 아마두에게요.
+FAVRE: Sì. ||| 네.
++ coperta rossa = 빨간 담요
++ lucchetto = 자물쇠
++ carceriere = 간수
++ guardiano = 문지기, 지키는 사람
++ arrugginire = 녹슬다
++ nave arenata = 좌초한 배
++ generatore = 발전기
++ lampadina = 전구

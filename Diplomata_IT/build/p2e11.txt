@@ -1,0 +1,188 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 11
+@title Il riscatto
+@ko 몸값
+@setting 수요일 오전 놀로 병원 예배당 → 정오 재단 이사회 서한 → 오후 '놀로 협정' 문안 작성 → 저녁 서면 보고
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast SUOR BENEDETTA | 석방을 앞둔 수녀 원장, 62세
+@cast IDRISSA | 납치 청년들의 우두머리, 19세
+@cast FAVRE | 적십자국제위원회 의사 대표, 64세
+@cast ABDOULAYE | 놀로 마을 중재인, 60세
+@cast SISSOKO | 만다 공화국 보건장관, 60세 (위성 전화)
+@cast SERENI | 성 마르티노 재단 회계 담당(서한), 56세
+@cast GIULIA | 분석관, 31세 (위성 전화)
+@note 11화는 몸값 대신 병원 건립 협정으로 방식을 바꾸는 화입니다. 인질 다섯 명이 예배당으로 옮겨져 마을의 손님이 되고, 재단 이사회가 공개 장부를 받아들이며, 놀로 사람들이 직접 협정문을 씁니다. 역사 논거는 트렌토 공의회(1545~1563): 개혁 합의를 공개 칙령으로 만들고, 세례·혼인 장부(교구 기록부)를 의무화해 '기록'을 제도로 만든 사례입니다. 어휘는 협정·제도(accordo, registro, garanzia, donazione, ricevuta)에 주목하세요.
+@next 12화(2부 완결): 인질 귀환, 벨란디의 명예로운 퇴장, 란차가 정보 공급자에게 빚을 갚습니다. 스폰다 파이낸스 뒤의 이름이 하나 드러납니다.
+
+## 예배당의 아침 — LA CAPPELLA DI MATTINA
+CORRADO: Suor Benedetta. ||| 베네데타 수녀님.
+SUOR BENEDETTA: Dottor Lanza. Finalmente la vedo. È più alto che al telefono. ||| 란차 박사님. 드디어 뵙네요. 전화보다 키가 크시네요.
+CORRADO: E lei più viva di come mi aspettavo. ||| 수녀님은 제가 생각한 것보다 훨씬 생기 있으세요.
+SUOR BENEDETTA: Ho dormito in cappella, sotto una coperta rossa. Sono stata benissimo. ||| 예배당에서 빨간 담요를 덮고 잤어요. 아주 편했어요.
+FAVRE: Sono stati tutti visitati. La febbre di suor Benedetta è scesa. Chiara ha una tosse leggera. Fabbri, Serra e la signorina Ferrante sono in buone condizioni. ||| 전원 진찰했습니다. 베네데타 수녀의 열은 내렸어요. 키아라는 가벼운 기침이 있습니다. 파브리, 세라, 페란테 양은 상태가 좋습니다.
+CORRADO: Siete qui da ieri sera. ||| 어제 저녁부터 여기 계셨군요.
+SUOR BENEDETTA: Dalle sette. I ragazzi hanno lasciato le armi alla porta, in una cassa. Una cassa di legno, con un lucchetto. Il lucchetto l'ha chiuso Abdoulaye. La chiave la tiene il dottor Favre. ||| 7시부터요. 아이들이 문 앞 상자에 무기를 두고 왔어요. 나무 상자에 자물쇠를 채웠고, 자물쇠는 압둘라예가 잠갔고 열쇠는 파브르 박사가 갖고 있어요.
+CORRADO: Due chiavi. ||| 열쇠가 둘이군요.
+SUOR BENEDETTA: Le chiavi sono sempre due. Lo ha detto lei. ||| 열쇠는 늘 둘이죠. 박사님이 말씀하셨잖아요.
+CORRADO: Io l'ho imparato da un ambasciatore. ||| 저는 어떤 대사님께 배웠습니다.
+SUOR BENEDETTA: E la porta della clinica? ||| 병원 문은요?
+CORRADO: Aperta. Dal martedì. ||| 열려 있습니다. 화요일부터요.
+SUOR BENEDETTA: Ho sentito. Ho scritto una riga nel registro. Anche Idrissa ha scritto. ||| 들었어요. 장부에 한 줄 썼어요. 이드리사도 썼고요.
+CORRADO: «Ora è aperta». ||| '이제 열려 있다'.
+SUOR BENEDETTA: «Ora è aperta». Dottore, lei capisce perché mi è venuto da piangere? ||| '이제 열려 있다'. 박사님, 제가 왜 울고 싶었는지 아세요?
+CORRADO: Perché è una frase che si scrive una volta sola. ||| 평생 한 번밖에 쓰지 못하는 문장이라서요.
+SUOR BENEDETTA: Esatto. ||| 맞아요.
+IDRISSA: Suora. ||| 수녀님.
+SUOR BENEDETTA: Idrissa. Vieni. ||| 이드리사. 이리 오렴.
+IDRISSA: Non voglio disturbare. ||| 방해하고 싶지 않아요.
+SUOR BENEDETTA: Non disturbi. Siediti. Il dottor Lanza e io parliamo di te. ||| 방해 아니야. 앉아라. 란차 박사님과 나는 네 이야기를 하고 있어.
+IDRISSA: Di me? ||| 저요?
+CORRADO: Di quello che accade adesso. ||| 지금부터 일어날 일에 대해서요.
+IDRISSA: Ho deciso. ||| 결정했습니다.
+CORRADO: Mi dica. ||| 말씀하세요.
+IDRISSA: Resto in cappella. Ma non da carceriere. Da guardiano. La cassa con le armi la porto al fiume. ||| 예배당에 남겠습니다. 하지만 간수가 아니라 문지기로요. 무기 상자는 제가 강으로 가져가겠습니다.
+CORRADO: Al fiume? ||| 강으로요?
+IDRISSA: Al fiume. Dove la vecchia nave arenata. Il ferro nel fiume arrugginisce. ||| 강으로요. 낡은 배가 좌초해 있는 곳. 강에 담근 쇠는 녹슬어요.
+SUOR BENEDETTA: Idrissa. ||| 이드리사.
+IDRISSA: Non voglio più sentire il peso. ||| 더는 그 무게를 느끼고 싶지 않아요.
+CORRADO: E gli altri ragazzi? ||| 다른 청년들은요?
+IDRISSA: Sono sette. Cinque sono d'accordo con me. Due no. ||| 일곱 명입니다. 다섯은 저와 같은 생각이고 둘은 아닙니다.
+CORRADO: E i due? ||| 둘은요?
+IDRISSA: Verranno quando vedranno la clinica illuminata di notte. ||| 밤에 불 켜진 병원을 보면 올 겁니다.
+FAVRE: Ci penso io, alla luce. Ho portato un generatore piccolo. ||| 불은 제가 맡겠습니다. 소형 발전기를 가져왔어요.
+IDRISSA: Un generatore. ||| 발전기요.
+FAVRE: Piccolo. Ma abbastanza per otto lampadine. ||| 작지만 전구 여덟 개는 켜질 정도입니다.
+IDRISSA: Otto lampadine. ||| 전구 여덟 개.
+FAVRE: Otto. Una per ciascuno dei cinque, una per te, una per Abdoulaye, e una per il bambino. ||| 여덟 개요. 다섯 사람에게 하나씩, 당신에게 하나, 압둘라예에게 하나, 그리고 아이에게 하나.
+IDRISSA: Per Amadou. ||| 아마두에게요.
+FAVRE: Sì. ||| 네.
++ coperta rossa = 빨간 담요
++ lucchetto = 자물쇠
++ carceriere = 간수
++ guardiano = 문지기, 지키는 사람
++ arrugginire = 녹슬다
++ nave arenata = 좌초한 배
++ generatore = 발전기
++ lampadina = 전구
+
+## 재단의 서한 — LA LETTERA DELLA FONDAZIONE
+GIULIA: Corrado, è arrivata la risposta del consiglio della fondazione. Per posta elettronica certificata. ||| 코라도, 재단 이사회의 답이 왔어요. 인증 전자우편으로요.
+CORRADO: Leggimela. ||| 읽어 줘요.
+GIULIA: «Spettabile Ministero. In risposta alla vostra del 9, il consiglio della Fondazione San Martino di Tours, riunito il 12, delibera quanto segue». ||| "외무부 귀중. 9일자 귀하의 서한에 대한 답으로, 12일 소집된 성 마르티노 재단 이사회는 다음과 같이 의결한다."
+CORRADO: «Delibera». ||| '의결한다'.
+GIULIA: «Uno: la fondazione accetta che ogni contributo sanitario a Ndolo sia registrato in un registro pubblico, con nome del donatore, data e contenuto». ||| "하나, 재단은 놀로에 대한 모든 보건 기여를 기증자 이름, 날짜, 내용과 함께 공개 장부에 기록하는 데 동의한다."
+CORRADO: Ha accettato. ||| 받아들였군요.
+GIULIA: «Due: il container numero quattro-sei-tre è stato trattenuto al porto di Genova, e viene restituito al magazzino della fondazione. Il suo contenuto potrà essere inviato soltanto dopo l'iscrizione nel registro». ||| "둘, 463번 컨테이너는 제노바 항에서 유치되었고 재단 창고로 반환된다. 내용물은 장부 등재 후에만 발송할 수 있다."
+CORRADO: E i centoventimila euro? ||| 12만 유로는요?
+GIULIA: «Tre: la somma di euro centoventimila, trasferita il quattro alla società Fleuve Express di Bamarè, è stata restituita ieri. Iscritta come “restituzione” in apertura del registro». ||| "셋, 4일 바마레의 플뢰브 익스프레스에 이체된 12만 유로는 어제 반환되었다. 장부 첫머리에 '반환'으로 기재한다."
+CORRADO: Restituita. Come? ||| 반환됐다고요. 어떻게요?
+GIULIA: Un bonifico. Dalla società di Bamarè alla fondazione. Con la causale «storno». ||| 계좌이체예요. 바마레 회사에서 재단으로, 명목은 '취소'로요.
+CORRADO: E questo lo possiamo dire? ||| 그걸 말해도 됩니까?
+GIULIA: Sì. La lettera è del consiglio. È pubblica. ||| 네. 이사회 서한이고 공개된 거예요.
+CORRADO: Giulia. ||| 조울리아.
+GIULIA: Sì? ||| 네?
+CORRADO: Abbiamo vinto una cosa. ||| 우리가 하나 이겼어요.
+GIULIA: Non so se si dice «vinto». ||| '이겼다'는 표현이 맞는지 모르겠어요.
+CORRADO: Hai ragione. Si dice «aperto». ||| 맞아요. '열었다'고 해야죠.
+GIULIA: Aperto un registro. ||| 장부 하나를 열었네요.
+CORRADO: Aperto un registro. ||| 장부 하나를 열었습니다.
+GIULIA: Poi c'è un'ultima riga. Vuoi che la legga? ||| 마지막 한 줄이 있어요. 읽어 드릴까요?
+CORRADO: Leggi. ||| 읽어요.
+GIULIA: «Quattro: il consiglio riconosce che il dottor Aldo Sereni ha agito con eccesso di zelo e ne ha accolto le dimissioni dall'incarico di tesoriere». ||| "넷, 이사회는 알도 세레니 박사가 과잉 열의로 행동했음을 인정하고 회계 담당직 사임을 수리했다."
+CORRADO: Hanno sacrificato Sereni. ||| 세레니를 희생시켰군요.
+GIULIA: Sì. ||| 네.
+CORRADO: Quindi qualcuno, a Lussemburgo, ha paura. ||| 그러니까 룩셈부르크의 누군가가 겁을 먹었다는 거죠.
+GIULIA: Di che cosa? ||| 무엇에 대해서요?
+CORRADO: Di quello che c'è dietro il registro. ||| 장부 뒤에 있는 것에 대해서요.
+
+## 놀로 협정의 문안 — IL TESTO DELL'ACCORDO
+ABDOULAYE: Allora scriviamo. Dove scriviamo? ||| 그럼 씁시다. 어디서 쓰죠?
+CORRADO: Sul registro. Dove si è scritto «Porta chiusa». ||| 장부에요. '문 닫힘'이라고 쓰인 곳에요.
+ABDOULAYE: Dopo «Ora è aperta». ||| '이제 열려 있다' 다음에요.
+CORRADO: Sì. ||| 네.
+SUOR BENEDETTA: Dottor Lanza, posso fare una proposta sul titolo? ||| 란차 박사님, 제목에 관해 제안해도 될까요?
+CORRADO: Prego. ||| 하세요.
+SUOR BENEDETTA: Non «accordo». Neanche «trattato». Qui diremo: «Patto della porta». ||| '합의'나 '조약'이 아니라 '문의 약속'이라고 부르죠.
+CORRADO: «Patto della porta». ||| '문의 약속'.
+IDRISSA: In mandano si dice «Dugu-sira kan». La promessa della strada. ||| 만다어로는 '두구시라 칸'입니다. 길의 약속이요.
+CORRADO: Due nomi, ancora. ||| 이름이 또 둘이군요.
+SISSOKO: Dottor Lanza? Sono Sissoko. Mi sentite? ||| 란차 박사? 시소코입니다. 들립니까?
+CORRADO: Benissimo, ministro. ||| 아주 잘 들립니다, 장관님.
+SISSOKO: Dica a tutti che il governo del Mandà ha una proposta. ||| 모두에게 만다 정부에게 제안이 있다고 전해 주세요.
+CORRADO: Siamo tutti in ascolto. ||| 모두 듣고 있습니다.
+SISSOKO: Primo. Il governo costruirà nel distretto un ospedale statale, entro due anni. Il progetto è pubblico. ||| 첫째, 정부는 2년 안에 지구에 국립 병원을 짓습니다. 설계는 공개입니다.
+ABDOULAYE: Due anni. ||| 2년이요.
+SISSOKO: Due anni. Con la clinica di Santa Rita che resta aperta, giorno e notte, nel frattempo. ||| 2년입니다. 그동안 산타 리타 병원은 밤낮으로 열려 있고요.
+FAVRE: Con la Croce Rossa. ||| 적십자와 함께요.
+SISSOKO: Con la Croce Rossa. Secondo. Per i sette ragazzi che depongono le armi entro sette giorni, davanti al comitato del villaggio, sospendiamo l'azione penale. ||| 둘째, 7일 안에 마을 위원회 앞에서 무기를 내려놓는 일곱 청년에 대해서는 형사 절차를 유예합니다.
+IDRISSA: Sospendete? ||| 유예요?
+SISSOKO: Non è un'amnistia. È una sospensione, condizionata alla garanzia del comitato. Il comitato risponde di loro. ||| 사면이 아닙니다. 위원회의 보증을 조건으로 하는 유예예요. 위원회가 그들을 책임집니다.
+ABDOULAYE: Il comitato risponde. ||| 위원회가 책임진다.
+SISSOKO: Terzo. Nessun pagamento in denaro a nessuno. Né dall'Italia, né dalla fondazione. Soltanto materiali, registrati. ||| 셋째, 누구에게도 현금 지급은 없습니다. 이탈리아도 재단도요. 장비와 자재만, 기록하고요.
+CORRADO: Perfetto. Ministro, siamo d'accordo. ||| 완벽합니다. 장관님, 동의합니다.
+SISSOKO: Un'ultima cosa. Dottor Lanza, io rispondo a un presidente, e il presidente a un'opinione pubblica. Voglio che il testo porti la mia firma. Non quella di un ministro anonimo. ||| 마지막으로, 란차 박사. 저는 대통령에게, 대통령은 여론에 책임집니다. 텍스트에 익명의 장관이 아니라 제 서명이 들어가길 바랍니다.
+CORRADO: Sarà un onore. ||| 영광이겠습니다.
+SISSOKO: Moussa. ||| 무사로요.
+CORRADO: Moussa Sissoko. ||| 무사 시소코.
+IDRISSA: Il ministro è «il piccolo Moussa»? ||| 장관님이 '꼬마 무사'라고요?
+ABDOULAYE: Sì. Quello che mi rubava le noci. ||| 네. 내 호두를 훔쳐 먹던 아이야.
+SISSOKO: Abdoulaye! ||| 압둘라예!
+ABDOULAYE: Il registro lo permette. ||| 장부가 허용하는 이야기지.
++ posta elettronica certificata = 인증 전자우편(PEC)
++ deliberare = 의결하다
++ bonifico = 계좌이체
++ causale = (이체의) 명목
++ storno = 취소, 정정 이체
++ eccesso di zelo = 과잉 열의
++ sospendere l'azione penale = 형사 절차를 유예하다
++ amnistia = 사면
++ garanzia = 보증
++ Patto della porta = 문의 약속(Dugu-sira kan: 길의 약속)
+
+## 트렌토의 교훈 — LA LEZIONE DI TRENTO
+FAVRE: Dottor Lanza, mi permette un'osservazione? ||| 란차 박사, 한 가지 말씀드려도 될까요?
+CORRADO: Certo. ||| 물론이죠.
+FAVRE: Ho letto il testo. Funziona. Ma c'è un punto che mi preoccupa. Chi tiene il registro tra cinque anni? ||| 문안을 읽었습니다. 잘 작동할 겁니다. 하지만 걱정되는 점이 있어요. 5년 뒤 장부는 누가 갖고 있을까요?
+CORRADO: Un buon problema. ||| 좋은 문제군요.
+FAVRE: Perché i registri si perdono. Soprattutto in un villaggio, con il fiume, con l'umidità. ||| 장부는 사라지기 마련이니까요. 특히 강과 습기가 있는 마을에서는요.
+CORRADO: Una storia. Concilio di Trento. Cinquecentoquarantacinque a millecinquecentosessantatré. ||| 이야기를 하나 하죠. 트렌토 공의회, 1545년부터 1563년까지입니다.
+FAVRE: Il concilio della Controriforma. ||| 반종교개혁 공의회죠.
+CORRADO: Non solo. Tra i decreti c'era una cosa singolare. L'obbligo, per ogni parrocchia, di tenere un registro dei battesimi e dei matrimoni. ||| 그것만이 아닙니다. 칙령 중에 특이한 것이 하나 있었어요. 모든 교구가 세례와 혼인 장부를 갖춰야 한다는 의무입니다.
+FAVRE: I registri parrocchiali. ||| 교구 기록부군요.
+CORRADO: Prima, non c'erano. Un uomo nasceva, e solo la memoria del paese diceva che era nato. Dopo Trento, c'era una pagina con il suo nome, la data, il padrino e il prete. ||| 그전에는 없었어요. 사람이 태어나도 마을의 기억만이 태어났다고 말했죠. 트렌토 이후에는 이름, 날짜, 대부, 사제가 적힌 한 쪽이 있게 됐습니다.
+FAVRE: E la gente ci ha creduto? ||| 사람들이 믿었나요?
+CORRADO: Di più. Ha cominciato a esistere. Per lo Stato, per l'eredità, per il matrimonio. È l'inizio di quello che chiamiamo «anagrafe». ||| 그 이상입니다. 존재하기 시작했어요. 국가에게, 상속에, 혼인에요. 우리가 '호적'이라 부르는 것의 시작이죠.
+FAVRE: E il registro di Ndolo? ||| 놀로의 장부는요?
+CORRADO: Dovrà essere come un registro parrocchiale. Ogni donazione ha una pagina. Una pagina con il nome del donatore, la data, ciò che ha portato, e due firme: una di chi dà, e una di chi riceve. ||| 교구 기록부 같아야 합니다. 기증마다 한 쪽이 있고요. 기증자 이름, 날짜, 가져온 것, 그리고 두 서명. 주는 사람과 받는 사람의 것입니다.
+FAVRE: E chi custodisce? ||| 누가 보관합니까?
+CORRADO: Due copie. Una al villaggio, in cappella. E una in diocesi, a Bamarè. Se il fiume porta via la prima, resta la seconda. ||| 사본 두 부요. 하나는 마을 예배당에, 하나는 바마레의 교구에 둡니다. 강이 첫째를 쓸어 가면 둘째가 남습니다.
+FAVRE: Due chiavi, anche qui. ||| 여기서도 열쇠 둘이군요.
+CORRADO: Sempre. ||| 늘 그렇죠.
+SUOR BENEDETTA: Dottore, posso aggiungere una regola? ||| 박사님, 규칙 하나 더 넣어도 될까요?
+CORRADO: Certo. ||| 물론입니다.
+SUOR BENEDETTA: Ogni anno, la notte di Natale, si legge il registro in cappella. Ad alta voce. Per i morti e per i vivi. ||| 해마다 성탄 전야에 예배당에서 장부를 낭독하는 겁니다. 소리 내어서요. 죽은 이와 산 이를 위해서요.
+CORRADO: «Ad alta voce». ||| '소리 내어서'.
+SUOR BENEDETTA: Come si faceva con le ricevute dei trinitari. ||| 삼위일체회의 영수증들처럼요.
+CORRADO: Lo scrivo. ||| 적겠습니다.
+IDRISSA: Lo scrivo io. Con la mia calligrafia. ||| 제가 쓰겠습니다. 제 글씨로요.
+SUOR BENEDETTA: Fai attenzione, Idrissa. Le «g» sono sempre storte. ||| 조심해, 이드리사. 'g'가 늘 삐뚤어져.
+IDRISSA: Insomma, suora. ||| 그러니까, 수녀님.
+SUOR BENEDETTA: Insomma. ||| 그러니까.
+CORRADO: Questa notte spedirò al ministero il resoconto di tutto. Due chiavi, come è giusto. ||| 오늘 밤 외무부로 전부를 보고하겠습니다. 마땅히 열쇠 둘로요.
+SUOR BENEDETTA: Dottor Lanza. ||| 란차 박사님.
+CORRADO: Sì? ||| 네?
+SUOR BENEDETTA: Grazie di essere venuto a guardare la porta. ||| 문을 보러 와 주셔서 감사해요.
+CORRADO: Non l'ho guardata io. L'ha spinta il dottor Favre. ||| 제가 본 게 아니라 파브르 박사님이 미셨죠.
+SUOR BENEDETTA: Qualcuno doveva guardare. Altri spingere. È così che si apre una porta. ||| 누군가는 보고 다른 이들이 밀어야 해요. 문은 그렇게 열려요.
++ parrocchia = 교구, 본당
++ registro parrocchiale = 교구 기록부
++ battesimo = 세례
++ anagrafe = 호적, 주민 등록
++ diocesi = 교구(주교구)
++ calligrafia = 필체
++ resoconto = 보고, 보고서
++ Controriforma = 반종교개혁
++ Concilio di Trento = 트렌토 공의회(1545~1563)

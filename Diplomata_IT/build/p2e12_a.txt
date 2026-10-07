@@ -1,0 +1,62 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 12
+@title Il debito
+@ko 빚
+@setting 토요일 낮 놀로 병원 앞 → 일요일 아침 로마 참피노 공항 → 오후 국무원 회의실 → 저녁 파르네시나 테라스
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast SUOR BENEDETTA | 석방된 수녀 원장, 62세
+@cast MADRE COSTANZA | 자비의 수녀회 총장 수녀, 74세
+@cast SIGNORA VALENTI | 인질 간호사 키아라의 어머니, 58세
+@cast CHIARA | 인질 간호사, 29세
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast PELLEGRINI | 국무원 대표 몬시뇰, 61세
+@cast FEDERICA | 대외정보기관(AISE) 연락관, 44세
+@cast GIULIA | 분석관, 31세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast IDRISSA | 놀로의 청년, 19세
+@cast FAVRE | 적십자국제위원회 의사 대표, 64세
+@cast LEO | 란차의 아들, 16세
+@note 2부의 마지막 화입니다. 인질 다섯 명이 놀로에서 풀려나 로마에 도착하고, 벨란디는 그레고리오 12세처럼 명예롭게 임무를 마칩니다. 란차는 정보 공급자 페데리카에게 '백지 어음'의 빚을 갚습니다. 갚는 순간 자유가 된다는 것이 핵심입니다. 역사 논거는 베네치아 공화국의 신용과 외교 윤리입니다. 베네치아는 빚을 제때 갚는 국가로 신용을 쌓았고, 금화 두카토는 수 세기 동안 안정된 통화였습니다(세부는 일반화). 마지막에 스폰다 파이낸스의 뒤에 있는 이름이 공개 등기부에서 하나 확인됩니다. 어휘는 채무·결산(debito, saldare, onorare, credito, congedo)에 주목하세요.
+@next 3부 «Il Vertice»(정상회의): 로마에서 지중해 협정 정상회의가 열립니다. 서명 직전, 숨은 조항이 드러납니다.
+
+## 놀로의 마지막 날 — L'ULTIMO GIORNO A NDOLO
+IDRISSA: Dottor Lanza, le armi sono nel fiume. ||| 란차 박사님, 무기는 강에 있습니다.
+CORRADO: Tutte? ||| 전부요?
+IDRISSA: Tutte. Sette fucili, due pistole, una cassa di munizioni. L'abbiamo fatto davanti al comitato. Davanti a tutto il villaggio. ||| 전부요. 소총 일곱, 권총 둘, 탄약 한 상자. 위원회 앞에서, 마을 전체 앞에서 했습니다.
+CORRADO: Come è andata? ||| 어땠습니까?
+IDRISSA: Silenzio. Poi una donna ha cominciato a cantare. ||| 침묵이었어요. 그러다 한 여인이 노래를 시작했습니다.
+CORRADO: Che canzone? ||| 무슨 노래요?
+IDRISSA: La canzone che si canta per chi torna da lontano. ||| 먼 곳에서 돌아오는 사람에게 부르는 노래요.
+CORRADO: Torna qualcuno? ||| 누가 돌아옵니까?
+IDRISSA: Noi. ||| 우리요.
+SUOR BENEDETTA: Idrissa. ||| 이드리사.
+IDRISSA: Suora. ||| 수녀님.
+SUOR BENEDETTA: Quando riapriamo la scuola? ||| 학교는 언제 다시 열까요?
+IDRISSA: Lunedì. Alle quattro. Nella cappella. ||| 월요일 4시에요. 예배당에서요.
+SUOR BENEDETTA: Chi insegna? ||| 누가 가르치죠?
+IDRISSA: Lei. Io faccio il bidello. ||| 수녀님이요. 저는 수위를 할게요.
+SUOR BENEDETTA: E la geografia? ||| 지리는요?
+IDRISSA: La insegno io. Ho una carta. L'ho disegnata io, in questi tre anni. ||| 제가 가르칠게요. 지도가 있습니다. 3년 동안 제가 직접 그렸어요.
+SUOR BENEDETTA: Una carta? ||| 지도를요?
+IDRISSA: Del distretto. Con tutte le strade. E con una strada in più. ||| 지구의 지도예요. 모든 길과, 길 하나가 더 있는.
+SUOR BENEDETTA: Quale strada? ||| 어떤 길이죠?
+IDRISSA: Quella per Roma. ||| 로마로 가는 길이요.
+CORRADO: Idrissa. ||| 이드리사.
+IDRISSA: Non ci vado. Ma voglio che i bambini sappiano dov'è. ||| 갈 건 아니에요. 하지만 아이들이 어디 있는지 알았으면 해요.
+CORRADO: Lo trovo bellissimo. ||| 아주 아름답다고 생각합니다.
+IDRISSA: Lei partirà con i cinque? ||| 다섯 사람과 같이 떠나십니까?
+CORRADO: Con i cinque. Dal piccolo aeroporto di Bamarè. Alle quattro. ||| 다섯 사람과요. 바마레 작은 공항에서 4시에요.
+IDRISSA: E il dottor Favre? ||| 파브르 박사님은요?
+FAVRE: Resto un mese. Poi un altro medico mi dà il cambio. ||| 한 달 남습니다. 그다음 다른 의사가 교대해요.
+IDRISSA: Grazie, dottore. ||| 감사합니다, 박사님.
+FAVRE: Non mi ringrazi. Non ho fatto altro che spingere. ||| 감사는 사양합니다. 저는 밀기만 했어요.
+IDRISSA: Una porta. Ma l'ha spinta. ||| 문이죠. 하지만 박사님이 미셨어요.
++ bidello = (학교) 수위, 관리원
++ canzone per chi torna = 돌아오는 이를 위한 노래
++ dare il cambio = 교대하다
++ munizione = 탄약
++ comitato = 위원회
