@@ -1,0 +1,99 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 11
+@title Il consiglio dei vecchi
+@ko 노인 회의
+@setting 월요일 아침 파르네지나 사무총장실 → 저녁 7시 보치아 클럽 공개 회의 → 밤 10시 클럽 부엌과 코트 → 자정 에스프레소
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast GIULIA | 분석관, 31세
+@cast FERRANTE | 경제부 공공 자산 가치화 국장 세르조 페란테 박사, 57세
+@cast CECCHINI | 로마 시 자산 담당 의원 마르타 체키니, 49세
+@cast BRANDOLINI | 개발사 '테베레 수드 스빌루포' 대표 다비데 브란돌리니, 45세
+@cast SILVIA | 구역 주민, 아기 엄마, 34세
+@cast OTTAVIO | 구역 주민, 바 주인, 58세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 83세
+@cast PEPPINO | 보치아 클럽 노인, 79세
+@cast CONCETTA | 노나 콘체타, 85세
+@cast LUCIANA | 보치아 클럽 회원 루차나 벨루치, 81세('라파' 달인)
+@cast MATTIA | 마타토이오 동네 소년 마티아 파다, 17세(클럽 최연소 회원)
+@cast LEO | 란차의 아들, 16세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 71세
+@note D사건의 내부 대결 편입니다. 아침에 오르솔리니가 부처 간 항의를 전하며 란차의 개입을 제동합니다. 외무부 직원이 경제부 의견에 맞서는 일은 월권이라는 지적입니다. 저녁 공개 회의에서 란차의 외교 기술(재진술, 양쪽 입장 존중, '반도 전부도 아닌 길')이 전부 통하지 않습니다. 구역 주민들은 반으로 갈립니다. 아기 엄마 실비아는 어린이집과 집을 원하고 바 주인 오타비오는 새 주민이 손님이 되길 바랍니다. 경제부 국장 페란테는 악당이 아닙니다. 84세대 중 30세대가 '중간 임대료'라는 사회적 논거를 들어 '순서에는 지붕이 없다'고 말합니다. 밤에는 '노인 회의'가 열려 에르콜레(매각 반대)와 페피노(보상 수용; 손자가 공사장에서 일함)가 갈립니다. 이들은 토론하지 않고 한 판을 쳐서 가리기로 합니다. 해법은 이 경기에서 나옵니다. 목표 공에서 두 공이 같은 거리일 때 선수들은 싸우지 않고 컴퍼스로 잽니다. 보치아의 규칙은 '먼저 재고, 그다음에 토론한다'입니다. 레오가 컴퍼스를 들고, 란차는 관청의 문장 한 줄 대신 객관적 측정을 요구하자고 깨닫습니다. 하나는 문화재청의 문화적 가치 검증(문화재 법전 12조)이고, 다른 하나는 79년 동안 쌓인 '순번 노트' 41권입니다. 노트에는 회원이 아닌 이름(학교 반, 관광객, 외국 학생)이 가득해서 이곳이 개방된 공공 이용의 장소임을 증명합니다. 산드리의 자정 에스프레소 일화는 피렌체입니다. 1339년 이후 오르산미켈레의 감실마다 길드(아르테)가 자기 이름으로 성상을 놓았지만 공간은 코무네의 것이었고 돌봄만 길드가 맡았다는 이야기입니다. 어휘는 회의·분쟁(rilanciare, riformulare, prendere la parola, sforare, misurare)과 보치아 용어(compasso, mano, punto)에 주목하세요.
+@next 3-12 «다시 식탁으로» — 클럽은 공공 문화 공간으로 지정되고, 레오의 학년 말 연설이 있고, 개발사의 뒤에 '레오나르도'가 한 겹 위에 나타납니다.
+
+## 월요일 아침 — LA TELEFONATA DI ORSOLINI
+ORSOLINI: Entra, Corrado. Siediti, e non toccare il fascicolo sul tavolo. Ti spiego io che cos'è. ||| 들어와, 코라도. 앉아, 그리고 책상 위 서류철은 건드리지 말고. 그게 뭔지는 내가 설명할게.
+CORRADO: Buongiorno, Luca. Immagino che sia una lettera. ||| 좋은 아침이야, 루카. 편지겠지.
+ORSOLINI: Del ministero dell'Economia. Direttore generale Sergio Ferrante. Tre pagine. «Si segnala che un funzionario del Ministero degli esteri partecipa in forma non ufficiale a una vertenza relativa a un bene patrimoniale di competenza di questa Direzione.» ||| 경제부에서 온 거야. 세르조 페란테 국장. 세 쪽이고. '외무부 직원 한 명이 본 국 관할의 자산 관련 분쟁에 비공식적으로 참여하고 있음을 알려 드립니다.'
+CORRADO: «In forma non ufficiale». Hanno fatto presto. Ho parlato con l'assessora giovedì. ||| '비공식적으로'라. 빠르군. 의원과 얘기한 건 목요일이었는데.
+ORSOLINI: Hanno fatto presto perché qualcuno ha una cartella con il tuo nome. Dimmi la verità: è un favore a quei vecchi? ||| 누군가 자네 이름이 적힌 서류철을 갖고 있으니 빨랐지. 사실대로 말해. 그 노인들을 위한 호의야?
+CORRADO: È una richiesta. La prima in tre anni. ||| 부탁이야. 3년 만에 처음 받은.
+ORSOLINI: Corrado, ascoltami come amico. Tu sei un funzionario del Ministero degli esteri. Il tuo mestiere è far sedere ai tavoli quelli che non vogliono sedersi. Ma un quartiere non è un paese straniero. ||| 코라도, 친구로서 들어. 자네는 외무부 직원이야. 자네 일은 앉기 싫은 사람들을 테이블에 앉히는 거지. 하지만 동네는 외국이 아니야.
+CORRADO: Un quartiere è più difficile, Luca. Con un paese straniero ho un'ambasciata. Con questo ho una lavagna. ||| 동네는 더 어려워, 루카. 외국에는 대사관이 있는데 여기엔 칠판밖에 없어.
+ORSOLINI: Non fare lo spiritoso. Ferrante mi ha chiesto di richiamarti. Mi ha detto, parole sue, che «le competenze non sono un buffet». ||| 재치 부리지 마. 페란테가 자네를 불러들이라고 했어. 자기 표현으로 '권한은 뷔페가 아니다'라더군.
+CORRADO: Ha ragione. Per questo ho preso tre giorni di ferie. Sono qui come cittadino. ||| 맞는 말이네. 그래서 휴가를 3일 냈어. 시민으로서 온 거야.
+ORSOLINI: Il guaio è che la gente ha cominciato a dire che il Ministero ha un negoziatore per ogni causa. Domani me lo chiedono i giornalisti: perché non per il mio condominio? ||| 문제는 사람들이 우리 부처에 사건마다 협상관이 따로 있다고 말하기 시작했다는 거야. 내일은 기자들이 물어볼걸. 우리 아파트 문제엔 왜 안 오느냐고.
+CORRADO: Perché non glielo ha chiesto nessuno, Luca. Ercole non ha mai chiesto niente per trentatré anni, a questo ministero. Mi ha chiesto di leggere i nomi. ||| 아무도 부탁하지 않았으니까, 루카. 에르콜레 씨는 33년 동안 이 부처에 아무것도 요구한 적이 없어. 나한테는 이름을 읽어 달라고 했지.
+ORSOLINI: ...Trentatré anni. Il commesso del terzo piano. ||| …33년이라. 3층 사환이었지.
+CORRADO: Gli portava i giornali ogni mattina. Lo sai che ti salutava per nome, quando eri un funzionario di seconda fascia? ||| 아침마다 신문을 가져다줬잖아. 자네가 2급 사무관일 때도 이름을 불러 인사했던 건 알지?
+ORSOLINI: Lo ricordo. Mi portava il caffè con un bigliettino: «Dottore, si ricordi di mangiare». ||| 기억나. 쪽지가 붙은 커피를 가져다줬지. '박사님, 식사하는 거 잊지 마세요'라고.
+CORRADO: Allora capisci perché ci vado. ||| 그럼 내가 왜 가는지 알겠지.
+ORSOLINI: Capisco. E non mi basta. Ecco le mie condizioni, Corrado. Primo: niente carta intestata. Né la tua, né la mia. ||| 알겠어. 하지만 그걸론 부족해. 내 조건이야, 코라도. 첫째, 공문 용지는 쓰지 마. 자네 것도 내 것도.
+CORRADO: D'accordo. ||| 좋아.
+ORSOLINI: Secondo: non dici mai «a nome del Ministero». Né davanti a Ferrante, né davanti all'assessora, né davanti a Brandolini. ||| 둘째, '부처를 대표해서'라는 말은 절대 하지 마. 페란테 앞에서도, 의원 앞에서도, 브란돌리니 앞에서도.
+CORRADO: Mai. ||| 절대.
+ORSOLINI: Terzo: ogni cosa che scrivi, la scrivi con il tuo nome e con la tua penna. Se perdi, perdi tu, non il Ministero. ||| 셋째, 쓰는 건 전부 자네 이름과 자네 펜으로 써. 지면 자네가 지는 거고 부처가 지는 게 아니야.
+CORRADO: Con la penna blu. ||| 파란 펜으로.
+ORSOLINI: Con quella che vuoi. Quarto, e questo lo dico da collega: stasera, all'assemblea, non mettere nessuna formula diplomatica. ||| 원하는 펜으로. 넷째, 이건 동료로서 하는 말인데 오늘 저녁 회의에서는 외교적 상투어를 쓰지 마.
+CORRADO: Perché? ||| 왜?
+ORSOLINI: Perché a un'assemblea di quartiere, ogni «comprendo le ragioni di entrambe le parti» è una scusa per non scegliere. Ti butteranno fuori. ||| 동네 회의에서는 '양쪽 입장을 이해합니다'가 전부 선택을 피하는 핑계로 들리거든. 쫓겨날 거야.
+CORRADO: Io non ho un'alternativa. ||| 나한테는 다른 방법이 없어.
+ORSOLINI: Allora sbaglierai. Succede. Ma sbaglia con le mani aperte, Corrado. Con le mani chiuse, ti fanno una cartella. ||| 그럼 틀리겠지. 그런 일도 있는 거야. 하지만 손을 펴고 틀려, 코라도. 주먹을 쥐고 틀리면 서류철이 하나 더 생겨.
++ funzionario di seconda fascia = (공무원) 2급 직원. 행정 직급 표현
++ le competenze non sono un buffet = 권한은 뷔페가 아니다. 서로 마음대로 담아 갈 수 없다는 농담조 경고
++ in forma non ufficiale = 비공식적으로. 공문 문체의 표준 문구
++ carta intestata = (기관 이름이 인쇄된) 공문 용지. 'senza carta intestata'는 직함 없이 개인으로서
++ a nome del Ministero = 부처를 대표해서. 외교 문서·발언에서 자격을 밝히는 말
++ sbaglia con le mani aperte = 손을 펴고 틀려라. 숨기지 않고 실수를 드러내라는 오르솔리니의 충고
++ fare una cartella = (누군가에 대한) 서류철을 만들다. 부정적 기록을 쌓는다는 뜻의 구어
+
+## 공개 회의 — L'ASSEMBLEA
+CECCHINI: Buonasera a tutti. Sono le sette in punto. Siamo in duecentoventi, e il campo uno ne tiene al massimo centocinquanta. Chi non trova posto sieda sul bordo. Cedo la parola al signor Lanza. ||| 여러분 안녕하십니까. 정각 7시입니다. 220명이 오셨는데 1번 코트는 최대 150명입니다. 자리가 없으면 가장자리에 앉으세요. 란차 씨에게 발언권을 드립니다.
+CORRADO: Grazie, assessora. Buonasera. Sono qui per un solo motivo: perché cinquantotto persone me lo hanno chiesto. Ma prima di cominciare vorrei riconoscere che tutti, qui, hanno ragioni valide. ||| 감사합니다, 의원님. 안녕하십니까. 제가 여기 있는 이유는 하나입니다. 58명이 부탁했기 때문입니다. 하지만 시작하기 전에 이 자리에 있는 모든 분께 타당한 이유가 있다는 점을 인정하고 싶습니다.
+OTTAVIO: Dottore, mi scusi. Io ho un bar a duecento metri. Dieci anni che chiudo alle nove perché non c'è più nessuno. Se arrivano ottantaquattro famiglie, io alle nove sono a lavorare. Lei che mi dice? ||| 박사님, 죄송합니다. 저는 200미터 앞에서 바를 합니다. 10년째 아무도 없어서 9시에 문을 닫아요. 84가구가 오면 저는 9시에도 일하고 있겠지요. 저한테는 뭐라고 하시겠습니까?
+CORRADO: Che la sua posizione è comprensibile e che ci sono modi per conciliare le esigenze... ||| 입장이 이해된다는 것과 요구를 조화시킬 방법이 있다는…
+OTTAVIO: Comprensibile! Cosa fa, mi dà una pacca sulla spalla? ||| 이해된다니! 어깨나 두드려 주시는 겁니까?
+SILVIA: Posso parlare? Mi chiamo Silvia, ho trentaquattro anni, ho un bambino di diciotto mesi. Il nido più vicino ha una lista di attesa di quarantadue. Nel progetto c'è un nido. Voglio sapere perché dobbiamo scegliere fra le bocce e un nido. ||| 말씀드려도 될까요? 실비아이고 34세이며 18개월 아이가 있습니다. 가장 가까운 어린이집 대기자가 42명입니다. 계획안에는 어린이집이 있어요. 왜 보치아와 어린이집 중에서 골라야 하는지 알고 싶습니다.
+CORRADO: Signora, il suo punto è giusto, e non c'è motivo di contrapporre... ||| 부인, 말씀이 맞고 서로 대립시킬 이유는…
+SILVIA: Mi sta dando ragione e mi sta dicendo di no, nella stessa frase. Dica sì o dica no. ||| 한 문장 안에서 제 말이 맞다고 하시면서 안 된다고 하시네요. 예든 아니오든 말씀하세요.
+CORRADO: Ho capito. Concentriamoci sulla mia proposta: né tutta la terra, né niente. Una soluzione intermedia... ||| 알겠습니다. 제 제안에 집중해 주십시오. 땅 전부도 아니고 아무것도 아닌 것도 아닙니다. 중간 해법은…
+ERCOLE: Corrado, ferma. Il turno non si divide a metà. Non si può avere mezzo turno. ||| 코라도, 멈춰라. 순서는 반으로 나눌 수 없다. 반쪽짜리 순서란 없어.
+CORRADO: Capisco, Ercole, ma... ||| 알겠어요, 에르콜레 씨, 하지만…
+ERCOLE: Non «ma». Non ti ho chiamato per capire. Ti ho chiamato perché dicessi. ||| '하지만'이 아니다. 네가 이해하라고 부른 게 아니다. 말하라고 불렀다.
+FERRANTE: Posso? Sergio Ferrante, Ministero dell'Economia. Non ho nessun interesse personale, e questa è l'unica cosa che nessuno qui può dire di sé. ||| 발언해도 되겠습니까? 경제부 세르조 페란테입니다. 저는 개인적 이해관계가 전혀 없고, 이건 여기서 다른 누구도 자신에 대해 말할 수 없는 점입니다.
+PEPPINO: Chi te l'ha detto? ||| 누가 그러더냐?
+FERRANTE: Nessuno. Lo verifico. Signori, ottantaquattro appartamenti. Trenta a canone moderato, per giovani coppie e famiglie con un reddito inferiore a una certa soglia. Un nido con trentadue posti. Un parco di cinquecento metri. A Roma, quest'anno, tremila famiglie sono in lista per un alloggio. ||| 아무도요. 제가 확인합니다. 여러분, 주택 84세대입니다. 그중 30세대는 중간 임대료로 젊은 부부와 일정 소득 미만 가족에게 갑니다. 정원 32명의 어린이집, 500제곱미터 공원도 있고요. 로마에서 올해 주택 대기 중인 가족이 3천 가구입니다.
+FERRANTE: Il bene pubblico non è di chi lo usa. È di chi ne ha bisogno. E io rappresento chi non è in questo campo stasera. ||| 공공의 것은 쓰는 사람의 것이 아니라 필요한 사람의 것입니다. 그리고 저는 오늘 밤 이 코트에 와 있지 않은 사람들을 대변합니다.
+FERRANTE: Il turno, di cui parla il signor Santini, è una tradizione bellissima. Ma, scusatemi, il turno non ha un tetto. ||| 산티니 선생님이 말씀하시는 순서는 아름다운 전통입니다. 하지만 죄송하게도 순서에는 지붕이 없습니다.
+CORRADO: Dottor Ferrante, sono d'accordo che sia necessario... ||| 페란테 박사님, 필요하다는 점에는 동의하지만…
+FERRANTE: Dottor Lanza, lei è pagato dallo Stato per fare l'ambasciatore. Qui non servono ambasciatori. Servono posti. ||| 란차 박사님, 박사님은 국가에서 월급을 받고 대사 노릇을 하시는 분입니다. 여기엔 대사가 필요 없습니다. 필요한 건 자리입니다.
+CORRADO: Ha ragione, e non lo faccio. Mi presento: sono Corrado Lanza, mio padre faceva i dolci a Napoli. Non ho nessuna carta. Non parlo a nome di nessuno. ||| 맞는 말씀이고, 그렇게 하지 않겠습니다. 소개합니다. 코라도 란차이고 아버지는 나폴리에서 과자를 만드셨습니다. 서류는 없습니다. 누구를 대표하지도 않고요.
+SILVIA: Allora che cosa vuole? ||| 그럼 원하시는 게 뭡니까?
+CORRADO: Voglio che la misura la faccia qualcuno che non gioca. ||| 경기를 안 하는 사람이 측정하길 바랍니다.
+OTTAVIO: Abbiamo capito, dottore, ma sono le otto meno un quarto. Io alle nove chiudo. ||| 알겠습니다, 박사님. 그런데 7시 45분입니다. 저는 9시에 닫아요.
+CECCHINI: Vi chiedo un po' di calma. Mi sembra che stasera non si decida niente. ||| 조금만 침착해 주세요. 오늘 밤 아무것도 결정되지 않을 것 같네요.
+ERCOLE: Non è così. Si è deciso una cosa: che Corrado non è un ambasciatore. Lo ha detto lui. ||| 그렇지 않다. 한 가지는 정해졌다. 코라도는 대사가 아니라는 거. 본인이 말했으니까.
+PEPPINO: Ma allora a che cosa ci serve? ||| 그럼 우리한테 무슨 소용이냐?
+ERCOLE: A leggere i nomi. E gli ha già letti. ||| 이름을 읽는 거지. 이미 읽었잖아.
+CECCHINI: La seduta è sciolta. Il verbale sarà pubblicato domani. ||| 회의를 마칩니다. 회의록은 내일 공개됩니다.
++ prendere la parola = 발언하다, 발언권을 갖다. 'cedo la parola'는 발언권을 넘기다
++ contrapporre = 대립시키다. 'non c'è motivo di contrapporre'는 정치적 중재 문체
++ canone moderato = 중간(적정) 임대료. 사회 주택 용어
++ lista di attesa = 대기자 명단. 어린이집·주택 모두에 쓰임
++ il turno non ha un tetto = 순서에는 지붕이 없다. 페란테의 말. 'tetto'는 지붕이자 '상한'의 뜻
++ lei è pagato dallo Stato per fare l'ambasciatore = 국가 월급을 받고 대사 노릇을 한다. 수동태 'è pagato da'로 비꼼
++ la seduta è sciolta = 회의가 해산되었다. 의장이 폐회를 선언하는 표준 문장
++ non «ma» = '하지만'이 아니다. 에르콜레가 코라도의 외교적 완충 어법을 잘라 내는 말

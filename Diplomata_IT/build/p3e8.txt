@@ -1,0 +1,233 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 8
+@title Il Monsignore e l'ombra
+@ko 몬시뇰과 그림자
+@setting 화요일 점심 캄포 데 피오리 뒤 트라토리아 → 오후 6시 늘 가던 테라스 → 저녁 테스타초 보치아 클럽 → 밤 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast MANINI | 국무원 소속 몬시뇰 카를로 마니니, 52세
+@cast FEDERICA | 대외정보기관(AISE) 연락관 페데리카 루스폴리, 44세
+@cast GIULIA | 분석관, 31세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 83세(전 외무부 사환)
+@cast PEPPINO | 보치아 클럽 노인, 79세
+@cast CONCETTA | 노나 콘체타, 85세(주방 총괄)
+@cast LEO | 란차의 아들, 16세
+@note C사건의 더러운 수단 편입니다. 마니니 몬시뇰은 '서류를 남기지 않고' 이탈리아 정보기관의 의견을 듣고 싶어 합니다. 벨란디가 쓰던 옆길 채널을 이어받으라는 유혹입니다. 란차는 문장 하나로 응합니다. 질문도 답도 회의록에 남기는 것입니다. 페데리카는 2부에서 빚을 청산했으므로 더는 청구할 호의가 없습니다. 대신 새 거래를 제안합니다. '공개 교환'입니다. 질문 하나에 답 하나, 둘 다 기록하고, 교황청이 이름과 번호가 있는 연락 담당자를 서면으로 지정한다는 것입니다. 그림자 채널을 이름이 있는 창구로 바꾸는 값입니다. 페데리카가 들고 온 정보는 대부분 이미 공개된 것이라는 점도 중요합니다. 열린 포럼의 철야 기도 공지, 구청에서 이미 돌고 있는 지도 사본이었고요. 보치아 클럽에서 노나 콘체타가 이를 한 문장으로 정리합니다. '비밀은 빨래와 같다. 햇볕에 널어야 한다.' 역사 논거는 베네딕토 15세의 평화 각서(1917년 8월 1일)입니다. 교황은 교전국 지도자들에게 공개 서한을 보내 무기 감축·중재·점령지 철수 등을 제안하며 전쟁을 '무익한 학살(inutile strage)'이라 불렀고, 받아들여지지는 않았지만 그 표현은 남았습니다. 공개된 말은 거절될 수 있어도 어둠 속의 말은 부인될 수 있다는 대비가 이 화의 핵심입니다. 레오의 철학 질문은 칸트의 공공성 원칙(1795)입니다. 어휘는 정보·비밀 어휘(fonte aperta, a verbale, canale laterale, referente)에 주목하세요.
+@next 3-9 «경로» — 수요일 마르사 베이다 구시가에서 세 책임자가 700미터를 함께 걷습니다. 길은 지도가 아니라 동네의 골목입니다.
+
+## 점심 — IL PRANZO CON IL MONSIGNORE
+MANINI: Dottor Lanza, la ringrazio di aver accettato un posto così semplice. ||| 란차 박사님, 이렇게 소박한 곳에서 보자는 청을 들어주셔서 감사합니다.
+CORRADO: Semplice? Monsignore, questa è la trattoria dove il carciofo alla giudia ha più titoli di me. Ordino per tutti? ||| 소박하다고요? 몬시뇰, 여기는 유대식 아티초크가 저보다 직함이 많은 집입니다. 제가 시킬까요?
+MANINI: Mi affido. Purché niente alla brace: ho l'abitudine di non sentire odore di fumo quando parlo di cose serie. ||| 맡기겠습니다. 다만 숯불 요리는 빼 주세요. 진지한 이야기를 할 때는 연기 냄새가 나지 않는 게 습관이라서요.
+CORRADO: Allora carciofi, cacio e pepe, e una scaloppa al limone. Una bottiglia d'acqua, ma frizzante: la gassata fa pensare. ||| 그럼 아티초크, 카초 에 페페, 레몬 송아지 커틀릿으로 하지요. 물은 탄산수로요. 탄산이 있으면 생각이 나거든요.
+MANINI: Dottor Lanza, devo chiederle una cosa che non è nel verbale di ieri. ||| 란차 박사님, 어제 회의록에 없는 걸 하나 부탁드려야겠습니다.
+CORRADO: Ieri avevamo detto niente canali laterali. ||| 어제 옆길 채널은 없다고 했는데요.
+MANINI: Lo so. Infatti non le chiedo un canale. Le chiedo un parere. ||| 압니다. 그래서 채널을 요청하는 게 아닙니다. 의견 하나를 청하는 겁니다.
+CORRADO: Di chi? ||| 누구의 의견입니까?
+MANINI: Di quelle persone che a Roma sanno cose che né il Vaticano né il ministero possono sapere. Dei suoi... amici dell'Agenzia. ||| 로마에서 바티칸도 외무부도 알 수 없는 걸 아는 분들의 의견입니다. 박사님의… 정보기관 친구분들이요.
+CORRADO: Una persona. Una sola. Con nome e cognome, ma non glielo dirò. ||| 한 사람이지요. 딱 한 사람. 이름과 성이 있지만 말씀드리지는 않겠습니다.
+MANINI: Naturalmente. Il Santo Padre cammina il sabato fra undici giorni in un vicolo che nessun gendarme ha mai visto. Voglio sapere se c'è qualcosa, in quel vicolo, che non sta nei piani. ||| 물론입니다. 교황님은 11일 뒤 토요일에 어느 헌병도 가 본 적 없는 골목을 걸으십니다. 그 골목에 계획서에 없는 무언가가 있는지 알고 싶습니다.
+CORRADO: E perché non chiederlo per via ufficiale? ||| 그런데 왜 공식 경로로 묻지 않으십니까?
+MANINI: Perché una richiesta ufficiale della Santa Sede a un servizio italiano su uno Stato terzo è un documento. E i documenti, dottor Lanza, restano. ||| 교황청이 이탈리아 정보기관에 제3국에 대해 공식 요청하면 그건 문서가 되니까요. 그리고 박사님, 문서는 남습니다.
+CORRADO: Il suo predecessore diceva la stessa cosa, con altre parole: «La Chiesa non scrive tutto quello che sa». ||| 전임자께서도 다른 말로 같은 말씀을 하셨습니다. '교회는 아는 걸 전부 적지는 않는다'고요.
+MANINI: Monsignor Bellandi aveva il suo metodo. Io lo rispetto. Non lo ripeto. ||| 벨란디 몬시뇰에게는 그분의 방식이 있었습니다. 저는 존중하지만 되풀이하지는 않습니다.
+CORRADO: Allora mi spieghi la differenza fra il suo metodo e il suo, perché da dove sono seduto non la vedo. ||| 그럼 그분의 방식과 몬시뇰의 방식이 어떻게 다른지 설명해 주십시오. 제가 앉은 자리에서는 안 보이거든요.
+MANINI: La differenza è che io le sto dicendo, a voce, davanti a un carciofo, che sto chiedendo una cosa senza carta. Monsignor Bellandi la chiedeva e non lo diceva. ||| 저는 지금 이렇게 아티초크 앞에서 소리 내어 종이 없이 부탁한다고 말하고 있다는 겁니다. 벨란디 몬시뇰은 부탁하고서 그렇다고 말하지 않았지요.
+CORRADO: È una differenza. Non è una piccola differenza. ||| 차이는 차이입니다. 작은 차이는 아니고요.
+MANINI: Lei ci ha rimesso la fiducia, dottor Lanza, e io lo so. Io voglio guadagnarmela, non ereditarla. ||| 박사님은 그 일로 신뢰를 잃으셨고 저도 압니다. 저는 그걸 물려받는 게 아니라 얻고 싶습니다.
+CORRADO: Allora le dico quanto posso fare. Posso portare la sua domanda. Non posso portare la sua carta mancante. ||| 그럼 제가 할 수 있는 만큼 말씀드리지요. 몬시뇰의 질문은 전할 수 있습니다. 몬시뇰이 빼놓은 종이까지 전할 수는 없습니다.
+MANINI: Che cosa significa? ||| 무슨 뜻입니까?
+CORRADO: Che la domanda andrà a verbale, e la risposta pure. Se la risposta non può stare a verbale, io non la riporto. ||| 질문은 회의록에 올라가고 답도 올라간다는 뜻입니다. 답이 회의록에 못 올라가는 것이면 저는 전하지 않습니다.
+MANINI: Quindi la persona dell'Agenzia potrebbe non dirle niente. ||| 그러면 정보기관 쪽 분은 아무 말도 안 해 줄 수 있겠군요.
+CORRADO: Potrebbe. E allora lei, monsignore, avrà sentito la risposta più onesta: «Non lo so, oppure non lo posso dire». ||| 그럴 수 있습니다. 그렇다면 몬시뇰은 가장 정직한 답을 들으신 겁니다. '모릅니다, 혹은 말할 수 없습니다'라는 답이요.
+MANINI: Mi è accettabile. Faccia come ritiene. ||| 받아들일 수 있습니다. 판단하시는 대로 하십시오.
+CORRADO: Un'ultima cosa. La persona di cui parliamo avrà un prezzo. Lo ha sempre. ||| 마지막으로 하나만요. 우리가 말하는 그 사람은 값을 부를 겁니다. 언제나 그랬거든요.
+MANINI: Una persona onesta, quindi. ||| 정직한 사람이라는 뜻이군요.
+CORRADO: Con gli altri, sì. Quello che chiederà me lo riferirà, e io lo riferirò a lei. A voce alta, in questo ristorante. ||| 다른 사람들에게는요. 그 사람이 요구하는 걸 저에게 말해 줄 테니, 제가 몬시뇰께 전하겠습니다. 이 식당에서 큰 소리로요.
+MANINI: Il cacio e pepe è arrivato. Dica pure il suo preventivo, dottor Lanza: l'ho già mangiato con il pensiero. ||| 카초 에 페페가 나왔군요. 견적을 말씀하세요, 란차 박사님. 이미 마음속으로 먹은 셈이니까요.
++ via ufficiale = 공식 경로. 반대는 canale laterale / via traversa (옆길)
++ senza carta = 종이 없이, 서류 없이. 'carta'는 문서(carte)의 뜻으로도 쓰임
++ Stato terzo = 제3국. 국제법·외교 문체의 표준어
++ ci ha rimesso la fiducia = 그 일로 신뢰를 잃었다 (rimetterci = 손해를 보다). 구어 관용
++ a verbale = 회의록에 올려서. 'mettere a verbale / andare a verbale'
++ preventivo = 견적서, 예산 견적. 이 장면에서는 '페데리카의 요구'를 가리키는 농담
++ ho già mangiato con il pensiero = 이미 생각으로 먹었다. 기다림을 농담으로 표현한 구어
++ gassata / frizzante = 탄산수 (acqua gassata / frizzante). 'frizzante'는 약한 탄산, 'gassata'는 일반 탄산
+
+## 늘 가던 테라스 — LA TERRAZZA DI FEDERICA
+FEDERICA: Sei in anticipo. Non è da te. ||| 일찍 왔네. 너답지 않은데.
+CORRADO: Ho imparato che con te conviene arrivare prima del conto. ||| 너를 만날 땐 계산서가 오기 전에 도착하는 게 낫다는 걸 배웠거든.
+FEDERICA: Il conto è chiuso, Corrado. Lo abbiamo chiuso a una tavola e con due firme. Non ti devo niente e non mi devi niente. È una sensazione strana. ||| 계산은 끝났어, 코라도. 식탁에서 서명 두 개로 끝냈잖아. 나는 너한테 빚진 게 없고 너도 나한테 빚진 게 없어. 낯선 기분이네.
+CORRADO: E ti sta bene? ||| 그래서 마음에 들어?
+FEDERICA: Mi manca il peso. Ma sono qui. Allora: che cosa vuole il monsignore? ||| 무게가 없어서 허전해. 하지만 이렇게 왔잖아. 그래서 몬시뇰이 뭘 원하는데?
+CORRADO: Non ti ho detto che c'è un monsignore. ||| 몬시뇰이라고는 안 했는데.
+FEDERICA: Hai la faccia di chi è appena uscito da un pranzo con un uomo di Chiesa. E hai ancora sul bavero una briciola di cacio e pepe, che a Roma si mangia solo se c'è qualcosa da decidere. ||| 교회 사람과 점심을 막 끝낸 얼굴이야. 게다가 옷깃에 카초 에 페페 부스러기가 붙어 있어. 로마에서 그건 뭔가 결정할 일이 있을 때나 먹는 거고.
+CORRADO: Allora lo sai già. Una domanda: nel Rione Vecchio di Marsa Beida, per sabato fra undici giorni, c'è qualcosa che non sta nei piani? ||| 그럼 이미 알겠네. 질문 하나야. 11일 뒤 토요일, 마르사 베이다 구시가에 계획서에 없는 뭔가가 있어?
+FEDERICA: Ecco la domanda. Adesso ti dico come funziona. ||| 질문이 나왔네. 이제 어떻게 하는지 말해 줄게.
+CORRADO: Ti ascolto. ||| 듣고 있어.
+FEDERICA: Prima: io non ti chiedo un favore. Non voglio un'altra cambiale, perché le cambiali hanno una cattiva memoria e finiscono sempre nella borsa sbagliata. ||| 첫째, 나는 호의를 요구하지 않아. 어음 같은 건 이제 싫어. 어음은 기억이 나쁘고 늘 엉뚱한 가방에 들어가니까.
+CORRADO: Bene. ||| 좋아.
+FEDERICA: Secondo: quello che ti dico lo dico così come potrei dirlo in un'aula. Se non posso dirlo in un'aula, tu non lo senti. ||| 둘째, 내가 말하는 건 법정에서 말할 수 있는 만큼만이야. 법정에서 말 못 할 건 너도 못 들어.
+CORRADO: Ancora meglio. ||| 더 좋아.
+FEDERICA: Terzo: il mio prezzo. E qui ti sorprendo. Lo pago io, in parte, e lo paghi tu, in parte, ma lo paga soprattutto il tuo monsignore. ||| 셋째, 내 값. 여기서 놀랄 거야. 일부는 내가, 일부는 네가 치르지만 대부분은 네 몬시뇰이 치러.
+CORRADO: Sentiamo. ||| 들어 보자.
+FEDERICA: Voglio un nome. Un referente, scritto, nella Segreteria di Stato, con telefono e firma, per quando i servizi italiani devono parlare con il Vaticano. ||| 이름이 필요해. 국무원 안에 서면으로 지정된 연락 담당자. 전화번호와 서명이 있는, 이탈리아 정보기관이 바티칸과 얘기해야 할 때를 위한 사람.
+CORRADO: Un referente. ||| 연락 담당자라.
+FEDERICA: Non un'ombra. Una persona. Fino a ieri, per parlare con il Vaticano, avevamo un uomo con la stola e un metodo. Ora il metodo è andato in pensione a Ndolo. ||| 그림자 말고 사람. 어제까지는 바티칸과 말하려면 영대를 두른 한 사람과 그 사람의 방식이 있었지. 이제 그 방식은 놀로로 은퇴했고.
+CORRADO: È un prezzo che costa a te. ||| 너한테도 비싼 값이네.
+FEDERICA: Costa a tutti. A me, perché dovrò anch'io dare un nome. Al monsignore, perché dovrà firmare. A te, perché dovrai portare le due lettere. ||| 모두에게 비싸. 나도 이름을 내줘야 하고, 몬시뇰은 서명해야 하고, 너는 편지 두 통을 날라야 하니까.
+CORRADO: Accetto di portarle. Ma il monsignore deve ancora dire sì. ||| 나르는 건 받아들일게. 하지만 몬시뇰이 아직 승낙해야 해.
+FEDERICA: Certo. Intanto ti rispondo, perché il tuo sabato fra undici giorni non aspetta. Domanda registrata? ||| 물론이지. 그동안 대답은 해 줄게. 11일 뒤 토요일은 기다려 주지 않으니까. 질문은 기록됐지?
+CORRADO: Giulia sta scrivendo dal telefono. Ora, data, luogo. ||| 줄리아가 휴대폰으로 받아 적고 있어. 시각, 날짜, 장소까지.
+FEDERICA: Allora: niente di specifico. Non c'è nessun piano concreto che conosciamo. Non lo dico io: lo dice il fatto che non ne esce niente. ||| 그럼 말할게. 특정한 건 없어. 우리가 아는 구체적 계획은 없고. 내가 그렇게 말하는 게 아니라 아무것도 흘러나오지 않는다는 사실이 그렇게 말해.
+CORRADO: E cose non specifiche? ||| 구체적이지 않은 건?
+FEDERICA: Due. Una: su un forum aperto, tre giorni fa, qualcuno ha convocato una veglia notturna davanti al santuario, la notte prima. Lo ha scritto in chiaro, con firma di un'associazione parrocchiale locale. ||| 둘이야. 하나, 사흘 전에 열린 포럼에 누군가 전날 밤 성당 앞에서 철야 기도를 하자고 공지했어. 대놓고 썼고 지역 본당 모임 이름으로 서명이 있었어.
+CORRADO: E quindi non è un'ombra. ||| 그러니까 그림자가 아니라는 거네.
+FEDERICA: È una candela. Seconda: una mappa del percorso a piedi, con i settecento metri, circola già in cinquecento copie. L'ha stampata l'ufficio di quartiere per avvisare i commercianti. ||| 촛불이지. 둘, 걸어서 가는 700미터 경로가 표시된 지도가 벌써 500부 돌고 있어. 구청 지소가 상인들에게 알리려고 인쇄했어.
+CORRADO: Allora la segretezza del percorso non c'è. ||| 그럼 경로의 비밀 같은 건 이미 없네.
+FEDERICA: Non c'è mai stata. L'unico segreto di quel percorso è che il Vaticano lo credeva segreto. ||| 처음부터 없었어. 그 경로의 유일한 비밀은 바티칸이 그걸 비밀로 믿고 있었다는 것뿐이야.
+CORRADO: Questo lo scrivo a verbale con particolare piacere. ||| 이 대목은 특히 기쁜 마음으로 회의록에 적겠어.
+FEDERICA: E sappi che le informazioni migliori sono quasi sempre già pubbliche. Il mio mestiere è leggerle prima degli altri. ||| 그리고 알아 둬. 가장 좋은 정보는 거의 항상 이미 공개돼 있어. 내 일은 그걸 남들보다 먼저 읽는 거야.
+CORRADO: Scusa, Federica. Un grazie, a questo punto? ||| 미안한데, 페데리카. 여기서는 고맙다고 해도 되는 거지?
+FEDERICA: Il grazie è un debito che non ho chiesto. Offrimi un caffè e siamo pari. ||| 고맙다는 말은 내가 청구하지 않은 빚이야. 커피나 한 잔 사. 그럼 우리는 비긴 거야.
++ cambiale = 어음. 2부의 '빚' 모티프를 되풀이하는 단어. 'una cambiale in bianco'는 백지 어음
++ come potrei dirlo in un'aula = 법정에서 말할 수 있는 그대로. 조건법 + 'aula'(법정·강의실)
++ referente = 연락 담당자, 창구. 행정·외교에서 '이 건의 담당자'를 가리킴
++ stola = (사제의) 영대. 여기서는 사제복 입은 사람이라는 의미의 환유
++ domanda registrata = 질문 기록됨. 공개 교환의 첫 규칙을 재확인하는 의례적 문장
++ in chiaro = 암호화하지 않고, 공개적으로. 'scritto in chiaro'는 숨기지 않고 쓴
++ una candela = 촛불. 페데리카의 농담: 위협이 아니라 기도라는 뜻
++ offrimi un caffè = 커피 한 잔 사 줘. 명령형 + 간접목적 대명사 mi (offri + mi)
+## 영수증이 아니라 이름 — IL PREZZO E LA NOTA DI BENEDETTO
+MANINI: Dottor Lanza, mi ha dato appuntamento al bancone di Sant'Eustachio. Un monsignore al bancone, con la tazzina in piedi. Il portinaio del palazzo mi ha guardato come se avessi cambiato mestiere. ||| 란차 박사님, 산탄스타키오 바 카운터에서 보자고 하셨지요. 몬시뇰이 서서 잔을 들고 있으니 건물 수위가 제가 직업을 바꾼 줄 알더군요.
+CORRADO: Qui il caffè si prende come lo prendono tutti. Anche i cardinali, se mi permette. ||| 여기서는 커피를 모두가 마시는 방식으로 마십니다. 허락하신다면 추기경들도요.
+MANINI: Allora mi dica la risposta. ||| 그럼 답을 말씀해 주십시오.
+CORRADO: Nessun piano specifico. Due cose non specifiche, entrambe pubbliche: la veglia di preghiera la notte prima, convocata su un forum aperto da un gruppo parrocchiale; e la mappa del percorso, che l'ufficio di quartiere ha già stampato in cinquecento copie per i commercianti. ||| 구체적인 계획은 없습니다. 구체적이지 않은 사항이 둘 있고 둘 다 공개된 것입니다. 열린 포럼에서 본당 모임이 공지한 전날 밤 기도회와, 구청 지소가 상인들에게 알리려고 이미 500부를 인쇄한 경로 지도입니다.
+MANINI: Una veglia. Una mappa. ||| 철야 기도와 지도라.
+CORRADO: Una candela e un foglio, monsignore. Lei temeva un'ombra e ha trovato una candela. ||| 촛불과 종이 한 장입니다, 몬시뇰. 그림자를 걱정하셨는데 촛불이 있었던 겁니다.
+MANINI: Sono sollevato. E un po' offeso: il mio dicastero ha speso sei mesi a tenere segreto un percorso che era in vendita al bar. ||| 안도했습니다. 그리고 조금 상했군요. 우리 부서는 6개월 동안 비밀로 지킨 경로가 사실은 바에서 돌고 있었으니까요.
+CORRADO: Non in vendita: in distribuzione. La differenza, a Marsa Beida, è tutta nel pane che ti offrono con la mappa. ||| 판매가 아니라 배포였지요. 마르사 베이다에서 그 차이는 지도와 함께 주는 빵에 있습니다.
+MANINI: E il prezzo? Lei ha detto che c'è sempre un prezzo. ||| 그럼 값은요? 언제나 값이 있다고 하셨는데요.
+CORRADO: Un nome. Un referente scritto della Segreteria di Stato per i rapporti con i servizi italiani, con telefono e firma, e una lettera di risposta del Servizio con un nome dall'altra parte. ||| 이름입니다. 이탈리아 정보기관과의 관계를 담당하는, 전화번호와 서명이 있는 국무원 연락 담당자를 서면으로 지정하고, 그쪽 기관도 자기 쪽 이름을 적은 답신을 보냅니다.
+MANINI: Una firma. ||| 서명이군요.
+CORRADO: Due firme. La sua e la sua. ||| 서명 둘입니다. 몬시뇰 것과 그쪽 것이요.
+MANINI: Dottor Lanza, un nome è una responsabilità. Monsignor Bellandi non firmava mai. Per questo non rispondeva mai. ||| 박사님, 이름은 책임입니다. 벨란디 몬시뇰은 한 번도 서명하지 않았고, 그래서 한 번도 책임지지 않았지요.
+CORRADO: E se lei firma e sbaglia? ||| 몬시뇰이 서명했다가 틀리면요?
+MANINI: Sbaglio con il mio nome. ||| 제 이름으로 틀리는 겁니다.
+CORRADO: E se non firma e sbaglia? ||| 서명하지 않고 틀리면요?
+MANINI: Sbaglia qualcuno che non c'è. ||| 거기 없는 누군가가 틀리는 거지요.
+CORRADO: Che è peggio, perché nessuno può correggerlo. ||| 그게 더 나쁩니다. 아무도 바로잡을 수 없으니까요.
+MANINI: Sa che ho scritto la tesi su Benedetto Quindicesimo? ||| 제가 베네딕토 15세로 논문을 쓴 걸 아십니까?
+CORRADO: Lo immaginavo dalle sue virgole. ||| 몬시뇰의 쉼표에서 짐작했습니다.
+MANINI: Il primo agosto 1917 scrisse una nota ai capi dei popoli belligeranti: disarmo simultaneo, arbitrato, libertà dei mari, rinuncia alle indennità, evacuazione dei territori occupati. E definì la guerra «l'inutile strage». ||| 1917년 8월 1일에 교전국 지도자들에게 각서를 썼습니다. 동시 군축, 중재, 해양의 자유, 배상금 포기, 점령지 철수를요. 그리고 전쟁을 '무익한 학살'이라 불렀지요.
+CORRADO: E nessuno la volle. ||| 그리고 아무도 받아들이지 않았고요.
+MANINI: Quasi nessuno: la rifiutarono, la criticarono, la accusarono di parzialità. Ma la lessero tutti, e nessuno poté dire che era segreta. ||| 거의 아무도요. 거절하고 비판하고 편파적이라고 비난했습니다. 하지만 모두가 읽었고, 누구도 비밀이라고는 말하지 못했습니다.
+CORRADO: Parole alla luce si rifiutano. Parole all'ombra si negano. ||| 빛 속의 말은 거절할 수 있고, 그늘 속의 말은 부인할 수 있지요.
+MANINI: E chi rifiuta deve ammettere di aver letto. Chi nega, no. Ecco perché il Papa scelse di farsi rifiutare. ||| 거절하는 사람은 읽었다고 인정해야 하고, 부인하는 사람은 그럴 필요가 없습니다. 그래서 교황은 거절당하는 쪽을 택한 겁니다.
+CORRADO: E la frase «inutile strage» è rimasta. ||| 그리고 '무익한 학살'이라는 말은 남았습니다.
+MANINI: Sì. Perché era detta in pubblico. Una frase detta di nascosto avrebbe avuto la sorte dei verbali che nessuno ha firmato. ||| 네. 공개적으로 말했으니까요. 몰래 한 말이었다면 아무도 서명하지 않은 회의록의 운명을 맞았을 겁니다.
+CORRADO: Allora firmerà? ||| 그럼 서명하시겠습니까?
+MANINI: Devo chiedere al Cardinale Segretario di Stato. Non per cortesia: perché la firma impegna l'ufficio. Ma la mia raccomandazione sarà un sì. ||| 국무원장 추기경께 여쭈어야 합니다. 예의상이 아니라 서명이 부서를 구속하기 때문입니다. 하지만 제 의견은 찬성이 될 겁니다.
+CORRADO: La attendo stasera. ||| 오늘 저녁에 기다리겠습니다.
+MANINI: Una cosa ancora, dottor Lanza. Il giorno in cui io firmo, lei annota il mio nome con la penna blu? ||| 박사님, 하나만 더요. 제가 서명하는 날, 박사님이 제 이름을 파란 펜으로 적어 주시겠습니까?
+CORRADO: Chi le ha parlato della penna blu? ||| 파란 펜 이야기는 누가 했습니까?
+MANINI: Il portiere della Cancelleria. Mi ha detto che a Roma, ormai, c'è un funzionario che aggiunge e non cancella. ||| 칸첼레리아 수위입니다. 로마에는 이제 지우지 않고 더하는 공무원이 있다더군요.
++ al bancone = 바 카운터에서. 이탈리아 바에서 서서 마시는 에스프레소 문화를 가리킴
++ in vendita / in distribuzione = 판매 중 / 배포 중. 대비가 농담의 핵심
++ dicastero = (교황청의) 부서. 바티칸 용어로 장관급 부서에 해당
++ la nota ai capi dei popoli belligeranti = 교전국 지도자들에게 보낸 각서. 베네딕토 15세의 1917년 8월 1일 각서
++ inutile strage = 무익한 학살. 각서의 가장 유명한 표현
++ si rifiutano / si negano = 거절되다 / 부인되다. 비인칭·수동의 si로 일반 원칙을 말하는 문장
++ penna blu = 파란 펜. '지우지 않고 더한다'는 3부의 상징(토니노의 규칙)
++ impegna l'ufficio = 부서를 구속한다. impegnare는 '약속으로 묶다'
+
+## 빨래 — IL BUCATO DI NONNA CONCETTA
+CONCETTA: Corrado, vieni qua e reggimi questo lenzuolo! ||| 코라도, 이리 와서 이 시트 좀 잡아 줘라!
+CORRADO: Nonna Concetta, stendi il bucato nel cortile della bocciofila? ||| 콘체타 할머니, 보치아 클럽 마당에 빨래를 너시는 거예요?
+CONCETTA: Dove vuoi che lo stenda? Al sole ci sono i giocatori, all'ombra c'è il cortile. Prendi l'altra molletta. ||| 어디에 널란 말이냐? 햇볕 아래는 선수들이 있고 그늘은 마당이잖니. 그쪽 집게도 가져와.
+ERCOLE: Corrado, siediti. Questa donna ha fatto le federe del campionato del cinquantasei. ||| 코라도, 앉아라. 이 사람은 56년 대회 때 베갯잇도 다 빨았다.
+PEPPINO: E le ha restituite in giornata, con le iniziali ricamate. ||| 그것도 당일에 돌려줬지, 머리글자까지 수를 놓아서.
+CONCETTA: Taci, Peppino. Tu pensa a bocciare, che a parlare ci penso io. ||| 입 다물어, 페피노. 넌 공이나 맞혀라. 말은 내가 한다.
+CORRADO: Ho un problema che mi pesa. Ho avuto un pranzo con un monsignore che mi ha chiesto di domandare una cosa all'Agenzia. Senza carta. ||| 마음에 걸리는 일이 있어요. 오늘 점심에 몬시뇰을 만났는데, 서류 없이 정보기관에 뭘 하나 물어봐 달라고 하더군요.
+ERCOLE: Senza carta. Quella è la frase peggiore del mondo. ||| '서류 없이'라. 세상에서 제일 나쁜 말이지.
+CORRADO: Perché? ||| 왜요?
+ERCOLE: Trentatré anni da commesso, Corrado. Portavo carrelli di faldoni su e giù per la Farnesina. I segreti pesano come i faldoni: se li lasci sul carrello, il carrello si inclina. Qualcuno ci sbatte il piede. ||| 33년 동안 사환이었다, 코라도. 외무부 복도를 오가며 서류철 수레를 밀었지. 비밀은 서류철처럼 무겁다. 수레에 그냥 두면 수레가 기울고 누군가는 발을 부딪친다.
+PEPPINO: Io ho un segreto leggerissimo: ho battuto Ercole undici a nove. ||| 내 비밀은 아주 가볍다. 에르콜레를 11 대 9로 이겼다는 거지.
+ERCOLE: Undici a dieci, e con il vento. ||| 11 대 10이었고 바람이 불었지.
+CONCETTA: Basta con i punteggi. Corrado, ascolta. Il proverbio dice che i panni sporchi si lavano in famiglia. ||| 점수 얘기는 그만. 코라도, 들어 봐라. 속담은 더러운 빨래는 집안에서 빤다고 하지.
+CORRADO: Lo conosco. ||| 알고 있어요.
+CONCETTA: Io dico: si lavano in famiglia e si stendono in piazza. Il bucato chiuso nell'armadio sa di muffa. I segreti sono come il bucato: si stendono al sole. ||| 나는 이렇게 말한다. 집안에서 빨고 광장에서 너는 거야. 장롱에 갇힌 빨래는 곰팡내가 나거든. 비밀은 빨래와 같아서 햇볕에 널어야 해.
+CORRADO: E al sole che cosa succede? ||| 햇볕에서는 어떻게 되는데요?
+CONCETTA: Due cose. Il sole fa passare l'odore. E fa vedere le macchie che restano. Ma le macchie che si vedono si possono lavare un'altra volta. Quelle che nessuno vede ti rovinano la camicia buona. ||| 두 가지. 햇볕은 냄새를 날려 주고, 남은 얼룩을 보여 준다. 보이는 얼룩은 한 번 더 빨면 돼. 아무도 못 본 얼룩은 좋은 셔츠를 버려 놓는 거고.
+PEPPINO: Questa la scrivo sulla lavagna. ||| 이건 칠판에 써야겠네.
+ERCOLE: La lavagna è per i turni, non per i proverbi. ||| 칠판은 순번 쓰는 거지 속담 쓰는 게 아니야.
+CONCETTA: Per i turni e per le cose che durano. ||| 순번을 쓰고, 오래가는 것도 쓰는 거야.
+CORRADO: Nonna Concetta, io ho già stabilito che la domanda sarà a verbale, e la risposta pure. Il monsignore ha accettato. ||| 콘체타 할머니, 저는 질문도 답도 회의록에 올리기로 이미 정했어요. 몬시뇰도 받아들였고요.
+CONCETTA: Allora hai già steso il lenzuolo. Ti manca solo la molletta. ||| 그럼 시트는 벌써 널었네. 집게만 모자란 거야.
+ERCOLE: La molletta è la firma. ||| 그 집게가 서명이지.
+CORRADO: Che consiglio mi dà, Ercole, per la firma? ||| 서명에 대해 어떤 조언을 해 주시겠어요, 에르콜레 씨?
+ERCOLE: Che non è una paura, è un peso che si divide. Chi firma non si carica: si fa trovare. ||| 서명은 두려움이 아니라 나눠 지는 무게라는 거다. 서명하는 사람은 짐을 지는 게 아니라 찾을 수 있게 되는 거야.
+CORRADO: Si fa trovare. ||| 찾을 수 있게 된다.
+ERCOLE: Perché il peggio non è sbagliare. Il peggio è sbagliare e non sapere chi chiamare. ||| 최악은 틀리는 게 아니다. 틀렸는데 누구를 불러야 할지 모르는 거지.
+PEPPINO: Come quando ti ruba la boccia un tizio con il metro. ||| 줄자 든 녀석이 네 공을 가져갈 때처럼 말이지.
+CORRADO: Chi ha il metro? ||| 줄자를 든 사람이 누굽니까?
+PEPPINO: Ieri è venuto uno con un metro a laser e un tablet. Ha misurato il campo tre, il campo due, il cancello. Non ha salutato. ||| 어제 레이저 줄자랑 태블릿을 든 사람이 왔어. 3번 코트, 2번 코트, 대문을 재더구나. 인사도 안 했고.
+ERCOLE: Peppino, non adesso. Lo diciamo a Corrado quando ha finito con il Papa. ||| 페피노, 지금은 아니다. 코라도가 교황 일을 끝내면 그때 말하자.
+CORRADO: Ercole, che cosa dovrei sapere? ||| 에르콜레 씨, 제가 뭘 알아야 하죠?
+ERCOLE: Niente di stasera. Mangia. Concetta ha fatto la pasta e ceci. ||| 오늘 밤엔 아무것도 아니다. 먹어라. 콘체타가 파스타 에 체치를 했다.
++ reggere = 붙들다, 받치다. 'reggimi questo lenzuolo'는 reggi + mi, 명령형에 대명사가 붙음
++ molletta = 빨래집게. 서명을 '집게'에 비유한 에르콜레의 말
++ panni sporchi = 더러운 빨래. 속담 'i panni sporchi si lavano in famiglia'(집안일은 밖에 알리지 않는다)
++ si stendono = (빨래를) 널다. 비인칭 si 수동문, 'stendere il bucato'
++ lavagna = 칠판. 보치아 클럽의 순번 명단 칠판
++ faldoni = 대형 서류철. 관청 문서고의 실물감을 주는 단어
++ si fa trovare = 찾을 수 있게 되다. 서명이 곧 '연락될 수 있음'이라는 에르콜레의 정의
++ bocciare = (보치아에서) 상대 공을 쳐서 밀어내다. 학교에서는 '낙제시키다'라는 뜻이기도 한 다의어
+
+## 공공성의 원칙 — LA LETTERA E LA CARTOLINA
+LEO: Papà, hai la faccia di quando ti sei chiesto se dire o non dire. ||| 아빠, 말할까 말까 고민할 때의 얼굴이야.
+CORRADO: Mangia la pasta e ceci. ||| 파스타 에 체치나 먹어.
+LEO: La mangio. Oggi in classe la professoressa ci ha letto Kant. «Sono ingiuste tutte le azioni che si riferiscono al diritto di altri uomini, la cui massima non è compatibile con la pubblicità.» ||| 먹고 있어. 오늘 수업에서 선생님이 칸트를 읽어 주셨어. '타인의 권리와 관련된 행위로서 그 준칙이 공개성과 양립하지 않는 것은 모두 부당하다.'
+CORRADO: «Per la pace perpetua». 1795. ||| 『영원한 평화를 위하여』, 1795년이지.
+LEO: Quindi se non puoi dirlo in pubblico, è ingiusto? ||| 그러니까 공개적으로 말할 수 없으면 부당하다는 거야?
+CORRADO: Se riguarda i diritti degli altri e la sua massima non regge alla luce: sì. ||| 다른 사람의 권리와 관련 있고 그 준칙이 빛 앞에서 버티지 못한다면, 그래.
+LEO: E se un segreto salva una persona? Che ne so, se un uomo nasconde un ricercato per salvarlo? ||| 그럼 비밀이 사람을 구하면? 예를 들어 쫓기는 사람을 구하려고 숨겨 주는 거라면?
+CORRADO: Domanda da diciassette anni, Leo. ||| 열일곱 살짜리 질문이네, 레오.
+LEO: Ne ho sedici. ||| 나 열여섯이야.
+CORRADO: Allora da sedici anni e mezzo. Una cosa è tacere un nome per un'ora per proteggere chi è in pericolo. Un'altra è fare un patto che non dirai mai niente a nessuno e in cambio ti danno qualcosa. ||| 그럼 열여섯 살 반짜리 질문. 위험에 처한 사람을 보호하려고 한 시간 동안 이름을 말하지 않는 건 한 가지고, 아무에게도 영원히 말하지 않기로 약속하고 대가를 받는 건 다른 거야.
+LEO: Il primo ha una fine. Il secondo no. ||| 앞의 건 끝이 있고, 뒤의 건 끝이 없네.
+CORRADO: Mai una nebbia senza il suo orario. ||| 종료 시각 없는 안개는 없다.
+LEO: Quindi la pubblicità di Kant non è subito: è prima o poi? ||| 그럼 칸트의 공개성은 당장이 아니라 언젠가는 이라는 거야?
+CORRADO: È un test. Immagina che domani tutto quello che fai sia letto da chi te lo ha chiesto, e da chi lo subisce. Se riesci a immaginarlo senza arrossire, vai avanti. ||| 시험 같은 거지. 내일 네가 한 일이 그걸 부탁한 사람과 당하는 사람에게 모두 읽힌다고 상상해 봐. 얼굴이 붉어지지 않고 상상할 수 있으면 계속 가도 돼.
+LEO: E oggi hai arrossito? ||| 오늘은 얼굴 빨개졌어?
+CORRADO: Un po', a pranzo. Poi ho steso il lenzuolo. ||| 점심 땐 조금. 그다음에 시트를 널었어.
+LEO: Il lenzuolo? ||| 시트를?
+CORRADO: Te lo spiego dopo. È una questione di nonna Concetta. ||| 나중에 설명해 줄게. 콘체타 할머니의 방식이야.
+LEO: Papà, c'è una cartolina per te. L'ho trovata nella cassetta. Ha un francobollo con un uccello. ||| 아빠, 엽서가 왔어. 우편함에서 찾았는데 새가 그려진 우표가 붙어 있어.
+CORRADO: Da dove? ||| 어디서 왔는데?
+LEO: Ndolo. Leggo? ||| 놀로야. 읽을까?
+CORRADO: Leggi. ||| 읽어 줘.
+LEO: «Caro Corrado, qui ho teso una corda fra due alberi di karité e ho appeso il mio bucato. Ho cominciato dal mio. Le macchie si vedono tutte, e mi fa bene. Ti prego di non venire a trovarmi prima di aver firmato qualcosa di tuo. Ettore.» ||| '사랑하는 코라도, 여기서는 시어버터 나무 두 그루 사이에 줄을 매고 빨래를 널었네. 내 것부터 시작했지. 얼룩이 다 보이는데 오히려 마음이 편하네. 자네 것으로 뭔가에 서명하기 전에는 나를 찾아오지 말아 주게. 에토레.'
+CORRADO: Ha scritto «bucato». ||| '빨래'라고 썼네.
+LEO: Che c'entra il bucato? ||| 빨래가 뭐랑 상관있는데?
+CORRADO: C'entra che ci sono persone che arrivano alla stessa idea da posti diversi. ||| 서로 다른 곳에서 같은 생각에 도달하는 사람들이 있다는 얘기야.
+LEO: Telefono, papà. ||| 아빠, 전화 와.
+CORRADO: Lanza. Monsignore? ||| 란차입니다. 몬시뇰이십니까?
+MANINI: Dottor Lanza, il Cardinale ha detto di sì. Il referente della Segreteria di Stato per i rapporti con il Servizio sarà il suo sottoscritto: Carlo Manini, con il mio telefono e la mia firma. ||| 란차 박사님, 추기경께서 승낙하셨습니다. 국무원의 정보기관 연락 담당자는 이 사람, 카를로 마니니입니다. 제 전화번호와 서명으로요.
+CORRADO: Il suo nome. ||| 몬시뇰의 이름이군요.
+MANINI: Non voglio un'ombra al mio posto. Domani mattina alle nove la lettera è protocollata. ||| 제 자리에 그림자를 두고 싶지 않습니다. 내일 아침 9시에 서한이 등록됩니다.
+CORRADO: Allora domani mattina porto la seconda lettera. Con il nome dall'altra parte. ||| 그럼 내일 아침에 두 번째 서한을 가져가겠습니다. 상대 쪽 이름이 적힌 것으로요.
+MANINI: E dica alla sua persona che le informazioni, se sono pubbliche, le ringrazio in pubblico. ||| 그리고 그분께 전해 주십시오. 정보가 공개된 것이라면 저도 공개적으로 감사드리겠습니다.
+CORRADO: Lo riferirò a voce alta. Buonanotte, monsignore. ||| 큰 소리로 전하겠습니다. 안녕히 주무십시오, 몬시뇰.
+LEO: Papà, il lenzuolo è steso? ||| 아빠, 시트는 다 널었어?
+CORRADO: Quasi. Manca la molletta. Domani. ||| 거의. 집게만 모자라. 내일.
++ pubblicità = (칸트) 공개성. 이탈리아어 'pubblicità'는 광고 외에 '공개성'의 뜻이 있음
++ la cui massima = 그 준칙이. 관계대명사 il cui/la cui의 소유 용법. 'massima'는 칸트의 Maxime
++ arrossire = 얼굴이 붉어지다. 도덕 판단의 '부끄럼 없음' 검사
++ che c'entra? = 그게 무슨 상관이야? (entrarci). 'c'entra che...'는 '상관있는 건 ~이라는 것'
++ protocollata = 문서 번호가 매겨져 등록된. 공문서 접수·발송 행위
++ teso una corda = 줄을 매었다 (tendere). 과거분사 teso
++ il suo sottoscritto = 이 서명자, 즉 저. 공문체에서 '本人'을 가리키는 관용 표현
++ ti prego di non venire = 오지 말아 주게. pregare di + 부정사

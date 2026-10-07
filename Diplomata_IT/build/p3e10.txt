@@ -1,0 +1,234 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 10
+@title La bocciofila
+@ko 보치아 클럽
+@setting 목요일 아침 7시 테스타초 보치아 클럽 → 오전 서류 검토 → 오후 캄피돌리오 자산 담당 부서 → 저녁 클럽 칠판 앞 → 밤 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 83세(전 외무부 사환)
+@cast PEPPINO | 보치아 클럽 노인, 79세
+@cast CONCETTA | 노나 콘체타, 85세(주방 총괄)
+@cast CECCHINI | 로마 시 자산 담당 의원 마르타 체키니, 49세
+@cast BRANDOLINI | 개발사 '테베레 수드 스빌루포' 대표 다비데 브란돌리니, 45세
+@cast LEO | 란차의 아들, 16세
+@note D사건의 첫 화입니다. 지금까지 노인들은 코라도에게 조언을 해 주기만 했습니다. 이번에는 처음으로 노인들이 도움을 청합니다. 클럽이 쓰는 대지(2,380제곱미터, 보치아 코트 셋, 포도 덩굴 시렁, 부엌)가 재개발 매각 공고에 올랐습니다. 1951년의 이용 허가는 75년 만기로 6월 30일에 끝나고, 공매일은 22일 뒤입니다. 에르콜레의 말 '땅이 아니라 순서야(Non è la terra, è il turno)'가 이 화의 열쇠입니다. 노인들이 지키려는 것은 흙이 아니라 칠판 위의 순서, 곧 대를 이어 아래에 이름을 더해 온 연속성입니다. 란차는 이번에는 우회하지 않고 정공법으로 시청 자산 담당 의원과 개발사 대표를 직접 만납니다. 개발사는 지하층에 인조 레인 두 줄을 내놓지만, 에르콜레는 '지하에서는 순서가 이어지지 않는다'고 답합니다. 의원은 매각 승인이 부처 국장 페란테 박사의 의견에서 나왔다고 알려 줍니다(다음 화의 대결 상대). 역사 논거는 로마 공화국(1849)입니다. 7월 3일 캄피돌리오에서 헌법이 공포되었고(같은 날 프랑스군이 로마에 입성), 첫 원칙은 '주권은 영원한 권리로 인민에게 있다', 둘째는 '평등·자유·박애'였습니다. 에르콜레의 증조부는 열아홉에 가니콜로 언덕에서 포병에게 물을 날랐고, '그때 처음으로 우리에게 묻고 명령하지 않았다'는 말을 남겼습니다. 레오의 철학은 한나 아렌트입니다. 공동의 세계는 둘러앉은 사람들 사이에 놓인 식탁과 같아서 사람을 나누기도 이어 주기도 한다는 것입니다. 어휘는 부동산·행정(alienazione, concessione, base d'asta, patrimonio indisponibile)과 보치아 용어(pallino, bocciata, corsia)에 주목하세요.
+@next 3-11 «노인 회의» — 외교 기술이 동네에서 통하지 않고, 노인들 사이에서도 의견이 갈립니다. 해법은 보치아의 규칙에서 나옵니다.
+
+## 새벽 7시의 클럽 — IL TURNO
+ERCOLE: Sei puntuale. Sono le sette. Hai portato il gessetto? ||| 제시간에 왔구나. 7시다. 분필은 가져왔냐?
+CORRADO: In tasca, Ercole. Dove l'ho sempre. Ma lei mi ha chiamato per un messaggio vocale di quaranta secondi che non dice niente. ||| 주머니에 있어요, 에르콜레 씨. 늘 있던 자리에요. 그런데 40초짜리 음성 메시지는 아무 말도 안 하던데요.
+ERCOLE: Dice che ti chiedo qualcosa. È la prima volta in ottantatré anni. ||| 내가 너한테 부탁한다는 말은 했다. 83년 사는 동안 처음이지.
+CONCETTA: Il caffè. Siediti, Corrado, che in piedi non si parla di cose serie. ||| 커피다. 앉아라, 코라도. 선 채로는 진지한 얘기를 못 하는 법이야.
+PEPPINO: Io ho già il cuore in gola e non ho bevuto nemmeno una goccia. ||| 나는 한 방울도 안 마셨는데 벌써 가슴이 두근거린다.
+CORRADO: Che è successo? ||| 무슨 일입니까?
+ERCOLE: Guarda il cancello. ||| 대문을 봐라.
+CORRADO: C'è un foglio attaccato. ||| 종이가 붙어 있네요.
+ERCOLE: Leggilo. ||| 읽어 봐라.
+CORRADO: «Avviso di alienazione. Lotto quattordici, superficie duemilatrecentottanta metri quadrati, già assegnato in uso ad associazione sportiva dilettantistica. Asta pubblica, fra ventidue giorni. Base d'asta: due milioni e cento mila euro.» ||| '매각 공고. 14번 필지, 면적 2,380제곱미터, 기존에 아마추어 체육 단체에 이용 허가. 공개 경매는 22일 뒤. 최저 입찰가 210만 유로.'
+PEPPINO: Associazione sportiva dilettantistica. Siamo diventati una sigla. ||| 아마추어 체육 단체라. 우리가 약자로 불리게 됐군.
+CONCETTA: L'hanno attaccato ieri, alle dieci di sera, con la colla vinilica. Ho provato a staccarlo con la spatola, ma la colla è buona. ||| 어제 밤 10시에 목공 풀로 붙여 놨어. 주걱으로 떼어 보려 했는데 풀이 좋더구나.
+CORRADO: E ora? ||| 그래서요?
+CONCETTA: Ora lo lasciamo. Non si può cancellare un avviso: qualcuno deve leggerlo. ||| 이제 그대로 둔다. 공고는 지우는 게 아니다. 누군가는 읽어야 하니까.
+ERCOLE: Ti ho chiamato per questo, Corrado. Non è la terra. ||| 그래서 널 부른 거다, 코라도. 땅이 아니라서다.
+CORRADO: Come? ||| 무슨 말씀이세요?
+ERCOLE: Non è la terra, è il turno. ||| 땅이 아니라 순서야.
+PEPPINO: Dici che la terra non conta? Con duemilatrecentottanta metri a Testaccio? ||| 땅이 안 중요하다는 거냐? 테스타초에 2,380제곱미터가 있는데?
+ERCOLE: La terra la vende chiunque, Peppino. Al mercato c'è sempre qualcuno che compra e qualcuno che vende. Il turno no. ||| 땅은 누구든 판다, 페피노. 시장에는 사는 사람도 파는 사람도 늘 있지. 순서는 그렇지 않아.
+CORRADO: Mi spieghi che cos'è il turno. Per me è una parola della lavagna. ||| 순서가 뭔지 설명해 주세요. 저한테는 칠판에 쓰인 말일 뿐인데요.
+ERCOLE: Alza la testa. Eccola. Cinquantotto nomi. Ogni sera, per ogni campo, una squadra scrive il nome sotto l'ultimo. Non si cancella. Il mio nome sta sotto quello di mio padre, il suo sotto quello di suo padre, e sotto il mio c'è quello di un ragazzo del Mattatoio. ||| 고개를 들어 봐라. 저기 있다. 이름 58개. 매일 저녁 코트마다 한 팀이 마지막 이름 밑에 자기 이름을 쓴다. 지우지 않아. 내 이름은 아버지 이름 밑에, 아버지 이름은 할아버지 이름 밑에 있고, 내 밑에는 마타토이오 동네 아이 이름이 있다.
+CORRADO: Un registro. ||| 등록부로군요.
+ERCOLE: Un registro che cammina. E sotto il registro c'è la regola: il turno non si compra, non si vende, non si ruba. Si aspetta. Chi aspetta, entra. ||| 걸어 다니는 등록부다. 그리고 그 밑에 규칙이 있다. 순서는 사지도, 팔지도, 훔치지도 못한다. 기다리는 거야. 기다리는 사람이 들어온다.
+CONCETTA: E se ti spostano in un'altra sala, il turno si ferma. Perché il turno è fatto di quella terra, quell'ombra, quel pergolato. ||| 다른 곳으로 옮겨 버리면 순서가 멈춘다. 순서는 이 땅, 이 그늘, 이 포도 시렁으로 만들어진 거니까.
+PEPPINO: E la cucina! Non dimenticare la cucina! ||| 부엌도! 부엌을 잊지 마라!
+CORRADO: Chi vi ha detto della vendita? ||| 매각 얘기는 누구한테 들었어요?
+PEPPINO: Nessuno. Ieri è venuto uno con il metro a laser. Poi ha attaccato il foglio. Questo è tutto quello che ci hanno detto: un laser e una colla. ||| 아무도. 어제 레이저 줄자 든 사람이 왔고 그다음에 종이를 붙였어. 우리한테 알려 준 건 그게 전부다. 레이저 하나와 풀 하나.
+CONCETTA: Hanno scritto a mano soltanto una cosa, in fondo, a matita. ||| 맨 아래에 연필로 손글씨 딱 하나 적혀 있었다.
+CORRADO: Dove? ||| 어디요?
+CONCETTA: Qui. «Ritirare la tabella di sicurezza». Neanche una parola per noi. ||| 여기. '안전 표지판 철거'. 우리한테는 한 마디도 없어.
+ERCOLE: Corrado, ti chiedo tre cose. ||| 코라도, 세 가지를 부탁한다.
+CORRADO: Dica, Ercole. ||| 말씀하세요, 에르콜레 씨.
+ERCOLE: Primo: leggi le carte. Secondo: parla con chi decide, in faccia. Terzo: quando parli, di' il nome di ciascuno di noi. ||| 첫째, 서류를 읽어라. 둘째, 결정하는 사람과 얼굴을 보고 얘기해라. 셋째, 말할 때 우리 한 사람 한 사람의 이름을 불러라.
+CORRADO: Il nome di ciascuno. ||| 한 사람 한 사람의 이름을요.
+ERCOLE: Cinquantotto. Non voglio che qualcuno parli per «i soci». I soci non esistono. Esiste Peppino, esiste Concetta, esiste il ragazzo del Mattatoio. ||| 58명이다. 누가 '회원들'을 대신해서 말하는 건 싫다. 회원들은 존재하지 않아. 페피노가 있고, 콘체타가 있고, 마타토이오 아이가 있지.
+CORRADO: Posso dirlo solo se ho tutti i nomi. ||| 이름을 전부 갖고 있어야 말할 수 있어요.
+ERCOLE: Li hai. Sono sulla lavagna. Basta leggerli. ||| 갖고 있다. 칠판에 있어. 읽기만 하면 된다.
++ alienazione = 매각, 양도. 공공 자산을 처분하는 행정 용어
++ base d'asta = 경매 최저 입찰가. 'asta pubblica'는 공개 경매
++ associazione sportiva dilettantistica = 아마추어 체육 단체(약칭 ASD). 노인들은 이 행정 약어에 모욕감을 느낌
++ colla vinilica = 목공용 풀, 비닐 접착제. 서민적인 사물 이름으로 공고문의 거친 방식을 보여 줌
++ non è la terra, è il turno = 땅이 아니라 순서다. 에르콜레의 핵심 문장. 'turno'는 순번·교대의 뜻
++ chi aspetta, entra = 기다리는 사람이 들어온다. 보치아 칠판의 규칙을 한 줄로 요약
++ ho il cuore in gola = 가슴이 두근거린다. 직역하면 '심장이 목구멍에 있다'
++ se ti spostano... il turno si ferma = 옮기면 순서가 멈춘다. 'se + 직설법 현재'로 일반 조건을 나타냄
+
+## 서류 읽기 — IL FASCICOLO
+GIULIA: Corrado, ho tutto il fascicolo dal sito dell'albo pretorio. Sono quarantadue pagine, e in quaranta di queste non c'è una sola parola sul club. ||| 코라도, 시청 공고 게시판 사이트에서 서류 전체를 내려받았어요. 42쪽인데 그중 40쪽에는 클럽 얘기가 한 줄도 없어요.
+CORRADO: E nelle altre due? ||| 나머지 두 쪽에는요?
+GIULIA: Prima: la concessione del 1951. «L'area è concessa in uso gratuito alla Società Bocciofila Testaccio per attività sportive, ricreative e sociali, per anni settantacinque.» Scadenza: trenta giugno. ||| 첫째는 1951년 이용 허가서예요. '해당 부지는 테스타초 보치아 협회에 체육·여가·사회 활동 용도로 75년간 무상으로 허가된다.' 만기는 6월 30일이고요.
+PEPPINO: Trenta giugno. Quella è la data in cui è nato mio nipote. ||| 6월 30일이라. 내 손자가 태어난 날이야.
+GIULIA: Seconda: la delibera di Giunta. «Non si procede al rinnovo. L'area è inserita nel piano di valorizzazione del patrimonio, previo nulla osta del Ministero.» ||| 둘째는 시 집행부 결의서예요. '갱신하지 않는다. 해당 부지는 자산 가치화 계획에 편입하며, 부처의 허가를 조건으로 한다.'
+CORRADO: Nulla osta del Ministero. Quale ministero? ||| 부처의 허가라고요. 어느 부처죠?
+GIULIA: Economia. Direzione per la valorizzazione del patrimonio pubblico. Firma: dottor Sergio Ferrante, direttore. ||| 경제부요. 공공 자산 가치화 국이에요. 서명은 세르조 페란테 박사, 국장이고요.
+CORRADO: Ferrante. Lo conosco di fama: usa la parola «valorizzazione» come altri usano la parola «amen». ||| 페란테라. 소문은 알아요. 다른 사람들이 '아멘'이라고 하듯이 '가치화'라는 말을 쓰는 사람이죠.
+GIULIA: E in nessun posto si dice a chi andrà il lotto. Ma c'è una pagina di «precondizioni di accesso all'asta», con requisiti di fatturato così alti che potrebbero rispettarli in tutta Roma forse due società. ||| 그리고 어디에도 이 필지가 누구에게 갈지는 적혀 있지 않아요. 하지만 '경매 참가 사전 조건' 한 쪽이 있는데 매출 요건이 너무 높아서 로마 전체에서 충족할 곳이 두 회사쯤일 거예요.
+CORRADO: Chi sono? ||| 누구요?
+GIULIA: Una è l'ente che gestisce le caserme dismesse. L'altra, un nome nuovo: Tevere Sud Sviluppo S.r.l. Costituita undici mesi fa. ||| 하나는 폐쇄된 군 시설을 관리하는 기관이에요. 다른 하나는 새 이름이고요. '테베레 수드 스빌루포 유한회사', 11개월 전에 설립됐어요.
+CORRADO: Undici mesi. E il progetto? ||| 11개월이라. 그럼 계획은요?
+GIULIA: Ottantaquattro appartamenti di pregio, un garage interrato a due piani, e «un locale polifunzionale a uso associativo», settanta metri quadrati, al piano seminterrato. ||| 고급 주택 84세대, 지하 2층 주차장, 그리고 반지하층에 '단체 활동용 다목적실' 70제곱미터요.
+PEPPINO: Settanta metri! Il campo uno è lungo ventisette! ||| 70제곱미터라고! 1번 코트 길이만 27미터인데!
+CONCETTA: E ci hanno messo la parola «associativo». Come se fossimo un'assemblea di condominio. ||| '단체'라는 말까지 넣었네. 우리가 아파트 관리 회의라도 되는 것처럼.
+CORRADO: Giulia, un'altra cosa. L'edificio del club, il pergolato e le pareti, sono del 1951? ||| 줄리아, 하나 더요. 클럽 건물과 포도 시렁, 벽체가 1951년 것 맞죠?
+GIULIA: La concessione lo dice: «con padiglione e pergolato esistenti, costruiti a cura della Società». Settantacinque anni. ||| 허가서에 있어요. '협회가 건립한 기존 정자와 시렁을 포함해서'. 75년이에요.
+CORRADO: Ricordati la cifra: più di settant'anni. C'è un articolo del Codice dei beni culturali che si ricorda di questo. ||| 숫자를 기억해 둬요. 70년이 넘었다는 거요. 문화재 법전에 그걸 기억하는 조항이 하나 있습니다.
+GIULIA: L'articolo dodici. Lo cerco. ||| 12조요. 찾아볼게요.
+ERCOLE: Che state dicendo di legge? ||| 법 얘기를 뭐라고 하는 거냐?
+CORRADO: Che le cose che ha costruito un'associazione per i suoi soci non sono state inventate ieri. Ercole, ho una domanda sulla lavagna. ||| 협회가 회원들을 위해 지은 건 어제 만든 게 아니라는 얘기예요. 에르콜레 씨, 칠판에 대해 하나 묻고 싶어요.
+ERCOLE: Dimmi. ||| 말해라.
+CORRADO: Quando il primo ha scritto il suo nome, in quale anno era? ||| 처음 이름을 쓴 사람은 어느 해에 쓴 거예요?
+ERCOLE: Quarantasei. Dopo la guerra. Dieci uomini, di ritorno, senza una lira. Hanno scritto: Bruno, Alberto, Aldo, Gino... e hanno cominciato a giocare in un terreno pieno di sassi. ||| 46년이다. 전쟁이 끝난 뒤였지. 돈 한 푼 없이 돌아온 열 사람이 브루노, 알베르토, 알도, 지노… 이렇게 쓰고는 돌투성이 땅에서 치기 시작했다.
+CORRADO: E nel cinquantuno hanno avuto la concessione. Cinque anni dopo. ||| 51년에 허가를 받았고요. 5년 뒤에요.
+ERCOLE: Cinque anni di sassi, Corrado. Prima ci siamo stati, poi ci hanno dato il foglio. ||| 5년 동안 돌밭이었다, 코라도. 우리가 먼저 있었고 나중에 종이를 준 거야.
+CORRADO: Prima ci siamo stati, poi ci hanno dato il foglio. Giulia, scrivilo. Tra le prime righe del nostro appunto. ||| '우리가 먼저 있었고, 나중에 종이를 줬다.' 줄리아, 적어요. 우리 메모 첫 줄들에 넣어요.
+GIULIA: Scritto. Tra virgolette e con il nome di chi l'ha detto. ||| 적었어요. 따옴표 치고 누가 말했는지 이름도 넣었어요.
+ERCOLE: Ercole Santini, ottantatré anni. ||| 에르콜레 산티니, 83세.
+CORRADO: Con il cognome. Benissimo. ||| 성까지요. 아주 좋습니다.
+GIULIA: Corrado, ho cercato chi ha richiesto l'avviso. Un'ultima cosa: il parere tecnico è firmato dal dottor Ferrante con una frase che mi fa pensare. «Il lotto, per le sue caratteristiche di inutilizzo prolungato, non presenta rilevanza culturale.» ||| 코라도, 이 공고를 요청한 곳을 찾아봤어요. 마지막으로 생각하게 하는 문장이 있어요. 기술 의견서에 페란테 박사가 이렇게 썼어요. '해당 필지는 장기 미사용이라는 특성상 문화적 중요성이 없다.'
+CORRADO: «Inutilizzo prolungato». Con cinquantotto nomi sulla lavagna e un pallino per terra. ||| '장기 미사용'이라. 칠판에 이름이 58개나 있고 바닥에 보치아 공이 놓여 있는데요.
+PEPPINO: Il pallino c'è, sono sicuro. L'ho lasciato io ieri sera sul campo due. ||| 공은 있다, 내가 확신한다. 어젯밤에 내가 2번 코트에 놓고 갔으니까.
++ albo pretorio = (관청의) 공고 게시판, 온라인 공고. 행정 서류를 공개하는 법정 게시 공간
++ delibera di Giunta = 시 집행부(giunta)의 결의서
++ nulla osta = 허가, 이의 없음 증명(라틴어에서 온 '방해 없음'). 공문에서 흔히 쓰는 표현
++ valorizzazione = 가치화·활용. 공공 자산을 매각·개발해 수익을 내는 행정 용어(여기서는 작은 비꼼)
++ ente = 기관, 공공 단체. 'ente che gestisce le caserme dismesse'
++ più di settant'anni = 70년 이상. 공공 소유 건조물은 70년이 넘으면 문화적 가치 검증 대상(문화재 법전 12조)
++ pallino = (보치아의) 작은 목표 공. 'boccino'라고도 함
++ prima ci siamo stati, poi ci hanno dato il foglio = 우리가 먼저 있었고 나중에 종이를 줬다. 원근 과거 시제 대비(ci siamo stati)로 권리의 역사를 말함
+## 캄피돌리오에서 — L'ASSESSORA E IL COSTRUTTORE
+CECCHINI: Dottor Lanza, mi hanno detto che lei fa il diplomatico. Devo chiederle da quale ministero viene a parlare di una bocciofila. ||| 란차 박사님, 외교관이라고 들었습니다. 보치아 클럽 일로 어느 부처에서 오셨는지 여쭤봐야겠군요.
+CORRADO: Da nessuno, assessora. Oggi sono il signor Lanza di via Galvani, accompagno tre persone che hanno più anni di me e più ragioni. ||| 어느 부처도 아닙니다, 의원님. 오늘은 갈바니 거리의 란차 씨로서 저보다 나이도 많고 이유도 많은 세 분을 모시고 왔습니다.
+CECCHINI: Prego, si accomodino. Questo è il dottor Davide Brandolini, amministratore di Tevere Sud Sviluppo. Ho ritenuto giusto averlo qui. ||| 앉으세요. 이분은 테베레 수드 스빌루포 대표 다비데 브란돌리니 박사입니다. 여기 함께하는 게 맞다고 생각했습니다.
+BRANDOLINI: Buongiorno a tutti. Signora Concetta, signor Santini, onorato. Non siamo il nemico, sa? Facciamo case. ||| 안녕하십니까. 콘체타 부인, 산티니 선생님, 영광입니다. 저희는 적이 아닙니다, 아시지요? 집을 짓는 사람들입니다.
+ERCOLE: Anche i gatti fanno la cuccia, e noi la teniamo. ||| 고양이도 집을 짓는다만 우리가 그 집을 지키고 있지.
+CORRADO: Assessora, chiedo di parlare per primo, per tre minuti, e di leggere una lista. ||| 의원님, 제가 먼저 3분만 말씀드리고 명단 하나를 읽어도 되겠습니까?
+CECCHINI: Una lista? ||| 명단이요?
+CORRADO: I soci della Società Bocciofila Testaccio. Cinquantotto, e nessuno di loro è «i soci». Ercole Santini. Giuseppe Conti, detto Peppino. Concetta Moretti. Mattia Fadda, diciassette anni, del Mattatoio. Bruno... ||| 테스타초 보치아 협회 회원 명단입니다. 58명이고 그중 누구도 '회원들'이 아닙니다. 에르콜레 산티니. 주세페 콘티, 별명 페피노. 콘체타 모레티. 마타토이오 동네 열일곱 살 마티아 파다. 브루노…
+CECCHINI: Dottor Lanza, deve proprio leggerli tutti? ||| 란차 박사님, 정말 전부 읽으셔야 합니까?
+CORRADO: È la prima richiesta che mi è stata fatta, assessora. Ho tempo. Bruno Alessandrini. Alberto Cola. Aldo Neri... ||| 제가 받은 첫 부탁이 이거예요, 의원님. 시간은 있습니다. 브루노 알레산드리니. 알베르토 콜라. 알도 네리…
+BRANDOLINI: Io capisco il gesto. Ma il nostro piano non cancella nessun nome. ||| 그 뜻은 이해합니다. 하지만 저희 계획은 누구의 이름도 지우지 않습니다.
+CORRADO: Allora li ascolti. Gino Pavan. Luciana Bellucci, ottantun anni, la più brava a «raffa» del quartiere. Marcello... ||| 그럼 들어 주십시오. 지노 파반. 루차나 벨루치, 81세, 동네에서 '라파'를 제일 잘하는 분. 마르첼로…
+CECCHINI: Va bene, basta così. Ho capito. Il punto è un altro: nessuno aveva mai letto i nomi. Nei verbali c'è scritto «n. 58 soci». ||| 알겠습니다, 이제 됐습니다. 핵심은 다른 건데, 지금까지 아무도 이름을 읽은 적이 없었네요. 회의록에는 '회원 58명'이라고만 적혀 있어요.
+CORRADO: Grazie. Adesso la mia domanda, assessora, in tre parti. Primo: chi decide? ||| 감사합니다. 이제 질문입니다, 의원님. 세 부분입니다. 첫째, 누가 결정합니까?
+CECCHINI: La Giunta delibera la vendita; il Ministero dà il nulla osta; l'asta la bandisce l'ufficio patrimonio. Siamo in tre, e nessuno ha tutto il potere. ||| 시 집행부가 매각을 의결하고, 부처가 허가를 내주고, 경매는 자산 부서가 공고합니다. 셋이고 아무도 전권을 갖지 않았어요.
+CORRADO: Secondo: che cosa potete cambiare prima dell'asta? ||| 둘째, 경매 전에 무엇을 바꿀 수 있습니까?
+CECCHINI: Poco. La Giunta può ritirare il lotto, se il Ministero cambia parere. Io non posso toglierlo da sola. ||| 별로 없습니다. 부처가 의견을 바꾸면 집행부가 필지를 철회할 수는 있어요. 저 혼자서는 뺄 수 없고요.
+CORRADO: Terzo: il parere del Ministero, chi lo ha firmato? ||| 셋째, 부처의 의견은 누가 서명했습니까?
+CECCHINI: Il direttore Ferrante. Un uomo molto convinto. ||| 페란테 국장입니다. 확신이 아주 강한 분이지요.
+BRANDOLINI: Un uomo molto competente. ||| 아주 유능한 분이지요.
+CORRADO: Dottor Brandolini, lei lo conosce? ||| 브란돌리니 박사님, 그분을 아십니까?
+BRANDOLINI: Come conosco tutti quelli che firmano pareri su aree che ci interessano. Per ragioni professionali. ||| 우리가 관심 갖는 부지에 의견서를 쓰는 분은 다 압니다. 업무상 이유로요.
+CORRADO: Capisco. Le chiedo che cosa offrite. ||| 알겠습니다. 무엇을 제안하시는지 묻겠습니다.
+BRANDOLINI: Un locale polifunzionale di settanta metri quadrati, al piano seminterrato, con due corsie sintetiche per le bocce, una vetrina di memorie storiche e un contributo alla vostra rilocalizzazione. ||| 반지하층에 70제곱미터 다목적실, 보치아용 인조 레인 두 줄, 역사 기록 전시장, 그리고 이전 지원금을 드립니다.
+ERCOLE: Corsie sintetiche. Le bocce al neon. ||| 인조 레인이라. 형광등 아래의 보치아로군.
+BRANDOLINI: Signor Santini, mio padre ha ottant'anni e gioca a bocce a Frosinone. Non sono uno che non capisce. ||| 산티니 선생님, 제 아버지는 여든이고 프로시노네에서 보치아를 하십니다. 저는 이해 못 하는 사람이 아닙니다.
+ERCOLE: Allora dica a suo padre che sotto terra il turno non gira. Il turno ha bisogno di sole, di polvere e di ombra. ||| 그럼 아버님께 말씀드리세요. 땅 밑에서는 순서가 돌지 않는다고. 순서는 햇볕과 먼지와 그늘이 있어야 한다고.
+BRANDOLINI: Ma che cos'è questo turno, signor Santini? Io l'ho cercato nel contratto e non l'ho trovato. ||| 그런데 그 순서가 뭡니까, 산티니 선생님? 계약서에서 찾아봤는데 없더군요.
+ERCOLE: Non c'è nel contratto. C'è sulla lavagna. ||| 계약서엔 없지. 칠판에 있다.
+CECCHINI: Dottor Lanza, io sono una persona pratica. Che cosa mi chiede, oggi? ||| 란차 박사님, 저는 현실적인 사람입니다. 오늘 저에게 무엇을 요청하시는 겁니까?
+CORRADO: Tre cose, tutte nella sua competenza. Primo: un'assemblea pubblica, lunedì sera, nel campo del club. Lei, il dottor Brandolini, i cinquantotto, il quartiere. ||| 전부 의원님 권한 안의 세 가지입니다. 첫째, 월요일 저녁 클럽 코트에서 공개 회의를 엽니다. 의원님과 브란돌리니 박사님, 58명, 그리고 동네 사람들이요.
+CECCHINI: Lunedì sera. Con il verbale. ||| 월요일 저녁이요. 회의록을 남기고요.
+CORRADO: Con il verbale. Secondo: la lista dei soci di Tevere Sud Sviluppo, quella pubblica in visura, consegnata a me entro lunedì. ||| 회의록을 남기고요. 둘째, 공개된 등기부에 있는 테베레 수드 스빌루포의 주주 명단을 월요일까지 제게 주십시오.
+BRANDOLINI: La visura è pubblica. Ve la mando io stasera. ||| 등기 사항은 공개돼 있습니다. 오늘 저녁에 제가 보내 드리지요.
+CORRADO: Grazie. Terzo: che nessuno tolga niente dal campo prima di lunedì. Nemmeno un pallino. ||| 감사합니다. 셋째, 월요일 전에는 코트에서 아무것도 치우지 않는 겁니다. 보치아 공 하나도요.
+CECCHINI: Ve lo garantisco. Anche la tabella di sicurezza resta dov'è. ||| 보장하겠습니다. 안전 표지판도 그 자리에 둘게요.
+CONCETTA: E quel «Ritirare la tabella» che hanno scritto a matita? ||| 그럼 연필로 적은 '표지판 철거'는요?
+CECCHINI: Cancellatelo con una gomma. Dalla mia scrivania. ||| 지우개로 지우세요. 제 책상에서 지우겠습니다.
+ERCOLE: No. Non si cancella. Si aggiunge sotto. «Resta». ||| 아니다. 지우지 않는다. 밑에 더한다. '유지함'이라고.
+CECCHINI: Come preferite. ||| 원하시는 대로 하세요.
++ assessora = (시) 담당 의원. 시 집행부에서 한 분야를 맡은 사람. 여성형 assessora/assessore
++ delibera = 의결, 결의. 'la Giunta delibera'는 집행부가 의결한다
++ rilocalizzazione = 이전, 재배치. 행정·건설 어휘로 '다른 곳으로 옮기기'
++ corsie sintetiche = 인조 레인. 'corsia'는 차선·레인, 보치아 코트를 뜻하기도 함
++ raffa = 보치아의 한 종목(라파). 공을 던져 목표 공에 가까이 붙이는 가장 대중적인 방식
++ visura = (등기부) 열람 증명서. 회사·부동산의 공개 등기 정보를 떼어 보는 서류
++ come conosco tutti quelli che firmano = 서명하는 사람들을 다 알듯이. 'come'은 여기서 '~하듯이'
++ non si cancella. Si aggiunge sotto = 지우지 않고 밑에 더한다. 3부의 파란 펜 원칙을 에르콜레 식으로 말한 것
+
+## 가니콜로의 증조부 — LA REPUBBLICA DEL 1849
+CONCETTA: Sono le sette e cinque. Il campo è pieno. Sono venuti anche quelli che non vengono da quattro anni. ||| 7시 5분이다. 코트가 가득 찼어. 4년 동안 안 나오던 사람들까지 왔다.
+CORRADO: Ercole, come procediamo? ||| 에르콜레 씨, 어떻게 진행할까요?
+ERCOLE: Per alzata di mano. Come si è sempre fatto. ||| 손을 들어서 한다. 늘 그렇게 해 왔다.
+CORRADO: Alzata di mano. Come nel 1849. ||| 손을 들어서요. 1849년처럼요.
+ERCOLE: Mio bisnonno aveva diciannove anni, e portava l'acqua ai cannonieri sul Gianicolo. Non ha mai raccontato altro. Diceva una cosa sola. ||| 증조부가 열아홉 살이었고 가니콜로 언덕에서 포병들에게 물을 날랐다. 다른 얘기는 한 번도 안 했다. 딱 한마디만 하셨어.
+PEPPINO: Che cosa? ||| 뭐라고?
+ERCOLE: «Era la prima volta che ci chiedevano, e non ci comandavano.» ||| '우리에게 처음으로 물었고, 명령하지 않았다'고.
+CORRADO: La Repubblica Romana. Il tre luglio 1849, dal Campidoglio, la lettura della Costituzione, mentre i francesi entravano in città. Il primo principio: «La sovranità è per diritto eterno nel popolo.» ||| 로마 공화국이지요. 1849년 7월 3일 캄피돌리오에서 헌법을 낭독했는데, 같은 시각 프랑스군은 도시로 들어오고 있었습니다. 첫째 원칙은 '주권은 영원한 권리로 인민에게 있다'였고요.
+CONCETTA: E il secondo? ||| 그럼 둘째는?
+CORRADO: Eguaglianza, libertà, fraternità. E nessun titolo di nobiltà. ||| 평등, 자유, 박애입니다. 그리고 귀족 칭호는 인정하지 않는다는 것이고요.
+ERCOLE: Titoli di nobiltà. Qui l'unico titolo è «ha il turno». ||| 귀족 칭호라. 여기서 유일한 칭호는 '순서가 있다'다.
+CORRADO: Pochi mesi dopo la proclamazione, la Repubblica non esisteva più. Ma la Costituzione fu letta in piazza, e a Roma nessuno l'ha più dimenticata. ||| 선포되고 몇 달 만에 공화국은 사라졌습니다. 하지만 헌법은 광장에서 낭독되었고 로마에서는 아무도 그걸 잊지 않았습니다.
+PEPPINO: Mi hai fatto venire i brividi. Ma adesso votiamo, o dobbiamo aspettare l'ora di cena? ||| 소름 돋았다. 근데 이제 투표하자. 저녁 먹을 때까지 기다릴 거냐?
+CORRADO: Votiamo. Tre proposte, scritte con il gessetto sulla lavagna, sotto il nome dell'ultimo arrivato. Prima: non si vende. Seconda: se si vende, il turno resta in quel posto. Terza: l'assemblea pubblica di lunedì. ||| 투표합시다. 제안은 셋이고 칠판에 마지막으로 온 사람 이름 밑에 분필로 적었습니다. 첫째, 팔지 않는다. 둘째, 팔더라도 순서는 그 자리에 남는다. 셋째, 월요일 공개 회의입니다.
+ERCOLE: Chi vuole che non si venda? ||| 팔지 않기를 바라는 사람은?
+CONCETTA: Quaranta mani. Quarantuno. ||| 마흔 개. 마흔하나.
+PEPPINO: Io mi astengo. ||| 나는 기권한다.
+ERCOLE: Peppino? ||| 페피노?
+PEPPINO: Mi astengo, Ercole. Ho un nipote che lavora in un cantiere. Sono le prime case da dieci anni. ||| 기권한다, 에르콜레. 건설 현장에서 일하는 손자가 있다. 10년 만에 나온 첫 주택 공사야.
+ERCOLE: Va bene. Si scrive: «Giuseppe Conti si astiene». ||| 좋다. '주세페 콘티 기권'이라고 적는다.
+CORRADO: Non lo cancello, lo aggiungo. ||| 지우지 않고 더하겠습니다.
+CONCETTA: Seconda proposta: il turno resta. ||| 둘째 제안, 순서는 남는다.
+ERCOLE: Tutti? ||| 전부?
+CONCETTA: Cinquantasei mani su cinquantotto. Ercole, anche Peppino. ||| 58명 중 56명이다. 에르콜레, 페피노도 들었어.
+PEPPINO: Perché il turno è la cosa che non si compra. Su questo non mi astengo. ||| 순서는 살 수 없는 거니까. 이건 기권 안 한다.
+CORRADO: Terza: lunedì. ||| 셋째, 월요일입니다.
+ERCOLE: Cinquantotto. A verbale: all'unanimità. ||| 58명. 회의록에는 만장일치로 적어라.
+CORRADO: Giulia, scrivi con la penna blu. Anche l'astensione. ||| 줄리아, 파란 펜으로 적어요. 기권까지요.
+GIULIA: Tutto. Sotto, ma non cancello niente. ||| 전부요. 밑에 쓰고, 아무것도 지우지 않을게요.
++ per alzata di mano = 거수로, 손을 들어서. 의결 방식을 말하는 관용
++ astenersi = 기권하다. 'mi astengo'는 1인칭 현재
++ all'unanimità = 만장일치로. 회의록의 표준 문구
++ Gianicolo = 가니콜로 언덕. 1849년 로마 공화국 방어전의 핵심 전장
++ la sovranità è per diritto eterno nel popolo = 주권은 영원한 권리로 인민에게 있다. 1849년 헌법 첫 원칙. 'per diritto'는 권리상
++ venire i brividi = 소름이 돋다. 'mi hai fatto venire i brividi'는 사동적 표현
++ cantiere = 공사 현장. 건설 맥락의 기본 단어
++ Giuseppe Conti si astiene = 주세페 콘티 기권. 회의록 문장은 비인칭 3인칭 현재로 씀
+
+## 식탁과 아렌트 — IL TAVOLO FRA LE PERSONE
+LEO: Papà, sono le undici. Perché sei ancora sveglio? ||| 아빠, 11시야. 왜 아직 안 자?
+CORRADO: Perché sto scrivendo i cinquantotto nomi su un foglio. Una copia per la Giunta. ||| 58명의 이름을 종이에 쓰고 있어서. 시 집행부에 낼 사본이야.
+LEO: Tutti? ||| 전부?
+CORRADO: Tutti. Ercole non vuole «i soci». Vuole cinquantotto persone. ||| 전부. 에르콜레 씨는 '회원들'이 아니라 58명의 사람을 원해.
+LEO: Ho una domanda per te. Oggi la prof ci ha letto Hannah Arendt. Dice che vivere in un mondo comune significa avere un tavolo tra le persone. ||| 질문 있어. 오늘 선생님이 한나 아렌트를 읽어 주셨어. 공동의 세계에서 산다는 건 사람들 사이에 식탁이 놓여 있다는 거래.
+CORRADO: «Il mondo comune è come un tavolo: sta fra le persone che vi siedono intorno.» ||| '공동의 세계는 식탁과 같아서 둘러앉은 사람들 사이에 놓여 있다'.
+LEO: Esatto. «Unisce e separa.» Ma dimmi: se qualcuno vende il tavolo, che cosa succede a quelli che c'erano intorno? ||| 맞아. '이어 주기도 하고 갈라놓기도 한다'. 그런데 누가 그 식탁을 팔아 버리면 둘러앉았던 사람들은 어떻게 돼?
+CORRADO: Restano seduti nel vuoto. ||| 빈자리에 앉아 있게 되지.
+LEO: E gli altri? Quelli che non hanno mai mangiato a quel tavolo ma ci avrebbero mangiato? ||| 그럼 다른 사람들은? 그 식탁에서 먹은 적은 없지만 앞으로 먹을 수도 있었던 사람들은?
+CORRADO: Sono quelli che nel registro stanno ancora in coda. È il turno, Leo. Il turno non è dei vecchi. È anche del ragazzo del Mattatoio che non è ancora nato. ||| 등록부에서 아직 줄 서 있는 사람들이지. 그게 순서야, 레오. 순서는 노인들 것만이 아니야. 아직 태어나지 않은 마타토이오의 아이 것이기도 해.
+LEO: Quindi il tavolo non è proprietà, è... un posto per chi arriva. ||| 그러니까 식탁은 소유물이 아니라… 오는 사람을 위한 자리구나.
+CORRADO: Qualcuno la chiama proprietà. Ercole la chiama turno. Arendt la chiama mondo comune. Diciamo che sono tre nomi della stessa cosa. ||| 누구는 소유라 부르고 에르콜레 씨는 순서라 부르고 아렌트는 공동의 세계라 부르지. 같은 걸 가리키는 세 이름이라고 하자.
+LEO: Posso venire lunedì? ||| 월요일에 가도 돼?
+CORRADO: Lunedì c'è scuola. ||| 월요일은 학교가 있잖아.
+LEO: Lunedì sera. L'assemblea è alle sette. ||| 월요일 저녁이야. 회의는 7시고.
+CORRADO: ...Vieni. E porta la bicicletta, che dopo c'è la cena. ||| …와라. 자전거도 가져오고. 그다음에 저녁이 있으니까.
+LEO: Che cena? ||| 무슨 저녁?
+CORRADO: Concetta cucina per cinquantotto. ||| 콘체타 할머니가 58인분을 만드실 거야.
+LEO: Per cinquantotto?! ||| 58인분이나?
+CORRADO: Il turno non si nutre da solo. ||| 순서는 혼자서는 먹고 크지 못해.
+GIULIA: Corrado, scusa l'ora. Ti scrivo un messaggio: la visura di Tevere Sud Sviluppo è arrivata. Socio unico: Meridiana Real Estate S.p.A. Domani cerco chi c'è dietro. ||| 코라도, 늦은 시간에 죄송해요. 메시지 보내요. 테베레 수드 스빌루포의 등기부가 도착했어요. 단독 주주는 메리디아나 부동산 주식회사예요. 내일 그 뒤를 찾아볼게요.
+CORRADO: Un livello alla volta. ||| 한 겹씩이지.
+GIULIA: E c'è un'altra cosa: l'articolo dodici del Codice dei beni culturali. Beni pubblici con più di settant'anni: verifica dell'interesse culturale prima di venderli. ||| 그리고 하나 더 있어요. 문화재 법전 12조요. 70년이 넘은 공공 부동산은 매각 전에 문화적 가치 검증을 받아야 해요.
+CORRADO: E nel fascicolo? ||| 그럼 서류철에는요?
+GIULIA: C'è una frase di Ferrante: «non presenta rilevanza culturale». Ma non c'è nessuna verifica della Soprintendenza. Una frase non è una verifica. ||| 페란테의 한 문장이 있어요. '문화적 중요성이 없다'고요. 하지만 문화재청의 검증은 없어요. 문장 하나는 검증이 아니에요.
+CORRADO: Domani mattina ne parliamo. Dormi, Giulia. ||| 내일 아침에 얘기하지요. 자요, 줄리아.
+LEO: Papà, chi è Meridiana? ||| 아빠, 메리디아나가 누구야?
+CORRADO: Una società. Una delle tante, Leo. Ma stasera non ci pensiamo. Stasera a tavola ci sono i cinquantotto. ||| 회사야. 흔한 회사 중 하나지, 레오. 하지만 오늘 밤은 생각하지 말자. 오늘 식탁에 앉은 건 58명이니까.
++ unisce e separa = 잇고 갈라놓는다. 아렌트가 식탁에 비유한 '공동의 세계'의 두 기능
++ restare seduti nel vuoto = 빈자리에 앉아 있게 되다. 식탁이 사라진 뒤의 상태를 그린 표현
++ in coda = 줄 서서, 대기 중인. 'stare in coda'는 줄을 서 있다
++ socio unico = 단독 주주. 3-7에서 알바 로지스티카에 쓰인 말, 개발사 쪽에도 같은 구조가 나타남
++ visura = (등기부) 열람 증명. 3-10에서는 '공개 등기 정보를 떼어 오는 서류'로 쓰임
++ Soprintendenza = 문화재청(지방 문화재 감독 기관). 'verifica dell'interesse culturale'는 문화적 가치 검증
++ non ci pensiamo = 생각하지 말자 (pensarci). 'ci'는 '그것에 대해'
++ il turno non si nutre da solo = 순서는 혼자서는 먹지 못한다. 'nutrirsi'(영양을 섭취하다)의 비유적 사용

@@ -1,0 +1,98 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 9
+@title Il percorso
+@ko 경로
+@setting 수요일 마르사 베이다 남쪽 부두 11시 20분 → 12시 4분 구시가 칼데라이 골목 → 빵집 안뜰 점심 → 저녁 공항
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast SAADI | 타르시아 장관, 대표단장
+@cast MANSOURI | 타르시아 국가안보국 대령 카림 만수리, 50세
+@cast PALMIERI | 바티칸 헌병대 사령관 루제로 팔미에리, 58세
+@cast VINCI | 내무부 공공안전국 간부 로렌초 빈치, 60세
+@cast SAMIRA | 구시가 '소금 문' 빵집 주인 사미라 아주머니, 62세
+@cast TOMMASO | 항구의 성모 성당 주임 사제 토마소 신부, 70세
+@cast SARTORELLI | 타르시아의 라틴어 학자 사르토렐리 교수, 81세
+@cast LEO | 란차의 아들, 16세
+@note C사건의 결산 화입니다. 세 책임자가 약속한 대로 87번 큐의 시각 12시 4분에 같은 길을 걷습니다. 구시가의 폭 2미터 골목은 지도 위의 선이 아니라 문 63개와 가게 41곳이었고, 걷는 7분 동안 네 번 붙들려 차를 대접받습니다. 해법의 순간은 빵집 주인 사미라의 한 문장입니다. '여기서는 낯선 사람이 골목 두 개를 못 갑니다.' 이 동네는 이웃이 서로를 알아서 낯선 이를 세 번째 문 앞에서 먼저 알아봅니다. 그래서 안전선을 세 개의 원으로 다시 그립니다. 안쪽은 바티칸 근접 경호(음성과 신호를 맡되 무기는 없음), 가운데는 타르시아 경찰(교차점 일곱 곳), 바깥은 '문의 원'(63개 문마다 이름이 있는 집주인)입니다. 이탈리아 해군과 해안도로는 도착과 출발을 맡습니다. 700미터는 320미터 차량 + 380미터 도보로 나뉘고, 구멍이던 15분은 아홉 개 번호가 붙은 24분 구간이 됩니다. 역사 논거는 콘스탄츠 공의회(1414~18)입니다. 교황 후보 셋이 맞서 아무도 이길 수 없던 분열을 한 명은 사임하고(그레고리오 12세, 1415) 한 명은 폐위되고(요한 23세, 1415) 한 명은 폐위(베네딕토 13세, 1417)된 뒤 마르티노 5세를 새로 뽑아(1417) 끝냈습니다. 아무도 이기지 않고 모두가 문으로 나간 타협입니다. 어휘는 길·경호(vicolo, imbocco, strozzatura, scorta ravvicinata, cerchio)와 조건문에 주목하세요. 마지막에 운송 차량의 기사 명단이 알바 로지스티카 소속이라는 점이 보이고, 란차는 모든 이름을 '칠판'에 올리기로 합니다.
+@next 3-10 «보치아 클럽» — 테스타초 보치아 클럽의 대지가 재개발로 팔릴 위기에 놓입니다. 노인들이 처음으로 코라도에게 도움을 청합니다.
+
+## 남쪽 부두 — IL MOLO SUD
+GIULIA: Corrado, sono le undici e venti. Il molo sud ha un odore di nafta e di pane. ||| 코라도, 11시 20분이에요. 남쪽 부두에서 디젤 냄새와 빵 냄새가 같이 나요.
+CORRADO: Il pane viene dal forno del Sale, a trecento metri. Ministro, buongiorno. ||| 빵은 300미터 떨어진 '소금 문' 빵집에서 오는 거지요. 장관님, 좋은 아침입니다.
+SAADI: Corrado. Ho dormito poco: ho passato la notte con mia madre a decidere il vestito per sabato. ||| 코라도. 거의 못 잤습니다. 어머니와 밤새 토요일에 입을 옷을 정했거든요.
+CORRADO: Il vestito per sabato? ||| 토요일에 입을 옷이요?
+SAADI: Le donne del porto mettono i fiori ai piedi del tempio vuoto. Sabato, il Papa passerà a venti metri. Mia madre dice che i fiori devono essere freschi di sabato mattina, non di venerdì. ||| 항구의 여인들이 빈 신전 아래에 꽃을 놓습니다. 토요일에는 교황이 20미터 앞을 지나가시고요. 어머니 말씀으로는 꽃이 금요일 것이 아니라 토요일 아침 것이어야 한답니다.
+CORRADO: Sua madre ha già scritto la sua scaletta. ||| 어머니께서 이미 자신의 순서표를 쓰셨군요.
+SAADI: Da ottantadue anni. Colonnello, i signori sono arrivati? ||| 82년 동안요. 대령, 손님들이 도착했나?
+MANSOURI: Il dottor Vinci e il comandante Palmieri sono in macchina da cinque minuti, e non si sono parlati. ||| 빈치 씨와 팔미에리 사령관이 5분째 차 안에 있는데 서로 한마디도 안 했습니다.
+GIULIA: È normale. Hanno tre piani diversi e un solo bagaglio a mano. ||| 정상이에요. 계획은 셋인데 짐은 손가방 하나뿐이니까요.
+PALMIERI: Buongiorno, ministro. Dottor Lanza. Signora. ||| 안녕하십니까, 장관님. 란차 박사님. 마르케티 박사님.
+VINCI: Buongiorno. Posso vedere la mappa? ||| 안녕하십니까. 지도를 볼 수 있겠습니까?
+MANSOURI: Eccola. Scala uno a duemila, stampata dal ministero. Tre linee: rossa, la vostra, dottor Vinci. Blu, la sua, comandante. Verde, la mia. ||| 여기 있습니다. 축척 2천분의 1, 우리 부처가 인쇄했습니다. 선이 셋입니다. 빨간 선은 빈치 씨의 것, 파란 선은 사령관님의 것, 초록 선은 제 것입니다.
+CORRADO: Le tre linee si toccano da qualche parte? ||| 세 선이 어딘가에서 만납니까?
+MANSOURI: In due punti: al molo, qui, e alla porta del santuario, là. In mezzo, no. ||| 두 군데서 만납니다. 여기 부두, 그리고 저기 성당 문입니다. 중간에서는 아닙니다.
+CORRADO: In mezzo c'è il buco. ||| 중간이 그 구멍이군요.
+SAADI: In mezzo c'è il Rione. Dottor Vinci, comandante: una mappa è un modo di non dover camminare. Il Rione Vecchio non è una mappa. ||| 중간은 구시가입니다. 빈치 씨, 사령관님. 지도는 걷지 않아도 되게 해 주는 방법입니다. 구시가는 지도가 아닙니다.
+VINCI: Ho studiato le fotografie dei droni. Posso dire dove sono le finestre. ||| 드론 사진을 연구했습니다. 창문이 어디 있는지 말씀드릴 수 있습니다.
+SAADI: Le finestre sì. Ma non può dirmi che cosa c'è dietro. Venga. ||| 창문은 그렇겠지요. 하지만 그 뒤에 뭐가 있는지는 말씀하실 수 없습니다. 갑시다.
+CORRADO: Prima i tre responsabili si mettono qui. Colonnello, comandante, dottor Vinci: giacca abbottonata, telefono in tasca. E nessuno di voi guarda il suo foglio mentre cammina. ||| 먼저 세 책임자가 여기 서 주십시오. 대령님, 사령관님, 빈치 씨. 재킷 단추를 채우고 전화기는 주머니에 넣으세요. 걷는 동안에는 아무도 자기 종이를 보지 않습니다.
+PALMIERI: E i miei appunti? ||| 제 메모는요?
+CORRADO: Li legge a voce alta, comandante, quando c'è qualcosa da dire. Il foglio resta nella cartella di Giulia. ||| 말씀할 게 있을 때 소리 내어 읽으세요, 사령관님. 종이는 줄리아의 가방에 둡니다.
+GIULIA: Posso tenerlo? Mi sento la custode del Graal. ||| 제가 들고 있어도 돼요? 성배 수호자가 된 기분이에요.
+PALMIERI: Lo tenga con due mani. ||| 두 손으로 드세요.
++ nafta = 중유, 디젤 냄새. 항구 장면에서 후각 묘사로 자주 쓰임
++ bagaglio a mano = 기내 휴대 가방. 여기서는 '짐은 하나뿐'이라는 비유(세 계획에 공통점은 적다)
++ scala uno a duemila = 축척 2천분의 1. 'scala 1:2000'
++ una mappa è un modo di non dover camminare = 지도는 걷지 않으려는 방법이다. 이 화의 주제를 한 문장으로 만든 사아디의 말
++ giacca abbottonata = 단추를 채운 재킷. 민간복 경호의 기본 복장 설명
++ custode del Graal = 성배의 수호자. 귀한 물건을 맡은 사람을 놀리는 농담
++ lo tenga con due mani = 두 손으로 잡으세요. tenere + 명령형 Lei 형태
++ da ottantadue anni = 82년 전부터. 'da + 기간'은 계속된 기간
+
+## 칼데라이 골목 — IL VICOLO DEI CALDERAI
+CORRADO: Dodici e quattro. Cue ottantasette. Il Santo Padre scende dall'auto all'imbocco del Rione, qui, alla porta del Sale. Si cammina. ||| 12시 4분. 87번 큐입니다. 교황님이 구시가 입구, 이 '소금 문'에서 차에서 내리십니다. 걷겠습니다.
+MANSOURI: Larghezza della porta: tre metri e dieci. Due botteghe, una a destra, una a sinistra. ||| 문의 폭은 3미터 10센티미터입니다. 가게가 둘, 오른쪽에 하나 왼쪽에 하나 있습니다.
+PALMIERI: Una a destra è un forno. Odore di pane. Dieci metri, un uomo con una cesta. ||| 오른쪽은 빵집이군요. 빵 냄새가 납니다. 10미터 앞에 바구니를 든 남자가 있고요.
+VINCI: Non lo avevamo nelle foto aeree. ||| 항공 사진에는 없던 사람입니다.
+MANSOURI: Perché le foto aeree vedono i tetti, dottor Vinci. Non vedono chi passa con il pane. ||| 항공 사진은 지붕을 보니까요, 빈치 씨. 빵을 들고 지나가는 사람은 못 봅니다.
+SAMIRA: Buongiorno! Voi siete quelli della mappa? ||| 안녕하세요! 지도 가진 분들이시죠?
+CORRADO: Buongiorno, signora. Siamo quelli della mappa, sì. ||| 안녕하세요, 아주머니. 네, 지도 가진 사람들입니다.
+SAMIRA: Mi chiamo Samira, il forno è mio e di mio fratello. Entrate, bevete un tè. Non si cammina a stomaco vuoto, in questo vicolo. ||| 사미라예요. 이 빵집은 제 거고 오빠 거예요. 들어와서 차 한잔 해요. 이 골목은 빈속으로 걷는 데가 아니에요.
+PALMIERI: Signora, siamo in servizio. ||| 아주머니, 근무 중입니다.
+SAMIRA: Anche io, e il tè lo bevo lo stesso. Un minuto. ||| 저도 근무 중인데 차는 마셔요. 1분만요.
+GIULIA: Primo stop: ore dodici e sei. Prima volta che ci fermano. ||| 첫 번째 멈춤, 12시 6분입니다. 우리가 붙들린 첫 번째네요.
+PALMIERI: Registri, dottoressa. Cue ottantasette-uno: «l'imbocco, sosta al forno, un minuto». ||| 적어 주십시오, 박사님. 87-1번 큐, '입구, 빵집에서 멈춤, 1분'입니다.
+MANSOURI: Avanti. Vicolo dei Calderai. Larghezza: due metri e dieci, qui. In fondo, un metro e novanta. ||| 앞으로 가지요. 칼데라이 골목입니다. 폭은 여기서 2미터 10센티미터이고 끝에서는 1미터 90센티미터입니다.
+PALMIERI: Un metro e novanta. Le spalle del Santo Padre e di un gendarme non ci stanno insieme. ||| 1미터 90이라면 교황님의 어깨와 헌병 한 명의 어깨가 나란히 지나가지 못합니다.
+VINCI: Lo dicevo. È una strozzatura. ||| 제가 말했지요. 병목입니다.
+CORRADO: Una strozzatura che si percorre in quattro passi. Quanti portoni? ||| 네 걸음이면 지나가는 병목이군요. 대문은 몇 개입니까?
+MANSOURI: Ventitré su questo tratto. Tutti con un nome. ||| 이 구간에 23개입니다. 전부 이름이 있고요.
+CORRADO: Un nome? ||| 이름이요?
+MANSOURI: Non sulla targa. Nella testa di chi ci abita. Il portone del calzolaio, quello della vedova di Said, quello del bambino che suona il flauto. ||| 문패에 있는 게 아니라 거기 사는 사람들 머릿속에요. 구두 수선공의 문, 사이드 미망인의 문, 피리 부는 아이의 문처럼요.
+PALMIERI: Ci sono finestre aperte. Quarto piano, una tenda mossa. ||| 열린 창문이 있습니다. 4층에 커튼이 흔들리고요.
+MANSOURI: È la nonna di Yasmine. Guarda ogni passante da trent'anni. ||| 야스민의 할머니입니다. 30년째 지나가는 사람을 다 쳐다보시지요.
+VINCI: Colonnello, non è un sistema di sicurezza. ||| 대령, 그건 안전 체계가 아닙니다.
+MANSOURI: Non l'ho detto io. Fermatevi un attimo, ascoltate. ||| 제가 그렇다고 한 건 아닙니다. 잠깐 멈춰서 들어 보십시오.
+GIULIA: Sento una radio. Un martello da calderaio. Una donna che chiama un bambino. ||| 라디오 소리가 들려요. 구리 장인의 망치 소리, 아이를 부르는 여자 목소리도요.
+CORRADO: Dodici e dieci. Quante volte ci hanno fermato, finora? ||| 12시 10분입니다. 지금까지 몇 번 붙들렸지요?
+GIULIA: Tre. Il forno, il calzolaio con un bicchiere d'acqua, e un ragazzo che voleva sapere se eravamo dell'ambulanza. ||| 세 번이에요. 빵집, 물 한 잔을 내민 구두 수선공, 그리고 우리가 구급대원인지 물은 소년이요.
+PALMIERI: Settantaquattro metri in sei minuti. Tre soste. Il Santo Padre si fermerà sette volte, forse nove. ||| 74미터를 6분에 왔고 멈춤이 세 번입니다. 교황님은 일곱 번, 어쩌면 아홉 번 멈추실 겁니다.
+CORRADO: Quindi trecentottanta metri non sono sette minuti. Sono ventiquattro. ||| 그럼 380미터는 7분이 아니라 24분이군요.
+PALMIERI: E nessun piano ha un numero per la sosta numero quattro. ||| 그리고 어느 계획에도 네 번째 멈춤에 해당하는 번호가 없고요.
+VINCI: Allora il vero rischio è che tutti improvvisino insieme. ||| 그럼 진짜 위험은 모두가 한꺼번에 즉흥으로 움직이는 거군요.
+CORRADO: Sì, dottor Vinci. Non c'è un nemico nel vicolo. C'è un buco nel foglio. ||| 그렇습니다, 빈치 씨. 골목에 적이 있는 게 아니라 종이에 구멍이 있는 겁니다.
+MANSOURI: Ecco la piazzetta del Pozzo. Quattro metri per cinque, un pozzo, sei vecchie sedute. ||| 우물 광장입니다. 4미터에 5미터, 우물 하나와 앉아 있는 할머니 여섯 분이고요.
+PALMIERI: Qui si ferma. Lo so. Lo sento. Qui si ferma per quattro minuti. ||| 여기서 멈추십니다. 압니다. 느껴져요. 여기서 4분은 멈추실 겁니다.
+CORRADO: Scriva, comandante: ottantasette-tre, piazzetta del Pozzo, sosta prevista quattro minuti. Una sosta prevista non è più un imprevisto. ||| 적으세요, 사령관님. 87-3번, 우물 광장, 예정된 멈춤 4분. 예정된 멈춤은 더 이상 돌발 상황이 아닙니다.
+PALMIERI: Ottantasette-tre. Sosta prevista. Lo scrivo con piacere. ||| 87-3번, 예정된 멈춤. 기쁜 마음으로 적습니다.
++ imbocco = 어귀, 입구. 길·터널·골목의 시작 부분
++ strozzatura = 병목, 좁은 목. 'strozzare'(목을 조르다)에서 온 단어
++ portone = 큰 대문, 건물 정문. 'porta'의 확대형
++ sosta = 멈춤, 정차. 'sosta prevista'(예정된 멈춤)가 '돌발 상황'을 번호로 바꾸는 열쇠
++ in servizio = 근무 중인. 'siamo in servizio'로 사양하는 공식 표현
++ tenda mossa = 흔들리는 커튼. 경호 관찰의 전형적 단서
++ non c'è un nemico... c'è un buco = 적은 없고 구멍이 있다. 두 문장을 대비시키는 진단 문장
++ calderaio = 구리·솥 장인. 골목 이름 'dei Calderai'의 어원

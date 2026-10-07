@@ -1,0 +1,211 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 7
+@title La visita del Papa
+@ko 교황의 방문
+@setting 월요일 아침 파르네지나 회의실 → 화상회의(로마·바티칸·마르사 베이다) → 점심 란차의 사무실 → 저녁 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast MANINI | 국무원 소속 몬시뇰 카를로 마니니, 52세(벨란디의 후임 연락관)
+@cast PALMIERI | 바티칸 헌병대 사령관 루제로 팔미에리, 58세
+@cast VINCI | 내무부 공공안전국 간부 로렌초 빈치, 60세
+@cast MANSOURI | 타르시아 국가안보국 대령 카림 만수리, 50세
+@cast SAADI | 타르시아 장관, 대표단장
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 71세
+@cast LEO | 란차의 아들, 16세
+@note C사건의 첫 화입니다. 교황이 지중해 세 곳(마르사 베이다, 라 발레타, 람페두사)을 방문하고, 첫 기착지 마르사 베이다의 항구에서 구시가 성당까지 걷는 700미터를 두고 이탈리아 정부(차량으로 해안도로), 바티칸(걸어서 사람들 속으로), 타르시아(구시가는 절대 안 됨)가 맞섭니다. 해법의 순간은 헌병대 사령관 팔미에리의 '순서표(scaletta)'에 있습니다. 212개 큐에 94분이 빼곡하지만 15분 구간에는 번호가 하나도 없습니다. 세 계획이 정확히 그 구간에서 부딪힙니다. 란차는 구간을 누가 혼자 채우지 말고 세 사람이 같은 시각에 같은 길을 걸으며 함께 채우자고 제안합니다. 역사 논거는 라테라노 협정(1929년 2월 11일)입니다. 1870년 이후 이른바 '로마 문제'를 조약·재정 협약·정교 협약 세 문서로 닫았고, 조약 제8조는 교황의 신체를 '신성불가침'으로 인정했습니다. 협정은 길을 가른 게 아니라 책임을 가르고 같은 날 같은 종이에 적었습니다. 협상 자체는 법률가 프란체스코 파첼리와 국참사관 도메니코 바로네가 몇 해 동안 비공개로 했고 서명은 국무장관 가스파리 추기경과 총리가 했습니다. 어휘는 의전·경호(scaletta, cue, cordone, imprevisto, scorta)와 가정법에 주목하세요. 연속 장치로, 교황 출발 전 만찬의 후원자 명단에 폰다치오네 레오나르도가 나타납니다.
+@next 3-8 «몬시뇰과 그림자» — 마니니가 비공식 정보를 청하고, 페데리카는 이번에도 대가를 이야기하되 이번에는 '공개 교환'을 요구합니다.
+
+## 월요일 아침 — LA PROPOSTA DEL MONSIGNORE
+ORSOLINI: Buongiorno, monsignore. Lei conosce già il dottor Lanza e la dottoressa Marchetti. ||| 안녕하십니까, 몬시뇰. 란차 박사와 마르케티 박사는 이미 아시지요.
+MANINI: Di fama, direttore. E per lettera. Dottor Lanza, mi risulta che lei e monsignor Bellandi vi davate del tu. ||| 평판으로는요, 사무총장님. 편지로도 알고요. 란차 박사님, 박사님과 벨란디 몬시뇰은 말을 놓고 지내셨다고 알고 있습니다.
+CORRADO: Per vent'anni, monsignore. Ma ciascuno ha il proprio ritmo: io Le darò del Lei finché non mi dirà diversamente. ||| 20년 동안 그랬지요, 몬시뇰. 하지만 사람마다 속도가 있으니, 다르게 말씀하실 때까지 저는 Lei로 모시겠습니다.
+MANINI: La ringrazio. Io sono uno che ama le cose nel loro ordine. Non lo dico come virtù: lo dico come avvertimento. ||| 감사합니다. 저는 모든 게 제자리에 있는 걸 좋아하는 사람입니다. 장점으로 하는 말이 아니라 미리 알려 드리는 겁니다.
+GIULIA: Anch'io, monsignore. Lavoro con gli elenchi. ||| 저도요, 몬시뇰. 저는 목록으로 일하는 사람이에요.
+MANINI: Allora ci intenderemo. Vengo al punto. Fra dodici giorni, sabato, il Santo Padre parte per tre tappe nel Mediterraneo: Marsa Beida, La Valletta e Lampedusa. ||| 그럼 서로 잘 통하겠군요. 본론으로 들어가겠습니다. 12일 뒤 토요일에 교황님께서 지중해 세 곳, 마르사 베이다, 라 발레타, 람페두사로 출발하십니다.
+ORSOLINI: La prima tappa è la più delicata. ||| 첫 기착지가 가장 민감합니다.
+MANINI: Lo è. Il Santo Padre sbarcherà da una nave della Marina italiana nel porto di Marsa Beida, e vuole raggiungere a piedi il santuario di Nostra Signora del Porto, nel Rione Vecchio. ||| 그렇습니다. 교황님은 이탈리아 해군 함정으로 마르사 베이다 항에 내리시고, 구시가에 있는 '항구의 성모' 성당까지 걸어가시기를 원하십니다.
+CORRADO: A piedi. Quanto? ||| 걸어서요. 얼마나 됩니까?
+MANINI: Settecento metri. Dal molo sud alla porta del santuario, passando per il vicolo dei Calderai. ||| 700미터입니다. 남쪽 부두에서 성당 문까지, 칼데라이 골목을 지나서요.
+GIULIA: Ho guardato la mappa satellitare ieri sera. In quel vicolo, due persone allargando le braccia toccano i muri. ||| 어젯밤 위성 지도를 봤는데요. 그 골목은 두 사람이 팔을 벌리면 양쪽 벽에 닿아요.
+MANINI: Il Santo Padre lo sa. Ha detto: «Se non posso passare dove passano loro, allora non vado da loro». ||| 교황님도 아십니다. 이렇게 말씀하셨습니다. '그분들이 지나다니는 곳으로 내가 지나갈 수 없다면, 그분들에게 가지 않겠다'고요.
+ORSOLINI: Capirà che è un problema. Il governo italiano risponde della sicurezza fino alla passerella della nave, e lo faremo. Ma sul suolo di Tarsia risponde Tarsia. ||| 문제가 되는 건 이해하시겠지요. 이탈리아 정부는 함정의 트랩까지 안전을 책임지고 그렇게 할 겁니다. 하지만 타르시아 땅에서는 타르시아가 책임집니다.
+MANINI: E la Santa Sede risponde della persona del Papa, ovunque. Tre responsabilità, direttore, che non si sommano: si pestano i piedi. ||| 그리고 교황청은 어디에서든 교황님의 신변에 책임을 집니다. 사무총장님, 세 책임은 합쳐지지 않고 서로 발을 밟습니다.
+CORRADO: Chi ha già detto no? ||| 이미 누가 반대했습니까?
+MANINI: Tarsia. Il Rione Vecchio, per il loro ministero dell'interno, è «una zona non garantibile». ||| 타르시아요. 그쪽 내무부로서는 구시가가 '안전을 보장할 수 없는 지역'입니다.
+ORSOLINI: E il nostro Dipartimento di pubblica sicurezza propone di fare tutto in automobile, lungo la strada costiera, quattordici minuti, strada chiusa. ||| 그리고 우리 공공안전국은 전부 차량으로, 해안도로를 따라 14분에 끝내자고 제안합니다. 도로는 통제하고요.
+MANINI: Il Santo Padre ha ringraziato con molta cortesia e ha risposto: «Quattordici minuti in macchina non sono una visita, sono un transito». ||| 교황님은 아주 정중하게 감사하시고 이렇게 답하셨습니다. '차로 14분이면 방문이 아니라 통과입니다'라고요.
+CORRADO: In transito si va veloci, è vero. Ma a chi transita nessuno offre il caffè. ||| 통과하면 빠르긴 하지요. 하지만 지나가는 사람에게 커피를 내주는 이는 아무도 없습니다.
+MANINI: Una frase che farà piacere a qualcuno. Dottor Lanza, non le chiedo di scegliere un percorso. Le chiedo di far parlare tre persone che non si parlano. ||| 누군가 기뻐할 말씀이군요. 란차 박사님, 노선 하나를 고르라는 게 아닙니다. 서로 말을 하지 않는 세 사람이 말을 하도록 해 달라는 겁니다.
+ORSOLINI: Con una condizione: tutto sul tavolo, tutto verbalizzato. Niente canali laterali. ||| 조건 하나가 있습니다. 전부 테이블 위에 올리고 전부 기록으로 남깁니다. 옆길 채널은 없습니다.
+MANINI: Niente canali laterali. Lo dico con convinzione, direttore: monsignor Bellandi mi ha lasciato la scrivania, non le abitudini. ||| 옆길 채널은 없습니다. 확신을 갖고 말씀드립니다, 사무총장님. 벨란디 몬시뇰은 저에게 책상을 물려주었지 습관을 물려주지는 않았습니다.
+CORRADO: Allora cominciamo bene. Chi sono gli altri due al tavolo? ||| 그럼 시작이 좋군요. 테이블에 앉을 나머지 두 사람은 누굽니까?
+MANINI: Il comandante Ruggero Palmieri, della Gendarmeria vaticana. Ha cinquantotto anni, trentadue di servizio. Un uomo con un foglio, non con un'opinione. ||| 바티칸 헌병대 루제로 팔미에리 사령관입니다. 58세에 근무 32년째이고요. 의견이 아니라 종이 한 장을 가진 사람입니다.
+GIULIA: Un foglio? ||| 종이 한 장이요?
+MANINI: La sua scaletta. Duecentododici voci. Lo vedrete tra pochi minuti: il comandante ha chiesto un collegamento video alle dieci. ||| 순서표입니다. 212개 항목이지요. 몇 분 뒤에 보시게 될 겁니다. 사령관이 10시에 화상 연결을 요청했거든요.
+CORRADO: Prima del collegamento: la cena di congedo? ||| 연결 전에 하나만요. 출발 전 만찬은요?
+MANINI: Giovedì della settimana prossima, al Palazzo della Cancelleria. Cena di sostegno al viaggio, centoventi coperti. La lista dei benefattori la manderemo oggi. ||| 다음 주 목요일 칸첼레리아 궁에서 합니다. 순방을 후원하는 만찬이고 120석입니다. 후원자 명단은 오늘 보내 드리겠습니다.
+CORRADO: La leggeremo con attenzione. ||| 주의 깊게 읽어 보겠습니다.
++ risponde di... = ~에 책임을 지다 (rispondere di qualcosa). 'chi risponde della sicurezza?'는 경호 협상의 핵심 문장
++ zona non garantibile = 안전을 보장할 수 없는 지역. 행정·경호 문체의 부정 형용사(garantire + -ibile)
++ transito = 통과, 통행. 교황의 말처럼 'visita'와 대비되는 단어
++ pestarsi i piedi = 서로 발을 밟다, 업무가 겹쳐 충돌하다
++ darsi del tu / dare del Lei = 말을 놓다 / 존대하다. 코라도는 마니니에게 Lei를 유지하고 '다르게 말씀하실 때까지'로 선택권을 건넨다
++ mi ha lasciato la scrivania, non le abitudini = 책상은 물려받았으나 습관은 아니다. 문장 앞뒤를 대비시키는 쉼표 구문
++ coperti = (식당) 좌석 수, 인원수. 'centoventi coperti'는 120인분 자리
++ canali laterali = 옆길 채널, 비공식 루트. 3-8의 핵심 어휘
+
+## 세 장의 지도 — TRE PIANI
+PALMIERI: Buongiorno a tutti. Comandante Palmieri, dalla Città del Vaticano. Mi sente, dottor Lanza? ||| 모두 안녕하십니까. 바티칸 시국의 팔미에리 사령관입니다. 란차 박사님, 들리십니까?
+CORRADO: Forte e chiaro, comandante. Vedo che ha con sé il famoso foglio. ||| 또렷이 들립니다, 사령관님. 그 유명한 종이를 들고 계시는군요.
+PALMIERI: Non è un foglio, è un documento di quarantasei pagine. Ma lo chiamo foglio perché ogni riga è un'ora e ogni ora ha una persona. ||| 종이 한 장이 아니라 46쪽짜리 문서입니다. 하지만 한 줄이 한 시각이고 한 시각마다 사람 하나가 있어서 '종이'라고 부릅니다.
+VINCI: Lorenzo Vinci, Dipartimento della pubblica sicurezza. Sono qui per dire una cosa semplice: la nostra proposta è l'unica che riduce il rischio sotto la soglia. ||| 공공안전국 로렌초 빈치입니다. 간단한 말씀을 드리려고 나왔습니다. 위험을 기준선 아래로 낮추는 안은 우리 안 하나뿐입니다.
+MANSOURI: Colonnello Karim Mansouri, sicurezza nazionale di Tarsia. Il ministro Saadi mi ha chiesto di ascoltare prima di parlare. Ho ascoltato un minuto. Ora parlo. ||| 타르시아 국가안보국 카림 만수리 대령입니다. 사아디 장관께서 말하기 전에 먼저 들으라고 하셨습니다. 1분 들었습니다. 이제 말하겠습니다.
+SAADI: Corrado, buongiorno. Non intervengo: sono qui perché i due piani del mio colonnello sono contenuti in una sola frase, e la frase è mia: nessun incidente nel mio Paese. ||| 코라도, 좋은 아침입니다. 끼어들지 않겠습니다. 제 대령의 두 계획이 한 문장 안에 있고, 그 문장은 제 것이라서 참석했습니다. '내 나라에서는 어떤 사고도 없어야 한다'입니다.
+CORRADO: Ministro, lo condividiamo tutti. Cominciamo dal piano di Vinci. ||| 장관님, 우리 모두 같은 생각입니다. 빈치 씨의 계획부터 시작하지요.
+VINCI: Sbarco alle undici e dodici. Auto blindata sulla strada costiera. Tre posti di blocco. Entrata nel santuario dal retro, dal piazzale. Quattordici minuti, cordone esterno a cinquanta metri. ||| 11시 12분 하선입니다. 해안도로에서 방탄차를 탑니다. 검문소 세 곳. 성당에는 광장 쪽 뒷문으로 들어갑니다. 14분이고, 외곽 통제선은 50미터 밖입니다.
+PALMIERI: Dottor Vinci, rispetto la sua competenza. Ma il Santo Padre non entra in una chiesa dal retro. ||| 빈치 씨, 전문성은 존중합니다. 하지만 교황님은 성당에 뒷문으로 들어가지 않으십니다.
+VINCI: Non è una questione di dignità, comandante. È una questione di probabilità. ||| 품위의 문제가 아닙니다, 사령관님. 확률의 문제입니다.
+PALMIERI: Per lei. Per me è una questione di presenza. Un uomo che arriva in un vicolo e non viene visto è un transito, e un transito non lo ricorda nessuno. ||| 당신에게는 그렇겠지요. 저에게는 현존의 문제입니다. 골목에 도착했는데 아무도 보지 못한다면 통과일 뿐이고, 통과는 누구도 기억하지 못합니다.
+GIULIA: Comandante, il suo piano qual è? ||| 사령관님, 사령관님의 계획은 무엇입니까?
+PALMIERI: Sbarco, mezzo scoperto fino all'inizio del Rione, poi settecento metri a piedi in dodici-quindici minuti, con la scorta ravvicinata, sei dei miei, uomini con la giacca, nessuno con la divisa. ||| 하선하고, 개방형 차량으로 구시가 입구까지 간 뒤, 12~15분에 700미터를 걷습니다. 근접 경호는 제 부하 여섯 명, 제복 없이 재킷 차림으로요.
+MANSOURI: Sei uomini armati di un altro Stato, in un vicolo largo due metri. Colonnello Palmieri, ho una legge che lo vieta, e ho un motivo ancora più forte della legge. ||| 다른 나라의 무장한 여섯 명이 폭 2미터의 골목에 들어옵니다. 팔미에리 사령관, 그걸 금지하는 법이 있고 법보다 더 강한 이유도 있습니다.
+CORRADO: Mi dica il motivo, colonnello. ||| 이유를 말씀해 주세요, 대령님.
+MANSOURI: In quel quartiere ci vivono quattrocento famiglie. Se domattina vedono sei stranieri armati dentro i loro portoni, la sera non parlano più con me. Né con il ministro. ||| 그 동네에는 400가구가 삽니다. 내일 아침 무장한 외국인 여섯 명이 자기네 대문 안으로 들어오는 걸 보면 저녁에는 저와도, 장관님과도 말을 하지 않을 겁니다.
+SAADI: Il mio colonnello dice «non parlano più». Non dice «si ribellano». Sa quale è la differenza? ||| 제 대령은 '반란을 일으킨다'가 아니라 '말을 하지 않는다'고 합니다. 그 차이가 뭔지 아십니까?
+CORRADO: Il silenzio è più difficile da proteggere della rabbia. ||| 침묵은 분노보다 지키기 어렵다는 거지요.
+SAADI: Esattamente. Una folla arrabbiata la vedo. Un quartiere zitto no. ||| 맞습니다. 화난 군중은 눈에 보입니다. 말없는 동네는 보이지 않고요.
+VINCI: Ministro, con tutto il rispetto, la sicurezza non si fonda sulle simpatie. ||| 장관님, 정중히 말씀드리지만 안전은 호감 위에 세워지지 않습니다.
+CORRADO: Dottor Vinci, un momento. Quanti sono, in tutto, i punti dove i piani non coincidono? ||| 빈치 씨, 잠깐만요. 세 계획이 어긋나는 지점이 전부 몇 곳입니까?
+VINCI: Non ho il conto esatto. ||| 정확한 수는 모릅니다.
+PALMIERI: Io sì. Uno. ||| 저는 압니다. 하나입니다.
+CORRADO: Uno? ||| 하나요?
+PALMIERI: Uno. Il resto sono duecentoundici voci su cui siamo tutti d'accordo, anche se ancora non lo sappiamo. Sbarco, saluti, passerella, ritorno in nave: tutto uguale. Ma c'è un buco. ||| 하나입니다. 나머지 211개 항목은 우리 모두 이미 합의했습니다. 아직 모르고 있을 뿐이지요. 하선, 인사, 트랩, 승선 복귀, 전부 같습니다. 그런데 구멍이 하나 있습니다.
++ sotto la soglia = 기준선 아래로. 위험 관리 문체의 soglia (문턱, 임계치)
++ scorta ravvicinata = 근접 경호. scorta (호위)에 ravvicinata (가까운)
++ mezzo scoperto = 개방형 차량. 교황의 '파파모빌' 같은 지붕 없는 차를 가리키는 말
++ cordone = 통제선, 저지선. 'cordone esterno a cinquanta metri'는 경호 문서의 전형 어구
++ zona non garantibile = 보장 불가 지역. 접미사 -ibile은 '~할 수 있는'
++ non parlano più con me = 더는 나와 말을 하지 않는다. 신뢰가 끊기는 순간을 가리키는 완곡한 표현
++ la sicurezza non si fonda sulle simpatie = 안전은 호감 위에 서지 않는다. 비인칭 si의 수동 용법
++ buco = 구멍, 빈 곳. 문서에서 '빈 구간'을 가리키는 구어 표현
+## 번호 없는 15분 — IL BUCO NELLA SCALETTA
+CORRADO: Comandante, mi legga il buco. ||| 사령관님, 그 구멍을 읽어 주세요.
+PALMIERI: Cue ottantasette, ore dodici e quattro: «Il Santo Padre scende dall'auto all'imbocco del Rione». Cue ottantotto, ore dodici e diciannove: «Il Santo Padre entra nel santuario». ||| 87번 큐, 12시 4분. '교황님이 구시가 입구에서 차에서 내리신다'. 88번 큐, 12시 19분. '교황님이 성당에 들어가신다'.
+GIULIA: In mezzo non c'è niente. ||| 그 사이에는 아무것도 없네요.
+PALMIERI: Quindici minuti senza numero. Ognuno dei tre piani ci scrive una cosa diversa: dottor Vinci, in macchina, zero minuti; il colonnello Mansouri, nessuno entra; noi, settecento metri a piedi. ||| 번호 없는 15분입니다. 세 계획이 각자 다른 걸 적습니다. 빈치 씨는 차로 0분, 만수리 대령은 아무도 들어가지 않는다, 우리는 걸어서 700미터입니다.
+CORRADO: E che cosa succede, comandante, in un buco? ||| 그럼 사령관님, 구멍 안에서는 무슨 일이 생깁니까?
+PALMIERI: Si improvvisa. E il Santo Padre si ferma sempre: un bambino, una vecchia sulla porta, una finestra con la tenda mossa. Voi lo chiamate imprevisto. Io lo chiamo l'unica cosa certa. ||| 즉흥이 벌어집니다. 그리고 교황님은 언제나 멈추십니다. 아이 하나, 문가의 할머니, 커튼이 흔들리는 창문. 여러분은 돌발 상황이라고 하지만 저는 그걸 유일하게 확실한 일이라고 부릅니다.
+VINCI: Ed è per questo che il mio piano non lo prevede: l'imprevisto si elimina. ||| 그래서 제 계획에는 그게 없는 겁니다. 돌발 상황은 없애는 겁니다.
+PALMIERI: Dottor Vinci, un imprevisto non si elimina. Si mette a numero. ||| 빈치 씨, 돌발 상황은 없애는 게 아닙니다. 번호를 붙이는 겁니다.
+CORRADO: Mi ripeta l'ultima frase, comandante. ||| 마지막 말을 다시 해 주세요, 사령관님.
+PALMIERI: Si mette a numero. Cue ottantasette-uno, ottantasette-due. Chi, dove, per quanto tempo, e chi lo sa. ||| 번호를 붙입니다. 87-1, 87-2처럼요. 누가, 어디서, 얼마 동안, 그리고 누가 그걸 아는지까지요.
+CORRADO: Allora proponiamo questo. Il buco non è un errore del foglio: è il punto dove i tre piani si toccano. E un punto di contatto non lo riempie nessuno da solo. ||| 그럼 이렇게 제안하겠습니다. 구멍은 종이의 실수가 아니라 세 계획이 맞닿는 지점입니다. 그리고 맞닿는 지점은 누구도 혼자 채울 수 없습니다.
+MANSOURI: Come lo riempiamo? ||| 어떻게 채우자는 겁니까?
+CORRADO: Camminando. Mercoledì, a Marsa Beida, alle dodici e quattro, ora esatta del cue ottantasette, i tre responsabili percorrono insieme i settecento metri. Con un solo foglio e tre colonne. ||| 걸어서요. 수요일에 마르사 베이다에서 87번 큐의 정확한 시각인 12시 4분에 세 책임자가 700미터를 함께 걷습니다. 종이 한 장에 칸은 세 개로요.
+VINCI: Un sopralluogo. Non decide niente. ||| 현장 답사군요. 아무것도 결정하지 못합니다.
+CORRADO: Decide una cosa: che nessuno di noi riempie il buco da una scrivania. Dottor Vinci, un numero senza gambe è una fantasia. ||| 한 가지는 결정합니다. 아무도 책상에서 그 구멍을 채우지 않는다는 것이요. 빈치 씨, 다리가 없는 숫자는 공상입니다.
+VINCI: E io che cosa ottengo, in cambio del camminare? ||| 그럼 저는 걷는 대가로 무엇을 얻습니까?
+CORRADO: Il suo cordone esterno a cinquanta metri, la sua strada costiera all'arrivo e alla partenza, e la sua firma in terza colonna. La sicurezza avrà una colonna intera. ||| 50미터 밖 외곽 통제선, 도착과 출발 때의 해안도로, 그리고 셋째 칸에 들어갈 서명입니다. 안전은 칸을 하나 통째로 갖게 됩니다.
+MANSOURI: E io? ||| 그럼 저는요?
+CORRADO: Lei decide chi può entrare in quel vicolo, colonnello. Non noi. Non Roma, non il Vaticano. Ma deve dircelo con il nome e con il numero, perché il comandante possa scriverlo. ||| 그 골목에 누가 들어갈 수 있는지는 대령님이 정하십니다. 우리도, 로마도, 바티칸도 아닙니다. 다만 이름과 번호로 말씀해 주셔야 사령관님이 그걸 적을 수 있습니다.
+PALMIERI: Io? ||| 저는요?
+CORRADO: Lei, comandante, scrive il foglio. Ma non lo firma da solo. ||| 사령관님은 종이를 쓰십니다. 하지만 혼자 서명하지는 않으십니다.
+PALMIERI: Una scaletta a tre firme. In trentadue anni non l'ho mai vista. ||| 서명이 셋인 순서표라. 32년 동안 본 적이 없습니다.
+SAADI: Ospiterò il sopralluogo. Il colonnello avrà il suo tè, e un pezzo di pane. Il pane del Rione Vecchio, che non è una cortesia: è una condizione. ||| 제가 답사를 맞이하겠습니다. 대령은 차와 빵 한 조각을 얻을 겁니다. 구시가의 빵은 호의가 아니라 조건입니다.
+CORRADO: Ministro, lo accetto in anticipo. A tavola si promette... ||| 장관님, 미리 받아들이겠습니다. 식탁에서는 약속을…
+SAADI: ...e a tavola si paga. Me l'ha insegnato lei, Corrado. Mercoledì, Marsa Beida. ||| …식탁에서 값을 치르지요. 당신에게 배웠습니다, 코라도. 수요일에 마르사 베이다에서 봅시다.
+ORSOLINI: Verbalizziamo. Decisione: sopralluogo congiunto mercoledì, alle dodici e quattro, tre firmatari. ||| 기록하겠습니다. 결정, 수요일 12시 4분 합동 답사, 서명자 셋입니다.
+MANINI: Direttore, una nota storica, se mi permette: nel 1929 la questione fu questa. Né la Santa Sede né l'Italia vollero sapere chi vince: vollero scrivere chi risponde di che cosa. ||| 사무총장님, 허락하신다면 역사 이야기를 하나 하겠습니다. 1929년의 문제도 이것이었습니다. 교황청도 이탈리아도 누가 이기는지를 알고 싶어 하지 않았고, 누가 무엇에 책임을 지는지를 적고 싶어 했습니다.
+CORRADO: I Patti Lateranensi. Undici febbraio: trattato, convenzione finanziaria e concordato, tre documenti, un giorno. La questione romana durava dal 1870. ||| 라테라노 협정이지요. 2월 11일에 조약, 재정 협약, 정교 협약 세 문서를 하루에 서명했고요. 로마 문제는 1870년부터 이어져 온 일이었습니다.
+MANINI: E all'articolo 3, piazza San Pietro: fa parte della Città del Vaticano, ma è soggetta ai poteri di polizia delle autorità italiane, che si fermano ai piedi della scalinata della Basilica. ||| 그리고 제3조에는 성 베드로 광장이 나옵니다. 광장은 바티칸 시국의 일부이지만 이탈리아 당국의 경찰권 아래 있고, 그 권한은 대성당 계단 아래에서 멈춥니다.
+CORRADO: Una strada, due autorità, e un punto preciso in cui l'una si ferma e l'altra comincia. Settecento metri a Marsa Beida non sono un problema nuovo, monsignore. Sono la piazza di San Pietro, in versione portuale. ||| 길 하나, 권한 둘, 그리고 한쪽이 멈추고 다른 쪽이 시작되는 정확한 지점이지요. 마르사 베이다의 700미터는 새로운 문제가 아닙니다, 몬시뇰. 항구판 성 베드로 광장입니다.
+MANINI: E l'articolo 8: la persona del Sommo Pontefice è sacra e inviolabile. Il che significa che chi la protegge deve poterla avvicinare alle persone, senza che nessuno debba scegliere fra le due cose. ||| 그리고 제8조는 교황의 신체가 신성불가침이라고 합니다. 그건 보호하는 이가 교황님을 사람들에게 가까이 모실 수 있어야 하며, 둘 중 하나를 고르지 않아도 된다는 뜻입니다.
++ scaletta = 순서표, 진행표. 방송·행사에서 시각별 진행을 적은 표. cue(큐)는 '신호·지시 항목'
++ mettere a numero = 번호를 붙이다. 돌발 상황(imprevisto)을 '없애지 않고 순서표에 넣는다'는 팔미에리의 철학
++ sopralluogo = 현장 답사·실사. 'sopralluogo congiunto'는 합동 답사
++ numero senza gambe = 다리 없는 숫자, 현장 확인 없는 계획. 농담조 비유
++ a tavola si promette... e a tavola si paga = 시리즈 모토. 사아디가 문장의 뒷부분을 이어받아 완성한다
++ verbalizzare = 조서·회의록에 적다. 오르솔리니의 '옆길 채널 없음' 원칙을 실행하는 동사
++ che si fermano ai piedi della scalinata = 계단 아래에서 멈춘다. 관계절 + 재귀동사 fermarsi, 라테라노 조약 3조의 표현
++ risponde di che cosa = 무엇에 책임지는가. 의문사 che cosa를 절 안에 삽입한 간접의문문
+
+## 후원자 명단 — LA LISTA DEI BENEFATTORI
+GIULIA: Corrado, è arrivata la lista. Centoventi coperti, ventidue benefattori. Vuoi che la legga ad alta voce mentre mangi? ||| 코라도, 명단이 왔어요. 120석에 후원자는 22곳이고요. 식사하시는 동안 소리 내어 읽어 드릴까요?
+CORRADO: Leggila, che la pizza bianca con la mortadella mi aiuta a sentire meglio. ||| 읽어 줘요. 모르타델라를 넣은 피차 비앙카를 먹으면 오히려 더 잘 들리니까.
+GIULIA: Ordine alfabetico, come piace a monsignor Manini. Banca di Credito Cooperativo di Tor Vergata. Cantine dei Colli. Famiglia Rinaldi, in memoria di... e arrivo alla F. ||| 마니니 몬시뇰이 좋아하시는 대로 알파벳 순서입니다. 토르 베르가타 협동조합은행. 콜리 와이너리. 리날디 가족, 누구누구를 기리며… 그리고 F에 왔어요.
+GIULIA: Fondazione Leonardo per le Arti e il Mediterraneo. Sponsor principale, con una nota: «trasporto dei doni a bordo curato da Alba Logistica S.r.l.». ||| 폰다치오네 레오나르도, 예술과 지중해를 위한 재단. 주 후원자이고 주석이 달려 있어요. '선상 선물 운송은 알바 로지스티카 유한회사가 맡음'이라고요.
+CORRADO: Eccola. L'ho sentita nominare la settimana scorsa, in un museo. ||| 나왔군요. 지난주 박물관에서 이 이름을 들었지요.
+GIULIA: Ho già guardato. Primo: nel registro delle persone giuridiche della Prefettura di Roma la Fondazione risulta costituita da Leonardo Holding S.p.A., sede legale presso lo Studio Ferretti e Associati. ||| 이미 찾아봤어요. 첫째, 로마 도청의 법인 등록부에 재단은 레오나르도 홀딩이 설립한 것으로 나오고, 소재지는 페레티 법률사무소 안이에요.
+CORRADO: Ferretti. Quell'ufficio. Va' avanti. ||| 페레티, 그 사무소로군요. 계속해요.
+GIULIA: Secondo: nel registro delle imprese, Alba Logistica S.r.l. ha un socio unico: Fiduciaria Alba S.r.l. Chi ci sia dietro la fiduciaria, il registro non lo dice. ||| 둘째, 기업 등기부에서 알바 로지스티카의 유일 주주는 알바 신탁회사예요. 신탁회사 뒤에 누가 있는지는 등기부에 안 나옵니다.
+CORRADO: E nel Registro pubblico degli operatori, quello nuovo, l'allegato D? ||| 새로 생긴 사업자 공개 등록부, 부속서 D에는요?
+GIULIA: Leonardo Holding alla lettera L, con cinquantuno per cento dichiarato. Il quarantanove, in fiduciaria. Fiduciaria Alba. Lo stesso nome. ||| L 항목에 레오나르도 홀딩이 신고 지분 51퍼센트로 있어요. 나머지 49퍼센트는 신탁이고요. 알바 신탁회사. 같은 이름이에요.
+CORRADO: Quindi un nome compare in tre elenchi diversi. Nel registro del quarantanove per cento, nella proprietà di chi trasporta i doni, e nella lista dei benefattori. ||| 그러니까 한 이름이 서로 다른 세 목록에 나타나는군요. 49퍼센트 등록부에, 선물을 운송하는 회사의 소유주 자리에, 그리고 후원자 명단에요.
+GIULIA: Non è illegale. È ordinato. Terribilmente ordinato. ||| 불법은 아니에요. 질서정연한 거죠. 무섭도록 질서정연해요.
+CORRADO: Giulia, un invito a cena non è un contratto. Ma una cassa di doni che sale su una nave italiana dietro la scorta del Papa, qualcuno deve aprirla. ||| 줄리아, 저녁 초대는 계약이 아닙니다. 하지만 교황 경호 아래 이탈리아 함정에 오르는 선물 상자라면 누군가는 열어 봐야 합니다.
+GIULIA: Chiediamo di annullare lo sponsor? ||| 후원을 취소해 달라고 할까요?
+CORRADO: No. Sarebbe un'accusa senza un fatto, e la Santa Sede risponderebbe con ragione che i benefattori si accolgono. Chiediamo tre cose, tutte scritte. ||| 아뇨. 사실 없는 비난이 될 테고, 교황청은 후원자는 맞이하는 거라고 정당하게 답할 겁니다. 서면으로 세 가지만 요청하지요.
+GIULIA: Dimmele che le scrivo. ||| 불러 줘요, 적을게요.
+CORRADO: Primo: nome per esteso di ogni benefattore, in ordine alfabetico, sul programma stampato. Come sulle lapidi nelle chiese. ||| 첫째, 모든 후원자의 이름을 약칭 없이 알파벳 순서로 인쇄된 프로그램에 싣는다. 성당의 기부자 명판처럼요.
+CORRADO: Secondo: i doni passano dallo stesso scanner e dallo stesso controllo di tutti gli altri bagagli. Terzo: le casse le apre la Gendarmeria, con un rappresentante della Marina, non la società di trasporto. ||| 둘째, 선물은 다른 모든 짐과 같은 스캐너, 같은 검사를 거친다. 셋째, 상자는 운송회사가 아니라 헌병대가 해군 대표와 함께 연다.
+GIULIA: Tre domande che non offendono nessuno. ||| 누구도 기분 상하게 하지 않는 세 가지 요청이군요.
+CORRADO: Questo è il punto. Chi ha un nome da mostrare non si offende. Chi si offende, forse, ha una riga in più da leggere. ||| 그게 핵심이에요. 보여 줄 이름이 있는 사람은 기분 상하지 않아요. 기분 상하는 사람이라면 읽어야 할 줄이 하나 더 있을지도 모르고요.
+GIULIA: Il quarantanove per cento non è ancora arrivato a scadenza. Dodici mesi, dicevano. ||| 49퍼센트는 아직 기한이 안 됐어요. 12개월이라고 했죠.
+CORRADO: Un livello alla volta. Lo dissero loro. ||| 한 겹씩이요. 저쪽이 한 말입니다.
+GIULIA: Posso mandare le tre richieste a Manini adesso? ||| 이 세 요청을 지금 마니니 몬시뇰에게 보내도 될까요?
+CORRADO: Mandale a lui e, in copia, a Orsolini. Niente canali laterali. ||| 몬시뇰에게 보내고 오르솔리니에게 참조로 넣어요. 옆길 채널은 없습니다.
++ coperti = 좌석(인원수). 식당·연회 용어, 'centoventi coperti'
++ benefattori = 후원자, 기부자. 교회에서 기부자 이름을 새기는 lapide(명판)는 시리즈 칠판의 성당 버전
++ registro delle persone giuridiche = 법인 등록부. 재단·협회가 법인격을 얻을 때 등록하는 공공 기록
++ socio unico = 유일 사원·단독 주주. S.r.l.의 등기 표기
++ fiduciaria = 신탁회사. 실제 주인의 이름을 대신 올려 주는 회사
++ chi ci sia dietro = 그 뒤에 누가 있든. 의문 접속법(chi ci sia)이 '등기부가 말하지 않는다'는 불확실성을 나타냄
++ per esteso = 약칭 없이 전부 적어서. 'nome per esteso'는 이름을 줄이지 않고
++ in copia = 참조로. 'mettere in copia'는 메일의 CC
+
+## 에스프레소와 식탁 — A CASA DI CORRADO
+SANDRI: Corrado, sei in ritardo di quattro minuti. Il caffè non aspetta nessuno, nemmeno un negoziatore. ||| 코라도, 4분 늦었네. 커피는 협상관이라고 기다려 주지 않는다네.
+CORRADO: Eccellenza, mi perdoni, c'era una lista di benefattori. ||| 대사님, 용서해 주십시오. 후원자 명단이 있었습니다.
+SANDRI: Le liste hanno sempre un'ora di ritardo. Siediti. Ti racconto un caffè del 1929. ||| 명단은 늘 한 시간씩 늦지. 앉게. 1929년의 커피 이야기를 해 주겠네.
+CORRADO: Un caffè dei Patti Lateranensi? ||| 라테라노 협정의 커피입니까?
+SANDRI: Di quello che c'era prima. Dal 1926 due uomini si vedevano di nascosto: un avvocato, Francesco Pacelli, fratello del futuro Pio dodicesimo, e un consigliere di Stato, Domenico Barone. ||| 그 이전의 것이지. 1926년부터 두 사람이 몰래 만났네. 프란체스코 파첼리 변호사, 장차 비오 12세가 될 사람의 형제와, 국참사관 도메니코 바로네였지.
+CORRADO: Senza segretari? ||| 비서도 없이요?
+SANDRI: Quasi. Si dice che il primo punto d'accordo non fu un articolo, ma una domanda: «Che cosa serve a ciascuno per vivere accanto all'altro?». ||| 거의. 첫 합의 지점은 조문이 아니라 질문이었다고들 하네. '서로 곁에 살려면 각자에게 무엇이 필요한가?'라는 질문 말이야.
+CORRADO: Non «chi ha ragione». ||| '누가 옳은가'가 아니고요.
+SANDRI: Mai. Poi firmarono il cardinale e il capo del governo, che hanno avuto la gloria. Ma la strada l'avevano aperta due persone con una tazzina. ||| 전혀. 그 뒤에 서명한 건 추기경과 정부 수반이어서 영광은 그들이 가졌지. 하지만 길을 낸 건 찻잔 하나를 사이에 둔 두 사람이었네.
+CORRADO: Eccellenza, la sua morale? ||| 대사님, 교훈은 무엇입니까?
+SANDRI: Che il segreto è un buon attrezzo per cominciare e un pessimo luogo dove restare. Tre anni di porte chiuse, poi tutto alla luce. Tu stai facendo il contrario, e va bene così: cominci alla luce. ||| 비밀은 시작하기엔 좋은 도구이지만 머무르기엔 아주 나쁜 곳이라는 거지. 3년간 문을 닫아 두었다가 그다음엔 전부 밝혔네. 자네는 반대로 하고 있고, 그게 맞네. 처음부터 빛 속에서 시작하니까.
+CORRADO: Mercoledì voglio che tre uomini camminino insieme. ||| 수요일에 세 사람이 함께 걷게 하려고 합니다.
+SANDRI: E dopo? ||| 그다음엔?
+CORRADO: E dopo mangiano. ||| 그다음에 먹습니다.
+SANDRI: Ottimo ordine. ||| 훌륭한 순서로군.
+LEO: Papà, la pasta si scuoce! ||| 아빠, 파스타 불어요!
+CORRADO: Scolo io. Leo, tu i piatti. Eccellenza, resta a cena? ||| 제가 건질게요. 레오, 접시는 네가. 대사님, 저녁 드시고 가시겠습니까?
+SANDRI: Se c'è la provola, sì. ||| 프로볼라가 있다면 그러지.
+CORRADO: Pasta e patate con la provola. Ci sono anche due uova sode per il ragazzo, che ha la gara di atletica. ||| 파스타 에 파타테에 프로볼라입니다. 달리기 대회가 있는 아이를 위해 삶은 달걀도 두 개 있고요.
+LEO: Papà, ho una domanda per la cena. ||| 아빠, 저녁에 물어볼 게 있어.
+CORRADO: Prima si mangia, poi si filosofeggia. ||| 먼저 먹고, 그다음에 철학하자.
+LEO: Mangio e filosofeggio. Se proteggi una persona così tanto che non può più incontrare nessuno, la stai proteggendo o la stai chiudendo? ||| 먹으면서 철학할래. 한 사람을 너무 철저히 지켜서 그 사람이 아무도 만나지 못하게 되면, 그건 지키는 거야 가두는 거야?
+CORRADO: Lo chiedi per il Papa o per te? ||| 교황님 때문에 묻는 거야, 아니면 너 때문이야?
+LEO: Per tutti e due. Ieri sera la nonna di Matteo non l'ha lasciato uscire con la bicicletta fino alle undici. Lei lo proteggeva. Lui si sentiva in gabbia. ||| 둘 다. 어제 저녁 마테오 할머니가 11시까지 자전거 타고 나가지 못하게 했거든. 할머니는 지키는 거였고, 마테오는 갇힌 기분이었대.
+SANDRI: Leo, fatti dare un parere da Isaiah Berlin: libertà da e libertà di. ||| 레오, 이사야 벌린한테 의견을 구해 보렴. '~로부터의 자유'와 '~을 향한 자유'라고 하지.
+LEO: Libertà da: nessuno ti ferma. Libertà di: puoi fare quello che vuoi davvero. ||| '~로부터의 자유'는 아무도 널 막지 않는 거고, '~을 향한 자유'는 진짜 하고 싶은 걸 할 수 있는 거죠.
+CORRADO: E il Papa vuole passare, parlare, ringraziare. Se il cordone gli toglie la libertà di, ha tolto lo scopo della protezione. ||| 그리고 교황님은 지나가고 이야기하고 감사를 전하고 싶어 하셔. 통제선이 '~을 향한 자유'를 없앤다면 보호의 목적을 없앤 거지.
+LEO: Quindi la protezione deve servire alla libertà, non sostituirla. ||| 그러니까 보호는 자유를 위해서 있어야지, 자유를 대신하면 안 되는 거네.
+CORRADO: Esatto. Tu hai appena scritto il mio verbale di mercoledì. ||| 맞아. 네가 방금 수요일 회의록을 써 줬어.
+LEO: Posso venire? ||| 나도 가도 돼?
+CORRADO: No. Ma ti racconto tutto, a tavola. ||| 안 돼. 하지만 식탁에서 전부 이야기해 줄게.
+SANDRI: A tavola si promette. ||| 식탁에서는 약속을 하지.
+LEO: E a tavola si paga. Lo so, lo so. ||| 그리고 식탁에서 값을 치르고요. 알아요, 알아.
++ filosofeggiare = 철학적으로 따지다, 철학하는 척하다. -eggiare는 '~처럼 하다'
++ si scuoce = (파스타가) 퍼지다. scuocere는 '너무 익다'로 요리 구어
++ fatti dare un parere = 의견을 구해 보렴. fatti + 부정사의 재귀 사동 + dare. 산드리의 조언 어투
++ libertà da / libertà di = '~로부터의 자유'(소극적)와 '~을 향한 자유'(적극적). 이사야 벌린의 구분
++ in gabbia = 우리에 갇힌, 답답해하는. 'sentirsi in gabbia'는 갇힌 기분이 들다
++ scrivere il verbale = 회의록을 쓰다. 레오가 아버지의 회의록을 '대신 쓴' 셈이라는 농담
++ ti racconto tutto, a tavola = 식탁에서 전부 이야기해 주마. 시리즈의 약속 장치
++ morale = (이야기의) 교훈. 'la morale della storia'
