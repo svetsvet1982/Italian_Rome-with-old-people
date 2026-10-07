@@ -1,0 +1,206 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 2
+@title La sagrestia
+@ko 성구실
+@setting 화요일 새벽 트라스테베레 성당 성구실 → 광장 카페 → 파르네시나 복도 → 정오 압둘라예의 위성 전화
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast GIULIA | 분석관, 31세
+@cast ABDOULAYE | 만다 공화국 강변 마을의 중재인(전화), 60세
+@cast SUOR BENEDETTA | 납치된 수녀 원장, 62세 (전화)
+@cast MADRE COSTANZA | 자비의 수녀회 총장 수녀, 74세
+@note 2화는 물밑 접촉의 화입니다. 란차는 오랜 친구 벨란디 몬시뇰과 성구실에서 만나 두 채널(국가와 교회)을 어떻게 한 방향으로 묶을지 이야기합니다. 몬시뇰의 장갑에서 나는 사헬 수지 향이 그가 최근 만다에 다녀왔음을 드러내고, 그가 숨겨 온 과거가 암시됩니다. 역사 논거는 라테라노 협정(1929): 하나의 화해를 '조약'(주권)과 '정교 협약'(관계)이라는 두 문서·두 채널로 나눠 푼 사례입니다. 어휘는 외교·교회 관계(canale, concordato, nunziatura, discrezione)와 관용구에 주목하세요.
+@next 3화: 란차는 교황청 문서고에서 17세기 포로 구속 기록을 찾아 몸값의 선례를 확인합니다. 문서고 사제는 '영수증은 기도와 함께 보관한다'고 말합니다.
+
+## 성구실 — LA SAGRESTIA
+BELLANDI: Corrado. Sei puntuale. Mi fai paura. ||| 코라도. 시간을 지켰군. 무섭네.
+CORRADO: Vittorio mi ha detto sette. Sono arrivato alle sette meno cinque. ||| 산드리 선생님이 7시라고 하셨어요. 7시 5분 전에 왔습니다.
+BELLANDI: Le sette meno cinque. Una volta eri sempre in ritardo. Il matrimonio di tua sorella, ricordi? ||| 7시 5분 전이라. 예전엔 늘 늦었잖아. 자네 누이 결혼식 기억나나?
+CORRADO: Ricordo che il prete eri tu. E che ti sei addormentato durante l'omelia. ||| 사제가 몬시뇰이셨던 건 기억합니다. 그리고 강론하다 졸으셨죠.
+BELLANDI: Una pausa di riflessione. Siediti. ||| 성찰의 휴지였지. 앉게.
+CORRADO: Bella sagrestia. ||| 아름다운 성구실이군요.
+BELLANDI: Santa Maria in Trastevere. Qui, tra gli armadi dei paramenti, ho imparato che il mestiere del prete e quello del diplomatico hanno la stessa regola. ||| 트라스테베레의 산타 마리아 성당이야. 제의 장롱 사이에서 사제의 일과 외교관의 일이 같은 규칙을 가졌다는 걸 배웠지.
+CORRADO: Quale? ||| 어떤 규칙요?
+BELLANDI: Non dire mai tutto. Ma non dire mai il falso. ||| 모든 걸 말하지 말 것. 하지만 거짓은 말하지 말 것.
+CORRADO: Allora oggi quanto mi dici? ||| 그럼 오늘은 얼마나 말해 주실 건가요?
+BELLANDI: Dipende da quanto mi ascolti. ||| 자네가 얼마나 들어 주느냐에 달렸지.
+CORRADO: Sono qui apposta. ||| 그러려고 왔습니다.
+BELLANDI: Mi hanno detto che Orsolini ti ha messo in guardia contro di me. ||| 오르솔리니가 나를 경계하라고 했다던데.
+CORRADO: Chi glielo ha detto? ||| 누가 그런 말을 했죠?
+BELLANDI: Nessuno. L'ho dedotto dal fatto che non mi ha ancora telefonato. ||| 아무도. 아직 전화가 없다는 사실에서 추론했지.
+CORRADO: Una deduzione elegante. ||| 우아한 추론이네요.
+BELLANDI: Siamo in sagrestia. Qui anche le deduzioni sono vestite bene. ||| 성구실이잖나. 여기서는 추론도 옷을 잘 입어.
+CORRADO: Ettore, posso dirti una cosa? ||| 에토레, 하나 말해도 될까요?
+BELLANDI: Dimmi. ||| 말해 보게.
+CORRADO: Hai un guanto in tasca. Se ne vede l'orlo. Ed emana un profumo che non è quello dell'incenso di questa chiesa. ||| 주머니에 장갑이 있군요. 가장자리가 보입니다. 그리고 이 성당 향 냄새가 아닌 향이 나요.
+BELLANDI: Hai il naso di un cane da tartufo. ||| 송로버섯 개 같은 코를 가졌군.
+CORRADO: È resina. Fumo di resina secca. Olibano, ma più acre. Lo conosco: l'ho annusato a Bamarè, a casa di un amico, anni fa. ||| 수지예요. 마른 수지를 태운 연기. 유향인데 더 매캐하고요. 알아요. 몇 년 전 바마레의 친구 집에서 맡았죠.
+BELLANDI: Una resina che si brucia nelle case di Ndolo, per accogliere i viaggiatori. ||| 놀로의 집들에서 나그네를 맞으려고 태우는 수지지.
+CORRADO: Sei stato in Mandà. ||| 만다에 다녀오셨군요.
+BELLANDI: Sono tornato ieri sera con un volo di servizio. ||| 어제 저녁 업무용 항공편으로 돌아왔네.
+CORRADO: E nessuno lo sa. ||| 그런데 아무도 모르고요.
+BELLANDI: Lo sa chi lo deve sapere. ||| 알아야 할 사람은 알지.
+CORRADO: Il mio governo non lo sa. ||| 우리 정부는 모릅니다.
+BELLANDI: Il tuo governo non ha chiesto. ||| 자네 정부는 묻지 않았으니까.
+CORRADO: Ettore, io ti voglio bene. Ma dimmi che cosa c'è sotto. ||| 에토레, 난 자네를 좋아해요. 하지만 속사정을 말해 줘요.
+BELLANDI: Non posso dirti tutto, adesso. ||| 지금은 전부 말해 줄 수 없네.
+CORRADO: Allora dimmi una parte. ||| 그럼 일부라도요.
+BELLANDI: Va bene. Una parte. Quando hanno rapito Benedetta, ho saputo entro un'ora chi erano. ||| 좋아. 일부만. 베네데타가 납치됐을 때 한 시간 안에 누구인지 알았네.
+CORRADO: Ne ero sicuro. ||| 그럴 줄 알았습니다.
+BELLANDI: Sono i ragazzi del villaggio di Abdoulaye. Li conosco quasi tutti. Ho battezzato due dei loro fratelli. ||| 압둘라예 마을의 청년들이야. 거의 다 알지. 그들의 형제 둘에게 세례를 줬어.
+CORRADO: E allora perché non hai fermato tutto? ||| 그런데 왜 막지 않았죠?
+BELLANDI: Perché non sono ragazzi cattivi. E perché una parte di me pensa che abbiano ragione. ||| 나쁜 아이들이 아니니까. 그리고 내 일부는 그들이 옳다고 생각하니까.
+CORRADO: Ragione sul fine. ||| 목적에서요.
+BELLANDI: Sul fine. Non sul mezzo. ||| 목적에서 그렇지. 수단은 아니고.
+CORRADO: Lo ha detto anche mio figlio ieri sera. ||| 어제 저녁 우리 아들도 그렇게 말했어요.
+BELLANDI: Tuo figlio è un uomo saggio. ||| 자네 아들은 현명하군.
+CORRADO: Ha sedici anni. ||| 열여섯 살입니다.
+BELLANDI: Appunto. ||| 그래서지.
++ sagrestia = 성구실(제의와 성기를 보관하는 방)
++ paramenti = 제의
++ omelia = 강론
++ olibano = 유향(乳香)
++ cane da tartufo = 송로버섯 탐지견(후각이 예민한 사람)
++ battezzare = 세례를 주다
++ avere ragione sul fine, non sul mezzo = 목적에서는 옳고 수단에서는 아니다
++ mettere in guardia = 경고하다, 경계시키다
++ volo di servizio = 업무용 항공편
+
+## 두 채널의 이야기 — LA STORIA DEI DUE CANALI
+CORRADO: Ettore, torniamo al punto. Orsolini mi dice: il governo non tratta. Tu mi dici: i ragazzi hanno ragione sul fine. Io in mezzo, che cosa faccio? ||| 에토레, 요점으로 돌아가죠. 오르솔리니는 정부가 협상하지 않는다고 하고, 몬시뇰은 청년들이 목적에서 옳다고 하십니다. 그 사이의 저는 뭘 합니까?
+BELLANDI: Tu non sei in mezzo. Tu sei il ponte. Ma il ponte ha due sponde, e le sponde non si parlano. ||| 자네는 중간이 아니라 다리야. 하지만 다리에는 두 기슭이 있고, 기슭끼리는 말을 하지 않지.
+BELLANDI: Ti racconto una storia. Millenovecentoventinove. L'Italia e la Santa Sede, in rotta da sessant'anni, dal momento in cui i bersaglieri entrarono a Roma. ||| 이야기를 하나 해 주지. 1929년이야. 이탈리아와 교황청은 베르사리에리가 로마에 입성한 때부터 예순 해 동안 단절돼 있었지.
+CORRADO: La Questione Romana. ||| 로마 문제죠.
+BELLANDI: Esatto. Sembrava impossibile. Il Papa si dichiarava «prigioniero». Lo Stato non voleva cedere un metro. ||| 맞아. 불가능해 보였어. 교황은 스스로 '포로'라고 선언했고, 국가는 한 뼘도 양보하려 하지 않았지.
+CORRADO: E nel ventinove si trovò l'accordo. ||| 그리고 29년에 합의가 나왔죠.
+BELLANDI: Si trovò, ma non con un documento. Con due. Un Trattato, che riconosceva la sovranità della Santa Sede e faceva nascere lo Stato della Città del Vaticano. E un Concordato, che regolava i rapporti tra la Chiesa e lo Stato italiano. ||| 나왔지, 문서 하나로가 아니라 둘로. 하나는 조약이야. 교황청의 주권을 인정하고 바티칸 시국을 태어나게 했지. 다른 하나는 정교 협약이야. 교회와 이탈리아 국가의 관계를 규율했고.
+CORRADO: Due testi per una riconciliazione. ||| 하나의 화해에 두 텍스트.
+BELLANDI: Perché una cosa sola non bastava. La sovranità non poteva essere trattata come una questione di fede. E la fede non poteva essere trattata come una questione di confini. ||| 하나로는 모자랐으니까. 주권을 신앙의 문제처럼 다룰 수 없었고, 신앙을 국경의 문제처럼 다룰 수도 없었지.
+CORRADO: Ecco. ||| 바로 그거군요.
+BELLANDI: Che cosa? ||| 뭐가?
+CORRADO: La soluzione. Qui abbiamo due questioni, e le stiamo trattando come una. ||| 해법이요. 지금 두 가지 문제가 있는데 하나로 다루고 있어요.
+BELLANDI: Spiegati. ||| 설명해 보게.
+CORRADO: La questione dello Stato: non si paga riscatto. È la linea. Non si cambia, per ragioni che capisco. La questione della Chiesa: un ospedale, e una porta aperta di notte. Questo è un lavoro vostro. ||| 국가의 문제는 몸값을 내지 않는다는 방침이에요. 제가 이해하는 이유로 바뀌지 않습니다. 교회의 문제는 병원과 밤에 열린 문이에요. 그건 당신들의 일이죠.
+BELLANDI: Un ospedale non è un riscatto. ||| 병원은 몸값이 아니지.
+CORRADO: No. È una promessa che si può mantenere. ||| 아닙니다. 지킬 수 있는 약속이죠.
+BELLANDI: Ma chi la fa questa promessa? Se la fa lo Stato, è un riscatto in forma di cemento. Se la fa la Chiesa, è un baratto con dei rapitori. ||| 하지만 누가 그 약속을 하나? 국가가 하면 시멘트 모양의 몸값이고, 교회가 하면 납치범과의 물물교환이지.
+CORRADO: Per questo servono due testi. Il primo, dello Stato: nessun pagamento, nessuna trattativa sul prezzo. Un testo pubblico. Il secondo, dell'Ordine: la ripresa dell'attività sanitaria a Ndolo, un impegno comunitario che l'Ordine ha già, e che riprende con i propri mezzi. ||| 그래서 텍스트가 둘 필요합니다. 첫째는 국가 몫이에요. 지급 없음, 값에 대한 협상 없음. 공개 텍스트입니다. 둘째는 수도회 몫이죠. 놀로의 의료 활동 재개, 수도회가 이미 가진 공동체 약속을 자기 힘으로 다시 시작하는 겁니다.
+BELLANDI: E i rapitori, che cosa ricevono? ||| 그럼 납치범은 무엇을 받나?
+CORRADO: Ricevono una porta aperta. Non in cambio dei cinque. Ma accanto. ||| 열린 문을 받습니다. 다섯 사람의 대가가 아니라 그 곁에서요.
+BELLANDI: «Accanto». È un bellissimo avverbio. ||| '곁에서'라. 아주 멋진 부사로군.
+CORRADO: Lo uso solo nelle emergenze. ||| 비상시에만 씁니다.
+BELLANDI: Ma c'è un problema. Se i due testi sono troppo vicini, tutti diranno: è lo stesso riscatto con due firme. ||| 하지만 문제가 있네. 두 텍스트가 너무 가까우면 다들 같은 몸값에 서명만 둘이라고 하겠지.
+CORRADO: Lo diranno comunque. Per questo devono essere pubblici entrambi. ||| 어차피 그러겠죠. 그래서 둘 다 공개돼야 합니다.
+BELLANDI: Pubblici anche i fondi dell'Ordine? ||| 수도회의 자금도 공개고?
+CORRADO: Sì. ||| 네.
+BELLANDI: Corrado. Qui entriamo nel punto delicato. ||| 코라도. 여기서 미묘한 지점으로 들어가는군.
+CORRADO: Lo so. ||| 알아요.
+BELLANDI: Perché i fondi dell'Ordine non sono sempre stati puliti. ||| 수도회 자금이 늘 깨끗했던 건 아니니까.
+CORRADO: Che cosa vuoi dire? ||| 무슨 말이죠?
+BELLANDI: Che tre anni fa, un'altra volta, hanno rapito due missionari. In Mandà. E li hanno liberati in una settimana. ||| 3년 전에도 선교사 두 명이 만다에서 납치됐어. 일주일 만에 풀려났지.
+CORRADO: Ricordo. Il governo disse: nessun pagamento. ||| 기억합니다. 정부는 지급이 없다고 했죠.
+BELLANDI: Il governo non ha pagato. ||| 정부는 지급하지 않았지.
+CORRADO: Ettore. ||| 에토레.
+BELLANDI: Non posso dire di più oggi. Ma ti chiedo di non fidarti dei documenti che troverai. Prima di leggerli, aspetta me. ||| 오늘은 더 말할 수 없네. 하지만 부탁이 있어. 자네가 찾게 될 서류를 그대로 믿지 말게. 읽기 전에 나를 기다려.
+CORRADO: Ti aspetto. Ma non per sempre. ||| 기다리겠어요. 영원히는 아니지만요.
+BELLANDI: Per quattro giorni. ||| 나흘이면 돼.
++ rotta = 단절, 결렬(in rotta)
++ bersaglieri = 베르사리에리(이탈리아 저격병 부대; 1870년 로마 입성)
++ Questione Romana = 로마 문제(1870~1929 이탈리아 정부와 교황청의 대립)
++ Patti Lateranensi = 라테라노 협정(1929): 조약(Trattato)과 정교 협약(Concordato)
++ baratto = 물물교환
++ accanto = ~곁에, ~옆에
++ impegno comunitario = 공동체 약속
++ fidarsi di = ~를 믿다
+
+## 광장 카페와 사무총장 — IL BAR E IL SEGRETARIO GENERALE
+CORRADO: Pronto, ambasciatore? Sono Lanza. ||| 여보세요, 대사님? 란차입니다.
+ORSOLINI: Dottor Lanza. Mi dica. ||| 란차 박사. 말씀하세요.
+CORRADO: Mi ha chiesto di tenerla informata di ogni telefonata. Ho avuto un incontro, non una telefonata. Ma lo considero equivalente. ||| 통화마다 보고하라고 하셨죠. 전화가 아니라 만남이었습니다. 하지만 같은 것으로 봅니다.
+ORSOLINI: Con chi? ||| 누구와요?
+CORRADO: Con monsignor Bellandi. ||| 벨란디 몬시뇰입니다.
+ORSOLINI: Lo sapevo. ||| 그럴 줄 알았습니다.
+CORRADO: Allora le dico con trasparenza: ho saputo che monsignore è stato in Mandà ieri. ||| 그럼 투명하게 말씀드리겠습니다. 몬시뇰이 어제 만다에 다녀왔다는 걸 알았습니다.
+ORSOLINI: Ha un canale. ||| 채널이 있군요.
+CORRADO: Ha un canale, sì. E le dico un'altra cosa. Non ho chiesto soldi. Non ho proposto nulla. Ho solo ascoltato. ||| 있습니다. 한 가지 더 말씀드립니다. 돈을 요구하지 않았고 제안하지도 않았습니다. 듣기만 했습니다.
+ORSOLINI: E che cosa ha ascoltato? ||| 그래서 무엇을 들었습니까?
+CORRADO: Che c'è una strada per due testi. Uno dello Stato, pubblico: nessun pagamento. Uno dell'Ordine, pubblico anch'esso: la riapertura dell'attività sanitaria a Ndolo. ||| 텍스트 둘로 가는 길이 있다는 겁니다. 하나는 국가의 공개 문서로 지급 없음. 다른 하나는 수도회의 공개 문서로 놀로 의료 활동의 재개입니다.
+ORSOLINI: Una specie di concordato. ||| 일종의 정교 협약이군요.
+CORRADO: Se vuole chiamarlo così. ||| 그렇게 부르고 싶으시다면요.
+ORSOLINI: Questo me lo scrive per iscritto. In una pagina. ||| 그건 서면으로 주세요. 한 장으로.
+CORRADO: Entro stasera. ||| 오늘 저녁까지요.
+ORSOLINI: E, dottor Lanza. ||| 그리고, 란차 박사.
+CORRADO: Sì? ||| 네?
+ORSOLINI: Ho letto il suo fascicolo. Ieri sera. Tutto. Vittorio Sandri dice che è il miglior negoziatore della sua generazione. ||| 어제 저녁 당신 서류를 전부 읽었습니다. 비토리오 산드리 대사는 당신이 세대 최고의 협상가라고 하더군요.
+CORRADO: Esagera. Quando beve il caffè. ||| 과장하시는 겁니다. 커피를 드실 때는요.
+ORSOLINI: Lo spero. La modestia le sta bene. Mi dia la pagina. ||| 그러길 바랍니다. 겸손이 잘 어울리는군요. 그 한 장을 주세요.
+CORRADO: Grazie, ambasciatore. ||| 감사합니다, 대사님.
+GIULIA: Corrado, ho una cosa. ||| 코라도, 알려 드릴 게 있어요.
+CORRADO: Dimmi. ||| 말해 봐요.
+GIULIA: Ho confrontato le due cifre. Duemilioni di euro, quattrocentomila a testa. Hai presente quanto costa un piccolo ospedale rurale? ||| 두 금액을 대조해 봤어요. 200만 유로, 한 명당 40만. 작은 농촌 병원 하나가 얼마인지 아세요?
+CORRADO: Quanto? ||| 얼마죠?
+GIULIA: Una struttura da quaranta letti, con sala operatoria e generatore: un milione e novecentomila. Più o meno. ||| 40병상에 수술실과 발전기를 갖춘 시설이 190만 유로예요. 대략요.
+CORRADO: Giulia, mi stai dicendo che il riscatto è il preventivo di un ospedale? ||| 조울리아, 몸값이 병원 견적서라는 말인가요?
+GIULIA: Ti sto dicendo che due milioni è il prezzo di quello che vogliono. Non del prezzo dei nostri. ||| 200만은 그들이 원하는 것의 값이라는 말이에요. 우리 사람들의 값이 아니라요.
+CORRADO: Sei una donna terrificante. ||| 조울리아, 무서운 사람이네요.
+GIULIA: Sono di Bologna. Facciamo i conti. ||| 볼로냐 사람이잖아요. 계산을 하죠.
++ canale = 채널, 경로
++ trasparenza = 투명성
++ fascicolo = 서류철, 인사 기록
++ concordato = 정교 협약
++ struttura = 시설
++ letto = 병상
++ preventivo = 견적서
+
+## 정오의 위성 전화 — LA TELEFONATA DI MEZZOGIORNO
+ABDOULAYE: Allô, Lanza? Ho una persona che vuole parlare con lei. ||| 알로, 란차 씨? 당신과 통화하고 싶어 하는 사람이 있습니다.
+CORRADO: Mi dica. ||| 말씀하세요.
+SUOR BENEDETTA: Pronto? Corrado Lanza? ||| 여보세요? 코라도 란차 씨?
+CORRADO: Suor Benedetta. Sono io. Come sta? ||| 베네데타 수녀님. 접니다. 어떠세요?
+SUOR BENEDETTA: Sto bene. Ho un po' di febbre, ma nulla di grave. Gli altri stanno bene. Mi hanno dato una coperta. ||| 괜찮아요. 열이 조금 있지만 심하진 않아요. 다른 분들도 괜찮고요. 담요를 줬어요.
+CORRADO: Sono contento di sentirla. Siamo qui, in tanti, che lavoriamo per voi. ||| 목소리를 들어 기쁩니다. 여기서 우리 많은 사람이 여러분을 위해 일하고 있어요.
+SUOR BENEDETTA: Lo so. Madre Costanza mi ha fatto avere un messaggio. ||| 알아요. 코스탄차 총장님이 메시지를 전해 줬어요.
+CORRADO: Che messaggio? ||| 어떤 메시지요?
+SUOR BENEDETTA: «La cicoria non è il caffè». Capisce? ||| '치커리는 커피가 아니다.' 아시겠어요?
+CORRADO: Capisco. Vuol dire che il segnale è autentico. ||| 알겠습니다. 신호가 진짜라는 뜻이군요.
+SUOR BENEDETTA: Ascolti. Questi ragazzi non sono cattivi. Hanno solo troppa rabbia. Il loro capo si chiama Idrissa. Ha diciannove anni. ||| 들어 보세요. 이 아이들은 나쁘지 않아요. 분노가 너무 클 뿐이에요. 우두머리 이름은 이드리사고 열아홉 살이에요.
+CORRADO: Idrissa. ||| 이드리사.
+SUOR BENEDETTA: Suo fratello è il bambino che è morto. Sono due anni che non dorme. ||| 그의 형제가 죽은 아이예요. 2년 동안 잠을 못 잤어요.
+CORRADO: Che cosa vuole da noi? ||| 우리에게 원하는 게 뭡니까?
+SUOR BENEDETTA: Vuole che qualcuno venga a vedere la porta. La porta chiusa della clinica. Che la guardi. Con i suoi occhi. ||| 누군가 와서 그 문을 봐 달라는 거예요. 병원의 닫힌 문을요. 자기 눈으로요.
+CORRADO: Qualcuno chi? ||| 누가요?
+SUOR BENEDETTA: Una persona dell'Italia. Che non sia un soldato. ||| 이탈리아에서 온 사람이요. 군인이 아닌 사람.
+CORRADO: Capisco. ||| 알겠습니다.
+SUOR BENEDETTA: Dottor Lanza, io non le chiedo di farlo. Le chiedo solo di dirlo a chi di dovere. ||| 박사님, 그렇게 해 달라고 부탁하는 게 아니에요. 담당자에게 전해 달라는 것뿐이에요.
+CORRADO: Lo dirò. Glielo prometto. ||| 전하겠습니다. 약속드려요.
+SUOR BENEDETTA: Grazie. Ora devo andare. Mi dicono che il tempo è finito. ||| 고마워요. 이제 가야 해요. 시간이 끝났다고 하네요.
+CORRADO: Suor Benedetta, ancora una cosa. ||| 수녀님, 하나만 더요.
+SUOR BENEDETTA: Dica. ||| 말씀하세요.
+CORRADO: Di che colore è la coperta? ||| 담요는 무슨 색이에요?
+SUOR BENEDETTA: Rossa. ||| 빨간색이에요.
+CORRADO: Rossa. Va bene. ||| 빨간색. 알겠습니다.
+SUOR BENEDETTA: Perché lo chiede? ||| 왜 물으시죠?
+CORRADO: Perché voglio ricordarmi di una cosa rossa quando penso a voi. ||| 여러분을 생각할 때 떠올릴 빨간 것이 하나 있었으면 해서요.
+SUOR BENEDETTA: Lei è un uomo strano. ||| 이상한 분이시네요.
+CORRADO: Me lo dicono spesso. ||| 자주 듣는 말입니다.
+ABDOULAYE: Allora, Lanza? ||| 그럼 란차 씨?
+CORRADO: Abdoulaye, ho sentito. Dica a Idrissa che qualcuno verrà a vedere la porta. Non subito. Ma verrà. ||| 압둘라예 씨, 들었습니다. 이드리사에게 누군가 문을 보러 갈 거라고 전해 주세요. 지금 당장은 아니지만 올 겁니다.
+ABDOULAYE: E chi? ||| 누가요?
+CORRADO: Non lo so ancora. Ma non sarà un soldato. ||| 아직 모릅니다. 하지만 군인은 아닐 겁니다.
+ABDOULAYE: Glielo dico. Ma i ragazzi hanno poca pazienza. ||| 전하겠습니다. 하지만 아이들은 인내심이 부족합니다.
+CORRADO: Lo so. Infatti ho un favore da chiederle. ||| 알아요. 그래서 부탁이 하나 있습니다.
+ABDOULAYE: Quale? ||| 무엇이죠?
+CORRADO: Che le coperte siano tre per ciascuno. Che non faccia freddo, di notte. ||| 모두에게 담요를 세 장씩 주세요. 밤에 춥지 않게요.
+ABDOULAYE: Le coperte le abbiamo. È il cuore che è freddo. ||| 담요는 있습니다. 차가운 건 마음이죠.
+CORRADO: Allora scaldiamo il cuore. Domani. ||| 그럼 마음을 데웁시다. 내일.
++ coperta = 담요
++ chi di dovere = 담당자, 해당하는 사람
++ per ciascuno = 각자에게
++ dire a chi di dovere = 담당자에게 전하다
++ la cicoria non è il caffè = 치커리는 커피가 아니다(1화의 암호 같은 표현: 진짜 신호 확인)
++ tempo scaduto/finito = 시간이 끝났다
++ andare di fretta = 서두르다

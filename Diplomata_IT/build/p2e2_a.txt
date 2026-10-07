@@ -1,0 +1,71 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 2
+@title La sagrestia
+@ko 성구실
+@setting 화요일 새벽 트라스테베레 성당 성구실 → 광장 카페 → 파르네시나 복도 → 정오 압둘라예의 위성 전화
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast GIULIA | 분석관, 31세
+@cast ABDOULAYE | 만다 공화국 강변 마을의 중재인(전화), 60세
+@cast SUOR BENEDETTA | 납치된 수녀 원장, 62세 (전화)
+@cast MADRE COSTANZA | 자비의 수녀회 총장 수녀, 74세
+@note 2화는 물밑 접촉의 화입니다. 란차는 오랜 친구 벨란디 몬시뇰과 성구실에서 만나 두 채널(국가와 교회)을 어떻게 한 방향으로 묶을지 이야기합니다. 몬시뇰의 장갑에서 나는 사헬 수지 향이 그가 최근 만다에 다녀왔음을 드러내고, 그가 숨겨 온 과거가 암시됩니다. 역사 논거는 라테라노 협정(1929): 하나의 화해를 '조약'(주권)과 '정교 협약'(관계)이라는 두 문서·두 채널로 나눠 푼 사례입니다. 어휘는 외교·교회 관계(canale, concordato, nunziatura, discrezione)와 관용구에 주목하세요.
+@next 3화: 란차는 교황청 문서고에서 17세기 포로 구속 기록을 찾아 몸값의 선례를 확인합니다. 문서고 사제는 '영수증은 기도와 함께 보관한다'고 말합니다.
+
+## 성구실 — LA SAGRESTIA
+BELLANDI: Corrado. Sei puntuale. Mi fai paura. ||| 코라도. 시간을 지켰군. 무섭네.
+CORRADO: Vittorio mi ha detto sette. Sono arrivato alle sette meno cinque. ||| 산드리 선생님이 7시라고 하셨어요. 7시 5분 전에 왔습니다.
+BELLANDI: Le sette meno cinque. Una volta eri sempre in ritardo. Il matrimonio di tua sorella, ricordi? ||| 7시 5분 전이라. 예전엔 늘 늦었잖아. 자네 누이 결혼식 기억나나?
+CORRADO: Ricordo che il prete eri tu. E che ti sei addormentato durante l'omelia. ||| 사제가 몬시뇰이셨던 건 기억합니다. 그리고 강론하다 졸으셨죠.
+BELLANDI: Una pausa di riflessione. Siediti. ||| 성찰의 휴지였지. 앉게.
+CORRADO: Bella sagrestia. ||| 아름다운 성구실이군요.
+BELLANDI: Santa Maria in Trastevere. Qui, tra gli armadi dei paramenti, ho imparato che il mestiere del prete e quello del diplomatico hanno la stessa regola. ||| 트라스테베레의 산타 마리아 성당이야. 제의 장롱 사이에서 사제의 일과 외교관의 일이 같은 규칙을 가졌다는 걸 배웠지.
+CORRADO: Quale? ||| 어떤 규칙요?
+BELLANDI: Non dire mai tutto. Ma non dire mai il falso. ||| 모든 걸 말하지 말 것. 하지만 거짓은 말하지 말 것.
+CORRADO: Allora oggi quanto mi dici? ||| 그럼 오늘은 얼마나 말해 주실 건가요?
+BELLANDI: Dipende da quanto mi ascolti. ||| 자네가 얼마나 들어 주느냐에 달렸지.
+CORRADO: Sono qui apposta. ||| 그러려고 왔습니다.
+BELLANDI: Mi hanno detto che Orsolini ti ha messo in guardia contro di me. ||| 오르솔리니가 나를 경계하라고 했다던데.
+CORRADO: Chi glielo ha detto? ||| 누가 그런 말을 했죠?
+BELLANDI: Nessuno. L'ho dedotto dal fatto che non mi ha ancora telefonato. ||| 아무도. 아직 전화가 없다는 사실에서 추론했지.
+CORRADO: Una deduzione elegante. ||| 우아한 추론이네요.
+BELLANDI: Siamo in sagrestia. Qui anche le deduzioni sono vestite bene. ||| 성구실이잖나. 여기서는 추론도 옷을 잘 입어.
+CORRADO: Ettore, posso dirti una cosa? ||| 에토레, 하나 말해도 될까요?
+BELLANDI: Dimmi. ||| 말해 보게.
+CORRADO: Hai un guanto in tasca. Se ne vede l'orlo. Ed emana un profumo che non è quello dell'incenso di questa chiesa. ||| 주머니에 장갑이 있군요. 가장자리가 보입니다. 그리고 이 성당 향 냄새가 아닌 향이 나요.
+BELLANDI: Hai il naso di un cane da tartufo. ||| 송로버섯 개 같은 코를 가졌군.
+CORRADO: È resina. Fumo di resina secca. Olibano, ma più acre. Lo conosco: l'ho annusato a Bamarè, a casa di un amico, anni fa. ||| 수지예요. 마른 수지를 태운 연기. 유향인데 더 매캐하고요. 알아요. 몇 년 전 바마레의 친구 집에서 맡았죠.
+BELLANDI: Una resina che si brucia nelle case di Ndolo, per accogliere i viaggiatori. ||| 놀로의 집들에서 나그네를 맞으려고 태우는 수지지.
+CORRADO: Sei stato in Mandà. ||| 만다에 다녀오셨군요.
+BELLANDI: Sono tornato ieri sera con un volo di servizio. ||| 어제 저녁 업무용 항공편으로 돌아왔네.
+CORRADO: E nessuno lo sa. ||| 그런데 아무도 모르고요.
+BELLANDI: Lo sa chi lo deve sapere. ||| 알아야 할 사람은 알지.
+CORRADO: Il mio governo non lo sa. ||| 우리 정부는 모릅니다.
+BELLANDI: Il tuo governo non ha chiesto. ||| 자네 정부는 묻지 않았으니까.
+CORRADO: Ettore, io ti voglio bene. Ma dimmi che cosa c'è sotto. ||| 에토레, 난 자네를 좋아해요. 하지만 속사정을 말해 줘요.
+BELLANDI: Non posso dirti tutto, adesso. ||| 지금은 전부 말해 줄 수 없네.
+CORRADO: Allora dimmi una parte. ||| 그럼 일부라도요.
+BELLANDI: Va bene. Una parte. Quando hanno rapito Benedetta, ho saputo entro un'ora chi erano. ||| 좋아. 일부만. 베네데타가 납치됐을 때 한 시간 안에 누구인지 알았네.
+CORRADO: Ne ero sicuro. ||| 그럴 줄 알았습니다.
+BELLANDI: Sono i ragazzi del villaggio di Abdoulaye. Li conosco quasi tutti. Ho battezzato due dei loro fratelli. ||| 압둘라예 마을의 청년들이야. 거의 다 알지. 그들의 형제 둘에게 세례를 줬어.
+CORRADO: E allora perché non hai fermato tutto? ||| 그런데 왜 막지 않았죠?
+BELLANDI: Perché non sono ragazzi cattivi. E perché una parte di me pensa che abbiano ragione. ||| 나쁜 아이들이 아니니까. 그리고 내 일부는 그들이 옳다고 생각하니까.
+CORRADO: Ragione sul fine. ||| 목적에서요.
+BELLANDI: Sul fine. Non sul mezzo. ||| 목적에서 그렇지. 수단은 아니고.
+CORRADO: Lo ha detto anche mio figlio ieri sera. ||| 어제 저녁 우리 아들도 그렇게 말했어요.
+BELLANDI: Tuo figlio è un uomo saggio. ||| 자네 아들은 현명하군.
+CORRADO: Ha sedici anni. ||| 열여섯 살입니다.
+BELLANDI: Appunto. ||| 그래서지.
++ sagrestia = 성구실(제의와 성기를 보관하는 방)
++ paramenti = 제의
++ omelia = 강론
++ olibano = 유향(乳香)
++ cane da tartufo = 송로버섯 탐지견(후각이 예민한 사람)
++ battezzare = 세례를 주다
++ avere ragione sul fine, non sul mezzo = 목적에서는 옳고 수단에서는 아니다
++ mettere in guardia = 경고하다, 경계시키다
++ volo di servizio = 업무용 항공편
