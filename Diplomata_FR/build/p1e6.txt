@@ -1,0 +1,242 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 6
+@title Ce que savait Lefort
+@ko 르포르는 알고 있었다
+@setting 케도르세 장관 비서실장 집무실 → 복도와 전화 → 발쿠르 대사의 아파트 저녁 식탁(치즈 카트) → 계단과 거리
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu, 복도에서는 vous
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세. 입버릇은 «à ma connaissance», «sous réserve»
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 6화입니다. 이번 화는 외부와의 협상이 아니라 내부 대결입니다. 쥘리앵은 비서실장 르포르의 집무실에서 문서고의 증거(쪽수 도장 2/4, 4/4가 비서실 도장이라는 점)를 내밀며, 그가 부속 서한을 알고도 '형식 이의'로 덮은 이유를 묻습니다. 르포르는 거짓말 대신 절차로 답합니다. '서명 요건을 갖추지 않은 문서는 존재하지 않는다'는 논리입니다. 이어 발쿠르는 자기 집 저녁 식탁에서 치즈 카트를 밀며 '탈레랑의 침묵'을 들려줍니다. 이 일화는 전해 오는 이야기이지 공식 기록이 아니며, 발쿠르 스스로도 그렇게 단서를 답니다. 큰 줄거리는 이렇습니다. 1814~1815년 빈 회의에서 네 승전국이 자기들끼리 일을 정하려 할 때, 패전국 프랑스 대표 탈레랑은 처음에 아무 말도 하지 않고 형식의 빈틈(그 모임이 무슨 자격으로 모였는가)을 찾은 뒤, 단 한 번 형식으로 말했다는 이야기입니다. 역사 논거는 웨스트팔리아 조약(1648년)입니다. 뮌스터와 오스나브뤼크 두 도시에서 협상이 진행되었고, 전권 위임장 확인, 좌석과 서열, 서명 방식을 둘러싼 오랜 형식 다툼이 있었습니다. 그 형식이 바로 전쟁 당사자 모두가 받아들일 수 있는 평화의 틀이 되었습니다. 해법의 순간은 식탁에서 나옵니다. 형식을 방패로 쓰던 르포르가, 형식을 공개 절차의 도구로 쓰는 쪽으로 한 걸음 옮깁니다. 어휘는 접속법(bien que, sans que, il faut que), 조건법의 완곡 표현, vous 대 tu의 거리감, 법률·절차 어휘(contreseing, pièce, versement au dossier, plénipotentiaire)에 주목하세요.
+@next 7화: 엘렌이 카스라 장관의 계좌 기록을 건넵니다. 대가는 세 번째 점심. 쥘리앵은 그것을 어디까지 쓸 수 있는지 선을 긋고, 레아는 '정의를 위해 거짓을 써도 되는가'를 묻습니다.
+
+## 비서실장의 집무실 — LE BUREAU DE LEFORT
+LEFORT: Monsieur le directeur adjoint, entrez. Je vous accorde dix minutes, pas une de plus. J'ai le ministre à dix-sept heures. ||| 부실장님, 들어오세요. 10분 드리겠습니다, 그 이상은 안 됩니다. 5시에 장관님이 계십니다.
+JULIEN: Dix minutes me suffiront, si les réponses sont courtes. ||| 답이 짧다면 10분이면 충분합니다.
+LEFORT: Cela dépend des questions. Asseyez-vous. ||| 질문에 달렸지요. 앉으시죠.
+JULIEN: Merci. Je vais être direct, monsieur le directeur de cabinet. Savez-vous ce qu'il y a dans la lettre annexe du 14 mars ? ||| 감사합니다. 곧바로 묻겠습니다, 비서실장님. 3월 14일자 부속 서한에 무엇이 있는지 알고 계셨습니까?
+LEFORT: À ma connaissance, il s'agit d'une pièce accessoire, non versée au dossier principal. ||| 제가 아는 한, 주 서류철에 편철되지 않은 부수적 문서입니다.
+JULIEN: Ce n'est pas ce que je demande. Je demande si vous la connaissiez. ||| 제가 묻는 건 그게 아닙니다. 알고 계셨느냐는 겁니다.
+LEFORT: Je connaissais son existence. ||| 존재는 알고 있었습니다.
+JULIEN: Depuis quand ? ||| 언제부터입니까?
+LEFORT: Depuis le printemps de l'an dernier, sous réserve de vérification des dates. ||| 작년 봄부터입니다. 날짜 확인을 전제로 하고요.
+JULIEN: Vous étiez alors directeur adjoint de cabinet. ||| 그때 비서실 부실장이셨죠.
+LEFORT: Vous êtes bien renseigné. ||| 정보가 정확하시군요.
+JULIEN: Je suis allé à La Courneuve. Le document EKS-2207, pièce numéro trois, la lettre en français. Elle a trois pages, numérotées un sur trois, deux sur trois, trois sur trois. ||| 라쿠르뇌브에 갔습니다. EKS-2207, 3번 문서, 프랑스어 서한이죠. 세 쪽이고 1/3, 2/3, 3/3으로 번호가 붙어 있습니다.
+LEFORT: Et alors ? ||| 그래서요?
+JULIEN: Sous l'encre des deux dernières pages, on devine un autre tampon : deux sur quatre, quatre sur quatre. La lettre avait quatre pages. Une a disparu, et le tampon est celui de votre ancien bureau. ||| 마지막 두 쪽의 잉크 밑에 다른 도장이 비칩니다. 2/4, 4/4. 서한은 네 쪽이었고 한 쪽이 사라졌으며, 도장은 비서실장님 옛 사무실 것입니다.
+LEFORT: Un tampon n'est pas une main, monsieur. Dans cette maison, trente personnes se servaient de ce tampon. ||| 도장은 손이 아닙니다, 부실장님. 이 건물에서 서른 명이 그 도장을 썼습니다.
+JULIEN: Trente personnes ont signé le registre de sortie en bleu, avec la mention « retour non constaté » ? ||| 서른 명이 파란 잉크로 반출 대장에 서명하고 '반납 미확인'이라고 적었다는 말씀입니까?
+LEFORT: Je ne vous dirai pas qui a signé ce registre. Je vous dis que vous bâtissez une accusation sur une encre. ||| 누가 그 대장에 서명했는지는 말씀드리지 않겠습니다. 부실장님은 잉크 한 방울 위에 고발을 세우고 있다고 말씀드리는 겁니다.
+JULIEN: Je ne bâtis rien. Je pose une question que vous avez déjà éludée trois fois. Pourquoi avez-vous opposé des objections de forme à la lettre annexe, au lieu de la faire examiner sur le fond ? ||| 저는 아무것도 세우지 않습니다. 이미 세 번 피하신 질문을 드릴 뿐입니다. 왜 부속 서한을 내용으로 검토하게 하지 않고 형식 이의만 내셨습니까?
+LEFORT: Parce que la forme est la seule chose qui ne ment pas. ||| 형식이야말로 거짓말하지 않는 유일한 것이기 때문입니다.
+JULIEN: Expliquez-moi. ||| 설명해 주십시오.
+LEFORT: La lettre n'était pas contresignée par le ministre. Elle n'a pas été versée au dossier du contrat. Elle ne figurait pas au bordereau. Une pièce qui n'a pas ces trois caractères n'est pas une pièce du contrat. Elle n'existe pas, juridiquement. ||| 서한에는 장관의 부서(副署)가 없었습니다. 계약 서류철에 편철되지도 않았고, 목록에도 없었습니다. 이 세 요건을 갖추지 못한 문서는 계약의 문서가 아닙니다. 법적으로 존재하지 않습니다.
+JULIEN: D'accord, mais les quatorze ingénieurs sont retenus à cause de ce qui n'existe pas. ||| 다코르, 메, 열네 명의 기술자는 존재하지 않는다는 그 문서 때문에 억류되어 있습니다.
+LEFORT: Ils sont retenus à cause d'une demande de pénalités de quatre-vingt-sept millions. Cela, c'est dans le contrat. ||| 그들이 억류된 건 8,700만 유로의 위약금 청구 때문입니다. 그건 계약에 있습니다.
+JULIEN: Et la lettre annexe donne à Ras Safina le fondement de sa thèse : « engagement » en français, « obligation » en arabe. Vous le saviez. ||| 그리고 부속 서한이 라스 사피나에 논거를 줍니다. 프랑스어로는 'engagement', 아랍어로는 '의무'. 알고 계셨죠.
+LEFORT: On m'a signalé une différence de rédaction. Je l'ai transmise au service juridique avec mes réserves. ||| 표현상의 차이가 있다는 보고는 받았습니다. 유보 의견을 달아 법무국에 넘겼습니다.
+JULIEN: Vos réserves portaient sur quoi ? ||| 유보 의견이 무엇에 관한 것이었습니까?
+LEFORT: Sur la forme. Toujours sur la forme. ||| 형식에 관해서입니다. 언제나 형식입니다.
+JULIEN: Autrement dit, vous avez couvert le fond par la forme, et vous avez fait en sorte que personne ne le lise. ||| 다시 말해 내용을 형식으로 덮고, 아무도 읽지 못하게 하셨군요.
+LEFORT: Je n'ai rien couvert. J'ai protégé le ministère contre un document dont nul ne pouvait garantir l'authenticité. ||| 저는 아무것도 덮지 않았습니다. 진본임을 아무도 보증할 수 없는 문서로부터 부처를 보호한 겁니다.
+JULIEN: Et si le document était authentique ? ||| 문서가 진본이었다면요?
+LEFORT: Alors il fallait que quelqu'un d'autre l'établisse, dans les formes. ||| 그렇다면 다른 누군가가 형식을 갖추어 입증했어야 합니다.
+JULIEN: Vous avez rendu cela impossible en laissant disparaître la page. ||| 쪽이 사라지게 놔둠으로써 그걸 불가능하게 만드셨죠.
+LEFORT: Voilà une affirmation que je vous demande de retirer. ||| 그 단정은 철회해 주시기 바랍니다.
+JULIEN: Je la retire, parce que je ne peux pas la prouver. Je garde la question : qui a demandé que la page ne soit pas traduite ? ||| 증명할 수 없으니 철회합니다. 질문은 남겨 두겠습니다. 누가 그 쪽을 번역하지 말라고 했습니까?
+LEFORT: Je l'ignore. ||| 모릅니다.
+JULIEN: Vous l'ignorez, ou vous ne voulez pas le savoir ? ||| 모르시는 겁니까, 알고 싶지 않으신 겁니까?
+LEFORT: La nuance vous intéresse, je crois. ||| 부실장님은 뉘앙스에 관심이 많으시니까요.
+JULIEN: Elle m'intéresse. Et elle ne figure pas dans votre dernière note. Demain, vous devez approuver le comité de lecture. Allez-vous le faire ? ||| 관심이 있습니다. 그리고 그건 비서실장님의 마지막 메모에 없더군요. 내일 독회 위원회를 승인하셔야 합니다. 하실 겁니까?
+LEFORT: Sous réserve que la base juridique soit établie. ||| 법적 근거가 확정된다는 조건으로요.
+JULIEN: La base juridique, c'est votre signature. ||| 법적 근거는 비서실장님의 서명입니다.
+LEFORT: Alors elle viendra quand j'aurai relu le mandat. ||| 그럼 위임 범위를 다시 읽은 뒤에 서명이 나갈 겁니다.
+JULIEN: Monsieur le directeur de cabinet, j'ai une proposition qui ne relève pas du mandat. Après-demain soir, l'ambassadeur de Valcourt vous invite à dîner. Chez lui. ||| 비서실장님, 위임 범위와 상관없는 제안이 하나 있습니다. 모레 저녁, 발쿠르 대사가 비서실장님을 저녁 식사에 초대합니다. 그의 집에서요.
+LEFORT: Je ne dîne pas chez les ambassadeurs à la retraite. ||| 퇴직 대사 집에서 식사하지 않습니다.
+JULIEN: Il vous a connu à Vienne. Il dit que vous portiez déjà vos dossiers comme un bouclier. Il a dit cela avec beaucoup de sympathie. ||| 빈에서 비서실장님을 알았다고 합니다. 그때도 서류를 방패처럼 들고 다니셨다더군요. 아주 호의적으로 하신 말씀입니다.
+LEFORT: Avec sympathie. J'en doute. ||| 호의적으로라. 의심스럽군요.
+JULIEN: Il a parlé d'un fromage et d'une histoire de silence. Je ne sais pas laquelle. Mais je sais qu'on ne refuse pas facilement un homme qui a présidé la moitié des missions de ce ministère. ||| 치즈와 침묵에 관한 이야기를 한다고 했습니다. 어떤 이야기인지는 저도 모릅니다. 다만 이 부처 사절단의 절반을 이끈 분의 초대는 쉽게 거절하지 못한다는 건 압니다.
+LEFORT: Neuf heures, vous dites ? ||| 9시라고요?
+JULIEN: Huit heures et demie. Il déteste que le fromage attende. ||| 8시 반입니다. 치즈가 기다리는 걸 싫어하시거든요.
++ le directeur de cabinet / le directeur adjoint de cabinet = 장관 비서실장 / 비서실 부실장. 직함 vouvoiement과 함께 관계의 거리를 보여 준다
++ à ma connaissance / sous réserve de = 제가 아는 한 / ~을 전제로. 르포르의 입버릇. 책임을 줄이는 완곡 표현
++ le contreseing = 부서(副署). une pièce versée au dossier = 서류철에 편철된 문서. 형식 요건 어휘
++ opposer une objection de forme = 형식 이의를 제기하다. sur la forme / sur le fond = 형식 면에서 / 내용 면에서
++ faire en sorte que + subj. = ~하도록 조치하다. faire en sorte que personne ne le lise
++ Un tampon n'est pas une main = 도장은 손이 아니다. 증거와 책임을 분리하는 수사
++ Vous l'ignorez, ou vous ne voulez pas le savoir ? = ignorer(모르다)와 ne pas vouloir savoir(알고 싶지 않다)의 뉘앙스 차이
+
+## 복도에서, 그리고 전화 — DANS LE COULOIR
+CAMILLE: Alors, monsieur ? ||| 그래서요, 부실장님?
+JULIEN: Pas ici. Descends avec moi. ||| 여기선 안 돼. 나랑 내려가자.
+CAMILLE: Tu as vu sa main sur le dossier ? Elle ne tremblait pas. ||| 서류 위에 있던 그 사람 손 봤어? 떨리지도 않더라.
+JULIEN: Elle ne tremble jamais. C'est la main qui compte les pages, pas celle qui les arrache. ||| 절대 안 떨지. 쪽수를 세는 손이지 쪽을 뜯는 손이 아니야.
+CAMILLE: Il a reconnu qu'il savait. ||| 알고 있었다는 건 인정했어.
+JULIEN: Il a reconnu qu'il connaissait l'existence de la lettre. C'est tout autre chose. Il a choisi chaque mot pour ne rien dire d'autre. ||| 서한의 존재를 안다고 인정한 거야. 그건 완전히 다른 얘기지. 다른 말은 안 하려고 단어를 하나하나 골랐어.
+CAMILLE: Alors pourquoi viendrait-il dîner chez Valcourt ? ||| 그럼 왜 발쿠르 집 저녁에 오겠어?
+JULIEN: Parce qu'il craint qu'on raconte son histoire sans lui. Un homme qui vit de procédure déteste une chose : une procédure qui se déroule hors de sa présence. ||| 자기 얘기가 자기 없이 오갈까 봐 두려워서야. 절차로 사는 사람이 가장 싫어하는 건 자기가 없는 곳에서 돌아가는 절차거든.
+CAMILLE: Tu es cruel. ||| 너 잔인하다.
+JULIEN: Je suis précis. Ce n'est pas pareil. ||| 정확한 거야. 같지 않아.
+CAMILLE: Tu me voles mes phrases. ||| 내 문장을 훔치네.
+JULIEN: Je te les emprunte avec intérêt. Écoute, ne parle de rien ce soir. Pas à Hélène, pas à Vandenberghe. Si quelqu'un doit être mis en cause, il faut que ce soit par des faits, pas par un couloir. ||| 이자 쳐서 빌리는 거야. 들어 봐, 오늘 밤엔 아무 데도 말하지 마. 엘렌에게도, 반덴베르허에게도. 누군가를 문제 삼아야 한다면 복도의 소문이 아니라 사실로 해야 해.
+CAMILLE: Tu as peur de te tromper ? ||| 틀릴까 봐 걱정돼?
+JULIEN: J'ai peur d'avoir raison trop tôt. C'est pire. ||| 너무 일찍 옳을까 봐 걱정돼. 그게 더 나빠.
+LÉA: Papa, je t'écris de la salle d'étude. Sujet de ce soir : « Se taire, est-ce mentir ? » Je n'ai que deux heures. ||| 아빠, 자습실에서 쓰는 거예요. 오늘 밤 주제는 '침묵하는 것은 거짓말하는 것인가'예요. 두 시간밖에 없어요.
+JULIEN: Je te rappelle depuis la cour. Une seconde. Léa ? ||| 마당에서 전화할게. 잠깐만. 레아?
+LÉA: J'ai une première idée. Mentir, c'est dire le faux en sachant que c'est faux. Se taire, c'est ne rien dire. Donc ce n'est pas mentir. ||| 첫 아이디어가 있어요. 거짓말은 틀린 걸 알면서 틀린 말을 하는 거예요. 침묵은 아무것도 말하지 않는 거고요. 그러니 거짓말이 아니죠.
+JULIEN: Et si l'autre te pose la question et que tu te tais ? ||| 상대가 질문했는데 네가 입을 다물면?
+LÉA: Alors là, c'est une question de définition, papa. Si on nous attend, le silence devient une réponse. ||| 그건 개념 정의의 문제예요, 아빠. 기다리는 사람이 있으면 침묵은 대답이 돼요.
+JULIEN: Tu viens de trouver ta thèse. Le silence a une adresse. Il ne veut rien dire tout seul. ||| 네 논제를 찾았네. 침묵에는 수신자가 있어. 혼자서는 아무 뜻도 없지.
+LÉA: Tu dis ça parce que tu penses à quelqu'un. ||| 누군가를 생각하고 있어서 그렇게 말하는 거죠.
+JULIEN: Je dis ça parce que ce soir, un vieil homme va nous parler du silence d'un autre. ||| 오늘 밤 한 노인이 다른 사람의 침묵 이야기를 해 주실 거라서 그래.
+LÉA: Raconte-moi après. Et mange quelque chose qui ne soit pas du fromage. ||| 나중에 얘기해 줘요. 그리고 치즈 말고 다른 것도 먹어요.
+JULIEN: Je ne promets que la moitié. ||| 절반만 약속할게.
++ la main qui compte les pages / celle qui les arrache = 쪽수를 세는 손 / 뜯는 손. 알고 있음과 행했음의 구별
++ Je suis précis. Ce n'est pas pareil. = 5화의 카미유의 말을 쥘리앵이 되받는 장면. tu 관계의 유머
++ Il faut que ce soit par des faits = il faut que + 접속법. 근거에 대한 원칙
++ J'ai peur d'avoir raison trop tôt = avoir peur de + inf. passé. 너무 이른 정당성의 위험
++ Se taire, est-ce mentir ? = 철학 논술 주제. 침묵과 거짓말, 정의(définition)의 문제
++ Le silence a une adresse = 침묵에는 수신자가 있다. 질문 앞의 침묵은 대답이 된다
++ mange quelque chose qui ne soit pas du fromage = 관계절 안의 접속법(부정적 한정). 레아의 농담
+
+## 발쿠르의 식탁, 치즈 카트 — LE CHARIOT DE FROMAGES
+VALCOURT: Entrez, entrez. Monsieur le directeur de cabinet, vous êtes à l'heure exacte. Je vous reconnais bien là. ||| 들어오세요, 들어오세요. 비서실장님, 정시에 오셨군요. 역시 그대로입니다.
+LEFORT: Monsieur l'ambassadeur. Merci de votre invitation. ||| 대사님. 초대 감사합니다.
+VALCOURT: Henri. Entre nous, ce soir, c'est Henri. Je suis à la retraite, je n'ai plus de titre à défendre. ||| 앙리라고 부르세요. 오늘 밤은 우리끼리니까요. 저는 은퇴해서 지킬 직함도 없습니다.
+LEFORT: Je préfère m'en tenir à « monsieur l'ambassadeur ». ||| 저는 '대사님'으로 하는 편이 낫겠습니다.
+VALCOURT: Comme vous voudrez. Camille, Julien, prenez place. Le vin est un bourgueil, il vaut mieux qu'il respire. ||| 편한 대로 하세요. 카미유, 쥘리앵, 앉아요. 와인은 부르괴유인데 숨을 좀 쉬게 하는 게 좋아요.
+CAMILLE: Votre appartement sent le vieux papier et le beurre chaud. ||| 댁에서 오래된 종이와 따뜻한 버터 냄새가 나요.
+VALCOURT: C'est la définition d'une bonne bibliothèque. Je vous sers une soupe de potiron, puis nous passerons à l'essentiel. ||| 좋은 서재의 정의네요. 호박 수프를 드리고, 그다음에 본론으로 넘어갑시다.
+LEFORT: J'ai peu d'appétit. ||| 식욕이 별로 없습니다.
+VALCOURT: Vous en aurez avant la fin. Les gens de procédure mangent toujours à la fin. ||| 끝날 때쯤엔 생길 겁니다. 절차의 사람들은 늘 마지막에 먹지요.
+JULIEN: Vous avez gardé une cuisinière ? ||| 요리사를 두고 계십니까?
+VALCOURT: Non, une chaîne de souvenirs et un four. La soupe, c'est ma voisine du troisième. Le fromage, c'est moi. Le fromage ne se délègue pas. ||| 아니요, 추억의 사슬과 오븐뿐이에요. 수프는 3층 이웃이 만들었고요. 치즈는 제가 합니다. 치즈는 위임할 수 없어요.
+CAMILLE: C'est joli, comme règle. ||| 규칙으로는 멋지네요.
+VALCOURT: C'est la seule dont je sois sûr. Voici le chariot. Un comté de trente mois, un époisses, un saint-nectaire fermier, un crottin de Chavignol bien sec, un roquefort, et un munster pour les courageux. ||| 제가 확신하는 유일한 규칙이죠. 자, 카트입니다. 30개월 숙성 콩테, 에푸아스, 농가 생넥테르, 바싹 마른 크로탱 드 샤비뇰, 로크포르, 그리고 용감한 분들을 위한 뮌스터.
+LEFORT: Je ne mange pas de fromage le soir. ||| 저녁에는 치즈를 먹지 않습니다.
+VALCOURT: Alors vous allez regarder. C'est déjà une manière de goûter. ||| 그럼 보고만 계세요. 그것도 맛보는 한 방법이죠.
+JULIEN: Le comté, pour moi. Une tranche fine. ||| 저는 콩테를 얇게 주세요.
+VALCOURT: Fine, mais pas timide. Un comté timide est un comté raté. ||| 얇게, 하지만 소심하지 않게. 소심한 콩테는 실패한 콩테예요.
+CAMILLE: Je prends l'époisses, je suis marseillaise, je n'ai pas peur des odeurs. ||| 저는 에푸아스요. 마르세유 사람이라 냄새는 안 무서워요.
+VALCOURT: L'époisses se lave au marc de Bourgogne. Il paraît que Napoléon l'aimait. Je ne garantis rien, c'est une légende de fromager. ||| 에푸아스는 부르고뉴 마르로 씻어 숙성하죠. 나폴레옹이 좋아했다고 하는데, 장담은 못 해요. 치즈 장수들의 전설이라서.
+LEFORT: Vous aimez les légendes, monsieur l'ambassadeur. ||| 대사님은 전설을 좋아하시는군요.
+VALCOURT: J'aime ce qui est probable et ce qui est dit. La diplomatie vit dans l'écart entre les deux. ||| 저는 개연성 있는 것과 전해지는 것을 좋아합니다. 외교는 그 둘 사이의 틈에서 삽니다.
+LEFORT: L'écart ? ||| 틈이라고요?
+VALCOURT: Entre ce qui s'est passé et ce que les gens ont décidé de croire. Vous le connaissez bien. À Vienne, vous disiez que le procès-verbal fait foi. ||| 일어난 일과 사람들이 믿기로 한 것 사이의 틈이요. 잘 아실 겁니다. 빈에서 당신은 회의록이 증거라고 말했지요.
+LEFORT: Il fait foi. C'est le principe. ||| 증거가 됩니다. 원칙입니다.
+VALCOURT: Oui. Et il ne dit pas ce qu'on a tu. ||| 그렇지요. 그리고 회의록은 말하지 않은 것을 담지 않습니다.
+JULIEN: Vous parliez d'une histoire, monsieur l'ambassadeur. ||| 이야기를 하신다고 하셨는데요, 대사님.
+VALCOURT: Je vais la raconter. Mais d'abord, Lefort, un peu de roquefort ? C'est un fromage qui dit ce qu'il pense. ||| 하죠. 하지만 먼저 르포르, 로크포르 조금? 생각한 대로 말하는 치즈입니다.
+LEFORT: Un morceau. Tout petit. ||| 한 조각. 아주 작게요.
+VALCOURT: Voilà. Vous voyez, le silence se rompt par la gourmandise. ||| 보세요, 침묵은 식탐으로 깨지는 법입니다.
++ le chariot de fromages = 치즈 카트. comté, époisses, saint-nectaire, crottin de Chavignol, roquefort, munster = 콩테, 에푸아스, 생넥테르, 크로탱 드 샤비뇰, 로크포르, 뮌스터
++ Entre nous, ce soir, c'est Henri = 호칭 전환의 시도. Lefort는 vous와 직함에 머물러 거리를 지킨다
++ une légende de fromager = 치즈 장수의 전설. Je ne garantis rien = 보증하지 않는다. 일화의 신뢰도를 미리 밝히는 화법
++ Il fait foi = 증거가 된다(faire foi). le procès-verbal = 회의록
++ Il ne dit pas ce qu'on a tu = taire의 과거분사 tu. 회의록의 한계
++ Fine, mais pas timide = 얇게, 하지만 소심하지 않게. 요리 어휘를 쓴 말장난
++ J'aime ce qui est probable et ce qui est dit = ce qui / ce que 구분. 외교는 사실과 믿음 사이의 틈에서 산다
+## 탈레랑의 침묵과 웨스트팔리아 — LE SILENCE DE TALLEYRAND
+VALCOURT: Vienne, automne mille huit cent quatorze. La France vient de perdre vingt-cinq ans de guerre. Elle n'a plus d'armée à présenter, plus de crédit, et son représentant est un évêque défroqué boiteux. ||| 빈, 1814년 가을. 프랑스는 25년의 전쟁에서 막 졌습니다. 내세울 군대도 신용도 없고, 대표는 환속한 절름발이 주교입니다.
+CAMILLE: Talleyrand. ||| 탈레랑이군요.
+VALCOURT: Talleyrand. Les quatre vainqueurs, l'Autriche, la Grande-Bretagne, la Prusse et la Russie, se réunissent entre eux et se partagent d'avance les cartes de l'Europe. La France est invitée à attendre dans l'antichambre. ||| 탈레랑입니다. 네 승전국, 오스트리아, 영국, 프로이센, 러시아는 자기들끼리 모여 유럽 지도를 미리 나눕니다. 프랑스는 대기실에서 기다리라는 말을 듣지요.
+JULIEN: Et il attend. ||| 그리고 기다리죠.
+VALCOURT: Il attend en se taisant. C'est ici que l'histoire devient une légende, je vous prie de le noter. On raconte qu'il n'a pas protesté pendant plusieurs jours. Ses collègues s'inquiétaient. Il répondait qu'il lisait. ||| 기다리면서 입을 다뭅니다. 여기서부터 역사가 전설이 되니 그 점은 기억해 두세요. 며칠 동안 항의하지 않았다고들 합니다. 동료들이 불안해했지만 그는 읽고 있다고 답했습니다.
+LEFORT: Il lisait quoi ? ||| 무엇을 읽었습니까?
+VALCOURT: Le traité de Paris de mai mille huit cent quatorze, signé par ces mêmes vainqueurs. Il y était écrit que toutes les puissances engagées dans la guerre enverraient des plénipotentiaires à un congrès. Toutes. Pas quatre. ||| 1814년 5월의 파리 조약이요. 바로 그 승전국들이 서명한 조약입니다. 전쟁에 참여한 모든 열강이 전권대표를 보내 회의를 연다고 쓰여 있었죠. 모든 열강. 넷이 아니라요.
+CAMILLE: Donc le comité des Quatre n'avait pas de titre. ||| 그러니까 네 나라 위원회는 자격이 없었네요.
+VALCOURT: Voilà la forme. Alors il parle une fois. Un seul document, calme, juridique, qui demande : de quel droit ? Et la seule réponse possible est : de quel droit, en effet. ||| 바로 형식입니다. 그러자 그는 딱 한 번 말합니다. 침착하고 법률적인 문서 하나로, '무슨 권리로?'라고 묻지요. 그리고 가능한 대답은 하나뿐입니다. 정말이지, 무슨 권리로.
+JULIEN: Le silence avait préparé la forme. ||| 침묵이 형식을 준비한 거군요.
+VALCOURT: Le silence était la forme, avant qu'elle ne s'exprime. Un homme qui se tait n'est pas un homme qui ne sait pas. Souvent, c'est l'inverse. ||| 침묵은 말로 나오기 전의 형식이었습니다. 입을 다문 사람은 모르는 사람이 아닙니다. 흔히 그 반대지요.
+LEFORT: Vous me racontez cela pour que je comprenne quelque chose. ||| 제가 뭔가를 알아듣게 하려고 하시는 이야기군요.
+VALCOURT: Je raconte pour le plaisir. Si vous comprenez, c'est que vous le vouliez. ||| 저는 재미로 이야기합니다. 알아들으신다면 그러고 싶으셨던 겁니다.
+LEFORT: Talleyrand se taisait pour agir. Je ne vois pas le rapport avec moi. ||| 탈레랑은 행동하려고 침묵했습니다. 저와 무슨 관계인지 모르겠군요.
+VALCOURT: Il y en a un, mais il est inversé. Lui, il se taisait pour ouvrir la salle. Quand on se tait pour la fermer, c'est un autre métier. ||| 관계가 있습니다. 다만 거꾸로예요. 그는 방문을 열려고 침묵했어요. 방문을 닫으려고 침묵한다면 그건 다른 직업입니다.
+JULIEN: D'accord, mais l'histoire a un revers. Talleyrand aussi s'est tu sur bien des choses. ||| 다코르, 메, 이 이야기에는 뒷면이 있습니다. 탈레랑도 많은 일에 대해서 입을 다물었죠.
+VALCOURT: Bien sûr. Le silence n'est ni bon ni mauvais, il est signé. Le tout est de savoir qui signe, et pour qui. ||| 물론이지요. 침묵은 좋지도 나쁘지도 않고, 서명이 되어 있어요. 문제는 누가, 누구를 위해 서명하느냐입니다.
+CAMILLE: Et la forme ? Monsieur Lefort défend la forme. ||| 그럼 형식은요? 르포르 씨는 형식을 옹호하시잖아요.
+VALCOURT: Alors je le dis : la forme n'est pas l'ennemie. Regardez Westphalie. ||| 그러니까 말하겠습니다. 형식은 적이 아닙니다. 웨스트팔리아를 보세요.
+LEFORT: Mille six cent quarante-huit. ||| 1648년이지요.
+VALCOURT: Vous la connaissez. Trente ans de guerre. On décide de négocier dans deux villes, Münster pour les catholiques, Osnabrück pour les protestants, parce qu'ils refusaient d'être dans la même salle. ||| 아시는군요. 30년 전쟁입니다. 도시를 둘로 나눠 협상하기로 했어요. 같은 방에 있기를 거부했기 때문에 뮌스터는 가톨릭 쪽, 오스나브뤼크는 개신교 쪽입니다.
+CAMILLE: Pour une question de place ? ||| 자리 문제 때문에요?
+VALCOURT: Pour une question de rang, de préséance, de titres, de pouvoirs. On a passé des mois à vérifier qui avait le droit de négocier : les pleins pouvoirs, ces fameux papiers. On a discuté de l'ordre dans lequel les voitures entreraient dans la ville. ||| 서열, 석차, 호칭, 권한 문제였어요. 누가 협상할 권리가 있는지 확인하는 데만 몇 달이 걸렸습니다. 전권 위임장이라는 그 유명한 서류들이요. 마차가 어떤 순서로 도시에 들어오는지까지 논의했지요.
+JULIEN: C'est grotesque. ||| 우스꽝스럽군요.
+VALCOURT: C'est grotesque, et c'est ce qui a permis la paix. Quand on s'est mis d'accord sur la façon de signer, on avait déjà accepté de ne plus se tuer. ||| 우스꽝스럽지만 그 덕분에 평화가 가능했습니다. 서명하는 방식에 합의했을 때는 이미 서로 죽이지 않기로 받아들인 거였어요.
+LEFORT: La forme, c'est la politesse de la guerre. ||| 형식은 전쟁의 예의입니다.
+VALCOURT: Oui. Et elle a une propriété que vous oubliez parfois : une forme n'est protectrice que si elle est partagée. Une forme que seul l'un connaît, c'est une arme. ||| 맞습니다. 그리고 당신이 가끔 잊는 성질이 있어요. 형식은 공유될 때에만 보호가 됩니다. 한 사람만 아는 형식은 무기예요.
+LEFORT: Je ne l'ai pas utilisée comme une arme. ||| 저는 무기로 쓰지 않았습니다.
+VALCOURT: Je ne vous accuse pas. Je vous passe le saint-nectaire. ||| 비난하는 게 아닙니다. 생넥테르를 건넬게요.
+LEFORT: Merci. ||| 감사합니다.
+JULIEN: Monsieur le directeur de cabinet, puis-je dire une chose sans que vous la preniez pour une attaque ? ||| 비서실장님, 공격으로 받아들이지 않으신다면 한 가지만 말씀드려도 되겠습니까?
+LEFORT: Si elle est courte. ||| 짧다면요.
+JULIEN: Vous aviez raison sur un point. Une lettre non contresignée, non versée, n'est pas une pièce du contrat. Mais elle existe quand même. Elle existe pour Ras Safina. ||| 한 가지는 비서실장님이 옳았습니다. 부서도 없고 편철도 되지 않은 서한은 계약의 문서가 아닙니다. 그래도 존재는 합니다. 라스 사피나에게는 존재하니까요.
+LEFORT: Je le sais. ||| 압니다.
+JULIEN: Alors la seule manière de la faire exister dans les formes, c'est de la déposer. Les trois textes, ensemble, avec la date de dépôt et le nom de celui qui dépose. ||| 그렇다면 형식을 갖추어 존재하게 하는 유일한 방법은 제출하는 겁니다. 세 판본을 함께, 제출 날짜와 제출자 이름과 함께요.
+LEFORT: Un procès-verbal de dépôt. ||| 제출 조서군요.
+JULIEN: Oui. Et vous seul pouvez l'ouvrir. Le ministre signe, mais c'est votre cabinet qui reçoit. ||| 네. 그리고 열 수 있는 사람은 비서실장님뿐입니다. 서명은 장관이 하지만 접수는 비서실이 하니까요.
+LEFORT: Si je le fais, on lira que je connaissais la lettre depuis un an. ||| 제가 그렇게 하면 제가 1년 전부터 서한을 알았다고 읽히겠지요.
+JULIEN: On lira que vous l'avez déposée. Les deux phrases ne sont pas de la même longueur. ||| 제출했다고 읽힐 겁니다. 두 문장은 길이가 같지 않아요.
+CAMILLE: Et c'est parfaitement dans les formes. ||| 그리고 형식에도 완벽히 맞고요.
+LEFORT: Vous me demandez de devenir le greffier de mon propre silence. ||| 제 침묵의 서기가 되라는 말씀이군요.
+VALCOURT: Un greffier est un homme précieux. Les traités tiennent à lui. Le traité de Münster a tenu à une ligne de greffier. ||| 서기는 귀한 사람입니다. 조약은 그에게 달려 있어요. 뮌스터 조약은 서기 한 줄에 달려 있었지요.
+LEFORT: Vous inventez. ||| 지어내시는군요.
+VALCOURT: Je généralise. Mais l'idée est vraie. Lefort, vous qui aimez les formes : donnez-en une à cette affaire. Pas un obstacle, une forme. ||| 일반화하는 겁니다. 하지만 생각은 맞아요. 르포르, 형식을 좋아하시니 이 사건에 형식 하나를 주세요. 장애물이 아니라 형식을요.
+LEFORT: Je ne promets rien ce soir. ||| 오늘 밤에는 아무것도 약속하지 않겠습니다.
+VALCOURT: Je n'ai pas demandé de promesse. J'ai posé le fromage sur la table. ||| 약속을 청하지 않았습니다. 치즈를 식탁에 올렸을 뿐이에요.
+LEFORT: Le comté, finalement. Une tranche fine. ||| 콩테를 주시죠. 얇게요.
+VALCOURT: Pas timide ? ||| 소심하지 않게요?
+LEFORT: Pas timide. Le comité sera approuvé demain, à dix heures, dans les formes, avec le procès-verbal de dépôt en annexe. ||| 소심하지 않게요. 위원회는 내일 10시에 승인됩니다. 형식을 갖추어, 제출 조서를 첨부해서요.
++ le silence est signé = 침묵에는 서명이 있다. 누가, 누구를 위해 침묵하는가가 요점이다
++ pleins pouvoirs / plénipotentiaire = 전권 위임장 / 전권대표. Westphalie 협상에서 확인에 몇 달이 걸린 문서
++ la préséance = 석차, 서열. 외교 의전의 핵심 개념
++ une forme n'est protectrice que si elle est partagée = ne… que + 조건절. 형식은 공유될 때만 보호한다
++ sans que vous la preniez pour une attaque = sans que + 접속법. 완곡한 허락 요청
++ le greffier / le procès-verbal de dépôt = 서기 / 제출 조서. 침묵을 기록으로 바꾸는 형식의 도구
++ Je ne promets rien ce soir = 약속하지 않는다. 르포르의 마지막 한 걸음을 가리는 표현
+
+## 계단과 거리 — L'ESCALIER
+LEFORT: Je descends seul. Je préfère l'escalier. ||| 혼자 내려가겠습니다. 계단이 좋아서요.
+JULIEN: Je vous accompagne jusqu'au palier. ||| 층계참까지 모시겠습니다.
+LEFORT: Monsieur Delorme, je dois vous dire une chose, en dehors des formes. ||| 들로름 씨, 형식 밖에서 한 가지 말씀드려야겠습니다.
+JULIEN: Je vous écoute. ||| 듣겠습니다.
+LEFORT: La page manquante. Je ne l'ai pas retirée. Mais je n'ai pas demandé où elle était. ||| 사라진 쪽 말입니다. 제가 뺀 게 아닙니다. 하지만 어디 있느냐고 묻지도 않았습니다.
+JULIEN: C'est un aveu. ||| 자백이군요.
+LEFORT: C'est une description. Je m'en tiens aux descriptions. ||| 묘사입니다. 저는 묘사에 머뭅니다.
+JULIEN: Qui a pu vous le demander ? ||| 누가 그걸 요구할 수 있었습니까?
+LEFORT: Quelqu'un qui savait que je préférerais ne pas savoir. Je ne vous donnerai pas de nom. Je n'en ai pas, au sens où vous l'entendez. ||| 제가 모르기를 바랄 거라는 걸 아는 사람이죠. 이름은 드리지 않겠습니다. 부실장님이 말하는 뜻에서는 이름이 없습니다.
+JULIEN: Vous avez une idée. ||| 짐작은 있으시죠.
+LEFORT: J'ai surtout un conseil. Si vous cherchez qui a été payé, vous ne l'obtiendrez pas par les canaux de la maison. Vous l'obtiendrez donc par d'autres. Je ne veux pas savoir lesquels. ||| 짐작보다는 충고가 있습니다. 누가 돈을 받았는지 찾으신다면 이 부처의 정식 경로로는 얻지 못합니다. 그러니 다른 경로로 얻으시겠지요. 어떤 경로인지는 알고 싶지 않습니다.
+JULIEN: Vous venez de me dire où chercher sans me le dire. ||| 말씀하시지 않으면서 어디를 찾아야 하는지 말씀하셨군요.
+LEFORT: Je ne vous ai rien dit. Bonne nuit, monsieur. ||| 아무 말도 하지 않았습니다. 안녕히 가십시오, 부실장님.
+JULIEN: Bonne nuit, monsieur le directeur de cabinet. Et merci pour le comté. ||| 안녕히 가십시오, 비서실장님. 그리고 콩테 감사합니다.
+LEFORT: Ce n'était pas mon comté. ||| 제 콩테가 아닌데요.
+JULIEN: C'était votre tranche. ||| 비서실장님이 드신 한 조각이었잖습니까.
+CAMILLE: Alors ? Qu'est-ce qu'il t'a dit sur le palier ? ||| 그래서? 층계참에서 뭐라고 했어?
+JULIEN: Qu'il n'avait pas retiré la page, mais qu'il n'avait pas demandé où elle était. Et que, pour savoir qui a été payé, il faudra sortir de la maison. ||| 쪽을 뺀 건 아니지만 어디 있는지 묻지도 않았대. 그리고 누가 돈을 받았는지 알려면 이 건물 밖으로 나가야 한대.
+CAMILLE: Hélène. ||| 엘렌이네.
+JULIEN: Hélène. Et un déjeuner de plus. ||| 엘렌이지. 그리고 점심이 하나 더 늘고.
+VALCOURT: Je vous entends murmurer, mes enfants. Ne faites pas de bêtises élégantes. ||| 속닥거리는 소리가 다 들려요, 얘들아. 우아한 바보짓은 하지 마요.
+JULIEN: Qu'appelez-vous une bêtise élégante ? ||| 우아한 바보짓이 뭡니까?
+VALCOURT: Celle qui a de bonnes raisons. Ce sont les plus coûteuses. ||| 그럴듯한 이유가 있는 바보짓이지요. 가장 비싼 바보짓입니다.
+CAMILLE: Vous nous dites de ne pas utiliser ce que Lefort vient de nous indiquer ? ||| 르포르가 방금 알려 준 걸 쓰지 말라는 말씀이세요?
+VALCOURT: Je vous dis de savoir ce que vous prenez et ce que vous rendez. Vous avez passé la soirée à demander la forme. N'oubliez pas de vous la demander à vous-mêmes. ||| 무엇을 받고 무엇을 돌려주는지 알라는 말입니다. 오늘 저녁 내내 남에게 형식을 요구했죠. 자신에게도 요구하는 걸 잊지 마세요.
+JULIEN: D'accord, mais je ne peux pas laisser quatorze hommes jusqu'au dix-neuf sur une prudence. ||| 다코르, 메, 열네 명을 19일까지 신중함 하나로 내버려 둘 수는 없습니다.
+VALCOURT: Je n'ai pas dit prudence. J'ai dit mesure. Ce n'est pas la même chose. Allez, rentrez. Le comté, c'est moi qui emballe le reste. ||| 신중함이라고 한 적 없습니다. 절도라고 했지요. 같은 게 아닙니다. 자, 돌아가요. 남은 콩테는 내가 포장하지요.
+CAMILLE: Je peux en prendre un peu ? ||| 조금 가져가도 돼요?
+VALCOURT: Tout ce que vous voudrez, sauf le munster. Le munster sort seul. ||| 원하는 건 다 가져가요, 뮌스터만 빼고. 뮌스터는 혼자 나가거든요.
+CAMILLE: Julien, tu as vu ? Il a dit « sauf le munster » avec le visage de Talleyrand. ||| 줄리앵, 봤어? '뮌스터만 빼고'라고 할 때 탈레랑의 얼굴이었어.
+JULIEN: Si Talleyrand avait eu un chariot de fromages, la Prusse n'aurait pas eu la Saxe. ||| 탈레랑에게 치즈 카트가 있었다면 프로이센이 작센을 갖지는 못했을 거야.
+VALCOURT: La Prusse a eu une partie de la Saxe, monsieur Delorme. Je préfère les histoires exactes quand elles sont drôles. ||| 프로이센은 작센의 일부를 가졌어요, 들로름 씨. 재미있는 이야기일수록 정확한 쪽이 좋습니다.
+JULIEN: Je prends note. ||| 메모하겠습니다.
++ en dehors des formes = 형식 밖에서. 르포르가 처음으로 형식을 벗어나 말하는 장면
++ Je m'en tiens aux descriptions = s'en tenir à ~. 묘사에 머물다. 책임 회피의 화법
++ ne pas vouloir savoir lesquels = 간접 의문의 lesquels. 알려 주지 않으면서 가리키는 수사
++ une bêtise élégante = 우아한 바보짓. 좋은 이유가 있는 잘못일수록 비싸다
++ prudence / mesure = 신중함 / 절도. 외교에서의 '지나치지 않음'의 뉘앙스
++ sauf le munster = ~만 빼고. Le munster sort seul = 뮌스터는 혼자 나간다(냄새 때문). 치즈 농담
++ La Prusse a eu une partie de la Saxe = 빈 회의(1815)에서 프로이센은 작센 일부를 얻었다. 일화의 정확성에 대한 발쿠르의 원칙

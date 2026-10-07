@@ -41,3 +41,13 @@
 - 알 파루키는 르포르를 수수료 얘기 내내 쳐다봄(카미유 관찰). 사아드: 이웃 나라들도 컨설팅 사무소 수수료가 궁금.
 - 역사: 슈만 선언(1950.5.9, 시계의 방), 파리 조약(1951.4) 6개국, «solidarité de fait».
 - 뤼카 귀국 허가 외 나머지 13명은 19일 재판 전까지 미정.
+
+## 1-6 Ce que savait Lefort (183턴, 5섹션)
+- 르포르 집무실(17시 장관 약속, 10분): 부속 서한의 '존재'는 작년 봄부터 알았다고 인정(«sous réserve de vérification des dates»). 표현 차이 보고를 받고 '형식 유보'를 달아 법무국(DAJ)에 넘김. 논리: 부서(contreseing) 없음·서류철 미편철·목록(bordereau) 미기재 → «Elle n'existe pas, juridiquement». 쪽수 도장·반출 대장 서명은 «Un tampon n'est pas une main», 서명자 이름 거부. 쥘리앵이 '쪽을 사라지게 놔뒀다'는 단정은 증명 못 해 철회. «누가 번역 말라고 했나?» → «Je l'ignore» (모르는 건지 알기 싫은 건지는 답 없음).
+- 쥘리앵이 발쿠르 저녁 초대(모레, 20시 30분). 발쿠르 집: 부르괴유, 호박 수프(3층 이웃), 치즈 카트 = 콩테 30개월, 에푸아스, 생넥테르, 크로탱 드 샤비뇰, 로크포르, 뮌스터. 르포르는 '앙리' 호칭 거부, 처음엔 치즈 거부 → 로크포르 한 조각 → 마지막에 콩테 얇게. 카미유 어휘: 마르세유 사람이라 에푸아스.
+- 탈레랑의 침묵(전설로 단서 달고): 1814 가을 빈, 네 승전국 자기들끼리 → 탈레랑이 며칠 침묵하며 1814년 5월 파리 조약(모든 열강이 전권대표를 빈 회의에 보냄)을 읽고, 한 번 형식 문서로 «de quel droit ?». «Le silence est signé.» 웨스트팔리아 1648: 뮌스터(가톨릭)/오스나브뤼크(개신교) 두 도시, 전권 위임장 확인·석차·입성 순서 몇 달, «서명 방식에 합의했을 때 이미 죽이지 않기로 받아들인 것». «Une forme n'est protectrice que si elle est partagée.» 프로이센은 작센의 '일부'를 얻음(발쿠르 정정).
+- 해법의 순간(식탁): 쥘리앵이 '제출 조서(procès-verbal de dépôt)' 제안(세 판본 함께, 제출일·제출자). 르포르 «Pas timide.» → 내일 10시 위원회 승인 + 조서 첨부.
+- 계단: 르포르 «La page manquante: je ne l'ai pas retirée, mais je n'ai pas demandé où elle était.» «Quelqu'un qui savait que je préférerais ne pas savoir.» 이름 안 줌. 충고: 누가 돈 받았는지는 부처 정식 경로로는 못 얻는다 → 다른 경로(= 엘렌), «Je ne veux pas savoir lesquels.»
+- 레아 6화 주제: «Se taire, est-ce mentir ?» → «Le silence a une adresse.»
+- 발쿠르 경고: «Ne faites pas de bêtises élégantes… savoir ce que vous prenez et ce que vous rendez» (→ 1-7 사용 범위 제한).
+- 1-7 훅: 엘렌에게 가야 함, 점심 3번째(쥘리앵 몫). 19일 재판까지 시간. 레아 1-7 주제는 정의와 거짓. 르포르의 '조서'가 법적 도구로 쓰임, 르포르는 아직 누구를 대신해 침묵했는지 불명(9화 배신 복선).
