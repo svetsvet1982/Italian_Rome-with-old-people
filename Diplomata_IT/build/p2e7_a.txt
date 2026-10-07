@@ -1,0 +1,76 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 7
+@title Soldi sporchi
+@ko 더러운 돈
+@setting 토요일 저녁 파르네시나 옥상 테라스 → 밤 란차의 식탁 → 일요일 오전 전화
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast FEDERICA | 대외정보기관(AISE) 연락관, 44세
+@cast LEO | 란차의 아들, 16세
+@cast GIULIA | 분석관, 31세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast SERENI | 성 마르티노 재단 회계 담당, 56세
+@cast SEGRETARIA | 재단 비서, 40세
+@note 7화는 더러운 수단의 화입니다. 페데리카가 몸값 자금 경로를 불법으로 추적한 자료를 건네려 합니다. 란차는 '어디서 났는지 모르면 쓰지 않는다'는 규칙을 지키며 자료를 읽지 않고, 재단 회계 담당 세레니에게 직접 묻는 합법적 경로를 택합니다. 레오는 묻습니다. '증거가 도둑맞은 거면 증거야?' 역사 논거는 피렌체 은행가들의 대출과 외교 압박입니다. 바르디·페루치 은행은 영국 왕 에드워드 3세에게 막대한 대출을 해 주었다가 왕이 지급을 중단하자 1340년대에 무너졌고, 돈과 영향력의 은밀한 교환이 낳는 위험을 보여 줍니다. 어휘는 정보·법(prova, acquisito illegalmente, albero avvelenato, debito, favore)에 주목하세요.
+@next 8화: TV 생중계에서 '몸값 지급설'이 확산됩니다. 란차는 질문의 순서에서 정보원을 읽어 냅니다.
+
+## 옥상 테라스 — IL TERRAZZO
+FEDERICA: Corrado, sei puntuale. Mi fai paura. ||| 코라도, 정각에 왔네요. 무서워요.
+CORRADO: Me lo dicono tutti. Come stai, Federica? ||| 다들 그렇게 말해요. 어때요, 페데리카?
+FEDERICA: Come una che ha lavorato tre notti. Siediti. Ho portato due spritz. ||| 사흘 밤 일한 사람처럼요. 앉아요. 스프리츠 두 잔 가져왔어요.
+CORRADO: Per me un'acqua. ||| 저는 물로 할게요.
+FEDERICA: Ecco. Lo vedi? Questo è il tuo problema. Non bevi con chi ti dà una cosa. ||| 그거 봐요. 그게 당신 문제예요. 뭔가 주는 사람과는 마시지 않잖아요.
+CORRADO: Non bevo con chi mi fa un favore. Bevo con chi mi diventa amico. ||| 호의를 베푸는 사람과는 마시지 않고, 친구가 되는 사람과 마셔요.
+FEDERICA: E io? ||| 그럼 나는요?
+CORRADO: Tu sei la cosa più simile a un'amica che questo palazzo abbia mai avuto. ||| 이 건물이 가져 본 사람 중 친구에 가장 가까운 사람이죠.
+FEDERICA: Meno male. Perché ti porto una cosa che non è un favore. È un conto. ||| 다행이네요. 오늘은 호의가 아니라 계산서를 가져왔으니까요.
+CORRADO: Che cosa? ||| 뭔데요?
+FEDERICA: Ho seguito il flusso di denaro dietro la Fondazione San Martino. Tre anni fa, e adesso. ||| 성 마르티노 재단 뒤의 자금 흐름을 따라갔어요. 3년 전과 지금요.
+CORRADO: Come? ||| 어떻게요?
+FEDERICA: Con gli strumenti che ho. ||| 가진 도구로요.
+CORRADO: Federica, ho una domanda. ||| 페데리카, 질문이 하나 있어요.
+FEDERICA: Prima ascolta. In questi tre giorni, la fondazione ha spostato un'ingente somma. Trecentomila euro da Lussemburgo a una società di trasporti a Bamarè. ||| 먼저 들어요. 사흘간 재단이 거액을 옮겼어요. 룩셈부르크에서 바마레의 운송 회사로 30만 유로요.
+CORRADO: Aspetta. ||| 잠깐만요.
+FEDERICA: Una società di trasporti che si chiama «Fleuve Express», fondata sei mesi fa. Il suo unico cliente è la fondazione. ||| '플뢰브 익스프레스'라는 운송 회사예요. 6개월 전에 설립됐고 유일한 고객이 그 재단이에요.
+CORRADO: Federica. Aspetta. ||| 페데리카. 잠깐만요.
+FEDERICA: Sta preparando un secondo pagamento, Corrado. Per i cinque. In parallelo, senza dirlo a nessuno. ||| 두 번째 지급을 준비하고 있어요, 코라도. 다섯 사람을 위해서요. 아무도 모르게 병행으로요.
+CORRADO: Dove hai preso questi dati? ||| 이 자료는 어디서 났어요?
+FEDERICA: Mi stai interrompendo. ||| 말을 끊고 있네요.
+CORRADO: Mi serve saperlo prima di sentire altro. ||| 더 듣기 전에 알아야 해요.
+FEDERICA: Dai tabulati bancari. Non ho un mandato. ||| 은행 거래 내역에서요. 영장은 없고요.
+CORRADO: Lo sapevo. ||| 그럴 줄 알았습니다.
+FEDERICA: Non fare quella faccia. Non ho violato niente che non violino tutti. ||| 그런 표정 짓지 마요. 다들 하는 것 외에 어긴 건 없어요.
+CORRADO: Federica, io non posso usare quello che mi dici. ||| 페데리카, 당신이 하는 말을 쓸 수 없어요.
+FEDERICA: Lo so. Ma ti serve. ||| 알아요. 하지만 필요하잖아요.
+CORRADO: Mi serve. E non lo posso usare. ||| 필요하죠. 그리고 쓸 수 없어요.
+FEDERICA: Allora cosa te ne fai? ||| 그럼 어쩔 건데요?
+CORRADO: Niente. Non l'ho sentito. ||| 아무것도요. 듣지 않은 겁니다.
+FEDERICA: Corrado, l'hai già sentito. ||| 코라도, 이미 들었잖아요.
+CORRADO: Allora lo dimentico. Ci provo. ||| 그럼 잊겠습니다. 노력은 해 볼게요.
+FEDERICA: Non si dimentica. ||| 잊히지 않아요.
+CORRADO: Lo so. Si deposita. ||| 알아요. 가라앉는 거죠.
+FEDERICA: Che cosa vuoi dire? ||| 무슨 뜻이죠?
+CORRADO: Che quello che hai detto ora è in una stanza chiusa dentro di me. E quando uscirò da lì, voglio uscire per un'altra porta, quella pubblica. ||| 방금 당신이 한 말이 제 안의 닫힌 방에 들어 있다는 거예요. 거기서 나올 때는 다른 문, 공개된 문으로 나오고 싶어요.
+FEDERICA: Che sarebbe? ||| 그게 뭐죠?
+CORRADO: Domando alla fondazione, direttamente. Con una telefonata. ||| 재단에 직접 묻는 겁니다. 전화 한 통으로요.
+FEDERICA: E se mentono? ||| 거짓말하면요?
+CORRADO: Allora avrò un'altra domanda. ||| 그럼 또 다른 질문이 생기겠죠.
+FEDERICA: E io? Io che ci guadagno? ||| 그럼 나는요? 나는 뭘 얻죠?
+CORRADO: Un'altra tua richiesta di favore, che io non potrò onorare in pieno. ||| 제가 온전히 들어줄 수 없는, 당신의 또 다른 호의 요청이요.
+FEDERICA: Mi stai mettendo in debito. ||| 저를 빚지게 만드는군요.
+CORRADO: Mi stai mettendo in debito. Quello che non ho sentito lo devo a te. ||| 당신이 저를 빚지게 해요. 제가 듣지 않은 것은 당신 덕이니까요.
+FEDERICA: Una cosa che non hai sentito, e che mi devi. ||| 듣지 않았는데 갚아야 하는 것이군요.
+CORRADO: Sì. Una di quelle che a Roma si chiamano «cambiali in bianco». ||| 네. 로마에서 '백지 어음'이라 부르는 종류죠.
+FEDERICA: Ho paura di quanto vale. ||| 그 가치가 얼마일지 겁나요.
+CORRADO: Anch'io. ||| 저도요.
++ spritz = 스프리츠(아페롤 등을 섞은 이탈리아 칵테일)
++ flusso di denaro = 자금 흐름
++ tabulati bancari = 은행 거래 내역
++ mandato = (수색·조회) 영장
++ ingente = 막대한
++ mettere in debito = 빚지게 하다
++ cambiale in bianco = 백지 어음(금액을 비워 둔 약속)
++ depositarsi = 가라앉다, 쌓이다
++ onorare = (약속·어음을) 이행하다
