@@ -1,0 +1,203 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 5
+@title Il tavolo di Bruxelles
+@ko 브뤼셀의 테이블
+@setting 브뤼셀 EU 해양 담당국 회의실 → 카페 → 점심 → 초안 작성 → 저녁 전화
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast LINDQVIST | 소피아 린드크비스트, EU 해양 담당국 조정관, 52세
+@cast DUVAL | 에티엔 뒤발, 프랑스 대표(외교부 지중해국), 48세
+@cast CAMILLERI | 조제프 카밀레리, 몰타 대표, 55세
+@cast YUSUF | 유수프 마르조크, 타르시아 대사관 일등서기관, 41세
+@note 일반 협상의 화입니다. 억류 해제의 '틀'을 만들기 위해 EU 해양 담당국이 이탈리아·프랑스·몰타 대표를 한 테이블에 앉힙니다(회의는 영어와 프랑스어로 진행되지만 이 교재에서는 이탈리아어로 옮겼습니다). 이탈리아는 선(先) 석방, 프랑스는 선(先) 납부를 주장하고, 몰타는 자국 항만 규정에 선례가 될까 걱정합니다. 해법의 순간은 몰타 대표의 농담 '우리는 섬이라 빨리 합의한다'에서 나옵니다. 농담이 굳은 분위기를 풀고, 이어 조울리아가 제3자 보증 계좌(에스크로)를 꺼냅니다. 역사 논거는 로마 조약(1957)입니다. 1951년 석탄철강공동체라는 작은 합의에서 출발한 여섯 나라가 1957년 3월 25일 로마 캄피돌리오에서 유럽경제공동체 설립 조약을 맺었고, 큰 구상이 아니라 작은 합의의 반복이 유럽을 만들었다는 논지입니다. 어휘는 협상 용어(conto di garanzia, clausola di salvaguardia, senza pregiudizio), 접속법(Purché sia…), 조건 표현에 주목하세요.
+@next 6화: 브뤼셀의 초안을 들고 돌아온 란차는 금요일 아침 사무총장 비탈레와 단둘이 마주 앉습니다. 산드리가 에스프레소 앞에서 들려준 '플롬비에르의 비밀'이 대결의 열쇠가 됩니다.
+
+## 브뤼셀의 아침 — MATTINA A BRUXELLES
+CAMILLERI: Corrado Lanza! Sapevo che saresti arrivato con un sacchetto di dolci. ||| 코라도 란차! 달콤한 걸 담은 봉지를 들고 올 줄 알았지.
+CORRADO: Joseph, caro. Sono sfogliatelle, di ieri. Nel Belgio nessun dolce supera l'umidità di una giornata. ||| 조제프, 반갑네. 어제 만든 스폴리아텔레야. 벨기에에서는 어떤 과자도 하루 습기를 못 이겨.
+CAMILLERI: Le mangeremo prima che si arrendano. Questa è Giulia, immagino. ||| 항복하기 전에 먹어 치우자고. 이쪽이 조울리아겠지?
+GIULIA: Giulia Marchetti, analista. Molto piacere, signor Camilleri. ||| 조울리아 마르케티, 분석관입니다. 만나서 반갑습니다, 카밀레리 씨.
+CAMILLERI: Joseph, per favore. A Malta il Lei non esiste. Siamo troppo piccoli per le formalità. ||| 조제프라고 불러 줘요. 몰타에는 Lei가 없어요. 격식을 차리기엔 우리가 너무 작거든.
+GIULIA: Grazie, Joseph. Ho preparato una scheda di due pagine sull'impatto del precedente sulle vostre norme portuali. ||| 고마워요, 조제프. 선례가 몰타 항만 규정에 미칠 영향에 관한 두 쪽짜리 자료를 준비했어요.
+CAMILLERI: Due pagine? Qui in Europa un documento sotto le venti pagine non è un documento. ||| 두 쪽이요? 여기 유럽에서는 스무 쪽 미만이면 문서 취급도 안 해요.
+CORRADO: Per questo l'ha scritto lei: le persone leggono quello che è corto, e rispettano quello che è chiaro. ||| 그래서 얘가 쓴 거야. 사람들은 짧은 걸 읽고 분명한 걸 존중하거든.
+CAMILLERI: Sei sempre stato un romantico. Dimmi, com'è la situazione a bordo? ||| 자넨 항상 낭만주의자였지. 말해 봐, 배 안은 어때?
+CORRADO: Pane fresco per altri due giorni. Poi il capitano comincia a fare il fornaio con la farina di bordo. ||| 신선한 빵이 이틀 치 남았어. 그다음엔 선장이 배에 있는 밀가루로 직접 빵을 굽기 시작해야 해.
+CAMILLERI: Un capitano fornaio. Mi piace. Ogni nave dovrebbe averne uno. ||| 제빵사 선장이라. 마음에 들어. 배마다 하나씩 있어야 해.
+CORRADO: E tu cosa pensi del sequestro? ||| 그래서 억류에 대해 넌 어떻게 생각해?
+CAMILLERI: Penso che se un porto ferma una nave per quattrocentomila euro, ha già deciso di parlare d'altro. ||| 항구가 40만 유로로 배를 세웠다면 이미 다른 얘기를 하기로 정한 거라고 생각해.
+CORRADO: Lo penso anch'io. Ma devo ancora convincere la Francia. ||| 나도 그래. 하지만 아직 프랑스를 설득해야 해.
+CAMILLERI: Duval? È un galantuomo, con un debole per i principi. ||| 뒤발? 신사이긴 한데 원칙 얘기에 약해.
+CORRADO: Principi? ||| 원칙이요?
+CAMILLERI: Il principio che nessuno debba pagare sotto minaccia. Poi però ne ha un altro: il principio che l'impresa francese di gas non si scomodi. ||| 협박받으면서 아무도 돈을 내서는 안 된다는 원칙. 그런데 또 하나가 있지. 프랑스 가스 기업이 불편하면 안 된다는 원칙.
+GIULIA: L'impresa francese ha interessi a Tarsia? ||| 프랑스 기업이 타르시아에 이권이 있나요?
+CAMILLERI: Una concessione per un blocco di mare, a nord dell'isola. Non è un segreto, ma non lo dice nessuno. ||| 섬 북쪽 해역의 한 구획 채굴권이 있어요. 비밀은 아닌데 아무도 말하지 않죠.
+CORRADO: Giulia, scrivi: Francia, concessione a nord. Joseph, grazie. ||| 조울리아, 적어. 프랑스, 북쪽 채굴권. 조제프, 고마워.
+CAMILLERI: Non ringraziare. Io ho solo preso il caffè con lui ieri sera. ||| 고마워할 것 없어. 어제 저녁에 그 사람이랑 커피 한잔했을 뿐이야.
+CORRADO: Una buona regola: i diplomatici dovrebbero prendere più caffè e scrivere meno note. ||| 좋은 규칙이야. 외교관은 커피를 더 마시고 메모를 덜 써야 해.
+CAMILLERI: Il caffè belga è terribile, però. Ho dovuto dirlo con un sorriso. ||| 벨기에 커피는 끔찍하지만 말이야. 웃으면서 말해야 했어.
++ Joseph, per favore = 조제프라고 불러 주세요 (격식을 내려놓는 요청)
++ Non ringraziare = 고마워하지 마 (tu 부정 명령: non + 부정사)
++ Ha un debole per… = ~에 약하다, ~를 좋아한다
++ dovrebbe averne uno = (그걸) 하나 가져야 할 텐데 (조건법 + ne)
++ galantuomo = 신사, 정직한 사람
++ comincia a fare il fornaio = 제빵사 노릇을 하기 시작하다 (fare il + 직업: ~ 노릇을 하다)
+
+## 회의실 — LA SALA DELLA RIUNIONE
+LINDQVIST: Colleghi, benvenuti. Questa è una riunione informale, ma ogni parola finirà in un verbale. ||| 여러분, 환영합니다. 비공식 회의지만 모든 발언이 회의록에 남습니다.
+DUVAL: Madame Lindqvist, posso chiedere che sia registrato il mio disagio per la sede? ||| 린드크비스트 부인, 장소에 대한 제 불편을 기록해 주실 수 있습니까?
+LINDQVIST: Quale disagio, signor Duval? ||| 어떤 불편이죠, 뒤발 씨?
+DUVAL: Questa sala non ha finestre. In una crisi marittima, ci si aspetterebbe almeno un oblò. ||| 이 방엔 창이 없어요. 해상 위기를 다루는데 최소한 둥근 창 하나는 있어야죠.
+CAMILLERI: Mettiamo una fotografia di Marsa Beida. Così abbiamo il mare, almeno nell'inquadratura. ||| 마르사 베이다 사진을 걸죠. 그럼 적어도 액자 속에는 바다가 생기잖아요.
+LINDQVIST: Passiamo al merito. Dottor Lanza, a lei la parola. ||| 본론으로 넘어갑시다. 란차 박사님, 말씀하세요.
+CORRADO: Grazie. La nave «Principessa Giulia» è ferma da quattro giorni. A bordo ci sono duecentoquattordici passeggeri, e quaranta sono minorenni. ||| 감사합니다. «프린치페사 줄리아»는 나흘째 묶여 있습니다. 승객이 214명이고 그중 40명이 미성년자입니다.
+CORRADO: L'Italia chiede una cosa semplice: che la nave sia liberata subito, e che il debito si discuta dopo, in un luogo neutrale. ||| 이탈리아의 요구는 간단합니다. 배를 즉시 풀고, 채무는 그 뒤에 중립적인 장소에서 논의하자는 것입니다.
+DUVAL: Mi permetta di dissentire. Se si libera la nave senza che nulla sia pagato, si premiano i ritardi. ||| 이의를 제기하겠습니다. 아무것도 내지 않고 배를 풀어 주면 연체를 보상하는 꼴입니다.
+CORRADO: Non si premia nulla. Si evita di punire quaranta ragazzi per un conto che non hanno firmato. ||| 보상하는 게 아닙니다. 서명한 적도 없는 계산서로 아이 마흔 명을 벌주는 걸 피하는 겁니다.
+DUVAL: Il principio resta: chi usa un porto, paga il porto. ||| 원칙은 그대로예요. 항구를 쓰는 사람은 항구 사용료를 낸다는 것.
+GIULIA: Posso intervenire con una cifra? Gli arretrati in questione sono quattrocentododicimila euro, e valgono lo zero virgola quattro per cento del fatturato annuo della compagnia. ||| 숫자 하나 말씀드려도 될까요? 문제의 연체금은 41만 2천 유로로, 선사 연매출의 0.4퍼센트입니다.
+DUVAL: Una piccola percentuale non cancella il precedente. ||| 작은 비율이 선례를 지워 주지는 않아요.
+CAMILLERI: Duval ha ragione su questo. Ma ha ragione anche Lanza: il precedente peggiore è il sequestro di studenti. ||| 뒤발 말이 이 점에서는 맞아요. 하지만 란차 말도 맞습니다. 최악의 선례는 학생들을 억류하는 거예요.
+DUVAL: Voi insulari ci volete sempre convincere con i sentimenti. ||| 섬나라 사람들은 항상 감정으로 우릴 설득하려 하죠.
+CAMILLERI: Noi insulari dobbiamo decidere in fretta, perché se non decidiamo, l'acqua decide al posto nostro. ||| 우리 섬사람들은 빨리 정해야 해요. 안 정하면 물이 우리 대신 정하거든요.
+LINDQVIST: Signor Camilleri, il suo paese ha una preoccupazione precisa? ||| 카밀레리 씨, 몰타는 구체적인 우려가 있습니까?
+CAMILLERI: Sì. Che quello che si decide oggi diventi la regola del mio porto domani. Non vogliamo che un precedente si trasformi in norma. ||| 네. 오늘 결정하는 것이 내일 우리 항구의 규칙이 되는 겁니다. 선례가 규범으로 바뀌는 걸 원하지 않습니다.
+LINDQVIST: Quindi serve una clausola di salvaguardia. ||| 그럼 세이프가드 조항이 필요하군요.
+CAMILLERI: Esatto. Qualcosa del tipo: «senza pregiudizio per le posizioni delle parti». ||| 맞습니다. '당사자들의 입장을 해치지 않는다'는 식의 문구요.
+CORRADO: Per l'Italia va bene. Purché sia chiaro che la nave parte. ||| 이탈리아는 괜찮습니다. 배가 떠난다는 게 분명하기만 하다면요.
+DUVAL: E per la Francia, purché sia chiaro che il debito non si cancella. ||| 프랑스는 채무가 지워지지 않는다는 게 분명하다면 괜찮습니다.
+LINDQVIST: Due «purché» che si guardano in cagnesco. ||| '단서' 두 개가 서로 노려보고 있군요.
+CORRADO: Si guardano perché non si siedono allo stesso tavolo. ||| 같은 식탁에 앉지 않아서 노려보는 겁니다.
+LINDQVIST: Dottor Lanza, qui tutto si siede allo stesso tavolo. Eppure nessuno si parla. ||| 란차 박사님, 여기선 모든 게 같은 테이블에 앉습니다. 그런데도 아무도 대화하지 않죠.
+CAMILLERI: Qui il tavolo è troppo largo. Con una cena si capirebbe meglio. ||| 여기는 테이블이 너무 넓어요. 저녁 식사를 하면 더 잘 이해될 텐데.
+DUVAL: Una cena? Dopo le diciotto non lavoro. ||| 저녁 식사요? 6시 이후에는 일 안 합니다.
+CAMILLERI: Allora un pranzo. Alle tredici. Lo prendiamo in un posto con le patatine fritte e le cozze. ||| 그럼 점심으로 하죠. 1시에요. 감자튀김이랑 홍합이 있는 데서.
+LINDQVIST: Sospendo la seduta. Ripresa alle quindici. Siate puntuali, e di buon umore. ||| 휴회합니다. 3시에 속개해요. 시간 지키시고 기분 좋게 오세요.
++ Mi permetta di dissentire = 이의를 제기하겠습니다 (공손한 반대)
++ clausola di salvaguardia = 보호(세이프가드) 조항
++ senza pregiudizio per… = ~을 해치지 않고 (법률 문서의 표준 구)
++ Purché sia chiaro che… = ~가 분명하기만 하다면 (purché + 접속법)
++ guardarsi in cagnesco = 으르렁거리며 노려보다
++ insulari = 섬사람들 (농담조 지칭)
++ Passiamo al merito = 본론으로 넘어가자 (merito: 사안의 실질)
+
+## 감자튀김 점심 — IL PRANZO CON LE PATATINE
+CAMILLERI: Una porzione di cozze per tre, e una di patatine con la maionese. Qui si mangia con le mani, come a Malta. ||| 홍합 세 사람 몫이랑 마요네즈 감자튀김 하나요. 여기선 몰타처럼 손으로 먹어요.
+DUVAL: Con le mani? Una volta i diplomatici usavano la forchetta. ||| 손으로요? 예전에는 외교관들도 포크를 썼는데요.
+CORRADO: Una volta si usavano anche le spade. Le mani sono un progresso. ||| 예전엔 칼도 썼죠. 손이 진보한 겁니다.
+DUVAL: Lei ha una risposta per tutto, dottor Lanza. ||| 란차 박사님은 모든 것에 답이 있군요.
+CORRADO: No, ho solo un modo di parlare. Provi le cozze, prima di dirmi di no. ||| 아니요, 말버릇일 뿐입니다. 안 된다고 하기 전에 홍합부터 드셔 보세요.
+DUVAL: Buone. Meglio di quelle di Marsiglia, e questo non l'ho detto. ||| 맛있네요. 마르세유 것보다 낫군요. 이건 내가 안 한 말입니다.
+CAMILLERI: Dichiarazione a verbale! La Francia riconosce la superiorità belga delle cozze. ||| 회의록에 기록해야겠네요! 프랑스가 홍합에서 벨기에의 우위를 인정했다고.
+DUVAL: Dichiarazione ritirata. ||| 발언 철회합니다.
+GIULIA: Posso fare una domanda sul conto di garanzia? ||| 보증 계좌에 대해 질문해도 될까요?
+CORRADO: Quale conto? ||| 무슨 계좌?
+GIULIA: Quello che nessuno ha ancora proposto, ma che mi pare l'unica soluzione. Un deposito bloccato, tenuto da una terza parte. ||| 아직 아무도 제안하지 않았지만 유일한 해법 같은 거요. 제3자가 맡는 동결 예치금이요.
+CAMILLERI: Un escrow. In pratica: i soldi non li ha né l'Italia né Tarsia. ||| 에스크로네요. 말하자면 돈을 이탈리아도 타르시아도 갖지 않는 거죠.
+GIULIA: Esattamente. Quattrocentododicimila euro, depositati presso una banca neutrale, fino alla verifica dei conti. ||| 정확해요. 41만 2천 유로를 중립 은행에 예치하고 장부 확인이 끝날 때까지 두는 거죠.
+DUVAL: E la nave? ||| 배는요?
+GIULIA: Parte appena il deposito è confermato. Il debito resta, ma si discute senza ostaggi. ||| 예치가 확인되는 즉시 떠나요. 채무는 남지만 인질 없이 논의하는 거죠.
+DUVAL: Senza ostaggi... Dice bene. Non lo avevo considerato. ||| 인질 없이라… 맞는 말이에요. 생각 못 했네요.
+CAMILLERI: Vedete? Siamo un'isola, quindi decidiamo in fretta. In questo caso, lo ha deciso un'analista. ||| 보세요? 우린 섬이라 빨리 정해요. 이번엔 분석관이 정했지만.
+CORRADO: Joseph, hai appena inventato una frase che finirà nei manuali. ||| 조제프, 방금 교과서에 실릴 문장을 만들었어.
+CAMILLERI: Io? Io ho solo mangiato le cozze. ||| 내가? 난 홍합만 먹었는데.
+DUVAL: Resta un nodo: chi paga il costo della garanzia? ||| 매듭이 하나 남았군요. 보증 비용은 누가 냅니까?
+GIULIA: Poche migliaia di euro. L'Italia può anticiparle, e poi si divide nella verifica. ||| 몇 천 유로예요. 이탈리아가 먼저 내고 확인 때 나누면 돼요.
+CORRADO: Lo propongo come impegno italiano, non come concessione. Cambia il tono. ||| 양보가 아니라 이탈리아의 약속으로 제안하겠습니다. 어조가 달라지니까요.
+DUVAL: Capisco la sfumatura. In francese abbiamo una parola per questo: «geste». ||| 뉘앙스를 이해합니다. 프랑스어에는 이럴 때 쓰는 말이 있죠. '제스트', 몸짓.
+CORRADO: In italiano diciamo «gesto». Come vede, la lingua dell'amicizia è la stessa. ||| 이탈리아어로는 '제스토'입니다. 보시다시피 우정의 언어는 같군요.
++ escrow / conto di garanzia = 제3자 보증 계좌(에스크로)
++ dichiarazione a verbale = 회의록에 남기는 발언
++ mi pare l'unica soluzione = 유일한 해법인 것 같다 (parere + 명사)
++ senza ostaggi = 인질 없이 (협상 구도를 바꾸는 표현)
++ Dice bene = 맞는 말씀입니다 (dire bene)
++ nodo = 매듭, 쟁점 (rimane un nodo: 하나의 쟁점이 남았다)
+## 로마 조약의 교훈 — LA LEZIONE DI ROMA
+LINDQVIST: Riprendiamo. Se ho ben capito, a pranzo è nata una proposta. Chi la espone? ||| 속개합니다. 제가 제대로 이해했다면 점심에 제안이 나온 것 같은데, 누가 설명하죠?
+GIULIA: La illustro io, se permettete. Un conto di garanzia, tenuto da una banca terza, con la liberazione della nave alla conferma del deposito. ||| 제가 설명할게요, 괜찮으시면요. 제3 은행이 관리하는 보증 계좌를 두고, 예치 확인과 동시에 배를 풀어 주는 거예요.
+LINDQVIST: Interessante. Ma Tarsia dovrebbe accettarla. Perché lo farebbe? ||| 흥미롭군요. 하지만 타르시아가 받아들여야 합니다. 왜 그러겠습니까?
+CORRADO: Perché le dà quello che vuole, senza obbligarla a dire di sì all'Italia. ||| 이탈리아에 예스라고 말하게 강요하지 않으면서 원하는 걸 주기 때문입니다.
+DUVAL: E cosa vuole Tarsia, esattamente? Mi pare che nessuno lo abbia capito. ||| 그런데 타르시아가 원하는 게 정확히 뭡니까? 아무도 이해하지 못한 것 같은데요.
+CORRADO: Essere ascoltata. La parola che usano a Marsa Beida è «rispetto». ||| 말을 들어 주는 것입니다. 마르사 베이다에서 쓰는 말은 '존중'이고요.
+DUVAL: Il rispetto non si mette in una clausola. ||| 존중은 조항에 넣을 수 없어요.
+CORRADO: Si può mettere in un preambolo. Mi permetta di ricordare un fatto che noi europei dimentichiamo. ||| 전문(前文)에는 넣을 수 있죠. 우리 유럽인이 잊고 있는 사실 하나를 말씀드리겠습니다.
+LINDQVIST: Prego. ||| 말씀하세요.
+CORRADO: Il venticinque marzo del 1957, a Roma, sul Campidoglio, sei Paesi firmarono il trattato che istituì la Comunità economica europea. ||| 1957년 3월 25일, 로마 캄피돌리오에서 여섯 나라가 유럽경제공동체를 세우는 조약에 서명했습니다.
+CAMILLERI: Lo studiamo al liceo, anche a Malta. Ma continua. ||| 몰타에서도 고등학교 때 배워. 하지만 계속해 봐.
+CORRADO: Sei anni prima, quegli stessi Paesi avevano cominciato con una cosa piccola: il carbone e l'acciaio, nel 1951. ||| 그 6년 전에 같은 나라들이 작은 것에서 시작했습니다. 1951년의 석탄과 철강이었죠.
+DUVAL: Una comunità settoriale. Il nucleo da cui tutto è cresciuto. ||| 분야별 공동체였죠. 모든 게 자라난 핵이에요.
+CORRADO: Esatto. Nessuno costruì l'Europa con un grande disegno. La costruì con un piccolo accordo, poi con un altro, poi con un altro ancora. ||| 맞습니다. 누구도 거대한 설계로 유럽을 만들지 않았어요. 작은 합의, 또 하나의 합의, 그리고 또 하나로 만들었죠.
+LINDQVIST: Dove vuole arrivare? ||| 어디로 가려는 거죠?
+CORRADO: Se oggi liberiamo la nave con un piccolo accordo sul deposito, domani si può parlare del resto. ||| 오늘 예치금에 관한 작은 합의로 배를 풀면 나머지는 내일 논의할 수 있습니다.
+CAMILLERI: Io lo chiamo il metodo della tazzina: un caffè alla volta. ||| 나는 그걸 찻잔 방식이라고 불러. 커피 한 잔씩.
+DUVAL: Un caffè alla volta... non è male come principio diplomatico. ||| 한 잔씩이라… 외교 원칙으로 나쁘지 않네요.
+GIULIA: Se posso, propongo di scrivere subito la bozza. Cinque punti. ||| 괜찮으시면 바로 초안을 쓰자고 제안해요. 다섯 항목으로요.
+LINDQVIST: Proceda, signorina Marchetti. Io prendo appunti. ||| 해 보세요, 마르케티 양. 제가 메모하겠습니다.
+GIULIA: Punto uno: le parti si obbligano a rilasciare la nave entro ventiquattr'ore dalla conferma del deposito. ||| 첫째, 당사자들은 예치 확인 후 24시간 이내에 배를 풀어 줄 의무를 진다.
+CORRADO: «Si obbligano», non «si impegnano». Qui la parola conta. ||| '의무를 진다'이지 '약속한다'가 아닙니다. 여기서는 단어가 중요해요.
+DUVAL: Perché? Per un francese le due parole sono quasi sinonimi. ||| 왜요? 프랑스인에게는 두 단어가 거의 동의어인데요.
+CORRADO: Per un traduttore italiano di ottantun anni non lo sono affatto. ||| 여든한 살의 이탈리아 번역가에게는 전혀 그렇지 않습니다.
+CAMILLERI: Non capisco, ma mi fido. In maltese ne abbiamo tre, di parole, e le usiamo tutte a caso. ||| 이해는 안 되지만 믿어. 몰타어에는 그런 단어가 세 개 있는데 다 아무렇게나 써.
+GIULIA: Punto due: le parti si impegnano ad aprire un dialogo tecnico entro trenta giorni, su base di reciproco rispetto. ||| 둘째, 당사자들은 30일 이내에 상호 존중에 기초한 기술 대화를 열기로 약속한다.
+LINDQVIST: Qui avete usato «si impegnano». Intenzionale? ||| 여기서는 '약속한다'를 쓰셨네요. 의도적인가요?
+CORRADO: Sì. Per il rilascio serve un obbligo. Per il dialogo, una promessa tra galantuomini basta, ma deve essere esplicita. ||| 네. 석방에는 의무가 필요하고 대화에는 신사 간의 약속이면 충분하지만 명시돼야 합니다.
+DUVAL: Una distinzione elegante. Può restare. ||| 우아한 구분이군요. 남겨 둬도 되겠어요.
+GIULIA: Punto tre: nulla in questo accordo pregiudica le posizioni giuridiche delle parti. ||| 셋째, 이 합의의 어떤 것도 당사자들의 법적 입장을 해치지 않는다.
+CAMILLERI: Questa è la mia clausola. Grazie. Il mio porto dorme sonni tranquilli. ||| 내 조항이네요. 고마워요. 우리 항구가 편히 자겠어요.
+GIULIA: Punto quattro: un rappresentante dell'Unione assiste ai lavori come osservatore. ||| 넷째, 연합의 대표 한 명이 옵서버로 참관한다.
+LINDQVIST: Mi sta bene. Anche se mi chiedo cosa succederà quando scopriranno che dovrò viaggiare. ||| 괜찮습니다. 제가 출장을 가야 한다는 걸 알게 되면 어떻게 될지는 모르겠지만요.
+GIULIA: Punto cinque: nel preambolo, le parti riconoscono il rispetto reciproco come fondamento del dialogo. ||| 다섯째, 전문에서 당사자들은 상호 존중을 대화의 토대로 인정한다.
+DUVAL: Il preambolo non vincola. ||| 전문은 구속력이 없습니다.
+CORRADO: Non vincola, ma si legge per primo. E i primi lettori, a Marsa Beida, saranno i capitani, non gli avvocati. ||| 구속하지는 않지만 제일 먼저 읽힙니다. 마르사 베이다의 첫 독자는 변호사가 아니라 선장들일 겁니다.
++ si obbligano / si impegnano = 의무를 진다 / 약속한다 (4화의 어휘 대비를 실제 조문에 적용)
++ Se posso, propongo… = 괜찮다면 ~을 제안한다 (조건 + 직설법)
++ dormire sonni tranquilli = 편히 자다 (걱정 없이 지내다)
++ preambolo = 전문(前文) (구속력은 없지만 해석의 기준이 된다)
++ Mi sta bene = 나는 괜찮다
++ su base di… = ~에 기초하여
+
+## 복도의 귀띔 — IL CORRIDOIO
+YUSUF: Corrado, sono Yusuf. Ho appena parlato con il ministro Saadi, a Marsa Beida. ||| 코라도, 유수프야. 방금 마르사 베이다의 사아디 장관과 통화했어.
+CORRADO: Dimmi. Ha visto la bozza? ||| 말해 봐. 초안 봤어?
+YUSUF: Sì. Il preambolo gli è piaciuto. Ha detto: «Finalmente qualcuno scrive come si parla a tavola». ||| 응. 전문이 마음에 든대. '드디어 누가 식탁에서 말하듯 썼다'고 하셨어.
+CORRADO: E la liberazione della nave? ||| 배의 석방은?
+YUSUF: Non è ancora possibile. Il ministro vuole prima vedere con i suoi occhi il testo italiano dell'Aurora. ||| 아직은 불가능해. 장관님은 먼저 이탈리아어 오로라 원문을 직접 보고 싶어 하셔.
+CORRADO: Capisco. Non posso mostrare ciò che ancora non ho in mano. ||| 알겠어. 내 손에 아직 없는 걸 보여 줄 수는 없지.
+YUSUF: Lo so. Ma sappi che non è un no. È un «non ancora». ||| 알아. 하지만 거절은 아니야. '아직은 아니다'라는 뜻이지.
+CORRADO: Un «non ancora» a Marsa Beida vale più di un sì a Roma. ||| 마르사 베이다의 '아직은 아니다'는 로마의 '예스'보다 값져.
+YUSUF: Un'ultima cosa. Il ministro accetta un incontro a bordo, se verrà una persona capace di sedersi. ||| 마지막으로 하나. 장관님은 앉을 줄 아는 사람이 온다면 배 위에서의 면담은 받아들이신대.
+CORRADO: A bordo? ||| 배 위에서요?
+YUSUF: Sulla coperta, con i ragazzi. Dice che i ragazzi gli ricordano che il tempo passa. ||| 갑판에서, 아이들 곁에서. 아이들을 보면 시간이 흐른다는 걸 알게 된다고 하셔.
+CORRADO: Allora vado. A presto, Yusuf, e grazie. ||| 그럼 갈게. 곧 보자, 유수프. 고마워.
+GIULIA: Dottore, messaggio dal gabinetto del Ministro. Il termine di Vitale è prorogato di una settimana. ||| 박사님, 장관 비서실에서 메시지가 왔어요. 비탈레 총장님의 기한이 일주일 연장됐어요.
+CORRADO: Prorogato dal Ministro? Dopo aver letto la bozza? ||| 장관님이 연장하셨다고? 초안을 읽고?
+GIULIA: Sì. Ha scritto: «Proseguite». Una sola parola, ma sottolineata due volte. ||| 네. '계속하라'고 쓰셨어요. 한 단어지만 두 번 밑줄이 쳐져 있어요.
+CORRADO: Allora Vitale si dovrà accontentare. Venerdì lo incontro lo stesso. ||| 그럼 비탈레는 만족해야겠군. 금요일에 어쨌든 만나지.
+DUVAL: Dottor Lanza, posso scambiare una parola con lei? In privato. ||| 란차 박사님, 잠깐 둘이서만 얘기할 수 있을까요?
+CORRADO: Naturalmente. Giulia, aspettami in sala. ||| 물론입니다. 조울리아, 회의실에서 기다려 줘.
+DUVAL: Non è facile da dire. Ma da galantuomo, sento il dovere di avvertirla. ||| 말하기 쉽지 않습니다. 그래도 신사로서 알려 드릴 의무를 느낍니다.
+CORRADO: Mi dica. ||| 말씀하세요.
+DUVAL: Alcuni mesi fa, un consulente italiano ha fatto visita al nostro gruppo energetico a Parigi. ||| 몇 달 전 이탈리아 컨설턴트 한 명이 파리에 있는 우리 에너지 그룹을 찾아왔습니다.
+CORRADO: Un consulente. Ha un nome? ||| 컨설턴트라. 이름이 있습니까?
+DUVAL: Non l'ho incontrato. Me lo hanno descritto: voce bassa, abito scuro, scarpe così lucide da potercisi specchiare. ||| 직접 만난 적은 없어요. 묘사로 들었습니다. 낮은 목소리, 어두운 정장, 얼굴이 비칠 만큼 반짝이는 구두.
+GIULIA: Dottore... ||| 박사님…
+CORRADO: Lo so, Giulia. Continui, signor Duval. ||| 알아, 조울리아. 계속하십시오, 뒤발 씨.
+DUVAL: Voleva sapere quanto valesse, per noi, la priorità sul gas tarsiano, se qualcuno, a Roma, la «dimenticasse». ||| 로마의 누군가가 타르시아 가스에 대한 우선권을 '잊어버린다면' 우리에게 그게 얼마나 가치가 있는지 알고 싶어 했어요.
+CORRADO: Se qualcuno la dimenticasse... Una domanda pulita come un coltello. ||| 누군가 잊어버린다면이라… 칼처럼 깔끔한 질문이군요.
+DUVAL: Noi non abbiamo risposto. Non faccio affari con chi vende dimenticanze. ||| 우리는 대답하지 않았습니다. 망각을 파는 사람과는 거래하지 않아요.
+CORRADO: Le sono grato, signor Duval. Posso chiederle di non parlarne con altri? ||| 감사합니다, 뒤발 씨. 다른 사람에게는 말하지 말아 주실 수 있겠습니까?
+DUVAL: Ho già avuto l'impressione che lei fosse l'unico, in questa sala, a ricordarsi di una cosa chiamata onore. Mi dia del tu. Étienne. ||| 이 회의실에서 명예라는 걸 기억하는 사람은 당신뿐이라는 인상을 이미 받았습니다. 말을 놓으세요. 에티엔이라고 해요.
+CORRADO: Corrado. E grazie, Étienne. Alla prossima, davanti a un piatto di cozze. ||| 코라도야. 고마워, 에티엔. 다음엔 홍합 접시 앞에서 만나자.
+DUVAL: Alla prossima. E porti i suoi dolci: i nostri croissant hanno perso la memoria. ||| 다음에 봐. 네 과자도 가져오고. 우리 크루아상은 기억을 잃었거든.
+CORRADO: Ho capito. Giulia, hai sentito? ||| 알겠어. 조울리아, 들었지?
+GIULIA: Ho sentito tutto. Voce bassa, scarpe lucide. Stesso identikit del professor Sartorelli. ||| 다 들었어요. 낮은 목소리, 반짝이는 구두. 사르토렐리 교수님의 몽타주와 같아요.
+CORRADO: Due testimoni, un uomo. A Roma torniamo con una bozza e con un'ombra. ||| 증인 둘에 남자 하나야. 로마에는 초안 하나와 그림자 하나를 들고 돌아가는 거지.
++ Mi dia del tu = 말을 놓으세요 (뒤발이 Lei에서 tu로 넘어가자고 제안)
++ Un «non ancora» = '아직은 아니다' (거절이 아닌 유보의 표현)
++ scarpe così lucide da potercisi specchiare = 얼굴이 비칠 만큼 반짝이는 구두 (così … da + 부정사, 대명사 결합 ci+si)
++ se qualcuno la dimenticasse = 누군가 그것을 잊는다면 (se + 접속법 반과거)
++ Ho già avuto l'impressione che lei fosse… = ~라는 인상을 이미 받았다 (접속법 반과거)
++ vendere dimenticanze = 망각을 팔다 (뒤발의 은유)

@@ -1,0 +1,204 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 2
+@title Cena alla bocciofila
+@ko 보치아 클럽의 저녁
+@setting 테스타초 보치아 클럽의 오후 준비 → 타르시아 대사관 직원 도착 → 식탁과 보치아 한 판 → 에르콜레의 기억 → 밤의 정리
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast LEO | 레오 란차, 15세
+@cast YUSUF | 유수프 마르조크, 타르시아 대사관 일등서기관, 41세
+@cast ERCOLE | 에르콜레, 전 외무부 사환, 83세
+@cast PEPPINO | 페피노, 보치아 클럽 회원, 79세
+@cast CONCETTA | 노나 콘체타, 클럽의 주방 책임자, 85세
+@note 협상 테이블이 아니라 식탁으로 가는 화입니다. 란차는 항만청장 함단의 충고('자기 것을 들고 오세요')를 따라 테스타초 동네 보치아 클럽에 타르시아 대사관 직원 유수프를 초대합니다. 유수프가 돼지고기를 먹지 않는다는 사실을 미리 확인해 메뉴를 바꾼 것 자체가 '존중'의 첫 문장입니다. 식사 끝에 노인 에르콜레가 '98년 오로라 때 내가 상자를 날랐지'라고 말하며 1부 전체의 단서가 열립니다. 역사 논거는 로렌초 일 마니피코의 나폴리 방문(1479~80)입니다. 파치 음모(1478) 이후 교황과 나폴리 왕국을 상대로 전쟁 중이던 피렌체의 로렌초가 직접 배를 타고 나폴리 왕 페란테를 찾아가 몇 달을 머문 끝에 평화의 길을 열었습니다. 위험을 감수한 직접 방문이 서류 교환보다 강했다는 사례입니다. 어휘는 로마 사투리(Aò, Ammazza), 음식 어휘(abbacchio, scottadito), Lei에서 tu로 넘어가는 장면에 주목하세요.
+@next 3화: 에르콜레의 말을 단서로 란차와 조울리아는 외무부 베네토 거리 문서고를 찾습니다. 그러나 '오로라 각서' 본문이 든 서류철이 사라져 있습니다.
+
+## 오후, 클럽의 부엌 — IL POMERIGGIO IN CUCINA
+CONCETTA: Corrado, hai portato i dolci o ti sei portato solo la faccia da ministero? ||| 코라도, 디저트는 가져왔어, 아니면 외무부 얼굴만 들고 왔어?
+CORRADO: Nonna Concetta, ho portato quarantotto sfogliatelle e dodici babà. ||| 콘체타 할머니, 스폴리아텔레 마흔여덟 개랑 바바 열두 개 가져왔어요.
+CONCETTA: Quarantotto! Chi li mangia, un esercito? ||| 마흔여덟 개! 누가 다 먹어, 군대라도 와?
+CORRADO: Un diplomatico, un'analista, un ragazzo di quindici anni e voi tre. L'esercito sarete voi. ||| 외교관 한 명, 분석관 한 명, 열다섯 살짜리 하나, 그리고 어르신 셋이요. 군대는 어르신들이죠.
+PEPPINO: Aò, e a me chi mi guarda le bocce? Se vi mettete a parlare, io perdo. ||| 아니, 그럼 내 보치아 공은 누가 봐 줘? 다들 얘기하면 나 지는데.
+CORRADO: Peppino, tu perdi anche quando non parla nessuno. ||| 페피노, 아무도 말 안 해도 너 지잖아.
+PEPPINO: Ammazza che lingua! Tuo padre almeno tirava le bocce con rispetto. ||| 와, 혀 한번 매섭네! 네 아버지는 그래도 공을 던질 땐 예의가 있었는데.
+CORRADO: Mio padre faceva le zeppole, mica le bocce. ||| 아버지는 제폴레를 만드셨지, 보치아를 한 게 아니에요.
+CONCETTA: Basta così, voi due. Allora, cosa si mangia? Mi hai detto di non mettere il guanciale. ||| 둘 다 그만. 그래서 뭘 먹지? 관찰레는 넣지 말라고 했잖아.
+CORRADO: Il nostro ospite non mangia carne di maiale. Ho chiesto a Giulia, e Giulia ha chiesto all'ambasciata. ||| 손님이 돼지고기를 안 드세요. 조울리아한테 물었고, 조울리아가 대사관에 물어봤어요.
+CONCETTA: Brava ragazza. E il vino? ||| 똑똑한 아가씨네. 포도주는?
+CORRADO: Mettiamo un'aranciata e dell'acqua frizzante. Il vino lo teniamo per noi, discretamente. ||| 오렌지 탄산음료랑 탄산수를 놓죠. 포도주는 우리끼리 조용히 마시고요.
+CONCETTA: Va bene. Allora abbacchio alla scottadito, carciofi alla giudia e rigatoni al pomodoro. ||| 좋아. 그럼 새끼 양 숯불구이, 유대식 아티초크, 토마토 리가토니로 하자.
+CORRADO: Perfetto. Si mangia con le mani, così non c'è soggezione. ||| 완벽해요. 손으로 먹으니까 어색할 게 없죠.
+CONCETTA: Con le mani? Sul tavolo apparecchiato? ||| 손으로? 차려 놓은 식탁에서?
+CORRADO: «Scottadito» vuol dire proprio questo: lo si prende subito, che brucia ancora. ||| '스코타디토'가 바로 그 뜻이잖아요. 아직 뜨거울 때 바로 집어 먹는 거죠.
+CONCETTA: Mi fai sentire una vecchia che non sa niente. ||| 사람을 아무것도 모르는 늙은이로 만드네.
+CORRADO: Nonna, lei sa tutto. Io sono qui per imparare, e per lavare i piatti. ||| 할머니는 다 아세요. 전 배우려고, 그리고 설거지하려고 왔어요.
+PEPPINO: Almeno un nipote che lavora in cucina, in famiglia nostra mancava. ||| 우리 집안에 부엌일 하는 손자가 그동안 없긴 했지.
+LEO: Salve a tutti. Papà, ho portato i tovaglioli, ma non so dove metterli. ||| 안녕하세요, 다들. 아빠, 냅킨 가져왔는데 어디 두죠?
+CONCETTA: Il ragazzo! Vieni qua, fatti guardare. Sei tutto tuo nonno. ||| 아이고, 우리 애! 이리 와서 얼굴 좀 보자. 할아버지를 쏙 닮았네.
+LEO: Mi dicono sempre così. Anche quando non l'ho conosciuto bene. ||| 다들 그렇게 말하세요. 잘 알지도 못했는데도요.
+CONCETTA: Tuo nonno aveva le mani grosse e un cuore più grosso. Poi un orecchio mezzo sordo, quando gli faceva comodo. ||| 네 할아버지는 손이 크고 마음은 더 컸어. 게다가 자기한테 편할 땐 한쪽 귀가 반쯤 먹었고.
+LEO: Questa non la sapevo. ||| 그건 몰랐어요.
+CORRADO: Nonna, non mi sputtanare davanti a mio figlio. ||| 할머니, 아들 앞에서 제 흉보지 마세요.
+CONCETTA: Quando mai? Sto parlando di tuo padre, mica di te. ||| 언제 그랬다고? 네 아버지 얘기지 너 얘기가 아니야.
++ Aò = 로마 사투리의 호출·감탄사 ('이봐', '어이')
++ Ammazza! = 와! 세상에! (로마식 감탄, 직역 '죽이네')
++ abbacchio alla scottadito = 새끼 양 갈비구이 (손가락을 델 정도로 뜨거울 때 먹음)
++ carciofi alla giudia = 유대식 아티초크 튀김 (로마 게토 요리)
++ mica = 결코, 설마 (부정 강조의 구어)
++ sputtanare = 망신 주다, 흉을 보다 (속어)
++ Chi li mangia? = 누가 그걸 먹어? (대명사 li가 목적어를 되받음)
+
+## 손님의 도착 — L'OSPITE ARRIVA
+GIULIA: Dottore, il signor Marzouk è arrivato. È fuori, davanti al cancello. ||| 박사님, 마르조크 씨가 도착했어요. 문 앞에 서 계세요.
+CORRADO: Perché non entra? ||| 왜 안 들어오시지?
+GIULIA: Dice che non vuole essere il primo. Aspetta che qualcuno esca a prenderlo. ||| 자기가 첫 번째로 들어가긴 싫다시네요. 누가 나와서 모셔 가길 기다리세요.
+CORRADO: Giusto. Una buona regola: l'ospite non apre la porta. Vado io. ||| 맞아. 좋은 규칙이야. 손님은 문을 안 여는 법이지. 내가 갈게.
+CORRADO: Signor Marzouk, benvenuto. Sono Corrado Lanza. Grazie di essere venuto, non era dovuto. ||| 마르조크 씨, 어서 오세요. 코라도 란차입니다. 와 주셔서 감사합니다, 당연한 일은 아니었는데요.
+YUSUF: Dottor Lanza, il piacere è mio. Mi hanno detto che ci sarebbe stata una cena, non un negoziato. ||| 란차 박사님, 제가 영광입니다. 협상이 아니라 저녁 식사라고 들었습니다.
+CORRADO: Esatto. Qui nessuno ha la cravatta e nessuno ha la fretta. ||| 맞습니다. 여긴 넥타이 맨 사람도, 서두르는 사람도 없습니다.
+YUSUF: Ho portato un piccolo dono. Datteri di Marsa Beida, di una cooperativa di donne. ||| 작은 선물을 가져왔습니다. 마르사 베이다의 대추야자인데, 여성 협동조합에서 만든 거예요.
+CORRADO: Che bei datteri. Li metto al centro della tavola. Qui il dono si mangia insieme. ||| 대추야자가 정말 좋네요. 식탁 한가운데 놓겠습니다. 여기선 선물을 같이 먹어요.
+YUSUF: Mi lasci presentarmi: Yusuf Marzouk, primo segretario. Ho studiato a Bologna per due anni. ||| 소개하겠습니다. 유수프 마르조크, 일등서기관입니다. 볼로냐에서 2년 공부했어요.
+GIULIA: Bologna! Io sono di lì. Dov'era la sua casa? ||| 볼로냐요! 저 거기 출신이에요. 어디서 사셨어요?
+YUSUF: Vicino a via Zamboni. Vivevo sopra una trattoria. Per due anni ho mangiato tortellini ogni giovedì. ||| 참보니 거리 근처요. 트라토리아 위층에 살았죠. 2년 동안 목요일마다 토르텔리니를 먹었어요.
+GIULIA: Allora è un mezzo bolognese! ||| 그럼 반쯤 볼로냐 사람이시네요!
+YUSUF: E a Roma, un mezzo affamato. La cucina dell'ambasciata mi ha dato solo riso lesso. ||| 그리고 로마에서는 반쯤 굶은 사람이고요. 대사관 식당은 삶은 밥만 줍니다.
+CORRADO: Stasera il riso lesso non c'è. Venga, le presento gli amici. ||| 오늘 저녁엔 삶은 밥이 없어요. 이리 오세요, 친구들을 소개하겠습니다.
+CORRADO: Questo è Peppino, campione di bocce. Almeno così dice lui. ||| 이쪽은 보치아 챔피언 페피노입니다. 본인 말로는요.
+PEPPINO: Piacere, signore. Io non dico: faccio. Domani le faccio vedere. ||| 반갑습니다, 선생. 난 말만 하는 게 아니라 합니다. 내일 보여 드리죠.
+YUSUF: Piacere mio. Se vince lei, paga il caffè? ||| 저도 반갑습니다. 선생님이 이기면 커피는 제가 살까요?
+PEPPINO: Aò, questo mi piace! Un uomo che parla chiaro. ||| 오, 이 사람 마음에 드는데! 분명하게 말하는 사람이야.
+CORRADO: E questa è Nonna Concetta, che comanda in cucina e in sezione. ||| 이분은 콘체타 할머니예요. 부엌과 클럽 모두를 지휘하세요.
+CONCETTA: Giovanotto, siediti. Sei magro come un chiodo. ||| 젊은이, 앉아요. 못처럼 말랐네.
+YUSUF: Grazie, signora. La ringrazio per aver tolto il guanciale. ||| 감사합니다, 부인. 관찰레를 빼 주셔서 감사해요.
+CONCETTA: Ah, te l'hanno detto? Sono contenta che tu l'abbia notato. ||| 아, 들었어요? 눈치챘다니 기쁘네.
+YUSUF: Non me l'hanno detto. Ho visto che il menu era scritto su una lavagna, senza maiale. ||| 들은 건 아니고요. 칠판 메뉴에 돼지고기가 없는 걸 봤어요.
+CONCETTA: Corrado ha pensato a tutto, dunque. Il bambino è bravo. ||| 그럼 코라도가 다 생각한 거네. 우리 애가 똑똑해.
+YUSUF: Dottor Lanza, mi ha già dimostrato qualcosa che nessun documento dimostra. ||| 란차 박사님, 어떤 문서도 증명하지 못하는 걸 벌써 보여 주셨습니다.
+CORRADO: Cioè? ||| 그게 뭡니까?
+YUSUF: Che lei si è informato prima di chiedere. ||| 물어보기 전에 먼저 알아보셨다는 거요.
++ non era dovuto = 의무는 아니었는데 (손님에게 하는 공손한 감사 표현)
++ Mi lasci presentarmi = 제가 소개하게 해 주세요 (Lei 명령형: lasciare + 접속법 형태)
++ mezzo + 명사 = 반쯤 ~인 사람 (mezzo bolognese, mezzo affamato)
++ magro come un chiodo = 못처럼 말랐다
++ Sono contenta che tu l'abbia notato = 눈치채서 기쁘다 (감정 + che + 접속법 과거)
++ Lei / tu 혼용 = 콘체타는 젊은이에게 말을 놓고 유수프는 Lei를 유지한다 (연장자의 tu)
+
+## 식탁과 보치아 — A TAVOLA E ALLE BOCCE
+ERCOLE: Silenzio, che arriva l'abbacchio. Chi parla di politica non lo mangia. ||| 조용, 새끼 양이 나온다. 정치 얘기하는 사람은 못 먹어.
+CORRADO: Regola giusta, Ercole. Facciamo il giro: tutti dicono cosa ricordano di più di un pranzo di famiglia. ||| 맞는 규칙이에요, 에르콜레. 돌아가며 말해 보죠. 가족 점심에서 가장 기억나는 게 뭔지.
+PEPPINO: Io ricordo mia madre che metteva il pane sotto il piatto per non far muovere la tovaglia. ||| 난 어머니가 식탁보가 안 움직이게 접시 밑에 빵을 끼워 두시던 게 기억나.
+YUSUF: Io ricordo mia nonna che metteva sempre un posto in più, per un ospite che non sapeva ancora di essere invitato. ||| 저는 할머니가 항상 한 자리를 더 차려 두시던 게 기억나요. 자기가 초대받은 줄 아직 모르는 손님을 위해서요.
+CONCETTA: Questa è una nonna saggia. Anche io lo faccio, ma mio nipote non lo capisce. ||| 지혜로운 할머니네. 나도 그러는데 우리 손자는 이해를 못 해.
+LEO: Io ricordo il nonno che tagliava la pizza con le forbici, e nonna che lo sgridava. ||| 전 할아버지가 가위로 피자를 자르고 할머니가 야단치시던 거요.
+CORRADO: Io ricordo che mio padre, quando litigava con qualcuno, gli mandava una teglia di dolci il giorno dopo. ||| 전 아버지가 누구랑 싸우면 다음 날 과자 한 판을 보내시던 게 기억나요.
+YUSUF: E funzionava? ||| 그게 통했나요?
+CORRADO: Quasi sempre. Una volta il vicino mandò indietro la teglia vuota con un biglietto: «Ci vuole una teglia più grande». ||| 거의 늘이요. 한번은 이웃이 빈 쟁반을 돌려보내며 쪽지를 붙였죠. '더 큰 쟁반이 필요합니다.'
+YUSUF: Una risposta saggia. Segno che il litigio era più grosso del dolce. ||| 현명한 답이네요. 싸움이 과자보다 컸다는 신호였죠.
+CORRADO: Esatto. E mio padre capì. Tornò con una teglia doppia, e una scusa. ||| 맞습니다. 아버지도 알아차리셨죠. 두 배 쟁반에 사과를 얹어 다시 가셨어요.
+GIULIA: E il vicino accettò? ||| 그래서 이웃이 받았어요?
+CORRADO: Accettò, ma volle sapere la ricetta. Così nacque un'amicizia lunga trent'anni. ||| 받았어요. 대신 레시피를 알려 달라고 했죠. 그렇게 30년 우정이 시작됐어요.
+ERCOLE: Il segreto è che non si sfida chi mangia nella tua casa. Ti tolgo il pane, e ti tolgo anche la parola. ||| 비결은 내 집에서 먹는 사람과는 겨루지 않는다는 거야. 빵을 빼앗는 건 말도 빼앗는 거지.
+YUSUF: Un proverbio nostro dice: chi ha mangiato il tuo sale non può più essere il tuo nemico. ||| 우리 속담에 이런 게 있어요. 내 소금을 먹은 사람은 더 이상 적이 될 수 없다고요.
+CORRADO: Allora i nostri due paesi hanno lo stesso proverbio, e probabilmente la stessa dispensa. ||| 그럼 두 나라는 같은 속담을, 아마 같은 찬장도 쓰고 있군요.
+YUSUF: Se è così, dottore, la dispensa è rimasta chiusa da un po'. ||| 그렇다면 박사님, 그 찬장은 한동안 잠겨 있었죠.
+PEPPINO: Basta con la filosofia. Si va a giocare, che l'abbacchio si digerisce in piedi. ||| 철학은 그만. 한 판 하러 가자고. 양고기는 서서 소화하는 거야.
+YUSUF: Io non ho mai giocato a bocce. ||| 저는 보치아를 해 본 적이 없는데요.
+PEPPINO: Perfetto, vinci subito. I principianti hanno fortuna. ||| 잘됐네, 곧바로 이기겠어. 초보자는 운이 좋거든.
+YUSUF: Come si tira? ||| 어떻게 던지죠?
+PEPPINO: Così: piano, con il polso morbido. Come quando accarezzi un gatto. ||| 이렇게. 천천히, 손목은 부드럽게. 고양이 쓰다듬듯이.
+YUSUF: Ecco. Ci sono andato vicino? ||| 어때요, 가까이 갔나요?
+PEPPINO: Vicinissimo al pallino! Ammazza, sei un talento naturale! ||| 표적 공에 아주 바짝이네! 이야, 타고났는데!
+CORRADO: Peppino, quando perdi di solito dici che il terreno è storto. ||| 페피노, 질 땐 늘 바닥이 비뚤다고 하잖아.
+PEPPINO: Il terreno è storto. Ma oggi lo perdono. ||| 바닥은 비뚤어. 하지만 오늘은 봐주지.
+LEO: Papà, hai visto? Si fidano più delle bocce che delle parole. ||| 아빠, 봤어요? 말보다 보치아 공을 더 믿네요.
+CORRADO: Perché le bocce non mentono: o ci arrivi, o non ci arrivi. ||| 공은 거짓말을 안 하니까. 닿든가, 못 닿든가지.
++ chi ha mangiato il tuo sale = 내 소금을 먹은 사람 (환대와 신의를 나타내는 속담적 표현)
++ non si sfida chi… = ~하는 사람과는 겨루지 않는다 (비인칭 si)
++ pallino = 보치아의 표적 공
++ ci sei andato vicino? = 가까이 갔어? (andare vicino: 근접하다)
++ perdonare = 봐주다, 용서하다 (농담조)
++ o ci arrivi, o non ci arrivi = 닿든가 못 닿든가 (o … o … 양자택일 구문)
+## 에르콜레의 기억 — IL RICORDO DI ERCOLE
+ERCOLE: Posso dire una cosa? Vecchio sono, e a una certa età il cervello si apre da solo. ||| 한마디 해도 되겠나? 늙으면 머리가 저절로 열리는 때가 있어.
+CORRADO: Dica, Ercole. Siamo qui per ascoltare. ||| 말씀하세요, 에르콜레. 들으려고 모인 거니까요.
+ERCOLE: Sentendo parlare di Tarsia, mi è tornata in mente una parola. Aurora. ||| 타르시아 얘기를 듣다 보니 단어 하나가 떠올랐어. 오로라.
+CORRADO: Aurora? ||| 오로라요?
+ERCOLE: Nel '98 io ero commesso alla Farnesina. Trentatré anni di servizio, e mai un giorno di malattia. ||| 98년에 난 외무부 사환이었네. 33년 근무하면서 병가는 하루도 안 냈지.
+PEPPINO: Mai un giorno? Dì la verità: l'influenza sì. ||| 하루도? 솔직히 말해. 독감은 걸렸잖아.
+ERCOLE: L'influenza l'ho avuta di sabato, quindi non conta. Zitto, Peppino. ||| 독감은 토요일에 걸렸으니 치지 않아. 조용히 해, 페피노.
+CORRADO: Che cosa ricorda dell'Aurora? ||| 오로라에 대해 뭘 기억하세요?
+ERCOLE: Una notte di ottobre, pioveva a dirotto. Mi chiamarono a casa: servivano tre casse dall'archivio di Via Veneto. ||| 10월의 어느 밤이었는데 비가 퍼붓더군. 집으로 전화가 왔어. 베네토 거리 문서고에서 상자 세 개가 필요하다고.
+GIULIA: Tre casse. Di che tipo? ||| 상자 세 개요. 어떤 종류였어요?
+ERCOLE: Di legno, col coperchio inchiodato e la scritta a pennarello rosso: AURORA, e sotto un numero, il quattordici. ||| 나무 상자에 뚜껑은 못으로 박혀 있었고, 빨간 매직으로 '오로라', 그 밑에 숫자 14가 적혀 있었어.
+CORRADO: Il quattordici... ||| 14라고요…
+ERCOLE: Io le ho portate su un furgoncino, fino a una sala di Villa Madama. Un lavoro di pochi chilometri. ||| 난 그걸 소형 승합차에 실어 빌라 마다마의 한 방까지 날랐지. 몇 킬로미터밖에 안 되는 일이었어.
+YUSUF: Villa Madama... Là si ricevono gli ospiti di Stato. ||| 빌라 마다마라면… 국빈을 맞는 곳이잖아요.
+ERCOLE: Appunto. C'era un tavolo lungo, e alle quattro del mattino ancora gente che discuteva. ||| 바로 그래. 긴 탁자가 있었고 새벽 네 시에도 사람들이 토론하고 있었어.
+CORRADO: Chi c'era? ||| 누가 있었습니까?
+ERCOLE: Signori in cravatta, i tarsiani con un vecchio dal cappello di lana, e poi un giovanotto magro con gli occhiali, che scriveva il verbale. Sudava come un fontanile. ||| 넥타이 맨 신사들, 털모자를 쓴 노인이 낀 타르시아 사람들, 그리고 안경 쓴 마른 청년이 회의록을 쓰고 있었어. 분수대처럼 땀을 흘리면서.
+GIULIA: Il verbale! Chi lo conservava? ||| 회의록이요! 누가 보관했죠?
+ERCOLE: Non lo so. Alla fine mi dissero: riporta le casse. Ne ho riportate due. ||| 몰라. 끝나고 나서 '상자를 도로 가져가라'고 하더군. 난 두 개만 가져갔어.
+CORRADO: Due su tre? ||| 세 개 중 두 개요?
+ERCOLE: La terza non era più lì. Chiesi, e mi risposero che l'avevano già mandata via. Io non ho insistito. ||| 세 번째는 거기 없었어. 물었더니 이미 다른 데로 보냈다고 하더군. 난 더 캐묻지 않았지.
+PEPPINO: Perché non hai insistito? Eri un cocciuto. ||| 왜 안 캐물었어? 자넨 고집불통이잖아.
+ERCOLE: Ero un commesso, Peppino. I commessi non insistono: portano. ||| 난 사환이었네, 페피노. 사환은 캐묻지 않고 나르는 거야.
+CORRADO: Ercole, lei non immagina che aiuto mi ha appena dato. ||| 에르콜레, 지금 저한테 얼마나 큰 도움을 주셨는지 모르실 겁니다.
+ERCOLE: Era solo una scatola. ||| 그냥 상자였어.
+CORRADO: A volte una scatola vale una nave. ||| 어떨 땐 상자 하나가 배 한 척만큼 값져요.
+LEO: Nonno Ercole, ma lei ha letto cosa c'era dentro? ||| 에르콜레 할아버지, 안에 뭐가 있었는지 읽어 보셨어요?
+ERCOLE: Ragazzo, non si apre quello che si porta. Così si resta commessi onesti per trentatré anni. ||| 얘야, 나르는 건 열어 보는 게 아니야. 그래야 33년 동안 정직한 사환으로 남지.
+LEO: E se uno apre per sbaglio? ||| 실수로 열면요?
+ERCOLE: Allora chiude subito, e si dimentica. Ma la memoria non obbedisce sempre. ||| 그럼 바로 닫고 잊어버리지. 하지만 기억은 늘 말을 듣는 게 아니라서.
+CONCETTA: Ercole, ti ho sempre detto che parli poco ma pesi tutto. ||| 에르콜레, 자넨 말이 적어도 무게는 다 나간다고 내가 늘 말했지.
++ pioveva a dirotto = 비가 퍼붓듯 왔다 (a dirotto: 억수로)
++ commesso = (관공서의) 사환, 수위 겸 심부름꾼
++ sudare come un fontanile = 분수대처럼 땀을 흘리다 (과장 비유)
++ riportare = 도로 가져가다/되가져가다 (portare와 구분)
++ Non si apre quello che si porta = 나르는 것은 열어 보지 않는다 (비인칭 si, 격언조)
++ non immagina che aiuto = 얼마나 큰 도움인지 모를 것이다 (che + 명사 감탄 구조)
+
+## 밤의 정리 — LA NOTTE
+YUSUF: Dottor Lanza, posso parlarle in modo franco? ||| 란차 박사님, 솔직하게 말씀드려도 될까요?
+CORRADO: Lo preferisco. ||| 그편이 낫습니다.
+YUSUF: Quella cassa che manca la cerchiamo anche noi. Da molti anni. ||| 그 사라진 상자를 우리도 찾고 있습니다. 아주 오래전부터요.
+CORRADO: Perché? Voi non avete il vostro testo? ||| 왜죠? 당신들에게는 당신들의 문서가 있지 않습니까?
+YUSUF: Abbiamo la nostra versione. Ma quando la leggiamo e poi leggiamo ciò che dite voi, non sembrano lo stesso foglio. ||| 우리 쪽 판본은 있습니다. 하지만 우리 걸 읽고 나서 당신들 쪽 말을 들으면 같은 종이 같지가 않아요.
+GIULIA: Intende dire che le due versioni non coincidono? ||| 두 판본이 일치하지 않는다는 뜻인가요?
+YUSUF: Non posso aggiungere altro, signorina. Non ho il mandato. Dico solo che da noi il testo si chiama «l'Alba», e c'è chi lo conosce a memoria. ||| 더는 말씀드릴 수 없습니다, 아가씨. 권한이 없어요. 다만 우리 쪽에서는 그 문서를 '새벽'이라고 부르고, 외우고 있는 사람도 있습니다.
+CORRADO: E cosa dice, nella vostra versione? ||| 당신들 판본에는 뭐라고 쓰여 있습니까?
+YUSUF: Che l'Italia avrebbe condonato il debito e riconosciuto la precedenza sul gas sottomarino. ||| 이탈리아가 부채를 탕감하고 해저가스에 대한 우선권을 인정할 것이라고요.
+CORRADO: Questo non mi risulta. Non c'è niente di simile nei nostri atti. ||| 그건 저희가 아는 바가 없습니다. 우리 기록에는 그런 게 없어요.
+YUSUF: Lo so. Ed è esattamente il nostro problema: lei non lo ricorda, e noi non lo dimentichiamo. ||| 압니다. 바로 그게 우리 문제예요. 박사님은 기억하지 못하고 우리는 잊지 못하죠.
+CORRADO: Il sequestro della nave, allora, è la conseguenza di questo? ||| 그럼 배의 억류는 그 결과입니까?
+YUSUF: Per anni i nostri porti hanno chiuso un occhio sui diritti delle navi italiane, come gesto di amicizia. Tre anni fa il gesto è finito. ||| 몇 해 동안 우리 항구는 이탈리아 선박의 사용료를 눈감아 줬습니다. 우정의 표시로요. 3년 전에 그 표시가 끝났죠.
+GIULIA: Ecco perché i bonifici si interrompono tre anni fa! Il conto non era in regola, era in sospeso. ||| 그래서 이체가 3년 전에 끊긴 거네요! 계정이 정상이었던 게 아니라 보류 상태였던 거예요.
+YUSUF: Esatto. Nessuno ha fatto un fascicolo. Nessuno ha scritto una nota. L'amicizia era solo una consuetudine. ||| 맞습니다. 서류철도 만들지 않았고 메모도 남기지 않았어요. 우정은 그냥 관행이었죠.
+CORRADO: E noi, che non lo sapevamo, abbiamo smesso di salutare. ||| 우리는 그걸 모른 채 인사도 그만뒀고요.
+YUSUF: Mi permetta una frase che a Marsa Beida ripetono: chi non saluta, ha già dimenticato. ||| 마르사 베이다에서 되풀이하는 말을 하나 하겠습니다. 인사하지 않는 사람은 이미 잊은 사람이다.
+CORRADO: Allora salutiamo. Lorenzo de' Medici nel 1479 andò a Napoli. Non mandò una lettera: salì su una nave e andò. ||| 그럼 인사합시다. 1479년에 로렌초 데 메디치는 나폴리로 갔습니다. 편지를 보내지 않고 배를 타고 직접 갔죠.
+YUSUF: Mi pare di ricordare che Firenze fosse in guerra, in quel momento. ||| 그때 피렌체는 전쟁 중이었던 걸로 기억합니다.
+CORRADO: Con il Papa e con il Re di Napoli, dopo la congiura dei Pazzi. Lorenzo si consegnò, per così dire, nelle mani dell'avversario. ||| 파치 음모 이후라 교황과 나폴리 왕을 상대로요. 로렌초는 말하자면 상대의 손에 자신을 맡긴 셈이죠.
+YUSUF: E cosa ottenne? ||| 그래서 뭘 얻었습니까?
+CORRADO: Rimase mesi, fino alla primavera del 1480. Tornò con una via d'uscita dalla guerra. ||| 이듬해 봄까지 몇 달을 머물렀고, 전쟁에서 빠져나올 길을 들고 돌아왔어요.
+YUSUF: Lorenzo era signore di una città. Lei è un funzionario. ||| 로렌초는 도시의 군주였습니다. 박사님은 공무원이고요.
+CORRADO: Per questo voglio portare qualcuno che possa sedersi con voi. Non un telegramma, un uomo. ||| 그래서 당신들과 함께 앉을 수 있는 사람을 데려가고 싶습니다. 전보가 아니라 사람으로요.
+YUSUF: Parlerò con il ministro Saadi. Ma temo che chieda prima una cosa: il testo italiano dell'Aurora. ||| 사아디 장관께 말씀드리겠습니다. 하지만 먼저 이탈리아 쪽 오로라 원문을 요구할까 걱정입니다.
+CORRADO: Allora lo troverò. A Roma ne ho una copia nel posto più impensato: nella testa di un commesso. ||| 그럼 찾아내겠습니다. 로마에서 가장 뜻밖의 곳에 사본이 하나 있어요. 사환의 머릿속에요.
+ERCOLE: Dice a me? ||| 나 말하는 건가?
+CORRADO: A lei, Ercole. Grazie. Domani tornerò con la lista dei numeri di scaffale. ||| 네, 에르콜레. 고맙습니다. 내일 서가 번호 목록을 들고 다시 올게요.
+YUSUF: Dottore, a questo punto posso chiederle una cosa? Mi dia del tu. Mi suona strano, il Lei, a tavola. ||| 박사님, 이쯤에서 부탁 하나 해도 될까요? 말을 놓으세요. 식탁에서 Lei는 어색합니다.
+CORRADO: Volentieri, Yusuf. E tu chiamami Corrado. ||| 기꺼이, 유수프. 그럼 넌 날 코라도라고 불러.
+YUSUF: Corrado. Non avevo mai mangiato così a Roma. ||| 코라도. 로마에서 이렇게 먹어 본 적이 없어.
+CORRADO: Allora la prossima volta porto Concetta alla vostra ambasciata, a insegnare agli chef. ||| 그럼 다음엔 콘체타 할머니를 대사관에 모셔서 요리사들을 가르치게 할게.
+CONCETTA: Io all'ambasciata? Solo se mi portano il caffè a letto! ||| 내가 대사관에? 침대로 커피 갖다주면 가지!
++ Mi dia del tu = 말을 놓으세요 (dare del tu의 Lei 명령형)
++ chiudere un occhio = 눈감아 주다
++ in sospeso = 보류 중인, 미결인 (conto in sospeso: 미결제 계정)
++ Mi pare di ricordare che… fosse = ~였던 것으로 기억한다 (생각 동사 + 접속법 반과거)
++ la congiura dei Pazzi = 파치 음모(1478), 로렌초의 동생이 살해된 사건
++ non mi risulta = 내가 아는 바로는 아니다 (공식적 부인 표현)
++ Solo se mi portano il caffè a letto! = 침대로 커피를 가져온다면야! (농담, 조건절)

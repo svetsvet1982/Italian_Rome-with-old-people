@@ -1,0 +1,262 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 12
+@title Il conto
+@ko 계산서
+@setting 금요일 새벽 마르사 베이다 항만청 → 월요일 파르네지나 장관 집무실 → 수요일 하원 외교위원회 청문회 → 청문회 뒤 복도 → 일요일 테스타초 보치아 클럽
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast VITALE | 체사레 비탈레, 외무사무총장, 51세
+@cast SAADI | 사아디, 타르시아 교통·항만 장관, 62세
+@cast MINISTRO | 이탈리아 외무장관(이름 미공개)
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast SANDRI | 비토리오 산드리, 은퇴 대사, 70세
+@cast PRESIDENTE | 하원 외교위원회 위원장
+@cast ONOREVOLE | 위원회 위원(야당 측 질의자)
+@cast FEDERICA | 페데리카 루스폴리, 대외정보기관 연락관, 44세
+@cast LEO | 레오 란차, 15세
+@cast ERCOLE | 에르콜레, 전 외무부 사환, 83세
+@cast PEPPINO | 페피노, 보치아 클럽 회원, 79세
+@cast CONCETTA | 노나 콘체타, 보치아 클럽 주방 총괄, 85세
+@cast YUSUF | 유수프 마르조크, 타르시아 대사관 일등서기관, 41세
+@cast BELANDI | 에토레 벨란디 몬시뇰, 바티칸 외교관, 66세
+@note 결산의 화입니다. 1부의 마지막 화입니다. 금요일 새벽, 비탈레는 7일 약속대로 먼저 이탈리아 장관에게, 그다음 마르사 베이다에서 사아디에게 자신의 잘못을 말합니다. 여객선은 풀리고, 비탈레는 사임하며, 란차는 청문회에서 자신이 쓴 비공식 수단을 스스로 밝힙니다. 역사 논거는 로마 공화정의 책임 전통입니다. 임기를 마친 정무관은 공적 자금과 임무에 대해 보고하고 해명(rationem reddere)해야 했습니다. 기원전 187년 스키피오 아프리카누스가 원로원에서 장부를 찢었다는 전승이 있지만, 로마는 이를 영광이자 오점으로 기억했습니다. 란차는 그 반대편을 택합니다. 해법의 순간은 '식탁에서 한 약속은 식탁에서 갚는다'입니다. 청문회의 고백과 마지막 식탁이 한 짝을 이룹니다. 어휘는 책임과 자기 고발의 표현(assumersi la responsabilità, rendere conto), 접속법 대과거, 공식 청문회 어휘에 주목하세요. 마지막에 페데리카가 '스폰다 파이낸스(Sponda Finanza)'라는 이름을 처음 꺼냅니다.
+@next 2부: 부채 탕감 약속의 이면에 있던 이름, 스폰다 파이낸스. 두 해안 사이에서 새로운 협상이 시작됩니다.
+
+## 금요일 새벽, 마르사 베이다 — L'ALBA A MARSA BEIDA
+VITALE: Ministro Saadi, mi chiamo Cesare Vitale. Sono il Segretario Generale del Ministero degli Esteri italiano. ||| 사아디 장관님, 체사레 비탈레입니다. 이탈리아 외무부 사무총장입니다.
+SAADI: So chi è. L'ho vista sulla prima pagina. ||| 알고 있소. 1면에서 보았으니까.
+VITALE: Ieri sera ho parlato con il mio Ministro per un'ora e mezza. Gli ho detto quello che dirò a lei. ||| 어젯밤 우리 장관님과 한 시간 반 통화했습니다. 지금 장관님께 말씀드릴 것을 그분께 먼저 말씀드렸습니다.
+SAADI: E cosa le ha risposto? ||| 그분은 뭐라고 하셨소?
+VITALE: Che oggi parlo a nome suo, e che domani parlo a nome mio. ||| 오늘은 그분의 이름으로 말하고, 내일은 제 이름으로 말하라고요.
+SAADI: Non capisco. ||| 이해가 안 되오.
+VITALE: Oggi le chiedo scusa per conto dello Stato. Domani, quando mi dimetterò, le chiederò scusa per conto mio. ||| 오늘은 국가를 대신해 사과드립니다. 내일 사임한 뒤에는 제 이름으로 사과드리겠습니다.
+SAADI: Dimetterà? ||| 사임하신다고?
+VITALE: Ho firmato la lettera ieri sera, alle undici e mezzo. ||| 어젯밤 11시 반에 서명했습니다.
+SAADI: Mi dica allora le sue colpe. Una per una. ||| 그럼 당신의 죄를 하나씩 말해 보시오.
+VITALE: Prima: nel 1998, ho trasmesso un ordine che indeboliva una parola, e non ho scritto la mia obiezione. ||| 첫째, 1998년에 한 단어를 약하게 만드는 명령을 전하고 이의를 적어 두지 않았습니다.
+SAADI: Seconda? ||| 둘째는?
+VITALE: Nel 2019, appena nominato Segretario, ho ritirato il fascicolo dall'archivio e l'ho nascosto in una cassaforte. ||| 2019년 사무총장에 임명되자마자 서류철을 문서고에서 가져와 금고에 숨겼습니다.
+SAADI: Terza? ||| 셋째는?
+VITALE: Quando ho scoperto che era sparito, per paura ho taciuto. E ho passato a un lobbista un'informazione che non dovevo dare. ||| 사라진 것을 알았을 때 두려워서 침묵했습니다. 그리고 로비스트에게 주어서는 안 될 정보를 흘렸습니다.
+SAADI: Quarta? ||| 넷째는?
+VITALE: La lettera del 1999 è stata «dispensata» con la mia firma, quando ero ancora un funzionario. L'ho appena scoperto: stanotte ho guardato la mia stessa sigla sul timbro. ||| 1999년 서한은 제 서명으로 '면제' 처리됐습니다. 아직 말단 직원이던 때입니다. 방금 알았습니다. 간밤에 도장 위 제 약식 서명을 보았습니다.
+SAADI: Lo ricorda? ||| 기억하시오?
+VITALE: Non lo ricordo. Ma è la mia mano. ||| 기억은 못 합니다. 하지만 제 손입니다.
+SAADI: Perché mi dice una cosa che potrebbe non dirmi? ||| 말하지 않아도 될 걸 왜 내게 말하시오?
+VITALE: Perché Lanza mi ha spiegato che a tavola si lascia un posto per chi ha sbagliato. E che il pane sta finendo. ||| 란차가 말해 줬기 때문입니다. 식탁에는 잘못한 사람의 자리가 남아 있고, 빵이 떨어지고 있다고요.
+SAADI: Il pane è finito da ventisette anni. ||| 빵은 27년 전에 떨어졌소.
+VITALE: Lo so, Ministro. Però adesso ne ho portato un po'. ||| 압니다, 장관님. 그래도 이번엔 조금 가져왔습니다.
+SAADI: Cosa ha portato? ||| 뭘 가져왔소?
+VITALE: Una lettera ufficiale del governo italiano. «L'Italia riconosce che il testo italiano dell'articolo diciassette fa fede, e propone la riconciliazione dei testi nelle forme di un fondo comune di sviluppo». ||| 이탈리아 정부의 공식 서한입니다. '이탈리아는 제17조의 이탈리아어 본문이 효력을 가짐을 인정하며 공동 개발 기금의 형태로 두 본문을 조정할 것을 제안한다.'
+SAADI: «Fa fede». Ha scritto «fa fede». ||| '효력을 가진다'. '효력을 가진다'고 썼군.
+VITALE: Il mio Ministro l'ha scritto con la sua mano, alle una di notte. ||| 우리 장관님이 새벽 1시에 직접 손으로 쓰셨습니다.
+SAADI: E il fondo? ||| 기금은?
+VITALE: Il debito si converte in capitale. Metà dei proventi del giacimento meridionale, con diritto di prima offerta a Tarsia. ||| 부채는 자본으로 전환됩니다. 남부 가스전 수익의 절반을 갖고, 우선 제안권은 타르시아에 있습니다.
+SAADI: Ho già detto a Lanza: ci pensavo. Ora ci ho pensato. ||| 란차에게 생각해 보겠다고 했었소. 이제 생각을 마쳤소.
+VITALE: E cosa decide? ||| 어떻게 결정하셨습니까?
+SAADI: Accetto. Con una condizione. ||| 받아들이오. 조건 하나와 함께.
+VITALE: Quale? ||| 무슨 조건입니까?
+SAADI: Che il giorno della firma l'Italia mandi qualcuno a dire «buongiorno» al mio porto. A voce. ||| 서명하는 날 이탈리아가 내 항구에 와서 '안녕하세요'라고 말해 줄 사람을 보낼 것. 입으로.
+VITALE: Lo farà il Ministro. Di persona. ||| 장관님이 직접 하실 겁니다.
+SAADI: Allora la nave parte. Hamdan, dia l'ordine. ||| 그럼 배는 출항하오. 함단, 명령을 내리게.
++ assumersi la responsabilità = 책임을 지다 (assumersi: 스스로 떠맡다)
++ per conto di = ~을 대신해, ~의 이름으로 (per conto dello Stato)
++ dimettersi = 사임하다 (미래 mi dimetterò)
++ Il pane è finito da ventisette anni = 빵은 27년 전에 떨어졌다 (6화 '빵이 떨어진다'의 변주)
++ fa fede = 효력을 갖는다, 증거가 된다 (11화 연결)
++ buongiorno a voce = 입으로 건네는 인사 (1화의 존중 주제를 닫는 표현)
+
+## 장관과 사무총장 — IL MINISTRO E IL SEGRETARIO
+MINISTRO: Vitale, ho letto la sua lettera tre volte. ||| 비탈레, 자네의 사직서를 세 번 읽었네.
+VITALE: Ministro, è la migliore cosa che ho scritto in trent'anni. ||| 장관님, 30년 동안 쓴 글 중에 가장 나은 겁니다.
+MINISTRO: Non la accetto. ||| 받아들이지 않겠네.
+VITALE: Come? ||| 무슨 말씀이십니까?
+MINISTRO: Non l'accetto oggi. La metto nel cassetto. Prima va completata la firma con Tarsia. ||| 오늘은 받지 않겠다는 거야. 서랍에 넣어 두지. 먼저 타르시아와의 서명을 마쳐야 하네.
+VITALE: Mi sta dicendo che devo restare per firmare e poi andarmene. ||| 서명하려고 남았다가 그 뒤에 떠나라는 말씀이시군요.
+MINISTRO: Sto dicendo che le responsabilità si portano fino in fondo, non si scaricano a metà. ||| 책임은 끝까지 지는 것이고 중간에 내려놓는 게 아니라는 말일세.
+VITALE: Il Gabinetto vorrà un nome per il giornale. ||| 비서실은 신문에 줄 이름을 원할 겁니다.
+MINISTRO: Il Gabinetto avrà il suo. Quello di un uomo che ha detto «sono stato io» quando poteva tacere. ||| 비서실은 자기 이름을 갖게 될 걸세. 침묵할 수 있었는데 '내가 했다'고 말한 사람의 이름이지.
+VITALE: Ministro, lei è troppo generoso. ||| 장관님, 너무 관대하십니다.
+MINISTRO: Non sono generoso. Sono pratico. Un Segretario che parla vale più di un Segretario cacciato. ||| 관대한 게 아니라 실용적인 거야. 말하는 사무총장이 쫓겨난 사무총장보다 낫네.
+GIULIA: Ministro, mi scusi. La Procura ha aperto un fascicolo su Dario Gentilini. ||| 장관님, 실례합니다. 검찰이 다리오 젠틸리니에 대해 수사 기록을 열었습니다.
+MINISTRO: Per cosa? ||| 무슨 혐의로?
+GIULIA: Ricettazione di documenti di Stato e concorso in violazione di segreto. ||| 국가 문서 장물취득과 비밀누설 공모요.
+MINISTRO: E la società? ||| 회사는요?
+GIULIA: Eurogas Meridionale ha sospeso il suo contratto e dichiara di non sapere. ||| 에우로가스 메리디오날레는 계약을 중지했고 몰랐다고 밝혔습니다.
+MINISTRO: Non sapeva. Come sempre. Mi dica, dottoressa: i testi che avete letto a Marsa Beida, sono nelle nostre mani? ||| 몰랐다는군. 늘 그렇지. 말해 보게, 조울리아 박사. 마르사 베이다에서 읽은 본문은 우리 손에 있나?
+GIULIA: Ho le copie autenticate dal notaio Bensalah e dal notaio Pace. Abbiamo ricostruito il 14/C da due fonti pulite. ||| 벤살라 공증인과 파체 공증인이 인증한 사본이 있습니다. 깨끗한 두 출처로 14/C를 복원했습니다.
+MINISTRO: Pulite? ||| 깨끗한?
+GIULIA: Pulite nel senso che le posso mostrare in aula. ||| 청문회장에서 보여 드릴 수 있다는 뜻으로요.
+MINISTRO: Bene. Lanza, adesso a lei. ||| 좋아. 란차, 이제 자네 차례네.
+CORRADO: Ministro. ||| 장관님.
+MINISTRO: Mercoledì c'è l'audizione alla Commissione Esteri. Vogliono sapere chi ha fatto cosa. ||| 수요일에 외교위원회 청문회가 있네. 누가 무엇을 했는지 알고 싶어 해.
+CORRADO: Io dirò chi ha fatto cosa. Compreso me. ||| 누가 무엇을 했는지 말씀드리겠습니다. 저 자신도 포함해서요.
+MINISTRO: Lei? Cos'ha fatto? ||| 자네? 자네가 무엇을 했나?
+CORRADO: Cose che un negoziatore non dovrebbe fare senza un ordine scritto. ||| 협상관이 서면 명령 없이는 하지 말아야 하는 일들입니다.
+MINISTRO: Si spieghi. ||| 설명해 보게.
+CORRADO: Non qui. Davanti alla Commissione. Perché le cose dette due volte, nello stesso modo, diventano verità. ||| 여기서는 아닙니다. 위원회 앞에서요. 같은 방식으로 두 번 말하면 진실이 되니까요.
+MINISTRO: Non le conviene. ||| 자네에게 이롭지 않을 걸세.
+CORRADO: Lo so, Ministro. Mio figlio dice che le vittorie che non si possono raccontare non sono vittorie. ||| 압니다, 장관님. 제 아들이 그러더군요. 이야기할 수 없는 승리는 승리가 아니라고.
+MINISTRO: Suo figlio ha quindici anni? ||| 아드님이 열다섯인가?
+CORRADO: Quindici. ||| 열다섯입니다.
+MINISTRO: A quindici anni si ha ragione più spesso che a cinquanta. ||| 열다섯 살이 쉰 살보다 더 자주 옳지.
++ cassetto = 서랍 (사직서를 서랍에 넣다: 보류의 관용)
++ le responsabilità si portano fino in fondo = 책임은 끝까지 진다 (수동의 si)
++ ricettazione / violazione di segreto = 장물취득 / 비밀누설 (형법 용어)
++ concorso = 공모, 공범 (concorso in)
++ in aula = 법정·청문회장에서 (aula: 강당, 공식 자리)
++ non le conviene = 자네에게 이롭지 않다 (convenire)
+
+## 청문회 — L'AUDIZIONE
+SANDRI: Corrado, un'ultima storia prima che entri. Solo un'ultima. ||| 코라도, 들어가기 전에 이야기 하나만 더 하겠네. 정말 마지막일세.
+CORRADO: Eccellenza, mancano quattro minuti. ||| 대사님, 4분 남았습니다.
+SANDRI: Basta. A Roma, quando un magistrato finiva il mandato, doveva rendere conto di tutto: del denaro, delle truppe, delle promesse. ||| 충분하네. 로마에서는 정무관이 임기를 마치면 모든 것을 보고해야 했지. 돈과 군대와 약속에 대해서.
+CORRADO: Rationem reddere. ||| 해명을 올리다.
+SANDRI: Esatto. Si racconta che nel 187 avanti Cristo Scipione l'Africano, accusato di conti poco chiari, prese in Senato il registro e lo strappò. ||| 맞네. 기원전 187년 스키피오 아프리카누스가 회계가 불분명하다는 고발을 받자 원로원에서 장부를 집어 찢었다고 전해지지.
+CORRADO: E Roma? ||| 그래서 로마는요?
+SANDRI: Lo ricordò come una gloria e una macchia. Tutti e due. ||| 영광이자 오점으로 기억했네. 둘 다.
+CORRADO: Una macchia perché non rese conto. ||| 해명하지 않아서 오점이군요.
+SANDRI: Una macchia perché l'uomo più grande di Roma disse: «Io sono Roma, non i miei conti». ||| 로마에서 가장 위대한 사람이 '나는 로마이지 내 장부가 아니다'라고 말했기 때문이지.
+CORRADO: Eccellenza, non sono Scipione. ||| 대사님, 저는 스키피오가 아닙니다.
+SANDRI: Per fortuna. Va', e porta il registro aperto. ||| 다행이지. 가게. 그리고 장부를 펼친 채로 가져가게.
+PRESIDENTE: La seduta è aperta. Audizione del dottor Corrado Lanza, negoziatore della Direzione per le Crisi. ||| 개회를 선언합니다. 위기대응국 협상관 코라도 란차 박사의 청문입니다.
+CORRADO: Presidente, onorevoli, prima di rispondere alle domande desidero fare una dichiarazione. ||| 위원장님, 위원 여러분, 질문에 답하기 전에 먼저 진술을 하고자 합니다.
+PRESIDENTE: Prego. ||| 하십시오.
+CORRADO: Nella gestione della crisi della «Principessa Giulia» ho usato mezzi non ufficiali. Voglio elencarli. ||| '프린치페사 줄리아' 사태를 처리하면서 비공식 수단을 썼습니다. 열거하겠습니다.
+PRESIDENTE: Mezzi non ufficiali. In una sede ufficiale. ||| 비공식 수단이라. 공식 자리에서.
+CORRADO: Proprio per questo. Primo: ho organizzato una cena informale in un circolo di bocce, a Testaccio, con un diplomatico straniero. Nessun verbale. ||| 그래서입니다. 첫째, 테스타초의 보치아 클럽에서 외국 외교관과 비공식 만찬을 열었습니다. 기록은 없습니다.
+ONOREVOLE: Una cena. Pagata da chi? ||| 만찬이라. 누가 냈습니까?
+CORRADO: Da me. E da chi ha cucinato, che non ha voluto un euro. ||| 제가요. 그리고 돈을 한 푼도 받지 않은 요리하신 분이요.
+ONOREVOLE: Prosegua. ||| 계속하세요.
+CORRADO: Secondo: ho ricevuto da un servizio di informazione un dossier su un ministro straniero, ottenuto senza autorizzazione giudiziaria. L'ho letto. Non l'ho usato. L'ho restituito sigillato. ||| 둘째, 정보기관에서 외국 장관에 대한 자료를 받았습니다. 사법 허가 없이 얻은 것입니다. 읽었고, 쓰지 않았으며, 봉인해서 돌려줬습니다.
+ONOREVOLE: L'ha letto. ||| 읽으셨다고요.
+CORRADO: L'ho letto, onorevole. E ho promesso in cambio un favore. Quel favore è un debito che sto ancora cercando di capire come pagare. ||| 읽었습니다, 위원님. 그리고 대가로 호의를 약속했습니다. 그 호의는 아직도 어떻게 갚아야 할지 고민 중인 빚입니다.
+ONOREVOLE: Un debito con i servizi. ||| 정보기관에 대한 빚이로군요.
+CORRADO: Sì. Terzo: ho negoziato su un ponte di nave, con un ministro straniero, senza un mandato scritto preventivo. Ho ottenuto il mandato dopo, al telefono, il giorno seguente. ||| 네. 셋째, 서면 위임 없이 배 갑판에서 외국 장관과 협상했습니다. 위임은 다음 날 전화로 받았습니다.
+ONOREVOLE: Un mandato retroattivo. ||| 소급 위임이군요.
+CORRADO: Sì, retroattivo. Quarto: ho fatto fotografare, con il consenso di una funzionaria, un timbro nell'archivio. Fuori dalle procedure. ||| 네, 소급입니다. 넷째, 문서고 직원의 동의를 얻어 문서고의 도장 한 개를 사진으로 찍게 했습니다. 절차 밖에서요.
+ONOREVOLE: Nient'altro? ||| 그게 전부입니까?
+CORRADO: Quinto: ho scritto su un tovagliolo, firmandolo, che l'Italia non avrebbe smentito l'esistenza del Memorandum. Non era una firma ufficiale. Ma gli ho dato valore, e ne rispondo. ||| 다섯째, 이탈리아가 각서의 존재를 부인하지 않겠다고 냅킨에 적고 서명했습니다. 공식 서명은 아니었습니다. 하지만 가치를 부여했고, 그에 대해 책임을 지겠습니다.
+PRESIDENTE: Un tovagliolo. ||| 냅킨이라.
+CORRADO: Sì, Presidente. A volte l'unica carta disponibile è quella su cui si mangia. ||| 네, 위원장님. 가끔은 쓸 수 있는 종이가 식사하는 종이뿐일 때가 있습니다.
++ rendere conto di tutto = 모든 것을 해명하다 (rationem reddere의 이탈리아어)
++ lo strappò = 그것을 찢었다 (원격과거 strappare)
++ la seduta è aperta = 개회를 선언합니다 (의회 용어)
++ mezzi non ufficiali = 비공식 수단
++ mandato retroattivo = 소급 위임 (retroattivo)
++ ne rispondo = 그에 대해 책임을 진다 (rispondere di)
+## 질문과 답 — DOMANDE E RISPOSTE
+ONOREVOLE: Dottor Lanza, lei si è appena accusato di cinque irregolarità. Perché? ||| 란차 박사, 방금 다섯 가지 불규칙을 스스로 고발하셨습니다. 왜입니까?
+CORRADO: Perché la Commissione le avrebbe scoperte comunque. E perché è meglio che le dica io, con il contesto. ||| 위원회가 어차피 알아냈을 테니까요. 그리고 제가 맥락과 함께 말씀드리는 편이 낫기 때문입니다.
+ONOREVOLE: È una strategia. ||| 전략이로군요.
+CORRADO: Può darsi. Ma lo è anche la verità. Non sempre sono due cose in conflitto. ||| 그럴 수 있습니다. 하지만 진실도 전략입니다. 늘 상충하는 두 가지는 아니죠.
+ONOREVOLE: Rifarebbe tutto? ||| 전부 다시 하시겠습니까?
+CORRADO: No. Non rifarei la cena senza un verbale, né il mandato dopo. Rifarei il tovagliolo. ||| 아니요. 기록 없는 만찬도, 사후 위임도 다시 하지 않겠습니다. 냅킨은 다시 하겠습니다.
+ONOREVOLE: Perché il tovagliolo sì? ||| 냅킨은 왜 다시 합니까?
+CORRADO: Perché lì ho scritto una cosa vera, e ne rispondevo in prima persona. ||| 거기에는 진실을 적었고 제가 직접 책임졌으니까요.
+ONOREVOLE: E il favore ai servizi? ||| 정보기관에 대한 호의는요?
+CORRADO: Lo pagherò. Ma in modo che questa Commissione possa vederlo. ||| 갚겠습니다. 다만 이 위원회가 볼 수 있는 방식으로요.
+PRESIDENTE: Dottor Lanza, il Segretario Vitale ha presentato le dimissioni. Lei le ritiene sufficienti? ||| 란차 박사, 비탈레 사무총장이 사표를 냈습니다. 그것으로 충분하다고 보십니까?
+CORRADO: Presidente, le dimissioni sono una forma. Il contenuto è quello che il Segretario ha detto al ministro tarsiano, venerdì. ||| 위원장님, 사임은 형식입니다. 내용은 금요일에 사무총장이 타르시아 장관에게 한 말입니다.
+PRESIDENTE: E cosa ha detto? ||| 무슨 말을 했습니까?
+CORRADO: Che una parola indebolita nel 1998 non è un incidente di traduzione, ma una scelta. E che le scelte hanno un nome. ||| 1998년에 약해진 한 단어는 번역 사고가 아니라 선택이었다고요. 그리고 선택에는 이름이 있다고요.
+PRESIDENTE: Il Segretario sarà ascoltato in seduta separata. ||| 사무총장은 별도 청문에서 듣겠습니다.
+CORRADO: Presidente, un'ultima cosa. ||| 위원장님, 마지막 한 가지가 있습니다.
+PRESIDENTE: La ascolto. ||| 말씀하세요.
+CORRADO: Quaranta ragazzi sono tornati a casa. Nessuno di loro sa il nome di nessuno di noi. Va bene così. ||| 아이들 마흔 명이 집으로 돌아갔습니다. 우리 중 누구의 이름도 아무도 모릅니다. 그걸로 좋습니다.
+PRESIDENTE: Una conclusione modesta. ||| 겸손한 결론이군요.
+CORRADO: La diplomazia riuscita non ha nome. Ha un tavolo, e qualcuno che apparecchia. ||| 성공한 외교에는 이름이 없습니다. 식탁이 있고, 상을 차리는 사람이 있을 뿐이죠.
+PRESIDENTE: La seduta è sospesa. ||| 정회합니다.
++ rifare / rifarei = 다시 하다 / 다시 할 것이다 (조건법 현재, 가정의 대답)
++ in prima persona = 직접, 본인이 (책임을 지는 방식)
++ presentare le dimissioni = 사표를 내다 (dimissioni는 복수)
++ seduta sospesa = 정회 (의회 용어)
++ Può darsi. = 그럴 수 있다. (가능성의 관용 표현)
++ apparecchiare = 식탁을 차리다 (외교를 상 차리기에 빗댄 표현)
+
+## 복도의 이름 — IL NOME NEL CORRIDOIO
+FEDERICA: Hai fatto una cosa che non ti ho mai visto fare: dire la verità in pubblico. ||| 네가 한 번도 한 적 없는 걸 하는 걸 봤어. 공개적으로 진실을 말하는 거.
+CORRADO: Ci ho messo quarantasei anni. ||| 마흔여섯 해 걸렸지.
+FEDERICA: E hai parlato di me. «Un servizio di informazione». ||| 그리고 나에 대해서도 말했어. '정보기관 한 곳'이라고.
+CORRADO: Senza il nome. ||| 이름은 안 밝혔어.
+FEDERICA: Grazie. Anche questo è un debito. ||| 고마워. 이것도 빚이네.
+CORRADO: Allora siamo di nuovo in pari? ||| 그럼 또 비긴 건가?
+FEDERICA: No. Adesso devo io qualcosa a te, quindi il conto si riapre da dove si riapre sempre. ||| 아니. 이제 내가 너한테 빚졌으니, 계산서는 늘 다시 열리는 데서 다시 열려.
+CORRADO: Dove? ||| 어디서?
+FEDERICA: Dal nome che ti avevo promesso quando sarebbe stato pulito. ||| 깨끗해지면 말해 주기로 했던 이름에서.
+CORRADO: Il secondo datore di lavoro di Gentilini. ||| 젠틸리니의 두 번째 고용주.
+FEDERICA: Sponda Finanza. ||| 스폰다 파이낸스.
+CORRADO: Sponda Finanza. Mai sentita. ||| 스폰다 파이낸스. 들어 본 적 없는데.
+FEDERICA: Nessuno l'ha sentita. È un fondo con sede in un posto dove le sedi sono più numerose degli uffici. ||| 아무도 못 들어 봤지. 사무실보다 주소지가 더 많은 곳에 적을 둔 펀드야.
+CORRADO: E cosa c'entra con Tarsia? ||| 그게 타르시아와 무슨 상관이야?
+FEDERICA: Nel 2019, l'anno in cui Vitale diventa Segretario, un pacchetto di crediti verso Tarsia è stato ceduto. Per pochi centesimi per euro. ||| 2019년, 비탈레가 사무총장이 된 해에 타르시아에 대한 채권 묶음이 팔렸어. 1유로에 몇 센트 값으로.
+CORRADO: Ceduto a chi? ||| 누구에게?
+FEDERICA: A uno schermo, e dietro lo schermo c'è Sponda Finanza. ||| 간판 회사에게. 그리고 그 뒤에 스폰다 파이낸스가 있어.
+CORRADO: Se l'Italia avesse condonato quel debito nel 1998, quei crediti non esisterebbero. ||| 1998년에 이탈리아가 그 빚을 탕감했다면 그 채권은 존재하지도 않을 텐데.
+FEDERICA: Esatto. Chi li ha comprati aveva bisogno che Aurora fosse «dimenticata». ||| 맞아. 그걸 산 쪽은 오로라가 '잊히길' 바랐지.
+CORRADO: Per questo il 14/C è sparito proprio nel 2019. ||| 그래서 14/C가 하필 2019년에 사라진 거군.
+FEDERICA: Non proprio. Il 14/C lo ha ritirato Vitale. Ma chi gli ha detto che era una buona idea ritirarlo? ||| 꼭 그렇진 않아. 14/C를 가져간 건 비탈레야. 하지만 가져가는 게 좋은 생각이라고 누가 말했을까?
+CORRADO: Gentilini. ||| 젠틸리니.
+FEDERICA: Un amico. Con le scarpe lucide. ||| 친구가. 반짝이는 구두를 신은.
+CORRADO: E Sponda Finanza, adesso? ||| 그럼 스폰다 파이낸스는 지금은?
+FEDERICA: Non muove un dito. Aspetta. Un fondo come quello compra le sponde e vende i ponti. ||| 꼼짝도 안 해. 기다리지. 그런 펀드는 해안을 사고 다리를 팔거든.
+CORRADO: Due sponde. ||| 두 개의 해안.
+FEDERICA: Due sponde, sì. Il mio conto, stavolta, è semplice: voglio che lavoriamo insieme. ||| 두 해안, 맞아. 이번 내 계산서는 간단해. 같이 일하자는 거야.
+CORRADO: Insieme significa con le mani pulite o sporche? ||| 같이 일한다는 게 손이 깨끗하게야, 더럽게야?
+FEDERICA: Dipende da chi tiene il tovagliolo. ||| 냅킨을 누가 쥐느냐에 따라 다르지.
+CORRADO: Domenica ho un pranzo. Vieni. ||| 일요일에 점심 약속이 있어. 와.
+FEDERICA: Io non vado ai pranzi. ||| 난 점심 자리에 안 가.
+CORRADO: Questo è un pranzo con una nonna che ti guarda e dice se sei affamata o no. ||| 할머니 한 분이 널 쳐다보고 배고픈지 아닌지 판가름해 주는 점심이야.
+FEDERICA: ... A che ora? ||| …몇 시에?
++ in pari = 비긴, 청산된 (siamo in pari)
++ un pacchetto di crediti = 채권 묶음 (금융 용어)
++ uno schermo = 간판 회사, 위장 회사 (società schermo)
++ Se l'Italia avesse condonato..., non esisterebbero = 탕감했다면 존재하지 않을 것이다 (혼합 가정문)
++ comprare le sponde e vendere i ponti = 해안은 사고 다리는 판다 (2부 제목 '두 해안'의 복선)
++ Dipende da chi tiene il tovagliolo = 냅킨을 누가 쥐느냐에 달렸다 (몸짓·식탁 은유)
+
+## 식탁에서 갚다 — IL CONTO A TAVOLA
+CONCETTA: Aò, chi è questa magra? Siedi, che ti do da mangiare. ||| 어머, 이 마른 아가씨는 누구야? 앉아, 먹을 걸 줄게.
+FEDERICA: Signora, io non mangio molto. ||| 할머니, 저는 많이 안 먹어요.
+CONCETTA: Tutti dicono così. Poi mangiano due volte. ||| 다들 그렇게 말하지. 그리고 두 번씩 먹어.
+ERCOLE: Corrado, ti ho portato la lista dei numeri di scaffale. Con trent'anni di ritardo. ||| 코라도, 서가 번호 목록을 가져왔네. 30년 늦게.
+CORRADO: Ercole, la lista l'avevo già: me l'ha data Innes. ||| 에르콜레, 목록은 이미 있었어요. 이네스가 줬거든요.
+ERCOLE: Ma la mia ha le note a matita. Una nota per ogni scaffale: chi ci metteva le mani e chi ci metteva il mento. ||| 그래도 내 건 연필 메모가 있지. 서가마다 메모를 달았어. 손을 대던 사람과 턱을 괴던 사람.
+PEPPINO: Quello del mento, in genere, era Vitale. ||| 턱 괴던 사람은 대개 비탈레였지.
+CORRADO: Peppino, non lo conoscevi. ||| 페피노, 그분을 몰랐잖아요.
+PEPPINO: Mi è bastato guardarlo in televisione. ||| 텔레비전으로 보는 것만으로 충분했어.
+GIULIA: Dottore, il vino è arrivato. Anche l'olio nuovo. ||| 박사님, 와인이 도착했어요. 햇올리브유도요.
+YUSUF: E il dolce. Con i datteri di mia madre... della madre del ministro. ||| 그리고 디저트요. 우리 어머니의… 아니, 장관님 어머니 대추야자로 만든 거예요.
+CONCETTA: Datteri e ricotta. Io non sapevo nemmeno che si potessero accostare. ||| 대추야자와 리코타. 같이 놓을 수 있는 줄도 몰랐네.
+YUSUF: Neanche io. Ma per Corrado ho imparato a mischiare. ||| 저도요. 하지만 코라도 때문에 섞는 법을 배웠어요.
+CORRADO: Concetta, ricordi la promessa dell'ambasciata? Quella del tavolo, di due settimane fa. ||| 콘체타, 대사관 약속 기억해요? 2주 전 식탁에서 한 거요.
+CONCETTA: Io? Ho detto «solo se mi portano il caffè a letto». ||| 내가? '침대로 커피를 가져온다면'이라고 했지.
+YUSUF: Ho comprato un letto, nonna. Lo mettiamo nella cucina dell'ambasciata. ||| 침대를 샀어요, 할머니. 대사관 주방에 놓을 거예요.
+CONCETTA: Questo ragazzo è pazzo. Ma mi piace. ||| 이 청년 미쳤네. 그래도 마음에 들어.
+SANDRI: Corrado, ho sentito il verbale dell'audizione. ||| 코라도, 청문회 기록을 들었네.
+CORRADO: E, Eccellenza? ||| 어땠습니까, 대사님?
+SANDRI: Hai portato il registro aperto. Stai ancora in piedi. È un buon segno. ||| 장부를 펼쳐서 가져갔더군. 아직 서 있어. 좋은 징조야.
+BELANDI: Io ho pregato. Poi ho cucinato. Ora mangio. L'ordine è questo. ||| 난 기도했네. 그다음 요리했고. 이제 먹지. 순서는 그렇다네.
+LEO: Papà, adesso hai vinto davvero? ||| 아빠, 이제 정말로 이긴 거예요?
+CORRADO: Non lo so. Abbiamo pagato. ||| 모르겠다. 우리는 값을 치렀어.
+LEO: E non è la stessa cosa? ||| 그게 같은 거 아니에요?
+CORRADO: No. Vincere è prendere. Pagare è restare. ||| 아니. 이기는 건 가져가는 거고, 값을 치르는 건 남는 거야.
+LEO: Questa non è un biscotto della fortuna. È un biscotto vero. ||| 이건 포춘 쿠키가 아니네요. 진짜 쿠키예요.
+CORRADO: Mangiane uno. Il resto lo finiscono i nonni. ||| 하나 먹어라. 나머지는 할아버지들이 끝낼 거야.
+FEDERICA: Un posto per me c'è? ||| 내 자리는 있어?
+CONCETTA: Qui, accanto a me, che ti tengo d'occhio. ||| 여기, 내 옆. 내가 지켜볼게.
+FEDERICA: Signora, ho una pistola. ||| 할머니, 저 권총 있는데요.
+CONCETTA: E io un mattarello. Siediti. ||| 난 밀방망이가 있어. 앉아.
+ERCOLE: Corrado, brindiamo? ||| 코라도, 건배할까?
+CORRADO: A cosa? ||| 무엇을 위해서요?
+ERCOLE: A quello che si è promesso a tavola. ||| 식탁에서 약속한 것을 위해서.
+CORRADO: Allora lo dico io. Quello che si promette a tavola, si paga a tavola. ||| 그럼 제가 말하겠습니다. 식탁에서 한 약속은 식탁에서 갚는 겁니다.
+CONCETTA: Amen. E mangia, che si fredda. ||| 아멘. 그리고 먹어, 식어.
++ Aò = 어이, 야 (로마 사투리의 호출)
++ ti do da mangiare = 먹을 걸 주마 (dare da mangiare)
++ accostare = 나란히 놓다, 어울리게 하다 (대추야자와 리코타)
++ tenere d'occhio = 지켜보다, 눈을 떼지 않다
++ mattarello = 밀방망이 (콘체타의 농담)
++ Quello che si promette a tavola, si paga a tavola = 식탁에서 약속한 것은 식탁에서 갚는다 (수동의 si, 시리즈 모토)

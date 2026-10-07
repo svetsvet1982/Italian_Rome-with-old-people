@@ -1,0 +1,135 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 10
+@title Trattare sul traghetto
+@ko 여객선에서의 협상
+@setting 화요일 마르사 베이다 부두 → «프린치페사 줄리아» 상갑판 → 해질녘 선미 → 밤 갑판 → 새벽
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast SAADI | 사아디, 타르시아 교통·항만 장관, 62세
+@cast HAMDAN | 나디르 함단, 마르사 베이다 항만청장, 55세
+@cast BRANCATI | 알도 브란카티, 선장, 58세
+@cast MONTI | 일라리아 몬티, 인솔 교사, 47세
+@cast SOFIA | 소피아, 고등학생, 16세
+@cast MATTIA | 마티아, 고등학생, 17세
+@note 물밑 협상의 화입니다. 5화에서 사아디 장관이 받아들인 '배 위, 학생들 옆에서의 면담'이 실현됩니다. 해법의 순간은 학생들이 해질녘에 부른 «산타 루치아»입니다. 사아디는 1980년대 후반 나폴리에서 유학했고, 이 곡을 하숙집 주인에게서 배웠습니다. 란차가 나폴리말로 한마디 받자 협상의 온도가 바뀝니다. 역사 논거는 오시모 조약(1975년 11월 10일 서명)입니다. 이탈리아와 유고슬라비아는 수개월 동안 비밀리에 협상하여, 1954년 런던 각서로 임시 관리 상태였던 트리에스테 자유지구의 A구역과 B구역의 경계를 확정 국경으로 굳혔습니다. 조약은 의회에 늦게 알려져 논란이 컸지만, 20년 넘게 '임시'로 남아 있던 문제를 닫았습니다. 어휘는 협상 용어(riservatezza, trattativa, mettere nero su bianco), 노래·고향 어휘, 나폴리말 한 줄에 주목하세요.
+@next 11화: 이탈리아어 원문과 타르시아어판을 나란히 놓고 제17조를 읽습니다. 단어 하나의 차이가 드러납니다.
+
+## 부두에서 — IN BANCHINA
+HAMDAN: Dottor Lanza, benvenuto a Marsa Beida. Questa volta è senza ruggine. ||| 란차 박사님, 마르사 베이다에 오신 걸 환영합니다. 이번엔 녹슬지 않았군요.
+CORRADO: Direttore Hamdan, la rugine è lei che ne parla. Io ho solo lavato la camicia. ||| 함단 청장님, 녹슬었다고 말씀하시는 건 청장님이시죠. 저는 셔츠만 빨았습니다.
+HAMDAN: Ho letto il suo biglietto per il capitano: scritto a mano. ||| 선장님께 쓰신 쪽지를 읽었습니다. 손으로 쓰셨더군요.
+CORRADO: Ho chiesto io che lo scrivesse a mano. ||| 제가 손으로 쓰시라고 했습니다.
+HAMDAN: Trent'anni di lavoro e mai nessuno mi aveva scritto una riga a penna per salutarmi. ||| 30년 일했지만 인사하자고 펜으로 한 줄 써 보낸 사람은 처음입니다.
+CORRADO: Era la cosa che l'Italia aveva dimenticato. ||| 이탈리아가 잊고 있던 일이죠.
+HAMDAN: Lo so. Per questo ho accettato la visita del ministro. ||| 압니다. 그래서 장관님의 방문을 받아들였죠.
+CORRADO: Il ministro è già a bordo? ||| 장관님은 벌써 승선하셨습니까?
+HAMDAN: Arriva alle quattro, con la sua auto bianca. Scenderà a piedi sul pontile, perché dice che l'auto «fa troppo governo». ||| 4시에 흰 차로 도착하십니다. 차가 '너무 정부 같다'며 부두에서는 걸어 내리실 거예요.
+CORRADO: È un uomo con dei principi. ||| 원칙이 있는 분이로군요.
+HAMDAN: È un uomo con una memoria. Sono cose diverse, e spesso peggiori. ||| 기억이 있는 분입니다. 그건 다른 것이고, 종종 더 고약하죠.
+CORRADO: E gli studenti? ||| 학생들은요?
+HAMDAN: Quaranta ragazzi che da troppi giorni dormono su un ponte con trentotto gradi. Hanno fatto una cosa sola di ogni giorno. ||| 38도의 갑판에서 너무 오랜 날을 자고 있는 아이들 마흔 명입니다. 하루하루가 한 덩어리가 됐죠.
+CORRADO: Posso salire? ||| 올라가도 되겠습니까?
+HAMDAN: Salga. Il capitano la aspetta con il caffè. ||| 올라가세요. 선장님이 커피를 들고 기다리십니다.
+BRANCATI: Dottor Lanza! Era ora. Sa che il caffè di bordo è finito? ||| 란차 박사님! 마침내 오셨군요. 선상 커피가 떨어진 거 아십니까?
+CORRADO: Ho portato tre chili di caffè e due teglie di sfogliatelle. ||| 커피 3킬로와 스폴리아텔레 두 판을 가져왔습니다.
+BRANCATI: Lei è un dono del cielo. Ma le sfogliatelle sono per i ragazzi, non per me. ||| 하늘이 내린 분이시군요. 하지만 스폴리아텔레는 아이들 몫이지 제 몫이 아닙니다.
+CORRADO: Capitano, anche un comandante ha diritto a una sfogliatella. ||| 선장님, 선장도 스폴리아텔레 하나쯤은 드실 권리가 있습니다.
+BRANCATI: Allora una sola. Dopo averli serviti tutti, il capitano mangia. ||| 그럼 하나만요. 전원에게 나눠 준 뒤에야 선장은 먹습니다.
+CORRADO: Come sta l'equipaggio? ||| 승무원들은 어떻습니까?
+BRANCATI: Stanchi, ma non arrabbiati. È più facile non arrabbiarsi quando si sa perché si aspetta. ||| 지쳤지만 화내지는 않습니다. 왜 기다리는지 알면 덜 화나는 법이죠.
+CORRADO: Non lo sapevano, fino a ieri. ||| 어제까지는 몰랐죠.
+BRANCATI: Ora lo sanno. Gliel'ho detto io: «Non siamo prigionieri, siamo ospiti non salutati». ||| 이제는 압니다. 제가 말해 줬거든요. '우리는 죄수가 아니라 인사를 못 받은 손님이다.'
+CORRADO: Bella formula. ||| 멋진 표현이네요.
+BRANCATI: Me l'ha insegnata lei. ||| 박사님께 배운 겁니다.
+CORRADO: Io le ho solo prestato le parole. ||| 저는 말을 빌려 드렸을 뿐이죠.
++ senza ruggine = 녹슬지 않은 (함단의 농담: 1화의 녹슨 배)
++ fare troppo governo = 너무 정부 같다 (농담, 소탈한 장관의 취향)
++ scrivere a mano / a penna = 손으로 쓰다 / 펜으로 쓰다
++ ospiti non salutati = 인사를 못 받은 손님들 (선장의 표현)
++ era ora = 이제야 오는군요 (늦음을 나무라는 관용)
++ Dopo averli serviti tutti = 모두에게 나눠 준 뒤에 (dopo + avere + 과거분사)
+
+## 갑판의 장관 — IL MINISTRO SUL PONTE
+SAADI: Dottor Lanza. Mi hanno detto che parla l'arabo con l'accento di Napoli. ||| 란차 박사. 나폴리 억양으로 아랍어를 하신다고 들었소.
+CORRADO: Eccellenza, io parlo italiano con l'accento di Napoli. L'arabo lo mastico. ||| 장관님, 저는 나폴리 억양으로 이탈리아어를 합니다. 아랍어는 씹을 줄 아는 정도죠.
+SAADI: Si siede? ||| 앉으시겠소?
+CORRADO: Dove lei vuole. ||| 장관님이 원하시는 곳에요.
+SAADI: Qui, sulle casse, vicino ai ragazzi. Mi hanno promesso che non mi tireranno niente. ||| 여기 상자 위, 아이들 옆에. 아무것도 던지지 않기로 약속했다더군.
+CORRADO: Hanno quindici anni. Non promettono niente. ||| 열다섯 살들이에요. 약속 같은 건 안 합니다.
+SAADI: Allora mi siedo con coraggio. ||| 그럼 용기를 내서 앉겠소.
+CORRADO: Ministro, comincio io, se permette. Non porto nessun documento. ||| 장관님, 괜찮으시면 제가 먼저 말씀드리겠습니다. 저는 어떤 서류도 가져오지 않았습니다.
+SAADI: Strano. A Roma tutti vengono con una cartella. ||| 이상하군. 로마 사람은 다들 서류 가방을 들고 오는데.
+CORRADO: Mi hanno suggerito di portare qualcosa di mio. Ho portato i miei errori. ||| 제 것을 하나 가져오라는 충고를 들었습니다. 그래서 제 실수들을 가져왔습니다.
+SAADI: Mi interessano. Li elenchi. ||| 흥미롭군. 읊어 보시오.
+CORRADO: Primo: abbiamo lasciato che il vostro porto aspettasse la visita per vent'anni. ||| 첫째, 귀하의 항구가 20년 동안 방문을 기다리게 내버려 뒀습니다.
+SAADI: Vent'anni e quattro mesi. ||| 20년하고 4개월이오.
+CORRADO: Secondo: nel 1998 abbiamo firmato una carta e non l'abbiamo tradotta bene. ||| 둘째, 1998년에 문서에 서명하고도 번역을 제대로 하지 않았습니다.
+SAADI: Questa è un'accusa seria. ||| 중대한 비난이군.
+CORRADO: È una confessione. ||| 고백입니다.
+SAADI: Perché me la fa ora? ||| 왜 지금 하시오?
+CORRADO: Perché la sua nave ha dentro quaranta ragazzi che non c'entrano. ||| 장관님의 배 안에 아무 상관 없는 아이들이 마흔 명 있으니까요.
+SAADI: La nave non è mia. È italiana. ||| 배는 내 것이 아니오. 이탈리아 배지.
+CORRADO: Nel suo porto, però, è sotto la sua legge. ||| 하지만 귀하의 항구에서는 귀하의 법 아래 있습니다.
+SAADI: E sotto la sua legge, quei ragazzi hanno diritto di tornare a casa. ||| 그리고 내 법 아래서 그 아이들은 집으로 돌아갈 권리가 있소.
+CORRADO: Lo riconosce? ||| 인정하십니까?
+SAADI: Lo riconosco. Ma non c'è solo la legge. C'è la dignità. ||| 인정하오. 하지만 법만 있는 게 아니오. 존엄이 있지.
+CORRADO: Mi dica cosa serve alla dignità. ||| 존엄에 무엇이 필요한지 말씀해 주십시오.
+SAADI: Che un documento che porta la firma di entrambi non sia chiamato «una carta senza valore» da un giornale italiano. ||| 양측 서명이 있는 문서를 이탈리아 신문이 '효력 없는 종이'라 부르지 않는 것.
+CORRADO: Il giornale ha scritto il contrario. ||| 신문은 그 반대로 썼습니다.
+SAADI: Il giornale. Ma il vostro Gabinetto stava per smentire. ||| 신문은 그랬소. 하지만 당신들 비서실은 부인하려고 했지.
+CORRADO: Non smentiremo. ||| 부인하지 않을 겁니다.
+SAADI: Me lo dice oggi, ma i vostri ministri cambiano idea con le stagioni. ||| 오늘은 그렇게 말해도 당신네 장관들은 계절 따라 생각이 바뀌지.
+CORRADO: Allora non lo dica a me. Lo scrivo qui. ||| 그럼 제게 말씀 마시고 여기에 적겠습니다.
+SAADI: Su cosa? ||| 무엇에요?
+CORRADO: Su questo tovagliolo. Quaranta ragazzi mi hanno già insegnato a scrivere su un tovagliolo. ||| 이 냅킨에요. 아이들 마흔 명이 벌써 냅킨에 쓰는 법을 가르쳐 줬거든요.
+SAADI: Un tovagliolo? ||| 냅킨이라고?
+CORRADO: «L'Italia non smentisce l'esistenza del Memorandum Aurora. Chiede di leggerne i due testi insieme». Nome e data. ||| '이탈리아는 오로라 각서의 존재를 부인하지 않는다. 두 본문을 함께 읽자고 요청한다.' 이름과 날짜입니다.
+SAADI: Lo firmerebbe su un tovagliolo? ||| 냅킨에 서명하시겠소?
+CORRADO: Su un tovagliolo, sì. Almeno nessuno potrà dire che l'ho scritto in un ufficio. ||| 냅킨이면 됩니다. 사무실에서 썼다는 말은 아무도 못 할 테니까요.
++ lo mastico = (어느 언어를) 어설프게 씹는다 (비유: 서투르게 구사하다)
++ non c'entrano = 상관없다, 관련 없다 (c'entrare)
++ sotto la sua legge = 귀하의 법 아래 (연안국 관할권)
++ cambiare idea con le stagioni = 계절 따라 생각을 바꾸다 (농담조 비판)
++ tovagliolo = 냅킨 (몸짓·식탁 모티프: 식탁의 약속을 적는 종이)
++ Lo riconosce? = 인정하십니까? (riconoscere: 법적 인정과 존중의 이중 의미)
+
+## 산타 루치아 — SANTA LUCIA
+MONTI: Dottor Lanza, mi scusi. I ragazzi chiedono se possono cantare. ||| 란차 박사님, 실례합니다. 아이들이 노래를 불러도 되냐고 물어요.
+CORRADO: Ministro, c'è una richiesta dell'equipaggio... dei ragazzi. ||| 장관님, 승무원이… 아니, 아이들의 요청이 있습니다.
+SAADI: Cantare? Cosa? ||| 노래? 무슨 노래요?
+MONTI: Non si sono messi d'accordo. Tra una canzone dei Pooh e una dell'Ottocento, hanno scelto la più vecchia. ||| 합의를 못 했어요. 현대 노래와 19세기 노래 사이에서 제일 오래된 걸 골랐어요.
+SOFIA: Prof, la facciamo? ||| 선생님, 불러요?
+MATTIA: Ho già la chitarra. ||| 기타는 벌써 있어요.
+CORRADO: Ministro, se permette. ||| 장관님, 허락하신다면.
+SAADI: Prego. Anche la mia nonna cantava al tramonto. ||| 그러시오. 우리 할머니도 해질녘엔 노래를 하셨지.
+SOFIA: «Sul mare luccica l'astro d'argento, placida è l'onda, prospero il vento...» ||| '바다 위에 은빛 별이 반짝이고, 물결은 잔잔하고 바람은 순하니…'
+MATTIA: «Venite all'agile barchetta mia... Santa Lucia, Santa Lucia». ||| '내 날렵한 작은 배로 오세요… 산타 루치아, 산타 루치아.'
+SAADI: Santa Lucia. ||| 산타 루치아.
+CORRADO: Ministro? ||| 장관님?
+SAADI: Mio Dio. Non la sentivo da trent'anni. ||| 맙소사. 30년 동안 못 들었는데.
+CORRADO: La conosce? ||| 아십니까?
+SAADI: Ho studiato a Napoli, dal 1987 al 1991. Una stanza in vico Pallonetto, con una padrona che la cantava mentre stirava. ||| 1987년부터 1991년까지 나폴리에서 공부했소. 빅코 팔로네토의 방이었고, 다림질하며 그 노래를 부르던 집주인이 있었지.
+CORRADO: Vico Pallonetto, a Santa Lucia. Quasi sotto casa di mia madre. ||| 산타 루치아의 빅코 팔로네토라고요. 저희 어머니 집 바로 아래쯤이군요.
+SAADI: Davvero? Come si chiamava la sua? ||| 정말이오? 당신 어머니는 뭐라 불렸소?
+CORRADO: Assunta. La chiamano tutti «'a Signora d''e sfugliatelle». ||| 아순타요. 다들 '스폴리아텔레 부인'이라고 부릅니다.
+SAADI: Ah! E io avevo una padrona che si chiamava donna Titina e mi dava il caffè gratis la domenica. ||| 아! 내 집주인은 돈나 티티나였소. 일요일마다 커피를 공짜로 주셨지.
+CORRADO: Allora lei è un napoletano di mare. Jammo, assettàmmoce: 'o cafè se fa 'nzieme. ||| 그럼 장관님은 바다의 나폴리 사람이십니다. 자, 앉읍시다. 커피는 같이 마셔야 제맛이죠.
+SAADI: Lei parla come mi parlava donna Titina. ||| 박사가 돈나 티티나처럼 말하는군.
+CORRADO: Così mi hanno insegnato a negoziare. ||| 이렇게 협상하는 걸 배웠습니다.
+SAADI: Con il caffè. ||| 커피로.
+CORRADO: Con il caffè, e con la pazienza che va con il caffè. ||| 커피로, 그리고 커피에 딸려 오는 인내심으로요.
+HAMDAN: Ministro, la seconda strofa l'ha imparata da bambino? ||| 장관님, 2절은 어릴 때 배우셨습니까?
+SAADI: Da bambino no. L'ho imparata a Napoli, e l'ho tradotta in tarsiano per mia madre. ||| 어릴 땐 아니오. 나폴리에서 배워서 어머니를 위해 타르시아어로 옮겼지.
+CORRADO: Tradotta? ||| 번역하셨다고요?
+SAADI: E non le dico quanto è difficile. «Barchetta» in tarsiano non esiste: si dice «piccola donna del mare». ||| 얼마나 어려웠는지 모르실 거요. '바르케타'라는 말이 타르시아어에는 없소. '바다의 작은 여인'이라고 하지.
+CORRADO: Una traduzione che conserva il senso e cambia la parola. ||| 뜻은 지키고 단어는 바꾸는 번역이군요.
+SAADI: Come ogni traduzione. A volte si perde una carezza. A volte si perde una promessa. ||| 모든 번역이 그렇소. 때로는 애무 하나를 잃고, 때로는 약속 하나를 잃지.
+CORRADO: Questo lo scrivo anche sul tovagliolo. ||| 그건 냅킨에도 적어 두겠습니다.
++ vico Pallonetto = 나폴리 산타 루치아 인근의 골목 이름
++ Jammo, assettàmmoce: 'o cafè se fa 'nzieme = 자, 앉읍시다. 커피는 함께 하는 겁니다 (나폴리말)
++ Santa Lucia = 1849년 테오도로 코트라우가 이탈리아어로 펴낸 나폴리 바르카롤라
++ mi hanno insegnato a + 부정사 = ~하는 법을 배웠다 (insegnare a)
++ conserva il senso e cambia la parola = 뜻은 지키고 단어는 바꾼다 (번역의 정의)
++ perdere una carezza / una promessa = 애무를 잃다 / 약속을 잃다 (번역의 손실 비유)

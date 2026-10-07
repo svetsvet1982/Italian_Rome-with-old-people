@@ -1,0 +1,87 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 11
+@title L'articolo diciassette
+@ko 제17조
+@setting 수요일 마르사 베이다 공항·항만청 → 목요일 항만청 회의실 → 오후 → 밤
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast SARTORELLI | 리비오 사르토렐리, 공증 번역가, 81세
+@cast IDRIS | 이드리스, 타르시아 번역가(은퇴), 72세
+@cast SAADI | 사아디, 타르시아 교통·항만 장관, 62세
+@cast HAMDAN | 나디르 함단, 마르사 베이다 항만청장, 55세
+@cast KARIM | 카림 벤살라, 타르시아 공증인, 60세
+@note 폭로의 화입니다. 원본 확보 경로는 이렇게 정했습니다. 타르시아 문서고에는 서명된 이탈리아어 원본이 있고, 사아디 장관이 직접 손에 들고 옵니다. 로마의 14/C는 사라졌지만 사르토렐리 노트와 타르시아 원본을 맞대면 됩니다. 제17조의 이탈리아어 문장은 '우선권을 인정할 것을 약속한다(si impegna a riconoscere la priorità)', 타르시아어판은 '협의할 것을 약속한다'로 옮겨졌습니다. 마지막 항에는 '두 본문이 다를 경우 90일 안에 서면으로 조정한다'는 조항이 있고, 이드리스가 1998년에 여백에 남긴 유보 메모와 1999년 타르시아의 공식 서한이 이 조항을 지킨 쪽이 누구인지를 보여 줍니다. 역사 논거는 우찰레 조약(1889년 5월) 제17조입니다. 이탈리아어 본은 에티오피아 황제 메넬리크가 외교를 이탈리아를 통해 하는 것에 '동의한다'고, 암하라어 본은 '할 수 있다'고 읽혔습니다. 이탈리아는 보호국으로 해석했고 메넬리크는 1893년에 조약을 폐기했으며 1896년 아도와 전투로 이어졌습니다. 단어 하나의 차이가 전쟁으로 간 사례입니다. 어휘는 법률·번역 용어(fare fede, riserva, divergenza), 접속법 반과거와 조건법에 주목하세요.
+@next 12화: 여객선 석방, 비탈레의 사임, 란차의 청문회 자기 고발. 페데리카가 '스폰다 파이낸스'를 언급합니다.
+
+## 수요일, 교수의 도착 — IL PROFESSORE ARRIVA
+GIULIA: Dottore, lo faccio scendere io, con la valigia e con i datteri. ||| 박사님, 제가 교수님을 모시고 내려올게요. 가방이랑 대추야자랑 같이요.
+SARTORELLI: Signorina, non mi tratti come un pacco. Scendo da solo. ||| 아가씨, 날 소포 취급하지 말아요. 혼자 내릴 겁니다.
+GIULIA: Professore, la scaletta è ripida. ||| 교수님, 계단이 가팔라요.
+SARTORELLI: Ho fatto quattro piani senza ascensore per quarant'anni. Una scaletta è un divertimento. ||| 40년 동안 엘리베이터 없는 4층을 다녔어요. 이 정도 계단은 놀이죠.
+CORRADO: Livio, benvenuto a Marsa Beida. ||| 리비오, 마르사 베이다에 오신 걸 환영합니다.
+SARTORELLI: Corrado. Ho portato il quaderno. Rosalba voleva darmi la sciarpa, ma qui ci sono trentadue gradi. ||| 코라도. 노트를 가져왔어요. 로잘바가 목도리를 주려 했는데 여긴 32도네요.
+CORRADO: C'è una persona che la aspetta. ||| 기다리는 분이 계십니다.
+IDRIS: Professor Sartorelli. ||| 사르토렐리 교수님.
+SARTORELLI: Signor Idris. Quasi trent'anni di conversazione per posta, e ora le vedo la faccia. ||| 이드리스 선생. 거의 30년 동안 편지로만 대화했는데 이제야 얼굴을 보는군요.
+IDRIS: Abbiamo scambiato un dizionario con dei datteri. Ora scambiamo datteri con un libro. ||| 사전과 대추야자를 맞바꿨죠. 이제는 대추야자를 책과 맞바꿉시다.
+SARTORELLI: Ho portato un libro. Il vocabolario Zingarelli, edizione del 1998. ||| 책을 가져왔어요. 1998년판 «칭가렐리» 사전이요.
+IDRIS: Il mio è del 1996. La differenza di due anni spiega tutto. ||| 제 건 1996년판입니다. 2년 차이가 모든 걸 설명하겠군요.
+SARTORELLI: Come si dice, in tarsiano, «mi vergogno»? ||| 타르시아어로 '부끄럽다'는 뭐라고 합니까?
+IDRIS: Si dice «ho il viso caldo». ||| '얼굴이 뜨겁다'고 합니다.
+SARTORELLI: Allora ho il viso caldo da ventisette anni. ||| 그럼 27년 동안 얼굴이 뜨거웠던 거네요.
+IDRIS: Anch'io, professore. Ma io avevo scritto a margine quello che pensavo. ||| 저도입니다, 교수님. 하지만 저는 여백에 생각을 적어 놓았습니다.
+SARTORELLI: Cosa avevi scritto? ||| 뭐라고 적었습니까?
+IDRIS: Domani. Domani, davanti al ministro. ||| 내일. 내일 장관님 앞에서요.
+CORRADO: Giulia, hai portato la fotocopia del quaderno? ||| 조울리아, 노트 복사본은 가져왔어?
+GIULIA: Quarantasei pagine, autenticate dal notaio Pace. ||| 46쪽, 파체 공증인의 인증본이에요.
+CORRADO: E la dichiarazione giurata? ||| 선서 진술서는?
+GIULIA: Nella cartella. E la tessera sanitaria del professore, in caso. ||| 서류철에 있어요. 교수님 건강보험증도요, 만약을 위해서요.
+SARTORELLI: Signorina, io non muoio in missione. Muoio a casa, in poltrona, con un buon libro. ||| 아가씨, 난 임무 중에는 안 죽어요. 집에서 안락의자에 앉아 좋은 책과 함께 죽을 겁니다.
+GIULIA: Non lo dica nemmeno per scherzo. ||| 농담으로라도 그런 말씀 마세요.
+SARTORELLI: Faccio sempre scherzi. Gli unici veri sono i miei. ||| 난 항상 농담을 하죠. 진짜는 내 농담뿐이에요.
+CORRADO: Allora si riposi. Domattina alle nove, nella sala del porto. ||| 그럼 쉬세요. 내일 아침 9시, 항만청 회의실입니다.
++ non mi tratti come un pacco = 날 소포 취급하지 마세요 (trattare + come, 명령형 부정 Lei)
++ ho il viso caldo = 얼굴이 뜨겁다 (타르시아식 '부끄럽다')
++ vocabolario Zingarelli = «칭가렐리» 이탈리아어 사전
++ tessera sanitaria = 건강보험증
++ in caso = 만약을 대비해 (in caso di necessità의 약식)
++ muoio in poltrona = 안락의자에서 죽는다 (노교수의 농담)
+
+## 목요일, 원본 — L'ORIGINALE
+HAMDAN: La sala è pronta. Il ministro è arrivato con una valigetta che non ha mollato un secondo. ||| 회의실 준비가 끝났습니다. 장관님이 서류 가방을 한순간도 놓지 않고 오셨습니다.
+CORRADO: Il notaio? ||| 공증인은요?
+HAMDAN: Karim Bensalah. Sessant'anni, si presenta come «un orologio svizzero con la barba». ||| 카림 벤살라, 60세. 자기 소개로는 '수염 난 스위스 시계'랍니다.
+KARIM: Signori, dichiaro aperta la verifica. Sono presenti le Parti, un traduttore per parte e un notaio. ||| 여러분, 검증 개시를 선언합니다. 양측과 각 측 번역가 한 명씩, 공증인이 입회했습니다.
+SAADI: Il documento. ||| 문서입니다.
+KARIM: Prego, ministro. Apra lei. ||| 장관님이 열어 주십시오.
+SAADI: Lo apro con le mani nude. Non voglio guanti: è un pezzo di famiglia. ||| 맨손으로 열겠소. 장갑은 필요 없소. 집안의 한 조각이니까.
+GIULIA: Quattordici fogli, filo rosso, tre sigilli di ceralacca. ||| 14장, 붉은 실, 밀랍 도장 세 개예요.
+KARIM: Le firme? ||| 서명은요?
+GIULIA: Alla fine. Da una parte il sottosegretario di allora, con una firma a stampatello. Dall'altra il vice ministro tarsiano. ||| 마지막 장에 있어요. 한쪽엔 당시 차관의 또박또박한 서명, 다른 쪽엔 타르시아 부장관의 서명이요.
+CORRADO: Data? ||| 날짜는요?
+GIULIA: Ventitré ottobre 1998. Ore sei e quaranta. ||| 1998년 10월 23일. 6시 40분이요.
+SARTORELLI: Sei e quaranta. Dopo la nostra famosa discussione. ||| 6시 40분. 우리의 유명한 논쟁 뒤군요.
+KARIM: La verifica dei sigilli: autentici. La carta: coerente con il 1998. Procediamo alla lettura. ||| 도장 확인: 진본. 종이: 1998년과 부합. 낭독으로 넘어갑니다.
+SAADI: Dottor Lanza. Legge lei, in italiano. ||| 란차 박사. 박사가 이탈리아어로 읽으시오.
+CORRADO: No, Ministro. Legge la mia analista. Ha l'accento più chiaro. ||| 아닙니다, 장관님. 제 분석관이 읽습니다. 억양이 더 또렷해서요.
+GIULIA: Articolo uno: «Le Parti si riconoscono reciprocamente come interlocutori paritetici». ||| 제1조. '양측은 서로를 대등한 협상 상대로 인정한다.'
+IDRIS: In tarsiano: «Le due case si riconoscono come ospiti uguali». ||| 타르시아어로는 '두 집은 서로를 동등한 손님으로 인정한다'입니다.
+SARTORELLI: Un po' più poetico. Ma accettabile. ||| 조금 더 시적이군요. 하지만 받아들일 만합니다.
+GIULIA: Articolo due: debito. «L'Italia si impegna a condonare il debito ... nelle forme e nei tempi concordati». ||| 제2조. 부채. '이탈리아는 합의된 방식과 시기에 부채를 탕감할 것을 약속한다.'
+IDRIS: Corrisponde. ||| 일치합니다.
+GIULIA: Articoli da tre a sedici: tecnici. Porto, rotte, formazione, dogane. ||| 제3조부터 제16조까지는 실무예요. 항구, 항로, 교육, 세관.
+KARIM: Corrispondenti? ||| 일치합니까?
+SARTORELLI: Uno per uno, sì. Per questo la discordanza era così sottile. ||| 하나하나 보면 일치해요. 그래서 불일치가 그토록 미묘했던 거죠.
+CORRADO: Articolo diciassette. ||| 제17조.
+SAADI: Aspetta. Un bicchiere d'acqua. ||| 잠깐. 물 한 잔 주게.
+HAMDAN: Ecco, ministro. ||| 여기 있습니다, 장관님.
+SAADI: Adesso. ||| 이제.
++ aprire con le mani nude = 맨손으로 열다 (nude: 장갑 없이)
++ ceralacca = 밀랍 (봉인용)
++ firma a stampatello = 또박또박 쓴 서명 (stampatello: 인쇄체)
++ interlocutori paritetici = 대등한 협상 상대 (paritetico)
++ sottosegretario / viceministro = 차관 / 부장관 (직위 어휘)
++ Corrisponde. = 일치합니다. (corrispondere)

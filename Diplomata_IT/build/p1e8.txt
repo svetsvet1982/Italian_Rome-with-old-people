@@ -1,0 +1,197 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 8
+@title La fuga di notizie
+@ko 새어 나간 소문
+@setting 토요일 아침 분석실 → 프라티의 바 → 산드리의 서재 → 분석실 → 마르사 베이다와의 통화
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast ELISA | 엘리사 브란돌리니, 일간지 «라 보체 디 로마» 기자, 38세
+@cast SANDRI | 비토리오 산드리, 은퇴 대사, 70세
+@cast YUSUF | 유수프 마르조크, 타르시아 대사관 일등서기관, 41세
+@cast VITALE | 체사레 비탈레, 외무사무총장, 51세
+@note 언론전의 화입니다. 토요일 아침 일간지가 오로라 각서의 일부를 실었습니다. 기자는 금액과 우선권의 규모만 묻고 '누가 서명했는가'와 '어느 언어의 문서인가'는 묻지 않습니다. 해법의 순간은 빠진 질문 한 항목입니다. 보도된 두 쪽에는 서명 쪽과 제17조가 없고, 인용 문장은 이탈리아어 원문의 표현입니다. 즉 누출자는 14/C 원본을 손에 쥔 사람입니다. 역사 논거는 베네치아의 십인 위원회(1310년 설치)입니다. 공화국은 비밀을 법으로 지켰고, 1539년 국가 심문관 세 명을 두었으며, 귀족이 외국 대사와 사적으로 접촉하는 것을 금했습니다. 비밀 유지의 핵심은 처벌이 아니라 누가 무엇을 아는지를 아는 것이었습니다. 어휘는 언론 용어(smentire, prima pagina, fonte anonima), 직접화법과 간접화법, 접속법 현재의 의심 표현에 주목하세요.
+@next 9화: 비탈레가 가스 회사 로비스트에게 협상 정보를 넘긴 정황이 드러납니다. 카페 영수증의 시각이 단서입니다.
+
+## 첫 면 — LA PRIMA PAGINA
+GIULIA: Dottore, buongiorno. Le ho portato il giornale e un cornetto. Il cornetto è per consolarla. ||| 박사님, 좋은 아침이에요. 신문이랑 크루아상 가져왔어요. 크루아상은 위로용이에요.
+CORRADO: Se mi consoli con un cornetto, la notizia è peggiore di quanto temo. ||| 크루아상으로 위로한다면 소식이 내가 걱정한 것보다 나쁘다는 거네.
+GIULIA: Prima pagina, a cinque colonne: «Il patto segreto con Tarsia». ||| 1면 5단 기사예요. '타르시아와의 비밀 협약'.
+CORRADO: Leggi. ||| 읽어 줘.
+GIULIA: «Nel 1998 l'Italia promise di condonare seicento miliardi di lire di debito e di riconoscere a Tarsia una priorità sui giacimenti sottomarini del sud. L'accordo non fu mai reso pubblico». ||| '1998년 이탈리아는 6천억 리라의 부채를 탕감하고 남쪽 해저 가스전에 대한 타르시아의 우선권을 인정하기로 약속했다. 합의는 한 번도 공개된 적이 없다.'
+CORRADO: Firmato? ||| 기자 이름은?
+GIULIA: Elisa Brandolini. Ha pubblicato due pagine in fotografia, con un titolo in grassetto e una cornice rossa. ||| 엘리사 브란돌리니요. 사진으로 두 쪽을 실었어요. 굵은 제목에 빨간 테두리까지요.
+CORRADO: Le due pagine sono di una fotocopia? ||| 그 두 쪽은 복사본이야?
+GIULIA: Sembrano un'immagine scattata a un originale: si vede l'ombra della spillatrice. ||| 원본을 찍은 사진 같아요. 스테이플러 그림자가 보여요.
+CORRADO: Un originale, quindi. ||| 그럼 원본이란 말이네.
+GIULIA: Oppure una copia fatta bene. Non lo so ancora. ||| 아니면 잘 만든 사본이거나요. 아직은 몰라요.
+CORRADO: Il Gabinetto del Ministro ha già telefonato? ||| 장관 비서실에서 벌써 전화 왔어?
+GIULIA: Sette volte da stamattina. Vogliono una smentita entro mezzogiorno. ||| 오늘 아침부터 일곱 번이요. 정오까지 부인 성명을 내고 싶어 해요.
+CORRADO: Una smentita. Di cosa? ||| 부인이라. 무엇을?
+GIULIA: Di tutto. «Nessun accordo, nessun documento autentico». ||| 전부요. '어떤 합의도, 진본 문서도 없다.'
+CORRADO: Mi viene la pelle d'oca. ||| 소름이 돋네.
+GIULIA: Perché? ||| 왜요?
+CORRADO: Perché se domani spunta l'originale con la firma, quella smentita diventa un'altra prima pagina. ||| 내일 서명된 원본이 나오면 그 부인 성명이 또 다른 1면이 되니까.
+GIULIA: Ho già detto al Gabinetto che bisogna aspettare. Mi hanno risposto: «Lei è un'analista, non decide». ||| 비서실에 기다려야 한다고 했어요. '분석관이 결정하는 게 아니다'라는 답이 왔고요.
+CORRADO: Ti hanno detto la verità. Decide il Ministro. Io posso solo cambiargli la domanda. ||| 맞는 말이야. 결정은 장관이 하지. 난 질문을 바꿔 줄 수 있을 뿐이고.
+GIULIA: Quale domanda? ||| 무슨 질문을요?
+CORRADO: Da «smentiamo o no?» a «cosa sappiamo per certo?». ||| '부인할까 말까'에서 '우리가 확실히 아는 게 뭐지'로.
+GIULIA: E che cosa sappiamo per certo? ||| 그럼 우리가 확실히 아는 게 뭔데요?
+CORRADO: Che il testo italiano, quello vero, è sparito. E che uno dei due ha la copia: o chi l'ha rubato o chi l'ha scattato. ||| 진짜 이탈리아어 본문은 사라졌다는 것. 그리고 둘 중 하나가 사본을 갖고 있다는 것. 훔친 사람이거나 찍은 사람이거나.
+GIULIA: Sono la stessa persona? ||| 같은 사람일까요?
+CORRADO: Lo scopriremo parlando con chi ha scritto l'articolo. ||| 기사를 쓴 사람과 얘기하면 알게 되겠지.
+GIULIA: Dottore, non si parla con i giornalisti. ||| 박사님, 기자하고는 얘기하지 않는 법이에요.
+CORRADO: Con i giornalisti si prende un caffè. È diverso. ||| 기자하고는 커피를 마시는 거야. 그건 다르지.
++ a cinque colonne = 5단(큰 제목) (신문 편집 용어)
++ smentita / smentire = 부인(하다) (공식 성명으로 사실을 부정)
++ Il Gabinetto del Ministro = 장관 비서실
++ mi viene la pelle d'oca = 소름이 돋는다 (불안·감동 표현)
++ Cosa sappiamo per certo? = 확실히 아는 게 뭔가 (per certo: 확실하게)
++ si prende un caffè = 커피를 마신다 (수동의 si, 비공식 접촉의 완곡어)
+
+## 프라티의 바 — IL BAR DI PRATI
+ELISA: Dottor Lanza, non pensavo che un negoziatore accettasse un caffè con una giornalista il sabato. ||| 란차 박사님, 협상관이 토요일에 기자와 커피를 마실 줄은 몰랐어요.
+CORRADO: Neanch'io. Ma il caffè di questo bar è l'unico a Roma che non sa di sciacquatura. ||| 저도요. 하지만 이 집 커피는 로마에서 걸레 빤 물 맛이 안 나는 유일한 커피입니다.
+ELISA: Voglio chiarire subito: non rivelo le fonti. ||| 먼저 분명히 해 둘게요. 취재원은 밝히지 않아요.
+CORRADO: Non gliele chiedo. Le faccio solo domande sul testo. ||| 묻지 않겠습니다. 문서에 대해서만 여쭙죠.
+ELISA: Allora le chiedo io: il documento è autentico? ||| 그럼 제가 먼저 묻죠. 문서는 진짜인가요?
+CORRADO: Lei è la giornalista. Non dovrebbe averlo verificato? ||| 기자는 그쪽이잖습니까. 확인하셨어야 하지 않나요?
+ELISA: Ho verificato carta, inchiostro, formattazione e impaginazione. Combaciano con altri documenti del 1998. ||| 종이, 잉크, 서식, 편집 형태를 확인했어요. 1998년의 다른 문서들과 일치합니다.
+CORRADO: E il contenuto? ||| 내용은요?
+ELISA: Il contenuto è un impegno: l'Italia «si impegna a riconoscere la priorità». Ho citato testualmente. ||| 내용은 약속이죠. 이탈리아가 '우선권을 인정할 것을 약속한다'. 원문 그대로 인용했어요.
+CORRADO: Testualmente. In italiano. ||| 원문 그대로, 이탈리아어로요.
+ELISA: In che altra lingua dovrebbe essere? ||| 다른 어떤 언어여야 하죠?
+CORRADO: In tarsiano, per esempio. Questo è un accordo con un paese tarsiano. ||| 예를 들면 타르시아어죠. 타르시아와의 합의니까요.
+ELISA: Il documento che ho ricevuto è solo in italiano. ||| 제가 받은 문서는 이탈리아어뿐이에요.
+CORRADO: Quindi le hanno dato l'italiano e non il tarsiano. Interessante. ||| 그러니 이탈리아어는 주고 타르시아어는 안 줬군요. 흥미롭네요.
+ELISA: Cosa c'è di interessante? ||| 뭐가 흥미로운데요?
+CORRADO: Che chi vuole mostrare una promessa italiana mostra il testo italiano. E chi vuole nascondere un'interpretazione nasconde l'altro. ||| 이탈리아의 약속을 보이고 싶은 사람은 이탈리아어 본문을 보여 주죠. 그리고 해석을 감추고 싶은 사람은 다른 쪽을 감추고요.
+ELISA: Vuole dire che la fuga è pilotata? ||| 유출이 조종되었다는 말씀인가요?
+CORRADO: Non lo dico. Mi chiedo da chi parta e a chi giovi. ||| 그런 말은 아닙니다. 누구에게서 나왔고 누구에게 득이 되는지 궁금할 뿐이죠.
+ELISA: Dottore, una fuga di notizie giova sempre a qualcuno. ||| 박사님, 정보 유출은 항상 누군가에게 득이 돼요.
+CORRADO: Allora le restituisco la sua domanda. A chi giova una prima pagina che dice «promisero» e non dice «chi firmò»? ||| 그럼 그 질문을 돌려 드리죠. '약속했다'고만 하고 '누가 서명했나'는 쓰지 않는 1면이 누구에게 득이 됩니까?
+ELISA: Non ho scritto chi ha firmato perché le pagine non hanno la firma. ||| 서명자를 안 쓴 건 그 쪽들에 서명이 없어서예요.
+CORRADO: Non ha la firma. Né l'ultima pagina. ||| 서명이 없죠. 마지막 쪽도 없고요.
+ELISA: ... Ha ragione. Le pagine sono la quarta e la sesta. Mancano la quinta e l'ultima. ||| …맞아요. 받은 건 4쪽과 6쪽이에요. 5쪽과 마지막 쪽이 없어요.
+CORRADO: E nel suo articolo, quante domande ha fatto sui numeri? ||| 그리고 기사에서 숫자에 대한 질문은 몇 개나 하셨나요?
+ELISA: Tutte quelle di un buon cronista: quanto debito, quanto gas, chi paga. ||| 좋은 기자라면 할 질문 전부요. 부채가 얼마, 가스가 얼마, 누가 내나.
+CORRADO: E «chi ha deciso che le pagine intermedie non uscissero»? ||| 그럼 '누가 중간 쪽들은 나가지 않게 했나'는요?
+ELISA: Non l'ho chiesto, no. ||| 그건 안 물었네요.
+CORRADO: La prima domanda che manca è sempre la più utile. ||| 빠진 첫 번째 질문이 늘 가장 유용하죠.
+ELISA: Dottore, mi sta usando? ||| 박사님, 저를 이용하시는 건가요?
+CORRADO: Sì. E lei sta usando me. Siamo pari. ||| 네. 그리고 그쪽도 저를 이용하고 있고요. 비긴 겁니다.
+ELISA: Se le pagine mancanti arrivano, le do a lei prima che al giornale. ||| 빠진 쪽들이 오면 신문사보다 먼저 박사님께 드리죠.
+CORRADO: Non lo prometta. Mi basta che non scriva una smentita al posto mio. ||| 약속하지 마세요. 제 대신 부인 기사만 쓰지 않으시면 됩니다.
++ non rivelo le fonti = 취재원을 밝히지 않는다 (기자의 비밀 보호)
++ Combaciano con = ~와 일치한다 (combaciare)
++ una fuga pilotata = 조종된 유출 (pilotare)
++ giovare a qualcuno = 누구에게 득이 되다 (giovare + a)
++ Mi sta usando? = 저를 이용하나요? (stare + 제룬디오)
++ Siamo pari. = 비긴 겁니다. (7화에서 쓴 표현의 재등장)
+
+## 십인 위원회 — IL CONSIGLIO DEI DIECI
+SANDRI: Siediti. L'espresso è fatto. Ho letto il giornale con la penna in mano. ||| 앉게. 에스프레소는 내려놨네. 펜을 들고 신문을 읽었지.
+CORRADO: Eccellenza, il Gabinetto vuole smentire. ||| 대사님, 비서실은 부인하고 싶어 합니다.
+SANDRI: Lo immagino. A Venezia nessuno smentiva mai. Venezia faceva sparire la domanda. ||| 그럴 테지. 베네치아에서는 아무도 부인하지 않았네. 베네치아는 질문 자체를 없앴지.
+CORRADO: Come? ||| 어떻게요?
+SANDRI: Nel 1310, dopo una congiura, Venezia istituì il Consiglio dei Dieci. Dieci uomini per custodire i segreti dello Stato. ||| 1310년, 음모 사건 뒤에 베네치아는 십인 위원회를 만들었네. 국가 비밀을 지킬 열 사람이었지.
+CORRADO: Dieci sono pochi. ||| 열 명은 적군요.
+SANDRI: Per i segreti sono troppi. Nel 1539 ne scelsero tre: gli Inquisitori di Stato. ||| 비밀에는 오히려 많았지. 1539년에는 그중 셋을 뽑았네. 국가 심문관들이었어.
+CORRADO: E i patrizi non potevano parlare con gli ambasciatori. ||| 그리고 귀족들은 대사들과 말을 섞을 수 없었죠.
+SANDRI: Parlare, no. Bastava un saluto più lungo del necessario per finire sotto inchiesta. ||| 말은 못 했지. 필요 이상으로 긴 인사만으로도 조사를 받을 수 있었네.
+CORRADO: Quindi Venezia non temeva i ladri, temeva i chiacchieroni. ||| 그럼 베네치아가 두려워한 건 도둑이 아니라 수다쟁이였군요.
+SANDRI: Temeva di non sapere chi sapeva cosa. Questo era il vero segreto. ||| 누가 무엇을 아는지 모르는 걸 두려워했지. 그게 진짜 비밀이었네.
+CORRADO: Chi sapeva cosa. ||| 누가 무엇을 아는가.
+SANDRI: Sì. Dimmi: chi sa cosa, nel caso Aurora? ||| 그래. 말해 보게, 오로라 건에서 누가 무엇을 아는가?
+CORRADO: Vitale sa il testo. Tarsia sa il testo. Il giornale sa due pagine. ||| 비탈레는 본문을 알아요. 타르시아도 본문을 알고요. 신문은 두 쪽을 알고요.
+SANDRI: E chi sa che le pagine intermedie esistono? ||| 그럼 중간 쪽들이 있다는 건 누가 알지?
+CORRADO: Chi le ha tolte. ||| 그걸 뺀 사람이요.
+SANDRI: Appunto. Una fuga che toglie due pagine non è una fuga. È una regia. ||| 바로 그거야. 두 쪽을 빼고 새는 건 유출이 아니라 연출이지.
+CORRADO: Allora smentire è esattamente ciò che vuole il regista. ||| 그럼 부인하는 건 연출자가 정확히 원하는 일이군요.
+SANDRI: Se il Ministro smentisce, e dopo esce la pagina con la firma, l'Italia appare bugiarda. ||| 장관이 부인했는데 서명된 쪽이 나오면 이탈리아는 거짓말쟁이가 되네.
+CORRADO: E chi ha la pagina con la firma sceglie il momento. ||| 그러면 서명 쪽을 쥔 사람이 시점을 고르겠죠.
+SANDRI: A Venezia lo si chiamava «tenere l'ultima carta». ||| 베네치아에서는 그걸 '마지막 카드를 쥔다'고 했지.
+CORRADO: E cosa si faceva, a Venezia, contro chi teneva l'ultima carta? ||| 베네치아에서는 마지막 카드를 쥔 사람을 어떻게 했습니까?
+SANDRI: Lo si invitava a cena. A Venezia ogni grande segreto finiva a una tavola. ||| 저녁에 초대했지. 베네치아에서는 모든 큰 비밀이 식탁에서 끝났네.
+CORRADO: Questo l'ha inventato adesso. ||| 그건 지금 지어내셨죠.
+SANDRI: Un po'. Ma suona vero, no? ||| 조금은. 하지만 진짜처럼 들리지 않나?
++ istituire = 설립하다 (원격과거 istituì)
++ Inquisitori di Stato = (베네치아) 국가 심문관, 1539년 설치
++ chiacchierone = 수다쟁이, 입이 가벼운 사람
++ regia = 연출, 배후 조정 (영화·정치 비유)
++ Se il Ministro smentisce, ... l'Italia appare bugiarda = 장관이 부인하면 ... 이탈리아가 거짓말쟁이로 보인다 (직설법 조건)
++ tenere l'ultima carta = 마지막 카드를 쥐다 (카드놀이 비유)
+## 빠진 쪽 — LE PAGINE MANCANTI
+GIULIA: Dottore, ho confrontato le due pagine con quello che resta nel nostro archivio. ||| 박사님, 그 두 쪽을 우리 문서고에 남은 것과 대조했어요.
+CORRADO: E? ||| 그래서?
+GIULIA: La pagina quattro è la bozza 14a, versione finale con le correzioni a penna di un funzionario. Le correzioni sono uguali all'originale firmato. ||| 4쪽은 14a 초안의 최종본이에요. 담당 직원이 펜으로 한 수정이 서명본과 같아요.
+CORRADO: Come lo sai, se l'originale è sparito? ||| 원본이 사라졌는데 어떻게 알아?
+GIULIA: Dal registro di fotoriproduzione del 1998: ogni pagina aveva un numero di copia. Il numero in basso è lo stesso. ||| 1998년 복사 대장에서요. 쪽마다 복사 번호가 있었는데 아래 번호가 같아요.
+CORRADO: Quindi chi ha scattato le foto aveva davanti la copia numero uno. ||| 그러니 사진을 찍은 사람은 1번 사본을 눈앞에 두고 있었던 거네.
+GIULIA: Sì. E nello scatto, in basso a destra, c'è il bordo di una scrivania. Legno chiaro, venato. ||| 맞아요. 그리고 사진 오른쪽 아래에 책상 모서리가 보여요. 연한 색의 결이 있는 나무요.
+CORRADO: La scrivania del Segretario è scura. ||| 사무총장 책상은 어두운 색인데.
+GIULIA: Appunto. Non è la sua. ||| 그러니까요. 그의 책상이 아니에요.
+CORRADO: Non è la sua, quindi qualcuno ha fotografato il documento altrove. ||| 그의 책상이 아니라면 누군가 다른 곳에서 찍은 거네.
+GIULIA: Poi ho guardato le virgolette. ||| 그다음에 따옴표를 봤어요.
+CORRADO: Le virgolette? ||| 따옴표요?
+GIULIA: Nell'articolo il verbo è citato così: «si impegna a riconoscere». Nel testo italiano di cui parla Sartorelli nelle sue note era «si impegna a riconoscere la priorità». ||| 기사에는 동사가 '인정할 것을 약속한다'로 인용돼 있어요. 사르토렐리 노트가 말한 이탈리아어 문장은 '우선권을 인정할 것을 약속한다'였고요.
+CORRADO: Una virgoletta tagliata. ||| 따옴표를 잘랐군.
+GIULIA: Chi cita bene non taglia. Chi vuole che un lettore non vada a cercare, taglia. ||| 잘 인용하는 사람은 자르지 않아요. 독자가 찾아보지 않기를 바라는 사람이 자르죠.
+CORRADO: Questo lo scrivo da qualche parte. ||| 이건 어디다 적어 둬야겠다.
+GIULIA: Poi c'è un altro dettaglio. L'articolo cita sei miliardi di metri cubi. Nel testo non c'è nessun numero di metri cubi. ||| 또 하나 있어요. 기사에는 60억 입방미터가 나와요. 본문에는 입방미터 숫자가 전혀 없고요.
+CORRADO: Chi ha dato il numero? ||| 그 숫자는 누가 줬지?
+GIULIA: Nel 14a c'è una stima, sì. Ma una stima fatta da una società di consulenza, non dal nostro ministero. ||| 14a에 추정치는 있어요. 하지만 우리 부처가 아니라 컨설팅 회사가 낸 거예요.
+CORRADO: Una società di consulenza. Quella con il tipo dalle scarpe lucide. ||| 컨설팅 회사라. 반짝이는 구두 남자의 회사겠지.
+GIULIA: Non posso dirlo. Posso dire che chi ha messo il numero conosceva quella stima, che ha circolato in tre copie. ||| 단정은 못 해요. 숫자를 넣은 사람은 세 부만 돌았던 그 추정치를 알고 있었다는 것까지는 말할 수 있어요.
+CORRADO: E dove sono le altre due copie? ||| 나머지 두 부는 어디 있지?
+GIULIA: Una al Gabinetto. Una nella cassaforte del Segretario. ||| 하나는 비서실에, 하나는 사무총장 금고에요.
+CORRADO: Quella della cassaforte è sparita insieme al resto. ||| 금고에 있던 건 나머지와 함께 사라졌지.
+GIULIA: Dottore, sto cominciando a dubitare che la cassaforte sia stata svuotata da qualcuno che non conosceva il Segretario. ||| 박사님, 금고를 비운 사람이 사무총장을 모르는 사람은 아닐 거라는 의심이 들기 시작해요.
+CORRADO: Conoscevano la chiave. Lo disse lui. ||| 열쇠를 알던 사람들이지. 본인이 그랬어.
+GIULIA: Segretaria, autista e consulente. ||| 비서, 운전기사, 컨설턴트요.
+CORRADO: E uno solo di loro sa cos'è un metro cubo di gas. ||| 그중 입방미터 가스가 뭔지 아는 사람은 한 명뿐이지.
++ confrontare = 대조하다 (confrontare con)
++ il bordo di una scrivania = 책상 모서리 (bordo: 가장자리)
++ citare testualmente = 원문 그대로 인용하다 (testualmente: 문자 그대로)
++ sto cominciando a dubitare che + 접속법 = ~라는 의심이 들기 시작한다 (의심 동사 + 접속법: sia stata svuotata)
++ miliardi di metri cubi = 수십억 입방미터 (가스량 단위)
++ cassaforte = 금고
+
+## 마르사 베이다에서 — DA MARSA BEIDA
+YUSUF: Corrado, buongiorno. È una chiamata che avrei voluto non fare. ||| 코라도, 좋은 아침. 걸고 싶지 않았던 전화야.
+CORRADO: Sentito il giornale? ||| 신문 봤어?
+YUSUF: Il ministro Saadi l'ha letto stamattina alle sei, con un'espressione che non ho mai visto. ||| 사아디 장관이 오늘 아침 여섯 시에 읽었는데, 내가 한 번도 본 적 없는 표정이었어.
+CORRADO: Cosa ha detto? ||| 뭐라고 하셨어?
+YUSUF: Ha detto: «Sono quarant'anni che aspetto che l'Italia lo scriva. Lo scrive un giornale». ||| 이렇게 말씀하셨어. '이탈리아가 그걸 써 주기를 40년째 기다렸는데, 신문이 썼군.'
+CORRADO: Quarant'anni? Il memorandum è del 1998. ||| 40년이요? 각서는 1998년 건데.
+YUSUF: È un modo di dire. Ha perso il conto del tempo. ||| 말하자면 그렇다는 거야. 세월 계산이 흐트러진 거지.
+CORRADO: E adesso? ||| 그래서 지금은?
+YUSUF: Adesso vuole sapere se il vostro governo smentirà. Ha detto che, se smentite, non apre più nessuna porta. ||| 지금은 너희 정부가 부인할지 알고 싶어 하셔. 부인하면 어떤 문도 다시 열지 않겠대.
+CORRADO: Non smentiremo. ||| 부인하지 않을 거야.
+YUSUF: Sei autorizzato a dirlo? ||| 그렇게 말할 권한이 있어?
+CORRADO: No. Ma ti dico quello che farò nelle prossime quattro ore perché sia vero. ||| 아니. 하지만 그게 사실이 되도록 앞으로 네 시간 동안 내가 할 일을 말해 줄게.
+YUSUF: Ti ascolto. ||| 듣고 있어.
+CORRADO: Vado dal Gabinetto e chiedo di sostituire «smentiamo» con «verifichiamo». ||| 비서실에 가서 '부인한다'를 '확인한다'로 바꿔 달라고 하겠어.
+YUSUF: Verificare cosa? ||| 무엇을 확인한다는 거야?
+CORRADO: Il testo originale. Quello firmato. Quello che il tuo ministro ha in archivio. ||| 원문. 서명된 것. 너희 장관이 문서고에 가진 것.
+YUSUF: Vuoi che sia lui a darvelo? ||| 장관님이 그걸 우리한테 주길 바라는 거야?
+CORRADO: Voglio che lo leggiamo insieme. Italiano e tarsiano, uno accanto all'altro. ||| 같이 읽고 싶어. 이탈리아어와 타르시아어를 나란히 놓고.
+YUSUF: Saadi non lo prenderà come una trappola? ||| 사아디 장관님이 함정으로 받아들이지 않을까?
+CORRADO: Se lo chiedo io, sì. Se lo chiede il suo traduttore Idris, no. ||| 내가 요청하면 그렇겠지. 장관님의 번역가 이드리스가 요청하면 아니고.
+YUSUF: Idris è in pensione, ma verrebbe volentieri. Gli piace Sartorelli, anche senza averlo mai visto. ||| 이드리스는 은퇴했지만 기꺼이 올 거야. 한 번도 못 봤어도 사르토렐리 교수를 좋아하거든.
+CORRADO: Allora diglielo. E digli che Sartorelli ha spedito un messaggio: «Porto i datteri». ||| 그럼 전해 줘. 그리고 사르토렐리 교수가 메시지를 보냈다고도. '대추야자를 들고 가겠다'고.
+YUSUF: Ridi, ma questa è la frase che fa più rumore in tutta Marsa Beida. ||| 웃지만 그 문장이 마르사 베이다 전체에서 제일 큰 반향을 일으킬 거야.
+CORRADO: Digli che a un tavolo di traduttori si mangia sempre qualcosa di dolce. ||| 번역가들 식탁에는 늘 단 게 오른다고 전해.
+YUSUF: Lo dirò. Corrado... non smentire. ||| 전할게. 코라도… 부인하지 마.
+CORRADO: Te lo prometto, Yusuf. ||| 약속할게, 유수프.
+VITALE: Lanza, ho letto il giornale. Non l'ho fatto io. ||| 란차, 신문 읽었네. 내가 한 일이 아니야.
+CORRADO: Lo credo. Ma lei sa chi l'ha fatto. ||| 믿습니다. 하지만 누가 했는지는 아실 겁니다.
+VITALE: Domani sera. Domani sera ti dico tutto. ||| 내일 저녁. 내일 저녁에 전부 말해 주지.
++ avrei voluto non fare = 하고 싶지 않았다 (조건법 과거 + 부정사)
++ Se lo chiede lui... se lo chiedo io... = 요청 주체에 따른 조건 (직설법 현재)
++ sostituire A con B = A를 B로 바꾸다 (sostituire … con)
++ fa più rumore = 가장 큰 반향을 일으키다 (fare rumore: 소동을 일으키다)
++ Non smentire = 부인하지 마 (부정 명령: non + 부정사)
++ Te lo prometto = 약속할게 (간접·직접목적 대명사 결합 te lo)

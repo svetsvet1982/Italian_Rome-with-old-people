@@ -1,0 +1,211 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 11
+@title L'articolo diciassette
+@ko 제17조
+@setting 수요일 마르사 베이다 공항·항만청 → 목요일 항만청 회의실 → 오후 → 밤
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast SARTORELLI | 리비오 사르토렐리, 공증 번역가, 81세
+@cast IDRIS | 이드리스, 타르시아 번역가(은퇴), 72세
+@cast SAADI | 사아디, 타르시아 교통·항만 장관, 62세
+@cast HAMDAN | 나디르 함단, 마르사 베이다 항만청장, 55세
+@cast KARIM | 카림 벤살라, 타르시아 공증인, 60세
+@note 폭로의 화입니다. 원본 확보 경로는 이렇게 정했습니다. 타르시아 문서고에는 서명된 이탈리아어 원본이 있고, 사아디 장관이 직접 손에 들고 옵니다. 로마의 14/C는 사라졌지만 사르토렐리 노트와 타르시아 원본을 맞대면 됩니다. 제17조의 이탈리아어 문장은 '우선권을 인정할 것을 약속한다(si impegna a riconoscere la priorità)', 타르시아어판은 '협의할 것을 약속한다'로 옮겨졌습니다. 마지막 항에는 '두 본문이 다를 경우 90일 안에 서면으로 조정한다'는 조항이 있고, 이드리스가 1998년에 여백에 남긴 유보 메모와 1999년 타르시아의 공식 서한이 이 조항을 지킨 쪽이 누구인지를 보여 줍니다. 역사 논거는 우찰레 조약(1889년 5월) 제17조입니다. 이탈리아어 본은 에티오피아 황제 메넬리크가 외교를 이탈리아를 통해 하는 것에 '동의한다'고, 암하라어 본은 '할 수 있다'고 읽혔습니다. 이탈리아는 보호국으로 해석했고 메넬리크는 1893년에 조약을 폐기했으며 1896년 아도와 전투로 이어졌습니다. 단어 하나의 차이가 전쟁으로 간 사례입니다. 어휘는 법률·번역 용어(fare fede, riserva, divergenza), 접속법 반과거와 조건법에 주목하세요.
+@next 12화: 여객선 석방, 비탈레의 사임, 란차의 청문회 자기 고발. 페데리카가 '스폰다 파이낸스'를 언급합니다.
+
+## 수요일, 교수의 도착 — IL PROFESSORE ARRIVA
+GIULIA: Dottore, lo faccio scendere io, con la valigia e con i datteri. ||| 박사님, 제가 교수님을 모시고 내려올게요. 가방이랑 대추야자랑 같이요.
+SARTORELLI: Signorina, non mi tratti come un pacco. Scendo da solo. ||| 아가씨, 날 소포 취급하지 말아요. 혼자 내릴 겁니다.
+GIULIA: Professore, la scaletta è ripida. ||| 교수님, 계단이 가팔라요.
+SARTORELLI: Ho fatto quattro piani senza ascensore per quarant'anni. Una scaletta è un divertimento. ||| 40년 동안 엘리베이터 없는 4층을 다녔어요. 이 정도 계단은 놀이죠.
+CORRADO: Livio, benvenuto a Marsa Beida. ||| 리비오, 마르사 베이다에 오신 걸 환영합니다.
+SARTORELLI: Corrado. Ho portato il quaderno. Rosalba voleva darmi la sciarpa, ma qui ci sono trentadue gradi. ||| 코라도. 노트를 가져왔어요. 로잘바가 목도리를 주려 했는데 여긴 32도네요.
+CORRADO: C'è una persona che la aspetta. ||| 기다리는 분이 계십니다.
+IDRIS: Professor Sartorelli. ||| 사르토렐리 교수님.
+SARTORELLI: Signor Idris. Quasi trent'anni di conversazione per posta, e ora le vedo la faccia. ||| 이드리스 선생. 거의 30년 동안 편지로만 대화했는데 이제야 얼굴을 보는군요.
+IDRIS: Abbiamo scambiato un dizionario con dei datteri. Ora scambiamo datteri con un libro. ||| 사전과 대추야자를 맞바꿨죠. 이제는 대추야자를 책과 맞바꿉시다.
+SARTORELLI: Ho portato un libro. Il vocabolario Zingarelli, edizione del 1998. ||| 책을 가져왔어요. 1998년판 «칭가렐리» 사전이요.
+IDRIS: Il mio è del 1996. La differenza di due anni spiega tutto. ||| 제 건 1996년판입니다. 2년 차이가 모든 걸 설명하겠군요.
+SARTORELLI: Come si dice, in tarsiano, «mi vergogno»? ||| 타르시아어로 '부끄럽다'는 뭐라고 합니까?
+IDRIS: Si dice «ho il viso caldo». ||| '얼굴이 뜨겁다'고 합니다.
+SARTORELLI: Allora ho il viso caldo da ventisette anni. ||| 그럼 27년 동안 얼굴이 뜨거웠던 거네요.
+IDRIS: Anch'io, professore. Ma io avevo scritto a margine quello che pensavo. ||| 저도입니다, 교수님. 하지만 저는 여백에 생각을 적어 놓았습니다.
+SARTORELLI: Cosa avevi scritto? ||| 뭐라고 적었습니까?
+IDRIS: Domani. Domani, davanti al ministro. ||| 내일. 내일 장관님 앞에서요.
+CORRADO: Giulia, hai portato la fotocopia del quaderno? ||| 조울리아, 노트 복사본은 가져왔어?
+GIULIA: Quarantasei pagine, autenticate dal notaio Pace. ||| 46쪽, 파체 공증인의 인증본이에요.
+CORRADO: E la dichiarazione giurata? ||| 선서 진술서는?
+GIULIA: Nella cartella. E la tessera sanitaria del professore, in caso. ||| 서류철에 있어요. 교수님 건강보험증도요, 만약을 위해서요.
+SARTORELLI: Signorina, io non muoio in missione. Muoio a casa, in poltrona, con un buon libro. ||| 아가씨, 난 임무 중에는 안 죽어요. 집에서 안락의자에 앉아 좋은 책과 함께 죽을 겁니다.
+GIULIA: Non lo dica nemmeno per scherzo. ||| 농담으로라도 그런 말씀 마세요.
+SARTORELLI: Faccio sempre scherzi. Gli unici veri sono i miei. ||| 난 항상 농담을 하죠. 진짜는 내 농담뿐이에요.
+CORRADO: Allora si riposi. Domattina alle nove, nella sala del porto. ||| 그럼 쉬세요. 내일 아침 9시, 항만청 회의실입니다.
++ non mi tratti come un pacco = 날 소포 취급하지 마세요 (trattare + come, 명령형 부정 Lei)
++ ho il viso caldo = 얼굴이 뜨겁다 (타르시아식 '부끄럽다')
++ vocabolario Zingarelli = «칭가렐리» 이탈리아어 사전
++ tessera sanitaria = 건강보험증
++ in caso = 만약을 대비해 (in caso di necessità의 약식)
++ muoio in poltrona = 안락의자에서 죽는다 (노교수의 농담)
+
+## 목요일, 원본 — L'ORIGINALE
+HAMDAN: La sala è pronta. Il ministro è arrivato con una valigetta che non ha mollato un secondo. ||| 회의실 준비가 끝났습니다. 장관님이 서류 가방을 한순간도 놓지 않고 오셨습니다.
+CORRADO: Il notaio? ||| 공증인은요?
+HAMDAN: Karim Bensalah. Sessant'anni, si presenta come «un orologio svizzero con la barba». ||| 카림 벤살라, 60세. 자기 소개로는 '수염 난 스위스 시계'랍니다.
+KARIM: Signori, dichiaro aperta la verifica. Sono presenti le Parti, un traduttore per parte e un notaio. ||| 여러분, 검증 개시를 선언합니다. 양측과 각 측 번역가 한 명씩, 공증인이 입회했습니다.
+SAADI: Il documento. ||| 문서입니다.
+KARIM: Prego, ministro. Apra lei. ||| 장관님이 열어 주십시오.
+SAADI: Lo apro con le mani nude. Non voglio guanti: è un pezzo di famiglia. ||| 맨손으로 열겠소. 장갑은 필요 없소. 집안의 한 조각이니까.
+GIULIA: Quattordici fogli, filo rosso, tre sigilli di ceralacca. ||| 14장, 붉은 실, 밀랍 도장 세 개예요.
+KARIM: Le firme? ||| 서명은요?
+GIULIA: Alla fine. Da una parte il sottosegretario di allora, con una firma a stampatello. Dall'altra il vice ministro tarsiano. ||| 마지막 장에 있어요. 한쪽엔 당시 차관의 또박또박한 서명, 다른 쪽엔 타르시아 부장관의 서명이요.
+CORRADO: Data? ||| 날짜는요?
+GIULIA: Ventitré ottobre 1998. Ore sei e quaranta. ||| 1998년 10월 23일. 6시 40분이요.
+SARTORELLI: Sei e quaranta. Dopo la nostra famosa discussione. ||| 6시 40분. 우리의 유명한 논쟁 뒤군요.
+KARIM: La verifica dei sigilli: autentici. La carta: coerente con il 1998. Procediamo alla lettura. ||| 도장 확인: 진본. 종이: 1998년과 부합. 낭독으로 넘어갑니다.
+SAADI: Dottor Lanza. Legge lei, in italiano. ||| 란차 박사. 박사가 이탈리아어로 읽으시오.
+CORRADO: No, Ministro. Legge la mia analista. Ha l'accento più chiaro. ||| 아닙니다, 장관님. 제 분석관이 읽습니다. 억양이 더 또렷해서요.
+GIULIA: Articolo uno: «Le Parti si riconoscono reciprocamente come interlocutori paritetici». ||| 제1조. '양측은 서로를 대등한 협상 상대로 인정한다.'
+IDRIS: In tarsiano: «Le due case si riconoscono come ospiti uguali». ||| 타르시아어로는 '두 집은 서로를 동등한 손님으로 인정한다'입니다.
+SARTORELLI: Un po' più poetico. Ma accettabile. ||| 조금 더 시적이군요. 하지만 받아들일 만합니다.
+GIULIA: Articolo due: debito. «L'Italia si impegna a condonare il debito ... nelle forme e nei tempi concordati». ||| 제2조. 부채. '이탈리아는 합의된 방식과 시기에 부채를 탕감할 것을 약속한다.'
+IDRIS: Corrisponde. ||| 일치합니다.
+GIULIA: Articoli da tre a sedici: tecnici. Porto, rotte, formazione, dogane. ||| 제3조부터 제16조까지는 실무예요. 항구, 항로, 교육, 세관.
+KARIM: Corrispondenti? ||| 일치합니까?
+SARTORELLI: Uno per uno, sì. Per questo la discordanza era così sottile. ||| 하나하나 보면 일치해요. 그래서 불일치가 그토록 미묘했던 거죠.
+CORRADO: Articolo diciassette. ||| 제17조.
+SAADI: Aspetta. Un bicchiere d'acqua. ||| 잠깐. 물 한 잔 주게.
+HAMDAN: Ecco, ministro. ||| 여기 있습니다, 장관님.
+SAADI: Adesso. ||| 이제.
++ aprire con le mani nude = 맨손으로 열다 (nude: 장갑 없이)
++ ceralacca = 밀랍 (봉인용)
++ firma a stampatello = 또박또박 쓴 서명 (stampatello: 인쇄체)
++ interlocutori paritetici = 대등한 협상 상대 (paritetico)
++ sottosegretario / viceministro = 차관 / 부장관 (직위 어휘)
++ Corrisponde. = 일치합니다. (corrispondere)
+## 제17조 — L'ARTICOLO DICIASSETTE
+GIULIA: «Articolo diciassette. La Repubblica Italiana si impegna a riconoscere alla Repubblica di Tarsia la priorità nello sfruttamento dei giacimenti sottomarini dell'area meridionale». ||| '제17조. 이탈리아 공화국은 타르시아 공화국에게 남부 해역 해저 가스전 개발의 우선권을 인정할 것을 약속한다.'
+SAADI: Ripeti. ||| 다시 읽어 보시오.
+GIULIA: «Si impegna a riconoscere la priorità». ||| '우선권을 인정할 것을 약속한다.'
+SAADI: Idris. Il nostro testo. ||| 이드리스. 우리 쪽 본문을.
+IDRIS: «L'Italia si impegna a consultare Tarsia sul tema dei giacimenti meridionali». ||| '이탈리아는 남부 가스전 문제에 대해 타르시아와 협의할 것을 약속한다.'
+SAADI: Consultare. ||| 협의라.
+IDRIS: Un verbo di cortesia, ministro. Non di diritto. ||| 예의의 동사입니다, 장관님. 권리의 동사가 아니라.
+SAADI: Chi ha scelto questo verbo? ||| 누가 이 동사를 골랐소?
+SARTORELLI: Io, ministro. Su ordine. ||| 저입니다, 장관님. 명령을 받고요.
+SAADI: Dell'Italia. ||| 이탈리아의.
+SARTORELLI: Di un giovane funzionario che trasmetteva l'ordine di qualcun altro. Alle sei di mattina. ||| 다른 사람의 명령을 전하던 젊은 공무원이었습니다. 아침 여섯 시에요.
+SAADI: E voi della delegazione tarsiana non lo avete letto? ||| 타르시아 대표단은 읽지 않았소?
+IDRIS: Era in italiano, e in tarsiano. Il vice ministro fece leggere a me l'italiano, a voce, perché non si fidava della carta. ||| 이탈리아어본과 타르시아어본이 있었습니다. 부장관님은 종이를 믿지 않아서 저더러 이탈리아어를 구두로 읽게 하셨습니다.
+SAADI: E tu hai letto «riconoscere». ||| 그래서 자네는 '인정한다'라고 읽었군.
+IDRIS: Ho letto «riconoscere». E nel testo tarsiano che mi hanno dato dopo c'era «consultare». ||| '인정한다'라고 읽었습니다. 그리고 나중에 받은 타르시아어 본문에는 '협의'라고 되어 있었죠.
+SAADI: E hai tenuto la bocca chiusa per ventisette anni? ||| 그런데 27년 동안 입을 다물고 있었소?
+IDRIS: No, ministro. Ho scritto. ||| 아닙니다, 장관님. 적었습니다.
+CORRADO: Dove? ||| 어디에요?
+IDRIS: A margine dell'articolo, nel nostro esemplare. In tarsiano, a matita. ||| 우리 원본 17조 여백에요. 타르시아어로, 연필로.
+KARIM: Mostri. ||| 보여 주십시오.
+IDRIS: Qui. «Riserva: il testo italiano dice di più». ||| 여기입니다. '유보: 이탈리아어 본문이 더 강하게 말한다.'
+KARIM: Una nota a margine redatta dall'interprete della delegazione tarsiana, contemporanea alla firma? ||| 서명과 같은 시기에 타르시아 대표단 통역이 쓴 여백 메모입니까?
+IDRIS: Contemporanea. La matita è di quella notte. ||| 같은 시기입니다. 연필은 그날 밤 것이에요.
+KARIM: La verificheremo con una prova di grafite. ||| 흑연 시험으로 확인하겠습니다.
+SARTORELLI: E io ho il mio quaderno: «Discordanza non sanata. 23 ottobre 1998». ||| 저한테도 노트가 있습니다. '불일치 해소되지 않음. 1998년 10월 23일.'
+KARIM: Due note indipendenti, di due traduttori diversi, della stessa notte. ||| 서로 다른 두 번역가가 같은 밤에 독립적으로 쓴 메모 두 개로군요.
+CORRADO: Che dicono la stessa cosa da lati opposti. ||| 반대편에서 같은 말을 하고 있죠.
+GIULIA: Dottore, c'è la clausola finale. ||| 박사님, 마지막 항이 있어요.
+CORRADO: Leggila. ||| 읽어 줘.
+GIULIA: «Il presente Memorandum è redatto in due testi, italiano e tarsiano, che fanno ugualmente fede. In caso di divergenza, le Parti si obbligano a riconciliarli per iscritto entro novanta giorni». ||| '이 각서는 이탈리아어와 타르시아어 두 본문으로 작성되며 둘 다 동등한 효력을 갖는다. 두 본문이 다를 경우 양측은 90일 안에 서면으로 조정할 의무를 진다.'
+SAADI: Novanta giorni. ||| 90일이라.
+GIULIA: Che sono passati, ministro. Con un po' di ritardo, sì: ventisette anni. ||| 이미 지났죠, 장관님. 조금 늦게요. 27년이나요.
+CORRADO: Quindi la divergenza non è una scusa. È proprio il caso previsto dall'articolo. ||| 그러니 불일치는 핑계가 아닙니다. 조항이 바로 상정한 경우입니다.
+SAADI: E chi doveva riconciliare? ||| 누가 조정했어야 했소?
+CORRADO: Entrambe le Parti. Ma la prima mossa spettava a chi se n'era accorto. ||| 양측 모두입니다. 하지만 첫걸음은 불일치를 알아챈 쪽에 있었죠.
+SAADI: E noi ce ne siamo accorti. ||| 우린 알아챘지.
+IDRIS: Ministro, nel 1999 la delegazione scrisse una lettera per chiederlo. ||| 장관님, 1999년에 우리 대표단이 그걸 요청하는 서한을 보냈습니다.
+SAADI: Ce l'abbiamo? ||| 우리한테 있소?
+IDRIS: In archivio, nel faldone sei. Con la ricevuta di ritorno. ||| 문서고 6번 서류철에 있습니다. 수령 확인증과 함께요.
+CORRADO: Giulia, nell'indice di Via Veneto, cosa c'è sotto il 1999? ||| 조울리아, 베네토 거리 색인의 1999년 항목에는 뭐가 있지?
+GIULIA: «Corrispondenza con Tarsia: dispensata». ||| '타르시아와의 서신: 면제'요.
+CORRADO: Dispensata. La stessa parola che avevano usato per il rapporto finale. ||| 면제라. 최종 보고서에 쓴 것과 같은 단어군요.
+SAADI: Quindi l'Italia ha ricevuto la mia lettera e l'ha messa a dormire. ||| 그러니까 이탈리아는 내 편지를 받고 재워 버렸군.
+CORRADO: Sì, Ministro. L'ha messa a dormire. ||| 네, 장관님. 재워 버렸습니다.
++ fare fede = 효력을 갖다, 증거가 되다 (두 본문이 동등한 효력)
++ riserva = 유보 (조약 용어, 여백 메모)
++ prova di grafite = 흑연 시험 (연필 필적의 연대 확인)
++ In caso di divergenza = 불일치의 경우에 (조약 조항 문체)
++ si obbligano a + 부정사 = ~할 의무를 진다 (obbligarsi, 'si impegnano'와 대비)
++ mettere a dormire = 재워 두다, 묵히다 (서류 방치의 은유)
+
+## 우찰레 — UCCIALLI
+SARTORELLI: Posso dire una cosa che non è nel quaderno? ||| 노트에 없는 말을 해도 될까요?
+CORRADO: Prego, professore. ||| 말씀하세요, 교수님.
+SARTORELLI: Nel 1889, a Uccialli, in Etiopia, l'Italia firmò un trattato con l'imperatore Menelik. ||| 1889년, 에티오피아의 우찰레에서 이탈리아가 메넬리크 황제와 조약을 맺었습니다.
+CORRADO: L'articolo diciassette. ||| 제17조요.
+SARTORELLI: Lo conosce? Allora racconto io il resto. Il testo italiano diceva che Menelik «consente di servirsi» dell'Italia per i suoi rapporti con le altre potenze. ||| 아시는군요. 그럼 나머지는 제가 말하죠. 이탈리아어 본문은 메넬리크가 다른 열강과의 관계에서 이탈리아를 '이용하는 데 동의한다'고 했습니다.
+GIULIA: E il testo amarico? ||| 암하라어 본문은요?
+SARTORELLI: Diceva che «può servirsi». Una parola in meno di forza e una libertà in più. ||| '이용할 수 있다'였죠. 단어 하나만큼 힘이 약하고 자유는 하나 더 있는 겁니다.
+CORRADO: E l'Italia scelse l'interpretazione più comoda. ||| 그리고 이탈리아는 더 편한 해석을 택했죠.
+SARTORELLI: Comunicò alle altre potenze che l'Etiopia era un suo protettorato. ||| 다른 열강에 에티오피아가 자기 보호국이라고 통보했습니다.
+SAADI: E l'imperatore? ||| 황제는?
+SARTORELLI: Protestò per anni. Nel 1893 denunciò il trattato. Nel 1896, ad Adua, le due versioni si incontrarono sul campo. ||| 몇 해를 항의하다 1893년 조약을 폐기했습니다. 1896년 아도와에서 두 본문은 전장에서 만났죠.
+SAADI: Per una parola. ||| 단어 하나 때문에.
+SARTORELLI: Per una parola e per il rifiuto di rileggerla. La parola era un difetto. Il rifiuto era una colpa. ||| 단어 하나와, 그걸 다시 읽기를 거부한 일 때문에요. 단어는 결함이었고 거부는 죄였습니다.
+CORRADO: Nel nostro caso la colpa è stata dispensare la lettera del 1999. ||| 우리 경우의 죄는 1999년의 서한을 면제 처리한 일이군요.
+SARTORELLI: Sì. Ma ricordi, Corrado: l'errore non è mai solo dei romani. ||| 그렇죠. 하지만 기억하세요, 코라도. 잘못은 로마 사람들만의 것이 아닙니다.
+CORRADO: Cioè? ||| 무슨 뜻입니까?
+SARTORELLI: Una delegazione che firma alle sei di mattina, stanca, dopo un'intera notte, firma quasi sempre una cosa che non ha letto. ||| 밤을 꼬박 새운 새벽 여섯 시에 서명하는 대표단은 거의 언제나 읽지 않은 것에 서명하죠.
+SAADI: Parli per esperienza. ||| 경험에서 하는 말이군.
+SARTORELLI: Parlo per me, ministro. Ho firmato anch'io. ||| 저 자신 얘기입니다, 장관님. 저도 서명했으니까요.
+SAADI: Allora siamo tutti colpevoli di qualcosa. ||| 그럼 우리 모두 뭔가 죄가 있는 거로군.
+CORRADO: Quasi sempre è così a una tavola. ||| 식탁에서는 거의 늘 그렇죠.
+SAADI: E dopo la colpa? ||| 그럼 죄 다음에는?
+CORRADO: Dopo la colpa si mangia, si prende una decisione e si rilegge. ||| 죄 다음에는 먹고, 결정하고, 다시 읽습니다.
+SAADI: In quest'ordine? ||| 그 순서로?
+CORRADO: Per esperienza, sì. A stomaco vuoto si rilegge male. ||| 경험상 그렇습니다. 빈속에는 다시 읽기를 잘못하거든요.
+SAADI: Hamdan, il pranzo. ||| 함단, 점심을 내오게.
+HAMDAN: Subito, ministro. ||| 곧 내오겠습니다, 장관님.
++ consente di servirsi / può servirsi = 이용하는 데 동의한다 / 이용할 수 있다 (우찰레 17조의 이탈리아어본·암하라어본 차이)
++ protettorato = 보호국 (이탈리아가 제17조를 근거로 주장)
++ denunciare un trattato = 조약을 폐기하다 (법률 용어: denunciare)
++ Una parola in meno di forza = 힘이 단어 하나만큼 모자란다 (비교의 'in meno')
++ Parli per esperienza = 경험에서 하는 말이군 (per esperienza)
++ a stomaco vuoto = 빈속에 (관용)
+
+## 합의의 윤곽 — IL PROFILO DELL'INTESA
+SAADI: Mangiamo. Ma prima voglio dire una cosa a tutti. ||| 먹읍시다. 하지만 먼저 모두에게 할 말이 있소.
+KARIM: Ministro, la verbalizzo? ||| 장관님, 조서에 올릴까요?
+SAADI: Sì. L'Italia ha un testo che dice «riconoscere». Tarsia ha un testo che dice «consultare». ||| 그러시오. 이탈리아에는 '인정'이라고 쓴 본문이 있고, 타르시아에는 '협의'라고 쓴 본문이 있소.
+CORRADO: Ministro, se posso... ||| 장관님, 괜찮으시다면…
+SAADI: Parla. ||| 말하게.
+CORRADO: Il testo italiano è quello firmato, e il testo tarsiano è quello consegnato, e l'articolo dice che valgono entrambi. ||| 서명된 것은 이탈리아어 본문이고, 건네진 것은 타르시아어 본문이며, 조항은 둘 다 유효하다고 말합니다.
+SAADI: Quindi l'Italia ha promesso due cose diverse. ||| 그럼 이탈리아는 서로 다른 두 가지를 약속한 셈이군.
+CORRADO: L'Italia ha promesso una cosa sola in due lingue, e l'ha detta male in una. ||| 이탈리아는 두 언어로 한 가지를 약속했는데 한쪽에서 잘못 말했습니다.
+SAADI: E ora? ||| 그럼 이제는?
+CORRADO: Ora si applica la clausola finale: si riconciliano i testi per iscritto. ||| 이제는 마지막 항을 적용합니다. 두 본문을 서면으로 조정하는 겁니다.
+SAADI: Riconciliare vuol dire che io perdo qualcosa. ||| 조정한다는 건 내가 뭔가를 잃는다는 뜻이지.
+CORRADO: Vuol dire che nessuno dei due ha tutto, e che tutti e due hanno qualcosa di scritto. ||| 어느 쪽도 전부를 갖지 못하고, 양쪽 다 서면으로 뭔가를 갖는다는 뜻입니다.
+SAADI: Una terza strada. ||| 제3의 길이로군.
+CORRADO: Un fondo comune di sviluppo, in cui il debito condonato e la priorità si trasformano in un'unica cosa. ||| 탕감된 부채와 우선권이 하나로 변하는 공동 개발 기금입니다.
+SAADI: Cioè? ||| 구체적으로?
+CORRADO: L'Italia converte il debito in capitale del fondo. Il fondo finanzia il porto e lo sviluppo del giacimento, con diritto di prima offerta per Tarsia. ||| 이탈리아는 부채를 기금의 자본으로 전환합니다. 기금은 항구와 가스전 개발에 자금을 대고, 타르시아가 우선 제안권을 갖습니다.
+SAADI: Diritto di prima offerta. Non priorità. ||| 우선 제안권이라. 우선권이 아니군.
+CORRADO: È una priorità con i piedi per terra. Una priorità che si può esigere in tribunale. ||| 땅에 발을 붙인 우선권입니다. 법정에서 요구할 수 있는 우선권이죠.
+SAADI: E i francesi? Hanno concessioni al nord. ||| 프랑스는? 북쪽에 채굴권이 있지.
+CORRADO: Il nord non si tocca. Il fondo riguarda il sud, e il sud è vostro. ||| 북쪽은 건드리지 않습니다. 기금은 남쪽이고 남쪽은 귀하의 것입니다.
+SAADI: E chi garantisce? ||| 누가 보증하오?
+CORRADO: L'Unione europea come osservatore, come nell'articolo quattro della bozza di Bruxelles. ||| 브뤼셀 초안 제4조처럼 유럽연합이 옵서버로 맡습니다.
+SAADI: Ci penserò stanotte. ||| 오늘 밤 생각해 보겠소.
+CORRADO: Ministro, la nave? ||| 장관님, 배는요?
+SAADI: La nave parte domani all'alba, se domani all'alba avrò il vostro governo seduto a questo tavolo. ||| 내일 새벽에 당신들 정부가 이 식탁에 앉아 있다면 배는 내일 새벽에 출항하오.
+CORRADO: Domani alle otto. Verranno il Segretario e un rappresentante del Ministro. ||| 내일 8시에 사무총장과 장관 대리인이 올 겁니다.
+SAADI: Il Segretario? Quello della prima pagina? ||| 사무총장이라고? 1면 기사에 나온 그 사람?
+CORRADO: Quello. Verrà a dire una cosa che non è mai stata detta. ||| 그 사람입니다. 한 번도 말해지지 않은 말을 하러 올 겁니다.
+SAADI: Allora aspetterò un uomo. Non un funzionario. ||| 그럼 한 사람을 기다리겠소. 공무원이 아니라.
+CORRADO: Spero di riuscire a farli arrivare tutti e due nella stessa persona. ||| 둘이 한 사람 안에서 함께 오도록 만들어 보겠습니다.
++ riconciliare i testi = 본문을 조정하다 (riconciliare, 조약 해석 용어)
++ diritto di prima offerta = 우선 제안권 (우선권의 완화·구체화)
++ con i piedi per terra = 현실적인 (직역: 발을 땅에 붙인)
++ si applica la clausola finale = 마지막 항이 적용된다 (수동의 si)
++ ci penserò = 생각해 보겠다 (미래형, 고민의 시간 요청)
++ verbalizzare = 조서에 올리다, 기록하다
