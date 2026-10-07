@@ -1,0 +1,73 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 9
+@title Il Monsignore
+@ko 몬시뇰
+@setting 월요일 오전 10시 바티칸 국무원 회의실 → 정오 성 베드로 광장 옆 바 → 오후 전화
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast PELLEGRINI | 국무원 대표 몬시뇰, 61세
+@cast SERENI | 성 마르티노 재단 회계 담당(전화), 56세
+@cast GIULIA | 분석관, 31세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@note 9화는 배신의 화입니다. 국무원 회의실에서 벨란디의 서류철이 열리고, 27쪽이 없다는 사실이 드러납니다. 벨란디는 수첩에서 뜯어낸 27쪽을 낭독해 3년 전과 이번에 비공식 경로로 지급하려 했음, 그리고 그 동기(수녀 베네데타가 1998년 그의 목숨을 구했던 일과 그 약속)를 밝힙니다. 란차는 콘스탄츠 공의회(1414~18)에서 그레고리오 12세가 공의회를 합법적으로 다시 소집한 뒤 명예롭게 사임한 선례로 '명예로운 퇴장'을 설계합니다. 어휘는 배신·고백(tradimento, confessione, fascicolo, dimissioni, onore)에 주목하세요.
+@next 10화: 성당 고해실 격자 너머로 보이지 않는 상대와 대화합니다. 얼굴 대신 목소리만 오갑니다.
+
+## 국무원 회의실 — LA SALA DELLA SEGRETERIA DI STATO
+PELLEGRINI: Buongiorno a tutti. Sono monsignor Pellegrini, delegato del Segretario di Stato. Questa è una riunione riservata e verbalizzata. ||| 모두 안녕하십니까. 국무원장의 대리인 펠레그리니 몬시뇰입니다. 이 회의는 비공개이며 기록됩니다.
+ORSOLINI: Ambasciatore Orsolini, per il Ministero. Il dottor Lanza mi assiste. ||| 외무부의 오르솔리니 대사입니다. 란차 박사가 저를 보좌합니다.
+PELLEGRINI: Monsignor Bellandi ha chiesto che il fascicolo fosse aperto alla presenza delle due parti. È una richiesta insolita. La accogliamo. ||| 벨란디 몬시뇰이 양측 입회 하에 서류철을 열어 달라고 요청했습니다. 이례적인 요청이지만 받아들입니다.
+BELLANDI: Grazie, monsignor Pellegrini. Grazie, ambasciatore. Dottor Lanza. ||| 감사합니다, 펠레그리니 몬시뇰. 감사합니다, 대사님. 란차 박사.
+CORRADO: Ettore. ||| 에토레.
+BELLANDI: Ho portato il caffè. Il suo. Ma non lo bevo io. ||| 커피를 가져왔네. 자네 걸로. 하지만 내가 마시진 않을 거야.
+PELLEGRINI: Il fascicolo ha quarantun pagine. Le numeriamo ad alta voce. Pagina uno: lettera di accompagnamento del dicembre di tre anni fa. ||| 서류철은 41쪽입니다. 소리 내어 번호를 매기겠습니다. 1쪽, 3년 전 12월의 송부 서한.
+ORSOLINI: Prego. ||| 계속하십시오.
+PELLEGRINI: Pagina due: bolla di spedizione, container numero TKRU quattro-cinque-uno. ||| 2쪽, 선하증권, 컨테이너 번호 TKRU 451.
+CORRADO: Mittente? ||| 발송인은요?
+PELLEGRINI: Marenostrum Holding, Lussemburgo. Destinatario: ospedale di missione Santa Rita, Ndolo. Pagina tre: elenco del contenuto. ||| 마레노스트룸 홀딩, 룩셈부르크. 수신인은 놀로 산타 리타 선교 병원. 3쪽, 내용물 목록.
+ORSOLINI: Procediamo. ||| 계속합시다.
+PELLEGRINI: Pagina quattro, cinque, sei: ricevute di consegna, firmate da suor Benedetta Rinaldi. ||| 4, 5, 6쪽, 인도 영수증, 베네데타 리날디 수녀 서명.
+CORRADO: Firmate da lei. ||| 수녀님이 서명했군요.
+PELLEGRINI: Sì. Pagina sette: lettera di ringraziamento della Fondazione San Martino. Pagina otto, nove… ||| 네. 7쪽, 성 마르티노 재단의 감사 서한. 8쪽, 9쪽…
+ORSOLINI: Dottor Lanza, ha un foglio? ||| 란차 박사, 종이 있습니까?
+CORRADO: Sì. ||| 있습니다.
+ORSOLINI: Prenda nota di ogni pagina che non sia una ricevuta o una lettera. ||| 영수증이나 편지가 아닌 쪽은 전부 적어 두세요.
+CORRADO: Lo faccio. ||| 하겠습니다.
+PELLEGRINI: Pagina dieci: appunto manoscritto, due righe. «Pagato un terzo in anticipo. Il resto a consegna». ||| 10쪽, 수기 메모 두 줄. "3분의 1 선지급. 나머지는 인도 시."
+ORSOLINI: Che cosa è «pagato»? ||| '지급'이라는 게 뭡니까?
+BELLANDI: Il container, ambasciatore. Il costo del container. Spedito in anticipo. ||| 컨테이너입니다, 대사님. 컨테이너 비용이죠. 먼저 발송한 겁니다.
+ORSOLINI: Ho capito. Proseguiamo. ||| 알겠습니다. 계속하죠.
+PELLEGRINI: Pagina undici, dodici, tredici: corrispondenza con un intermediario. Sigla: «A». ||| 11, 12, 13쪽, 중개인과의 서신. 약호 'A'.
+CORRADO: Abdoulaye. ||| 압둘라예군요.
+BELLANDI: Sì. ||| 그렇네.
+PELLEGRINI: Pagine quattordici-venti: bozze di una relazione che monsignor Bellandi non ha mai inviato. ||| 14~20쪽, 벨란디 몬시뇰이 한 번도 보내지 않은 보고서 초안.
+ORSOLINI: Mai inviata. ||| 한 번도 보내지 않았다니.
+BELLANDI: Mai. ||| 한 번도.
+PELLEGRINI: Pagine ventuno-ventisei: nuove ricevute di consegna. Una data più recente: quella di tre giorni fa. ||| 21~26쪽, 새 인도 영수증들. 날짜가 더 최근입니다. 사흘 전 것입니다.
+ORSOLINI: Tre giorni fa? ||| 사흘 전이요?
+PELLEGRINI: Pagina ventisei: ricevuta di una bolla di spedizione, container numero TKRU quattro-sei-tre. Mittente: Marenostrum Holding. ||| 26쪽, 선하증권 영수증, 컨테이너 번호 TKRU 463. 발송인은 마레노스트룸 홀딩.
+CORRADO: Un secondo container. ||| 두 번째 컨테이너군요.
+BELLANDI: Sì. ||| 그렇네.
+PELLEGRINI: Pagina ventisette... ||| 27쪽은…
+ORSOLINI: Prego? ||| 어떻습니까?
+PELLEGRINI: Non c'è. ||| 없습니다.
+ORSOLINI: Come non c'è? ||| 없다니요?
+PELLEGRINI: Dopo la pagina ventisei viene la ventotto. Il numero ventisette è saltato. Il foglio è stato strappato. ||| 26쪽 다음이 28쪽입니다. 27이 빠졌습니다. 종이가 찢어져 있어요.
+ORSOLINI: Monsignor Bellandi, lo sapeva? ||| 벨란디 몬시뇰, 알고 계셨습니까?
+BELLANDI: L'ho strappata io. ||| 제가 찢었습니다.
+ORSOLINI: Quando? ||| 언제요?
+BELLANDI: Questa mattina. Alle sei. In macchina. ||| 오늘 아침 6시에요. 차 안에서.
+ORSOLINI: Perché? ||| 왜죠?
+BELLANDI: Perché volevo leggerla io. Prima che la leggesse qualcuno al posto mio. ||| 제가 직접 읽고 싶었으니까요. 누군가 나 대신 읽기 전에.
++ fascicolo = 서류철
++ verbalizzare = 조서·회의록으로 작성하다
++ lettera di accompagnamento = 송부 서한
++ bolla di spedizione = 선하증권, 발송 증서
++ ricevuta di consegna = 인도 영수증
++ sigla = 약호, 머리글자
++ strappare = 찢다
++ Segretario di Stato = (바티칸) 국무원장
++ saltare = 건너뛰다, 빠지다
