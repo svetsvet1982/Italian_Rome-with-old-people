@@ -1,0 +1,203 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 1
+@title Les ingénieurs retenus
+@ko 억류된 기술자들
+@setting 케도르세 위기 상황실 → 라스 사피나와의 화상 연결 → 복도의 엘렌 → 발쿠르와의 점심(치즈 카트) → 들로름의 집 식탁
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 리옹 출신, 부숑 집안의 아들
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 마르세유 출신 법학자
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세. 치즈 카트 앞에서 역사를 들려준다
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장(directeur de cabinet), 51세
+@cast MAILLARD | 티에리 마야르, 억류된 기술자 팀의 프로젝트 책임자, 52세
+@cast NADIA | 나디아 베나이사, 억류된 전투체계 기술자, 38세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 철학 시험 준비 중
+@note 1부의 첫 화입니다. 카스라 에미르국이 프랑스 조선소 «에스튀에르 조선» 소속 기술자 14명을 '사법 당국의 처분 하에' 억류합니다. 쟁점은 초계함 4척 건조 계약(제3선까지 인도, 제4선 기한 9월 30일)과 3월 14일자 부속 서한입니다. 카스라는 위약 벌금 8,700만 유로를 청구합니다. 모두가 '돈과 기술'을 말하는 동안, 기술자 마야르의 한마디 '우린 배가 아니라 단어를 납품했어요'가 질문을 바꿉니다. 문제는 계약의 한 문장입니다. 역사 논거는 아미앵의 판결(Mise d'Amiens, 1264년 1월)입니다. 성왕 루이 9세가 영국 왕 헨리 3세와 귀족들 사이를 중재해 '옥스퍼드 조항'을 무효로 판정했고, 양측이 미리 중재자를 받아들였다는 점이 핵심이지만 판결은 오래가지 못해 같은 해 루이스 전투로 이어졌습니다. 어휘는 retenu와 détenu의 차이, 접속법(Il faut que…, bien que…, pourvu que…), 법률 어휘(avenant, pénalités, lettre annexe), 'D'accord, mais…' 화법에 주목하세요.
+@next 2화: 쥘리앵은 제네바로 날아가 호텔 티룸에서 카스라 외교차관을 비공식으로 만납니다. 차관은 옛 프랑스어로 말하며 '아무도 다시 읽지 않는 서한'을 암시합니다.
+
+## 아침, 위기 상황실 — LA CELLULE DE CRISE
+CAMILLE: Monsieur Delorme, vous avez vu le fil de l'agence ? Quatorze ingénieurs de Saint-Nazaire sont retenus à Ras Safina depuis mardi. ||| 들로름 부실장님, 통신 속보 보셨어요? 생나제르 기술자 열네 명이 화요일부터 라스 사피나에 억류돼 있어요.
+JULIEN: Je l'ai vu. Mais d'abord, « retenus » ou « détenus » ? Les deux mots ne coûtent pas le même prix. ||| 봤어요. 그런데 먼저, '리트뉘'예요 '데트뉘'예요? 두 단어는 값이 달라요.
+CAMILLE: Les Kasriens disent « retenus à la disposition de la justice ». Ils sont dans un hôtel, avec des gardes à chaque étage. ||| 카스라 쪽은 '사법 당국의 처분 하에 머물게 했다'고 해요. 호텔에 있고 층마다 경비가 서 있고요.
+JULIEN: Donc pas de cellule, pas d'accusation, mais pas de sortie non plus. C'est précisément la zone où l'on ne sait plus quel droit s'applique. ||| 그러니까 감방도 기소도 없지만 나갈 수도 없다. 어떤 법이 적용되는지 알 수 없는 바로 그 지대네요.
+CAMILLE: Le contrat s'appelle « Sentinelle » : quatre patrouilleurs de haute mer pour la marine de Kasra, un milliard quatre cents millions d'euros. ||| 계약 이름은 '상티넬'이에요. 카스라 해군에 외양 초계함 네 척, 14억 유로짜리고요.
+JULIEN: Et où en est-on dans la livraison ? ||| 인도는 어디까지 됐죠?
+CAMILLE: Trois coques livrées et recettées. La quatrième devait partir le 30 septembre. Elle est en retard de huit jours. ||| 세 척은 인도하고 검수까지 끝났어요. 네 번째는 9월 30일에 출항해야 했는데 8일 늦었어요.
+JULIEN: Huit jours de retard, quatorze hommes en otage. Les proportions sont assez mauvaises. ||| 8일 지연에 열네 명이 인질이라. 비율이 꽤 나쁘네요.
+CAMILLE: Les Kasriens réclament quatre-vingt-sept millions d'euros de pénalités. Ils invoquent une « lettre annexe » du 14 mars. ||| 카스라는 위약 벌금으로 8,700만 유로를 요구해요. 3월 14일자 '부속 서한'을 근거로요.
+JULIEN: Une lettre annexe. Je n'aime pas les documents qui vivent à la périphérie du contrat. Ce sont toujours eux qui mordent. ||| 부속 서한이라. 계약 언저리에 사는 문서는 질색이에요. 꼭 그런 게 물거든요.
+LEFORT: Bonjour. Je vois que la cellule est déjà en ordre de marche. ||| 안녕하십니까. 상황실이 벌써 가동 중이군요.
+JULIEN: Monsieur le directeur de cabinet. Nous parlions justement de vous. Enfin, du dossier. ||| 비서실장님. 마침 말씀 드리던 참이었습니다. 아니, 사안 말입니다.
+LEFORT: Le ministre souhaite une résolution rapide et discrète. Il faut que la presse ne s'empare pas de l'affaire avant la fin de la semaine. ||| 장관님은 신속하고 조용한 해결을 원하십니다. 이번 주말 전에 언론이 이 일을 물지 않도록 해야 합니다.
+JULIEN: Discrète, je veux bien. Mais quatorze familles ont déjà appelé le standard, et deux ont écrit à leur député. ||| 조용히는 좋습니다. 하지만 열네 가족이 벌써 교환대에 전화했고, 두 가족은 지역구 의원에게 편지를 썼어요.
+LEFORT: Raison de plus pour agir dans les formes. Vous n'interviendrez que sur mandat écrit du cabinet. ||| 그러니 더욱 절차대로 하셔야죠. 비서실의 서면 위임이 있을 때만 움직이십시오.
+JULIEN: D'accord, mais les ingénieurs, eux, n'ont pas de mandat écrit pour attendre. ||| 알겠습니다. 다만 기술자들은 기다리라는 서면 위임장을 받은 적이 없습니다.
+LEFORT: Je vous ferai parvenir le mandat avant midi, pourvu que vous me promettiez de ne rien signer sans moi. ||| 정오 전에 위임장을 보내 드리죠. 내 확인 없이는 아무것도 서명하지 않겠다고 약속하신다면.
+JULIEN: Je promets de ne rien signer que je n'aie lu. C'est la seule promesse que je fais à tout le monde. ||| 제가 읽지 않은 것은 서명하지 않겠다고 약속합니다. 누구에게나 하는 유일한 약속이에요.
+LEFORT: Bien. Camille, vous me ferez la note de synthèse. Une page, pas davantage. ||| 좋습니다. 카미유, 요약 메모는 당신이 써 주세요. 한 장, 그 이상은 안 됩니다.
+CAMILLE: Une page, monsieur le directeur. Même si le dossier en fait quarante. ||| 한 장이요, 실장님. 서류가 마흔 장이라도요.
+LEFORT: C'est tout le talent d'une bonne note. Bonne journée. ||| 그게 좋은 메모의 재능입니다. 좋은 하루 되세요.
+CAMILLE: Il ne vous a pas demandé ce que vous comptiez faire. ||| 부실장님이 뭘 하실 건지는 안 물으셨네요.
+JULIEN: Il ne demande jamais ce qu'il craint d'entendre. Appelez-moi les ingénieurs. Je veux entendre leur voix avant d'entendre leur dossier. ||| 듣기 두려운 건 절대 안 묻는 사람이에요. 기술자들을 연결해 주세요. 서류보다 목소리를 먼저 듣고 싶어요.
+CAMILLE: La liaison est possible à dix heures. Les Kasriens ont autorisé vingt minutes, avec un gardien dans la pièce. ||| 10시에 연결 가능해요. 카스라가 20분을 허가했고, 방에 경비가 한 명 있어요.
+JULIEN: Vingt minutes. On va donc devoir poser les bonnes questions dans le bon ordre. ||| 20분이라. 그럼 올바른 질문을 올바른 순서로 해야겠네요.
+CAMILLE: Quelle est la première ? ||| 첫 질문은 뭔가요?
+JULIEN: « Comment allez-vous ? » C'est la seule dont la réponse change tout le reste. ||| '어떻게 지내십니까?'요. 나머지를 전부 바꾸는 답이 나오는 유일한 질문이에요.
++ retenu / détenu = 억류된(붙들려 있는) / 구금된. 외교에서는 단어 하나가 법적 지위를 바꾼다
++ à la disposition de la justice = 사법 당국의 처분 하에. 체포라고 부르지 않으면서 자유를 제한하는 완곡 표현
++ patrouilleur de haute mer = 외양 초계함. recevoir/recetter une coque = 선체를 검수해 인수하다
++ pourvu que + 접속법 = ~하기만 한다면(조건). Pourvu que vous me promettiez…
++ ne rien signer que je n'aie lu = 읽지 않은 건 서명하지 않는다. que 앞의 ne 허사와 접속법 과거
++ D'accord, mais… = 들로름의 화법. 동의하되 조건을 붙이는 정중한 반박
++ en ordre de marche = 가동 준비가 된. dans les formes = 절차를 갖추어
++ la pénalité de retard = 지체 위약금. une lettre annexe = 계약에 딸린 부속 서한
+
+## 화상 연결 — LA LIAISON VIDÉO
+JULIEN: Monsieur Maillard ? Julien Delorme, du Quai d'Orsay. Je suis avec ma collègue Camille Roussel. Vous m'entendez bien ? ||| 마야르 씨? 케도르세의 쥘리앵 들로름입니다. 동료 카미유 루셀과 함께 있고요. 잘 들리십니까?
+MAILLARD: Très bien, monsieur. On vous voit mal, mais on vous entend. Merci d'avoir appelé tout de suite. ||| 아주 잘 들립니다. 화면은 잘 안 보이지만요. 바로 연락 주셔서 감사합니다.
+JULIEN: Avant toute chose, comment allez-vous, tous les quatorze ? ||| 무엇보다 먼저, 열네 분 모두 어떠십니까?
+MAILLARD: Nous tenons. On nous nourrit, on nous traite avec politesse, et on nous explique que nous sommes des invités. ||| 버티고 있습니다. 식사도 주고, 예의 바르게 대하고, 우리가 '손님'이라고 설명합니다.
+JULIEN: Des invités qu'on ne laisse pas partir. Je connais cette hospitalité. ||| 못 떠나게 하는 손님이라. 그런 환대를 압니다.
+NADIA: Elle est plus sincère que vous ne le croyez, monsieur, et c'est ce qui est inquiétant. Ils ne nous détestent pas. Ils sont convaincus d'avoir raison. ||| 생각보다 진심이에요, 그래서 더 불안하고요. 우리를 미워하는 게 아니에요. 자기들이 옳다고 확신하는 거죠.
+JULIEN: Madame… ? ||| 실례지만 성함이?
+NADIA: Nadia Benaïssa, ingénieure systèmes de combat. J'ai trente-huit ans, et je n'ai jamais lu une ligne du contrat. On ne nous le demande pas. ||| 나디아 베나이사, 전투체계 엔지니어입니다. 서른여덟 살이고 계약서는 한 줄도 읽어 본 적이 없어요. 우리한테 그걸 요구하지 않으니까요.
+JULIEN: Monsieur Maillard, qui d'entre vous a besoin de soins en priorité ? ||| 마야르 씨, 누가 가장 먼저 치료가 필요합니까?
+MAILLARD: Gérard Lucas, cinquante-neuf ans. Un problème cardiaque, et son traitement s'épuise dans quatre jours. ||| 제라르 뤼카, 쉰아홉 살입니다. 심장이 안 좋은데 약이 나흘 뒤면 떨어져요.
+CAMILLE: Je préviens le médecin du ministère. Nous demanderons une visite médicale dès aujourd'hui. ||| 부처 의무관에게 알리겠습니다. 오늘 안에 진료 방문을 요청할게요.
+MAILLARD: Merci, mademoiselle. Et il y a le petit, Mathieu Corre, vingt-neuf ans. Il fait semblant de ne pas avoir peur. ||| 고맙습니다. 그리고 막내 마티외 코르, 스물아홉 살이 있어요. 무섭지 않은 척하고 있습니다.
+JULIEN: Dites-lui que nous ne l'oublions pas. Maintenant, monsieur Maillard, que reproche-t-on exactement à votre entreprise ? ||| 막내에게 우리가 잊지 않았다고 전해 주세요. 마야르 씨, 이제 귀사가 정확히 무슨 비난을 받고 있는지 말씀해 주십시오.
+MAILLARD: Officiellement, un retard sur la quatrième coque et des pénalités. Mais le retard, ils le savent, vient de leurs propres modifications de cahier des charges. ||| 공식적으로는 네 번째 선체 지연과 위약금입니다. 하지만 그 지연이 자기들의 사양 변경 때문이라는 건 그쪽도 알아요.
+JULIEN: Il existe donc des avenants qui justifient ce retard ? ||| 그럼 그 지연을 정당화하는 추가 합의서가 있나요?
+MAILLARD: Trois avenants techniques, signés par leur marine. Là-dessus, nous sommes tranquilles. ||| 그쪽 해군이 서명한 기술 추가 합의서가 세 건 있습니다. 거기에 대해선 마음 편해요.
+JULIEN: Alors pourquoi retient-on des ingénieurs plutôt que de discuter des avenants ? ||| 그런데 왜 추가 합의서를 논의하지 않고 기술자들을 붙들죠?
+MAILLARD: Parce qu'ils ne parlent pas des avenants. Ils parlent d'une lettre. Une seule lettre, du 14 mars, que personne chez nous n'a jamais regardée de près. ||| 추가 합의서 얘기는 안 하니까요. 편지 한 통 얘기만 합니다. 3월 14일자 서한 한 통, 우리 쪽에서는 아무도 자세히 본 적이 없는 거요.
+CAMILLE: Que dit cette lettre, d'après eux ? ||| 그들 말로는 그 서한에 뭐라고 쓰여 있나요?
+MAILLARD: D'après eux, que nous nous sommes obligés à livrer la quatrième coque le 30 septembre, quoi qu'il arrive. D'après nos juristes, nous avons seulement pris un engagement de faire le maximum. ||| 그들에 따르면 우리가 무슨 일이 있어도 9월 30일에 네 번째 선체를 인도할 '의무'를 졌다는 겁니다. 우리 법무팀은 최선을 다하겠다는 '약속'만 했다고 하고요.
+JULIEN: S'obliger, s'engager. Deux verbes, quatre-vingt-sept millions d'écart. ||| 의무를 지다와 약속하다. 두 동사 사이에 8,700만 유로의 차이가 있군요.
+MAILLARD: Monsieur, je vais vous dire ce que j'ai dit à ma femme ce matin. On n'a pas livré des bateaux. On a livré des mots. ||| 선생님, 오늘 아침 아내에게 한 말을 그대로 드리죠. 우린 배를 납품한 게 아닙니다. 단어를 납품한 거예요.
+NADIA: Trois coques à flot, sept cents personnes ont travaillé dessus pendant quatre ans. Et on nous les reprend pour une phrase. ||| 선체 세 척이 물에 떠 있고 700명이 4년을 매달렸어요. 그런데 문장 하나 때문에 그걸 도로 빼앗아 가요.
+JULIEN: Alors c'est là qu'il faut regarder. Pas dans les cales, dans le texte. ||| 그럼 거기를 봐야죠. 선창이 아니라 텍스트를.
+MAILLARD: Si vous trouvez la phrase, trouvez aussi qui l'a écrite. Cette lettre, personne chez nous ne se souvient de l'avoir rédigée. ||| 그 문장을 찾으시면 누가 썼는지도 찾아 주세요. 우리 중엔 그걸 쓴 기억이 있는 사람이 없어요.
+JULIEN: C'est noté. Combien de temps avons-nous encore ? ||| 알겠습니다. 시간이 얼마나 남았죠?
+CAMILLE: Quatre minutes, monsieur. Le gardien regarde sa montre. ||| 4분이요. 경비가 시계를 보고 있어요.
+JULIEN: Monsieur Maillard, un dernier point. Ne signez rien, dans aucune langue, en échange de rien. Même si on vous le présente comme une formalité. ||| 마야르 씨, 마지막입니다. 어떤 언어로든, 무엇을 대가로든 아무것도 서명하지 마십시오. 형식적인 절차라고 하더라도요.
+MAILLARD: On a déjà refusé de signer un « procès-verbal d'entretien ». Il était en arabe. ||| '면담 조서'라는 건 이미 서명을 거부했습니다. 아랍어로 되어 있었어요.
+JULIEN: Vous avez bien fait. Et nous reviendrons bientôt, je vous le promets. ||| 잘하셨습니다. 곧 다시 연락드리겠습니다, 약속합니다.
++ s'obliger à / s'engager à = ~할 의무를 지다 / ~하겠다고 약속하다. 계약 분쟁의 핵심 뉘앙스
++ un avenant = 계약 추가·변경 합의서. cahier des charges = 사양서(요구 조건 명세)
++ recetter = (납품물을) 검수하고 수령하다. à flot = 물에 떠 있는
++ quoi qu'il arrive = 무슨 일이 있어도(접속법 arrive)
++ faire le maximum / obligation de moyens = 최선을 다하다 / 수단 채무. obligation de résultat = 결과 채무
++ le procès-verbal = 조서. refuser de signer = 서명을 거부하다
++ tenir = 버티다. Nous tenons. 표현 하나로 상태를 알리는 단문
++ je ne vous le cache pas = 숨기지 않고 말하자면. 솔직한 어조를 만드는 표현
+
+## 복도, 값을 부르는 친구 — LE COULOIR DU QUAI
+HÉLÈNE: Monsieur Delorme. On m'a dit que vous aviez ressuscité la cellule de crise. Félicitations. ||| 들로름 씨. 위기 상황실을 되살리셨다고 들었어요. 축하해요.
+JULIEN: Hélène. Vous êtes passée par la porte de service, ou par la porte de la bonne volonté ? ||| 엘렌. 뒷문으로 오셨어요, 아니면 선의의 문으로 오셨어요?
+HÉLÈNE: Par la porte de la curiosité. Je vous offre une information, gratuite pour aujourd'hui. ||| 호기심의 문으로요. 정보 하나 드릴게요, 오늘은 공짜로.
+JULIEN: Gratuite pour aujourd'hui. Cela veut dire que demain, vous m'enverrez la facture. ||| 오늘은 공짜라. 내일은 청구서를 보내신다는 뜻이군요.
+HÉLÈNE: Je ne vends pas, je prête. Avec intérêts. Écoutez : l'audience de Ras Safina est fixée dans onze jours. ||| 팔지 않아요, 빌려줘요. 이자 붙여서. 들어 보세요. 라스 사피나 재판 기일이 11일 뒤로 잡혀 있어요.
+JULIEN: Onze jours. Et d'ici là, les ingénieurs restent à l'hôtel. ||| 11일이라. 그때까지 기술자들은 호텔에 있고요.
+HÉLÈNE: Le vice-ministre des Affaires étrangères, Idris al-Farouqi, tient les clés. Soixante et un ans, ancien étudiant en droit à Montpellier. Il parle un français que plus personne ne parle. ||| 외교차관 이드리스 알 파루키가 열쇠를 쥐고 있어요. 예순한 살, 몽펠리에에서 법학을 공부했고요. 요즘 아무도 안 쓰는 프랑스어를 구사해요.
+JULIEN: Intéressant. Un homme qui a appris le français dans les livres de droit, pas dans la rue. ||| 흥미롭네요. 길거리가 아니라 법학 서적으로 프랑스어를 배운 사람이라.
+HÉLÈNE: Précisément. Faites attention à ses mots. Ils sont plus anciens que lui. ||| 바로 그거예요. 그의 단어에 주의하세요. 그 사람 나이보다 더 오래된 단어들이에요.
+JULIEN: Pourquoi m'aidez-vous ? ||| 왜 도와주시는 거죠?
+HÉLÈNE: Parce qu'un dossier réglé sans moi me coûte plus cher qu'un dossier réglé avec moi. C'est de l'économie, pas de l'amitié. ||| 저 없이 해결된 사안이 저와 함께 해결된 사안보다 더 비싸게 먹히니까요. 우정이 아니라 경제예요.
+JULIEN: Et ce que vous voulez en retour ? ||| 그리고 그 대가로 원하시는 건?
+HÉLÈNE: Un déjeuner pour commencer. Le reste viendra le moment venu. ||| 우선 점심 한 끼요. 나머지는 때가 되면 알려 줄게요.
+JULIEN: Un déjeuner, je peux. Le reste, je ne promets rien. ||| 점심이야 가능합니다. 나머지는 아무 약속도 못 합니다.
+HÉLÈNE: Ne promettez rien, c'est ce que je préfère chez vous. Une dernière chose : ce que Lefort vous a remis, c'est le contrat. Pas ses accessoires. ||| 아무 약속도 하지 마세요, 그게 당신에게서 제일 마음에 들어요. 마지막으로 하나. 르포르가 건넨 건 계약서예요. 그 부속물이 아니라.
+JULIEN: Vous voulez dire que le dossier est incomplet ? ||| 서류가 불완전하다는 말씀입니까?
+HÉLÈNE: Je dis seulement que les dossiers incomplets sont rarement des accidents. À bientôt. ||| 불완전한 서류가 사고인 경우는 드물다고만 말할게요. 곧 봐요.
+CAMILLE: Elle est partie sans dire au revoir. ||| 인사도 없이 가 버렸네요.
+JULIEN: Chez elle, c'est une politesse. Au revoir, c'est promettre de se revoir. ||| 그 사람에겐 그게 예의예요. 안녕히 가세요는 또 보겠다는 약속이니까요.
+CAMILLE: Vous croyez que Lefort a retenu des pièces ? ||| 르포르가 서류를 빼돌렸다고 보세요?
+JULIEN: Je crois qu'il vaut mieux demander les pièces que les supposer. Demandez-lui le dossier complet, y compris les « accessoires ». Par écrit. ||| 서류를 추측하느니 요구하는 게 낫다고 봐요. 부속물까지 포함해서 전체 서류를 요청하세요. 서면으로.
+CAMILLE: Et s'il refuse ? ||| 거절하면요?
+JULIEN: Alors son refus sera lui aussi un document. ||| 그럼 그 거절도 하나의 문서가 되겠죠.
++ tenir les clés = 열쇠를 쥐다, 결정권이 있다. un français que plus personne ne parle = 선행사 있는 관계절의 부정
++ gratuit pour aujourd'hui = 오늘은 공짜. 엘렌 특유의 대가 암시
++ le moment venu = 때가 되면(과거분사 구문). pour commencer = 우선
++ coûter plus cher = 더 비싸게 먹히다. 정보 거래를 경제 논리로 말하는 엘렌의 화법
++ les accessoires = 부속물. 여기서는 계약서에 딸린 서류들을 가리키는 은근한 말
++ vaut mieux + inf. = ~하는 편이 낫다. Il vaut mieux demander que supposer
++ Au revoir = 다시 만나자는 약속이라는 들로름의 농담(어원 풀이)
+## 치즈 카트 앞의 점심 — LE CHARIOT DE FROMAGES
+VALCOURT: Julien ! Asseyez-vous, la table est bonne. Je vous ai gardé la place face à la fenêtre, pour que vous regardiez dehors quand je radote. ||| 쥘리앵! 앉으세요, 자리가 좋아요. 창가 쪽을 비워 뒀어요, 내가 헛소리할 때 밖을 보시라고.
+JULIEN: Monsieur l'ambassadeur, vous ne radotez jamais. Vous répétez avec méthode. ||| 대사님은 헛소리를 하신 적이 없습니다. 방법을 갖고 반복하시는 거죠.
+VALCOURT: Joli. Vous avez trois minutes pour m'exposer le cas, et ensuite le chariot passera. On ne parle pas de politique pendant le fromage, on lui parle. ||| 좋아요. 사안을 설명할 시간이 3분 있고, 그다음엔 카트가 지나갑니다. 치즈 시간엔 정치 얘기를 안 해요, 치즈에게 말을 걸죠.
+JULIEN: Quatorze ingénieurs retenus à Kasra. Quatre-vingt-sept millions de pénalités réclamées. Une lettre annexe que nous n'avons pas encore vue. ||| 카스라에 기술자 열네 명이 억류됐습니다. 위약금 8,700만 유로 청구, 그리고 아직 보지 못한 부속 서한이 있고요.
+VALCOURT: Voilà qui est bref. Et que voulez-vous de moi ? Un conseil ou une absolution ? ||| 간결하군요. 나한테서 원하는 게 뭐죠? 조언이요, 사면이요?
+JULIEN: Une méthode. Tout le monde me demande de choisir entre payer et résister. ||| 방법입니다. 다들 저한테 내느냐 버티느냐를 고르라고 합니다.
+VALCOURT: Mauvaise alternative. Servez-vous, voici le chariot. Du comté de vingt-quatre mois, du brie de Meaux, de l'époisses. Un saint-marcellin, pour vous. ||| 나쁜 양자택일이군요. 드세요, 카트가 왔어요. 24개월 숙성 콩테, 모의 브리, 에푸아스. 당신에겐 생마르슬랭을 드리죠.
+JULIEN: Vous vous souvenez que je suis lyonnais. ||| 제가 리옹 사람인 걸 기억하시네요.
+VALCOURT: Je me souviens surtout que chez vous, on ne dit pas « du fromage », on dit « de la cervelle de canut » avant le fromage. Très bien. Écoutez maintenant. ||| 특히 기억하는 건 당신네는 치즈 전에 '치즈'라 안 하고 '세르벨 드 카뉘'라고 한다는 거죠. 좋아요. 이제 들어요.
+JULIEN: Je vous écoute, la fourchette à la main. ||| 포크를 든 채로 듣겠습니다.
+VALCOURT: En janvier 1264, à Amiens, le roi Louis IX, que nous appelons Saint Louis, rend ce que l'on nomme la Mise d'Amiens. ||| 1264년 1월, 아미앵에서 우리가 성왕 루이라 부르는 루이 9세가 이른바 '아미앵의 판결'을 내립니다.
+JULIEN: Le roi d'Angleterre et ses barons. Je m'en souviens vaguement des cours. ||| 영국 왕과 귀족들 말씀이죠. 수업 때 어렴풋이 기억납니다.
+VALCOURT: Henri III et ses barons, oui. Ils se disputaient sur un texte : les Provisions d'Oxford, qui limitaient les pouvoirs du roi. Ils ont choisi un arbitre étranger, respecté de tous. ||| 헨리 3세와 귀족들이죠. 문서 하나를 두고 다퉜습니다. 왕의 권한을 제한한 '옥스퍼드 조항'이에요. 그들은 모두가 존경하는 외국인 중재자를 골랐어요.
+JULIEN: Un arbitre choisi d'avance par les deux parties. Voilà déjà une différence avec nos crises modernes. ||| 양쪽이 미리 고른 중재자라. 벌써 오늘날의 위기들과 다르네요.
+VALCOURT: Sans doute. Louis a étudié le texte, entendu les deux camps, puis il a cassé les Provisions en faveur du roi. ||| 그렇죠. 루이는 문서를 검토하고 양측의 말을 들은 뒤 왕에게 유리하게 조항을 무효화했습니다.
+JULIEN: Il a donné raison au roi. Les barons ont dû être ravis. ||| 왕 손을 들어 줬군요. 귀족들이 아주 좋아했겠네요.
+VALCOURT: Ils ont refusé le verdict, et la guerre a repris dès le printemps, à la bataille de Lewes. Une belle sentence, un mauvais résultat. ||| 판결을 거부했고 그해 봄 루이스 전투로 전쟁이 다시 시작됐죠. 훌륭한 판결, 나쁜 결과였어요.
+JULIEN: Alors pourquoi m'en parlez-vous comme d'un modèle ? ||| 그런데 왜 그걸 모범처럼 말씀하시죠?
+VALCOURT: Parce que ce n'est pas la sentence que je vous propose, c'est l'accord préalable sur la personne qui lit. Le tribunal de Ras Safina n'est pas un arbitre : c'est une partie qui s'est déguisée en juge. ||| 제가 권하는 건 판결이 아니라 '누가 읽느냐'에 대한 사전 합의입니다. 라스 사피나 법원은 중재자가 아니에요. 재판관으로 분장한 당사자죠.
+JULIEN: D'accord, mais les Kasriens n'accepteront jamais un arbitre étranger sur un texte qu'ils jugent clair. ||| 알겠습니다만, 카스라는 자기들이 명백하다고 보는 문서에 외국인 중재자를 절대 받지 않을 겁니다.
+VALCOURT: Ils ne l'accepteront pas si vous le leur demandez. Ils l'accepteront si le texte cesse d'être clair. ||| 당신이 요구하면 안 받겠죠. 문서가 더 이상 명백하지 않게 되면 받을 겁니다.
+JULIEN: Et comment rend-on obscur un texte que l'autre trouve lumineux ? ||| 상대가 환하다고 믿는 문서를 어떻게 흐릿하게 만들죠?
+VALCOURT: On ne le rend pas obscur, on le met en face de ses frères. Un texte tout seul dit ce qu'on veut. Entre trois textes, il hésite. Prenez de l'époisses, vite, avant qu'il ne parte. ||| 흐리게 만드는 게 아니라 형제들 앞에 세우는 겁니다. 홀로 있는 문서는 원하는 대로 말하죠. 세 문서 사이에선 머뭇거리고요. 에푸아스 드세요, 달아나기 전에.
+JULIEN: Vous voulez dire que la lettre existe en plusieurs versions ? ||| 서한이 여러 판본으로 존재한다는 말씀입니까?
+VALCOURT: Je veux dire qu'il existe toujours plusieurs versions, même quand on n'en a qu'une sous les yeux. Il s'agit de savoir de qui est l'autre. ||| 눈앞에 하나밖에 없어도 늘 판본은 여럿이 있다는 말이에요. 문제는 나머지가 누구 것이냐죠.
+JULIEN: Lefort me demande de ne rien faire sans mandat écrit. ||| 르포르는 서면 위임 없이는 아무것도 하지 말라고 합니다.
+VALCOURT: Alors faites-lui écrire le mandat. Un homme qui signe un papier est un homme qui s'engage. Et un homme qui s'engage est un homme qui peut être cité. ||| 그럼 위임장을 쓰게 하세요. 종이에 서명하는 사람은 약속을 하는 사람이고, 약속한 사람은 인용될 수 있는 사람입니다.
+JULIEN: Vous êtes cruel avec lui. ||| 그에게 가혹하시네요.
+VALCOURT: Je ne suis pas cruel, je suis exact. Regardez ce gruyère : personne ne lui reproche ses trous. ||| 가혹한 게 아니라 정확한 겁니다. 이 그뤼예르를 보세요. 아무도 구멍을 탓하지 않아요.
+JULIEN: Je tâcherai de ne pas lui en faire grief non plus, tant qu'il ne bouchera pas les miens. ||| 그가 제 구멍을 막지만 않는다면 저도 탓하지 않으려 합니다.
+VALCOURT: Bien dit. Allez, finissez votre assiette. Un négociateur affamé signe n'importe quoi. ||| 잘 말했어요. 자, 접시 비우세요. 굶은 협상가는 아무거나 서명하니까요.
++ rendre une sentence / la Mise d'Amiens = 판결을 내리다 / 아미앵의 판결(1264). 양측이 미리 중재자를 받아들인 선례
++ casser un texte = 문서를 무효화하다. Provisions d'Oxford = 옥스퍼드 조항(1258)
++ Une belle sentence, un mauvais résultat = 대구법. 발쿠르의 짧은 경구
++ le comté, le brie de Meaux, l'époisses, le saint-marcellin = 콩테, 모 브리, 에푸아스, 생마르슬랭(리옹 근처 치즈)
++ avant qu'il ne parte = avant que + ne 허사 + 접속법. 문어적 뉘앙스
++ en faire grief à qqn = ~를 탓하다. faire grief의 격식 있는 표현
++ cervelle de canut = 리옹의 신선 치즈 요리. 들로름의 출신을 가리키는 장치
++ il s'agit de + 명사/inf. = 문제는 ~이다. Il s'agit de savoir de qui est l'autre
+
+## 저녁 식탁, 레아의 정의 — LA TABLE DE LÉA
+LÉA: Papa, tu as vu l'heure ? Il est vingt-deux heures. Ton gratin de pâtes est mort deux fois. ||| 아빠, 시간 봤어요? 밤 10시예요. 아빠의 파스타 그라탱은 벌써 두 번 죽었어요.
+JULIEN: Pardon, ma chérie. J'ai passé la journée au téléphone avec des gens qui voulaient rentrer chez eux. ||| 미안하다, 우리 딸. 집에 돌아가고 싶어 하는 사람들과 하루 종일 통화했어.
+LÉA: Les ingénieurs ? C'est partout sur ton visage. Tu as la tête de quelqu'un qui compte des heures. ||| 기술자들요? 아빠 얼굴에 다 쓰여 있어요. 시간을 세고 있는 사람 얼굴이에요.
+JULIEN: Tu as raison. Il y en a un qui a un problème de cœur, et un autre qui a vingt-neuf ans. ||| 맞아. 한 분은 심장이 안 좋고, 또 한 사람은 스물아홉 살이야.
+LÉA: Tu as réchauffé le gratin ou tu l'as seulement regardé avec tendresse ? ||| 그라탱은 데웠어요, 아니면 애정 어린 눈으로 쳐다보기만 했어요?
+JULIEN: Les deux. Dis-moi plutôt où en est ta dissertation. ||| 둘 다. 그보다 네 논술은 어떻게 돼 가니.
+LÉA: Sujet de ce soir : « Suffit-il de parler la même langue pour se comprendre ? » Je bloque sur l'introduction. ||| 오늘 밤 주제는 '같은 언어를 말하면 서로 이해하기에 충분한가'예요. 서론에서 막혔어요.
+JULIEN: Excellent sujet. J'ai justement une journée entière de cas pratiques à ton service. ||| 훌륭한 주제구나. 마침 하루 종일 실제 사례가 네 처분에 있다.
+LÉA: Alors commence par définir « se comprendre ». Parce que pour moi, c'est une question de définition. ||| 그럼 '서로 이해한다'부터 정의해 봐요. 왜냐하면 제겐 그건 개념 정의의 문제거든요.
+JULIEN: Se comprendre, c'est que le mot que tu emploies produise dans ma tête l'image que tu avais dans la tienne. ||| 서로 이해한다는 건 네가 쓰는 말이 내 머릿속에서 네 머릿속에 있던 그림을 만들어 낸다는 거지.
+LÉA: Et si les images sont différentes ? ||| 그림이 다르면요?
+JULIEN: Alors on parle la même langue, mais pas le même mot. Ta mère dit « bientôt » et moi, j'entends « avant la nuit ». ||| 그럼 같은 언어를 쓰지만 같은 단어를 쓰는 건 아니지. 네 엄마는 '곧'이라고 하는데 나는 '밤 오기 전'으로 들어.
+LÉA: Papa, ça, c'est un exemple de collège. Donne-moi un vrai cas. ||| 아빠, 그건 중학교 예시예요. 진짜 사례를 줘요.
+JULIEN: Un contrat entre deux pays. Une seule phrase. En français, l'entreprise « prend l'engagement » de livrer à une date. Dans l'autre langue, elle « est tenue » de livrer. ||| 두 나라 사이의 계약이야. 문장 하나. 프랑스어로는 회사가 한 날짜에 인도하겠다고 '약속한다'고 돼 있고, 다른 언어로는 '인도할 의무가 있다'고 돼 있어.
+LÉA: Donc ce n'est pas la même promesse. Une promesse qui coûte quatre-vingt-sept millions ? ||| 그럼 같은 약속이 아니네요. 8,700만 유로짜리 약속이에요?
+JULIEN: Tu as lu mes notes en cachette ? ||| 내 메모를 몰래 읽었니?
+LÉA: Tu parles toujours trop fort dans le salon quand tu téléphones. Et alors, qui a raison ? ||| 거실에서 전화할 땐 아빠가 늘 너무 크게 말해요. 그래서 누가 옳아요?
+JULIEN: C'est précisément la question qu'on ne peut pas poser tout de suite. Avant de savoir qui a raison, il faut savoir qui a écrit quoi, dans quelle langue, à quelle date. ||| 바로 지금은 던질 수 없는 질문이야. 누가 옳은지 알기 전에, 누가 무엇을 어떤 언어로 몇 월 며칠에 썼는지 알아야 해.
+LÉA: Donc la vérité dépend de la généalogie du texte. C'est presque du Nietzsche. ||| 그럼 진실이 텍스트의 계보에 달려 있네요. 거의 니체 같아요.
+JULIEN: Presque. Mais je préfère demander les pièces que lire les philosophes. Les philosophes ont toujours raison, c'est ce qui les rend inutilisables. ||| 거의. 하지만 난 철학자를 읽느니 서류를 요구하는 편이 좋아. 철학자들은 늘 옳아서 쓸모가 없거든.
+LÉA: D'accord, mais toi non plus, tu n'as pas raison, tu as des pièces. ||| 아빠도 마찬가지예요. 옳은 게 아니라 서류를 갖고 있을 뿐이잖아요.
+JULIEN: Touché. Tu vas finir par me piquer mon expression. ||| 한 방 먹었다. 내 말버릇을 가져가겠구나.
+LÉA: Je te l'emprunte. Pour mon introduction : « Se comprendre suppose moins une langue commune qu'un texte commun. » Ça te va ? ||| 빌리는 거예요. 서론은 이렇게요. '서로 이해하는 데에는 공통의 언어보다 공통의 텍스트가 더 필요하다.' 어때요?
+JULIEN: Ça me va très bien. Il faudra juste que tu définisses « texte ». ||| 아주 좋다. 다만 '텍스트'를 정의해야겠지.
+LÉA: C'est une question de définition, justement. Bonne nuit, papa. Et mange ton gratin, il a suffisamment souffert. ||| 바로 그게 개념 정의의 문제잖아요. 잘 자요, 아빠. 그라탱 드세요, 이미 충분히 고생했어요.
+JULIEN: Bonne nuit, Léa. Demain, j'écris à Genève. Et je demande les trois textes. ||| 잘 자라, 레아. 내일은 제네바에 편지를 쓸 거야. 그리고 세 문서를 요청해야지.
++ Suffit-il de… pour…? = ~하는 것으로 충분한가. 철학 논술의 전형 문형
++ C'est une question de définition = 레아의 입버릇. 개념 정의를 먼저 묻는 철학적 반문
++ prendre l'engagement de / être tenu de = ~하겠다고 약속하다 / ~할 의무가 있다. 같은 문장의 서로 다른 무게
++ la généalogie d'un texte = 텍스트의 계보(판본의 유래). 니체식 개념의 가벼운 차용
++ en cachette = 몰래. Touché = 한 방 먹었다(펜싱에서 온 말)
++ à votre/ton service = 처분에 맡겨진. 격식 없는 농담조
++ finir par + inf. = 결국 ~하게 되다. Tu vas finir par me piquer mon expression
++ Il faudra juste que tu définisses = il faut que + 접속법 미래 어조

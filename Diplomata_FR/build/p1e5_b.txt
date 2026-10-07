@@ -1,0 +1,77 @@
+## 복도에서 — LE COULOIR, ENCORE
+LEFORT: Vous avez joué avec les règles, monsieur Delorme. Vous avez utilisé un comité européen pour contourner mon autorité. ||| 규칙을 갖고 노셨군요, 들로름 씨. 유럽 위원회를 이용해 제 권한을 우회했습니다.
+JULIEN: J'ai proposé un comité, c'est l'Union qui l'a adopté. Vous avez voté pour, au passage, en vous taisant. ||| 저는 위원회를 제안했고, 채택한 건 유럽연합입니다. 지나가는 길에 침묵하면서 찬성하셨고요.
+LEFORT: Mon silence n'est pas un vote. ||| 제 침묵은 찬성표가 아닙니다.
+JULIEN: C'est ce que dit tout le monde, jusqu'au jour où il faut l'expliquer. ||| 다들 그렇게 말하죠, 그걸 설명해야 하는 날까지는.
+LEFORT: Prenez garde. Il y a des gens à Paris qui s'inquiètent de votre goût pour les initiatives. ||| 조심하세요. 파리에는 당신의 주도권 취향을 걱정하는 사람들이 있습니다.
+JULIEN: Je m'inquiète de leur goût pour le silence. ||| 저는 그들의 침묵 취향이 걱정입니다.
+SAAD: Pardonnez-moi, messieurs. Puis-je échanger deux mots avec monsieur Delorme ? ||| 실례합니다, 여러분. 들로름 씨와 두 마디 나눌 수 있을까요?
+LEFORT: Je vous en prie. Je rentre au bureau. ||| 그러세요. 저는 사무실로 돌아갑니다.
+SAAD: Monsieur Delorme, je ne suis pas ici en tant que représentant de qui que ce soit. Je suis ici pour écouter, et pour que vous sachiez que nous écoutons. ||| 들로름 씨, 저는 누구의 대표로 온 게 아닙니다. 듣기 위해 왔고, 우리가 듣고 있다는 걸 알려 드리기 위해 왔습니다.
+JULIEN: Qui est « nous » ? ||| '우리'가 누구입니까?
+SAAD: Les voisins de Kasra. Nous avons tous signé des contrats avec des cabinets de conseil, et nous nous demandons tous qui a vraiment payé qui. ||| 카스라의 이웃들이죠. 우리 모두 컨설팅 사무소들과 계약을 했고, 누가 누구에게 실제로 돈을 냈는지 다들 궁금해 합니다.
+JULIEN: Vous voulez dire que la déclaration des honoraires vous intéresse. ||| 수수료 신고에 관심이 있으시다는 말씀이군요.
+SAAD: Elle intéresse surtout ceux qui ne l'ont pas encore faite. Bonne chance. ||| 아직 신고하지 않은 이들이 특히 관심을 갖지요. 행운을 빕니다.
+CAMILLE: Julien, tu as vu ? Le vice-ministre a regardé Lefort pendant tout le temps où tu parlais d'honoraires. ||| 줄리앵, 봤어? 네가 수수료 얘기를 하는 내내 차관이 르포르를 쳐다봤어.
+JULIEN: J'ai vu. Mais ne tirons pas de conclusion. Il regardait peut-être sa montre. ||| 봤어. 하지만 결론은 내리지 말자. 시계를 봤을 수도 있어.
+CAMILLE: Les montres des Kasriens s'arrêtent d'habitude sur ceux qu'ils soupçonnent. ||| 카스라 사람들의 시계는 보통 의심하는 사람 앞에서 멈추지.
+JULIEN: Tu apprends vite. Mais jamais « d'habitude » ne doit devenir « toujours ». ||| 빨리 배우네. 하지만 '대개'가 '언제나'가 되어선 안 돼.
+CAMILLE: Je note. Et le comité ? ||| 메모할게. 그럼 위원회는?
+JULIEN: Il manque une chose : le traducteur neutre. Vandenberghe doit nous proposer un nom avant ce soir. ||| 하나가 빠졌어. 중립 번역사. 반덴베르허가 오늘 저녁 전에 이름을 내놔야 해.
+VANDENBERGHE: Vous parlez de moi ? J'ai une candidate : une Luxembourgeoise, trilingue, juriste, cinquante-deux ans. Elle a traduit pour la Cour de justice. ||| 제 얘기 하셨나요? 후보가 있어요. 룩셈부르크 사람이고 3개 국어를 하는 법률가, 52세입니다. 유럽연합 사법재판소에서 번역을 했어요.
+JULIEN: Son nom ? ||| 이름은요?
+VANDENBERGHE: Marthe Kieffer. Elle ne dit jamais rien avant d'avoir tout relu. C'est pour cela qu'on la craint. ||| 마르트 키퍼. 전부 다시 읽기 전에는 아무 말도 안 해요. 그래서 다들 두려워합니다.
+JULIEN: Excellent. Les Kasriens l'accepteront-ils ? ||| 훌륭합니다. 카스라가 받아들일까요?
+VANDENBERGHE: Je pense qu'ils préféreront quelqu'un qui n'est ni français, ni arabe, ni anglais. Un Luxembourgeois, c'est un peu tout cela et ce n'est rien de tout cela. ||| 프랑스인도 아랍인도 영국인도 아닌 사람을 선호할 거라고 봐요. 룩셈부르크 사람은 그 모든 것이면서 그중 어느 것도 아니죠.
++ contourner = 우회하다. prendre garde = 조심하다. au passage = 지나가는 길에
++ Mon silence n'est pas un vote = 르포르의 방어. 다음 화에서 '침묵'이 주제가 됨
++ qui que ce soit = 그가 누구든(접속법 관용구). pour que vous sachiez = pour que + 접속법
++ nous nous demandons tous qui a vraiment payé qui = 간접의문 + 대명동사. 수수료 투명화의 연대
++ tirer une conclusion = 결론을 내리다. d'habitude / toujours = 대개 / 언제나
++ ne dit jamais rien avant d'avoir tout relu = 전치 시제(avant de + inf.). 중립 번역사 키퍼의 성격을 보이는 소개
+
+## 브라스리의 치즈 카트 — LA BRASSERIE
+VALCOURT: Julien, Camille, ici ! Je suis arrivé par le premier train, comme un adolescent. J'ai fait le tour du marché, j'ai tâté trois fromages et insulté un frituriste. ||| 줄리앵, 카미유, 여기예요! 첫 열차로 소년처럼 도착했죠. 시장을 한 바퀴 돌며 치즈 세 개를 만져 보고 튀김 장수를 모욕했어요.
+JULIEN: Vous insultez toujours avec élégance ? ||| 모욕도 늘 우아하게 하십니까?
+VALCOURT: Je lui ai dit que ses frites n'étaient pas assez belges. C'est la pire injure possible. ||| 감자튀김이 별로 벨기에답지 않다고 했죠. 가능한 최악의 모욕입니다.
+CAMILLE: Je suis ravie de vous voir, monsieur l'ambassadeur. Nous avons eu une journée pleine. ||| 뵙게 되어 기뻐요, 대사님. 하루가 꽉 찼어요.
+VALCOURT: Le chariot arrive. Herve, chimay, orval, passendale. Quatre abbayes et un village. Choisissez, vous êtes à Bruxelles. ||| 카트가 옵니다. 에르브, 시메, 오르발, 파상달. 수도원 넷과 마을 하나. 고르세요, 브뤼셀이잖아요.
+JULIEN: Un herve, avec de la bière. ||| 에르브 하나, 맥주와 함께요.
+VALCOURT: Bon choix. Un fromage qui sent fort et ne ment pas. Racontez-moi la séance. ||| 좋은 선택이에요. 냄새가 강해도 거짓말은 않는 치즈지. 회의를 얘기해 봐요.
+JULIEN: Un comité de lecture est adopté, sous réserve de validation française. Le Belge nous a sauvés d'un mot : « trois versions, trois fois d'accord ». ||| 독회 위원회가 채택됐습니다, 프랑스 측 승인 조건으로요. 벨기에 대표가 한 마디로 구했죠. '판본 셋이면 합의 세 번'.
+VALCOURT: Voilà un homme qui comprend l'Europe. Savez-vous où elle est née, cette Europe ? ||| 유럽을 아는 사람이군요. 이 유럽이 어디서 태어났는지 아세요?
+CAMILLE: Dans le salon de l'Horloge, au Quai d'Orsay. Le neuf mai mille neuf cent cinquante. ||| 케도르세 시계의 방에서요. 1950년 5월 9일에.
+VALCOURT: Très bien, Camille. Robert Schuman lit une déclaration de quelques minutes. Il propose de placer la production franco-allemande de charbon et d'acier sous une même autorité commune. ||| 잘했어요, 카미유. 로베르 쉬망이 몇 분짜리 선언문을 읽죠. 프랑스·독일의 석탄과 철강 생산을 하나의 공동 기구 아래 두자고 제안합니다.
+JULIEN: Une proposition très étroite. Le charbon et l'acier. ||| 아주 좁은 제안이었죠. 석탄과 철강.
+VALCOURT: C'est ce qui l'a rendue possible. Il dit : « L'Europe ne se fera pas d'un coup ni dans une construction d'ensemble : elle se fera par des réalisations concrètes, créant d'abord une solidarité de fait. » ||| 그래서 가능했어요. 그가 말하죠. '유럽은 한꺼번에, 전체 구도 속에서 만들어지지 않을 것이다. 먼저 사실상의 연대를 낳는 구체적 성과를 통해 만들어질 것이다.'
+CAMILLE: Puis, en avril 1951, six pays signent le traité de Paris. ||| 그리고 1951년 4월 여섯 나라가 파리 조약에 서명하죠.
+VALCOURT: La France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas, le Luxembourg. Votre Luxembourgeoise n'est donc pas un hasard. ||| 프랑스, 독일, 이탈리아, 벨기에, 네덜란드, 룩셈부르크. 당신네 룩셈부르크 여성은 우연이 아니군요.
+JULIEN: Vous voyez un lien avec notre comité ? ||| 우리 위원회와 연결 고리가 보이십니까?
+VALCOURT: Je vois la même méthode : ne pas régler le conflit, régler un petit objet commun. Trois traducteurs sur trois textes, c'est notre charbon et notre acier. ||| 같은 방법이 보여요. 갈등을 해결하는 게 아니라 작은 공동의 대상을 해결하는 것. 세 문서에 번역사 세 명, 그게 우리의 석탄과 철강이죠.
+CAMILLE: Et la transparence des honoraires ? Où est-elle dans votre histoire ? ||| 그럼 수수료 투명화는요? 대사님 이야기 어디에 있죠?
+VALCOURT: Dans le fait que la Haute Autorité devait publier ses comptes. Une petite chose, mais une chose qui change les habitudes. ||| 고위 기구가 회계를 공개해야 했다는 점에요. 작은 일이지만 습관을 바꾸는 일이죠.
+JULIEN: Je ne savais pas ce détail. ||| 그 세부는 몰랐습니다.
+VALCOURT: Je n'en suis pas sûr moi-même. Je généralise. Mais l'idée est vraie. ||| 나도 확신은 없어요. 일반화하는 거죠. 하지만 생각은 맞아요.
+CAMILLE: Monsieur l'ambassadeur, que pensez-vous de Lefort ? ||| 대사님, 르포르는 어떻게 생각하세요?
+VALCOURT: Un homme qui aime tant le règlement qu'il en oublie le but. Je l'ai connu il y a vingt ans, à Vienne. Il portait déjà ses dossiers comme un bouclier. ||| 규정을 너무 좋아해서 목적을 잊는 사람이죠. 20년 전 빈에서 알았어요. 그때도 서류를 방패처럼 들고 다녔어요.
+JULIEN: Il demande à présider les réunions où personne ne lui a rien demandé. ||| 아무도 요구하지 않은 회의의 의장이 되려 하더군요.
+VALCOURT: Alors invitez-le à dîner dans trois jours. Chez moi. Il y aura du fromage et je lui raconterai l'histoire du silence. ||| 그럼 사흘 뒤에 저녁 식사에 초대하세요. 내 집으로. 치즈가 있을 거고 침묵 이야기를 들려줄 겁니다.
+JULIEN: L'histoire du silence ? ||| 침묵 이야기요?
+VALCOURT: Celle de Talleyrand. Mais chaque chose en son temps. Camille, une dernière bière ? ||| 탈레랑의 이야기죠. 하지만 모든 일엔 때가 있어요. 카미유, 맥주 한 잔 더?
+LÉA: Papa, tu m'écris trop peu. Sujet de ce soir : « Un contrat suppose-t-il la confiance ? » J'ai besoin de ton avis. ||| 아빠, 문자가 너무 적어요. 오늘 밤 주제는 '계약은 신뢰를 전제하는가'예요. 아빠 의견이 필요해요.
+JULIEN: Je te réponds au téléphone. Une seconde. Léa ? ||| 전화로 답하마. 잠깐만. 레아?
+LÉA: Si on se fait confiance, on n'a pas besoin de contrat. Si on ne se fait pas confiance, le contrat ne sert à rien. Donc le contrat est inutile ? ||| 서로 믿으면 계약이 필요 없고, 서로 안 믿으면 계약은 아무 소용이 없어요. 그럼 계약은 쓸모없나요?
+JULIEN: Tu viens d'inventer un paradoxe. Maintenant, définis « confiance ». ||| 역설을 하나 만들었구나. 이제 '신뢰'를 정의해 봐.
+LÉA: C'est une question de définition, papa ! La confiance, c'est accepter d'être vulnérable en face de quelqu'un qui pourrait en profiter. ||| 개념 정의의 문제잖아요, 아빠! 신뢰란 이용할 수 있는 사람 앞에서 약해지기를 받아들이는 거예요.
+JULIEN: Alors le contrat est une confiance qui s'écrit. Il fixe la limite de ce qu'on accepte de perdre. ||| 그럼 계약은 글로 쓴 신뢰네. 잃어도 좋다고 받아들이는 한계를 정하는 거야.
+LÉA: C'est joli. Je le mets. Et toi, tu as confiance en qui, en ce moment ? ||| 멋있어요. 그걸 쓸게요. 그럼 아빠는 요즘 누구를 믿어요?
+JULIEN: En une dame de soixante-dix-huit ans qui a gardé son carnet. Et en un Belge qui fait des blagues. ||| 노트를 간직한 일흔여덟 살 부인, 그리고 농담하는 벨기에 사람이지.
+LÉA: Pas en Lefort. ||| 르포르는 아니고요.
+JULIEN: Pas en Lefort. Mais je m'efforce de ne pas en conclure qu'il ment. ||| 르포르는 아니야. 하지만 그가 거짓말한다고 결론짓지 않으려 애쓰고 있다.
++ le chariot de fromages = 치즈 카트. herve, chimay, orval, passendale = 벨기에 치즈(에르브, 시메, 오르발, 파상달)
++ le salon de l'Horloge = 케도르세의 '시계의 방'. 슈만 선언(1950.5.9)이 발표된 장소
++ «une solidarité de fait» = 슈만 선언의 핵심 표현. 구체적 성과를 통한 사실상의 연대
++ la Haute Autorité = 석탄철강공동체(CECA)의 고위 기구. 1951년 파리 조약으로 6개국 출범
++ chaque chose en son temps = 모든 일에는 때가 있다. insulter avec élégance = 우아하게 모욕하다
++ Un contrat suppose-t-il la confiance ? = 철학 논술 주제. 계약 = 글로 쓴 신뢰, 감수할 손실의 한계
++ je m'efforce de ne pas en conclure = s'efforcer de + inf. 부정 구문. 판단 유보의 윤리

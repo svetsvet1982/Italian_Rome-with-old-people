@@ -1,0 +1,198 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 3
+@title Les archives du Quai
+@ko 케도르세 문서고
+@setting 비서실장실 → 라 쿠르뇌브행 RER → 문서고 열람실(문서고 직원 포숑) → 확대경 책상 → 저녁 전화
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 마르세유 출신, 할머니 덕에 아랍어 숫자와 기초 단어를 읽는다
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세
+@cast POCHON | 질베르 포숑, 외무부 문서고 수석 기록관, 61세. 쪽수 도장 전문가
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 3화입니다. 비서실장 르포르는 '서류는 완전하다'고 말하지만 서면 확인은 거부하고, 문서고 열람 허가만 한 번 내줍니다. 들로름과 카미유는 파리 북쪽 라 쿠르뇌브의 문서고에서 3월 14일자 부속 서한의 프랑스어판 사본을 찾습니다. 프랑스어판은 3쪽(1/3, 2/3, 3/3)인데 아랍어판 접수 목록(bordereau)은 4쪽을 적고 있습니다. 해법의 순간은 수석 기록관 포숑의 '쪽수 도장'입니다. 2/3과 3/3의 숫자 서체는 문서고 도장이 아니고, 확대경 아래 그 밑에서 2/4와 4/4가 비칩니다. 즉 서한의 한 쪽이 빠졌습니다. 반출 전표에는 '비서실 열람'과 읽을 수 없는 약식 서명만 있습니다. 역사 논거는 리슐리외의 '끊임없는 협상'(négocier sans cesse) 원칙입니다. 『정치적 유언』(Testament politique)에서 그는 공개적으로든 비밀리에든 어디서나 쉬지 않고 협상해야 한다고 썼고, 그의 시대에 국무경(secrétaire d'État)이 맡는 외교 사무와 기록이 체계를 잡아 갑니다. 어휘는 접속법(à condition que…, bien que…), 문서 어휘(cote, bordereau, paraphe, feuillet, tampon), 조건과 양보 표현에 주목하세요.
+@next 4화: 쪽수가 빠진 부속 서한을 추적해 쥘리앵과 카미유는 앙제에 사는 은퇴 공증 번역사 뷔소르 부인을 만납니다. 그녀의 번역 노트에는 'engagement'와 'obligation' 사이에서 망설인 메모가 남아 있습니다.
+
+## 비서실장실의 아침 — LE BUREAU DU DIRECTEUR DE CABINET
+LEFORT: Entrez, monsieur Delorme. Je vous accorde dix minutes. Nous avons dit hier que nous parlerions de vive voix. ||| 들어오세요, 들로름 씨. 10분 드리죠. 어제 직접 얘기하자고 했으니까요.
+JULIEN: Je vous remercie. Je viens vous demander, une dernière fois, de confirmer par écrit que le dossier transmis est complet. ||| 감사합니다. 마지막으로 한 번 더, 전달된 서류가 완전하다는 걸 서면으로 확인해 달라고 청하러 왔습니다.
+LEFORT: Le dossier est complet à ma connaissance. Voilà ce que je puis dire. ||| 제가 아는 한 서류는 완전합니다. 제가 할 수 있는 말은 그뿐입니다.
+JULIEN: « À ma connaissance ». C'est une formule qui ne signe rien. ||| '제가 아는 한'이라. 아무것도 서명하지 않는 문구군요.
+LEFORT: Elle signe exactement ce que je sais. Ne me prêtez pas des certitudes que je n'ai pas. ||| 제가 아는 바를 정확히 서명하는 문구입니다. 제게 없는 확신을 덮어씌우지 마십시오.
+JULIEN: D'accord, mais ce que vous ne savez pas, quelqu'un d'autre le sait. Les archives. ||| 알겠습니다. 다만 비서실장님이 모르시는 것은 누군가 알고 있죠. 문서고가요.
+LEFORT: Les archives du Quai sont réservées. Il faut une dérogation signée du secrétaire général. ||| 케도르세 문서고는 접근이 제한돼 있습니다. 사무총장의 서명이 있는 예외 허가가 필요해요.
+JULIEN: Je vous la demande donc. Pour une visite, avec Mademoiselle Roussel. ||| 그래서 청하는 겁니다. 루셀 양과 함께 한 번 방문하는 것으로요.
+LEFORT: Je n'ai pas pouvoir de l'accorder. Mais je peux la proposer, à condition que vous ne sortiez aucune pièce du bâtiment. ||| 제가 허가할 권한은 없습니다. 하지만 서류를 한 장도 건물 밖으로 반출하지 않으신다는 조건으로 제안은 할 수 있습니다.
+CAMILLE: Nous avons le droit de photographier les pièces ? ||| 서류를 촬영해도 되나요?
+LEFORT: Non. Vous prendrez des notes au crayon, comme tout le monde. ||| 안 됩니다. 다들 하듯 연필로 메모하세요.
+JULIEN: Au crayon ? Au vingt et unième siècle ? ||| 연필로요? 21세기에?
+LEFORT: Le crayon est le seul outil qu'on puisse effacer sans laisser de traces. Cela rassure les services. ||| 연필은 흔적 없이 지울 수 있는 유일한 도구입니다. 부서들이 안심하죠.
+JULIEN: Cela rassure surtout ceux qui ne veulent pas être cités. ||| 인용되고 싶지 않은 사람들이 특히 안심하겠죠.
+LEFORT: Vous avez la plume vive, monsieur Delorme. Mais retenez qu'un jour, on vous demandera de justifier chacune de vos curiosités. ||| 말솜씨가 날카롭군요, 들로름 씨. 하지만 언젠가 호기심 하나하나를 해명하라는 요구를 받을 거라는 건 기억하십시오.
+JULIEN: Je suis prêt à ce que l'on m'interroge. Et vous ? ||| 심문받을 각오는 돼 있습니다. 비서실장님은요?
+LEFORT: Moi, je n'ai que la procédure à défendre. Elle est solide. ||| 저는 지켜야 할 게 절차뿐입니다. 절차는 단단하지요.
+JULIEN: Une procédure est solide tant qu'on ne la retourne pas. ||| 절차는 뒤집어 보지 않는 동안만 단단하죠.
+LEFORT: Voici l'autorisation. Valable aujourd'hui seulement, de dix heures à dix-sept heures. ||| 허가증입니다. 오늘만 유효하고, 10시부터 17시까지입니다.
+CAMILLE: Elle porte la mention « sous escorte ». ||| '호송 하에'라고 적혀 있네요.
+LEFORT: Monsieur Pochon vous accompagnera. Soyez aimables avec lui, il est le seul à connaître le sous-sol. ||| 포숑 씨가 동행할 겁니다. 친절하게 대하세요, 지하를 아는 사람은 그분뿐이니까요.
+JULIEN: Nous serons aimables, monsieur le directeur. Nous le sommes toujours quand nous avons besoin de quelqu'un. ||| 친절하겠습니다, 실장님. 누군가가 필요할 때는 언제나 그렇습니다.
++ de vive voix = 직접 말로. à ma connaissance = 제가 아는 한(책임을 한정하는 관용구)
++ à condition que + 접속법 = ~라는 조건으로. à condition que vous ne sortiez aucune pièce
++ je n'ai pas pouvoir de + inf. = ~할 권한이 없다(문서체). je puis = je peux의 문어형
++ dérogation = 예외 허가. une pièce = (문서) 자료. sortir une pièce = 서류를 반출하다
++ avoir la plume vive = 글솜씨·말솜씨가 날카롭다
++ être prêt à ce que + 접속법 = ~될 각오가 되어 있다. Je suis prêt à ce que l'on m'interroge
++ tant que + 직설법 = ~하는 동안은. Une procédure est solide tant qu'on ne la retourne pas
++ sous escorte = 호송 하에, 동행 감독을 받으며
+
+## 라 쿠르뇌브행 열차 — DANS LE RER
+CAMILLE: Vous croyez qu'il nous a donné l'autorisation parce qu'il est sûr de lui, ou parce qu'il est pris de court ? ||| 확신이 있어서 허가해 준 걸까요, 아니면 허를 찔려서 준 걸까요?
+JULIEN: Un homme qui est sûr de lui ne limite pas l'accès à sept heures. Il le donne pour une semaine, avec du café. ||| 확신 있는 사람은 접근을 일곱 시간으로 제한하지 않아요. 커피까지 곁들여 일주일을 주죠.
+CAMILLE: Alors nous avons sept heures pour trouver ce qui n'a pas été trouvé en un an. ||| 그럼 일 년간 못 찾은 걸 일곱 시간 안에 찾아야 하네요.
+JULIEN: Ce qui n'a pas été trouvé, ou ce qui n'a pas été cherché. ||| 못 찾은 게 아니라 안 찾은 것일 수도 있고요.
+CAMILLE: Pourquoi les archives du Quai sont-elles à La Courneuve, et pas rue de l'Université ? ||| 케도르세 문서고는 왜 위니베르시테 거리가 아니라 라 쿠르뇌브에 있죠?
+JULIEN: Place. Les papiers s'accumulent et finissent par pousser les diplomates dehors. On a construit un grand bâtiment là-bas, que tout le monde appelle encore « les archives du Quai ». ||| 공간 때문이죠. 서류가 쌓여서 결국 외교관들을 밖으로 밀어내요. 그래서 그곳에 큰 건물을 지었는데, 다들 여전히 '케도르세 문서고'라고 부르죠.
+CAMILLE: Un autre exemple de langue qui ne suit pas la géographie. ||| 지리를 따라가지 않는 언어의 또 다른 예네요.
+JULIEN: C'est notre métier : reconnaître que les mots restent là où les choses ont déménagé. ||| 그게 우리 일이에요. 사물은 이사했는데 말은 남아 있다는 걸 알아보는 일.
+CAMILLE: Et Richelieu, dans tout cela ? Vous m'aviez parlé de lui hier soir. ||| 그럼 리슐리외는 이 일과 무슨 상관이에요? 어제 저녁에 말씀하셨잖아요.
+JULIEN: Il disait qu'il faut négocier sans cesse, ouvertement ou en secret, en tous lieux, même quand on n'en tire aucun fruit immédiat. C'est dans son Testament politique. ||| 그는 공개적으로든 비밀리에든 어디서나, 당장 소득이 없어도 쉬지 않고 협상해야 한다고 했어요. 『정치적 유언』에 있죠.
+CAMILLE: Un homme qui n'arrête jamais. Cela doit fatiguer l'entourage. ||| 쉬지 않는 사람이라. 주변 사람들이 피곤했겠어요.
+JULIEN: Surtout, il tenait des papiers. Sous lui, les affaires étrangères s'organisent autour d'un secrétaire d'État, et l'on commence à conserver les correspondances de façon régulière. ||| 무엇보다 그는 서류를 챙겼어요. 그의 치하에서 외교 업무가 국무경을 중심으로 정비되고, 서신을 규칙적으로 보존하기 시작하죠.
+CAMILLE: Donc sans archives, pas de continuité. ||| 그러니까 문서고가 없으면 연속성도 없다는 거네요.
+JULIEN: Sans archives, on négocie toujours pour la première fois. Et on se fait avoir toujours de la même manière. ||| 문서고가 없으면 늘 처음 협상하는 셈이에요. 그리고 늘 같은 방식으로 당하죠.
+CAMILLE: Je regarde l'heure. Nous arrivons à neuf heures cinquante-huit. C'est de bon augure. ||| 시간 봐요. 9시 58분에 도착하네요. 길조예요.
+JULIEN: Je n'aime pas les bons augures. Ils précèdent toujours une complication. ||| 길조는 싫어해요. 늘 복잡한 일 앞에 오거든요.
+CAMILLE: Vous êtes de Lyon, non ? Je croyais que vous aviez le cœur plus joyeux. ||| 리옹 출신 아니세요? 마음이 더 즐거운 줄 알았어요.
+JULIEN: À Lyon, on est joyeux à table. Au bureau, on est lyonnais. ||| 리옹에선 식탁에서만 즐거워요. 사무실에선 그냥 리옹 사람이고요.
++ pris de court = 허를 찔린, 시간에 쫓긴. sûr de soi = 자신 있는
++ finir par + inf. = 결국 ~하게 되다. pousser dehors = 밖으로 밀어내다
++ négocier sans cesse = 리슐리외의 원칙 «Il faut négocier sans cesse»
++ se faire avoir = 속다, 당하다(구어). de la même manière = 같은 방식으로
++ de bon augure = 길조인, 좋은 징조의
++ les mots restent là où les choses ont déménagé = 사물이 떠나도 이름은 남는다는 들로름의 관찰
++ Au bureau, on est lyonnais. = 말놀이. 사무실에선 신중한 기질이 나온다는 농담
+
+## 문서고의 쪽수 도장 — LE TAMPON DE PAGINATION
+POCHON: Doucement, monsieur-dame. Les gants d'abord. Les crayons dans la boîte, pas de stylos, pas de téléphones, pas de café. ||| 천천히 하세요, 두 분. 먼저 장갑부터. 연필은 상자에, 볼펜도 휴대폰도 커피도 안 됩니다.
+JULIEN: Monsieur Pochon, bonjour. Julien Delorme, voici Camille Roussel. Nous venons de la part du cabinet. ||| 포숑 씨, 안녕하세요. 쥘리앵 들로름입니다. 이쪽은 카미유 루셀이고, 비서실에서 왔습니다.
+POCHON: Je sais d'où vous venez. Les gens du cabinet n'ont jamais d'heure, mais ils ont toujours un motif. Qu'est-ce que vous cherchez ? ||| 어디서 왔는지 압니다. 비서실 사람들은 시간 개념이 없지만 늘 용건은 있죠. 뭘 찾으십니까?
+CAMILLE: Une lettre annexe du 14 mars, jointe à un contrat d'exportation de patrouilleurs vers l'émirat de Kasra. ||| 3월 14일자 부속 서한입니다. 카스라 에미르국에 초계함을 수출하는 계약에 첨부된 거요.
+POCHON: Dossier des garanties d'exportation. Cote E-K-S, deux mille deux cent sept. Je m'en souviens, c'est l'un des rares où l'on m'a demandé un bon de sortie. ||| 수출 보증 서류군요. 청구기호 E-K-S 2207. 기억납니다, 반출 전표를 요구받은 몇 안 되는 서류예요.
+JULIEN: Un bon de sortie ? Donc quelqu'un l'a sorti. ||| 반출 전표라고요? 누군가 꺼내 갔다는 말씀이군요.
+POCHON: On le sort toujours en cachette, mais jamais sans papier. Je vais vous chercher le registre. Asseyez-vous, ne touchez à rien. ||| 몰래 꺼내 가도 서류 없이 꺼내 가진 않죠. 대장을 가져오겠습니다. 앉아서 아무것도 만지지 마세요.
+CAMILLE: Il ne nous aime pas. ||| 우리를 안 좋아하네요.
+JULIEN: Il aime les papiers. Nous, nous sommes ceux qui les dérangent. ||| 서류를 좋아하는 사람이에요. 우리는 그걸 건드리는 사람들이고요.
+POCHON: Voici. Registre des sorties, mars à décembre. Ligne quarante et un : « Dossier EKS-2207, pièce 3, communication au cabinet, retour non constaté. » ||| 여기 있습니다. 3월부터 12월까지의 반출 대장이에요. 41행, 'EKS-2207 서류 3번, 비서실 열람, 반환 확인 안 됨'.
+CAMILLE: « Retour non constaté ». Cela veut dire que la pièce n'est jamais revenue ? ||| '반환 확인 안 됨'이라면 서류가 돌아오지 않았다는 뜻인가요?
+POCHON: Cela veut dire que personne n'a signé son retour. Ce n'est pas la même chose, mademoiselle. Une pièce peut revenir sans que personne la signe. ||| 아무도 반환에 서명하지 않았다는 뜻입니다. 같은 게 아니에요, 아가씨. 서류는 누구도 서명하지 않고 돌아올 수도 있거든요.
+JULIEN: Qui a signé la sortie ? ||| 반출은 누가 서명했습니까?
+POCHON: Un paraphe en bleu. Illisible. Je dis toujours aux jeunes qu'un paraphe illisible est un aveu par prudence. ||| 파란 잉크로 한 약식 서명인데 알아볼 수 없어요. 젊은 사람들에게 늘 말하죠, 알아볼 수 없는 서명은 신중을 가장한 자백이라고.
+CAMILLE: Et la pièce numéro trois, c'est notre lettre ? ||| 서류 3번이 우리의 서한인가요?
+POCHON: C'est le courrier annexe, copie française. Je vous l'apporte. Les originaux, on n'y touche pas. ||| 부속 서한의 프랑스어 사본입니다. 가져다 드리죠. 원본은 건드리지 않습니다.
+CAMILLE: Elle compte trois pages. Marquées un sur trois, deux sur trois, trois sur trois. ||| 세 쪽이네요. 3분의 1, 3분의 2, 3분의 3이라고 찍혀 있어요.
+JULIEN: Vous avez la liste d'enregistrement kasrienne ? Le bordereau arabe ? ||| 카스라 쪽 접수 목록은 있습니까? 아랍어 보르드로 말입니다.
+POCHON: Il est dans la chemise grise, sous le sceau de l'ambassade. Prenez-le, mais ne le dépliez pas trop vite. ||| 회색 서류철에 대사관 인장과 함께 있습니다. 가져가되 너무 빨리 펴지는 마세요.
+CAMILLE: Ma grand-mère était de Constantine. Je lis les chiffres et quelques mots, pas plus. Voyons… ||| 제 할머니가 콩스탕틴 출신이에요. 숫자와 몇 단어만 읽을 줄 알아요. 어디 보자…
+JULIEN: Prenez votre temps. ||| 천천히 하세요.
+CAMILLE: Ici, c'est écrit « arba'a safahat ». Quatre pages. ||| 여기 '아르바아 사파하트'라고 적혀 있어요. 네 쪽이요.
+JULIEN: Quatre pages en arabe, trois en français. ||| 아랍어는 네 쪽, 프랑스어는 세 쪽이군요.
+CAMILLE: Et au bas du bordereau, il y a la liste des articles. Un, deux, trois, quatre, cinq. Notre version française n'en compte que quatre. ||| 그리고 목록 아래쪽에 조항 목록이 있어요. 1, 2, 3, 4, 5. 프랑스어 판본은 넷뿐인데요.
+JULIEN: Quel est l'article qui manque ? ||| 빠진 조항이 뭔가요?
+CAMILLE: Je ne suis pas sûre. Le titre contient le mot « lugha ». La langue. ||| 확실치 않아요. 제목에 '루가'라는 단어가 있어요. 언어요.
+JULIEN: L'article cinq porte donc sur la langue. Et il ne figure pas dans la copie française. ||| 5조가 언어에 관한 거라는 거죠. 그런데 프랑스어 사본에는 없고요.
+POCHON: Permettez-moi d'intervenir. Quand une pièce est tronquée, il y a toujours un indice dans le numérotage. Et ça, ce sont mes affaires. ||| 끼어들겠습니다. 문서가 잘려 나가면 쪽수 매기기에 늘 단서가 남습니다. 그건 제 소관이에요.
+JULIEN: Nous sommes tout ouïe. ||| 귀 기울여 듣겠습니다.
+POCHON: Chaque page qui entre aux archives reçoit un tampon avec le numéro de la page et le total. Notre tampon a un chiffre trois à queue plate, droit comme un piquet. ||| 문서고에 들어오는 모든 쪽은 쪽수와 전체 쪽수 도장을 받습니다. 우리 도장의 3은 꼬리가 평평하고 말뚝처럼 곧아요.
+CAMILLE: Sur la page un, le trois est plat. Sur la page deux… le trois est rond. ||| 1쪽의 3은 평평해요. 2쪽의… 3은 둥글어요.
+POCHON: Exactement. Ce tampon-là n'est pas le nôtre. C'est celui du cabinet, avec une police différente. ||| 바로 그겁니다. 그 도장은 우리 것이 아니에요. 비서실 도장으로, 서체가 다릅니다.
+JULIEN: Le cabinet a donc rénuméroté deux pages. ||| 그럼 비서실이 두 쪽의 번호를 다시 매겼다는 거군요.
+POCHON: Passez-moi la loupe, la grande, avec la lumière rasante. Là, voyez-vous, sous l'encre rouge, quelque chose affleure. ||| 큰 확대경과 사광 조명을 주세요. 자, 보이시죠, 붉은 잉크 아래에서 뭔가 비칩니다.
+CAMILLE: Sous le « 2 sur 3 », je distingue un « 2 sur 4 ». ||| '2/3' 아래에 '2/4'가 보여요.
+POCHON: Et sous le « 3 sur 3 », un « 4 sur 4 ». La page trois d'origine a disparu. On a renuméroté pour que la lettre paraisse n'avoir jamais eu de page manquante. ||| 그리고 '3/3' 아래엔 '4/4'가 있죠. 원래의 3쪽이 사라졌어요. 빠진 쪽이 애초에 없었던 것처럼 보이게 번호를 다시 매긴 겁니다.
+JULIEN: Un seul tampon a donc suffi pour effacer un feuillet. ||| 도장 하나로 한 쪽이 지워진 셈이군요.
+POCHON: Pas effacé, monsieur. On ne détruit jamais, chez nous. On renumérote, on classe ailleurs, on oublie. ||| 지운 게 아닙니다. 우린 파기하지 않아요. 번호를 다시 매기고, 다른 데 분류하고, 잊어버리죠.
+CAMILLE: Combien de temps un feuillet peut-il rester « oublié » ? ||| 한 쪽은 얼마나 오래 '잊힐' 수 있죠?
+POCHON: Aussi longtemps que la mémoire de celui qui l'a rangé. ||| 그걸 정리한 사람의 기억이 이어지는 동안요.
++ le bordereau = 접수·명세 목록. le registre des sorties = 반출 대장
++ retour non constaté = 반환 확인되지 않음. 책임 소재를 흐리는 행정 표현
++ un paraphe = 약식 서명(이니셜). Un paraphe illisible est un aveu par prudence = 포숑의 경구
++ sans que personne la signe = sans que + 접속법. 아무도 서명하지 않은 채
++ la lumière rasante = 사광(비스듬한 조명). tronquer une pièce = 문서를 일부 잘라 내다
++ nous sommes tout ouïe = 귀 기울여 듣다. 고풍의 정중한 표현
++ la police (de caractères) = 서체. un feuillet = (종이) 한 장·쪽
++ pour que la lettre paraisse… = pour que + 접속법. 일부러 그렇게 보이도록
+## 자백하는 서류 — LA PIÈCE QUI PARLE
+JULIEN: Monsieur Pochon, j'ai besoin que vous me disiez qui, à votre connaissance, avait accès à ce tampon du cabinet. ||| 포숑 씨, 이 비서실 도장에 누가 접근할 수 있었는지 아는 대로 말씀해 주십시오.
+POCHON: Il y avait un tampon dans le bureau du directeur adjoint de cabinet. Pas à la salle du courrier. Pas ici. ||| 비서실 부실장 사무실에 도장이 있었습니다. 우편실에도, 여기에도 없었어요.
+CAMILLE: En mars dernier, qui occupait ce poste ? ||| 작년 3월에 그 자리는 누가 맡고 있었죠?
+POCHON: Je ne dirai pas de nom. Je dis seulement que le directeur adjoint est devenu directeur en juin. ||| 이름은 말하지 않겠습니다. 부실장이 6월에 실장이 되었다고만 하죠.
+JULIEN: Cela suffit. Pouvons-nous faire une photocopie de la pièce ? ||| 충분합니다. 서류를 복사할 수 있습니까?
+POCHON: Non. Mais vous pouvez demander une « communication certifiée ». Je tamponne, je date, je signe, et cela vaut copie conforme. Délai : trois jours. ||| 안 됩니다. 하지만 '인증 열람본'을 신청할 수 있어요. 제가 도장 찍고 날짜 적고 서명하면 사본 인증과 같습니다. 기한은 사흘이고요.
+JULIEN: Trois jours, c'est long, avec quatorze hommes à l'hôtel. ||| 사흘은 깁니다, 호텔에 열네 명이 있는데요.
+POCHON: Je comprends. Je le ferai en vingt-quatre heures, à condition que la demande vienne d'une autorité compétente, et pas du cabinet. ||| 이해합니다. 24시간 안에 해 드리죠. 단, 신청이 권한 있는 기관에서 나와야 하고 비서실에서 나와서는 안 됩니다.
+CAMILLE: Un autre service ? Le service juridique, peut-être ? ||| 다른 부서요? 법무국일까요?
+POCHON: La Direction des affaires juridiques, oui. Elle a qualité pour réclamer une pièce à fins d'expertise. ||| 법무국이죠. 감정을 목적으로 서류를 청구할 자격이 있습니다.
+JULIEN: Camille, rédigez la demande. Ajoutez la mention « pour expertise de concordance linguistique ». ||| 카미유, 신청서를 작성해요. '언어 일치 감정을 위해'라는 문구를 넣고요.
+CAMILLE: Je la rédige tout de suite. Avec votre permission, je vais à la salle de lecture voisine. ||| 지금 쓸게요. 허락하시면 옆 열람실에 가서 쓰겠습니다.
+POCHON: Allez-y. Moi, je remets la lettre dans sa boîte. J'ai une règle : ne jamais laisser une pièce seule avec des gens très intelligents. ||| 가세요. 저는 서한을 상자에 도로 넣겠습니다. 제게는 규칙이 있어요. 아주 똑똑한 사람들과 서류를 단둘이 두지 않는다는.
+JULIEN: Je prends cela comme un compliment. ||| 칭찬으로 듣겠습니다.
+POCHON: Prenez-le comme un avertissement. Les gens très intelligents emportent. ||| 경고로 들으세요. 아주 똑똑한 사람들은 가져가거든요.
+JULIEN: Monsieur Pochon, pourquoi m'avez-vous aidé ? Vous auriez pu vous contenter du protocole. ||| 포숑 씨, 왜 도와주셨습니까? 규정만 지켜도 됐을 텐데요.
+POCHON: Parce que quarante ans d'archives m'ont appris une chose. Une page manquante n'est jamais une absence. C'est un message. ||| 40년간 문서고에서 일하며 배운 게 하나 있어서요. 빠진 쪽은 결코 부재가 아닙니다. 하나의 메시지예요.
+JULIEN: Un message adressé à qui ? ||| 누구에게 보낸 메시지입니까?
+POCHON: À celui qui aura la patience de regarder. Merci d'avoir regardé. ||| 참을성 있게 들여다볼 사람에게요. 들여다봐 줘서 고맙습니다.
+CAMILLE: La demande est prête. Elle est signée du chef de la Direction juridique, par délégation. ||| 신청서 준비됐어요. 법무국장 위임으로 서명받았습니다.
+JULIEN: Par délégation ? En vingt minutes ? ||| 위임으로요? 20분 만에요?
+CAMILLE: J'ai le numéro de portable de la sous-directrice. Elle déteste Lefort. ||| 부국장 휴대폰 번호를 갖고 있어요. 그분은 르포르를 싫어하거든요.
+JULIEN: Camille, j'ai rarement vu quelqu'un manier aussi bien les haines des autres. ||| 카미유, 남의 미움을 그렇게 잘 다루는 사람은 드물게 봤어요.
+CAMILLE: Je suis de Marseille, monsieur. On y apprend vite la géographie des rancunes. ||| 마르세유 사람이에요, 부실장님. 거기선 원한의 지리를 빨리 배우거든요.
+POCHON: Je vous donne l'accusé de réception. Vous aurez la communication demain, à partir de quinze heures. ||| 접수증 드리겠습니다. 인증 열람본은 내일 오후 3시부터 받으실 수 있어요.
+JULIEN: Merci, monsieur Pochon. Que le diable emporte les tampons ronds. ||| 감사합니다, 포숑 씨. 둥근 도장들은 악마가 데려가 버리기를.
+POCHON: Que le diable emporte les gens qui renumérotent. Les tampons, eux, n'y sont pour rien. ||| 번호를 다시 매기는 사람들은 악마가 데려가라죠. 도장들이야 죄가 없습니다.
++ communication certifiée / copie conforme = 인증 열람본 / 사본 인증. 서류 증거화의 절차
++ avoir qualité pour + inf. = ~할 자격(권한)이 있다. à fins d'expertise = 감정을 목적으로
++ par délégation = 위임에 의해. un accusé de réception = 접수증
++ J'ai besoin que vous me disiez = avoir besoin que + 접속법. à votre connaissance = 아시는 한
++ Une page manquante n'est jamais une absence. C'est un message. = 포숑의 경구
++ qui aura la patience de regarder = 미래완료 관계절, 어조의 우아함
++ que le diable emporte… = ~는 악마가 데려가라(접속법 기원). n'y être pour rien = 책임이 없다
++ la géographie des rancunes = 원한의 지리. 카미유의 마르세유식 비유
+
+## 저녁 전화, 증거란 무엇인가 — LE SOIR, AU TÉLÉPHONE
+VALCOURT: Allô ? Julien ? Un instant, je suis chez le fromager de la rue Cler, il me coupe un morceau de comté. ||| 여보세요? 쥘리앵? 잠깐만, 클레르 거리 치즈 가게에 있는데 콩테를 썰고 있어서요.
+JULIEN: Je vous rappellerai dans cinq minutes. ||| 5분 뒤에 다시 걸겠습니다.
+VALCOURT: Non, non, parlez. Les fromagers ont l'habitude des secrets d'État. Ils en entendent plus que les concierges. ||| 아니, 아니, 말해요. 치즈 장수는 국가 기밀에 익숙해요. 수위들보다 더 많이 듣거든요.
+JULIEN: Nous avons trouvé quelque chose dans les archives. La lettre française a trois pages, la version arabe en a quatre. ||| 문서고에서 뭔가 찾았습니다. 프랑스어 서한은 세 쪽, 아랍어판은 네 쪽입니다.
+VALCOURT: Une page manquante. C'est la forme la plus ancienne de la dissimulation. ||| 빠진 쪽이라. 은폐의 가장 오래된 형태죠.
+JULIEN: Il y avait un tampon rond sur des numéros plats. Le cabinet a renuméroté. ||| 평평한 숫자 위에 둥근 도장이 있었어요. 비서실이 번호를 다시 매겼습니다.
+VALCOURT: Alors méfiez-vous du mot « cabinet ». Il désigne tantôt une pièce, tantôt un conseil, tantôt une cachette. ||| 그럼 '비서실'이라는 말을 조심하세요. 방을 가리킬 때도, 자문기구를 가리킬 때도, 은신처를 가리킬 때도 있으니까.
+JULIEN: Je ne dis pas encore le nom de celui qui a signé. ||| 서명한 사람의 이름은 아직 말하지 않겠습니다.
+VALCOURT: Faites bien. Un nom prononcé trop tôt devient une balle de ping-pong. On vous le renvoie avec un avocat. ||| 잘 생각했어요. 너무 일찍 입에 올린 이름은 탁구공이 됩니다. 변호사와 함께 돌아오죠.
+JULIEN: Je dois maintenant retrouver quelqu'un qui connaît cette lettre dans l'autre sens : le traducteur. ||| 이제 이 서한을 반대편에서 아는 사람을 찾아야 합니다. 번역사요.
+VALCOURT: Faites-vous une liste des traducteurs jurés de l'arabe auprès de la cour d'appel de Paris. Ils sont peu nombreux, et les vieux sont les meilleurs. ||| 파리 항소법원에 등록된 아랍어 공증 번역사 명단을 만드세요. 몇 안 되고, 나이 든 사람이 가장 낫습니다.
+JULIEN: Vous en connaissez un ? ||| 아시는 분이 계십니까?
+VALCOURT: J'en ai connu une, dans une autre vie. Odile Vasseur. Elle doit avoir soixante-dix-huit ans et vivre à Angers, parmi ses dictionnaires. Je vous donnerai son adresse si vous me promettez de lui apporter du fromage. ||| 전생에서 한 분 알았죠. 오딜 뷔소르. 일흔여덟 살쯤 됐고 앙제에서 사전들에 둘러싸여 살 겁니다. 치즈를 가져가겠다고 약속하면 주소를 드리죠.
+JULIEN: Quel fromage ? ||| 무슨 치즈요?
+VALCOURT: Du crémet d'Anjou, évidemment. On n'arrive pas les mains vides chez un traducteur. C'est comme apporter des fleurs à un jardinier. ||| 물론 앙주 크레메죠. 번역사에게는 빈손으로 가지 않습니다. 정원사에게 꽃을 가져가는 것과 같아요.
+JULIEN: Je ne pourrais pas dire autrement. Merci, monsieur l'ambassadeur. ||| 달리 말할 수 없겠네요. 고맙습니다, 대사님.
+VALCOURT: Julien, une dernière chose. Dans une archive, il n'y a jamais de coupable. Il y a seulement des gens qui ont eu peur d'un papier. ||| 쥘리앵, 마지막으로 하나. 문서고에 범인은 없어요. 종이 한 장을 무서워한 사람들이 있을 뿐이죠.
+JULIEN: Je m'en souviendrai en face de Lefort. ||| 르포르 앞에서 기억하겠습니다.
+LÉA: Papa, je peux te poser une question pour ma dissertation ? ||| 아빠, 논술 때문에 질문 하나 해도 돼요?
+JULIEN: Vas-y, ma chérie. Ce soir, je suis un livre ouvert. ||| 해 봐, 우리 딸. 오늘 밤 난 펼쳐진 책이야.
+LÉA: Sujet : « Qu'est-ce qu'une preuve ? » Si on garde un document, et qu'on en cache une page, est-ce qu'il prouve encore quelque chose ? ||| 주제는 '증거란 무엇인가'예요. 문서는 보관하는데 한 쪽을 숨기면 그 문서는 여전히 뭔가를 증명할 수 있나요?
+JULIEN: Il prouve quelque chose, mais pas ce qu'il prétend prouver. Il prouve qu'on l'a modifié. ||| 뭔가는 증명하지, 하지만 증명하려던 걸 증명하진 않아. 누군가 그걸 고쳤다는 걸 증명하지.
+LÉA: Alors une preuve falsifiée est quand même une preuve ? Une preuve de la falsification ? ||| 그럼 조작된 증거도 어쨌든 증거예요? 조작의 증거요?
+JULIEN: Tu viens de passer tes quinze premières minutes d'écrit en trente secondes. ||| 방금 논술 첫 15분을 30초에 끝냈구나.
+LÉA: C'est une question de définition : « preuve », c'est ce qui permet de conclure, pas ce qui est vrai. ||| 개념 정의의 문제예요. '증거'는 사실인 게 아니라 결론을 내릴 수 있게 해 주는 거예요.
+JULIEN: Garde cette phrase. Je suis sûr que ton professeur l'aimera, et moi encore plus. ||| 그 문장을 간직해라. 선생님도 좋아하실 거고, 난 더 좋아한다.
+LÉA: Tu sens le papier ancien, papa. C'est bizarre. ||| 아빠한테서 오래된 종이 냄새가 나요. 이상해요.
+JULIEN: C'est l'odeur de la vérité. Ça sent un peu la poussière et beaucoup la colle. ||| 진실의 냄새란다. 먼지 냄새가 조금, 풀 냄새가 많이 나지.
++ chez le fromager = 치즈 가게에. un secret d'État = 국가 기밀. les concierges = 수위·관리인(수다쟁이의 대명사)
++ traducteur juré = 공증(선서) 번역사. cour d'appel = 항소법원
++ Ne pas arriver les mains vides = 빈손으로 오지 않다. crémet d'Anjou = 앙주 지방의 생크림 디저트
++ Faites-vous une liste = 명령형 + 재귀 대명사. Faites bien = 그러길 잘했다/잘하세요
++ une balle de ping-pong = 탁구공. 이름이 오가는 위험의 비유
++ être un livre ouvert = 속을 환히 아는 사람이다. 들로름의 농담
++ Qu'est-ce qu'une preuve ? = 철학 논술 주제. 증거가 문서의 완결성에 달려 있다는 아이디어
