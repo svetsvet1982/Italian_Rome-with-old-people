@@ -1,0 +1,61 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 6
+@title Padre e figlio
+@ko 아버지와 아들
+@setting 금요일 밤 란차의 집 식탁 → 토요일 아침 파르네시나 사무총장실 → 정오 산드리의 테라스 → 오후 사무총장실
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast LEO | 란차의 아들, 16세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast GIULIA | 분석관, 31세
+@note 6화는 내부 대결의 화입니다. 로마 회의 합의 뒤 오르솔리니는 '납치범에게 보상을 주는 구조'라며 반발하고 벨란디를 공식 조사하려 합니다. 란차는 아들 레오의 철학 숙제 '약속은 누구에게 하는 것인가'에서 해법을 얻습니다. 둘째 텍스트의 수신인은 납치범이 아니라 놀로 공동체라는 것. 역사 논거는 마르티노 5세 선출(1417): 콘스탄츠 공의회에서 추기경 23명과 다섯 '국민'의 대표 30명이 각 집단에서 3분의 2를 얻어야 한다는 이중 조건으로 교회 대분열을 끝낸 타협입니다. 어휘는 협상·윤리(promessa, destinatario, compromesso, fiducia, maggioranza)에 주목하세요.
+@next 7화: 페데리카가 몸값 자금 경로를 불법으로 추적해 건넵니다. 란차는 사용하지 않고 재단에 직접 묻습니다.
+
+## 금요일 밤의 식탁 — LA CENA DI VENERDÌ
+LEO: Papà, mi serve una mano. Domani devo consegnare un tema di filosofia. ||| 아빠, 도와주세요. 내일 철학 숙제를 내야 해요.
+CORRADO: Su che cosa? ||| 무엇에 관해서?
+LEO: «A chi si fa una promessa?» ||| '약속은 누구에게 하는 것인가?'
+CORRADO: Bella domanda. Tu che cosa hai scritto finora? ||| 좋은 질문이구나. 지금까지 뭘 썼니?
+LEO: Che si fa a chi la riceve. Ma questo mi sembra troppo ovvio. ||| 받는 사람에게 한다고요. 하지만 너무 뻔한 것 같아요.
+CORRADO: Provi con un esempio. ||| 예를 들어 봐.
+LEO: Se prometto a mia nonna che porto i fiori sulla tomba del nonno, la promessa è a lei. ||| 할머니께 할아버지 묘에 꽃을 가져가겠다고 약속하면 약속은 할머니에게 하는 거죠.
+CORRADO: E se tua nonna muore? ||| 할머니가 돌아가시면?
+LEO: Allora… la promessa resta. ||| 그럼… 약속은 남아요.
+CORRADO: E a chi è fatta, ora? ||| 그럼 이제 누구에게 한 약속이지?
+LEO: Al nonno. O a me stesso. O a nessuno. ||| 할아버지에게. 아니면 나 자신에게. 아니면 아무에게도요.
+CORRADO: Leo, sei vicinissimo a una cosa. ||| 레오, 아주 가까이 왔구나.
+LEO: A che cosa? ||| 뭐에 가까워요?
+CORRADO: Pensa a quando prometti qualcosa davanti a testimoni. Un matrimonio, per esempio. ||| 증인들 앞에서 약속할 때를 생각해 봐. 결혼식 같은 때.
+LEO: Prometti alla sposa. ||| 신부에게 약속하죠.
+CORRADO: E a chi altro? ||| 또 누구에게?
+LEO: Al prete. Agli invitati. A tutti quelli che sono in chiesa. ||| 사제에게. 하객들에게. 성당에 있는 모든 사람에게요.
+CORRADO: Perché agli invitati? ||| 왜 하객들에게?
+LEO: Perché… perché sono quelli che la ricordano. ||| 그건… 그 사람들이 기억하니까요.
+CORRADO: Ecco. ||| 바로 그거야.
+LEO: Quindi una promessa si fa a chi la riceve, e anche a chi la ricorda. ||| 그러니 약속은 받는 사람에게, 그리고 기억하는 사람에게도 하는 거네요.
+CORRADO: E se a ricordarla è un'intera comunità? ||| 기억하는 쪽이 공동체 전체라면?
+LEO: Allora la promessa è della comunità. ||| 그럼 약속은 공동체의 것이죠.
+CORRADO: Leo. ||| 레오.
+LEO: Che c'è? ||| 왜요?
+CORRADO: Hai appena risolto il mio problema di lavoro. ||| 방금 내 일 문제를 풀어 줬어.
+LEO: Davvero? ||| 정말요?
+CORRADO: Il problema: chi è il destinatario del nostro secondo testo? I rapitori? No. Non dobbiamo promettere nulla ai rapitori. ||| 문제는 우리 둘째 텍스트의 수신인이 누구냐는 거였어. 납치범들? 아니야. 납치범에게는 아무것도 약속하면 안 돼.
+LEO: E a chi, allora? ||| 그럼 누구에게요?
+CORRADO: Al villaggio. Alla gente di Ndolo. Che ricorda. ||| 마을에게. 놀로 사람들에게. 기억하는 사람들에게.
+LEO: Quindi i rapitori sono... ||| 그러면 납치범은…
+CORRADO: Testimoni. Non destinatari. Possono guardare, ma non incassare. ||| 증인이야. 수신인이 아니고. 볼 수는 있어도 챙길 수는 없지.
+LEO: È bellissimo, papà. Posso scriverlo? ||| 멋져요, 아빠. 써도 돼요?
+CORRADO: Scrivilo. Ma metti la fonte. ||| 써. 하지만 출처를 달아.
+LEO: Chi è la fonte? ||| 출처가 누군데요?
+CORRADO: Tu. ||| 너야.
++ promessa = 약속
++ destinatario = 수신인
++ testimone = 증인
++ incassare = (대가를) 챙기다
++ tema = (학교) 작문, 숙제 글
++ ovvio = 뻔한
++ ricordare = 기억하다
++ comunità = 공동체

@@ -1,0 +1,186 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 6
+@title Padre e figlio
+@ko 아버지와 아들
+@setting 금요일 밤 란차의 집 식탁 → 토요일 아침 파르네시나 사무총장실 → 정오 산드리의 테라스 → 오후 사무총장실
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast LEO | 란차의 아들, 16세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast GIULIA | 분석관, 31세
+@note 6화는 내부 대결의 화입니다. 로마 회의 합의 뒤 오르솔리니는 '납치범에게 보상을 주는 구조'라며 반발하고 벨란디를 공식 조사하려 합니다. 란차는 아들 레오의 철학 숙제 '약속은 누구에게 하는 것인가'에서 해법을 얻습니다. 둘째 텍스트의 수신인은 납치범이 아니라 놀로 공동체라는 것. 역사 논거는 마르티노 5세 선출(1417): 콘스탄츠 공의회에서 추기경 23명과 다섯 '국민'의 대표 30명이 각 집단에서 3분의 2를 얻어야 한다는 이중 조건으로 교회 대분열을 끝낸 타협입니다. 어휘는 협상·윤리(promessa, destinatario, compromesso, fiducia, maggioranza)에 주목하세요.
+@next 7화: 페데리카가 몸값 자금 경로를 불법으로 추적해 건넵니다. 란차는 사용하지 않고 재단에 직접 묻습니다.
+
+## 금요일 밤의 식탁 — LA CENA DI VENERDÌ
+LEO: Papà, mi serve una mano. Domani devo consegnare un tema di filosofia. ||| 아빠, 도와주세요. 내일 철학 숙제를 내야 해요.
+CORRADO: Su che cosa? ||| 무엇에 관해서?
+LEO: «A chi si fa una promessa?» ||| '약속은 누구에게 하는 것인가?'
+CORRADO: Bella domanda. Tu che cosa hai scritto finora? ||| 좋은 질문이구나. 지금까지 뭘 썼니?
+LEO: Che si fa a chi la riceve. Ma questo mi sembra troppo ovvio. ||| 받는 사람에게 한다고요. 하지만 너무 뻔한 것 같아요.
+CORRADO: Provi con un esempio. ||| 예를 들어 봐.
+LEO: Se prometto a mia nonna che porto i fiori sulla tomba del nonno, la promessa è a lei. ||| 할머니께 할아버지 묘에 꽃을 가져가겠다고 약속하면 약속은 할머니에게 하는 거죠.
+CORRADO: E se tua nonna muore? ||| 할머니가 돌아가시면?
+LEO: Allora… la promessa resta. ||| 그럼… 약속은 남아요.
+CORRADO: E a chi è fatta, ora? ||| 그럼 이제 누구에게 한 약속이지?
+LEO: Al nonno. O a me stesso. O a nessuno. ||| 할아버지에게. 아니면 나 자신에게. 아니면 아무에게도요.
+CORRADO: Leo, sei vicinissimo a una cosa. ||| 레오, 아주 가까이 왔구나.
+LEO: A che cosa? ||| 뭐에 가까워요?
+CORRADO: Pensa a quando prometti qualcosa davanti a testimoni. Un matrimonio, per esempio. ||| 증인들 앞에서 약속할 때를 생각해 봐. 결혼식 같은 때.
+LEO: Prometti alla sposa. ||| 신부에게 약속하죠.
+CORRADO: E a chi altro? ||| 또 누구에게?
+LEO: Al prete. Agli invitati. A tutti quelli che sono in chiesa. ||| 사제에게. 하객들에게. 성당에 있는 모든 사람에게요.
+CORRADO: Perché agli invitati? ||| 왜 하객들에게?
+LEO: Perché… perché sono quelli che la ricordano. ||| 그건… 그 사람들이 기억하니까요.
+CORRADO: Ecco. ||| 바로 그거야.
+LEO: Quindi una promessa si fa a chi la riceve, e anche a chi la ricorda. ||| 그러니 약속은 받는 사람에게, 그리고 기억하는 사람에게도 하는 거네요.
+CORRADO: E se a ricordarla è un'intera comunità? ||| 기억하는 쪽이 공동체 전체라면?
+LEO: Allora la promessa è della comunità. ||| 그럼 약속은 공동체의 것이죠.
+CORRADO: Leo. ||| 레오.
+LEO: Che c'è? ||| 왜요?
+CORRADO: Hai appena risolto il mio problema di lavoro. ||| 방금 내 일 문제를 풀어 줬어.
+LEO: Davvero? ||| 정말요?
+CORRADO: Il problema: chi è il destinatario del nostro secondo testo? I rapitori? No. Non dobbiamo promettere nulla ai rapitori. ||| 문제는 우리 둘째 텍스트의 수신인이 누구냐는 거였어. 납치범들? 아니야. 납치범에게는 아무것도 약속하면 안 돼.
+LEO: E a chi, allora? ||| 그럼 누구에게요?
+CORRADO: Al villaggio. Alla gente di Ndolo. Che ricorda. ||| 마을에게. 놀로 사람들에게. 기억하는 사람들에게.
+LEO: Quindi i rapitori sono... ||| 그러면 납치범은…
+CORRADO: Testimoni. Non destinatari. Possono guardare, ma non incassare. ||| 증인이야. 수신인이 아니고. 볼 수는 있어도 챙길 수는 없지.
+LEO: È bellissimo, papà. Posso scriverlo? ||| 멋져요, 아빠. 써도 돼요?
+CORRADO: Scrivilo. Ma metti la fonte. ||| 써. 하지만 출처를 달아.
+LEO: Chi è la fonte? ||| 출처가 누군데요?
+CORRADO: Tu. ||| 너야.
++ promessa = 약속
++ destinatario = 수신인
++ testimone = 증인
++ incassare = (대가를) 챙기다
++ tema = (학교) 작문, 숙제 글
++ ovvio = 뻔한
++ ricordare = 기억하다
++ comunità = 공동체
+
+## 사무총장실 — L'UFFICIO DEL SEGRETARIO GENERALE
+ORSOLINI: Dottor Lanza, devo essere franco. Ieri a Roma abbiamo firmato una bozza. Ma stamattina io ho il dovere di dirle che non mi convince. ||| 란차 박사, 솔직히 말하겠습니다. 어제 로마에서 초안에 서명했지만 오늘 아침 저는 납득이 안 된다는 걸 말씀드려야 합니다.
+CORRADO: Mi dica, ambasciatore. ||| 말씀하세요, 대사님.
+ORSOLINI: Il corridoio è una buona idea. Ma il secondo testo, quello dell'Ordine, è una ricompensa. Lo chiami come vuole. ||| 회랑은 좋은 생각입니다. 하지만 둘째 텍스트, 수도회의 것은 보상입니다. 뭐라 부르든요.
+CORRADO: Una ricompensa a chi? ||| 누구에게 하는 보상입니까?
+ORSOLINI: Ai rapitori. Hanno preso cinque italiani, e in cambio otterranno un ospedale. ||| 납치범에게요. 이탈리아인 다섯 명을 잡았고 그 대가로 병원을 얻게 됩니다.
+CORRADO: Se il testo fosse rivolto a loro, avrebbe ragione. ||| 그 텍스트가 그들을 향한 것이라면 옳으십니다.
+ORSOLINI: E a chi sarebbe rivolto? ||| 그럼 누구를 향합니까?
+CORRADO: Al villaggio. Alla comunità di Ndolo. Che ricorda. Che ha perso un bambino, tre anni fa. ||| 마을에요. 놀로 공동체에게요. 기억하는 사람들, 3년 전 아이를 잃은 사람들에게요.
+ORSOLINI: È un artificio retorico. ||| 수사적 기교군요.
+CORRADO: È una distinzione di diritto. Si può promettere a una comunità senza promettere a chi la tiene in ostaggio. ||| 법적 구분입니다. 공동체에게 약속하되 그 공동체를 인질로 잡은 자에게는 약속하지 않을 수 있습니다.
+ORSOLINI: In pratica non cambia nulla. ||| 실제로는 달라지는 게 없습니다.
+CORRADO: Cambia tutto. Perché i rapitori non possono rivendicarlo. Se lo rivendicano, ammettono che la loro causa era un'altra. ||| 전부 달라집니다. 납치범은 그것을 자기 몫이라 주장할 수 없으니까요. 주장하면 자기들의 명분이 달랐음을 인정하는 셈이죠.
+ORSOLINI: Dottor Lanza. Mi dica una cosa. Perché non vuole che mi occupi del fascicolo di Bellandi? ||| 란차 박사, 하나 말해 보세요. 왜 제가 벨란디의 서류철을 다루는 걸 원치 않습니까?
+CORRADO: Non è che non voglio. Voglio che sia lui ad aprirlo. ||| 원치 않는 게 아니라 그가 직접 열기를 바라는 겁니다.
+ORSOLINI: Ho ricevuto stamattina una richiesta dalla Segreteria di Stato. Mi chiedono di lasciar fare a monsignor Bellandi. Come se fosse un diritto acquisito. ||| 오늘 아침 국무원에서 요청이 왔습니다. 벨란디 몬시뇰이 하도록 맡겨 달라는 겁니다. 마치 기득권인 것처럼요.
+CORRADO: Capisco. ||| 알겠습니다.
+ORSOLINI: Non mi piace. Io rappresento lo Stato italiano. Non una diplomazia parallela. ||| 마음에 안 듭니다. 저는 이탈리아 국가를 대표합니다. 병행 외교가 아니라요.
+CORRADO: Ambasciatore, anche io. ||| 대사님, 저도 그렇습니다.
+ORSOLINI: Lei, dottor Lanza, ha un debito di gratitudine verso Bellandi. Ha trent'anni di amicizia. Io lo capisco. Ma qui non è questione di amicizia. ||| 란차 박사, 박사님은 벨란디에게 감사의 빚이 있습니다. 30년 우정이죠. 이해합니다. 하지만 지금은 우정의 문제가 아닙니다.
+CORRADO: No. È una questione di struttura. ||| 아닙니다. 구조의 문제죠.
+ORSOLINI: Che struttura? ||| 어떤 구조요?
+CORRADO: Posso farle una domanda? ||| 질문 하나 해도 되겠습니까?
+ORSOLINI: Prego. ||| 하세요.
+CORRADO: Lei sa come si risolse lo scisma d'Occidente? ||| 서방 교회 분열이 어떻게 풀렸는지 아십니까?
+ORSOLINI: Il Concilio di Costanza. ||| 콘스탄츠 공의회죠.
+CORRADO: Esatto. Millequattrocentodiciassette. Tre papi, nessuno disposto a farsi da parte. ||| 맞습니다. 1417년이죠. 교황이 셋이고 누구도 물러서려 하지 않았습니다.
+ORSOLINI: Lo ricordo dal liceo. ||| 고등학교 때 기억납니다.
+CORRADO: Ecco il punto che pochi ricordano. L'elezione del nuovo papa non spettava solo ai cardinali, come sempre. Il Concilio decise che avrebbero votato con loro anche trenta delegati delle cinque nazioni. ||| 그런데 소수만 기억하는 점이 있습니다. 새 교황 선출이 늘 그랬듯 추기경들만의 몫이 아니었습니다. 공의회는 다섯 국민의 대표 서른 명도 함께 투표하도록 했습니다.
+ORSOLINI: Ventitré cardinali e trenta delegati. ||| 추기경 스물셋과 대표 서른이죠.
+CORRADO: E ci voleva una maggioranza di due terzi in ciascun gruppo. Non nel totale: in ciascun gruppo. ||| 그리고 각 집단에서 3분의 2 다수가 필요했습니다. 전체가 아니라 각 집단에서요.
+ORSOLINI: Così nessuno poteva imporsi. ||| 그래서 누구도 밀어붙일 수 없었군요.
+CORRADO: Così tutti dovevano accettare. E il candidato fu un compromesso: Oddone Colonna, romano, di nessuna fazione. Martino Quinto. ||| 그래서 모두가 받아들여야 했죠. 후보는 타협의 산물이었습니다. 로마 사람 오도네 콜론나, 어느 파벌도 아니었어요. 마르티노 5세입니다.
+ORSOLINI: Dove vuole arrivare? ||| 요점이 뭡니까?
+CORRADO: Che anche qui servono due chiavi. La firma dello Stato italiano sul primo testo, e la firma del comitato di Ndolo sul secondo. Se manca una, l'altra non vale. ||| 여기에도 열쇠가 둘 필요하다는 겁니다. 첫째 텍스트에는 이탈리아 국가의 서명, 둘째 텍스트에는 놀로 위원회의 서명. 하나가 없으면 다른 하나도 효력이 없습니다.
+ORSOLINI: Due chiavi. ||| 열쇠 둘.
+CORRADO: Così lo Stato non può dire che l'Ordine ha trattato di nascosto. E l'Ordine non può dire che lo Stato lo ha ignorato. ||| 그러면 국가는 수도회가 몰래 협상했다고 못 하고, 수도회는 국가가 무시했다고 못 합니다.
+ORSOLINI: E Bellandi? ||| 벨란디는요?
+CORRADO: Lui apre il fascicolo lunedì. Davanti a lei. Con la Segreteria di Stato a fianco. ||| 월요일에 서류철을 엽니다. 대사님 앞에서, 국무원 대표가 곁에 있는 채로요.
+ORSOLINI: Davanti a me. ||| 제 앞에서요.
+CORRADO: Lo Stato presente, la Chiesa presente. Due chiavi anche lì. ||| 국가도 교회도 입회합니다. 거기서도 열쇠가 둘입니다.
+ORSOLINI: Dottor Lanza, devo riconoscere che sa vendere un'idea. ||| 란차 박사, 아이디어를 파는 재주가 있다는 건 인정해야겠습니다.
+CORRADO: Non la vendo. Me l'ha insegnata mio figlio. ||| 파는 게 아닙니다. 제 아들이 가르쳐 줬어요.
+ORSOLINI: Suo figlio? ||| 아드님이요?
+CORRADO: Ha sedici anni. Studia filosofia. Ha scoperto che le promesse si fanno anche a chi le ricorda. ||| 열여섯 살이에요. 철학을 배웁니다. 약속은 기억하는 사람에게도 한다는 걸 알아냈죠.
+ORSOLINI: Come funzionano le coincidenze. Io ho una figlia di quindici anni. Mi ha detto la stessa cosa ieri sera, a cena, riguardo a un compito di storia. ||| 우연이 이렇게 작동하는군요. 저도 열다섯 딸이 있습니다. 어제 저녁 식사 때 역사 숙제 이야기를 하며 똑같은 말을 했어요.
+CORRADO: Quindi lei sa già di che cosa parlo. ||| 그럼 제가 무슨 말을 하는지 이미 아시는군요.
+ORSOLINI: Mi lasci un giorno. ||| 하루만 주십시오.
+CORRADO: Un giorno è tutto quello che le chiedo. ||| 하루가 제가 바라는 전부입니다.
++ ricompensa = 보상
++ diplomazia parallela = 병행 외교
++ in ostaggio = 인질로
++ rivendicare = (자기 것이라) 주장하다
++ scisma d'Occidente = 서방 교회 대분열(1378~1417)
++ due terzi = 3분의 2
++ fazione = 파벌
++ diritto acquisito = 기득권
++ a fianco = 곁에
+
+## 정오의 테라스 — LA TERRAZZA DI SANDRI
+SANDRI: Corrado, siediti. L'espresso è appena uscito. ||| 코라도, 앉게. 에스프레소가 막 나왔어.
+CORRADO: Grazie, ambasciatore. ||| 감사합니다, 대사님.
+SANDRI: Mi hanno detto che hai usato Martino Quinto con Orsolini. ||| 마르티노 5세로 오르솔리니를 설득했다고 들었네.
+CORRADO: Chi glielo ha detto? ||| 누가 말씀드렸습니까?
+SANDRI: Lui stesso. Mi ha telefonato. Quel ragazzo, a cinquantatré anni, mi chiama «ambasciatore» con una venerazione che non merito. ||| 본인이. 나에게 전화했어. 쉰셋이나 된 사람이 내가 받을 자격 없는 존경으로 '대사님'이라 부르더군.
+CORRADO: E che cosa ha detto? ||| 뭐라고 하던가요?
+SANDRI: Che sei il solo che gli ha messo in discussione il metodo senza insultarlo. ||| 방식을 의심하면서도 모욕하지 않은 사람은 자네뿐이라고.
+CORRADO: Mi sembra un complimento. ||| 칭찬 같군요.
+SANDRI: È un invito. Ti chiede di restare dalla sua parte, quando sarà il momento. ||| 초대야. 때가 되면 자기 편에 있어 달라는 거지.
+CORRADO: Quale momento? ||| 어떤 때요?
+SANDRI: Quello in cui il fascicolo si aprirà, e dentro ci sarà qualcosa che nessuno vuole vedere. ||| 서류철이 열리고 아무도 보고 싶지 않은 것이 들어 있을 때.
+CORRADO: Che cosa ci sarà? ||| 무엇이 들어 있을 겁니까?
+SANDRI: Non lo so. Ma conosco Ettore da cinquant'anni. Ha un solo difetto: crede che la verità vada dosata. Come i farmaci. ||| 모르네. 하지만 에토레를 50년 알아. 단점이 하나 있지. 진실은 약처럼 조금씩 먹여야 한다고 믿는다는 것.
+CORRADO: E lei? ||| 대사님은요?
+SANDRI: Io credo che la verità vada servita calda. Come il caffè. ||| 나는 진실이 커피처럼 뜨겁게 나와야 한다고 믿네.
+CORRADO: Ma il caffè scotta. ||| 하지만 커피는 데죠.
+SANDRI: Appunto. E lo bevi comunque. ||| 그래서지. 그래도 마시게 되니까.
+CORRADO: Ambasciatore, mi dica che cosa devo fare. ||| 대사님, 제가 무엇을 해야 하는지 말씀해 주세요.
+SANDRI: Quello che hai già fatto. Ascolta tuo figlio. ||| 이미 한 일을 하게. 자네 아들 말을 들어.
+CORRADO: Lo faccio. ||| 그러고 있습니다.
+SANDRI: Non è un consiglio. È un augurio. ||| 조언이 아니라 바람일세.
++ venerazione = 경외, 존경
++ mettere in discussione = 의심하다, 문제 삼다
++ dosare = 분량을 조절하다
++ scottare = 데다, 뜨겁다
++ augurio = 소망, 덕담
++ appunto = 바로 그래서
++ difetto = 단점
+
+## 오후의 소식 — LE NOTIZIE DEL POMERIGGIO
+GIULIA: Corrado, due cose. La prima: Orsolini ha firmato il primo testo. Con una riserva scritta a margine. ||| 코라도, 두 가지예요. 첫째, 오르솔리니가 첫 텍스트에 서명했어요. 여백에 서면 유보를 적고요.
+CORRADO: Che cosa dice la riserva? ||| 유보에 뭐라고 적었죠?
+GIULIA: «Fermo restando che lo Stato non corrisponde alcuna somma, né direttamente né indirettamente». ||| "국가는 직접으로든 간접으로든 어떤 금액도 지급하지 않는다는 점에는 변함이 없음."
+CORRADO: È una buona riserva. È anche la mia. ||| 좋은 유보입니다. 제 입장이기도 하고요.
+GIULIA: La seconda: Madre Costanza ha mandato la bozza del testo dell'Ordine. ||| 둘째, 코스탄차 총장님이 수도회 텍스트 초안을 보냈어요.
+CORRADO: Leggimi l'inizio. ||| 첫머리를 읽어 줘요.
+GIULIA: «Alla comunità di Ndolo. Noi, Suore della Misericordia, vi promettiamo che la porta della clinica resterà aperta di notte, finché ci sarà una suora, un medico o una candela che la possa aprire». ||| "놀로 공동체에. 우리 자비의 수녀들은 약속합니다. 수녀 한 명이나 의사 한 명이나 촛불 하나가 그 문을 열 수 있는 한, 병원 문은 밤에도 열려 있을 것입니다."
+CORRADO: Una candela. ||| 촛불이라.
+GIULIA: Mi ha commosso. ||| 감동적이었어요.
+CORRADO: Lo scrive una donna di settantaquattro anni che non vede da due giorni la sua amica di quarant'anni. ||| 40년 친구를 이틀째 못 보는 일흔넷의 여인이 쓴 글이죠.
+GIULIA: Ci sono altre tre righe. Vuoi sentirle? ||| 세 줄 더 있어요. 들어 보실래요?
+CORRADO: Sì. ||| 네.
+GIULIA: «Ogni mattone di questa casa avrà un'etichetta con il nome di chi lo ha donato. Ogni notte avrà un nome di chi è di turno. Chi verrà a curarsi non dovrà dire chi è, né da dove viene». ||| "이 집의 벽돌마다 기증자의 이름표가 붙을 것입니다. 밤마다 당직자의 이름이 적힐 것입니다. 치료받으러 오는 사람은 누구인지, 어디서 왔는지 말하지 않아도 됩니다."
+CORRADO: «Non dovrà dire chi è». ||| '누구인지 말하지 않아도'.
+GIULIA: Penso sia l'articolo più importante. ||| 가장 중요한 조항 같아요.
+CORRADO: Lo è. ||| 그렇습니다.
+GIULIA: Ora c'è un'ultima cosa. Federica ha chiamato tre volte. ||| 이제 마지막이에요. 페데리카가 세 번 전화했어요.
+CORRADO: Di nuovo. ||| 또요.
+GIULIA: Dice che ha «qualcosa di caldo». ||| '뜨거운 게 있다'고 해요.
+CORRADO: Giulia, quando Federica dice «caldo», di solito è tutt'altro che un favore. ||| 조울리아, 페데리카가 '뜨겁다'고 하면 대개 호의와는 거리가 멀어요.
+GIULIA: Che cosa faccio? ||| 어떻게 할까요?
+CORRADO: Fissale un appuntamento. Stasera. Sul terrazzo di sempre. ||| 약속을 잡아 줘요. 오늘 저녁, 늘 가던 테라스로.
+GIULIA: E tu vai? ||| 가실 거예요?
+CORRADO: Vado. E porto la regola della ricevuta. ||| 갑니다. 영수증 규칙을 들고요.
+GIULIA: Che regola? ||| 어떤 규칙이죠?
+CORRADO: Se non so dove l'hai preso, non lo uso. ||| 어디서 났는지 모르면 쓰지 않는다는 규칙요.
+GIULIA: Bologna approva. ||| 볼로냐가 승인합니다.
++ riserva = 유보
++ fermo restando che = ~라는 점에는 변함이 없다
++ corrispondere (una somma) = (금액을) 지급하다
++ a margine = 여백에
++ commuovere = 감동시키다
++ di turno = 당직인
++ terrazzo = 테라스
