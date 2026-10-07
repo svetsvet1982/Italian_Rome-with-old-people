@@ -1,0 +1,121 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 4
+@title Il traduttore
+@ko 번역가
+@setting 코로나리 거리 사르토렐리 교수의 아파트 → 번역 노트 → 마키아벨리의 일화 → 공증 보관 합의 → 해질녘 거리
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast SARTORELLI | 리비오 사르토렐리, 은퇴한 공증 번역가, 81세
+@cast ROSALBA | 로잘바, 사르토렐리의 가사도우미, 58세
+@note 비밀 폭로의 화입니다. 은퇴한 공증 번역가 사르토렐리는 오로라 각서를 번역하면서 쓴 노트를 집에 보관해 왔습니다. 해법의 순간은 노트 한 줄입니다. 이탈리아어 'si impegna'는 도덕적 약속(impegno)도, 법적 의무(obbligo)도 될 수 있는데, 타르시아어에서는 둘 중 하나를 골라야 했고, 타르시아 측은 '의무'로 읽었으며 이탈리아 측 젊은 서기는 '약속'을 원했습니다. 사르토렐리는 '불일치 해소되지 않음(discordanza non sanata)'이라고 적고도 서명 요구에 눌려 '원문과 일치(conforme)'라고 찍었습니다. 역사 논거는 마키아벨리의 체사레 보르자 사절(1502)입니다. 피렌체의 서기관 마키아벨리는 발렌티노 공작의 곁에서 그의 말이 아니라 의도를 읽어 보고했고, 그해 말 세니갈리아에서 보르자는 화해한 척한 용병대장들을 체포했습니다. 말과 의도의 간극을 읽는 것이 외교라는 논지입니다. 어휘는 impegno와 obbligo의 차이, conforme, giurato, 조건법 과거, 정중한 거절 표현에 주목하세요.
+@next 5화: 억류 해제의 틀을 찾기 위해 브뤼셀에서 EU 해양 담당국과 이탈리아·프랑스·몰타 대표가 마주 앉습니다. 몰타 대표의 농담이 분위기를 바꿉니다.
+
+## 코로나리 거리의 문 — LA PORTA DI VIA DEI CORONARI
+GIULIA: Via dei Coronari, numero quarantadue. Terzo piano, senza ascensore. ||| 코로나리 거리 42번지예요. 3층, 엘리베이터 없고요.
+CORRADO: Terzo piano, e io porto quattro cannoli. La salita è la prima prova di umiltà. ||| 3층인데 나는 칸놀리 네 개를 들고 있지. 계단이 첫 번째 겸손 시험이야.
+GIULIA: Posso reggere io il pacchetto, se vuole. ||| 제가 들어 드릴까요?
+CORRADO: No. I cannoli si portano con le due mani e con rispetto. È la regola di mia madre. ||| 아니, 칸놀리는 두 손으로 공손하게 드는 거야. 어머니 규칙이지.
+GIULIA: Sono arrivati. Suono? ||| 도착했어요. 초인종 누를까요?
+CORRADO: Suona. E sorridi, ma non troppo: i vecchi si insospettiscono davanti ai sorrisi larghi. ||| 눌러. 그리고 웃어, 하지만 너무 크게는 말고. 노인들은 큰 웃음을 의심하거든.
+ROSALBA: Chi è? Il professore non riceve senza appuntamento. ||| 누구세요? 교수님은 약속 없인 안 만나세요.
+CORRADO: Buongiorno, signora. Sono Corrado Lanza, del Ministero degli Esteri. Avevo scritto una lettera. ||| 안녕하세요, 부인. 외무부의 코라도 란차입니다. 편지를 보냈었습니다.
+ROSALBA: Una lettera di carta? Il professore ne ha ricevute tante, ma non risponde. ||| 종이 편지요? 교수님이 많이 받으셨지만 답은 안 하세요.
+CORRADO: Capisco. Vorrei solo lasciargli una cosa: quattro cannoli siciliani, da una pasticceria di Campo de' Fiori. ||| 알겠습니다. 한 가지만 두고 가고 싶어요. 캄포 데 피오리 제과점의 시칠리아식 칸놀리 네 개입니다.
+ROSALBA: Ah, i cannoli... Quel golosone ne mangia di nascosto. Un momento. ||| 아, 칸놀리라… 그 식탐쟁이는 몰래 먹거든요. 잠깐만요.
+GIULIA: Dottore, ha visto? Un solo dolce apre una porta. ||| 박사님, 보셨어요? 디저트 하나로 문이 열려요.
+CORRADO: Non sempre. A volte ne servono due. ||| 항상은 아니야. 두 개 필요할 때도 있어.
+ROSALBA: Venite pure. Ma non fate rumore: il professore sta riposando. ||| 들어오세요. 하지만 소리는 내지 마세요. 교수님이 쉬고 계세요.
+CORRADO: Grazie. Mi tolgo le scarpe? ||| 감사합니다. 신발 벗을까요?
+ROSALBA: Non serve. Però non appoggi il cappotto sulla poltrona di pelle. È la poltrona del professore. ||| 그럴 필요는 없어요. 하지만 외투는 가죽 안락의자에 올려놓지 마세요. 교수님 자리거든요.
+CORRADO: Mi guardo bene dal farlo. ||| 절대 그러지 않겠습니다.
+SARTORELLI: Rosalba, chi è che bisbiglia nel mio corridoio? ||| 로잘바, 누가 내 복도에서 속닥거리나?
+ROSALBA: Due signori della Farnesina, professore. Hanno portato i cannoli. ||| 외무부에서 두 분이 오셨어요, 교수님. 칸놀리를 가져왔어요.
+SARTORELLI: Della Farnesina? Mandali via. Io con la Farnesina ho chiuso da anni. ||| 외무부에서? 돌려보내. 난 외무부와는 몇 해 전에 끝냈어.
+CORRADO: Professore, non voglio disturbarla più del necessario. Mi conceda cinque minuti. ||| 교수님, 필요 이상으로 방해하지 않겠습니다. 5분만 허락해 주십시오.
+SARTORELLI: Cinque minuti? Ne bastano due per rovinare un uomo. ||| 5분이라고? 사람 하나 망치는 덴 2분이면 충분하지.
++ Mi guardo bene dal farlo = 절대 그러지 않는다 (guardarsi bene da: 결코 ~하지 않다)
++ golosone = 식탐쟁이 (goloso + 확대 접미사)
++ Mi conceda… = 허락해 주십시오 (concedere, Lei 명령형)
++ Chi è che bisbiglia…? = 대체 누가 속닥거리는 거야? (chi è che 강조)
++ Non serve = 그럴 필요 없다
++ cannoli siciliani = 시칠리아식 칸놀리 (리코타 크림이 든 튀긴 과자)
+
+## 교수의 두려움 — LA PAURA DEL PROFESSORE
+CORRADO: Professore, non sono venuto a rovinare nessuno. Sono venuto per quaranta ragazzi su una nave. ||| 교수님, 누구를 망치러 온 게 아닙니다. 배에 갇힌 아이들 마흔 명 때문에 왔습니다.
+SARTORELLI: Quale nave? ||| 무슨 배요?
+CORRADO: La «Principessa Giulia», ferma a Marsa Beida. E credo che la ragione abbia a che fare con un testo che lei ha tradotto nel '98. ||| '프린치페사 줄리아'가 마르사 베이다에 묶여 있습니다. 그리고 이유가 1998년에 교수님이 번역하신 문서와 관계가 있다고 생각합니다.
+SARTORELLI: Rosalba! Porta il caffè e tre piattini. ||| 로잘바! 커피랑 접시 세 개 가져와.
+ROSALBA: Subito, professore. Tolgo la faccia da cattivo umore? ||| 바로요, 교수님. 심술궂은 얼굴은 치웠어요?
+SARTORELLI: Falla restare. Mi serve. ||| 그냥 둬. 그게 필요하니까.
+GIULIA: Professore, io sono Giulia Marchetti. Sono un'analista, e leggo i suoi lavori da anni, per mestiere. ||| 교수님, 저는 조울리아 마르케티, 분석관입니다. 직업상 교수님의 번역을 몇 년째 읽어 왔어요.
+SARTORELLI: I miei lavori? Quali? ||| 내 번역을요? 어떤 거요?
+GIULIA: Gli atti sull'Africa mediterranea. Sono precisi come un orologio, con le note a piè di pagina più belle che abbia visto. ||| 지중해 아프리카 관련 문서들이요. 시계처럼 정확하고, 각주가 제가 본 중 제일 아름다웠어요.
+SARTORELLI: Fa piacere sentirlo, signorina. Nessuno legge più le note a piè di pagina. ||| 그렇게 말해 주니 기쁘군, 아가씨. 이제 아무도 각주를 읽지 않아.
+CORRADO: Io le leggo. Specialmente quando sono in fondo alla pagina, dove gli autori dicono la verità. ||| 저는 읽습니다. 특히 페이지 맨 아래에서요, 저자들이 진실을 말하는 곳이니까요.
+SARTORELLI: Giovanotto, lei parla come un vecchio traduttore. Mi sta quasi simpatico. ||| 젊은이, 늙은 번역가처럼 말하는군. 거의 호감이 가는데.
+CORRADO: Ho imparato da un ambasciatore con tre tazzine al giorno. ||| 하루에 세 잔씩 마시는 대사님께 배웠습니다.
+SARTORELLI: Sandri! Quello che parla di Lodi a ogni caffè? ||| 산드리? 커피마다 로디 얘기를 하는 그 사람?
+CORRADO: Proprio lui. ||| 바로 그분입니다.
+SARTORELLI: Lo conosco. Una volta mi ha corretto una virgola e aveva ragione. Non glielo perdonerò mai. ||| 아는 사람이야. 한번은 내 쉼표 하나를 고쳤는데 그가 맞았지. 절대 용서 못 하겠어.
+CORRADO: Gli dirò di salutarla da parte sua. ||| 대사님께 교수님 안부를 전하겠습니다.
+SARTORELLI: Bene. Rosalba, il caffè. Si sieda, dottor Lanza. ||| 좋아. 로잘바, 커피. 앉으시오, 란차 박사.
+ROSALBA: Ecco. Il professore beve il caffè solo se i cannoli sono già sul tavolo. ||| 여기 있습니다. 교수님은 칸놀리가 탁자에 있어야 커피를 드세요.
+SARTORELLI: Rosalba, tu parli troppo. ||| 로잘바, 자넨 말이 너무 많아.
+ROSALBA: E lei mangia troppo. Siamo pari. ||| 교수님은 너무 드시고요. 비긴 거죠.
+CORRADO: Professore, mi dica una cosa: perché ha smesso di andare in archivio dopo il duemiladiciannove? ||| 교수님, 하나만 말씀해 주십시오. 2019년 이후에는 왜 문서고에 가지 않으셨습니까?
+SARTORELLI: Perché ricevetti una visita. Un signore elegante, con la voce bassa e le scarpe lucide. ||| 방문을 받았기 때문이오. 목소리가 낮고 구두가 반짝이는 말쑥한 신사였지.
+GIULIA: Come si chiamava? ||| 이름이 뭐였어요?
+SARTORELLI: Non lo disse. Mi chiese se avessi ancora copie dei miei lavori sull'Aurora. ||| 말하지 않았소. 오로라에 관한 내 작업 사본이 아직 있느냐고 물었지.
+CORRADO: E lei cosa rispose? ||| 그래서 뭐라고 하셨습니까?
+SARTORELLI: Che i traduttori giurati non conservano copie. Mentii. Ne conservavo una, e la conservo. ||| 공증 번역가는 사본을 보관하지 않는다고 했지. 거짓말이었소. 하나 보관했고, 지금도 하고 있소.
+CORRADO: Perché? ||| 왜죠?
+SARTORELLI: Perché in cinquant'anni di mestiere ho imparato che chi cancella una pagina prima o poi chiederà di nuovo la traduzione. ||| 쉰 해 일하며 배운 게 있소. 한 쪽을 지우는 사람은 언젠가 다시 번역을 요구한다는 것.
+GIULIA: Quel signore lo minacciò? ||| 그 신사가 협박했나요?
+SARTORELLI: No. Mi diede il numero del suo telefono, dicendo: «Se si ricorda qualcosa, mi chiami». Non l'ho mai chiamato. ||| 아니. 전화번호를 주면서 '뭐라도 기억나면 연락하라'고 했지. 난 한 번도 안 걸었소.
+CORRADO: Ha ancora quel numero? ||| 그 번호는 아직 있습니까?
+SARTORELLI: L'ho bruciato nel posacenere. Ma le cifre le so a memoria. ||| 재떨이에 태웠소. 하지만 숫자는 외우고 있지.
++ aver a che fare con = ~와 관계가 있다
++ Mi sta quasi simpatico = 거의 호감이 간다 (stare simpatico)
++ Non glielo perdonerò mai = 그에게 그것을 절대 용서하지 않을 것이다 (glielo)
++ Gli dirò di salutarla = 안부를 전하겠다 (dire di + 부정사)
++ Mi chiese se avessi ancora… = 아직 ~가 있느냐고 물었다 (간접의문 + 접속법 반과거)
++ giurato = 선서한, 공증을 받은 (traduttore giurato)
+
+## 번역 노트 — IL QUADERNO
+CORRADO: Professore, ha detto che conserva una copia. Posso vederla? ||| 교수님, 사본을 보관하신다고 하셨죠. 볼 수 있을까요?
+SARTORELLI: Non la copia. Il quaderno. Rosalba, nel secondo cassetto, quello col lucchetto. ||| 사본이 아니오. 노트요. 로잘바, 두 번째 서랍, 자물쇠 달린 거.
+ROSALBA: Ecco. Ci sono anche le lenti da lettura. ||| 여기요. 돋보기도 같이 있어요.
+SARTORELLI: Questo è il mio quaderno di lavoro del 1998. Tre mesi di scrittura a matita. Nessuno lo ha mai letto. ||| 이게 1998년 작업 노트요. 석 달 동안 연필로 쓴 거지. 아무도 읽어 본 적이 없소.
+GIULIA: Posso toccarlo? ||| 만져 봐도 될까요?
+SARTORELLI: Con le dita, non con le unghie. ||| 손가락으로, 손톱 말고.
+GIULIA: Ci sono due colonne: a sinistra l'italiano, a destra il tarsiano. ||| 열이 두 개네요. 왼쪽은 이탈리아어, 오른쪽은 타르시아어고요.
+SARTORELLI: Giusto. E le note stanno al centro, nel margine più largo. Legga la frase sottolineata. ||| 맞소. 그리고 메모는 가운데 넓은 여백에 있지. 밑줄 친 문장을 읽어 보시오.
+GIULIA: «Il Governo italiano si impegna a riconoscere alla Repubblica di Tarsia la priorità...» ||| '이탈리아 정부는 타르시아 공화국에 우선권을 인정할 것을 약속한다…'
+SARTORELLI: Si fermi. Su quel «si impegna» ho perso quattro giorni. ||| 거기서 멈추시오. 그 '약속한다'에서 나는 나흘을 날렸소.
+CORRADO: Perché? Mi sembra chiaro. ||| 왜요? 명확해 보이는데요.
+SARTORELLI: Chiaro? In italiano «impegnarsi» può essere una promessa tra galantuomini, oppure un obbligo vincolante. Dipende da chi lo dice. ||| 명확하다고? 이탈리아어 'impegnarsi'는 신사들 사이의 약속일 수도 있고 구속력 있는 의무일 수도 있소. 누가 말하느냐에 달렸지.
+GIULIA: Impegno e obbligo. Due parole diverse. ||| 임페뇨와 오블리고. 서로 다른 단어죠.
+SARTORELLI: In tarsiano non esiste una parola in mezzo. Devo scegliere: o «promessa d'onore», o «obbligo di legge». ||| 타르시아어에는 그 중간 단어가 없소. 골라야 해요. '명예의 약속'이냐 '법적 의무'냐.
+CORRADO: E lei cosa scelse? ||| 그래서 뭘 고르셨습니까?
+SARTORELLI: I tarsiani presenti volevano «obbligo di legge». Il giovane segretario italiano voleva «promessa d'onore». Il tavolo era un campo di battaglia. ||| 그 자리의 타르시아인들은 '법적 의무'를 원했소. 이탈리아 쪽 젊은 서기는 '명예의 약속'을 원했고. 탁자가 전쟁터였지.
+GIULIA: Chi era il giovane segretario? ||| 그 젊은 서기가 누구였죠?
+SARTORELLI: Non ricordo il nome. Ricordo gli occhiali, che sistemava col dito medio ogni volta che era nervoso. ||| 이름은 기억 안 나오. 안경을 기억하지. 초조할 때마다 가운뎃손가락으로 안경을 고쳐 올렸소.
+CORRADO: Gli occhiali... Un ragazzo che sudava molto? ||| 안경이요… 땀을 많이 흘리는 청년이었습니까?
+SARTORELLI: Sudava come in una sauna. Come lo sa? ||| 사우나에 있는 것처럼 땀을 흘렸지. 어떻게 아시오?
+CORRADO: Me lo ha detto un commesso che quella notte portava le casse. ||| 그날 밤 상자를 나르던 사환이 말해 줬습니다.
+SARTORELLI: Allora il mondo è piccolo, e la memoria dei commessi è migliore di quella dei ministri. ||| 그럼 세상이 좁고, 사환들의 기억이 장관들 것보다 낫군.
+GIULIA: Professore, nel margine c'è una frase che non riesco a leggere. ||| 교수님, 여백에 읽을 수 없는 문장이 있어요.
+SARTORELLI: Passi. «Discordanza non sanata. Le parti non hanno concordato il valore giuridico di “si impegna”». Data: ventitré ottobre millenovecentonovantotto. ||| 이리 주시오. '불일치 해소되지 않음. 당사자들이 「약속한다」의 법적 가치에 합의하지 않았음.' 날짜는 1998년 10월 23일.
+CORRADO: E nonostante questo, lei firmò una traduzione «conforme»? ||| 그런데도 교수님은 '원문과 일치'라고 서명하셨습니까?
+SARTORELLI: Sì. Alle sei del mattino, con tre uomini in piedi dietro di me, e un caffè che si raffreddava. ||| 그렇소. 새벽 여섯 시에, 내 뒤에 남자 셋이 서 있고 커피는 식어 가는 채로.
+CORRADO: Se avesse potuto, cosa avrebbe scritto? ||| 하실 수 있었다면 뭐라고 쓰셨겠습니까?
+SARTORELLI: «Non conforme: ambiguo». Una parola sola, ma più onesta di tutte le altre. ||| '불일치: 모호함.' 한 단어지만 다른 어떤 말보다 정직했을 거요.
++ impegno / obbligo = 약속(도덕적 책임) / 의무(법적 구속). 이 화의 핵심 어휘
++ promessa tra galantuomini = 신사 간의 약속 (법적 효력 없는 신의의 약속)
++ discordanza non sanata = 해소되지 않은 불일치 (번역 노트의 표기)
++ conforme = 원문과 일치하는 (공증 번역의 인증 표현)
++ Se avesse potuto, avrebbe scritto = 할 수 있었다면 썼을 것이다 (접속법 대과거 + 조건법 과거)
++ Passi = 이리 주시오 (passare, Lei 명령형)

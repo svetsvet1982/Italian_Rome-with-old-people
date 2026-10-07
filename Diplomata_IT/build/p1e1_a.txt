@@ -1,0 +1,139 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 1
+@title Il traghetto fermo
+@ko 멈춰 선 여객선
+@setting 파르네지나 위기대응국 → 에스프레소 한 잔의 조언(산드리) → 여객선과의 화상 연결 → 외무사무총장실 → 란차의 집 식탁
+@level B2-C1
+@cast CORRADO | 코라도 란차, 외무부 위기대응국 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast SANDRI | 비토리오 산드리, 은퇴 대사, 70세
+@cast BELLANDI | 에토레 벨란디 몬시뇰, 바티칸 외교관, 66세
+@cast FEDERICA | 페데리카 루스폴리, 대외정보기관 연락관, 44세
+@cast VITALE | 체사레 비탈레, 외무사무총장, 51세
+@cast BRANCATI | 알도 브란카티, 여객선 선장, 58세
+@cast HAMDAN | 나디르 함단, 마르사 베이다 항만청장(타르시아), 55세
+@cast LEO | 레오 란차, 코라도의 아들, 15세
+@note 1부의 첫 화입니다. 이탈리아 여객선 «프린치페사 줄리아»가 가상국 타르시아의 항구 마르사 베이다에서 항만 사용료 미납(41만 2천 유로)을 이유로 억류됩니다. 승객 214명 중 40명이 이탈리아 고등학생입니다. 모두가 '돈을 낼까 말까'를 묻는 동안, 선장의 한마디 '우린 요금이 아니라 인사를 못 받았어요'가 질문을 바꿉니다. 문제는 금액이 아니라 존중(rispetto)입니다. 역사 논거는 로디 평화(1454)입니다. 밀라노·베네치아·피렌체·나폴리 등 이탈리아 세력들이 서로의 영역과 체면을 인정하는 합의를 맺었고, 이어서 '이탈리아 동맹'(1455)으로 균형이 굳어졌습니다. 어휘는 sequestrare(억류하다)와 fermare의 차이, 접속법(Temo che…, Sembra che…), Lei와 tu 구분, 몸짓 표현(allargare le braccia, mani in alto)에 주목하세요.
+@next 2화: 란차는 타르시아로 날아가는 대신 로마 테스타초의 보치아 클럽에서 저녁을 차립니다. 노인 에르콜레가 '98년 오로라 때 내가 상자를 날랐지'라고 말합니다.
+
+## 아침, 위기대응국 — MATTINA ALLA FARNESINA
+GIULIA: Dottor Lanza, finalmente! Ha visto i messaggi? Gliene ho mandati undici. ||| 란차 박사님, 드디어 오셨네요! 메시지 보셨어요? 열한 개나 보냈는데요.
+CORRADO: Undici? Allora è grave. Di solito ne mandi tre e un punto esclamativo. ||| 열한 개? 그럼 심각한 거네. 보통은 세 개에 느낌표 하나잖아.
+GIULIA: Questa volta niente punti esclamativi, e dovrebbe preoccuparla. ||| 이번엔 느낌표가 없어요. 그게 더 걱정되셔야 해요.
+CORRADO: Mi preoccupo dopo il caffè. Intanto prendine una, sono sfogliatelle. Le ha fatte mia madre ieri sera. ||| 걱정은 커피 마시고 할게. 일단 하나 먹어, 스폴리아텔레야. 어제 저녁에 어머니가 만드셨어.
+GIULIA: Grazie, ma non ho fame. Il traghetto «Principessa Giulia» è fermo nel porto di Marsa Beida da ieri notte. ||| 고맙지만 배 안 고파요. 여객선 «프린치페사 줄리아»가 어젯밤부터 마르사 베이다 항구에 묶여 있어요.
+CORRADO: Fermo come? Un guasto? Una tempesta? ||| 묶여 있다니? 고장이야, 폭풍이야?
+GIULIA: Sequestrato. Le autorità tarsiane lo hanno bloccato per diritti portuali non pagati. ||| 억류됐어요. 타르시아 당국이 항만 사용료 미납을 이유로 막았어요.
+CORRADO: Quanto devono? ||| 얼마가 밀렸는데?
+GIULIA: Quattrocentododicimila euro, arretrati di tre anni. ||| 41만 2천 유로요, 3년 치 연체금이에요.
+CORRADO: Per quattrocentomila euro tengono ferma una nave? Qualcuno si è offeso, e non per i soldi. ||| 40만 유로 때문에 배를 세운다고? 누가 기분이 상한 거야, 돈 때문이 아니라.
+GIULIA: Questo lo dice lei. Io ho solo le cifre. ||| 그건 박사님 생각이고요. 저한테는 숫자밖에 없어요.
+CORRADO: E le cifre cosa dicono? ||| 그래서 숫자는 뭐라는데?
+GIULIA: Duecentoquattordici passeggeri, centosettanta membri di equipaggio e personale, e quaranta studenti di un liceo di Terni in gita. ||| 승객이 214명인데, 그중 테르니의 한 고등학교 학생 40명이 수학여행 중이에요. 승무원은 별도로 170명이고요.
+CORRADO: Quaranta ragazzini. Mannaggia! E i genitori? ||| 애들이 마흔 명이라니. 아이고! 부모들은?
+GIULIA: Hanno già intasato il centralino. Due madri hanno minacciato di chiamare la televisione. ||| 벌써 교환대가 마비됐어요. 어머니 두 분이 방송국에 연락하겠다고 하셨고요.
+CORRADO: Capisco. E la compagnia armatrice? ||| 알겠어. 선사는?
+GIULIA: «Navigazione Levante» sostiene di aver pagato tutto. Temo che ci sia un errore nei documenti, ma non posso ancora dimostrarlo. ||| «나비가치오네 레반테»는 다 냈다고 해요. 서류에 착오가 있는 것 같은데, 아직 증명은 못 해요.
+CORRADO: Giulia, rispondimi con sincerità. Tu ci credi? ||| 조울리아, 솔직히 말해 봐. 넌 그 말 믿어?
+GIULIA: Credo ai bonifici. E i bonifici ci sono, almeno fino a tre anni fa. ||| 저는 이체 내역을 믿어요. 3년 전까지는 이체 내역이 있어요.
+CORRADO: Allora c'è qualcosa che non quadra, e io odio le cose che non quadrano. ||| 그럼 뭔가 안 맞는다는 거네. 난 안 맞는 건 질색이야.
+GIULIA: Dottore, il Segretario generale la vuole alle undici. ||| 박사님, 사무총장님이 열한 시에 보자십니다.
+CORRADO: Vitale in persona? Prima ancora che io abbia bevuto il caffè? ||| 비탈레가 직접? 내가 커피도 마시기 전에?
+GIULIA: Ha detto «subito». Con la erre moscia che usa quando è nervoso. ||| '당장'이라고 하셨어요. 신경질 날 때 나오는 그 혀 굴리는 발음으로요.
+CORRADO: Quindi è nervoso. Bene, vuol dire che il problema è più grosso di quanto sembri. ||| 그럼 신경이 곤두선 거네. 좋아, 문제가 보이는 것보다 크다는 뜻이지.
+GIULIA: Lei sorride sempre quando le cose peggiorano? ||| 박사님은 일이 나빠질 때마다 항상 웃으세요?
+CORRADO: Mio padre diceva: se non puoi cambiare il vento, almeno apri la pasticceria. ||| 아버지가 그러셨어. 바람을 못 바꾸면 최소한 제과점 문은 열라고.
+GIULIA: E questo cosa c'entra con una nave sequestrata? ||| 그게 억류된 배랑 무슨 상관이에요?
+CORRADO: Niente. Ma col ripieno di ricotta tutto sembra più semplice. Chiamami il professor Sandri, per favore. ||| 아무 상관 없지. 그래도 리코타 속을 먹으면 뭐든 쉬워 보여. 산드리 교수님께 전화 좀 걸어 줘.
++ sequestrare = 억류하다, 압류하다 (fermare보다 법적 무게가 크다)
++ Temo che ci sia… = ~인 것 같아 걱정이다 (감정 동사 뒤 접속법)
++ Gliene ho mandati undici = (그에게) 그것을 열한 개 보냈다 (대명사 결합 gli+ne → gliene)
++ Mannaggia! = 이런! 아이고! (남부 이탈리아의 감탄사)
++ qualcosa che non quadra = 앞뒤가 맞지 않는 구석이 있다
++ intasare il centralino = 교환대를 마비시키다
++ diritti portuali = 항만 사용료 (arretrati = 연체금)
+
+## 산드리의 에스프레소 — IL CAFFÈ DI SANDRI
+SANDRI: Corrado, ragazzo mio! Siediti. Il caffè è già sul banco, e a me lo hanno fatto amaro. ||| 코라도, 이 사람아! 앉게. 커피는 벌써 바에 나와 있고, 내 건 쓰게 내렸다네.
+CORRADO: Eccellenza, la disturbo di sabato mattina... ||| 대사님, 토요일 아침에 방해해서 죄송합니다만…
+SANDRI: Dammi del tu, Corrado. Ti conosco da quando avevi i pantaloni corti e la faccia sporca di crema. ||| 말 놓게, 코라도. 반바지 입고 얼굴에 크림 묻히고 다니던 때부터 아는 사이 아닌가.
+CORRADO: Non ci riesco, Eccellenza. Con Lei mi viene naturale il Lei. ||| 그게 안 됩니다, 대사님. 대사님께는 저절로 존댓말이 나옵니다.
+SANDRI: Sarà l'età mia. Allora, dimmi: una nave italiana ferma a Marsa Beida? ||| 내 나이 탓이겠지. 그래, 말해 보게. 이탈리아 배가 마르사 베이다에 묶였다고?
+CORRADO: Lo sa già? ||| 벌써 아세요?
+SANDRI: Ho settant'anni, non sono sordo. Me l'ha detto il barista, che l'ha sentito alla radio. ||| 나이는 일흔이지만 귀먹진 않았어. 바리스타가 라디오에서 들었다더군.
+CORRADO: Pagamenti arretrati. Quattrocentomila euro. Ma sento che sotto c'è dell'altro. ||| 항만 사용료 연체입니다. 40만 유로요. 그런데 밑에 뭔가 더 있는 것 같습니다.
+SANDRI: Vuoi sapere cosa penso? Che tu stia cercando il documento sbagliato. ||| 내 생각을 알고 싶나? 자네가 엉뚱한 문서를 찾고 있는 것 같네.
+CORRADO: In che senso? ||| 무슨 말씀이십니까?
+SANDRI: Quando due Stati litigano per una cifra, di solito litigano per un'altra cosa. E la cifra è il biglietto d'ingresso. ||| 두 나라가 금액으로 다투면 보통은 다른 걸로 다투는 걸세. 금액은 입장권일 뿐이지.
+CORRADO: Un biglietto d'ingresso per cosa? ||| 무슨 입장권입니까?
+SANDRI: Per essere ascoltati. Ti racconto una storia da espresso. Una tazzina, non di più. ||| 말을 들어 달라는 입장권이지. 에스프레소 한 잔 분량으로 이야기 하나 해 주지.
+CORRADO: La ascolto. ||| 듣겠습니다.
+SANDRI: Nel 1454, dopo anni di guerre, Milano e Venezia firmarono la pace a Lodi. Non fu un trionfo di nessuno. ||| 1454년, 몇 해 동안 전쟁을 치르고 밀라노와 베네치아가 로디에서 평화조약을 맺었네. 누구의 승리도 아니었지.
+CORRADO: La pace di Lodi. La studiai all'università. ||| 로디 평화요. 대학 때 배웠습니다.
+SANDRI: E cosa ti ricordi? ||| 그래, 뭘 기억하나?
+CORRADO: Le frontiere, i territori, i principi... ||| 국경, 영토, 군주들이요…
+SANDRI: Appunto, ricordi le cose scritte con l'inchiostro grosso. Quello che conta stava tra le righe: ognuno doveva uscirne a testa alta. ||| 그거야, 굵은 글씨로 쓴 것만 기억하는 거지. 중요한 건 행간에 있었네. 모두가 고개를 들고 나갈 수 있어야 했다는 것.
+CORRADO: Il rispetto, insomma. ||| 결국 존중이군요.
+SANDRI: Il rispetto, messo nero su bianco. E l'anno dopo nacque la Lega italica, che reggeva proprio su quel patto. ||| 존중을 흑백으로 문서에 박아 넣은 거지. 이듬해에는 그 약속 위에 '이탈리아 동맹'이 섰고.
+CORRADO: Quindi lei pensa che i tarsiani vogliano un gesto, non un bonifico. ||| 그럼 타르시아인들이 원하는 건 이체가 아니라 어떤 몸짓이라고 보시는 거죠?
+SANDRI: Non lo penso: lo spero. Altrimenti sarebbe solo un problema di contabilità, e quelli non finiscono mai bene. ||| 단언은 못 하고 바라는 걸세. 아니면 그냥 회계 문제인데, 그런 건 끝이 좋은 법이 없거든.
+CORRADO: E se invece fosse un ricatto? ||| 만약 협박이라면요?
+SANDRI: Anche il ricatto chiede rispetto, a modo suo. Sbaglia solo la forma. ||| 협박도 나름대로 존중을 요구하는 거야. 방식이 틀렸을 뿐이지.
+CORRADO: Eccellenza, sa che le sue tazzine mi costano care? Dopo ogni caffè ho un compito in più. ||| 대사님 에스프레소는 제게 비싸게 먹힙니다. 한 잔 마실 때마다 숙제가 하나씩 늘어요.
+SANDRI: Meglio un compito in più che un'illusione in meno. Va', e ricordati di guardare in faccia chi ti parla. ||| 환상이 하나 줄어드는 것보다 숙제가 하나 느는 게 낫지. 가 보게. 말하는 사람 얼굴을 똑바로 보는 걸 잊지 말고.
+CORRADO: Lo faccio sempre. Con le mani, però. ||| 늘 그러긴 합니다. 손도 같이 쓰면서요.
+SANDRI: Lo so. Il tuo paese ti traduce meglio dei dizionari. ||| 알지. 자네 고향은 사전보다 자네를 더 잘 번역해 준다니까.
++ dare del tu / dare del Lei = 말을 놓다 / 존댓말을 쓰다 (Lei/tu 전환의 기본 표현)
++ a testa alta = 고개를 들고, 떳떳하게
++ nero su bianco = 문서로 분명하게 (흑백으로)
++ tra le righe = 행간에
++ Lega italica = 이탈리아 동맹(1455), 로디 평화 이후의 균형 체제
++ Va' = 가 보게 (andare의 tu 명령형 축약)
+
+## 여객선과의 화상 연결 — COLLEGAMENTO CON LA NAVE
+GIULIA: Siamo in linea con il comandante della nave. Il segnale è debole, ma si sente. ||| 선장님과 연결됐어요. 신호가 약하지만 소리는 들려요.
+CORRADO: Comandante Brancati, mi sente? Sono Corrado Lanza, della Farnesina. ||| 브란카티 선장님, 들리십니까? 외무부의 코라도 란차입니다.
+BRANCATI: Dottor Lanza, la sento. Ci sono trentotto gradi sotto coperta e i ragazzi cantano per non piangere. ||| 란차 박사님, 들립니다. 갑판 아래는 38도인데, 아이들이 울지 않으려고 노래를 부르고 있어요.
+CORRADO: Come stanno i passeggeri? Cibo, acqua, medicine? ||| 승객들은 어떻습니까? 식량, 물, 약은요?
+BRANCATI: Per quattro giorni siamo a posto. Poi finiamo le scorte di pane fresco, e lì la gente comincia a innervosirsi. ||| 나흘은 버팁니다. 그다음엔 신선한 빵이 떨어지는데, 그때부터 사람들이 예민해지죠.
+CORRADO: Capisco bene. Il pane è la prima diplomazia. ||| 잘 압니다. 빵이 첫 번째 외교지요.
+BRANCATI: Lo dice come se fosse la prima volta che lo sente dire. ||| 처음 들어 보는 말처럼 하시네요.
+CORRADO: Io lo dico perché lo so per esperienza. Comandante, mi racconti com'è andata ieri notte. ||| 경험으로 아니까 하는 말입니다. 선장님, 어젯밤에 어떻게 된 건지 말씀해 주세요.
+BRANCATI: Siamo arrivati alle ventidue. Il pilota ci ha fatto entrare in banchina senza problemi. ||| 22시에 도착했습니다. 도선사가 문제없이 부두로 들여 줬어요.
+BRANCATI: Poi sono saliti sei uomini in divisa con un foglio in mano. Il capo era il direttore del porto. ||| 그다음 제복 입은 여섯 명이 서류를 들고 올라왔고, 대장은 항만청장이었습니다.
+CORRADO: Si chiama Nadir Hamdan, giusto? ||| 나디르 함단이죠?
+BRANCATI: Sì. Un uomo composto, con la cravatta stirata e le mani dietro la schiena. ||| 맞습니다. 침착한 사람이에요. 넥타이를 다려 매고 손은 등 뒤에 모으고 있었죠.
+CORRADO: Cosa le ha detto, esattamente? ||| 정확히 뭐라고 하던가요?
+BRANCATI: Che la nave non poteva ripartire. Ho aperto le braccia, così, e ho detto: ma i pagamenti li abbiamo fatti. ||| 배가 떠날 수 없다고요. 제가 이렇게 팔을 벌리고 말했죠. 요금은 다 냈다고.
+CORRADO: E lui? ||| 그랬더니 그는요?
+BRANCATI: Mi ha guardato in faccia e ha detto una cosa che non capisco ancora. ||| 제 얼굴을 보더니 아직도 이해 못 할 말을 했습니다.
+CORRADO: Cioè? ||| 뭐라고요?
+BRANCATI: «Non è questione di tariffe, comandante. È questione di chi si ricorda di noi.» ||| '요금 문제가 아닙니다, 선장님. 우리를 누가 기억하느냐의 문제입니다.'
+GIULIA: Nel fascicolo non c'è niente su questo. ||| 서류에는 그런 내용이 하나도 없어요.
+CORRADO: Giulia, scrivi: «Hamdan, frase sulla memoria». Comandante, c'è dell'altro? ||| 조울리아, 적어 둬. '함단, 기억에 관한 발언'. 선장님, 더 있습니까?
+BRANCATI: Sì. Mentre scendeva la scaletta, mi ha detto sottovoce: da vent'anni aspettiamo una visita, non una nave. ||| 있습니다. 트랩을 내려가면서 낮은 소리로 그러더군요. 20년째 우리는 배가 아니라 방문을 기다린다고.
+CORRADO: Una visita. Di chi? ||| 방문이요? 누구의요?
+BRANCATI: Non l'ha detto. Ma io, dottore, faccio il capitano da trent'anni. I porti li conosco. ||| 말 안 했습니다. 하지만 박사님, 저는 선장 생활 30년입니다. 항구는 압니다.
+BRANCATI: Quando una nave viene fermata per soldi, gli ufficiali parlano di soldi. Questi parlavano d'altro. ||| 돈 때문에 배를 세우면 관리들은 돈 얘기를 합니다. 이 사람들은 다른 얘기를 했어요.
+CORRADO: E cosa vogliono, secondo lei? ||| 선장님 보기엔 뭘 원하는 겁니까?
+BRANCATI: Non ci hanno mancato di pagare, dottore. Ci è mancato un saluto. Non hanno ricevuto un buongiorno. ||| 우린 요금을 안 낸 게 아닙니다, 박사님. 인사를 못 한 거예요. 그들은 인사를 못 받았어요.
+CORRADO: Un buongiorno... ||| 인사요…
+BRANCATI: Qui, quando entra una nave grossa, l'armatore manda un messaggio al direttore, di persona. Noi non lo abbiamo fatto da anni. ||| 여기선 큰 배가 들어오면 선주가 항만청장에게 직접 인사를 보내는 게 관례입니다. 우린 몇 년째 안 했어요.
+GIULIA: Questo spiega l'ostilità del personale a bordo. ||| 그래서 현지 직원들이 적대적이었군요.
+CORRADO: Spiega molto più di questo. Comandante, la prego di fare una cosa. ||| 그것보다 훨씬 많은 걸 설명해 줍니다. 선장님, 한 가지 부탁드립니다.
+BRANCATI: Dica. ||| 말씀하세요.
+CORRADO: Scriva al direttore Hamdan un biglietto a mano. Due righe: porti il suo saluto a nome dei passeggeri e della compagnia. ||| 함단 청장에게 손으로 쪽지를 써 주세요. 두 줄이면 됩니다. 승객과 선사를 대신해서 인사를 전한다고요.
+BRANCATI: E se lo considera un'umiliazione? ||| 그걸 굴욕으로 여기면요?
+CORRADO: Allora scriva: «Mi permetta di presentarmi come si deve». Una frase, non una resa. ||| 그럼 이렇게 쓰세요. '제대로 인사드리게 해 주십시오.' 항복이 아니라 한 문장입니다.
+BRANCATI: Lo faccio. Ma, dottore, i ragazzi hanno chiesto se la Farnesina li porterà a casa. ||| 하겠습니다. 그런데 박사님, 아이들이 외무부가 자기들을 집에 데려다줄 거냐고 물어봅니다.
+CORRADO: Digli... no, mi corregga: dica loro che qualcuno sta già lavorando perché si mangi una pizza a Terni, domenica prossima. ||| 아이들에게 전해… 아니, 정정하겠습니다. 다음 주 일요일에 테르니에서 피자를 먹을 수 있게 지금 누군가 일하고 있다고 전해 주세요.
+BRANCATI: Glielo dirò. Grazie, dottor Lanza. ||| 전하겠습니다. 감사합니다, 란차 박사님.
++ sotto coperta = 갑판 아래(선내)에서
++ Lo dice come se fosse la prima volta che lo sente = 처음 듣는 것처럼 말씀하시네요 (come se + 접속법 반과거)
++ mi sente? / mi corregga = Lei 명령형 (접속법 형태를 빌려 쓴다)
++ non è questione di… = ~의 문제가 아니다
++ Ci è mancato un saluto = 우리에게 인사가 빠졌다 (mancare + 간접목적어)
++ aprire le braccia = 팔을 벌리다 (어쩔 수 없다는 몸짓)
++ Glielo dirò = 그에게/그들에게 그것을 말하겠다 (gli+lo → glielo)

@@ -1,0 +1,124 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 6
+@title Il Segretario
+@ko 사무총장
+@setting 금요일 새벽 산드리와의 에스프레소 → 파르네지나 사무총장실 → 단둘의 대면 → 복도
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast VITALE | 체사레 비탈레, 외무사무총장, 51세
+@cast SANDRI | 비토리오 산드리, 은퇴 대사, 70세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@note 내부 대결의 화입니다. 새벽에 산드리는 에스프레소 한 잔 분량으로 '플롬비에르의 비밀'을 들려줍니다. 해법의 순간은 이 일화입니다. 비밀 합의는 '이자가 붙는 빚'이라는 것, 그리고 비밀을 지키는 사람이 가장 먼저 치르는 대가가 있다는 것입니다. 역사 논거는 카부르와 플롬비에르 협정(1858)입니다. 1858년 7월 플롬비에르(보주 산맥의 온천 마을)에서 사르데냐의 카부르가 프랑스 황제 나폴레옹 3세와 비밀리에 만나, 오스트리아에 맞서는 전쟁에서 프랑스의 도움을 받는 대가로 사보이아와 니스를 넘기는 구상을 논의했습니다. 이 약속은 1860년 토리노 조약으로 실현되었고, 니스 출신 영웅 가리발디가 오랫동안 분노한 정치적 비용으로 남았습니다. 사무총장 비탈레는 1998년 밤 회의록을 쓰던 신참 서기였고, 번역을 '약속' 쪽으로 눌렀으며, 2019년에는 서류철 14/C를 자기 금고에 넣었다고 인정합니다. 어휘는 Lei에서 tu로의 전환(란차의 분노 속에 사투리가 튀어나오고 끝에 가서 tu로 넘어감), 접속법(Che io sappia…), 나폴리말 한 줄에 주목하세요.
+@next 7화: 페데리카가 타르시아 장관의 해외 부동산 정보를 건네며 새로운 대가를 요구합니다. 란차는 아들 레오의 질문 앞에서 선을 긋습니다.
+
+## 새벽의 에스프레소 — IL CAFFÈ DELL'ALBA
+SANDRI: Corrado, sei pallido. Hai dormito? ||| 코라도, 안색이 창백하군. 잤나?
+CORRADO: Tre ore, Eccellenza. Sull'aereo di ritorno da Bruxelles. ||| 세 시간요, 대사님. 브뤼셀에서 돌아오는 비행기에서요.
+SANDRI: Siediti. Il bar apre alle sei, ma il barista mi lascia entrare alle cinque e mezzo per rispetto degli anni. ||| 앉게. 바는 여섯 시에 열지만 바리스타가 내 나이를 존중해서 다섯 시 반에 들여보내 주지.
+CORRADO: Gli lascerò una teglia di sfogliatelle. ||| 스폴리아텔레 한 판을 두고 가겠습니다.
+SANDRI: Non basta. Gli ci vuole una promozione. ||| 그걸론 부족해. 승진이 필요하지.
+CORRADO: Eccellenza, tra due ore incontro Vitale, a quattr'occhi. Voglio costringerlo a dire perché ha taciuto. ||| 대사님, 두 시간 뒤에 비탈레를 단둘이 만납니다. 왜 침묵했는지 말하게 하고 싶습니다.
+SANDRI: Lo so. Lo hai già deciso, e quindi io non ti dirò di fermarti. Ti dirò un'altra cosa. ||| 알고 있네. 이미 정했으니 멈추라고는 안 하지. 다른 걸 말해 주겠네.
+CORRADO: La ascolto. ||| 듣겠습니다.
+SANDRI: Nel luglio del 1858 un conte piemontese, Cavour, partì per una cura termale. Almeno così disse. ||| 1858년 7월에 피에몬테의 카부르 백작이 온천 요양을 떠났네. 적어도 그렇게 말했지.
+CORRADO: Plombières. ||| 플롬비에르군요.
+SANDRI: Esatto. Una cittadina dei Vosgi. In realtà andava a incontrare, senza testimoni, l'imperatore dei francesi. ||| 맞아. 보주 산맥의 작은 마을이지. 실은 증인 없이 프랑스 황제를 만나러 간 거였어.
+CORRADO: Per preparare la guerra contro l'Austria. ||| 오스트리아와의 전쟁을 준비하려고요.
+SANDRI: E per prospettare in cambio la Savoia e, più tardi, anche Nizza. Un accordo verbale e segreto, maturato in carrozza e a tavola. ||| 그리고 그 대가로 사보이아를, 나중에는 니스까지 내줄 구상을 내비쳤지. 마차 위와 식탁에서 무르익은 구두 비밀 합의였네.
+CORRADO: A tavola. Come piace a me. ||| 식탁에서요. 제 취향이네요.
+SANDRI: Non ridere. Quel pranzo costò caro. Nel 1860, quando Nizza passò alla Francia, un nizzardo celebre fra tutti, Garibaldi, si sentì tradito. ||| 웃지 말게. 그 점심은 비싸게 먹혔어. 1860년에 니스가 프랑스로 넘어갔을 때, 니스 출신의 유명한 인물 가리발디는 배신당했다고 느꼈지.
+CORRADO: Mi pare che non l'abbia mai perdonato. ||| 끝내 용서하지 않았던 걸로 압니다.
+SANDRI: Non perdonò. E in Parlamento il dibattito fu aspro, perché il patto era maturato lontano da ogni sguardo. ||| 용서하지 않았지. 의회 토론도 격렬했어. 합의가 남의 눈 밖에서 무르익은 것이었으니까.
+CORRADO: Quindi il segreto riuscì, e al tempo stesso costò. ||| 그러니까 비밀은 성공했는데 동시에 대가를 치렀군요.
+SANDRI: Un segreto è un prestito a interesse, Corrado. Chi lo prende lo paga, magari più tardi, magari con la voce di un altro. ||| 비밀은 이자가 붙는 대출이야, 코라도. 받은 사람이 갚지. 더 나중에, 어쩌면 다른 사람의 목소리로.
+CORRADO: E Vitale, secondo lei, ha preso un prestito? ||| 그럼 대사님 보시기엔 비탈레가 대출을 받은 겁니까?
+SANDRI: Credo che l'abbia preso a ventitré anni, e che da allora paghi gli interessi con il suo silenzio. ||| 스물셋에 받았고 그 이후로 침묵으로 이자를 갚아 왔다고 생각하네.
+CORRADO: Stamattina vuole che gli faccia da banca? ||| 오늘 아침 제가 그 은행이 되길 원하십니까?
+SANDRI: No. Stamattina voglio che tu non sia un creditore. Una banca, almeno, sa quando perdonare. ||| 아니. 오늘 아침엔 자네가 채권자가 되지 않길 바라네. 은행은 적어도 언제 탕감해야 하는지는 알거든.
+CORRADO: Eccellenza, non sono sicuro di saperlo. ||| 대사님, 제가 그걸 알고 있는지 자신이 없습니다.
+SANDRI: Lo capirai quando lo guarderai in faccia. Guardalo con gli occhi, non con il dossier. ||| 얼굴을 보면 알게 될 걸세. 서류가 아니라 눈으로 보게.
+CORRADO: Ci proverò. ||| 해 보겠습니다.
+SANDRI: E un'ultima cosa: se ti scappa il dialetto, non vergognartene. A volte il dialetto è l'unica lingua che dice la verità. ||| 그리고 마지막으로, 사투리가 튀어나오더라도 부끄러워 말게. 때로는 사투리가 진실을 말하는 유일한 언어라네.
+CORRADO: Mi conosce troppo bene. ||| 저를 너무 잘 아십니다.
+SANDRI: Ti ho visto crescere. Vai, che il caffè è finito. ||| 자네가 크는 걸 봤으니까. 가 보게, 커피가 끝났어.
++ per rispetto degli anni = 나이를 존중해서 (직역: 연륜에 대한 존중으로)
++ Gli ci vuole una promozione = 그에게는 승진이 필요하다 (volerci: ~가 필요하다, 대명사 gli ci)
++ Mi pare che non l'abbia mai perdonato = 용서한 적이 없는 것 같다 (접속법 과거)
++ un prestito a interesse = 이자가 붙는 대출 (비밀의 비유)
++ ti scappa il dialetto = 사투리가 불쑥 나오다 (scappare: 튀어나오다)
++ Che io sappia = 내가 아는 한 (접속법, 제한의 표현; 이 화 후반에 등장)
+
+## 사무총장실 — L'UFFICIO
+GIULIA: Dottore, il Segretario l'aspetta. Ha chiesto che nessuno entri, e il telefono è staccato. ||| 박사님, 총장님이 기다리세요. 아무도 들이지 말라고 하셨고 전화도 빼 놓으셨어요.
+CORRADO: Bene. Se non mi vedi uscire entro un'ora, manda Ines con il datario. ||| 좋아. 한 시간 안에 내가 안 나오면 인네스 부인한테 날짜 도장을 들려 보내.
+GIULIA: Non scherzi. ||| 농담하지 마세요.
+CORRADO: Sto scherzando solo per non tremare. ||| 떨리지 않으려고 농담하는 거야.
+VITALE: Lanza, entra. Chiudi la porta. ||| 란차, 들어오게. 문 닫고.
+CORRADO: Buongiorno, Segretario. ||| 안녕하십니까, 총장님.
+VITALE: Siediti. Hai fatto un viaggio lungo. Vuoi un caffè? ||| 앉게. 먼 길을 다녀왔지. 커피 할 텐가?
+CORRADO: Ne ho appena bevuto uno. Ma lo accetto per educazione. ||| 방금 마셨습니다. 하지만 예의상 받겠습니다.
+VITALE: Prima di cominciare: ho letto la bozza di Bruxelles. È una buona bozza. ||| 시작하기 전에 말해 두지. 브뤼셀 초안은 읽었네. 좋은 초안이야.
+CORRADO: È merito di una squadra: Giulia, un maltese, un francese che ama le cozze. ||| 팀의 공입니다. 조울리아, 몰타 사람, 그리고 홍합을 좋아하는 프랑스 사람이요.
+VITALE: E tu hai solo portato le sfogliatelle? ||| 그럼 자넨 스폴리아텔레만 가져갔나?
+CORRADO: Ho portato anche una domanda. ||| 질문도 하나 들고 갔습니다.
+VITALE: Quale? ||| 무슨 질문?
+CORRADO: Perché, nel marzo del 2019, una scheda gialla timbrata dalla Segreteria Generale ha fatto sparire il fascicolo quattordici barra C. ||| 2019년 3월에 사무총장실 도장이 찍힌 노란 전표가 14/C 서류철을 사라지게 한 이유입니다.
+VITALE: Vai subito al punto. Mi piace. ||| 곧바로 본론이군. 마음에 들어.
+CORRADO: Non ho molto tempo. E nemmeno lei. ||| 시간이 많지 않으니까요. 총장님도 그렇고요.
+VITALE: Chi ti ha detto della scheda? ||| 전표 얘기는 누가 했나?
+CORRADO: Una signora che gira un datario ogni mattina da trent'anni. ||| 30년째 매일 아침 날짜 도장을 돌리는 부인입니다.
+VITALE: Ines Cardarelli. Una donna che non ha mai sbagliato una data. ||| 인네스 카르다렐리. 날짜를 한 번도 틀린 적 없는 사람이지.
+CORRADO: Esatto. E ha anche un calendario con le croci. Il giorno della scheda lei era in ospedale, e il suo timbro era chiuso a chiave. ||| 맞습니다. 십자 표시가 된 달력도 있고요. 전표 날짜에 부인은 병원에 있었고, 도장은 잠겨 있었습니다.
+VITALE: Capisco. Hai fatto un buon lavoro, Lanza. ||| 알겠군. 일을 잘했네, 란차.
+CORRADO: Non è un complimento che mi serva. Segretario, fino a ieri pensavo che il timbro fosse un'altra cosa. ||| 칭찬은 필요 없습니다. 총장님, 어제까지는 그 도장이 다른 곳 것이라고 생각했습니다.
+VITALE: Un'altra cosa? ||| 다른 곳 거라니?
+CORRADO: Un'altra mano. Oggi credo che sia stato proprio il timbro della Segreteria. ||| 다른 사람 손이요. 오늘은 사무총장실 도장 그대로라고 믿습니다.
+VITALE: Se lo credi, dillo con chiarezza. ||| 그렇게 믿는다면 분명하게 말하게.
+CORRADO: Lo faccio. Segretario, il fascicolo 14/C lo ha ritirato lei. ||| 하겠습니다. 총장님, 14/C 서류철은 총장님이 가져가셨습니다.
++ Vai subito al punto = 곧바로 본론으로 가는군 (andare al punto)
++ Ne ho appena bevuto uno = 방금 하나 마셨다 (ne + appena + 과거분사)
++ per educazione = 예의상
++ manda Ines con il datario = 날짜 도장을 든 인네스를 보내라 (농담: 증거품을 가진 증인)
++ Siediti / Entra / Chiudi = 앉아 / 들어와 / 닫아 (tu 명령형. 비탈레는 란차에게 반말)
++ non è un complimento che mi serva = 내게 필요한 칭찬은 아니다 (che + 접속법 서술)
+
+## 1998년의 청년 — IL GIOVANE DEL 1998
+VITALE: Sì. Lo ritirai io. Sono stato io, il ventidue marzo, a far timbrare quella scheda. ||| 그렇네. 내가 가져갔네. 3월 22일에 그 전표에 도장을 찍게 한 사람이 나야.
+CORRADO: Con un timbro che non era dell'archivio. ||| 문서고 도장이 아닌 걸로요.
+VITALE: Con quello della mia Segreteria. Volevo che il fascicolo fosse mio, finalmente. ||| 내 사무총장실 도장으로. 서류철이 마침내 내 것이길 바랐으니까.
+CORRADO: Perché «finalmente»? ||| 왜 '마침내'죠?
+VITALE: Perché quella carta la conoscevo da prima di te, da prima di tutti. Tu non eri qui, nel 1998. ||| 그 문서를 자네보다 먼저, 누구보다 먼저 알았으니까. 1998년에 자넨 여기 없었어.
+CORRADO: Io ero a Napoli, a impastare. Ma qualcuno c'era. Un giovane magro, con gli occhiali, che sudava e scriveva il verbale. ||| 전 나폴리에서 반죽을 하고 있었죠. 하지만 누군가 있었습니다. 안경 쓴 마른 청년이 땀을 흘리며 회의록을 쓰고 있었다고 들었습니다.
+VITALE: ... Chi te lo ha detto? ||| …누가 그러던가?
+CORRADO: Un commesso, un traduttore giurato. Due uomini che non si conoscono, con la stessa descrizione. ||| 사환 한 사람과 공증 번역가요. 서로 모르는 두 사람이 같은 묘사를 했습니다.
+CORRADO: E quel giovane, quando era nervoso, si sistemava gli occhiali con il dito medio. Come ha appena fatto lei. ||| 그리고 그 청년은 초조할 때 가운뎃손가락으로 안경을 고쳐 올렸다고 하더군요. 방금 총장님이 하신 것처럼요.
+VITALE: Avevo ventitré anni, quella notte. Ero stato assunto da cinque mesi. ||| 그날 밤 나는 스물세 살이었네. 입사한 지 다섯 달째였지.
+CORRADO: Stava scrivendo il verbale. ||| 회의록을 쓰고 계셨군요.
+VITALE: Mi misero a un angolo del tavolo, con una macchina da scrivere elettrica. Non mi chiese niente nessuno. ||| 탁자 모서리에 전동 타자기와 함께 앉혔지. 아무도 나한테 뭘 묻지 않았어.
+CORRADO: Ma lei ricorda cosa si disse. ||| 하지만 무슨 말이 오갔는지 기억하시죠.
+VITALE: Ricordo tutto. Un'ora dopo l'alba, il sottosegretario di allora... ma no, i nomi non servono. ||| 전부 기억하네. 동이 튼 한 시간 뒤, 당시의 차관이… 아니, 이름은 필요 없지.
+CORRADO: Mi dica solo cosa decise. ||| 무엇을 결정했는지만 말씀해 주십시오.
+VITALE: Decise che «si impegna» sarebbe stato lasciato nella lingua nostra. E che in tarsiano sarebbe stato tradotto con il verbo più morbido. ||| '약속한다'는 우리말로 그대로 두고, 타르시아어로는 더 부드러운 동사로 옮기자고 결정했네.
+CORRADO: Più morbido. Cioè quello della promessa, non dell'obbligo. ||| 더 부드러운 동사요. 의무가 아니라 약속의 동사라는 거죠.
+VITALE: E io dovetti riferirlo al traduttore, alle sei del mattino. Gli dissi: «Prof, lo metta come promessa». ||| 새벽 여섯 시에 내가 번역가에게 전해야 했네. '교수님, 약속으로 옮기십시오'라고 말했지.
+CORRADO: E lui scrisse nel quaderno: «Discordanza non sanata». ||| 그래서 그분이 노트에 '불일치 해소되지 않음'이라고 적었군요.
+VITALE: Non sapevo che l'avesse scritto. ||| 적어 두셨는지는 몰랐어.
+CORRADO: Ora lo sa. Segretario, lei ha messo la parola più morbida in bocca a un uomo di cinquantatré anni. A ventitré anni. ||| 이제 아셨겠죠. 총장님은 스물셋에 쉰셋 어른의 입에 더 부드러운 단어를 넣으셨습니다.
+VITALE: Mi ordinarono. E io obbedii. A quell'età si obbedisce. ||| 명령을 받았지. 그래서 복종했네. 그 나이엔 복종하는 법이야.
+CORRADO: Ma a quarantaquattro anni, quando l'hanno nominato Segretario, ha ritirato il fascicolo. Non era più un ordine. ||| 하지만 마흔넷에 사무총장이 되셨을 때 서류철을 가져가셨습니다. 그건 더 이상 명령이 아니었죠.
+VITALE: Lo ritirai per proteggere un'idea: che l'Italia non avesse mai promesso niente di vincolante. ||| 한 가지 생각을 지키려고 가져갔네. 이탈리아가 구속력 있는 약속을 한 적이 없다는 생각을.
+CORRADO: Che io sappia, l'idea è stata la nave ferma a Marsa Beida. ||| 제가 아는 한, 그 생각의 결과가 마르사 베이다에 묶인 배입니다.
+VITALE: Non è l'idea, è la sua conseguenza. ||| 그건 생각이 아니라 그 결과일세.
+CORRADO: Per quaranta studenti, è la stessa cosa. ||| 학생 마흔 명에게는 같은 겁니다.
+VITALE: Non sono nato per fare l'eroe, Lanza. Sono nato per far funzionare le cose. ||| 난 영웅이 되려고 태어난 게 아니야, 란차. 일을 돌아가게 하려고 태어났지.
+CORRADO: Le cose funzionano finché qualcuno non chiede il conto. ||| 일은 누가 계산서를 달라고 할 때까지만 돌아갑니다.
+VITALE: Parli come Sandri. ||| 산드리처럼 말하는군.
+CORRADO: Ho preso il suo caffè, stamattina. ||| 오늘 아침에 그분 커피를 마셨습니다.
++ Avevo ventitré anni = 스물세 살이었다 (나이를 말할 때 과거엔 avere의 반과거)
++ far timbrare = 도장을 찍게 하다 (사역 fare + 부정사)
++ Che io sappia = 내가 아는 한 (접속법 현재, 제한의 표현)
++ lasciato nella lingua nostra = 우리 말로 그대로 둔 (lingua nostra: 시적·강조 어순)
++ obbedire / ordinare = 복종하다 / 명령하다 (원격과거 obbedii, ordinarono)
++ chiedere il conto = 계산서를 요구하다 (책임을 묻다의 비유)

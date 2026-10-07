@@ -1,0 +1,82 @@
+## 색인 카드의 여백 — IL MARGINE DELLA SCHEDA
+TOMMASO: Ecco il caffè, con lo zucchero a parte. Il signor dottore lo beve amaro? ||| 커피 왔어요, 설탕은 따로요. 박사님은 쓰게 드세요?
+CORRADO: Con tre cucchiaini. Sono un pasticciere mancato. ||| 설탕 세 스푼이요. 전 못 이룬 제과사라서요.
+TOMMASO: Tre? Il dottore ha un cuore forte. ||| 세 스푼이요? 박사님 심장이 튼튼하시네요.
+CORRADO: Ho un cuore preoccupato, che è diverso. Signora Ines, posso vedere ancora la scheda dell'indice? ||| 걱정 많은 심장이죠, 그건 달라요. 인네스 부인, 색인 카드를 한 번 더 봐도 될까요?
+INES: La scheda d'indice è questa, la gialla è di prelievo. Non le confonda, o l'archivio le punisce. ||| 색인 카드는 이거고 노란 건 반출 전표예요. 헷갈리지 마세요, 문서고가 벌을 줘요.
+CORRADO: Capito. Qui a matita, sul margine... Cosa c'è scritto? ||| 알겠습니다. 여기 여백에 연필로… 뭐라고 쓰여 있죠?
+INES: È la calligrafia della mia predecessora, la dottoressa Bruna Fabbri. Una donna precisa, ma con la a quasi uguale alla o. ||| 제 전임자 브루나 파브리 박사님의 필체예요. 꼼꼼한 분인데 a가 o랑 거의 똑같아요.
+GIULIA: «Trad. giurata presso il prof. Sartorelli, via dei Coronari. Copia dell'originale a lui affidata.» ||| '공증 번역은 사르토렐리 교수, 코로나리 거리. 원본 사본이 그에게 맡겨져 있음.'
+CORRADO: Una traduzione giurata. Dunque c'è qualcuno che ha letto il testo parola per parola. ||| 공증 번역이라. 그럼 본문을 한 줄 한 줄 읽은 사람이 있다는 거네요.
+INES: Il professor Livio Sartorelli. Un uomo di ottantun anni, traduttore giurato. Veniva qui ogni mese. ||| 리비오 사르토렐리 교수요. 여든한 살의 공증 번역가죠. 예전엔 매달 여기 왔어요.
+GIULIA: Veniva? Non viene più? ||| 왔었다고요? 이제는 안 와요?
+INES: Dal duemiladiciannove non l'ho più visto. Mi è sembrato che avesse paura di qualcosa. ||| 2019년 이후로는 못 봤어요. 뭔가 무서워하는 것 같았어요.
+CORRADO: Paura di cosa? ||| 무엇을요?
+INES: Non lo so. Una volta mi disse: «Ines, certe parole pesano più dell'inchiostro che le scrive». ||| 모르겠어요. 한번은 이런 말을 했죠. '인네스, 어떤 단어는 그걸 쓴 잉크보다 무겁다오.'
+CORRADO: Una frase da traduttore. ||| 번역가다운 말이군요.
+INES: Una frase da uomo che ha tradotto troppo bene qualcosa di scomodo. ||| 불편한 걸 너무 잘 번역해 버린 사람의 말이죠.
+GIULIA: Dottore, chiamo il professor Sandri? Lui conosce tutti questi mondi. ||| 박사님, 산드리 교수님께 전화할까요? 이 바닥을 다 아시잖아요.
+CORRADO: Chiamalo. Anzi, passamelo. ||| 걸어 줘. 아니, 나한테 돌려 줘.
+SANDRI: Corrado, ho appena finito il mio secondo caffè. Dimmi tutto, ma bada: sono in un bar, la gente ascolta. ||| 코라도, 막 두 번째 커피를 끝냈네. 말해 보게. 하지만 조심하게, 난 바에 있어서 사람들이 듣거든.
+CORRADO: Eccellenza, l'originale dell'Aurora è sparito. Resta una copia, forse, presso un traduttore giurato. ||| 대사님, 오로라 원본이 사라졌습니다. 어쩌면 공증 번역가에게 사본이 남아 있을 겁니다.
+SANDRI: Sartorelli? Lo conosco di fama. Un uomo molto scrupoloso. ||| 사르토렐리? 이름은 알지. 아주 꼼꼼한 사람이야.
+CORRADO: Mi pare strano che nessuno abbia scritto una relazione finale. Un negoziato così importante senza un rapporto... ||| 아무도 최종 보고서를 안 썼다는 게 이상합니다. 이렇게 중요한 협상에 보고서가 없다니요.
+SANDRI: Non è strano: è voluto. Ti racconto un'altra storia da espresso. ||| 이상한 게 아니라 의도된 걸세. 에스프레소 한 잔 분량으로 이야기 하나 더 해 주지.
+CORRADO: La ascolto, Eccellenza. ||| 듣고 있습니다, 대사님.
+SANDRI: A Venezia, quando un ambasciatore tornava dal suo incarico, doveva riferire al Senato. Non una chiacchierata: una relazione, scritta e letta. ||| 베네치아에서는 대사가 임무를 마치고 돌아오면 원로원에 보고해야 했네. 잡담이 아니라 쓰고 읽는 정식 보고서였지.
+CORRADO: Con che cosa dentro? ||| 어떤 내용이 들어갔습니까?
+SANDRI: Il carattere del sovrano, le entrate dello Stato, le amicizie e le inimicizie, perfino le abitudini a tavola. Oggi gli storici le considerano tra le fonti più affidabili. ||| 군주의 성격, 나라의 수입, 우호와 적대 관계, 식탁의 습관까지도. 오늘날 역사가들은 그걸 가장 믿을 만한 사료로 꼽지.
+CORRADO: Perché era così importante scriverle? ||| 그걸 쓰는 게 왜 그렇게 중요했을까요?
+SANDRI: Perché Venezia non voleva una diplomazia che vivesse solo nella testa dei diplomatici. Chi muore, porta con sé la memoria. ||| 베네치아는 외교관들의 머릿속에서만 사는 외교를 원하지 않았거든. 죽는 사람은 기억을 가지고 가니까.
+CORRADO: E nel '98 nessuno ha scritto la relazione. ||| 그리고 98년에는 아무도 보고서를 안 썼군요.
+SANDRI: Quando non si scrive una relazione, o si ha vergogna di quello che si è fatto, o paura di quello che si leggerebbe. ||| 보고서를 쓰지 않을 때는 한 일이 부끄럽거나, 거기서 읽힐 내용이 두렵거나 둘 중 하나야.
+CORRADO: Giulia mi dice che nell'indice c'è scritto «dispensato». ||| 조울리아가 색인에 '면제'라고 쓰여 있다고 하네요.
+SANDRI: Dispensato da chi? Questo sì che è interessante. Chi dispensa, ha qualcosa da proteggere. ||| 누가 면제했다는 건가? 그건 정말 흥미롭군. 면제해 주는 사람은 지킬 게 있는 법이지.
+CORRADO: Ha ragione, come sempre. Ora vado dal traduttore. ||| 늘 그렇듯 맞는 말씀입니다. 이제 번역가를 찾아가겠습니다.
+SANDRI: Vacci con qualcosa di dolce. Gli anziani non aprono la porta a chi ha le mani vuote. ||| 달콤한 걸 들고 가게. 노인은 빈손으로 오는 사람에게는 문을 안 열어 주니까.
+CORRADO: Ho già prenotato quattro cannoli dal pasticciere di Campo de' Fiori. ||| 캄포 데 피오리의 제과점에 칸놀리 네 개를 벌써 주문했습니다.
+SANDRI: Ottimo. Ricorda: cannoli in mano, parole in bocca. ||| 훌륭하군. 기억하게. 손에는 칸놀리, 입에는 말을.
++ Mi è sembrato che avesse paura = 두려워하는 것 같았다 (sembrare che + 접속법 반과거)
++ Mi pare strano che nessuno abbia scritto = 아무도 쓰지 않았다는 게 이상하다 (접속법 과거)
++ relazione finale = 최종 보고서 (베네치아 대사의 relazione 전통)
++ o… o… = ~이거나 ~이거나 (양자택일)
++ bada = 조심하게 (badare의 tu 명령형)
++ Vacci = 거기로 가게 (va' + ci, 명령형 대명사 결합으로 자음이 겹침)
++ passamelo = 나한테 그것을 건네줘 (passare + mi + lo, 명령형 결합)
+
+## 사무총장의 전화 — LA TELEFONATA
+VITALE: Lanza, sono Vitale. Dove sei? ||| 란차, 비탈레야. 어디 있나?
+CORRADO: Buongiorno, Segretario. Sono... in un luogo con un buon silenzio. ||| 안녕하십니까, 총장님. 조용한 곳에 있습니다.
+VITALE: Il portiere di Via Veneto mi ha avvisato che sei sceso nell'archivio. Ti avevo dato un compito diverso. ||| 베네토 거리 수위가 자네가 문서고에 내려갔다고 알려 왔네. 난 자네에게 다른 일을 줬는데.
+CORRADO: Il compito era la nave. E la nave ha una storia di pagamenti che parte da un archivio. ||| 일은 배였습니다. 그런데 그 배의 납부 이력이 문서고에서 시작합니다.
+VITALE: Una storia di pagamenti non parte da un archivio: parte da un conto corrente. ||| 납부 이력은 문서고에서 시작하는 게 아니라 은행 계좌에서 시작하지.
+CORRADO: Parte dal conto, e arriva alle ragioni. Volevo capire perché il conto si è fermato tre anni fa. ||| 계좌에서 시작해서 이유까지 갑니다. 3년 전에 왜 계좌가 멈췄는지 알고 싶었습니다.
+VITALE: E hai trovato qualcosa? ||| 그래서 뭐라도 찾았나?
+CORRADO: Ho trovato un archivio molto ordinato, e una signora che misura gli scaffali con un metro da sarta. ||| 아주 질서 정연한 문서고와 서가를 재단 줄자로 재는 부인을 찾았습니다.
+VITALE: Non scherzare con me, Lanza. ||| 나한테 농담하지 말게, 란차.
+CORRADO: Non scherzo, Segretario. Se mi autorizza, chiedo l'accesso completo al fascicolo Tarsia. ||| 농담이 아닙니다, 총장님. 허가해 주시면 타르시아 서류철 전체 열람을 요청하겠습니다.
+VITALE: Te lo autorizzo per quello che riguarda la nave. Per il resto, no. ||| 배에 관한 건 허가하지. 나머지는 안 돼.
+CORRADO: E se il resto riguarda la nave? ||| 나머지가 배와 관련이 있다면요?
+VITALE: Allora ne parleremo a quattr'occhi. Ma non per telefono. ||| 그럼 단둘이 얘기하자고. 하지만 전화로는 아니네.
+CORRADO: Va bene. Giovedì? ||| 좋습니다. 목요일은요?
+VITALE: Giovedì scade il tuo termine. Troviamoci prima. Domani alle otto, nel mio ufficio. ||| 목요일은 자네 기한 끝나는 날이야. 그 전에 보지. 내일 아침 여덟 시, 내 방에서.
+CORRADO: Ci sarò. Buona giornata, Segretario. ||| 가겠습니다. 좋은 하루 되세요, 총장님.
+GIULIA: Dottore, non vuole sapere cos'ho contato? ||| 박사님, 제가 뭘 세어 봤는지 안 궁금하세요?
+CORRADO: Dimmi. ||| 말해 봐.
+GIULIA: Nell'edificio ci sono tre datari con le cifre tozze. Protocollo, Cerimoniale e Segreteria Generale. ||| 건물 안에 숫자가 뭉툭한 날짜 도장이 세 개 있어요. 문서수발과, 의전과, 사무총장실이요.
+CORRADO: Tre. Quindi nessuna conclusione, per ora. ||| 셋이라. 그럼 지금은 결론이 없네.
+GIULIA: Nessuna, ma nessuna è anche una risposta, a volte. ||| 없죠. 하지만 가끔은 '없음'도 하나의 답이에요.
+INES: Dottor Lanza, ho fotografato la scheda gialla e l'ho messa in una busta sigillata. La firmo davanti a lei. ||| 란차 박사님, 노란 전표를 촬영해서 봉투에 봉인했습니다. 박사님 앞에서 서명할게요.
+CORRADO: La ringrazio, signora. Lei ha fatto più dell'ufficio legale in dieci anni. ||| 감사합니다, 부인. 법무실이 10년 동안 한 것보다 많이 하셨어요.
+INES: Ho solo girato un datario, ogni mattina. ||| 저는 날마다 날짜 도장을 돌렸을 뿐이에요.
+CORRADO: Ed è bastato. Torneremo, con una lettera di carta. ||| 그거면 충분했습니다. 종이 편지를 들고 다시 오겠습니다.
+INES: Allora porti anche i guanti suoi. Quelli che prendo io sono tutti troppo piccoli. ||| 그럼 박사님 장갑도 가져오세요. 제 것들은 다 너무 작거든요.
+TOMMASO: Dottore, e i cannoli? Tutta questa storia mi ha fatto venire fame. ||| 박사님, 칸놀리는요? 이 얘기 듣다 보니 배가 고파졌어요.
+CORRADO: Due li lascio a voi. Due sono per il professore. È un patto, Tommaso. ||| 두 개는 두고 갈게. 두 개는 교수님 몫이야. 약속이야, 토마소.
+TOMMASO: Un patto che si mangia. Il mio preferito. ||| 먹을 수 있는 약속이네요. 제가 제일 좋아하는 거예요.
++ a quattr'occhi = 단둘이 (직역 '네 개의 눈으로')
++ Non scherzare con me = 나한테 농담하지 마라 (부정 명령 tu)
++ Te lo autorizzo = 너에게 그것을 허가한다 (te + lo, 대명사 결합)
++ Troviamoci = 만나자 (trovarsi, 재귀 명령형 1인칭 복수)
++ bastare = 충분하다 (È bastato.)
++ Un patto che si mangia = 먹을 수 있는 약속 (식탁 철학의 변주)

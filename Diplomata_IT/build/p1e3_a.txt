@@ -1,0 +1,124 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 1
+@ep 3
+@title L'archivio di Via Veneto
+@ko 베네토 거리의 문서고
+@setting 베네토 거리 외무부 별관 지하 문서고 → 14번 서가 → 인네스의 날짜 도장 달력 → 산드리와의 통화 → 사무총장의 전화
+@level B2-C1
+@cast CORRADO | 코라도 란차, 협상관, 46세
+@cast GIULIA | 조울리아 마르케티, 분석관, 30세
+@cast INES | 인네스 카르다렐리, 문서고 책임자, 62세
+@cast TOMMASO | 토마소, 문서고 실습생, 23세
+@cast SANDRI | 비토리오 산드리, 은퇴 대사, 70세
+@cast VITALE | 체사레 비탈레, 외무사무총장, 51세
+@note 조사의 화입니다. 에르콜레가 말한 '14번 오로라 상자'를 찾아 베네토 거리 문서고로 내려가지만, 오로라 각서 본문이 든 서류철 14/C가 '반출' 처리된 채 비어 있습니다. 해법의 순간은 문서고 책임자 인네스의 습관에서 나옵니다. 그는 매일 아침 날짜 도장을 새 날짜로 돌리고 벽 달력에 표시하는데, 반출 전표의 날짜가 그 달력과 맞지 않습니다. 전표는 문서고의 도장이 아니라 다른 곳의 도장으로 찍힌 것입니다. 역사 논거는 베네치아 대사들의 보고서(relazioni) 전통입니다. 베네치아 공화국의 대사는 임무를 마치고 귀국하면 상대국의 정세·인물·재정을 정리한 보고를 원로원에 올렸고, 그 문서가 오늘날 역사가들이 가장 신뢰하는 자료 중 하나입니다. 기록은 '기억에 의존하지 않는 외교'의 토대라는 논지입니다. 어휘는 문서고 용어(fascicolo, scaffale, scheda di prelievo, timbro datario), 접속법(Credo che sia stato…), Lei 높임에 주목하세요.
+@next 4화: 문서고 색인 카드의 여백에 적힌 이름이 란차를 은퇴한 공증 번역가 사르토렐리에게 이끕니다. 그는 각서의 번역 노트를 집에 보관하고 있습니다.
+
+## 지하 문서고 — IL SOTTOSUOLO
+INES: Chi è che scende a quest'ora? Qui non si entra senza appuntamento. ||| 이 시간에 누가 내려오는 거예요? 여기는 약속 없이는 못 들어와요.
+CORRADO: Signora Cardarelli? Sono Corrado Lanza, della Farnesina. Le ho scritto ieri sera. ||| 카르다렐리 부인이시죠? 외무부의 코라도 란차입니다. 어젯밤에 메일 드렸습니다.
+INES: Ho letto. Ma io rispondo alle lettere di carta, non alle email. ||| 읽었어요. 하지만 저는 종이 편지에 답하지 이메일에는 안 해요.
+CORRADO: Allora le porto una lettera di carta, la prossima volta. ||| 그럼 다음엔 종이 편지로 가져오겠습니다.
+INES: Faccia anche una cosa: tolga il cappotto bagnato, che sulle mie schede lascia gli aloni. ||| 한 가지 더요. 젖은 외투는 벗으세요. 제 카드에 얼룩이 져요.
+CORRADO: Subito. Lei è la memoria di questo luogo, vedo. ||| 바로 벗겠습니다. 이곳의 기억 그 자체이신 모양이군요.
+INES: La memoria è nei fascicoli. Io sono solo quella che sa dove li ho messi. ||| 기억은 서류철에 있어요. 저는 그걸 어디 뒀는지 아는 사람일 뿐이고요.
+GIULIA: Signora, io sono Giulia Marchetti. Abbiamo un'urgenza di una nave, e il fascicolo che cerchiamo potrebbe risolverla. ||| 부인, 저는 조울리아 마르케티입니다. 배 한 척이 걸린 급한 일인데, 찾는 서류철이 해결의 열쇠일 수 있어요.
+INES: Una nave? Qui i fascicoli sono fermi da decenni. Una nave non ha mai bussato. ||| 배라고요? 여기 서류철들은 수십 년째 멈춰 있어요. 배가 와서 문을 두드린 적은 없어요.
+CORRADO: C'è una nave ferma con quaranta studenti a bordo, e abbiamo pochi giorni. ||| 학생 마흔 명이 탄 배가 묶여 있고, 남은 날짜가 얼마 없습니다.
+INES: Quaranta ragazzi. Va bene, vi aiuto. Tommaso! Porta la scala. ||| 학생이 마흔 명이라니. 알겠어요, 돕죠. 토마소! 사다리 가져와.
+TOMMASO: Subito, signora Ines. Quale scala, quella corta o quella lunga? ||| 네, 인네스 부인. 어느 사다리요, 짧은 거요, 긴 거요?
+INES: Quella lunga. Quando si va in fondo, si va in fondo. ||| 긴 거. 바닥까지 가려면 끝까지 가야지.
+GIULIA: Dottore, il nostro riferimento è «Aurora, quattordici», scaffale quattordici, probabilmente tre casse. ||| 박사님, 우리가 가진 정보는 '오로라, 14번' 서가에 상자 세 개일 거라는 거예요.
+INES: Aurora... quattordici. Conosco quel numero. Seguitemi, ma non toccate niente senza guanti. ||| 오로라 14번이라… 그 번호는 알아요. 따라와요. 하지만 장갑 없이는 아무것도 만지지 마세요.
+CORRADO: Ci sono guanti anche per un napoletano maldestro come me? ||| 저처럼 서투른 나폴리 사람이 낄 장갑도 있을까요?
+INES: Ce ne sono per chiunque, a partire dal mignolo. Prenda. ||| 누구에게나 있어요, 새끼손가락 사이즈부터요. 받으세요.
+GIULIA: Quanti metri di scaffali ci sono qui sotto? ||| 이 아래 서가가 몇 미터나 되죠?
+INES: Undicimila e quattrocento. Li ho misurati quando sono arrivata, nel 1993, con un metro da sarta. ||| 1만 1천 400미터요. 1993년에 부임했을 때 재단용 줄자로 쟀어요.
+GIULIA: Undicimila e quattrocento metri con un metro da sarta? ||| 재단용 줄자로 1만 1천 400미터를요?
+INES: Ho avuto molta pazienza e poca fretta. Come in tutto. ||| 인내심이 많고 서두름은 적었죠. 뭐든 그래요.
+CORRADO: Giulia, scrivi: Ines Cardarelli, misura tutto, ricorda tutto. ||| 조울리아, 적어. 인네스 카르다렐리, 뭐든 재고 뭐든 기억함.
+INES: E sorride poco. Ecco il quattordici. ||| 그리고 잘 안 웃죠. 여기가 14번이에요.
++ Chi è che…? = 대체 누가 ~하는 거야? (강조 의문 chi è che)
++ Tolga il cappotto = 외투를 벗으세요 (togliere, Lei 명령형)
++ a partire dal mignolo = 새끼손가락부터 (한도의 끝을 가리키는 농담)
++ metro da sarta = 재단용 줄자 (metro: 미터이자 줄자)
++ maldestro = 서투른, 어설픈
++ fascicolo = 서류철 (scaffale = 서가, scheda = 카드)
+
+## 비어 있는 서류철 — IL FASCICOLO VUOTO
+TOMMASO: Ecco, signora. Scaffale quattordici, ripiano basso. Ci sono due casse, una e due. ||| 여기요, 부인. 14번 서가 아래 칸입니다. 상자가 두 개 있어요, 1번과 2번.
+CORRADO: Due. Ercole aveva ragione: le casse tornate erano due. ||| 두 개네요. 에르콜레 말이 맞았군요. 돌아온 상자는 둘이었어요.
+INES: Chi è Ercole? ||| 에르콜레가 누구죠?
+CORRADO: Un commesso in pensione, uno che portò le casse a Villa Madama nel '98. ||| 98년에 상자를 빌라 마다마로 날랐던 퇴직 사환입니다.
+INES: Ah, il commesso. Un uomo prezioso. Quelli non mancano mai. ||| 아, 그 사환. 귀한 분이죠. 그런 사람들은 절대 빠지지 않아요.
+GIULIA: Apriamo la prima? ||| 첫 번째 상자를 열까요?
+INES: Piano. Prima si fotografa, poi si apre, poi si numera. Un archivio è fatto di ordine, non di fretta. ||| 천천히요. 먼저 사진을 찍고, 그다음에 열고, 그다음에 번호를 매겨요. 문서고는 서두름이 아니라 질서로 이루어지거든요.
+GIULIA: Nella prima ci sono tabelle di debito, conti correnti, una stima dei giacimenti. ||| 첫 번째에는 부채표, 계좌 내역, 가스전 추정치가 들어 있어요.
+CORRADO: Allora è la parte preparatoria. E nella seconda? ||| 그럼 준비 자료군요. 두 번째에는요?
+GIULIA: Corrispondenza, bozze, due appunti a matita. Ma il testo finale, firmato, non c'è. ||| 서신, 초안, 연필 메모 두 장이 있어요. 하지만 서명된 최종 본문은 없어요.
+INES: Dovrebbe stare in un fascicolo a parte, il quattordici barra C. È segnato nell'indice. ||| 따로 14/C 서류철에 있어야 해요. 색인에 적혀 있죠.
+CORRADO: E dov'è, quel quattordici C? ||| 그 14/C는 어디 있습니까?
+INES: Controllo la scheda. Guardi qui. ||| 카드를 확인할게요. 여기 보세요.
+TOMMASO: La scheda dice: «Ritirato». ||| 카드에 '반출'이라고 쓰여 있어요.
+CORRADO: Ritirato da chi? ||| 누가 가져갔다는 거죠?
+INES: C'è la scheda di prelievo, quella gialla, attaccata dietro. Con un timbro. ||| 노란색 반출 전표가 뒷면에 붙어 있어요. 도장이 찍혀서요.
+GIULIA: Segreteria Generale... data ventidue marzo duemiladiciannove. La firma è illeggibile. ||| 사무총장실… 날짜는 2019년 3월 22일. 서명은 알아볼 수 없어요.
+CORRADO: Segreteria Generale. Non mi stupisce, dopo la telefonata di ieri. ||| 사무총장실이라. 어제 통화 이후라 놀랍지도 않군요.
+INES: Non traiamo conclusioni. Una scheda gialla può dire molte cose. ||| 성급하게 결론 내리지 맙시다. 노란 전표는 여러 가지를 말할 수 있어요.
+CORRADO: Lei non crede che sia stata ritirata da lì? ||| 정말 그쪽에서 가져갔다고 생각하지 않으시는 겁니까?
+INES: Credo che il timbro sia strano. Dammi... mi dia la lente, signorina. ||| 도장이 이상하다고 생각해요. 돋보기 좀 줘… 주세요, 아가씨.
+GIULIA: Ecco. Cosa vede? ||| 여기요. 뭐가 보이세요?
+INES: La data è corretta, ma il carattere è diverso dal mio. Le cifre sono un po' più grosse. ||| 날짜는 맞는데 글꼴이 제 것과 달라요. 숫자가 조금 더 굵어요.
+CORRADO: Un timbro d'archivio ha un carattere speciale? ||| 문서고 도장은 글꼴이 특별한가요?
+INES: Il mio è un datario di marca tedesca, del 1987, con le cifre sottili. Questo ha le cifre tozze. ||| 제 건 1987년산 독일제 날짜 도장이라 숫자가 가늘어요. 이건 숫자가 뭉툭하고요.
+GIULIA: Quindi non è un timbro dell'archivio. ||| 그러니까 문서고 도장이 아니란 거죠.
+INES: Aspettate, c'è dell'altro. Il ventidue marzo duemiladiciannove io non c'ero. ||| 잠깐만요, 더 있어요. 2019년 3월 22일에 저는 여기 없었어요.
+CORRADO: Non c'era? ||| 안 계셨다고요?
+INES: Ero in ospedale per un'operazione al ginocchio. Lo so con certezza, perché ho un calendario. ||| 무릎 수술로 병원에 있었어요. 확실히 알죠, 달력이 있으니까요.
++ Dovrebbe stare in… = ~에 있어야 한다 (조건법, 가능성·의무의 완곡)
++ barra C = 슬래시 C (14/C의 읽는 법)
++ Non traiamo conclusioni = 결론을 내리지 맙시다 (trarre conclusioni)
++ cifre sottili / tozze = 가는 숫자 / 뭉툭한 숫자
++ Dammi... mi dia = tu에서 Lei로의 말 바꿈 (낯선 사람에게 반말이 튀어나온 것을 정정)
++ Non mi stupisce = 놀랍지 않다 (stupire)
+
+## 날짜 도장 달력 — IL CALENDARIO DEI TIMBRI
+CORRADO: Quale calendario? ||| 무슨 달력이요?
+INES: Quello appeso dietro la porta del mio ufficio. Ogni mattina, prima del caffè, giro il datario e segno una croce sul giorno. ||| 제 사무실 문 뒤에 걸린 거요. 매일 아침 커피 전에 날짜 도장을 돌리고 그날에 십자 표시를 해요.
+GIULIA: Ogni mattina? Da quanti anni? ||| 매일 아침이요? 몇 년째예요?
+INES: Dal 1993. Ho trentatré calendari, uno per anno, in una cassettiera. ||| 1993년부터요. 해마다 하나씩 서른세 개 달력이 서랍장에 있어요.
+GIULIA: Scusi se insisto: perché la croce? ||| 계속 여쭤서 죄송한데, 왜 십자 표시를 하세요?
+INES: Perché se un giorno non c'è la croce, vuol dire che non ero qui, e che il timbro è rimasto fermo. ||| 어느 날 십자가 없으면 제가 여기 없었다는 뜻이고, 도장이 멈춰 있었다는 뜻이니까요.
+CORRADO: Quindi, per ogni giorno, lei sa se il suo datario era usato. ||| 그럼 매일 날짜 도장이 쓰였는지 아시는군요.
+INES: E non solo. Lo tengo chiuso a chiave in un cassetto quando mi assento. L'unica copia della chiave l'ho io. ||| 그뿐 아니에요. 자리를 비울 땐 서랍에 열쇠로 잠가 둬요. 열쇠는 저한테 하나뿐이에요.
+GIULIA: Vado a prendere il calendario del duemiladiciannove. ||| 2019년 달력을 가져올게요.
+INES: Cassetto basso, a sinistra, busta azzurra. E mi raccomando, con i guanti. ||| 아래 서랍 왼쪽, 파란 봉투예요. 장갑 꼭 끼고요.
+TOMMASO: Io intanto preparo il caffè. Una cosa seria, signora Ines. ||| 저는 그동안 커피를 준비할게요. 중요한 일이잖아요, 인네스 부인.
+INES: Il caffè non è mai una cosa seria, Tommaso. È una cosa necessaria. ||| 커피는 절대 중요한 일이 아니야, 토마소. 필요한 일이지.
+CORRADO: Questa frase l'ha rubata a mio padre. ||| 그 말은 우리 아버지한테서 훔치셨네요.
+GIULIA: Ecco il calendario! Marzo duemiladiciannove. Vediamo... ||| 달력 가져왔어요! 2019년 3월. 어디 보자…
+INES: Fino al diciotto ci sono le croci, poi niente fino al ventinove. ||| 18일까지는 십자가 있고, 29일까지는 없죠.
+GIULIA: Sì. E in quel mese, il datario è rimasto bloccato su «15 MAR» fino al suo rientro. ||| 맞아요. 그리고 그달에 날짜 도장은 복귀하실 때까지 '3월 15일'에 멈춰 있었네요.
+INES: Per forza: lo avevo chiuso in cassetto il quindici sera. ||| 당연하죠. 15일 저녁에 서랍에 넣고 잠갔으니까요.
+CORRADO: Quindi la scheda datata ventidue marzo non può essere stata timbrata col suo datario. ||| 그럼 3월 22일 날짜의 전표는 문서고 도장으로 찍힐 수 없었다는 거군요.
+INES: Impossibile. E nemmeno quello che sta nella cassaforte del piano di sopra. ||| 불가능해요. 위층 금고에 있는 도장으로도 안 되고요.
+GIULIA: Ne esiste un altro? ||| 다른 것도 있어요?
+INES: Uno di riserva, ma con le cifre sottili come questo. Il timbro tozzo non è dell'archivio. ||| 예비용이 하나 있지만 이것처럼 가는 숫자예요. 뭉툭한 도장은 문서고 거가 아니에요.
+CORRADO: Dunque qualcuno ha timbrato la scheda altrove, e poi l'ha attaccata come se fosse stata un prelievo ufficiale. ||| 그러니까 누군가 다른 곳에서 도장을 찍어 정식 반출인 것처럼 붙여 놨다는 거네요.
+INES: Credo che le cose siano andate così. E credo anche che quel qualcuno non abbia mai messo piede qui sotto. ||| 저는 그렇게 됐다고 봐요. 그리고 그 누군가는 여기 지하에 발을 들인 적도 없을 거고요.
+GIULIA: Perché? ||| 왜요?
+INES: Perché chi scende in archivio sa che si deve firmare il registro d'ingresso. E nel diciannove, in quei giorni, il registro è vuoto. ||| 문서고에 내려오는 사람은 출입 대장에 서명해야 한다는 걸 아니까요. 그리고 2019년 그 며칠은 대장이 비어 있어요.
+CORRADO: Una scheda senza una persona. Un fantasma con un timbro. ||| 사람이 없는 전표라. 도장 찍힌 유령이군요.
+INES: Se vuole chiamarlo così. A me piace di più dire: un'omissione ben organizzata. ||| 그렇게 불러도 좋죠. 저는 '잘 짜인 누락'이라고 부르고 싶지만요.
+GIULIA: Dottore, la data cade quattro giorni dopo la nomina a Segretario generale. ||| 박사님, 그 날짜는 사무총장 임명 나흘 뒤예요.
+CORRADO: Quale nomina? ||| 무슨 임명이요?
+GIULIA: Quella del dottor Vitale. Mi risulta che sia stata annunciata il diciotto marzo. ||| 비탈레 박사님의 임명이요. 3월 18일에 발표된 걸로 알고 있어요.
+CORRADO: Giulia, non lo dica ad alta voce, per ora. ||| 조울리아, 지금은 소리 내서 말하지 마.
+INES: Io non ho sentito niente, dottore. Gli archivisti sono come i confessori. ||| 저는 아무것도 못 들었어요, 박사님. 문서고 사람들은 고해 신부 같거든요.
++ giro il datario = 날짜 도장을 돌린다 (datario: 숫자 바퀴가 달린 날짜 도장)
++ Per forza = 당연하지, 어쩔 수 없이
++ Credo che le cose siano andate così = ~했다고 믿는다 (접속법 과거)
++ chi scende… sa che si deve firmare = 내려오는 사람은 서명해야 함을 안다 (비인칭 si + dovere)
++ un'omissione ben organizzata = 잘 짜인 누락 (인네스식 완곡 표현)
++ Mi risulta che sia stata annunciata = 내가 아는 바로는 발표되었다 (risultare + 접속법)
