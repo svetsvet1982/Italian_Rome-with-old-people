@@ -1,0 +1,182 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 5
+@title La conferenza di Roma
+@ko 로마 회의
+@setting 금요일 파르네시나 대회의실 → 휴식 시간 외무부 구내식당 주방 → 오후 최종 문안 → 저녁 파르네시나 테라스
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast DIALLO | 유엔 인도주의조정 담당관, 50세
+@cast FAVRE | 적십자국제위원회 대표, 64세
+@cast KOVACS | EU 인도지원국 대표, 45세
+@cast SISSOKO | 만다 공화국 보건장관, 60세
+@cast ABDOULAYE | 놀로 마을 중재인(전화), 60세
+@cast ARMANDO | 외무부 구내식당 요리사, 61세
+@note 5화는 일반 협상의 화입니다. 유엔·적십자·EU·만다 정부·이탈리아가 로마에서 '인도주의 회랑 협정'의 초안을 놓고 마주 앉습니다. 만다 장관은 '회랑'이 주권 침해라고 반발합니다. 해법의 씨앗은 하나의 합의에 두 이름(만다식·이탈리아식)을 붙이는 것, 그리고 적십자 대표의 '병원은 총을 모른다'는 원칙입니다. 역사 논거는 솔페리노 전투(1859)와 앙리 뒤낭, 그리고 1864년 제네바 협약입니다. 롬바르디아 솔페리노의 부상병을 돌본 마을 여인들의 '모두가 형제'라는 말이 적십자 운동의 출발점이 됐습니다. 어휘는 다자 협상(corridoio umanitario, bozza, emblema, neutralità, sovranità)에 주목하세요.
+@next 6화: 란차는 아들 레오와 이야기하며 오르솔리니와 맞서는 방법을 찾습니다. 레오의 철학 숙제는 '약속은 누구에게 하는 것인가'입니다.
+
+## 대회의실 — LA SALA GRANDE
+ORSOLINI: Signore e signori, a nome del ministro, benvenuti alla Farnesina. Oggetto: bozza di accordo sul corridoio umanitario del distretto di Ndolo. Prego, dottoressa Diallo. ||| 신사 숙녀 여러분, 장관님을 대신해 파르네시나에 오신 걸 환영합니다. 안건은 놀로 지구의 인도주의 회랑 협정 초안입니다. 디알로 박사님, 말씀하세요.
+DIALLO: Grazie, ambasciatore. Le Nazioni Unite hanno quattro priorità: accesso sicuro, tracciabilità, neutralità e responsabilità condivisa. ||| 감사합니다, 대사님. 유엔의 우선순위는 넷입니다. 안전한 접근, 추적 가능성, 중립성, 그리고 공동 책임입니다.
+KOVACS: L'Unione Europea sostiene la proposta e metterebbe sul tavolo un finanziamento di tre milioni, a condizione che ogni spesa sia verificabile. ||| 유럽연합은 이 제안을 지지하며 300만 유로 자금을 내놓을 수 있습니다. 단, 모든 지출을 검증할 수 있어야 합니다.
+FAVRE: Il Comitato internazionale della Croce Rossa, per ora, ascolta. ||| 적십자국제위원회는 지금은 듣겠습니다.
+CORRADO: «Per ora». ||| '지금은'이군요.
+FAVRE: Per ora. Nella mia carriera, chi parla per primo ha quasi sempre torto. ||| 지금은요. 제 경력에서 먼저 말하는 사람은 거의 늘 틀렸습니다.
+CORRADO: Gliene sono grato. ||| 감사합니다.
+ORSOLINI: Signor ministro Sissoko, a lei la parola. ||| 시소코 장관님, 발언하십시오.
+SISSOKO: Merci. Grazie. Parlo italiano da quando ho studiato a Perugia, trent'anni fa. Ma userò il francese per le parti difficili. ||| 메르시. 감사합니다. 저는 30년 전 페루자에서 공부한 뒤로 이탈리아어를 합니다. 하지만 어려운 부분은 프랑스어로 하겠습니다.
+CORRADO: Come preferisce. ||| 편하신 대로요.
+SISSOKO: Allora, in italiano: il mio governo non accetta la parola «corridoio». ||| 그럼 이탈리아어로 말씀드립니다. 우리 정부는 '회랑'이라는 말을 받아들이지 않습니다.
+DIALLO: Perché? ||| 왜죠?
+SISSOKO: Perché un corridoio presuppone che ci sia uno Stato che non controlla il suo territorio. E il Mandà ha un territorio e ha un controllo. ||| 회랑은 자기 영토를 통제하지 못하는 국가가 있다고 전제하니까요. 만다에는 영토가 있고 통제가 있습니다.
+KOVACS: Signor ministro, nessuno vuole offendere la sovranità. ||| 장관님, 누구도 주권을 모욕할 뜻이 없습니다.
+SISSOKO: Allora non si usi la parola che dice il contrario. ||| 그럼 그 반대를 뜻하는 말을 쓰지 마십시오.
+CORRADO: Ministro, posso farle una domanda? ||| 장관님, 질문 하나 해도 되겠습니까?
+SISSOKO: Dottor Lanza, so chi è. Prego. ||| 란차 박사, 압니다. 하세요.
+CORRADO: Come si chiama, nella sua lingua, la strada che porta a una clinica? ||| 장관님의 언어로 병원에 가는 길은 뭐라고 부릅니까?
+SISSOKO: La... la strada del malato. «Dugu-sira». ||| 환자의 길입니다. '두구시라'.
+CORRADO: Dugu-sira. E se lo scrivessimo così? ||| 두구시라. 그렇게 쓰면 어떨까요?
+SISSOKO: Come? ||| 어떻게요?
+CORRADO: Nel testo mandano: «Dugu-sira», la strada del malato. Nel testo italiano: «corridoio umanitario». Due testi, due nomi, una sola strada. ||| 만다어 텍스트에는 '두구시라', 환자의 길. 이탈리아어 텍스트에는 '인도주의 회랑'. 텍스트 둘, 이름 둘, 길은 하나입니다.
+SISSOKO: Due nomi. ||| 이름이 둘이라.
+CORRADO: La stessa cosa si fece nel mille ottocento sessantaquattro. ||| 1864년에 같은 일을 했습니다.
+FAVRE: Ah. Ginevra. ||| 아. 제네바군요.
+CORRADO: Ginevra. Ma prima, Solferino. ||| 제네바죠. 하지만 먼저 솔페리노입니다.
+FAVRE: Vuole raccontarla lei? ||| 직접 이야기하시겠습니까?
+CORRADO: Con piacere. Il ventiquattro giugno 1859. La battaglia di Solferino, in Lombardia. In un solo giorno, quarantamila tra morti e feriti. ||| 기꺼이요. 1859년 6월 24일, 롬바르디아의 솔페리노 전투입니다. 하루에 사망자와 부상자가 4만 명이었죠.
+DIALLO: Un'enormità. ||| 엄청난 수죠.
+CORRADO: Un uomo di Ginevra, Henri Dunant, passava di lì per affari. E vide i feriti abbandonati nei campi e nelle chiese di Castiglione. ||| 제네바 사람 앙리 뒤낭이 사업차 지나가다 카스티리오네의 들과 성당에 버려진 부상병들을 봤어요.
+FAVRE: Li vide morire. ||| 죽어 가는 걸 봤죠.
+CORRADO: E vide anche un'altra cosa. Le donne del paese. Che curavano i soldati, austriaci e francesi, senza chiedere da che parte stessero. E dicevano: «Tutti fratelli». ||| 그리고 다른 것도 봤어요. 마을 여인들이 오스트리아 병사든 프랑스 병사든 어느 편인지 묻지 않고 돌봤어요. 그러면서 '모두가 형제'라고 했죠.
+FAVRE: «Tutti fratelli». Sì. Dunant lo scrisse nel libro. ||| '모두가 형제'. 그렇죠. 뒤낭이 책에 썼어요.
+CORRADO: Cinque anni dopo, dodici Stati firmarono a Ginevra la prima convenzione: i feriti, e chi li cura, sono neutrali. ||| 5년 뒤 열두 개 국가가 제네바에서 첫 협약에 서명했습니다. 부상자와 그들을 돌보는 사람은 중립이라고요.
+SISSOKO: E gli Stati dissero: è una violazione della sovranità? ||| 그러면 국가들은 주권 침해라고 하지 않았습니까?
+CORRADO: Qualcuno lo disse. E poi capirono che era l'opposto. Che uno Stato che protegge la strada del malato dimostra di essere sovrano. ||| 일부는 그렇게 말했죠. 그리고 곧 정반대임을 알았습니다. 환자의 길을 지키는 국가가 자신이 주권자임을 보여 준다는 걸요.
+SISSOKO: Un'idea interessante. ||| 흥미로운 생각이군요.
++ bozza = 초안
++ corridoio umanitario = 인도주의 회랑
++ tracciabilità = 추적 가능성
++ responsabilità condivisa = 공동 책임
++ sovranità = 주권
++ presupporre = 전제하다
++ finanziamento = 자금 지원
++ verificabile = 검증 가능한
++ Solferino = 솔페리노(1859 전투, 적십자 운동의 계기)
+
+## 병원은 총을 모른다 — GLI OSPEDALI NON CONOSCONO LE ARMI
+FAVRE: Ministro, posso aggiungere un ricordo personale? ||| 장관님, 개인적인 기억 하나를 덧붙여도 될까요?
+SISSOKO: Dica. ||| 말씀하세요.
+FAVRE: Sono medico di formazione. Ho lavorato in nove guerre. In nessuna ho mai visto una clinica con una pistola davanti, e un'altra con un fucile dietro. ||| 저는 의사 출신입니다. 아홉 번의 전쟁에서 일했어요. 앞에 권총이 있는 병원과 뒤에 소총이 있는 병원을 한꺼번에 본 적은 한 번도 없습니다.
+SISSOKO: Capisco. ||| 알겠습니다.
+FAVRE: Le armi, se ci sono, stanno fuori. E sa perché? ||| 무기가 있다면 밖에 있어요. 왜인지 아십니까?
+SISSOKO: Perché non entrano. ||| 들어오지 못하니까요.
+FAVRE: No. Perché gli ospedali non conoscono le armi. Non hanno un posto per riporle. ||| 아니요. 병원은 총을 모르기 때문입니다. 놓아 둘 자리가 없어요.
+DIALLO: Bella immagine. ||| 멋진 표현이네요.
+FAVRE: Vecchia. Ma buona. ||| 오래됐지만 좋은 말이죠.
+CORRADO: Ministro Sissoko, le propongo di ragionare per articoli. ||| 시소코 장관님, 조항별로 논의하자고 제안합니다.
+SISSOKO: Volentieri. ||| 기꺼이요.
+CORRADO: Articolo uno. «Le strutture sanitarie del distretto di Ndolo sono protette e accessibili giorno e notte». ||| 제1조. "놀로 지구의 보건 시설은 보호되며 밤낮으로 접근할 수 있다."
+SISSOKO: «Giorno e notte». Perché lo sottolinea? ||| '밤낮으로'. 왜 강조하시죠?
+CORRADO: Perché è la cosa che la gente del villaggio chiede da anni. ||| 마을 사람들이 몇 해째 요구해 온 것이니까요.
+SISSOKO: È una richiesta ragionevole. ||| 합리적인 요구군요.
+CORRADO: Articolo due. «L'emblema della Croce Rossa o della Mezzaluna Rossa sarà esposto sulla porta». ||| 제2조. "적십자 또는 적신월 표장이 문에 게시된다."
+FAVRE: Il Comitato è d'accordo, a condizione che a esporlo sia un cittadino mandano. ||| 위원회는 동의합니다, 게시하는 사람이 만다 시민이라는 조건으로요.
+SISSOKO: Perché? ||| 왜죠?
+FAVRE: Perché un emblema che viene da fuori, quando la nave se ne va, si stacca. ||| 밖에서 온 표장은 배가 떠나면 떨어지니까요.
+SISSOKO: Questo lo accetto. ||| 그건 받아들이겠습니다.
+CORRADO: Articolo tre. «Ogni movimento di personale e di materiale sul corridoio sarà annotato in un registro pubblico, consultabile da chiunque». ||| 제3조. "회랑에서의 모든 인력·물자 이동은 누구나 열람할 수 있는 공개 장부에 기록된다."
+SISSOKO: Pubblico. Questa parola mi preoccupa. ||| 공개라. 그 말이 걱정됩니다.
+KOVACS: Signor ministro, per l'Unione Europea questa è la condizione dei tre milioni. ||| 장관님, 유럽연합에게는 이것이 300만 유로의 조건입니다.
+SISSOKO: Anche per i vostri contribuenti, immagino. ||| 납세자들을 위해서겠죠.
+KOVACS: Anche per i vostri. ||| 장관님의 납세자들도 마찬가지입니다.
+SISSOKO: Dottor Lanza, mi lasci pensare. ||| 란차 박사, 생각할 시간을 주십시오.
+CORRADO: Certo. Siamo qui da due ore. Che ne direbbe di una pausa? ||| 물론입니다. 두 시간째군요. 쉬어 가면 어떻습니까?
+SISSOKO: Volentieri. ||| 좋습니다.
+CORRADO: C'è una cucina, in questo palazzo. Mia madre, buonanima, diceva che nessuna firma regge su uno stomaco vuoto. ||| 이 건물에 주방이 있습니다. 저희 어머니가 하늘에서 평안하시길, 빈속 위에서는 어떤 서명도 버티지 못한다고 하셨어요.
+SISSOKO: Una cucina? ||| 주방이요?
+CORRADO: La cucina della mensa. Dove lavora il signor Armando da trent'anni. ||| 구내식당 주방입니다. 아르만도 씨가 30년째 일하는 곳이죠.
+
++ non conoscere le armi = 무기를 모른다(병원은 무기와 무관하다는 은유)
++ ragionare per articoli = 조항별로 논의하다
++ sottolineare = 강조하다
++ a condizione che = ~라는 조건으로(+접속법)
++ staccarsi = 떨어지다, 벗겨지다
++ lasciami pensare = 생각할 시간을 줘
++ una pausa = 휴식
+
+## 주방에서 — IN CUCINA
+ARMANDO: Eccellenza, mi dicono che lei è il ministro. In cucina non si usa il titolo. Si usa il grembiule. ||| 각하, 장관님이라고 들었습니다. 주방에서는 직함 대신 앞치마를 씁니다.
+SISSOKO: Grembiule. Ne ho uno a casa, con una macchia di tè. ||| 앞치마요. 집에 차 얼룩이 묻은 게 하나 있습니다.
+ARMANDO: Macchie di tè. Benissimo. Si comincia da lì. ||| 차 얼룩이라. 좋습니다. 거기서부터 시작하죠.
+CORRADO: Armando, facciamo una carbonara. Ma il ministro la fa a modo suo. ||| 아르만도 씨, 카르보나라를 만들어요. 하지만 장관님이 자기 방식으로 만드십니다.
+SISSOKO: A modo mio? Non so fare la carbonara. ||| 제 방식이요? 카르보나라는 못 만드는데요.
+CORRADO: Non importa. Faccia il piatto del suo paese, con i nostri ingredienti. ||| 상관없습니다. 장관님 나라의 요리를 우리 재료로 만드세요.
+SISSOKO: Allora... riso, cipolla, pesce affumicato. Una specie di thiéboudienne. ||| 그럼… 쌀, 양파, 훈제 생선. 일종의 티에부디엔이군요.
+ARMANDO: Il pesce affumicato non ce l'ho. Ho il guanciale. ||| 훈제 생선은 없어요. 관찬레는 있습니다.
+SISSOKO: Il guanciale è maiale. ||| 관찬레는 돼지고기죠.
+CORRADO: Ministro, mi scusi. Non ci avevo pensato. ||| 장관님, 죄송합니다. 생각을 못 했습니다.
+SISSOKO: Non importa. Porta il tonno in scatola? ||| 괜찮습니다. 참치 통조림은 있습니까?
+ARMANDO: Ne ho dodici casse. ||| 열두 상자 있어요.
+SISSOKO: Allora faccio il mio piatto con il tonno. E lei, signor Armando, fa il suo con il guanciale. ||| 그럼 참치로 제 요리를 하겠습니다. 아르만도 씨는 관찬레로 하시고요.
+ARMANDO: Due piatti. ||| 요리 둘이군요.
+SISSOKO: Due piatti, una sola tavola. ||| 요리 둘, 식탁은 하나.
+CORRADO: Lo sapevo che avrebbe trovato la soluzione prima di me. ||| 장관님이 저보다 먼저 해법을 찾으실 줄 알았습니다.
+SISSOKO: Quale soluzione? ||| 무슨 해법이요?
+CORRADO: Due piatti, una tavola. Due testi, una strada. ||| 요리 둘에 식탁 하나. 텍스트 둘에 길 하나.
+SISSOKO: Dottor Lanza, lei fa sempre così? ||| 란차 박사, 늘 이런 식입니까?
+CORRADO: Quasi sempre. ||| 거의 늘요.
+SISSOKO: È un metodo molto... italiano. ||| 아주 이탈리아적인 방법이군요.
+CORRADO: Lo prendo come un complimento. ||| 칭찬으로 받겠습니다.
++ grembiule = 앞치마
++ guanciale = 관찬레(돼지 볼살 염장)
++ tonno in scatola = 참치 통조림
++ buonanima = 고인(하늘에서 평안하길)
++ emblema = 표장
++ Mezzaluna Rossa = 적신월
++ registro pubblico = 공개 장부
++ contribuente = 납세자
+
+## 최종 문안과 전화 — IL TESTO FINALE
+SISSOKO: Dottor Lanza, ho parlato con il mio presidente. Accetta due nomi. Accetta il registro pubblico. Ma pone una condizione. ||| 란차 박사, 대통령과 통화했습니다. 이름 둘을 받아들이고 공개 장부도 받아들입니다. 하지만 조건이 하나 있습니다.
+CORRADO: Quale? ||| 어떤 겁니까?
+SISSOKO: Che il comitato di sorveglianza della strada sia composto da persone del distretto. Anziani, medici, un rappresentante delle famiglie. Non da stranieri. ||| 길을 감독하는 위원회가 지구 사람들로 구성되는 것입니다. 어르신, 의사, 가족 대표로요. 외국인은 안 됩니다.
+CORRADO: Io avrei proposto proprio questo. ||| 저도 그렇게 제안하려던 참입니다.
+SISSOKO: Allora siamo d'accordo. E c'è un nome che voglio mettere nel comitato. ||| 그럼 합의입니다. 위원회에 넣고 싶은 이름이 하나 있습니다.
+CORRADO: Chi? ||| 누굽니까?
+SISSOKO: Abdoulaye. L'anziano del villaggio. Quello con cui lei parla. ||| 압둘라예. 마을 어르신입니다. 박사님이 통화하는 분이요.
+CORRADO: Lo sa? ||| 아십니까?
+SISSOKO: In Mandà ci si conosce tutti. E sappiamo chi parla con chi. ||| 만다에서는 다 아는 사이입니다. 누가 누구와 이야기하는지도 알죠.
+CORRADO: Ministro. ||| 장관님.
+SISSOKO: Non faccia quella faccia. Io non sono contro di lui. Io voglio che il villaggio lo senta. Che veda che il governo lo riconosce. ||| 그런 표정 짓지 마십시오. 저는 그분에게 반대하는 게 아닙니다. 마을이 느끼길 바랍니다. 정부가 그분을 인정한다는 걸 보길요.
+CORRADO: Questo cambia molto. ||| 많은 게 바뀝니다.
+SISSOKO: Anch'io lo spero. ||| 저도 그러길 바랍니다.
+ABDOULAYE: Allô, Lanza? Mi hanno detto di chiamare. ||| 알로, 란차 씨? 전화하라고 하더군요.
+CORRADO: Abdoulaye, ho una notizia. Il governo ha accettato che lei sieda nel comitato della strada. ||| 압둘라예 씨, 소식이 있습니다. 정부가 당신이 길 위원회에 앉는 것을 받아들였습니다.
+ABDOULAYE: Io? ||| 제가요?
+CORRADO: Lei. Con il ministro che lo propone. ||| 당신이요. 장관이 직접 제안했습니다.
+ABDOULAYE: Il ministro Sissoko? ||| 시소코 장관이요?
+CORRADO: Lui. È accanto a me. ||| 네. 제 옆에 있습니다.
+SISSOKO: Abdoulaye, c'est moi. Je t'ai connu à l'école, il y a quarante ans. ||| 압둘라예, 나일세. 40년 전 학교에서 알았지.
+ABDOULAYE: Sissoko! Le petit Moussa? ||| 시소코! 꼬마 무사?
+SISSOKO: Le petit Moussa, oui. ||| 꼬마 무사, 맞아.
+ABDOULAYE: Lanza, io non lo sapevo. ||| 란차 씨, 저는 몰랐습니다.
+CORRADO: Nemmeno io. ||| 저도요.
+ABDOULAYE: Dica ai ragazzi che c'è una notizia. Una buona. ||| 아이들에게 소식이 있다고 전해 주세요. 좋은 소식이요.
+CORRADO: Lo dica lei. Una cosa soltanto: tre giorni. Tre giorni, e un osservatore umanitario viene a vedere la porta. Un medico della Croce Rossa. Non un soldato. ||| 당신이 전해 주세요. 한 가지만요. 사흘 뒤에 인도주의 감시관이 문을 보러 갑니다. 적십자 의사입니다. 군인이 아닙니다.
+ABDOULAYE: Un medico. ||| 의사요.
+CORRADO: Un medico. ||| 의사입니다.
+FAVRE: Se mi permette, dottor Lanza, il medico sono io. ||| 실례지만 란차 박사, 그 의사가 접니다.
+CORRADO: Lei? ||| 박사님이요?
+FAVRE: Ho sessantaquattro anni e un'ultima missione in tasca. Preferisco usarla così. ||| 예순넷에 마지막 임무 하나를 쥐고 있습니다. 이렇게 쓰고 싶습니다.
+CORRADO: Abdoulaye, ha sentito? ||| 압둘라예 씨, 들었습니까?
+ABDOULAYE: Ho sentito. Dica al signor medico che la porta è di legno. Si apre con una spinta. Ma da tre anni nessuno la spinge. ||| 들었습니다. 의사 선생님께 전해 주세요. 문은 나무고 밀면 열립니다. 하지만 3년 동안 아무도 밀지 않았어요.
+FAVRE: La spingerò io. ||| 제가 밀겠습니다.
++ comitato di sorveglianza = 감독 위원회
++ anziano = 어르신
++ pone una condizione = 조건을 단다
++ osservatore umanitario = 인도주의 감시관
++ si apre con una spinta = 밀면 열린다
++ piccolo = 꼬마(프랑스어 petit)

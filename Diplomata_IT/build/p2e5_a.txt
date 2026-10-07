@@ -1,0 +1,67 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 5
+@title La conferenza di Roma
+@ko 로마 회의
+@setting 금요일 파르네시나 대회의실 → 휴식 시간 외무부 구내식당 주방 → 오후 최종 문안 → 저녁 파르네시나 테라스
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast DIALLO | 유엔 인도주의조정 담당관, 50세
+@cast FAVRE | 적십자국제위원회 대표, 64세
+@cast KOVACS | EU 인도지원국 대표, 45세
+@cast SISSOKO | 만다 공화국 보건장관, 60세
+@cast ABDOULAYE | 놀로 마을 중재인(전화), 60세
+@cast ARMANDO | 외무부 구내식당 요리사, 61세
+@note 5화는 일반 협상의 화입니다. 유엔·적십자·EU·만다 정부·이탈리아가 로마에서 '인도주의 회랑 협정'의 초안을 놓고 마주 앉습니다. 만다 장관은 '회랑'이 주권 침해라고 반발합니다. 해법의 씨앗은 하나의 합의에 두 이름(만다식·이탈리아식)을 붙이는 것, 그리고 적십자 대표의 '병원은 총을 모른다'는 원칙입니다. 역사 논거는 솔페리노 전투(1859)와 앙리 뒤낭, 그리고 1864년 제네바 협약입니다. 롬바르디아 솔페리노의 부상병을 돌본 마을 여인들의 '모두가 형제'라는 말이 적십자 운동의 출발점이 됐습니다. 어휘는 다자 협상(corridoio umanitario, bozza, emblema, neutralità, sovranità)에 주목하세요.
+@next 6화: 란차는 아들 레오와 이야기하며 오르솔리니와 맞서는 방법을 찾습니다. 레오의 철학 숙제는 '약속은 누구에게 하는 것인가'입니다.
+
+## 대회의실 — LA SALA GRANDE
+ORSOLINI: Signore e signori, a nome del ministro, benvenuti alla Farnesina. Oggetto: bozza di accordo sul corridoio umanitario del distretto di Ndolo. Prego, dottoressa Diallo. ||| 신사 숙녀 여러분, 장관님을 대신해 파르네시나에 오신 걸 환영합니다. 안건은 놀로 지구의 인도주의 회랑 협정 초안입니다. 디알로 박사님, 말씀하세요.
+DIALLO: Grazie, ambasciatore. Le Nazioni Unite hanno quattro priorità: accesso sicuro, tracciabilità, neutralità e responsabilità condivisa. ||| 감사합니다, 대사님. 유엔의 우선순위는 넷입니다. 안전한 접근, 추적 가능성, 중립성, 그리고 공동 책임입니다.
+KOVACS: L'Unione Europea sostiene la proposta e metterebbe sul tavolo un finanziamento di tre milioni, a condizione che ogni spesa sia verificabile. ||| 유럽연합은 이 제안을 지지하며 300만 유로 자금을 내놓을 수 있습니다. 단, 모든 지출을 검증할 수 있어야 합니다.
+FAVRE: Il Comitato internazionale della Croce Rossa, per ora, ascolta. ||| 적십자국제위원회는 지금은 듣겠습니다.
+CORRADO: «Per ora». ||| '지금은'이군요.
+FAVRE: Per ora. Nella mia carriera, chi parla per primo ha quasi sempre torto. ||| 지금은요. 제 경력에서 먼저 말하는 사람은 거의 늘 틀렸습니다.
+CORRADO: Gliene sono grato. ||| 감사합니다.
+ORSOLINI: Signor ministro Sissoko, a lei la parola. ||| 시소코 장관님, 발언하십시오.
+SISSOKO: Merci. Grazie. Parlo italiano da quando ho studiato a Perugia, trent'anni fa. Ma userò il francese per le parti difficili. ||| 메르시. 감사합니다. 저는 30년 전 페루자에서 공부한 뒤로 이탈리아어를 합니다. 하지만 어려운 부분은 프랑스어로 하겠습니다.
+CORRADO: Come preferisce. ||| 편하신 대로요.
+SISSOKO: Allora, in italiano: il mio governo non accetta la parola «corridoio». ||| 그럼 이탈리아어로 말씀드립니다. 우리 정부는 '회랑'이라는 말을 받아들이지 않습니다.
+DIALLO: Perché? ||| 왜죠?
+SISSOKO: Perché un corridoio presuppone che ci sia uno Stato che non controlla il suo territorio. E il Mandà ha un territorio e ha un controllo. ||| 회랑은 자기 영토를 통제하지 못하는 국가가 있다고 전제하니까요. 만다에는 영토가 있고 통제가 있습니다.
+KOVACS: Signor ministro, nessuno vuole offendere la sovranità. ||| 장관님, 누구도 주권을 모욕할 뜻이 없습니다.
+SISSOKO: Allora non si usi la parola che dice il contrario. ||| 그럼 그 반대를 뜻하는 말을 쓰지 마십시오.
+CORRADO: Ministro, posso farle una domanda? ||| 장관님, 질문 하나 해도 되겠습니까?
+SISSOKO: Dottor Lanza, so chi è. Prego. ||| 란차 박사, 압니다. 하세요.
+CORRADO: Come si chiama, nella sua lingua, la strada che porta a una clinica? ||| 장관님의 언어로 병원에 가는 길은 뭐라고 부릅니까?
+SISSOKO: La... la strada del malato. «Dugu-sira». ||| 환자의 길입니다. '두구시라'.
+CORRADO: Dugu-sira. E se lo scrivessimo così? ||| 두구시라. 그렇게 쓰면 어떨까요?
+SISSOKO: Come? ||| 어떻게요?
+CORRADO: Nel testo mandano: «Dugu-sira», la strada del malato. Nel testo italiano: «corridoio umanitario». Due testi, due nomi, una sola strada. ||| 만다어 텍스트에는 '두구시라', 환자의 길. 이탈리아어 텍스트에는 '인도주의 회랑'. 텍스트 둘, 이름 둘, 길은 하나입니다.
+SISSOKO: Due nomi. ||| 이름이 둘이라.
+CORRADO: La stessa cosa si fece nel mille ottocento sessantaquattro. ||| 1864년에 같은 일을 했습니다.
+FAVRE: Ah. Ginevra. ||| 아. 제네바군요.
+CORRADO: Ginevra. Ma prima, Solferino. ||| 제네바죠. 하지만 먼저 솔페리노입니다.
+FAVRE: Vuole raccontarla lei? ||| 직접 이야기하시겠습니까?
+CORRADO: Con piacere. Il ventiquattro giugno 1859. La battaglia di Solferino, in Lombardia. In un solo giorno, quarantamila tra morti e feriti. ||| 기꺼이요. 1859년 6월 24일, 롬바르디아의 솔페리노 전투입니다. 하루에 사망자와 부상자가 4만 명이었죠.
+DIALLO: Un'enormità. ||| 엄청난 수죠.
+CORRADO: Un uomo di Ginevra, Henri Dunant, passava di lì per affari. E vide i feriti abbandonati nei campi e nelle chiese di Castiglione. ||| 제네바 사람 앙리 뒤낭이 사업차 지나가다 카스티리오네의 들과 성당에 버려진 부상병들을 봤어요.
+FAVRE: Li vide morire. ||| 죽어 가는 걸 봤죠.
+CORRADO: E vide anche un'altra cosa. Le donne del paese. Che curavano i soldati, austriaci e francesi, senza chiedere da che parte stessero. E dicevano: «Tutti fratelli». ||| 그리고 다른 것도 봤어요. 마을 여인들이 오스트리아 병사든 프랑스 병사든 어느 편인지 묻지 않고 돌봤어요. 그러면서 '모두가 형제'라고 했죠.
+FAVRE: «Tutti fratelli». Sì. Dunant lo scrisse nel libro. ||| '모두가 형제'. 그렇죠. 뒤낭이 책에 썼어요.
+CORRADO: Cinque anni dopo, dodici Stati firmarono a Ginevra la prima convenzione: i feriti, e chi li cura, sono neutrali. ||| 5년 뒤 열두 개 국가가 제네바에서 첫 협약에 서명했습니다. 부상자와 그들을 돌보는 사람은 중립이라고요.
+SISSOKO: E gli Stati dissero: è una violazione della sovranità? ||| 그러면 국가들은 주권 침해라고 하지 않았습니까?
+CORRADO: Qualcuno lo disse. E poi capirono che era l'opposto. Che uno Stato che protegge la strada del malato dimostra di essere sovrano. ||| 일부는 그렇게 말했죠. 그리고 곧 정반대임을 알았습니다. 환자의 길을 지키는 국가가 자신이 주권자임을 보여 준다는 걸요.
+SISSOKO: Un'idea interessante. ||| 흥미로운 생각이군요.
++ bozza = 초안
++ corridoio umanitario = 인도주의 회랑
++ tracciabilità = 추적 가능성
++ responsabilità condivisa = 공동 책임
++ sovranità = 주권
++ presupporre = 전제하다
++ finanziamento = 자금 지원
++ verificabile = 검증 가능한
++ Solferino = 솔페리노(1859 전투, 적십자 운동의 계기)
