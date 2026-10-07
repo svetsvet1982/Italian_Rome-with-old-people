@@ -1,0 +1,254 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 4
+@title Il tavolo delle sei sponde
+@ko 여섯 해안의 탁자
+@setting 6월 14일 금요일, 4일째 · 아침 몰타 발레타의 요새 회의실 → 낮 요새 카페 → 오후 원탁 회의 → 저녁 만찬 → 밤 전화
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast ZAMMIT | 몰타 대표(주최국) 차미트
+@cast DELCOURT | 프랑스 대표 델쿠르 대사(여)
+@cast PAPADAKIS | 그리스 대표 파파다키스
+@cast VALDES | 스페인 대표 이네스 발데스 대사, 57세
+@cast SAADI | 타르시아 장관
+@cast ZERHOUNI | 타르시아 국방장관 하킴 제르후니, 63세
+@cast MANSOURI | 타르시아 국가안보국 대령 카림 만수리, 51세
+@cast FERRETTI | 레오나르도 홀딩 측 변호사 페레티, 59세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast LEO | 란차의 아들, 17세(전화)
+@cast MANINI | 바티칸 국무원 몬시뇰 카를로 마니니, 53세
+@cast CONCETTA | 노나 콘체타, 86세(전화)
+@note 4부 4화는 '탁자'의 화입니다. 몰타 발레타의 오래된 요새에서 이탈리아·타르시아·프랑스·그리스·스페인·몰타 여섯 나라가 처음으로 한 식탁에 앉습니다. 시작은 자리 다툼입니다. 제르후니는 섬에 가장 가까운 쪽이, 코르비는 군함을 먼저 보낸 쪽이, 델쿠르는 마지막에 말하는 쪽이 상석이라고 주장합니다. 해법의 순간은 원탁에 의자 일곱 개, 그중 하나는 빈 의자이고, 바다가 보이는 자리는 한 시간마다 한 칸씩 돕니다. 역사 논거는 롬바르디아 동맹(1167년 결성)입니다. 도시마다 대표(rettori)를 보내 서열 없이 앉았고, 한 도시가 으뜸이 되지 않도록 결정은 함께 내렸으며, 훗날 1183년 콘스탄차 평화로 이어졌습니다. 유엔 총회가 해마다 추첨으로 시작 국가를 정하고 알파벳순으로 앉는 관행도 보조 논거로 쓰입니다. 산드리의 에스프레소는 이 롬바르디아 동맹의 대표들 이야기이고, 레오는 전화로 사르트르의 '부재'(카페에 없는 피에르)를 묻습니다. 빈 의자는 비어 있어도 무언가를 말합니다. 어휘는 의전·회의(capotavola, ordine del giorno, sorteggio, turno, osservatore)와 접속법(sebbene, a patto che, nel caso in cui)에 주목하세요.
+@next 4-5 «기증 문서» — 바티칸의 이름을 단 양피지가 나타나 섬이 옛 교황령의 것이라고 주장합니다. 한 동사가 모든 걸 드러냅니다.
+
+## 일곱 개의 의자 — LA SALA DEL FORTE
+ZAMMIT: Eccolo. Questo è il tavolo. Quattro metri e dieci di quercia, tre secoli di cera di candela, due macchie di vino che nessun restauratore ha avuto il coraggio di togliere. ||| 여기예요. 이게 그 탁자입니다. 지름 4미터 10센티미터의 참나무에 촛농이 삼 세기 쌓였고, 어떤 복원가도 감히 지우지 못한 포도주 얼룩이 둘 있어요.
+CORRADO: Sette sedie. Quanti siamo? ||| 의자 일곱 개라. 우리가 몇 명이죠?
+ZAMMIT: Sei delegazioni. Una sedia resta vuota. Come hai chiesto. ||| 대표단이 여섯입니다. 의자 하나는 비고요. 요청하신 대로요.
+GIULIA: E il sole? Questa è la parte che mi preoccupa. ||| 햇빛은요? 제가 걱정되는 부분이 거기예요.
+ZAMMIT: Hai ragione. Quella finestra dà sul mare, e verso mezzogiorno il sole entra dritto. Chi ha le spalle alla finestra vede il mare nel riflesso dei bicchieri. Chi ha la faccia alla finestra, sta in controluce e non vede le facce degli altri. ||| 맞아요. 저 창은 바다 쪽이고 정오쯤이면 햇빛이 곧장 들어와요. 창을 등지고 앉은 사람은 잔에 비친 바다를 보고, 창을 마주한 사람은 역광이라 다른 사람 얼굴이 안 보여요.
+CORRADO: Quindi i due posti migliori sono opposti. ||| 그러니까 가장 좋은 두 자리가 정반대군요.
+ZAMMIT: E a nessuno piace il posto in controluce. Ma tutti vogliono il posto da cui si vede il mare. ||| 그런데 역광 자리는 아무도 안 좋아하고 바다가 보이는 자리는 모두가 원하죠.
+GIULIA: Allora il problema non è la sedia. È la finestra. ||| 그러니까 문제는 의자가 아니라 창이네요.
+CORRADO: Giulia, un'ottima definizione. Zammit, il tavolo si muove? ||| 줄리아, 훌륭한 정의예요. 차미트, 탁자는 움직입니까?
+ZAMMIT: Il tavolo no. Pesa quasi una tonnellata. Le sedie sì. ||| 탁자는 안 움직여요. 거의 1톤이거든요. 의자는 움직이고요.
+CORRADO: Le sedie sì. Segnati questa frase, Giulia. ||| 의자는 움직인다. 줄리아, 이 문장 적어 둬요.
+ZAMMIT: Parliamo italiano, tra l'altro. Per decisione di sei persone che hanno perso a pari e dispari. ||| 그리고 우리는 이탈리아어로 말합니다. 홀짝 가위바위보에서 진 여섯 사람의 결정으로요.
+CORRADO: A pari e dispari? ||| 홀짝으로요?
+ZAMMIT: Delcourt voleva il francese, Papadakis il greco, Valdés lo spagnolo. Nessuno ha perso la dignità, e l'italiano è la lingua che tutti capiscono ma nessuno vuole parlare. ||| 델쿠르는 프랑스어, 파파다키스는 그리스어, 발데스는 스페인어를 원했죠. 아무도 체면을 잃지 않았고 이탈리아어는 모두가 알아듣지만 아무도 쓰고 싶어 하지 않는 언어예요.
+ORSOLINI: Corrado, Zerhouni è appena sbarcato dall'aereo. Con lui Saadi, e un ufficiale che non conosco. ||| 코라도, 제르후니가 방금 비행기에서 내렸네. 사아디와 같이, 그리고 내가 모르는 장교 한 명도 함께야.
+CORRADO: Un ufficiale. Con le spalline? ||| 장교요? 견장을 단 사람이요?
+ORSOLINI: Con la valigetta. È peggio. ||| 서류 가방을 들고 있네. 그게 더 안 좋아.
+CORRADO: Luca, prima che entrino: dobbiamo decidere chi parla per primo. Io propongo che non siamo noi. ||| 루카, 들어오기 전에 누가 먼저 말할지 정해야 해요. 제 제안은 우리가 아니라는 겁니다.
+ORSOLINI: E chi? ||| 그럼 누구?
+CORRADO: Il tavolo. ||| 탁자요.
+ORSOLINI: Il tavolo non parla, Corrado. ||| 탁자는 말을 안 해, 코라도.
+CORRADO: Parla, Luca, parla. Dice dove ti siedi, che cosa vedi, e chi ti vede. ||| 합니다, 루카. 어디에 앉는지, 무엇이 보이는지, 누가 나를 보는지를 말해 주죠.
+CORVI: Dottor Lanza, buongiorno. Mi hanno detto che qui si decide con le sedie. ||| 란차 박사님, 안녕하십니까. 여기서는 의자로 결정한다고 들었습니다.
+CORRADO: Ammiraglio, buongiorno. Non si decide con le sedie, ma con ciò che le sedie rendono possibile. ||| 제독님, 안녕하십니까. 의자로 결정하는 게 아니라 의자가 가능하게 하는 것으로 결정합니다.
+CORVI: Questa è filosofia da liceo. ||| 고등학생 철학이군요.
+CORRADO: Mio figlio ha diciassette anni e frequenta il liceo. Non mi offendo. ||| 제 아들이 열일곱이고 리체오에 다닙니다. 기분 나쁘지 않아요.
+CORVI: Dottore, Lei sa che a me importa una cosa soltanto. Chi siede al capotavola decide l'ordine del giorno. ||| 박사님, 저는 한 가지만 중요합니다. 상석에 앉은 사람이 안건 순서를 정합니다.
+CORRADO: Lo so, ammiraglio. Per questo il tavolo è rotondo. ||| 압니다, 제독님. 그래서 탁자가 둥근 겁니다.
+CORVI: Rotondo? Un tavolo rotondo è una cortesia, non una strategia. ||| 둥글다고요? 원탁은 예의일 뿐 전략이 아닙니다.
+CORRADO: Ammiraglio, lo dica a re Artù. ||| 제독님, 아서 왕에게 말씀하십시오.
+GIULIA: Arrivano. ||| 도착해요.
++ tre secoli di cera di candela = 삼 세기 쌓인 촛농. 오래된 가구를 묘사하는 구체적 이미지
++ in controluce = 역광으로. 'contro' + 'luce'로 얼굴이 어둡게 보이는 상황
++ pari e dispari = 홀짝. 손가락으로 홀수·짝수를 맞히는 놀이로 가볍게 결정할 때 쓴다
++ tra l'altro = 그건 그렇고, 덧붙여. 주제를 덧붙일 때 쓰는 연결어
++ prima che entrino = 그들이 들어오기 전에. 'prima che + 접속법'
++ con la valigetta = 서류 가방을 들고. 견장 달린 군인보다 서류 가방 든 사람이 더 위험하다는 오르솔리니의 농담
++ ordine del giorno = 안건 순서(의사 일정). 상석의 사람이 정한다는 주장은 회의의 현실을 반영한다
++ cortesia, non strategia = 예의이지 전략이 아니다. 대구를 이용한 코르비의 반박
+
+## 상석 — IL CAPOTAVOLA
+ZERHOUNI: Buongiorno a tutti. Ministro Saadi, voglia presentare la delegazione. ||| 여러분 안녕하십니까. 사아디 장관, 대표단을 소개해 주십시오.
+SAADI: Il ministro Zerhouni, la dottoressa Brahimi, geologa, e il colonnello Mansouri, del Servizio di sicurezza. ||| 제르후니 장관님, 지질학자 브라히미 박사, 그리고 보안국의 만수리 대령입니다.
+CORRADO: Colonnello Mansouri, già ci siamo conosciuti. Non mi dica che è venuto con la valigetta per leggere il menù. ||| 만수리 대령님, 이미 뵌 적이 있죠. 메뉴를 읽으려고 서류 가방을 들고 오신 건 아니겠지요?
+MANSOURI: Dottor Lanza, la valigetta contiene un termos. Il tè alla menta di mia moglie. Non mi fido del tè altrui. ||| 란차 박사님, 가방에는 보온병이 들어 있습니다. 아내가 끓인 박하차예요. 남의 차는 못 믿어서요.
+CORRADO: Allora ci sediamo tutti con la fiducia nel tè. ||| 그럼 모두 박하차를 믿고 앉읍시다.
+ZAMMIT: Signori, prego. Il tavolo è rotondo. Ogni sedia ha un numero scritto sotto, e nessuno sa quale. ||| 여러분, 앉으십시오. 탁자는 둥글고 의자마다 밑에 번호가 쓰여 있는데 아무도 어느 것인지 모릅니다.
+DELCOURT: Ambasciatrice Delcourt, per la Francia. Un'osservazione di metodo, prima. Nel mio paese il capotavola spetta a chi parla per ultimo, perché è colui che conclude. ||| 프랑스의 델쿠르 대사입니다. 먼저 방법상의 한 가지 의견이 있습니다. 우리나라에서는 맨 마지막에 말하는 사람이 결론을 내리니까 상석이 그의 몫입니다.
+PAPADAKIS: Con tutto il rispetto, ambasciatrice, in Grecia diciamo il contrario: il capotavola spetta a chi parla per primo, perché è colui che apre. ||| 대사님, 존경은 하지만 그리스에서는 반대로 말합니다. 맨 먼저 말하는 사람이 여는 사람이니 상석이 그의 몫이라고요.
+VALDES: Io sono Inés Valdés, Spagna. In Spagna un capotavola non esiste. Esiste il posto accanto alla madre. ||| 스페인의 이네스 발데스입니다. 스페인에는 상석이 없습니다. 어머니 곁자리만 있죠.
+ZERHOUNI: Signori. Un fatto. L'isola è a trentanove virgola sei miglia da Marsa Beida. Chi è più vicino alla cosa ha più diritto di vederla. Il posto di fronte alla finestra spetta a Tarsia. ||| 여러분, 사실 하나입니다. 섬은 마르사 베이다에서 39.6마일입니다. 그 대상에 가장 가까운 쪽이 그것을 볼 권리가 가장 큽니다. 창 맞은편 자리는 타르시아의 몫입니다.
+CORVI: Ministro, con tutto il rispetto, la prima nave è arrivata dall'Italia. E chi arriva per primo osserva meglio. ||| 장관님, 존경하지만 첫 군함은 이탈리아에서 왔습니다. 먼저 도착한 사람이 더 잘 관찰합니다.
+ZERHOUNI: «Prima nave». L'«Alcione» è arrivata sei ore dopo la «Tanit». ||| '첫 군함'이라고요? '알치오네'는 '타니트'보다 여섯 시간 늦게 도착했습니다.
+CORVI: Cinque ore e quaranta minuti. Ho i registri. ||| 다섯 시간 사십 분입니다. 기록이 있습니다.
+ZERHOUNI: E io le carte nautiche. ||| 저는 해도가 있습니다.
+CORRADO: Signori, ho una proposta. ||| 여러분, 제안이 하나 있습니다.
+ZERHOUNI: Una proposta del signor Lanza. Prima dell'aperitivo? ||| 란차 씨의 제안이라. 식전주도 나오기 전에요?
+CORRADO: Ministro, un aperitivo è un'idea molto più sensata di una nave. Prima il tavolo. ||| 장관님, 식전주가 군함보다 훨씬 분별 있는 생각입니다. 먼저 탁자입니다.
+FERRETTI: Mi scusi, dottor Lanza. Avvocato Ferretti, per gli operatori iscritti al Registro. Chiedo un posto da osservatore. ||| 실례합니다, 란차 박사님. 등록부에 올라 있는 사업자들을 대리하는 페레티 변호사입니다. 참관인 자리를 요청합니다.
+CORRADO: Avvocato, benvenuto. Il Registro prevede osservatori. Lei siederà su una delle due panche in fondo, con gli altri osservatori: l'Unione europea, la Croce Rossa, e i rappresentanti dei pescatori. ||| 변호사님, 어서 오십시오. 등록부 규정에는 참관인이 있습니다. 변호사님은 뒤쪽 두 벤치 중 하나에 EU, 적십자, 어민 대표 같은 다른 참관인들과 앉으시게 됩니다.
+FERRETTI: I pescatori? Gli operatori ordinari? ||| 어민이요? 일반 사업자들 말입니까?
+CORRADO: Esatto, gli operatori più ordinari che ci siano. Hanno la precedenza sul fumo. ||| 맞습니다. 이 세상에서 가장 평범한 사업자들이죠. 연기에 대한 우선권이 있고요.
+FERRETTI: Dottor Lanza, il Registro dà priorità negoziale agli operatori che hanno presentato domande. La nostra è del dieci giugno. ||| 란차 박사님, 등록부는 신청서를 낸 사업자에게 협상 우선권을 줍니다. 저희 신청서는 6월 10일 자입니다.
+CORRADO: Ricordo bene la data. Lei ha depositato un giorno dopo l'isola. Ma il Registro, come sa, scrive i nomi in ordine alfabetico, non d'arrivo. ||| 날짜는 잘 기억합니다. 섬이 생긴 다음 날 제출하셨죠. 하지만 등록부는 아시다시피 도착순이 아니라 알파벳순으로 이름을 씁니다.
+FERRETTI: Ricevuto. Mi siedo sulla panca. Per ora. ||| 알겠습니다. 벤치에 앉겠습니다. 지금은요.
+GIULIA: Per ora. Ha detto proprio «per ora». ||| '지금은'이라고 했어요. 분명히 그렇게 말했어요.
+CORRADO: Li ho sentiti. ||| 들었어요.
+ZERHOUNI: Torniamo alla mia sedia. Se non c'è un capotavola, non c'è un tavolo. ||| 제 의자 이야기로 돌아갑시다. 상석이 없으면 탁자도 없습니다.
+CORRADO: Ministro, allora lasci che le racconti dove è nata la nostra idea di «tavolo senza capo». Ma non qui. Ci sediamo? Alle dodici e trenta, caffè con un amico che la storia l'ha vissuta. ||| 장관님, 그럼 '머리 없는 탁자'라는 생각이 어디서 나왔는지 말씀드리겠습니다. 하지만 여기서는 아닙니다. 앉으시겠습니까? 12시 반에 역사를 몸으로 겪은 친구와 커피를 하시지요.
+SAADI: Zerhouni, accetta il caffè. Almeno ci riposiamo. ||| 제르후니 장관님, 커피를 받으시지요. 그래도 좀 쉬지 않습니까.
+ZERHOUNI: Mezz'ora. Non una di più. ||| 30분입니다. 1분도 더는 안 됩니다.
++ spettare a = ~의 몫이다. 'il capotavola spetta a chi parla per ultimo'
++ voglia presentare = 소개해 주십시오. 'volere'의 접속법 명령법 'voglia'는 격식의 요청
++ l'osservazione di metodo = 방법상의 의견. 내용이 아니라 진행 방식에 대한 말
++ ricevuto = 알겠습니다. 군대·통신식 수신 확인
++ in controluce = 역광으로. 앞 장면의 어휘 반복
++ Per ora = 지금은. 페레티의 말에 숨은 위협을 조울리아가 짚는다
++ l'aperitivo = 식전주. 외교 모임의 가벼운 긴장 해소 수단
++ operatori più ordinari = 가장 평범한 사업자. 'ordinario'는 일상·평범을 뜻하며 코라도가 어민을 높이는 반어
+
+## 에스프레소와 롬바르디아의 대표들 — L'ESPRESSO DI SANDRI
+SANDRI: Corrado, ti ho tenuto il tavolino sotto il bastione. Da qui si vede il Grande Porto, e i gabbiani sembrano usciti da un registro. ||| 코라도, 보루 밑에 자리를 잡아 놨네. 여기서는 그랑 포트가 보이고 갈매기들은 대장에서 나온 것 같아.
+CORRADO: Eccellenza, anche a Malta? Non l'avevo vista partire. ||| 대사님, 몰타까지요? 떠나시는 걸 못 봤습니다.
+SANDRI: Ho l'abitudine di arrivare prima dei problemi. Ho preso il volo di stamattina. Allora, ti hanno già messo alla prova con il capotavola? ||| 문제보다 먼저 도착하는 버릇이 있어. 오늘 아침 비행기를 탔지. 그래, 벌써 상석으로 시험하던가?
+CORRADO: Con tre teorie diverse e un registro di bordo. ||| 서로 다른 이론 셋에 항해일지까지 나왔습니다.
+SANDRI: Bevi il caffè e ascolta. Nel 1167, sedici anni prima della pace di cui hai parlato ai tuoi vecchi, i Comuni lombardi si mettono d'accordo: la Lega. Sai quanti erano a quell'epoca? ||| 커피를 마시고 들어 보게. 1167년에, 자네가 노인들에게 말한 그 평화보다 16년 앞서 롬바르디아 도시들이 서로 약속하네. 동맹 말일세. 그때 몇 도시였는지 아나?
+CORRADO: Una ventina? ||| 스무 개쯤요?
+SANDRI: Dipende da chi conta e da quando. Ma il punto è un altro: ciascuna città mandava i suoi rettori. E nessuno era il capo. ||| 누가 세느냐와 언제냐에 달렸지. 하지만 핵심은 따로 있네. 도시마다 자기 대표들, 곧 렛토리를 보냈고 누구도 우두머리가 아니었다는 거야.
+CORRADO: E come decidevano? ||| 어떻게 결정했습니까?
+SANDRI: Insieme. Il consiglio dei rettori deliberava, e nessuna città valeva più di un voto. Sebbene Milano fosse la più grande, non poteva comandare. ||| 함께 했지. 대표 회의가 심의했고 어느 도시도 한 표 이상의 값이 없었네. 밀라노가 가장 크긴 했지만 명령할 수는 없었어.
+CORRADO: Ma una città doveva pur ospitare le riunioni. ||| 그래도 한 도시는 회의를 열어야 했을 텐데요.
+SANDRI: Ottimo. Qui sta il segreto. Chi ospita non presiede. L'ospite serve, non governa. ||| 좋은 지적일세. 여기에 비밀이 있네. 장소를 맡은 쪽은 의장이 아니야. 주최자는 시중드는 사람이지 다스리는 사람이 아니거든.
+CORRADO: Zammit ospita, e non presiede. ||| 차미트가 주최하고 의장은 아니군요.
+SANDRI: E c'è un'altra cosa. All'ONU, ogni anno, si estrae a sorte la lettera da cui comincia la fila dei posti. Poi si va in ordine alfabetico. Il caso dà il primo posto, e nessuno può dire che l'ha rubato. ||| 그리고 하나 더 있네. 유엔에서는 해마다 추첨으로 좌석 줄이 시작될 글자를 뽑아. 그다음엔 알파벳순이지. 우연이 첫 자리를 주니 아무도 훔쳤다고 말할 수 없네.
+CORRADO: Sorteggio e alfabeto. Ma la finestra? ||| 추첨과 알파벳이군요. 그런데 창은요?
+SANDRI: La finestra è l'unico problema serio. E per quella c'è una sola risposta: se il posto buono è uno, e i candidati sei, il posto deve muoversi. ||| 창이 유일한 진짜 문제지. 거기엔 답이 하나뿐이야. 좋은 자리가 하나이고 후보가 여섯이면 자리가 움직여야 해.
+CORRADO: Ogni ora un posto a destra. ||| 한 시간마다 한 자리씩 오른쪽으로요.
+SANDRI: Come l'acqua su una ruota di mulino. Nessuno resta sotto la sorgente. ||| 물레방아 바퀴에 흐르는 물처럼. 아무도 샘 밑에 머물지 않지.
+CORRADO: Eccellenza, mi ha dato l'ora. ||| 대사님, 한 시간을 주셨네요.
+SANDRI: Ti ho dato un gesto. L'ora la dai tu. Ma attento: Zerhouni accetterà se può dire che ha avuto il primo turno. ||| 몸짓 하나를 줬을 뿐이야. 시간을 주는 건 자네고. 하지만 조심하게. 제르후니는 첫 차례를 가졌다고 말할 수 있어야 받아들일 걸세.
+CORRADO: E Corvi? ||| 코르비는요?
+SANDRI: Corvi ha bisogno di sedersi per ultimo ed essere l'ultimo a lasciare. Gli piace vedere uscire gli altri. ||| 코르비는 마지막에 앉고 마지막에 떠나야 해. 다른 사람들이 나가는 걸 보는 걸 좋아하지.
+CORRADO: Allora gli diamo l'ultima. ||| 그럼 마지막 자리를 주죠.
+SANDRI: Un'ultima cosa, caro. Il posto vuoto. Non spiegarlo. Se lo spieghi, lo riempi. ||| 하나 더 있네, 이 사람아. 빈자리 말일세. 설명하지 말게. 설명하면 채워지니까.
++ rettori = 렛토리, 대표들. 롬바르디아 동맹의 도시들이 동맹 회의에 보낸 대표를 가리키는 역사 용어
++ nessuna città valeva più di un voto = 어느 도시도 한 표 이상의 값이 없었다. 서열 없는 동맹의 원칙
++ sebbene + 접속법 = 비록 ~지만. 'sebbene Milano fosse la più grande'
++ chi ospita non presiede = 주최자는 의장이 아니다. 'ospite'는 손님과 주인 둘 다를 뜻하는 단어
++ si estrae a sorte = 추첨으로 뽑는다. 'sorteggio'(추첨), 'a sorte'(운에 따라)
++ ordine alfabetico = 알파벳순. 유엔 총회·3부 등록부 모두에서 쓰인 공정 장치
++ una ruota di mulino = 물레방아 바퀴. 물이 계속 흐르며 한 자리에 머물지 않는 모양의 비유
++ Se lo spieghi, lo riempi = 설명하면 채운다. 빈 의자의 의미는 침묵으로 남겨 두라는 충고
+## 한 시간마다 한 칸 — L'ORA CHE GIRA
+CORRADO: Signori, grazie di essere tornati. Prima di cominciare propongo di non cominciare. ||| 여러분, 돌아와 주셔서 감사합니다. 시작하기 전에 시작하지 않을 것을 제안합니다.
+DELCOURT: Dottor Lanza, ho sempre detto che gli italiani hanno un'arte per i paradossi. ||| 란차 박사님, 이탈리아 사람들은 역설에 재주가 있다고 늘 말해 왔어요.
+CORRADO: Ambasciatrice, è il mio mestiere. Proposta in tre punti. Primo: il primo posto davanti alla finestra non lo scegliamo, lo estraiamo. Ho qui sei fichi secchi in un cesto. Uno solo ha un segno a matita. ||| 대사님, 그게 제 직업입니다. 제안은 세 가지입니다. 첫째, 창 앞의 첫 자리는 고르는 게 아니라 뽑습니다. 여기 바구니에 말린 무화과가 여섯 개 있고 그중 하나에만 연필 표시가 있습니다.
+ZERHOUNI: Fichi. Dottor Lanza, lei decide un tavolo con la frutta? ||| 무화과요? 란차 박사, 과일로 탁자를 정하시는 겁니까?
+CORRADO: Ministro, nella mia terra il destino arriva sempre travestito da dolce. Secondo punto: ogni ora ciascuno si sposta di una sedia verso destra. Chi sta alla finestra apre l'ora. Dopo un'ora, un altro. ||| 장관님, 우리 고향에서는 운명이 늘 디저트로 변장해서 옵니다. 둘째, 한 시간마다 모두 오른쪽으로 의자 하나씩 옮깁니다. 창 앞에 앉은 사람이 그 시간을 엽니다. 한 시간이 지나면 다른 사람이 열고요.
+VALDES: E il terzo? ||| 셋째는요?
+CORRADO: Il terzo è la sedia vuota. Si sposta anche lei, come le altre. Quando arriva davanti alla finestra, nessuno la occupa. Per un minuto si apre la finestra e si guarda il mare in silenzio. ||| 셋째는 빈 의자입니다. 빈 의자도 다른 의자와 똑같이 움직입니다. 그것이 창 앞에 오면 아무도 앉지 않고 1분 동안 창을 열어 바다를 말없이 바라봅니다.
+PAPADAKIS: Un minuto di silenzio per il mare? ||| 바다를 위한 묵념 1분입니까?
+CORRADO: Per chi non c'è ancora, signor Papadakis. Per chi arriva dopo. ||| 아직 없는 사람을 위해서입니다, 파파다키스 씨. 나중에 오는 사람을 위해서요.
+ZERHOUNI: Dottor Lanza, e se, quando arriva il mio turno alla finestra, io sono nel pieno di una frase importante? ||| 란차 박사, 창 앞에 제 차례가 왔는데 제가 중요한 말을 하던 중이면요?
+CORRADO: Allora, ministro, finisca la frase. L'ora comincia quando lei ha finito. ||| 그러면 장관님, 문장을 마치십시오. 시간은 장관님이 끝낸 뒤에 시작됩니다.
+ZERHOUNI: Un'ora è un'ora. Se io perdo la finestra dopo sessanta minuti, ho perso il mare. ||| 한 시간은 한 시간입니다. 60분 뒤에 창을 잃으면 바다를 잃은 겁니다.
+CORRADO: Ministro, il mare non si perde. Lo ritrova tra sette ore, e nel frattempo vede il volto di chi gli sta davanti. È un guadagno. ||| 장관님, 바다는 잃는 게 아닙니다. 일곱 시간 뒤에 다시 만나시고, 그동안 맞은편 사람의 얼굴을 보게 됩니다. 이익이지요.
+DELCOURT: E chi ha il peso del tavolo? Voglio dire, chi chiude la giornata? ||| 그럼 탁자의 무게는 누가 집니까? 그러니까 하루를 누가 닫습니까?
+CORRADO: Chi sta alla finestra nell'ultima ora. Cioè, ambasciatrice, l'ultima ora è sua. Lei parlerà per ultima, come desidera. ||| 마지막 시간에 창 앞에 앉는 사람입니다. 그러니 대사님, 마지막 시간은 대사님 겁니다. 원하시는 대로 마지막에 말씀하시게 됩니다.
+CORVI: Dottore, e se l'estrazione assegna alla Tarsia la prima ora? ||| 박사님, 추첨에서 타르시아가 첫 시간을 가지면요?
+CORRADO: Allora la Tarsia avrà la prima ora, ammiraglio. E tra cinque ore l'Italia avrà la sua. ||| 그럼 타르시아가 첫 시간을 갖는 겁니다, 제독님. 그리고 다섯 시간 뒤에는 이탈리아가 가질 거고요.
+CORVI: Alle quindici il sole è già girato. ||| 오후 3시면 해가 이미 돌았습니다.
+CORRADO: Ammiraglio, il sole è l'unico che non ha bisogno di un turno. ||| 제독님, 해는 차례가 필요 없는 유일한 존재입니다.
+ZAMMIT: Se tutti sono d'accordo, il cesto passa. Ciascuno prende un fico. Non lo mangi prima di aver aperto. ||| 모두 동의하면 바구니를 돌리겠습니다. 각자 무화과를 하나씩 집으세요. 열어 보기 전에는 먹지 마시고요.
+SAADI: Prendo io per primo. Il padrone di casa, dopotutto, è Zammit. Ma io sono l'ospite più anziano. ||| 제가 먼저 집겠습니다. 어쨌든 주인은 차미트지만 제가 가장 나이 많은 손님이니까요.
+PAPADAKIS: Il mio è segnato. ||| 제 건 표시가 있습니다.
+ZAMMIT: Panta rei, signor Papadakis. Il suo è segnato con una piccola croce. ||| 판타 레이, 파파다키스 씨. 작은 십자 표시가 있군요.
+PAPADAKIS: Una croce. Come sulla carta di Pisa. I miei antenati mi hanno guardato dal fondo del mare. ||| 십자가라. 피사의 해도처럼요. 우리 조상들이 바다 밑에서 저를 지켜보고 계셨군요.
+ZERHOUNI: Greco alla finestra. Non mi dispiace. Ulisse conosceva il mare e non gli piaceva la guerra. ||| 그리스 사람이 창 앞이라. 나쁘지 않군요. 오디세우스는 바다를 알았고 전쟁은 좋아하지 않았죠.
+CORVI: Ulisse ha vinto con un cavallo. ||| 오디세우스는 말로 이겼습니다.
+CORRADO: Ammiraglio, un cavallo vuoto. Come la nostra sedia. ||| 제독님, 속이 빈 말이었죠. 우리 의자처럼요.
+ZAMMIT: Prego, alle sedie. Prima ora: Grecia alla finestra, poi Tarsia, Francia, Spagna, Italia, Malta, e la sedia vuota per ultima. Il primo minuto di silenzio spetterà alla settima ora. ||| 자리에 앉으십시오. 첫 시간은 그리스가 창 앞이고, 그다음 타르시아, 프랑스, 스페인, 이탈리아, 몰타, 마지막이 빈 의자입니다. 첫 묵념은 일곱 번째 시간에 있습니다.
+ORSOLINI: Signori, siamo seduti. La riunione è aperta. ||| 여러분, 모두 앉으셨습니다. 회의를 시작합니다.
++ l'estrazione = 추첨. 'estrarre a sorte'(추첨으로 뽑다)의 명사형. 4부에서 반복되는 공정 장치
++ travestito da dolce = 디저트로 변장한. 코라도가 운명의 추첨을 무화과로 풀어내는 농담
++ nel frattempo = 그동안. 시간 사이를 이어 주는 부사구
++ aprire l'ora = 그 시간을 열다. 창 앞에 앉은 사람이 그 시간 첫 발언을 하는 의례
++ dopotutto = 어쨌든, 결국. 앞선 말을 정리하며 덧붙이는 부사
++ panta rei = 만물은 흐른다. 헤라클레이토스의 말로 그리스어 'πάντα ῥεῖ'
++ un cavallo vuoto = 속이 빈 말. 트로이 목마를 가리키며 빈 의자와 대응시킨 코라도의 말
++ chi chiude la giornata = 하루를 닫는 사람. 의장 대신 시간 순서가 마지막 발언자를 정하는 방식
+
+## 빈 의자 — LA SEDIA VUOTA
+LEO: Papà, ti ho scritto tre volte. Posso chiamarti adesso? ||| 아빠, 세 번이나 문자 보냈어. 지금 전화해도 돼?
+CORRADO: Sono in pausa, un minuto. Dimmi. ||| 쉬는 시간이니 1분이야. 말해 봐.
+LEO: Giulia mi ha raccontato dei sette posti. Papà, io ho una domanda sulla sedia vuota. ||| 줄리아 누나가 일곱 자리를 이야기해 줬어. 아빠, 빈 의자에 대해 질문이 있어.
+CORRADO: Spara. ||| 해 봐.
+LEO: Una sedia vuota è un'assenza o una presenza? ||| 빈 의자는 부재야, 아니면 존재야?
+CORRADO: Che differenza fa? ||| 그게 무슨 차이야?
+LEO: Sartre dice che se aspetto Pierre al caffè e Pierre non c'è, il caffè intero mi dice che Pierre non c'è. L'assenza è lì, nel caffè. È una presenza di Pierre che manca. ||| 사르트르가 말하길 카페에서 피에르를 기다리는데 피에르가 없으면 카페 전체가 피에르가 없다고 말해 준대. 부재가 거기에, 카페에 있는 거지. 피에르가 없다는 것이 하나의 존재야.
+CORRADO: Interessante. Quindi la sedia vuota... ||| 흥미롭구나. 그러니까 빈 의자는…
+LEO: ...è la presenza di chi non c'è ancora. Ma c'è una differenza. Pierre è assente perché potrebbe esserci. Chi arriva dopo è assente perché non è nato. ||| …아직 오지 않은 사람의 존재야. 그런데 차이가 있어. 피에르는 올 수 있어서 부재인 거야. 나중에 오는 사람은 아직 태어나지 않아서 부재이고.
+CORRADO: E allora? ||| 그래서?
+LEO: E allora la tua sedia vuota non rappresenta nessuno. Rappresenta un tempo. ||| 그러니까 아빠의 빈 의자는 누구도 대표하지 않아. 시간을 대표해.
+CORRADO: Un tempo. Non ci avevo pensato. ||| 시간이라. 생각 못 했어.
+LEO: Ti dico di più. Il tavolo ha sei posti per chi parla e uno per chi non parla. Papà, tu stai facendo un tavolo con un posto per il futuro. ||| 더 말할게. 탁자에는 말하는 사람 자리가 여섯이고 말하지 않는 사람 자리가 하나야. 아빠는 미래를 위한 자리가 있는 탁자를 만들고 있는 거야.
+CORRADO: Questa è la cosa più bella che mi abbia detto un diciassettenne questa settimana. ||| 이번 주에 열일곱 살이 내게 한 말 중 가장 근사하구나.
+LEO: Quanti diciassettenni conosci? ||| 열일곱 살을 몇 명이나 아는데?
+CORRADO: Uno. Il mio. Torno dentro. ||| 한 명. 내 아들. 안으로 들어간다.
+LEO: Papà, un'ultima cosa. Se qualcuno vuole sedersi sulla sedia vuota? ||| 아빠, 마지막으로. 누가 그 빈 의자에 앉으려고 하면?
+CORRADO: Gli dico che è occupata. ||| 앉아 있다고 말해 줄게.
+LEO: Da chi? ||| 누가요?
+CORRADO: Da chi arriva dopo. ||| 나중에 오는 사람이.
++ spara = 말해 봐(직역: 쏘아 봐). 질문을 재촉할 때 쓰는 구어
++ assenza e presenza = 부재와 존재. 사르트르의 『존재와 무』에서 '카페에 없는 피에르'로 설명된 개념
++ ancora / già = 아직 / 이미. 'chi non c'è ancora'(아직 없는 사람)
++ un posto per il futuro = 미래를 위한 자리. 빈 의자의 의미를 레오가 해석한 말
++ che mi abbia detto = 내게 해 준. 최상급 뒤 관계절의 접속법 과거
++ Torno dentro = 안으로 들어가요. 'tornare'는 '돌아가다'
++ occupata = 점유된, 사용 중인. 'sedia occupata'는 자리가 있는 상태. 비어 있어도 점유된다는 역설
++ da chi arriva dopo = 나중에 오는 사람에 의해. 수동 표현의 행위자
+
+## 첫 잔은 빈 의자에게 — IL PRIMO BICCHIERE
+ZAMMIT: Signori, la cena. Il cuoco ha preparato un menù che nessuno di voi può criticare, perché è sulla tavola da cinquecento anni: coniglio alla maltese, ftira, e il vino del convento. ||| 여러분, 저녁 식사입니다. 요리사가 여러분 누구도 비난할 수 없는 메뉴를 준비했어요. 오백 년 동안 식탁에 올라온 것들이니까요. 몰타식 토끼 요리, 프티라 빵, 수도원 와인입니다.
+CORRADO: Zammit, c'è un'ultima regola. Prima di bere. ||| 차미트, 마지막 규칙이 하나 있어요. 마시기 전에요.
+ZAMMIT: La conosco. Ho letto il suo promemoria. Il primo bicchiere va alla sedia vuota. ||| 알고 있어요. 요약본을 읽었습니다. 첫 잔은 빈 의자에게 갑니다.
+CORRADO: Esatto. Non lo solleva nessuno. Lo si versa, lo si posa davanti alla sedia, e nessuno lo tocca fino alla fine della cena. ||| 맞습니다. 누구도 들지 않아요. 따라서 의자 앞에 놓고 식사가 끝날 때까지 아무도 만지지 않습니다.
+ZERHOUNI: E il secondo? ||| 둘째 잔은요?
+CORRADO: Il secondo spetta a chi ha ceduto di più oggi. ||| 둘째는 오늘 가장 많이 양보한 사람 차지입니다.
+DELCOURT: Chi? ||| 누구요?
+PAPADAKIS: Il ministro Zerhouni ha lasciato la finestra dopo un'ora, senza dire una parola. ||| 제르후니 장관님이 한 시간 만에 아무 말 없이 창 앞을 비켰습니다.
+VALDES: Ma l'ammiraglio Corvi ha ceduto la sua ora delle quindici all'ambasciatrice Delcourt, perché aveva il mal di testa. ||| 하지만 코르비 제독님은 오후 3시 시간을 두통 때문에 델쿠르 대사님께 양보했어요.
+CORVI: Non è stata una cessione. Era la luce. ||| 양보가 아니었습니다. 빛 때문이었어요.
+VALDES: È una cessione con una scusa. Le piacciono le scuse migliori. ||| 핑계가 붙은 양보지요. 더 좋은 핑계를 좋아하시네요.
+ORSOLINI: Allora brinda Corvi. Ammiraglio, a Lei. ||| 그럼 코르비 제독이 건배하십시오. 제독님, 당신 차례입니다.
+CORVI: Io... non sono un uomo di brindisi. Ma lo faccio. Alla sedia. E a chi la occuperà. ||| 저는… 건배하는 사람이 아닙니다. 하지만 하겠습니다. 의자에게. 그리고 그 의자에 앉을 사람에게.
+TUTTI: Alla sedia! ||| 의자에게!
+SAADI: Corrado, posso un momento? ||| 코라도, 잠깐 괜찮나?
+CORRADO: Certo, ministro. ||| 물론이지, 장관님.
+SAADI: Zerhouni ha accettato i turni. Per le sedie. Per il tavolo. Ma c'è un punto che lo fa soffrire. «Se i turni valgono per le sedie, valgono per la pesca?» Mi ha già chiesto se quella cosa che hai scritto nel quaderno si può dare in forma di accordo. ||| 제르후니가 차례를 받아들였어. 의자와 탁자에 대해서는. 그런데 그를 괴롭히는 점이 하나 있어. '차례가 의자에 통하면 어업에도 통하는가?' 자네가 공책에 쓴 그 일을 합의 형태로 줄 수 있는지 벌써 묻더군.
+CORRADO: Saadi, il quaderno non è mio. È di Concetta. ||| 사아디, 그 공책은 내 것이 아니야. 콘체타 할머니 거야.
+SAADI: Allora porta Concetta a Marsa Beida. Ma prima di tutto abbiamo bisogno di una cosa. ||| 그럼 콘체타 할머니를 마르사 베이다에 모셔 와. 하지만 우선 필요한 게 하나 있어.
+CORRADO: Che cosa? ||| 뭔데?
+SAADI: Un posto in cui nessuno lo possa dire «a favore» o «contro». ||| 누구도 '찬성'이나 '반대'로 말할 수 없는 자리.
+FERRETTI: Dottor Lanza, mi permette una parola? ||| 란차 박사님, 한마디 해도 되겠습니까?
+CORRADO: Avvocato, la cena non è una sede di discussione. ||| 변호사님, 식사는 토론하는 자리가 아닙니다.
+FERRETTI: Non discuto. Avviso. Lunedì un'associazione, non la nostra, depositerà un atto presso la Commissione. Preferisco che lo sappia da me, perché la scoprirebbe da un giornale. ||| 토론하는 게 아닙니다. 알려 드리는 겁니다. 월요일에 어느 협회가, 저희가 아닌 협회가 위원회에 문서를 제출할 겁니다. 신문에서 알게 되시는 것보다 제게서 듣는 편이 낫다고 봅니다.
+CORRADO: Un atto di che natura? ||| 어떤 성격의 문서입니까?
+FERRETTI: Una donazione. ||| 증여입니다.
+CORRADO: Di chi a chi? ||| 누가 누구에게요?
+FERRETTI: Non è mio compito rivelarlo. Buona cena. ||| 그걸 밝히는 건 제 일이 아닙니다. 맛있게 드십시오.
+GIULIA: Corrado, il telefono. È il Vaticano. Monsignor Manini. ||| 코라도, 전화예요. 바티칸이에요. 마니니 몬시뇰이고요.
+CORRADO: Passamelo. Monsignore, buonasera. ||| 연결해 줘요. 몬시뇰, 안녕하십니까.
+MANINI: Dottor Lanza, mi scusi l'ora. Le dico subito. Oggi alle diciotto è arrivata alla Segreteria di Stato una busta. Dentro c'è la fotocopia di una pergamena, che si presenta come «appendice alla donazione di Costantino». ||| 란차 박사님, 늦은 시각에 죄송합니다. 바로 말씀드리죠. 오늘 오후 6시에 국무원에 봉투가 하나 왔습니다. 안에는 '콘스탄티누스 기증문의 부록'이라고 자처하는 양피지의 복사본이 들어 있었습니다.
+CORRADO: Appendice. E che cosa dice l'appendice? ||| 부록이라고요. 부록에는 뭐라고 쓰여 있습니까?
+MANINI: Che le isole che emergeranno nel mare di Sicilia appartengono al Patrimonio di San Pietro. Dottor Lanza, la Santa Sede non ha mai visto questo testo e non lo riconosce. Ma la busta aveva il timbro di un'associazione che si chiama «Patrimonium Maris». ||| 시칠리아 바다에 솟아오를 섬은 모두 성 베드로 재산에 속한다고요. 박사님, 교황청은 이 텍스트를 본 적이 없고 인정하지도 않습니다. 하지만 봉투에는 '파트리모니움 마리스'라는 협회 도장이 찍혀 있었습니다.
+CORRADO: Patrimonium Maris. Monsignore, mi mandi la copia stanotte, ma senza commenti. ||| 파트리모니움 마리스라. 몬시뇰, 오늘 밤 복사본을 보내 주시되 의견은 달지 마십시오.
+MANINI: Come per la penna blu, dottore? ||| 파란 펜 때처럼요, 박사님?
+CORRADO: Esatto. Come per la penna blu. ||| 맞습니다. 파란 펜 때처럼요.
++ coniglio alla maltese = 몰타식 토끼 요리. 몰타의 국민 요리 'stuffat tal-fenek'
++ promemoria = 요약 메모. 회의 전에 배포하는 간단한 서면 안내
++ il primo bicchiere alla sedia vuota = 첫 잔은 빈 의자에게. 시리즈 의례 '양보한 사람이 먼저 잔을 든다'의 변형
++ cessione con una scusa = 핑계 있는 양보. 코르비의 자존심을 건드리지 않고 칭찬하는 발데스의 말
++ non è stata una cessione. Era la luce = 양보가 아니라 빛 때문이었다. 군인의 체면 유지식 반박
++ lo scoprirebbe da un giornale = 신문에서 알게 될 것이다. 조건법 현재의 가정 결과
++ donazione di Costantino = 콘스탄티누스 기증문. 8세기경 만들어진 위조 문서로 1440년 발라가 폭로. 다음 화의 핵심
++ il Patrimonio di San Pietro = 성 베드로 재산. 중세 교황이 직접 통치한 영토를 부르던 말

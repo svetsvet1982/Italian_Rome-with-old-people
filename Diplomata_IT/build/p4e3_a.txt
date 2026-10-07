@@ -1,0 +1,130 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 3
+@title La carta pisana
+@ko 피사 해도
+@setting 6월 12일 수요일, 섬이 솟은 지 사흘째 · 아침 파르네지나 지도실과 마르사 베이다 박물관의 화상 연결 → 낮 카페(산드리) → 오후 외무부 회의실 → 저녁 란차의 부엌
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast LEO | 란차의 아들, 17세
+@cast NADIA | 마르사 베이다 국립박물관 학예사 나디아 하다드, 46세
+@cast SARTORELLI | 마르사 베이다 태생의 라틴어 교사 사르토렐리 교수, 82세
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast SCIUTO | 카타니아 화산학 연구원 안토넬라 샤우토 박사, 55세
+@cast FANTONI | 피사 국립문서고 책임자 루치아 판토니, 59세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast SAADI | 타르시아 장관
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@note 4부 3화는 '조사'의 화입니다. 나디아가 마르사 베이다 박물관 문서고에서 1926년에 찍은 유리 원판 사진 한 장을 찾아냅니다. 항만 공사를 하던 이탈리아 기사가 피사 국립문서고의 14세기 해도(『카르타 피사나』의 자매 필사본)를 찍어 둔 것입니다. 카르타 피사나는 13세기 말에 만들어져 피사에서 발견되어 지금은 파리에 있는 현존 최고(最古)의 포르톨라노(항해 해도)이며, 방위선(rombi)과 해안선에 직각으로 쓴 지명, 암초·여울을 나타내는 작은 십자가가 특징입니다. 해협 한복판의 작은 십자가 옆에는 라틴 글자로 'Secca del Fumo', 아랍 글자로 '두칸(연기)의 섬'이라는 이름이 나란히 적혀 있습니다. 같은 뜻의 이름 둘, 연기입니다. 샤우토 박사의 해저 퇴적물 분석은 13세기에 화산재 층이 있음을 확인해 섬이 전에도 떴다 가라앉았음을 보여 줍니다. 해법의 순간은 '섬은 전에도 떴다 가라앉았다'입니다. 소유의 근거가 아니라 오가는 주기가 증거라는 전환이 일어납니다. 산드리의 에스프레소는 피사와 북아프리카가 두 부 사본으로 평화 조약을 쓰던 이야기입니다. 레오는 같은 섬이 다시 솟으면 같은 섬인가를 묻습니다(테세우스의 배 재방문). 어휘는 지도·문서(rombi, toponimo, pergamena, carotaggio, calco)와 가정법 과거(se + 접속법 반과거, 조건법 현재)에 주목하세요.
+@next 4-4 «여섯 해안의 탁자» — 몰타에서 여섯 나라가 둥근 식탁에 앉습니다. 그러나 누가 상석에 앉을까요?
+
+## 지도실의 돋보기 — LA SALA DELLE CARTE
+GIULIA: Eccola. Ti presento la sorella di Parigi. ||| 여기 있어요. 파리의 자매를 소개할게요.
+CORRADO: La sorella? Giulia, sono le otto e dieci. Alle otto e dieci io presento solo il caffè. ||| 자매라고요? 줄리아, 8시 10분이에요. 8시 10분에는 커피 말고는 소개 안 해요.
+GIULIA: La Carta Pisana, quella vera, è a Parigi, alla Bibliothèque nationale. Fine del Duecento, la più antica carta nautica che ci sia rimasta. Si chiama «pisana» perché fu ritrovata a Pisa. ||| 진짜 카르타 피사나는 파리 국립도서관에 있어요. 13세기 말 것이고 남아 있는 가장 오래된 항해 해도예요. 피사에서 발견돼서 '피사나'라고 부르고요.
+CORRADO: E questa? ||| 그럼 이건요?
+GIULIA: Questa è una copia trecentesca della stessa famiglia di carte, conservata all'Archivio di Stato di Pisa. Nel 1926 un ingegnere italiano che dirigeva i lavori del porto di Marsa Beida la fece fotografare su lastra di vetro. ||| 같은 계통의 14세기 필사본이에요. 피사 국립문서고에 있고요. 1926년에 마르사 베이다 항만 공사를 지휘하던 이탈리아 기사가 유리 원판에 찍어 두었어요.
+CORRADO: Perché un ingegnere avrebbe fotografato una carta nautica? ||| 기사가 왜 해도를 사진으로 찍었을까요?
+GIULIA: Per le secche. Voleva sapere dove l'acqua è bassa. Poi la lastra è finita in un cassetto del museo, e nessuno l'ha più aperto per cento anni. ||| 여울 때문이에요. 물이 얕은 곳을 알고 싶었던 거죠. 그 원판이 박물관 서랍에 들어가서 백 년 동안 아무도 열지 않았고요.
+NADIA: Buongiorno, Corrado, Giulia. Mi sentite? Sono nella sala dei depositi del Museo, con il professor Sartorelli e Idris. Ho acceso la luce che usiamo per i papiri. ||| 안녕하세요, 코라도, 줄리아. 들리세요? 박물관 수장고에 사르토렐리 교수님과 이드리스 씨랑 같이 있어요. 파피루스용 조명을 켰어요.
+SARTORELLI: Caro dottore, la saluto con il rispetto dovuto a un napoletano. Non ho dormito, ma ho una lente. ||| 존경하는 박사님, 나폴리 분께 마땅한 예의로 인사드립니다. 한숨도 못 잤지만 돋보기는 있습니다.
+CORRADO: Professore, io mi inchino. Che cosa vede? ||| 교수님, 고개 숙여 인사드립니다. 무엇이 보입니까?
+SARTORELLI: Vedo una pelle di capra molto stanca. Linee che partono da rose dei venti e si incrociano in tutte le direzioni: i rombi. Nomi di porti scritti di traverso, perpendicolari alla costa, in inchiostro nero. I porti importanti in rosso. ||| 몹시 지친 염소 가죽이 보입니다. 바람 장미에서 시작해 사방으로 교차하는 선들, 곧 방위선이 있고요. 해안에 직각으로 비스듬히 쓴 항구 이름은 검은 잉크이고, 중요한 항구는 붉은 잉크입니다.
+CORRADO: Scritti di traverso? ||| 비스듬히 썼다고요?
+SARTORELLI: Verso l'interno. Così le coste restano libere per il disegno. Era una carta fatta per navigare, non per ammirare. ||| 내륙 쪽으로 쓰는 거지요. 그래야 해안선이 비어서 그림이 깨끗하게 남습니다. 감상하려는 게 아니라 항해하려고 만든 해도였으니까요.
+GIULIA: E le secche? ||| 여울은요?
+SARTORELLI: Piccole croci. Ogni croce è un monito: qui il mare si fa basso. Ne conto dodici tra la Sicilia e l'Africa. ||| 작은 십자가입니다. 십자가 하나하나가 경고입니다. 여기 바다가 얕아진다고요. 시칠리아와 아프리카 사이에서 열두 개를 셉니다.
+NADIA: La dodicesima è quella che ci interessa. Giulia, ti mando la scansione ingrandita. ||| 열두 번째가 우리에게 필요한 거예요. 줄리아, 확대 스캔을 보낼게요.
+GIULIA: La vedo. Una croce piccola, dentro un cerchio di punti. ||| 보여요. 점으로 된 원 안에 작은 십자가 하나요.
+SARTORELLI: Il cerchio di punti indica un fondale incerto. Il copista non era sicuro, e lo scrive. Onestà rara. ||| 점의 원은 수심이 불확실하다는 표시입니다. 필사자가 확신이 없었고, 그걸 적어 둔 거지요. 드문 정직입니다.
+CORRADO: Che cosa c'è scritto accanto? ||| 옆에는 뭐라고 쓰여 있습니까?
+SARTORELLI: Leggo in volgare pisano: «seccha del fumo». In nero, più tardi della mano principale. ||| 피사 방언으로 읽습니다. '연기의 여울'입니다. 주 필체보다 나중에 쓴 검은 글씨고요.
+GIULIA: Seccha, con due «c» come si scriveva all'epoca. ||| 'seccha', 그 시절 방식대로 c 두 개로요.
+SARTORELLI: Esatto. Il fumo, Giulia. Si scrive con una sola parola, ma in un luogo dove il mare non fuma, un copista non scrive «fumo» a caso. ||| 맞습니다. 연기예요, 줄리아. 한 단어로 쓰지만 바다가 연기를 내지 않는 곳에 필사자가 아무 이유 없이 '연기'라고 쓰지는 않지요.
+IDRIS: E ora vi mostro la parte che nessuno ha notato per cento anni. Sotto la croce, in una scrittura rossastra, c'è un altro nome. ||| 이제 백 년 동안 아무도 눈치채지 못한 부분을 보여 드리겠습니다. 십자가 아래에 붉은빛 필체로 다른 이름이 하나 있습니다.
+CORRADO: In arabo? ||| 아랍어입니까?
+IDRIS: In caratteri arabi maghrebini. Il tratto è un po' irregolare, come di chi scrive su una barca. Si legge «Jazirat ad-dukhan». ||| 마그레브 서체 아랍 문자입니다. 배 위에서 쓴 사람의 글씨처럼 획이 조금 고르지 않고요. '자지라트 아드 두칸'이라고 읽습니다.
+CORRADO: Che cosa significa? ||| 무슨 뜻입니까?
+IDRIS: «L'isola del fumo». ||| '연기의 섬'입니다.
+GIULIA: Corrado. Due nomi, due alfabeti, una parola sola. ||| 코라도, 이름 둘에 문자 둘인데 뜻은 하나예요.
+CORRADO: Fumo e dukhan. Chi arriva nel Canale e vede salire il fumo da un punto d'acqua dice la stessa cosa, in qualsiasi lingua. ||| 푸모와 두칸이군요. 해협에 와서 물 위에 연기가 올라오는 걸 본 사람은 어떤 언어로든 같은 말을 하죠.
+NADIA: Non solo. Il copista pisano e il pilota arabo hanno scritto sulla stessa pelle. Qualcuno li ha lasciati scrivere. ||| 그뿐이 아니에요. 피사 필사자와 아랍 항해사가 같은 가죽에 썼어요. 누군가가 쓰게 해 준 거예요.
+SARTORELLI: E non c'è correzione. Non c'è una parola cancellata, non una rasura. Si convive. ||| 정정도 없습니다. 지운 단어도, 긁어낸 자국도 없어요. 공존하는 거지요.
+CORRADO: Professore, la datazione? ||| 교수님, 연대는요?
+SARTORELLI: La mano pisana, direi seconda metà del Trecento. Quella araba è forse più antica di un secolo, copiata da un modello prima. Non lo giuro. ||| 피사 쪽 필체는 14세기 후반이라고 봅니다. 아랍 쪽은 어쩌면 한 세기 앞서, 더 오래된 원본에서 베낀 것일 수 있고요. 맹세는 못 합니다.
+CORRADO: Giulia, scrivi: «datazione incerta». Meglio onesti che definitivi. ||| 줄리아, '연대 불확실'이라고 적어요. 단정하는 것보다 정직한 편이 낫죠.
++ rombi = 방위선. 포르톨라노 해도에서 바람 장미로부터 뻗는 선. 항해사가 나침반으로 방향을 잡는 근거
++ toponimo = 지명. 해안선에 직각으로 써서 해안 그림을 가리지 않았다
++ pergamena = 양피지. 해도는 염소·양 가죽에 그렸다
++ croce = 십자가. 해도에서 암초·여울을 가리키는 기호. 점의 원은 수심이 불확실하다는 표시
++ una pelle di capra molto stanca = 몹시 지친 염소 가죽. 낡은 양피지를 의인화한 교수의 익살
++ volgare pisano = 피사 속어(중세 이탈리아 토스카나 방언). 라틴어가 아닌 일상어
++ rasura = 긁어 지운 흔적. 양피지에서 글을 긁어내 고쳤다는 증거인데 여기서는 없었다
++ si convive = 공존한다. 'convivere'의 비인칭형으로 두 이름이 한 가죽에 나란한 상황을 요약
+
+## 연기라는 이름 — IL FUMO E IL DUKHAN
+SCIUTO: Dottor Lanza, le interrompo la lezione di filologia. Ho una cosa che le farà dimenticare la pergamena. ||| 란차 박사님, 문헌학 수업을 끊어서 죄송합니다. 양피지를 잊게 만들 이야기가 있어요.
+CORRADO: Dottoressa, prego. ||| 말씀하세요, 박사님.
+SCIUTO: Nel 2019 una nave oceanografica ha prelevato carote di sedimento da quel tratto di fondale. Stanotte ho riaperto i dati con una collega. A sessantacinque centimetri sotto il fondo c'è uno strato di cenere vulcanica. ||| 2019년에 해양 조사선이 그 해저에서 퇴적물 시료를 채취했어요. 어젯밤 동료와 자료를 다시 열었는데, 바닥 아래 65센티미터에 화산재 층이 있습니다.
+GIULIA: Datato? ||| 연대는요?
+SCIUTO: Con il radiocarbonio sui microfossili che stanno sopra e sotto lo strato: tra il 1250 e il 1300. Più o meno. ||| 층 위아래 미세 화석의 방사성 탄소로 1250년에서 1300년 사이입니다. 대략이요.
+CORRADO: Più o meno il tempo in cui la Carta Pisana è stata disegnata. ||| 카르타 피사나가 그려진 때와 대충 같군요.
+SCIUTO: Qui non dico «coincidenza», dico «concordanza». Quel vulcano ha già eruttato. L'isola si è alzata, ha fumato, ed è scesa. I marinai ne hanno tenuto la memoria con una croce. ||| 여기서 저는 '우연'이라고 하지 않고 '일치'라고 말합니다. 그 화산은 이미 한 번 분출했어요. 섬이 솟고 연기를 내고 가라앉았죠. 뱃사람들이 십자가 하나로 그 기억을 남겼고요.
+CORRADO: Quindi il fondale lì non è soltanto roccia. È un calendario. ||| 그러니까 거기 해저는 그냥 바위가 아니라 달력이군요.
+SCIUTO: Un calendario irregolare. Può darsi che quel posto si alzi ogni sette, otto secoli. Non lo posso giurare. Ma uno strato di cenere e una croce che concordano non capitano per caso. ||| 불규칙한 달력이죠. 그 자리가 칠팔백 년마다 솟는지도 모릅니다. 맹세는 못 해요. 하지만 화산재 층과 십자가가 일치하는 건 우연히 생기지 않아요.
+NADIA: Dottoressa, se il professore ha ragione sul modello arabo, il segno risale ancora più indietro. ||| 박사님, 교수님 말씀대로 아랍 쪽 원본이 맞다면 그 표시는 더 거슬러 올라가요.
+SCIUTO: E ogni volta l'isola è scesa, signora. Senza eccezioni. Lo sappiamo perché l'ultima volta il fondale era ancora una secca a otto metri, e i pescatori ci tornavano. ||| 그리고 그때마다 섬은 가라앉았어요, 하나도 예외 없이요. 마지막에도 해저는 수심 8미터의 여울로 남았고 어부들이 다시 찾아갔으니까요.
+CORRADO: «Ci tornavano.» Dottoressa, questa frase mi serve. Posso metterla in una nota? ||| '다시 찾아갔다'라, 박사님, 그 문장이 필요합니다. 메모에 넣어도 될까요?
+SCIUTO: La scriva pure, ma non dica «lo dimostra la scienza». Dica «lo suggeriscono due indizi indipendenti». ||| 쓰셔도 됩니다. 다만 '과학이 입증했다'고는 하지 마세요. '독립된 두 단서가 시사한다'고 하세요.
+CORRADO: Due indizi indipendenti. Così avrebbe detto anche il mio professore di diritto. ||| 독립된 두 단서라. 제 법학 교수님도 그렇게 말씀하셨을 거예요.
+GIULIA: Corrado, hai sentito? Il fondale non è un'ipotesi. È un archivio. ||| 코라도, 들었어요? 해저는 가설이 아니에요. 문서고예요.
+CORRADO: E noi non siamo i primi a leggerlo. Giulia, la frase della Convenzione: l'isola è un'area di terra formata naturalmente, che rimane sopra l'acqua a marea piena. ||| 그리고 우리가 처음 읽는 사람도 아니죠. 줄리아, 협약 문장 말이에요. 섬은 자연적으로 형성된 땅으로 만조 때도 물 위에 있어야 한다.
+GIULIA: Articolo centoventuno, sì. «A marea piena». ||| 121조예요, 맞아요. '만조 때'요.
+CORRADO: E se l'isola si alza sette secoli fa, scende, e ora risale, che cosa dice il diritto? ||| 그런데 섬이 7세기 전에 솟았다가 가라앉고 지금 다시 솟았다면 법은 뭐라고 하죠?
+GIULIA: Tace. Il diritto non è scritto per le isole che vanno e vengono. ||| 침묵해요. 법은 오가는 섬을 위해 쓰이지 않았으니까요.
+CORRADO: Allora c'è un vuoto, e in un vuoto si può mettere un'usanza. ||| 그럼 공백이 있고, 공백에는 관행을 넣을 수 있죠.
+SARTORELLI: Dottore, mi permette? Se la memoria del mare è un diritto, allora i marinai lo hanno scritto con la croce. ||| 박사님, 한 말씀 드려도 되겠습니까? 바다의 기억이 권리라면 뱃사람들이 십자가로 그것을 쓴 것입니다.
+IDRIS: E con una parola che significa la stessa cosa in due lingue. ||| 그리고 두 언어에서 같은 뜻인 단어로요.
+CORRADO: Professore, Idris, avete appena scritto la prima riga della nostra proposta. ||| 교수님, 이드리스 씨, 방금 우리 제안서의 첫 줄을 쓰셨습니다.
++ carotaggio / carota di sedimento = 퇴적물 시료 채취. 지층 연대를 알아내는 지질학적 방법
++ concordanza = 일치. 'coincidenza'(우연)와 달리 서로 독립된 증거가 맞아떨어짐을 뜻하는 학술어
++ non lo posso giurare = 맹세는 못 한다. 과학자·교수가 단정을 피할 때 쓰는 관용구
++ indizio = 단서. 'prova'(증거)보다 약한 말로 법률 문체에서 '정황 단서'
++ a marea piena = 만조 때. 해양법 121조의 '만조 시에도 물 위에' 요건과 연결
++ in un vuoto si può mettere un'usanza = 공백에는 관행을 넣을 수 있다. 법이 침묵한 곳을 관행이 채운다는 4부의 논리
++ Può darsi che + 접속법 = ~일지도 모른다. 'Può darsi che si alzi ogni sette secoli'
++ cassetto = 서랍. 'chiudere nel cassetto'는 '묻어 두다'라는 관용구
+
+## 두 부의 평화 — L'ESPRESSO DI SANDRI
+SANDRI: Corrado, vieni, ho già il tavolino all'angolo, con i giornali di ieri che nessuno ha voglia di rileggere. ||| 코라도, 이리 오게. 구석에 자리를 잡아 놨네. 어제 신문이 있는데 아무도 다시 읽고 싶어 하지 않는 것들이지.
+CORRADO: Eccellenza, so che questa volta non parliamo di cenere. ||| 대사님, 이번에는 재 이야기가 아니군요.
+SANDRI: No. Parliamo di carta. Hai in mano una carta pisana. Sai perché i Pisani avevano carte come questa? ||| 아니, 종이 이야기야. 자네 손에 피사 해도가 있잖나. 피사 사람들이 왜 이런 해도를 가졌는지 아나?
+CORRADO: Per commerciare con l'Africa. ||| 아프리카와 교역하려고요.
+SANDRI: Giusto. Nel Duecento Pisa commerciava con Tunisi e con Bugia. E sai come si scrivevano i patti? In due lingue e in due copie. Ciascuna parte teneva la sua. ||| 그렇지. 13세기에 피사는 튀니스와 부지아와 교역했다네. 그 조약을 어떻게 썼는지 아나? 두 언어로 두 부를 만들었어. 각자 자기 몫을 보관했지.
+CORRADO: E se le due copie dicevano cose diverse? ||| 두 부가 서로 다른 말을 하면요?
+SANDRI: Ah, questo è il bello. Nelle clausole di pace si prevedeva che la parola di ciascuno valesse per chi la pronunciava. Tu la dici nella tua lingua, io nella mia, e a nessuno spetta tradurre l'altro. ||| 아, 그게 묘미지. 평화 조항에는 각자의 말이 말하는 사람 편에서 효력을 갖는다고 되어 있었어. 자네는 자네 언어로, 나는 내 언어로 말하고 누구도 상대를 번역하지 않는 걸세.
+CORRADO: Che bella idea. Non è una traduzione, è una coesistenza. ||| 멋진 발상이군요. 번역이 아니라 공존이네요.
+SANDRI: Una coesistenza con una penna sola. Perché la Carta, vedi, è una cosa sola. Ma ci sono due nomi. Chi l'ha scritta sapeva che due nomi non litigano se la carta è la stessa. ||| 펜은 하나로 쓴 공존이지. 해도는 하나뿐이니까. 그런데 이름은 둘이야. 쓴 사람은 해도가 같다면 이름 둘이 싸우지 않는다는 걸 알았던 걸세.
+CORRADO: Eccellenza, c'è un problema. Se Zerhouni legge «Dukhan» come prova che Tarsia ha dato il nome per prima, e Corvi legge «Fumo» come prova che lo abbiamo dato noi... ||| 대사님, 문제가 있습니다. 제르후니가 '두칸'을 타르시아가 먼저 이름 붙였다는 증거로 읽고 코르비가 '푸모'를 우리가 먼저 붙였다는 증거로 읽으면…
+SANDRI: Tutti e due si sentono più antichi dell'altro. È il vecchio gioco del più antico. Un gioco che non si vince. ||| 둘 다 상대보다 자기가 더 오래됐다고 느끼겠지. 오래된 자 게임일세. 이길 수 없는 게임이지.
+CORRADO: E come lo si ferma? ||| 어떻게 멈춥니까?
+SANDRI: Non lo si ferma. Gli si toglie il premio. Cos'hanno in comune le due parole? ||| 멈추지 못하네. 상을 없애는 거야. 두 단어의 공통점이 뭔가?
+CORRADO: Il fumo. ||| 연기죠.
+SANDRI: Il fumo non è di nessuno. Un nome che ti dice che il posto fuma non è un nome di proprietà. È un nome di avvertimento. ||| 연기는 누구의 것도 아니야. 거기가 연기를 낸다고 알려 주는 이름은 소유의 이름이 아니라 경고의 이름이네.
+CORRADO: Un nome di avvertimento. Chi lo sente, rallenta. ||| 경고의 이름이라, 듣는 사람은 속도를 줄이죠.
+SANDRI: Ecco. Se Zerhouni ti dice che «Dukhan» è un titolo di proprietà, tu rispondigli con le parole del suo stesso pilota: «Fuma, quindi aspetta». ||| 그렇지. 제르후니가 '두칸'이 소유권 증서라고 하거든 그의 선조 항해사의 말로 답하게. '연기가 난다, 그러니 기다려라'.
+CORRADO: E se Corvi risponde che «Fumo» è italiano? ||| 코르비가 '푸모'는 이탈리아어라고 하면요?
+SANDRI: Gli dirai che era pisano, e che Pisa perse la sua flotta alla Meloria nel 1284. Un’isola non resta a una repubblica che ha perso la flotta. ||| 피사 말이라고, 그리고 피사는 1284년 멜로리아에서 함대를 잃었다고 말하게. 함대를 잃은 공화국에 섬이 남아 있진 않다고.
+CORRADO: Eccellenza, quella è cattiveria. ||| 대사님, 그건 심술이에요.
+SANDRI: È storia, caro. La storia è cattiva solo con chi non la legge. Bevi, che si fredda. ||| 역사일세, 이 사람아. 역사는 읽지 않는 사람에게만 심술궂어. 마시게, 식네.
++ in due lingue e in due copie = 두 언어로 두 부씩. 중세 지중해 평화 조약의 관행. 각자가 자기 언어 본을 보관했다
++ non è una traduzione, è una coesistenza = 번역이 아니라 공존이다. 'tradurre'와 'convivere'의 대비
++ il gioco del più antico = 누가 더 오래됐나 게임. 소유 주장이 시간 순서 경쟁이 되는 상황을 말함
++ togliere il premio = 상을 없애다. 4-1의 '경기를 바꾼다'와 이어지는 표현
++ nome di avvertimento = 경고의 이름. 소유가 아니라 위험을 알리는 지명
++ la Meloria = 멜로리아 해전(1284). 제노바가 피사 함대를 꺾은 전투로 피사 해상 세력의 쇠퇴를 상징
++ caro = 이 사람아, 자네. 연장자가 상대를 다정히 부르는 호칭. 이때 'tu'와 함께 쓴다
++ Bevi, che si fredda = 마시게, 식네. 'che'는 '왜냐하면'의 구어 접속사

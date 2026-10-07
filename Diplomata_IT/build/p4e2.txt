@@ -1,0 +1,252 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 2
+@title La bocciofila
+@ko 보치아 클럽
+@setting 6월 11일 화요일, 섬이 솟은 지 이틀째 · 아침 파르네지나와 마차라 어선 선장의 전화 → 저녁 7시 테스타초 보치아 클럽의 긴 식탁(화면 둘 연결) → 밤
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast LEO | 란차의 아들, 17세
+@cast ERCOLE | 테스타초 보치아 클럽 노인, 84세(전 외무부 사환)
+@cast PEPPINO | 보치아 클럽 노인, 80세(가에타 출신 집안)
+@cast CONCETTA | 노나 콘체타, 86세(시아카 출신 어부의 딸)
+@cast LUCIANA | 클럽 회원 루차나 벨루치, 82세(키오자 출신)
+@cast MATTIA | 클럽 최연소 회원 마티아 파다, 18세
+@cast MANGIARACINA | 마차라 델 발로 어선 선장 살바토레 만자라치나, 58세
+@cast GASPARE | 선장의 아버지 가스파레, 84세, 은퇴한 선장
+@cast HOCINE | 마르사 베이다의 은퇴한 '라이스' 호신 벨카셈, 79세
+@cast IDRIS | 타르시아 통역 이드리스, 73세
+@cast SAADI | 타르시아 장관
+@note 4부 2화는 '증언'의 화입니다. 섬이 어느 해안의 것인가를 지도로 가르는 대신, 코라도는 오래 그 바다에서 일한 사람들의 말을 모읍니다. 콘체타(시아카 어부의 딸), 페피노(가에타), 에르콜레(어머니가 폰차 출신), 루차나(키오자)가 각자의 바다 풍습을 내놓고, 화면 두 개로 마차라와 마르사 베이다의 노 어부가 이어집니다. 두 해안의 어부는 문서 하나 없이 수십 년간 '계절마다 먼저 그물을 놓는 쪽'을 바꿔 왔고, 계절이 바뀔 때는 자리를 내주는 쪽이 먼저 잔을 듭니다. 해법의 순간은 콘체타의 '바다는 계절을 안다'(시칠리아어 Lu mari canusci li stagiuni)입니다. 소유의 몫을 나누지 말고 쓰는 차례를 나누라는 발상이 여기서 처음 나옵니다. 역사 논거는 콘스탄차 화약(1183)입니다. 1176년 레냐노에서 황제 프리드리히 바르바로사가 롬바르디아 도시 동맹에 패하고, 1177년 베네치아에서 6년 휴전이 맺어졌으며, 1183년 콘스탄차에서 오래 써 온 권리를 도시들이 지키는 평화가 완성되었습니다. 임시 협정이 영구 협정을 낳을 수 있다는 선례입니다. 레오의 철학 질문은 흄의 노 젓는 배(약속 없이 생기는 관행)입니다. 어휘는 증언·관행(testimonianza, consuetudine, uso, diritto d'uso)과 접속법(purché, sebbene, qualunque)에 주목하세요.
+@next 4-3 «피사 해도» — 조울리아는 13세기 해도에서 해협의 같은 자리를 찾아냅니다. 섬은 전에도 떴다 가라앉았을지 모릅니다.
+
+## 마차라의 전화 — LA TELEFONATA DI MAZARA
+GIULIA: Corrado, ho il capitano Mangiaracina in linea da Mazara. Attento, parla veloce e ride dei verbi. ||| 코라도, 마차라의 만자라치나 선장이 연결돼 있어요. 조심해요, 말이 빠르고 동사를 웃어넘기는 사람이에요.
+CORRADO: Capitano, buongiorno. Sono Corrado Lanza, del Ministero. ||| 선장님, 안녕하십니까. 외무부의 코라도 란차입니다.
+MANGIARACINA: Dottore, finalmente uno che non mi dice «stia calmo». Io sono calmo. Ma ho settantadue barche ferme e centoquaranta famiglie che mi guardano. ||| 박사님, 드디어 저한테 '진정하세요'라고 안 하는 분이 나오셨네요. 저는 차분합니다. 하지만 배 72척이 묶여 있고 140가구가 저를 쳐다봐요.
+CORRADO: Capitano, lo so. Per questo ho una domanda sola. Lei e i colleghi tarsiani, quando andate a pescare nello stesso tratto di mare, come vi regolate? ||| 압니다, 선장님. 그래서 질문이 하나뿐입니다. 선장님과 타르시아 동료들은 같은 바다에서 고기를 잡을 때 어떻게 정리하십니까?
+MANGIARACINA: Come ci regoliamo? Ci guardiamo. E ci salutiamo con due dita. ||| 어떻게 정리하냐고요? 서로 쳐다봅니다. 그리고 손가락 두 개로 인사하죠.
+CORRADO: Nient'altro? Nessun accordo scritto? ||| 그게 전부인가요? 문서로 된 합의는 없고요?
+MANGIARACINA: Accordo scritto? Dottore, qui l'accordo è mio padre. Si chiama Gaspare, ha ottantaquattro anni, e ricorda ogni lancio dal 1957. ||| 문서 합의요? 박사님, 여기서 합의는 우리 아버지입니다. 이름은 가스파레, 여든넷이고 1957년부터 모든 투망을 기억하세요.
+CORRADO: Capitano, potrei parlargli stasera? Alle sette? Con una videochiamata. ||| 선장님, 오늘 저녁에 아버님과 말씀 나눌 수 있을까요? 7시에 화상으로요.
+MANGIARACINA: Dove? ||| 어디서요?
+CORRADO: A Roma. In un campo di bocce. ||| 로마에서요. 보치아 코트에서요.
+MANGIARACINA: Un campo di bocce. Dottore, mio padre ha giocato a bocce in tre porti e ha perso in tutti. Lo avverto: è un uomo di mare e giudica la gente dalla camicia. ||| 보치아 코트라고요. 박사님, 우리 아버지는 항구 세 곳에서 보치아를 쳤고 세 곳 다 졌습니다. 미리 말씀드리는데 뱃사람이라 옷소매로 사람을 판단하십니다.
+CORRADO: Metto la camicia buona. ||| 좋은 셔츠를 입고 가죠.
+MANGIARACINA: Una cosa, dottore. Qui a Mazara sta arrivando gente con la giacca. Si presentano come «consulenti». Dicono che pagano loro il carburante, se noi obbediamo a un coordinatore. ||| 박사님, 한 가지만요. 여기 마차라에 재킷 입은 사람들이 와요. '컨설턴트'라고 소개하고요. 우리가 어떤 코디네이터를 따르면 연료비를 자기들이 대겠답니다.
+CORRADO: Che società? ||| 어느 회사죠?
+MANGIARACINA: Non dicono il nome. Sulla borsa c'è scritto «A. L.». ||| 이름은 안 밝혀요. 가방에는 'A. L.'이라고 쓰여 있고요.
+GIULIA: Alba Logistica. Tre iniziali, un solo livello. ||| 알바 로지스티카예요. 머리글자 둘에 층은 하나뿐이죠.
+CORRADO: Capitano, per favore: non firmi niente, non accetti niente e dica ai colleghi di ripetere questa frase. «Il carburante lo pago io. Il mare è mio quanto di tutti.» ||| 선장님, 부탁합니다. 아무것도 서명하지 마시고 아무것도 받지 마세요. 그리고 동료분들께 이 문장을 되풀이하라고 하십시오. '기름값은 내가 낸다. 바다는 모두의 것이듯 내 것이다.'
+MANGIARACINA: È una bella frase. Mi dice come ci si sente quando si ha una voce. ||| 좋은 문장이네요. 목소리가 있다는 게 어떤 기분인지 알려 주는 말입니다.
+CORRADO: Allora a stasera. E capitano: se suo padre rifiuta di parlare, non lo forzi. ||| 그럼 오늘 저녁에 뵙겠습니다. 선장님, 아버님이 말씀하기 싫다고 하시면 억지로 시키지 마세요.
+MANGIARACINA: Mio padre non rifiuta mai di parlare. Rifiuta di smettere. ||| 우리 아버지는 말하는 걸 거절하는 법이 없어요. 그치는 걸 거절하시죠.
+GIULIA: Sai che cosa mi preoccupa? Che Ferretti ha depositato ieri alle diciotto una richiesta alla Commissione. ||| 뭐가 걱정되는지 알아요? 어제 저녁 6시에 페레티가 위원회에 신청서를 냈어요.
+CORRADO: Una richiesta per che cosa? ||| 무슨 신청서요?
+GIULIA: «Ricerca esplorativa sui giacimenti idrotermali del fondale tra le due sponde». Articolo quattordici, diritto di negoziazione prioritaria. Quarantotto pagine. ||| '두 해안 사이 해저 열수광상 탐사 연구'요. 14조의 우선 협상권이고요. 48쪽이에요.
+CORRADO: Hanno scritto quarantotto pagine in due giorni su un'isola che ha due giorni. ||| 생긴 지 이틀 된 섬에 대해 이틀 만에 48쪽을 썼다는 거군요.
+GIULIA: Le avevano già in cassetto. Corrado, hanno aspettato la nascita per datare la firma. ||| 서랍에 이미 있었던 거예요. 코라도, 섬이 태어나길 기다렸다가 서명 날짜를 찍은 거죠.
+CORRADO: Allora ci serve tutto il tempo che abbiamo. Prima di sera mi servono due cose. Una fotografia della tavola, e una frase. ||| 그러니 가진 시간을 다 써야겠어요. 저녁 전에 두 가지가 필요해요. 식탁 사진 한 장하고 문장 하나요.
+GIULIA: La frase la conosco già: «Il mare conosce le stagioni.» L'hai scritta sul post-it ieri notte. ||| 문장은 이미 알아요. '바다는 계절을 안다.' 어젯밤 포스트잇에 써 놓았잖아요.
++ ridere dei verbi = 동사를 웃어넘기다. 말이 빠르고 문법을 대충 쓰는 사람을 놀리는 농담
++ guardarsi e salutarsi con due dita = 서로 쳐다보고 손가락 두 개로 인사하다. 어부들의 말없는 관행
++ giudicare la gente dalla camicia = 옷소매(셔츠)로 사람을 판단하다. 외양으로 신뢰를 재는 바닷가 사람의 습관
++ uno che non mi dice «stia calmo» = 내게 '진정하세요'라고 하지 않는 사람. 'uno che'는 '~하는 사람'이며 뒤에 직설법이 온다
++ tre iniziali, un solo livello = 머리글자 둘(A. L.)이 한 층을 가린다는 조울리아의 말장난
++ giacimenti idrotermali = 열수광상. 화산 해저에서 열수에 녹은 금속이 쌓인 광상. 스폰다 쪽이 노리는 자원
++ datare la firma = 서명 날짜를 찍다. 서류가 이미 준비돼 있었다는 의심을 담는다
++ Rifiuta di smettere = 그치기를 거절한다. 'rifiutare di + 부정사' 용법과 말 많은 노인을 놀리는 유머
+
+## 네 개의 바다 — I TESTIMONI
+CONCETTA: A tavola, e dico a tutti, anche a chi non ha fame. Ho fatto la zuppa di pesce: dentro c'è mezzo Tirreno e un quarto di Canale. ||| 식탁으로, 배 안 고픈 사람도 포함해서 모두다! 생선 수프를 끓였다. 티레니아 반 바다에 해협 4분의 1이 들어 있어.
+PEPPINO: Concè, il Canale non entra in una pentola. ||| 콘체, 해협은 냄비에 안 들어가.
+CONCETTA: Quello che non entra in una pentola, lo metto nel brodo con la memoria. Siediti, Peppino. ||| 냄비에 안 들어가는 건 기억으로 국물에 넣는 거야. 앉아, 페피노.
+MATTIA: Ho montato lo schermo sul muro della cucina. Funziona con due collegamenti, uno per Mazara, uno per Marsa Beida. Se salta, c'è il piano B. ||| 부엌 벽에 화면을 달았어요. 연결이 둘이에요. 하나는 마차라, 하나는 마르사 베이다고요. 끊기면 대안이 있고요.
+ERCOLE: Che piano? ||| 무슨 대안?
+MATTIA: Il telefono con il vivavoce. ||| 스피커폰이요.
+ERCOLE: Il piano B è sempre il telefono. Il piano A è sempre chi parla con la bocca. Corrado, siediti accanto a me e metti quel taccuino in tasca per cinque minuti. ||| 대안은 늘 전화지. 본안은 늘 입으로 말하는 사람이고. 코라도, 내 옆에 앉아서 그 수첩은 5분만 주머니에 넣어 둬라.
+CORRADO: Ercole, lo metto. Ma lo tiro fuori appena parla uno di loro. ||| 에르콜레 씨, 넣어 두죠. 하지만 누구든 말을 시작하면 바로 꺼냅니다.
+LUCIANA: Corrado, hai portato il vino? ||| 코라도, 와인 가져왔니?
+CORRADO: Due damigiane, Luciana, del Nolano che mi manda un amico. ||| 두 통이요, 루차나 씨. 한 친구가 보내 준 놀라 와인으로요.
+LUCIANA: Bravo. Io sono nata a Chioggia, e a Chioggia chi non porta vino non porta rispetto. ||| 잘했다. 나는 키오자에서 태어났는데, 키오자에서는 와인 안 가져오는 건 존경을 안 가져오는 거야.
+CORRADO: Vi chiedo una cosa a tutti. Da dove vengono i vostri vecchi? ||| 모두에게 하나만 묻겠습니다. 어르신들 집안은 어디서 오셨나요?
+CONCETTA: Sciacca, ti ho già detto. Via del Mare, dodici. ||| 시아카야, 말했잖니. 바다길 12번지.
+PEPPINO: Gaeta, a Porto Salvo. Mio nonno aveva una barca che si chiamava «La Pazienza». ||| 가에타, 포르토 살보요. 우리 할아버지에겐 '라 파치엔차'라는 배가 있었지.
+ERCOLE: Mia madre di Ponza, e mio padre di Testaccio, che è come dire del mare con il fiume dentro. ||| 우리 어머니는 폰차 출신이고 아버지는 테스타초 사람이야. 강이 들어간 바다 사람이라는 뜻이지.
+LUCIANA: Chioggia. Mio padre faceva il «bragozzo», una barca con le vele rosse, e a Natale ci portava a vedere le barche ferme. ||| 키오자. 우리 아버지는 붉은 돛을 단 '브라고초' 배를 타셨고 크리스마스에는 멈춰 선 배들을 보여 주러 데려가셨지.
+CORRADO: Quattro porti e quattro modi di aspettare. Concetta, parta lei. ||| 항구가 넷이고 기다리는 방식도 넷이군요. 콘체타 할머니부터 시작하세요.
+CONCETTA: A Sciacca, quando il mare fa il capriccio, nessuno esce. Non è paura. È educazione. Si dice: il mare ha il suo turno, e prima o poi ti dà il tuo. ||| 시아카에서는 바다가 변덕을 부리면 아무도 안 나간다. 무서워서가 아니라 예의 때문이지. 바다에게는 바다의 차례가 있고 언젠가는 네 차례도 준다고들 한다.
+PEPPINO: A Gaeta la stessa cosa, con altre parole. «Il pesce sa quando venire, il pescatore deve imparare quando aspettare.» ||| 가에타도 같다, 말만 다르지. '물고기는 언제 올지 알고 어부는 언제 기다릴지 배워야 한다.'
+ERCOLE: Mia madre diceva che a Ponza il pesce appartiene al mare e l'uomo al suo turno. Una frase che da ragazzo mi sembrava un'idiozia. ||| 우리 어머니는 폰차에서는 고기는 바다의 것이고 사람은 제 차례의 것이라고 하셨다. 어릴 때는 바보 같은 소리로 들렸지.
+LUCIANA: A Chioggia noi lo chiamavamo «il giro». Se tuo cugino pesca la sogliola questa settimana, tu la prossima. Nessuno ha mai scritto il giro. Ma se qualcuno ne salta uno, lo sanno tutti. ||| 키오자에서는 그걸 '돌기'라고 불렀어. 사촌이 이번 주에 혀가자미를 잡으면 너는 다음 주에 잡는 거지. 아무도 돌기를 적은 적은 없지만 누가 건너뛰면 모두가 알아.
+CORRADO: Nessun testo, ma tutti lo sanno. Luciana, questa è la definizione di un diritto. ||| 문서는 없지만 모두가 안다. 루차나 씨, 그게 권리의 정의입니다.
+LUCIANA: Allora tutta la mia vita era una causa civile. ||| 그럼 내 평생이 민사 소송이었네.
+ERCOLE: Corrado, che cosa cerchi con precisione? Se mi dici il metodo, non mi dimentico niente. ||| 코라도, 정확히 뭘 찾는 거냐? 방법을 말해 주면 빠뜨리는 게 없을 거다.
+CORRADO: Cerco prove di un'usanza, Ercole. Un modo di dividere lo stesso mare tra due popoli senza bandiere. Voglio sapere chi ha pescato per primo, quando, e che cosa ha dato in cambio. ||| 관행의 증거를 찾습니다, 에르콜레 씨. 깃발 없이 두 민족이 같은 바다를 나누던 방식이요. 누가 언제 먼저 잡았는지, 대신 무엇을 주었는지 알고 싶습니다.
+ERCOLE: «In cambio». Quella è la parola che nessuno dice. In ogni porto si dà qualcosa quando si prende la propria parte. ||| '대신'이라. 아무도 말하지 않는 단어지. 어느 항구든 제 몫을 가져갈 때는 뭔가를 내놓는 법이야.
+CONCETTA: Il pesce, il vino, una cassetta di agrumi. Oppure una sera a tavola con gli altri. ||| 생선, 와인, 감귤 한 상자. 아니면 다른 사람들과 함께하는 저녁 한 끼.
+CORRADO: Ecco. Tavola e turno. Mattia, accendi lo schermo. ||| 바로 그겁니다. 식탁과 차례요. 마티아, 화면 켜렴.
++ mezzo Tirreno e un quarto di Canale = 티레니아 반 바다와 해협 4분의 1. 콘체타가 국물에 '기억'을 넣는다는 유머
++ il bragozzo = 키오자의 붉은 돛 어선. 아드리아해 어부 문화의 상징
++ il giro = 돌기, 번갈아 하는 순서. 키오자 어부들이 쓰던 말로 4부의 '차례' 개념과 연결
++ fare il capriccio = 변덕을 부리다. 바다를 아이처럼 의인화하는 노인의 말투
++ Non è paura, è educazione = 두려움이 아니라 예의다. 대구로 관행의 도덕성을 보여 줌
++ mi sta bene = 괜찮네, 마음에 든다. 노인이 상대를 받아들일 때 쓰는 짧은 승인
++ chi non porta vino non porta rispetto = 와인을 안 가져오는 사람은 존경도 안 가져온다. 'portare rispetto'는 '경의를 표하다'
++ è la definizione di un diritto = 그것이 권리의 정의다. 관행(consuetudine)이 권리의 뿌리라는 논지
+
+## 두 화면, 하나의 바다 — LE DUE SPONDE
+MATTIA: Mazara è su. Capitano, ci sente? ||| 마차라 연결됐어요. 선장님, 들리세요?
+MANGIARACINA: Ci sento, ragazzo. Sono qui con mio padre Gaspare e due cognati che non hanno niente da fare. ||| 들린다, 얘야. 아버지 가스파레하고 할 일 없는 처남 둘이 같이 있다.
+GASPARE: Sono Gaspare Mangiaracina. Ottantaquattro anni. Cinquantasei in mare. Chi mi vuole parlare, si sieda, che io ho tempo. ||| 가스파레 만자라치나다. 여든넷에 바다에 오십육 년 있었지. 나와 말하려는 사람은 앉아라, 난 시간 많다.
+ERCOLE: Gaspare, ci siamo seduti tutti. Io sono Ercole Santini, ex usciere degli Esteri, e mi sono seduto con trent'anni di anticipo. ||| 가스파레 씨, 우리 다 앉았소. 나는 에르콜레 산티니, 외무부 전직 사환이고 삼십 년 일찍 앉았지.
+GASPARE: Un usciere? Allora sai quando la gente entra e quando esce. Mi sta bene. ||| 사환이라고? 그럼 사람이 언제 들어오고 언제 나가는지 알겠군. 괜찮아.
+CORRADO: Signor Gaspare, grazie. Una domanda. Nel mare tra Mazara e Marsa Beida, dove adesso c'è l'isola, in passato chi pescava per primo? ||| 가스파레 씨, 감사합니다. 질문 하나 드리겠습니다. 마차라와 마르사 베이다 사이의 바다, 지금 섬이 생긴 곳에서 예전에는 누가 먼저 잡았습니까?
+GASPARE: Dipende dalla stagione, giovanotto. Da marzo a giugno il primo lancio spetta ai tarsiani, perché il pesce azzurro entra da sud. Da ottobre a gennaio il primo lancio è nostro, perché il gambero sale da nord. ||| 계절에 따라 다르지, 젊은이. 3월부터 6월까지는 푸른 생선이 남쪽에서 들어오니 첫 투망은 타르시아 사람 몫이다. 10월부터 1월까지는 새우가 북쪽에서 올라오니 첫 투망은 우리 몫이고.
+CORRADO: E chi lo ha deciso? ||| 누가 정했습니까?
+GASPARE: Decidere? Nessuno ha deciso. Lo faceva già il mio nonno, e il nonno del nonno di quelli di Marsa Beida. Si vede dal mare chi ha il turno: la barca che ha il turno accende il lume per prima. ||| 정했다고? 아무도 안 정했어. 우리 할아버지가 그렇게 했고 마르사 베이다 사람들의 할아버지의 할아버지도 그랬다. 차례는 바다에서 보이지. 차례인 배가 먼저 등불을 켠다.
+MATTIA: Marsa Beida è su. Idris? ||| 마르사 베이다 연결됐어요. 이드리스 씨?
+IDRIS: Buonasera a tutti. Sono nella casa del rais Hocine Belkacem, davanti al porto. Ha settantanove anni e mi ha già insultato due volte perché traduco troppo bene. Vi riporto le sue parole in prima persona. ||| 모두 안녕하십니까. 저는 항구 앞 호신 벨카셈 라이스의 집에 있습니다. 일흔아홉 살이신데, 번역을 너무 잘한다고 벌써 두 번이나 욕을 하셨습니다. 말씀은 1인칭으로 그대로 옮기겠습니다.
+HOCINE: Sono contento che ci sia un tavolo. Sono vent’anni che nessuno si siede a un tavolo. ||| 식탁이 있어서 기쁘네. 이십 년 동안 아무도 식탁에 앉지 않았으니까.
+CORRADO: Rais Hocine, mi dica la stessa cosa che ha detto Gaspare: in primavera chi pesca per primo? ||| 호신 라이스, 가스파레 씨와 같은 걸 말씀해 주십시오. 봄에는 누가 먼저 잡습니까?
+HOCINE: Noi. E noi ringraziamo, perché il pesce azzurro è nostro dono del sud. Poi in ottobre cediamo. ||| 우리요. 그리고 감사하지요, 푸른 생선은 남쪽이 주는 선물이니까. 그리고 10월에는 양보합니다.
+CORRADO: Come cedete? ||| 어떻게 양보합니까?
+HOCINE: Con una cassetta. Noi mandiamo una cassetta di datteri di Marsa Beida, e loro rispondono con una cassetta di pesce. La barca che cede brinda per prima, con il tè alla menta. L'altra risponde con il vino. ||| 상자 하나로요. 우리는 마르사 베이다 대추야자 한 상자를 보내고 그쪽은 생선 한 상자로 답합니다. 자리를 내주는 배가 먼저 박하차로 건배하고 다른 쪽은 와인으로 답하지요.
+GASPARE: È vero. Chi cede brinda per primo. Chi prende ringrazia. Mio padre me lo ha insegnato così. ||| 맞다. 양보하는 쪽이 먼저 건배하고 받는 쪽이 감사한다. 우리 아버지가 그렇게 가르치셨다.
+CONCETTA: Ma allora il primo a sollevare il bicchiere non è il più forte. È il più generoso. ||| 그럼 잔을 먼저 드는 사람이 가장 센 사람이 아니라 가장 너그러운 사람이라는 거네.
+HOCINE: Esattamente, signora. E nessuno lo scrive, perché se lo scrivi smette di essere un dono e diventa un debito. ||| 바로 그렇소, 부인. 그런데 아무도 적지 않소. 적는 순간 선물이 아니라 빚이 되니까.
+CORRADO: Rais, una cosa. Questa usanza è mai stata violata? ||| 라이스, 하나만요. 이 관행이 깨진 적은 있습니까?
+HOCINE: Una volta. Nel 1987 una barca di Mazara ha lanciato il primo lancio di ottobre il giorno sbagliato. Noi eravamo furiosi. ||| 한 번 있었소. 1987년에 마차라 배 하나가 10월 첫 투망을 날짜를 틀리게 했소. 우리는 격분했지.
+GASPARE: Era la barca di mio cognato. Che stupido. ||| 내 처남 배였소. 바보 같으니.
+HOCINE: Poi Gaspare è venuto a Marsa Beida, con la cassetta, e ha bevuto il tè alla menta per primo. Ha detto: «È colpa nostra». E la cosa è finita. ||| 그러고 나서 가스파레가 상자를 들고 마르사 베이다에 와서 먼저 박하차를 마셨소. '우리 잘못이오'라고 하면서. 그리고 일이 끝났지.
+GASPARE: Il tè era buono. Il resto me lo ricordo meno. ||| 차는 맛있었지. 나머지는 기억이 덜 나는군.
+CORRADO: Signor Gaspare, rais Hocine, sapete che questi sono i fatti che cercavo? ||| 가스파레 씨, 호신 라이스, 이게 제가 찾던 사실들이라는 걸 아십니까?
+SAADI: Corrado, scusa se entro. Sto ascoltando da casa di Hocine. Posso dire due parole? ||| 코라도, 끼어들어서 미안. 호신 씨 집에서 듣고 있었어. 두 마디만 해도 될까?
+CORRADO: Saadi! Mi fa piacere. ||| 사아디! 반갑군.
+SAADI: Hocine è mio zio. Non te l'avevo mai detto, perché a Napoli non me lo chiedeva nessuno. Quella cassetta di datteri è quella che mia madre mandava a mio zio ogni ottobre. ||| 호신 씨는 내 외삼촌이야. 나폴리에서는 아무도 안 물어서 말한 적이 없었지. 그 대추야자 상자는 우리 어머니가 해마다 10월에 외삼촌께 보내던 거야.
+CORRADO: Saadi, allora tu sei una testimonianza. ||| 사아디, 그럼 자네가 하나의 증언이군.
+SAADI: Sono una cassetta con un nome. ||| 이름이 달린 상자지.
++ il primo lancio = 첫 투망. 어부들이 계절마다 누가 먼저 그물을 놓는지 정하는 관행의 핵심 용어
++ spettare a = ~의 몫이다, ~에게 속한다. 'Il primo lancio spetta ai tarsiani'
++ accendere il lume = 등불을 켜다. 차례인 배가 먼저 불을 켜 신호하는 바다의 관행
++ Chi cede brinda per primo = 양보하는 쪽이 먼저 건배한다. 시리즈 해법의 중심 의례
++ se lo scrivi smette di essere un dono e diventa un debito = 적으면 선물이 아니라 빚이 된다. 'il conto/debito' 모티프
++ ha lanciato il primo lancio il giorno sbagliato = 날짜를 틀리게 첫 투망을 했다. 'lancio'와 'lanciare'의 동어 반복
++ brindare con il tè alla menta = 박하차로 건배하다. 타르시아의 '잔'이 와인이 아니어도 건배가 성립한다는 뜻
++ scusa se entro = 끼어들어서 미안. 'tu' 사이에서 대화에 끼어들 때 쓰는 구어
+## 어떻게 적을까 — LA DICHIARAZIONE
+GIULIA: Corrado, ho preso nota di tutto. Ma una cosa è un verbale di una serata a cena, un'altra è un documento che Zerhouni possa leggere senza ridere. ||| 코라도, 다 적어 놓았어요. 그런데 저녁 식사 자리의 메모와 제르후니가 웃지 않고 읽을 수 있는 문서는 다른 물건이에요.
+CORRADO: Hai ragione. Ercole, tu hai fatto l'usciere per trent'anni. Qual è la differenza tra un'informazione e una testimonianza? ||| 맞아요. 에르콜레 씨, 삼십 년 사환을 하셨죠. 정보와 증언의 차이가 뭡니까?
+ERCOLE: Una testimonianza ha un nome sotto. E un'età, e un luogo, e un'altra persona che dice «l'ho sentito anch'io». ||| 증언에는 밑에 이름이 있다. 나이도 있고 장소도 있고 '나도 들었다'고 말하는 사람도 하나 더 있어야지.
+CORRADO: Bene. Allora facciamo così. Un quaderno, una pagina per testimone. Nome, età, porto, anni di mare, che cosa ha visto con i suoi occhi e che cosa gli hanno raccontato. ||| 좋습니다. 이렇게 하죠. 공책 하나에 증인당 한 쪽입니다. 이름, 나이, 항구, 바다 경력, 직접 본 것과 전해 들은 것을요.
+PEPPINO: Visto e sentito dire sono due cose diverse, Corrado. Se scrivi tutto insieme sbagli. ||| 본 것하고 들은 것은 다른 거다, 코라도. 같이 쓰면 틀려.
+CORRADO: Per questo scrivo due colonne. Peppino, mi aiuti tu? ||| 그래서 칸을 둘로 나눌 겁니다. 페피노 씨가 도와주시겠어요?
+PEPPINO: Io? Ho una calligrafia da carabiniere. ||| 내가? 나는 순경 같은 글씨체인데.
+LUCIANA: Per questo ti serve. Nessuno la mette in dubbio. ||| 그래서 필요한 거지. 아무도 의심하지 않으니까.
+LEO: Papà, ti do il mio quaderno di filosofia. Ho ancora quaranta pagine bianche. ||| 아빠, 내 철학 공책 줄게. 아직 하얀 쪽이 마흔 장 남아 있어.
+CORRADO: Leo, è il tuo quaderno. ||| 레오, 네 공책이잖아.
+LEO: Lo so. Ma così dopo, quando lo apro, c'è sempre una pagina che dice: «Gaspare Mangiaracina, ottantaquattro anni». ||| 알아. 하지만 그러면 나중에 열 때마다 '가스파레 만자라치나, 여든네 살'이라고 적힌 쪽이 있을 거야.
+CONCETTA: Mi hai commossa, ragazzo. Dammi quel quaderno. Lo intitolo io. ||| 감동시키는구나, 얘야. 그 공책 이리 다오. 제목은 내가 붙이마.
+CORRADO: Nonna, il titolo? ||| 할머니, 제목은요?
+CONCETTA: «Lu mari canusci li stagiuni». Se lo traducono, lo traducono. Ma si legge com'è. ||| '루 마리 카누슈 리 스타지우니.' 번역하려면 하라지. 하지만 읽는 건 이대로 읽는 거야.
+GIULIA: Corrado, un'obiezione. Se Zerhouni legge «consuetudine», leggerà «Tarsia ha sempre pescato lì, quindi è nostro». ||| 코라도, 이의가 하나 있어요. 제르후니가 '관행'을 읽으면 '타르시아는 거기서 늘 고기를 잡았으니 우리 것이다'라고 읽을 거예요.
+CORRADO: E lo stesso farà Corvi con Mazara. Per questo il documento dirà una cosa sola, due volte: nessuno ha mai posseduto quel tratto di mare. Lo hanno usato a turno. ||| 코르비도 마차라를 두고 똑같이 읽겠죠. 그래서 문서는 한 가지를 두 번 말할 겁니다. 그 바다를 소유한 사람은 아무도 없었고 번갈아 썼다고요.
+ERCOLE: E se li facciamo firmare tutti con la stessa penna, chi la sente più sua? ||| 모두 같은 펜으로 서명하게 하면 누가 더 자기 거라고 느끼겠나?
+CORRADO: Nessuno. Per questo la penna è la stessa. ||| 아무도 안 그렇죠. 그래서 펜을 같게 하는 겁니다.
+CONCETTA: Nera. Chi è del mare firma con la nera. Gli altri blu. ||| 검은 펜이다. 바다 사람은 검은 펜으로 서명하고 나머지는 파란 펜으로.
+CORRADO: Nonna, non possiamo spedire un quaderno nero con due firme blu: tutti diranno che a Roma comanda il blu. ||| 할머니, 검은 서명 사이에 파란 서명 둘을 끼워 보낼 수는 없어요. 로마에서는 파란색이 지휘한다고들 할 테니까요.
+CONCETTA: Allora tutti neri. Corrado, tu firmi da ultimo, a matita. Hai ancora il turno. ||| 그럼 전부 검은색이다. 코라도, 너는 마지막에 연필로 서명해라. 아직 네 차례가 남았으니까.
+CORRADO: A matita, Nonna. Come un ospite. ||| 연필로 하겠습니다, 할머니. 손님답게요.
+GIULIA: Posso aggiungere un precedente? Ho trovato un passo che ci serve, e riguarda una pace di nove secoli fa. ||| 선례 하나를 덧붙여도 될까요? 우리에게 필요한 대목을 찾았는데 9세기 전의 평화 이야기예요.
+CORRADO: Raccontalo tu, Giulia. Sei di Bologna. Le leghe sono roba tua. ||| 줄리아가 들려줘요. 볼로냐 출신이잖아요. 동맹 이야기는 당신 전공이죠.
+GIULIA: Allora. Nel 1176 a Legnano i Comuni lombardi battono l'imperatore Federico Barbarossa. Nel 1177 a Venezia si firma una tregua di sei anni. Nel 1183 a Costanza arriva la pace. ||| 자, 그럼요. 1176년 레냐노에서 롬바르디아 도시들이 황제 프리드리히 바르바로사를 이깁니다. 1177년 베네치아에서 6년 휴전이 서명되고요. 1183년 콘스탄차에서 평화가 완성되죠.
+ERCOLE: E che cosa dice la pace? ||| 그래서 그 평화에는 뭐라고 쓰여 있나?
+GIULIA: Non risolve di chi sia l'Italia. Fa una cosa più pratica: le città conservano i diritti che già esercitano da tempo, per consuetudine, e giurano fedeltà all'imperatore. ||| 이탈리아가 누구 것인지는 정하지 않아요. 더 실용적인 일을 해요. 도시들은 오래전부터 써 온 권리를 관행에 따라 유지하고 황제에게 충성을 맹세하죠.
+CORRADO: Nessuno chiede più «di chi è». Si chiede: «Chi lo usa, e da quando?» ||| 더는 '누구 것인가'를 묻지 않아요. '누가 쓰고, 언제부터 썼는가'를 묻습니다.
+PEPPINO: E ha funzionato? ||| 그래서 통했나?
+GIULIA: Ha fornito la base su cui i Comuni hanno vissuto per generazioni. Un accordo sull'uso, non sul possesso. ||| 도시들이 몇 세대 동안 살아간 기반이 됐어요. 소유가 아니라 사용에 관한 합의였죠.
+CORRADO: E soprattutto era arrivato dopo una tregua. Sei anni di tregua per scrivere ciò che già esisteva. Noi ne abbiamo dodici giorni. ||| 그리고 무엇보다 휴전 뒤에 왔습니다. 이미 있던 것을 적기 위한 6년의 휴전이었어요. 우리에게는 열이틀이 있고요.
+ERCOLE: Dodici giorni sono pochi. Ma i vecchi parlano in fretta. ||| 열이틀은 짧다. 하지만 노인들은 말을 빨리 하지.
++ testimonianza = 증언. 'informazione'(정보)과 달리 이름·나이·장소가 딸린 진술
++ per sentito dire = 들은 말로(전해 듣고). 'visto'(직접 본 것)와 구분해 쓰는 법정 용어
++ avere una calligrafia da carabiniere = 순경처럼 또박또박 쓰는 글씨체. 군인·경찰의 읽기 쉬운 서체를 가리키는 농담
++ intitolare = 제목을 붙이다. 'intitolare il quaderno'처럼 타동사
++ per consuetudine = 관행에 따라. 'consuetudine'는 오랜 반복으로 규범이 된 관습. 법적 권리의 뿌리
++ i vecchi parlano in fretta = 노인들은 말을 빨리 한다. 시간이 짧다는 걸 유머로 받는 에르콜레식 마무리
++ Le leghe sono roba tua = 동맹 이야기는 네 전공이다. 'roba tua'는 '네 분야'라는 구어
++ a matita = 연필로. 손님은 연필로, 회원은 검은 펜으로 쓴다는 클럽 규칙(3부)의 연속
+
+## 흄의 노 젓는 배 — LA BARCA DI HUME
+LEO: Posso farle una domanda, Nonna? ||| 할머니, 질문 하나 해도 돼요?
+CONCETTA: Tu puoi sempre. Ma dopo mi aiuti con i piatti. ||| 너는 언제든 해도 된다. 대신 끝나면 설거지를 도와라.
+LEO: Un'abitudine può diventare un diritto? ||| 습관이 권리가 될 수 있어요?
+CONCETTA: Dipende da chi ti ha dato l'abitudine. Se te l'hanno concessa, sì. Se te la sei presa, no. ||| 누가 그 습관을 주었느냐에 달렸지. 허락받았다면 그렇고 네가 가져갔다면 아니야.
+LEO: E se nessuno l'ha concessa, ma nessuno l'ha mai contestata? ||| 아무도 허락한 적은 없는데 아무도 이의를 제기한 적도 없다면요?
+CONCETTA: Allora è un'abitudine rispettata. Che è meglio di un diritto, perché il diritto lo difendi in tribunale, e quella la difendi con la faccia. ||| 그럼 존중받는 습관이지. 그게 권리보다 낫다. 권리는 법정에서 지키고 그건 얼굴로 지키는 거야.
+LEO: Papà, la sai quella di Hume? ||| 아빠, 흄의 이야기 알아?
+CORRADO: Quale? ||| 어떤 거?
+LEO: Nel «Trattato sulla natura umana» dice che due uomini che remano su una barca lo fanno per un accordo, anche se non si sono mai fatti una promessa. ||| 『인간 본성에 관한 논고』에서 말하길, 서로 한 번도 약속한 적 없는 두 사람이 노를 저을 때도 합의에 따라 젓는 거라고 해.
+CORRADO: Cioè la convenzione viene prima della promessa. ||| 그러니까 관행이 약속보다 먼저라는 거구나.
+LEO: Sì. La promessa viene dopo, quando la convenzione comincia a non bastare. ||| 응. 약속은 나중에 와, 관행이 부족해지기 시작할 때.
+CORRADO: E quindi la dichiarazione che scriviamo stasera è... ||| 그러면 우리가 오늘 밤 쓰는 선언문은…
+LEO: La prima promessa su un uso che non ne aveva bisogno. Ma c'è un problema, papà. Hocine ha detto: se lo scrivi, il dono diventa un debito. ||| 약속이 필요 없던 관행에 붙이는 첫 번째 약속이야. 그런데 문제가 있어, 아빠. 호신 씨가 그랬잖아. 적는 순간 선물이 빚이 된다고.
+CORRADO: Hai ascoltato davvero. Sì, è un problema. ||| 정말 제대로 들었구나. 그래, 그게 문제야.
+LEO: Quindi come fai? ||| 그래서 어떻게 할 건데?
+CORRADO: Scrivo il turno, non la cassetta. Scrivo che da marzo a giugno il primo lancio spetta a loro e da ottobre a gennaio a noi. Ma non scrivo che cosa si porta. Quella parte resta un dono. ||| 차례를 적고 상자는 안 적을 거야. 3월부터 6월까지 첫 투망은 그쪽이고 10월부터 1월까지는 우리라고만 쓰는 거지. 무엇을 가져가는지는 안 쓰고. 그건 선물로 남겨 두는 거야.
+LEO: La regola scritta e il gesto non scritto. ||| 적힌 규칙과 적히지 않은 몸짓이네.
+CORRADO: Esatto. Se scrivi anche il gesto, la regola si ammala. ||| 맞아. 몸짓까지 적어 버리면 규칙이 병들어.
+CONCETTA: Quando parlate in due così, assomigliate a mio marito e a suo fratello quando discutevano di calcio. ||| 둘이 그렇게 이야기하는 걸 보니 남편과 시동생이 축구 얘기하던 모습이 떠오르는구나.
+LEO: Nonna, è un complimento? ||| 할머니, 칭찬이에요?
+CONCETTA: Lo era. Dopo sessant'anni mi manca il rumore. ||| 칭찬이었지. 육십 년이 지나니 그 소리가 그립구나.
+CORRADO: Leo, ultima cosa. Domani devo chiedere una cosa a Zerhouni. Io dico: «le stagioni non sono i confini». Che cosa gli dici tu? ||| 레오, 마지막이야. 내일 제르후니에게 부탁할 게 있어. 나는 '계절은 경계가 아니다'라고 말할 거야. 너라면 뭐라고 하겠니?
+LEO: Che un confine ti dice dove non andare. Una stagione ti dice quando tornare. ||| 경계는 어디로 가면 안 되는지를 알려 주고 계절은 언제 돌아올지를 알려 준다고요.
+CORRADO: Questa me la segno. ||| 그 말은 적어 둬야겠다.
++ è un'abitudine rispettata = 존중받는 관행이다. 법적 권리와 사회적 관행의 중간 개념
++ difendere con la faccia = 얼굴로 지키다. 법정이 아니라 체면으로 지킨다는 뜻
++ Trattato sulla natura umana = 『인간 본성에 관한 논고』(흄, 1739~40). 노 젓는 배의 비유는 제3권 '정의의 기원' 대목에 나온다
++ la convenzione viene prima della promessa = 관행이 약속보다 앞선다. 흄의 논지를 요약한 레오의 말
++ se lo scrivi, il dono diventa un debito = 적으면 선물이 빚이 된다. 호신의 말을 레오가 되짚는다
++ la regola si ammala = 규칙이 병든다. 'ammalarsi'는 '병들다'. 몸짓까지 문서화하면 의례가 굳는다는 은유
++ assomigliare a = ~를 닮다. 'assomigliare'는 'a'를 쓴다
++ un confine ti dice dove non andare; una stagione ti dice quando tornare = 경계는 가지 말 곳을, 계절은 돌아올 때를 말한다. 4부의 요약 문장
+
+## 첫 잔은 양보한 사람이 — IL BRINDISI
+MANGIARACINA: Dottore, scusi, siamo ancora qui. Mio padre non vuole che spengiamo lo schermo finché non ha visto il vino. ||| 박사님, 죄송합니다, 아직 여기 있습니다. 아버지가 와인을 보시기 전에는 화면을 끄지 못하게 하세요.
+CORRADO: Capitano, ecco il vino. Nolano, due damigiane. Mattia, versa. ||| 선장님, 와인 나갑니다. 놀라 와인 두 통이에요. 마티아, 따라 줘라.
+CONCETTA: Un momento. Prima di brindare c'è una regola: chi ha ceduto brinda per primo. Stasera chi ha ceduto? ||| 잠깐. 건배 전에 규칙이 있다. 양보한 사람이 먼저 건배한다. 오늘 밤 누가 양보했지?
+PEPPINO: Gaspare, che ci ha ceduto un'ora di sonno. ||| 가스파레 씨요. 우리에게 한 시간 잠을 양보하셨으니까.
+HOCINE: E io, che ho ceduto tre sigarette. ||| 나는 담배 세 개비를 양보했소.
+ERCOLE: Allora brinda per primo chi ha ceduto di più. Gaspare, tocca a te. ||| 그럼 가장 많이 양보한 사람이 먼저 건배한다. 가스파레 씨, 당신 차례요.
+GASPARE: Allora. Al mare che aspetta, e a quelli che sanno aspettare con lui. ||| 그럼 하겠소. 기다리는 바다에게, 그리고 바다와 함께 기다릴 줄 아는 사람들에게.
+HOCINE: Al mare che aspetta. E a una cassetta di datteri, che non ha mai fatto male a nessuno. ||| 기다리는 바다에게. 그리고 아무에게도 해를 끼친 적 없는 대추야자 한 상자에게.
+TUTTI: Al mare che aspetta! ||| 기다리는 바다에게!
+MATTIA: Corrado, un'ultima cosa sul quaderno: quante firme abbiamo? ||| 코라도, 공책에 대해 마지막으로요. 서명이 몇 개 모였어요?
+CORRADO: Sei testimoni. Concetta, Peppino, Ercole, Luciana, Gaspare, Hocine. Leo è il quaderno. ||| 증인 여섯입니다. 콘체타, 페피노, 에르콜레, 루차나, 가스파레, 호신. 레오는 공책이고요.
+LEO: Io sono la carta. Bella parte. ||| 난 종이구나. 좋은 배역인데.
+SAADI: Corrado, posso dire un'ultima cosa a tutti? ||| 코라도, 모두에게 마지막으로 한마디 해도 될까?
+CORRADO: Parla, ministro. ||| 말하게, 장관님.
+SAADI: Domattina porto questo quaderno a Zerhouni e gli dico: «Questa non è propaganda. Sono i vecchi di Marsa Beida che hanno scritto la tua seconda bandiera: una bandiera che non si pianta e che si alza ogni autunno». ||| 내일 아침 이 공책을 제르후니에게 가져가서 말하겠네. '이건 선전이 아니다. 마르사 베이다 노인들이 당신의 두 번째 깃발을 썼다. 꽂는 게 아니라 가을마다 올리는 깃발이다'라고.
+CORRADO: Se non lo convince? ||| 설득이 안 되면?
+SAADI: Allora lo porto a pranzo da mia madre. Nessun ministro ha mai resistito. ||| 그럼 어머니 댁 점심에 데려가지. 거기서 버틴 장관은 아직 없었어.
+CONCETTA: Quella signora mi piace già. ||| 그 어머님이 벌써 마음에 드는구나.
+GIULIA: Corrado, due messaggi. Il primo: Ferretti ha chiesto un incontro per giovedì. Dice di voler «contribuire con idee». ||| 코라도, 메시지가 둘이에요. 첫째, 페레티가 목요일 면담을 요청했어요. '아이디어로 기여하고 싶다'고요.
+CORRADO: Giovedì lo vedo. E il secondo? ||| 목요일에 만나죠. 둘째는요?
+GIULIA: Nadia Haddad, dal Museo di Marsa Beida. Mi scrive: «Nei nostri archivi c'è una fotografia di una carta nautica pisana del Trecento. C'è un segno nel Canale. Una piccola croce, e due nomi.» ||| 마르사 베이다 박물관의 나디아 하다드예요. '우리 문서고에 14세기 피사 해도의 사진이 있습니다. 해협에 표시가 하나 있어요. 작은 십자가 하나와 이름 둘입니다'라고 써 왔어요.
+CORRADO: Una croce e due nomi. In mezzo al Canale. ||| 십자가 하나와 이름 둘이라. 해협 한복판에요.
+GIULIA: Se è quello che penso, sulla carta quel punto è segnato come un banco. ||| 제 생각이 맞다면 해도에서 그 자리는 여울로 표시돼 있을 거예요.
+ERCOLE: Un banco. Una secca. Quindi l'isola, qualche secolo fa, c'era già. ||| 여울이라, 모래톱이라. 그러면 몇 세기 전에도 섬이 있었다는 거군.
+CORRADO: Forse c'era, e forse è scesa. Domani, Giulia, carta e lente. ||| 있었다가 가라앉았을 수도 있죠. 내일 줄리아, 지도와 돋보기를 챙겨요.
+CONCETTA: A tavola si promette, Corrado. E stasera abbiamo promesso a due vecchi che il loro mare non verrà messo in vendita. ||| 코라도, 식탁에서 약속하는 거야. 오늘 밤 우리는 노인 둘에게 그들의 바다를 팔지 않겠다고 약속했다.
+CORRADO: E a tavola si paga, Nonna. Io pago domani con il lavoro. ||| 그리고 식탁에서 갚는 거죠, 할머니. 저는 내일 일로 갚겠습니다.
+CONCETTA: Con il lavoro? Con una zuppa. Ci vediamo presto. A tavola! ||| 일로 갚는다고? 수프로 갚아라. 곧 또 보자. 식탁으로!
+TUTTI: A tavola! ||| 식탁으로!
++ chi ha ceduto brinda per primo = 양보한 사람이 먼저 건배한다. 4부에서 반복되는 의례 규칙. 'cedere'는 '넘겨주다'
++ tocca a te = 네 차례다. 'toccare a qualcuno'는 순서를 알리는 구어
++ Al mare che aspetta! = 기다리는 바다에게! 'A + 대상'으로 건배사를 만든다
++ contribuire con idee = 아이디어로 기여하다. 페레티 같은 인물이 쓰는 매끈한 기업 문체
++ una croce e due nomi = 십자가 하나와 이름 둘. 해도의 표기 방식에 대한 복선(다음 화)
++ banco / secca = 여울, 모래톱. 항해 도면에서 수면 가까운 얕은 지점을 가리키는 말
++ brindare = 건배하다. 'brindisi'는 건배, 'fare un brindisi'도 같은 뜻
++ lo porto a pranzo da mia madre = 어머니 댁 점심에 데려가다. 식탁이 설득의 마지막 수단이라는 시리즈 주제

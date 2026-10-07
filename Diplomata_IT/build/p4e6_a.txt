@@ -1,0 +1,134 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 4
+@ep 6
+@title Cavour e Garibaldi
+@ko 카보우르와 가리발디
+@setting 6월 15일 토요일 밤 23시 파르네지나 위기상황실 → 일요일 새벽 전화 → 오전 지중해 어선 '산타 로살리아' 갑판의 식탁(6마일 선) → 일요일 밤
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국장 대행 코라도 란차, 48세
+@cast GIULIA | 분석관 조울리아 마르케티, 32세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 54세
+@cast CORVI | 이탈리아 해군 제독 루제로 코르비, 61세
+@cast VALENTI | 이탈리아 국방참모총장 피에로 발렌티 장군, 63세
+@cast SAADI | 타르시아 장관
+@cast LARBI | 타르시아 초계함 '타니트' 함장 살림 라르비, 46세
+@cast SANDRI | 은퇴 대사 비토리오 산드리, 72세
+@cast GASPARE | 선장의 아버지 가스파레, 84세
+@cast MANGIARACINA | 마차라 델 발로 어선 선장 살바토레 만자라치나, 58세
+@cast LEO | 란차의 아들, 17세
+@cast SCIUTO | 카타니아 화산학 연구원 안토넬라 샤우토 박사, 55세
+@note 4부 6화는 '내부 충돌'의 화입니다. 토요일 밤 제독 코르비는 트랜스폰더를 끄고 군함 '알치오네'를 6마일 선 안으로 몰아 섬에 가깝게 접근합니다. 한 시간 사전 통보 약속(4-1)이 깨지고, 타르시아는 자기 열쇠를 씁니다. 코라도는 외교부가 제독에게 명령을 내릴 수 없다는 한계에 부딪힙니다. 역사 논거는 1860년 10월 26일의 테아노 회견입니다. 가리발디는 '천 명의 붉은 셔츠단'으로 남부를 정복했고, 카보우르는 그가 로마로 진격해 프랑스와 충돌할까 두려워했습니다. 사르데냐 왕 비토리오 에마누엘레 2세가 군대를 이끌고 마르케와 움브리아를 지나 내려와 테아노에서 가리발디를 만났고, 가리발디는 그를 '이탈리아의 첫 왕'으로 맞아 남부를 넘겼습니다. 카보우르는 그 자리에 없었지만 원하던 결과를 얻었습니다. 해법의 순간은 명령 체계를 문서가 아니라 만남으로 푸는 것입니다. 제독은 외교부의 명령이 아니라 자기 상관의 얼굴과 목소리 앞에서 따르게 되고, 타르시아 함장도 체면을 지킬 수 있도록 어선 갑판에 식탁을 놓습니다. 어휘는 지휘·군사(catena di comando, ordine, disobbedire, transponder, rotta)와 조건법·접속법(se fossi stato, a meno che, purché)에 주목하세요.
+@next 4-7 «백작 부인» — 페데리카가 타르시아 장관의 약점을 내밀고, 레오는 그 값을 누가 치르는지 묻습니다.
+
+## 꺼진 신호 — LA NOTTE DEL TRANSPONDER
+ORSOLINI: Sono le ventitré e quindici, Corrado. Ti ho chiamato dal teatro, scusa. Dimmi tutto. ||| 23시 15분이야, 코라도. 극장에서 전화했네, 미안. 다 말해 보게.
+CORRADO: Luca, ci sono dall'una. Giulia, la mappa. ||| 루카, 한 시간 전부터 와 있었어요. 줄리아, 지도 보여 줘요.
+GIULIA: Questa è la situazione alle ventidue e cinquanta. «Alcione» alle ventuno e cinquantacinque ha spento il transponder. Alle ventidue e quindici è uscita dal cerchio dei sei miglia. Ora è a quattro miglia e mezzo dall'isola. ||| 22시 50분 상황이에요. '알치오네'는 21시 55분에 트랜스폰더를 껐고 22시 15분에 6마일 원을 벗어났어요. 지금은 섬에서 4.5마일이에요.
+ORSOLINI: Dove sono i tarsiani? ||| 타르시아 쪽은 어디 있나?
+GIULIA: «Tanit» a sei miglia e sette. Ma alle ventidue e dieci si è spostata di cinquecento metri verso nord. ||| '타니트'는 6.7마일입니다. 하지만 22시 10분에 북쪽으로 500미터 이동했어요.
+CORRADO: Cinquecento metri. Prima dell'«Alcione». ||| 500미터라. '알치오네'보다 먼저군요.
+GIULIA: Dieci minuti prima, Corrado. Corvi dirà che ha risposto a una provocazione. ||| 10분 먼저예요, 코라도. 코르비는 도발에 대응했다고 말할 거예요.
+ORSOLINI: E noi? Hai avvisato Saadi un'ora prima, come avevamo detto? ||| 우리는? 말한 대로 사아디에게 한 시간 전에 알렸나?
+CORRADO: Nessuno ha avvisato nessuno. Né noi, né loro. La linea a due chiavi è rimasta muta. ||| 아무도 아무에게 알리지 않았어요. 우리도 그들도요. 열쇠 둘의 직통선은 침묵했어요.
+ORSOLINI: Chi aveva la chiave dell'Italia? ||| 이탈리아 쪽 열쇠는 누가 갖고 있었나?
+CORRADO: Io e te. Io ero a casa, tu a teatro. L'ammiraglio non ce l'aveva. ||| 나와 자네요. 나는 집에, 자네는 극장에 있었죠. 제독에게는 없었고요.
+ORSOLINI: Dovevamo dargliela. Dovevamo dare una chiave anche a lui. ||| 제독에게도 열쇠를 줬어야 했어. 그에게도 하나 줬어야 했네.
+CORRADO: Luca, non è il momento delle colpe. Chiama Saadi. Ti mando il numero. ||| 루카, 지금은 잘못을 따질 때가 아니에요. 사아디에게 전화해요. 번호는 보내 줄게요.
+SAADI: Corrado, sono io. Ti chiamo dal mio studio, con una tazza di tè che non mi serve. ||| 코라도, 나야. 서재에서 걸어. 필요 없는 차 한 잔을 곁에 두고.
+CORRADO: Saadi, ho una spiegazione che non sarà una scusa. ||| 사아디, 설명이 있는데 변명은 아니야.
+SAADI: Corrado. Per favore. Prima io. Zerhouni mi ha chiamato alle ventitré. Dice che l'Italia ha rotto la linea. Dice che la «Tanit» si è spostata di cinquecento metri per difesa. ||| 코라도, 부탁이야. 내가 먼저 말하지. 제르후니가 23시에 전화했어. 이탈리아가 직통선을 깼다고 하더군. '타니트'는 방어를 위해 500미터 이동한 거라고.
+CORRADO: Per difesa o per anticipo? ||| 방어야 선점이야?
+SAADI: Non lo so, e non lo chiedere a me. Ma ti dico una cosa. Alle quattro, se l'«Alcione» non rientra, lui darà ordine di mettere due gommoni in mare. ||| 나는 몰라, 내게 묻지 마. 하지만 하나는 말해 두지. 새벽 4시까지 '알치오네'가 돌아가지 않으면 그가 고무보트 두 척을 바다에 내리라고 명령할 거야.
+CORRADO: Due gommoni. Con quanti uomini? ||| 고무보트 두 척이라. 몇 명으로?
+SAADI: Dodici. Come i vostri. ||| 열두 명. 당신들 쪽과 같지.
+GIULIA: Dodici. Il numero della squadra di Corvi. ||| 열둘이에요. 코르비 팀 인원과 같아요.
+CORRADO: Allora si guardano nello specchio. Saadi, dammi tre ore. ||| 그러면 서로 거울을 보고 있는 거로군. 사아디, 세 시간만 줘.
+SAADI: Tre ore sono tante. Un'ora e mezza. ||| 세 시간은 많아. 한 시간 반.
+CORRADO: Un'ora e mezza. Con la chiave a due. ||| 한 시간 반. 열쇠 둘로.
+SAADI: Con la chiave a due. A tavola si promette, Corrado. ||| 열쇠 둘로. 식탁에서 약속하는 거야, 코라도.
+CORRADO: E a tavola si paga. Ma stavolta il conto è mio. ||| 그리고 식탁에서 갚는 거고. 하지만 이번 계산은 내 몫이야.
+ORSOLINI: Corrado, io chiamo il ministro della Difesa. Tu chiama Corvi. ||| 코라도, 나는 국방장관에게 전화하겠네. 자네는 코르비에게 하게.
+CORRADO: Giulia, il satellitare dell'«Alcione». ||| 줄리아, '알치오네' 위성 전화예요.
+GIULIA: Squilla. Squilla. Risponde. ||| 울려요. 울려요. 받았어요.
++ transponder = 선박 자동식별장치. 신호를 끄면 군함도 위치가 노출되지 않는다
++ a due chiavi = 열쇠 둘로. 시리즈 장치. 한 사람이 단독으로 열 수 없는 연락선
++ per difesa o per anticipo? = 방어냐 선점이냐? 군사 행동의 성격을 묻는 두 단어 대비
++ Si guardano nello specchio = 서로 거울을 본다. 양쪽이 똑같은 숫자와 행동을 되풀이하는 상황을 가리킴
++ dammi tre ore = 세 시간만 줘. 'dare' 명령형 + 간접 목적 대명사의 결합('da' + 'mi')
++ non è il momento delle colpe = 잘못을 따질 때가 아니다. 책임 추궁 전에 상황 수습을 우선하자는 표현
++ ci sono dall'una = 한 시부터 와 있었다. 'da' + 시각은 계속된 시간의 시작점
++ squilla = (전화가) 울린다. 'squillare'는 벨이 울리는 소리를 뜻하는 동사
+
+## 한 제독, 두 주인 — UN AMMIRAGLIO, DUE PADRONI
+CORVI: Comando «Alcione», parla l'ammiraglio Corvi. Dottor Lanza, a quest'ora? ||| '알치오네' 지휘소, 코르비 제독입니다. 란차 박사님, 이 시각에요?
+CORRADO: Ammiraglio, buonasera. Mi scusi l'ora, e mi scusi il tono, che sarà quello di un uomo che vuole capire. Perché ha spento il transponder? ||| 제독님, 안녕하십니까. 늦은 시각과 말투를 용서해 주십시오. 이해하고 싶은 사람의 말투일 겁니다. 왜 트랜스폰더를 끄셨습니까?
+CORVI: Per motivi di sicurezza operativa. Mi è stato riferito che la «Tanit» preparava un'azione. ||| 작전 보안상의 이유입니다. '타니트'가 행동을 준비하고 있다는 보고를 받았습니다.
+CORRADO: Da chi? ||| 누구에게서요?
+CORVI: Da una fonte che non posso rivelare. ||| 밝힐 수 없는 출처에게서입니다.
+CORRADO: Ammiraglio, una fonte che Lei non può rivelare è, spesso, una fonte che qualcuno vuole che Lei ascolti. ||| 제독님, 밝힐 수 없는 출처란 종종 누군가가 제독님께 들려주길 원하는 출처입니다.
+CORVI: Dottore, è un'insinuazione. ||| 박사님, 그건 암시입니다.
+CORRADO: È una domanda. Una fonte della ditta Alba? ||| 질문입니다. 알바 회사 쪽 출처입니까?
+CORVI: La nave d'appoggio «Alba Uno» ha segnalato movimenti. È una nave civile. Non ho motivo di dubitare. ||| 보조선 '알바 우노'가 움직임을 알려 왔습니다. 민간 선박입니다. 의심할 이유가 없습니다.
+GIULIA: Corrado, «Alba Uno». Non è una nave che abbiamo autorizzato. ||| 코라도, '알바 우노'예요. 우리가 허가한 배가 아니에요.
+CORRADO: Ammiraglio, ha accettato una nave civile senza informarci? ||| 제독님, 우리에게 알리지 않고 민간 선박을 받아들이셨습니까?
+CORVI: Dottore, io mi occupo di mare, e non di burocrazia. Il mare ha bisogno di mani. ||| 박사님, 저는 바다를 맡지 관료제를 맡지 않습니다. 바다에는 일손이 필요합니다.
+CORRADO: Ammiraglio, ho una domanda sola. Se io Le chiedo di rientrare, Lei rientra? ||| 제독님, 질문 하나만 하겠습니다. 제가 복귀해 달라고 부탁하면 복귀하시겠습니까?
+CORVI: Dottore, io rispondo al Capo di Stato Maggiore della Difesa e, tramite lui, al Presidente del Consiglio. Non al Ministero degli Esteri. Con tutto il rispetto, Lei è un ospite nella mia catena di comando. ||| 박사님, 저는 국방참모총장에게 답하고 그를 통해 총리에게 답합니다. 외무부에는 아닙니다. 존경은 하지만 박사님은 제 지휘 체계에서 손님입니다.
+CORRADO: Lo so. E lo rispetto. Ammiraglio, mi dica che cosa Le serve per rientrare con onore. ||| 압니다. 그리고 존중합니다. 제독님, 명예롭게 복귀하시려면 무엇이 필요합니까?
+CORVI: Un ordine del mio superiore. Scritto o a voce, non importa. Un ordine che io possa riconoscere. ||| 제 상관의 명령입니다. 서면이든 구두든 상관없습니다. 제가 알아볼 수 있는 명령이요.
+CORRADO: Ammiraglio, la vedo adesso come un uomo che chiede una cosa semplice. ||| 제독님, 이제 간단한 걸 청하는 사람으로 보입니다.
+CORVI: Dottore, io sono un uomo semplice. ||| 박사님, 저는 단순한 사람입니다.
+CORRADO: Questo non lo credo. Ma Le dico che Lei avrà il suo ordine. Con una condizione: che arrivi di persona. ||| 그건 믿지 않습니다. 하지만 명령을 받으실 겁니다. 한 가지 조건이 있습니다. 직접 도착하는 명령일 것.
+CORVI: Di persona? ||| 직접이요?
+CORRADO: Faccia in faccia, a bordo. Lei si ferma a quattro miglia e mezzo. Il Capo di Stato Maggiore vi raggiunge domattina, alle undici. ||| 얼굴을 마주 보고 선상에서요. 제독님은 4.5마일에 멈추십시오. 국방참모총장이 내일 아침 11시에 도착합니다.
+CORVI: Il Generale Valenti non ha avvertito. ||| 발렌티 장군은 알려 주지 않았습니다.
+CORRADO: Non lo sa ancora. Ma lo saprà fra dieci minuti. Ammiraglio, una cosa: non lanci gommoni. Non prima delle undici. ||| 아직 모릅니다. 하지만 10분 안에 알게 될 겁니다. 제독님, 한 가지만. 고무보트는 띄우지 마십시오. 11시 전에는요.
+CORVI: E se i tarsiani lanciano i loro? ||| 타르시아가 그들 것을 띄우면요?
+CORRADO: Non lanceranno. Ho la parola di Saadi. Un'ora e mezza di tempo. ||| 띄우지 않을 겁니다. 사아디의 약속이 있습니다. 한 시간 반의 시간이요.
+CORVI: Dottore, io Le do mezz'ora in più. Ma alle undici, se non c'è nessuno a bordo, io procedo. ||| 박사님, 삼십 분 더 드리겠습니다. 하지만 11시에 선상에 아무도 없으면 저는 진행합니다.
+CORRADO: Ci sarà qualcuno. Ammiraglio, come si dice a Napoli, «chi dorme non piglia pesci». Ma stanotte non dorma. ||| 누군가 있을 겁니다. 제독님, 나폴리에서는 '자는 놈은 고기를 못 잡는다'고 합니다. 오늘 밤은 주무시지 마십시오.
+CORVI: Dottore, io non dormo da tre notti. ||| 박사님, 저는 사흘째 못 잡니다.
++ catena di comando = 지휘 체계. 군대에서 명령이 오르내리는 경로
++ ospite nella catena di comando = 지휘 체계의 손님. 외무부는 지휘할 권한이 없다는 코르비의 표현
++ chi dorme non piglia pesci = 자는 사람은 고기를 못 잡는다. 이탈리아 속담. 'piglia'는 'prende'의 구어형
++ fonte che non posso rivelare = 밝힐 수 없는 출처. 보도·정보 분야에서 비공개 소식통을 가리키는 관용구
++ ordine che io possa riconoscere = 내가 알아볼 수 있는 명령. 관계절의 접속법. 권위를 인정할 수 있는 명령이어야 한다는 뜻
++ io procedo = 저는 진행한다. 군사 용어로 작전을 계속한다는 뜻
++ nave d'appoggio = 보조선. 군함이나 작전을 지원하는 민간·군용 배
++ faccia in faccia = 얼굴을 마주 보고. 'a quattr'occhi'와 비슷하게 직접 만남을 강조
+
+## 테아노의 에스프레소 — L'ESPRESSO DI SANDRI
+SANDRI: Corrado, dimmi che cosa sai. Ho ricevuto una telefonata di Orsolini e ora sono qui, sotto casa tua, con un thermos. ||| 코라도, 아는 걸 말해 보게. 오르솔리니 전화를 받고 지금 자네 집 아래에 보온병을 들고 와 있네.
+CORRADO: Eccellenza, a mezzanotte! ||| 대사님, 한밤중에요!
+SANDRI: A mezzanotte il caffè è più sincero. Bevi. ||| 한밤중의 커피가 더 솔직하지. 마시게.
+CORRADO: Ho promesso a Corvi un ordine di persona. Alle undici, a bordo. Con il Capo di Stato Maggiore. ||| 코르비에게 직접 전달되는 명령을 약속했습니다. 11시에 선상에서, 국방참모총장과 함께요.
+SANDRI: Quindi Teano. ||| 그러니까 테아노로군.
+CORRADO: Teano? ||| 테아노요?
+SANDRI: Il ventisei ottobre 1860. Garibaldi con i suoi volontari, mille e poi molte migliaia, aveva conquistato il Sud. Il re Vittorio Emanuele scendeva da nord con l'esercito piemontese, dopo avere attraversato le Marche e l'Umbria. ||| 1860년 10월 26일일세. 가리발디가 자원병들과 함께, 천 명에서 수만 명이 되어 남부를 정복했지. 비토리오 에마누엘레 왕은 마르케와 움브리아를 지나 피에몬테 군대와 함께 북쪽에서 내려오고 있었고.
+CORRADO: E Cavour? ||| 카보우르는요?
+SANDRI: Cavour era a Torino. Non c'era. Aveva paura che Garibaldi marciasse su Roma e provocasse la Francia, che difendeva il Papa. Per questo il re scese a incontrarlo. ||| 카보우르는 토리노에 있었네. 그 자리에 없었어. 가리발디가 로마로 진격해 교황을 지키던 프랑스를 자극할까 두려워했지. 그래서 왕이 만나러 내려온 걸세.
+CORRADO: E lì, a Teano, che cosa è accaduto? ||| 그래서 테아노에서 무슨 일이 있었습니까?
+SANDRI: Si incontrarono due uomini a cavallo, vicino a un bivio. Garibaldi salutò Vittorio Emanuele come «primo re d'Italia» e gli consegnò il Sud. Nessuno è sicuro delle parole esatte. Ognuno le ha raccontate in un modo diverso. ||| 두 사람이 말을 타고 갈림길 근처에서 만났네. 가리발디는 비토리오 에마누엘레를 '이탈리아의 첫 왕'으로 맞이하며 남부를 넘겼지. 정확한 말은 아무도 확실치 않아. 모두 다르게 전했으니까.
+CORRADO: E che cosa è certo? ||| 무엇이 확실합니까?
+SANDRI: Il fatto che si incontrarono. Nessuno contestò mai quello. Le parole furono tradotte nei libri, l'incontro fu un'azione. ||| 만났다는 사실이지. 그건 누구도 다투지 않았네. 말은 책에서 번역되었지만 만남은 행동이었어.
+CORRADO: Non un documento, ma una stretta di mano. ||| 문서가 아니라 악수군요.
+SANDRI: Garibaldi non avrebbe mai obbedito a un ordine di Cavour. Ma un uomo come lui poteva cedere a un re che veniva a vederlo di persona. ||| 가리발디는 카보우르의 명령에는 결코 따르지 않았을 걸세. 하지만 그런 사람도 직접 와서 얼굴을 보는 왕에게는 양보할 수 있었지.
+CORRADO: Eccellenza, io non sono Cavour. ||| 대사님, 저는 카보우르가 아닙니다.
+SANDRI: Meglio. Cavour ottenne ciò che voleva restando a Torino. Tu hai bisogno di essere sulla barca. ||| 더 좋은 일이야. 카보우르는 토리노에 앉아서 원하는 걸 얻었네. 자네는 배 위에 있어야 하고.
+CORRADO: Sulla barca? ||| 배 위요?
+SANDRI: Un uomo di mare si sente ordinare sul mare. Se lo comandi da una scrivania, ti chiede un timbro. Se lo comandi in coperta, ti chiede un bicchiere. ||| 바다 사람은 바다에서 명령받는다고 느끼네. 책상에서 명령하면 도장을 요구하고, 갑판에서 명령하면 술 한 잔을 청하지.
+CORRADO: E se il generale non accetta? ||| 장군이 받아들이지 않으면요?
+SANDRI: Valenti accetterà. Ha una moglie di Mazara e un debole per il pesce. Ti dico solo di non portare niente di freddo. ||| 발렌티는 받아들일 걸세. 마차라 출신 아내가 있고 생선에 약하지. 차가운 건 가져가지 말라는 것만 말해 두겠네.
+CORRADO: Niente di freddo. ||| 차가운 건 안 되는군요.
+SANDRI: Un incontro in mare è sempre un incontro con le mani. Se hai le mani occupate, nessuno ha paura di te. ||| 바다 위의 만남은 늘 손의 만남이야. 손이 바쁘면 아무도 자네를 겁내지 않네.
+CORRADO: Eccellenza, grazie. ||| 대사님, 감사합니다.
+SANDRI: Non ringraziarmi. Chiedi alla Mangiaracina la barca e gli ingredienti. E il tavolo, per l'amor di Dio, rotondo. ||| 고마워하지 말게. 만자라치나에게 배와 재료를 부탁하게. 그리고 탁자는, 제발, 둥글게.
++ Teano (26 ottobre 1860) = 테아노 회견. 가리발디가 비토리오 에마누엘레 2세를 '이탈리아의 왕'으로 맞아 남부 정복지를 넘긴 만남
++ i Mille / le camicie rosse = 천인대 / 붉은 셔츠단. 가리발디의 자원병
++ Cavour non c'era = 카보우르는 그 자리에 없었다. 연출자가 현장에 없이도 결과를 얻는다는 점이 핵심
++ cedere a = ~에게 양보하다. 'cedere'는 4부에서 양보의 의례와 이어지는 동사
++ un debole per = ~에 대한 약점, 사족을 못 쓰는 것. 'avere un debole per il pesce'
++ Un incontro in mare è sempre un incontro con le mani = 바다 위의 만남은 늘 손의 만남이다. 일하는 손에 대한 산드리의 관찰
++ Garibaldi non avrebbe mai obbedito = 결코 따르지 않았을 것이다. 조건법 과거로 과거 사실의 가정
++ per l'amor di Dio = 제발. 강한 당부의 관용구
