@@ -1,0 +1,218 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 10
+@title Trattare al buio
+@ko 어둠 속의 협상
+@setting 화요일 오후 놀로 마을 입구 → 해질녘 산타 리타 병원 문 앞 → 밤 병원 예배당의 고해실
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast FAVRE | 적십자국제위원회 의사 대표, 64세
+@cast ABDOULAYE | 놀로 마을 중재인, 60세
+@cast IDRISSA | 납치 청년들의 우두머리(목소리), 19세
+@cast GIULIA | 분석관, 31세 (위성 전화)
+@cast ORSOLINI | 신임 외무사무총장, 53세 (위성 전화)
+@note 10화는 물밑 협상의 화입니다. 란차는 오르솔리니·국무원의 '두 열쇠' 승인 아래 군인이 아닌 신분으로 놀로에 도착해 적십자 의사 파브르와 함께 병원 문을 엽니다. 우두머리 이드리사는 얼굴을 보이길 거부해, 병원 예배당의 고해실 격자를 사이에 두고 목소리만으로 대화합니다. 란차는 그의 말버릇이 베네데타 수녀의 말버릇임을 알아차립니다. 역사 논거는 중세 성당의 '피난권(asylum)' 전통입니다. 성소에 무기를 들고 들어갈 수 없고, 들어온 자를 붙잡을 수 없다는 규칙이 중립 지대를 만든 선례입니다. 어휘는 협상·종교 공간(grata, penitente, rifugio, asilo, battente)에 주목하세요.
+@next 11화: 몸값 대신 '병원 건립 협정'으로 방식을 전환하고, 재단 장부의 모든 지급을 공개하는 제도를 만듭니다.
+
+## 놀로 도착 — L'ARRIVO A NDOLO
+GIULIA: Corrado, mi senti? Sono in linea satellitare. ||| 코라도, 들려요? 위성 회선이에요.
+CORRADO: Ti sento. Alla perfezione. Siamo a un chilometro dal villaggio. ||| 잘 들려요. 마을에서 1킬로미터 떨어진 곳이에요.
+GIULIA: Orsolini vuole dirti una cosa. ||| 오르솔리니 대사가 할 말이 있대요.
+ORSOLINI: Dottor Lanza. Sono qui con monsignor Pellegrini. Le confermiamo l'autorizzazione. Senza armi, senza scorta italiana, con la Croce Rossa. ||| 란차 박사, 펠레그리니 몬시뇰과 함께 있습니다. 허가를 확인합니다. 무기 없이, 이탈리아 경호 없이, 적십자와 함께입니다.
+CORRADO: Capito. ||| 알겠습니다.
+ORSOLINI: Due chiavi, dottor Lanza. Non lo dimentichi. Ogni sua parola, per iscritto, la sera stessa. ||| 열쇠 둘입니다, 란차 박사. 잊지 마십시오. 한 마디 한 마디를 그날 저녁 서면으로 남기세요.
+CORRADO: Lo farò. ||| 하겠습니다.
+ORSOLINI: E, dottor Lanza. ||| 그리고 란차 박사.
+CORRADO: Sì? ||| 네?
+ORSOLINI: Torni. ||| 돌아오십시오.
+CORRADO: Ci proverò. ||| 노력하겠습니다.
+FAVRE: Dottor Lanza, ha mai viaggiato su una strada come questa? ||| 란차 박사, 이런 길로 여행해 본 적이 있습니까?
+CORRADO: Mai. ||| 한 번도요.
+FAVRE: Io sì. Trentadue anni. E non ho mai smesso di avere paura. ||| 저는 있습니다. 32년이요. 그런데 한 번도 무서움이 사라진 적이 없어요.
+CORRADO: Non l'avrei detto. ||| 그렇게 안 보이십니다.
+FAVRE: È il mio mestiere. Sembrare calmo mentre il cuore corre. ||| 그게 제 일입니다. 심장이 뛰는데 침착해 보이는 것.
+ABDOULAYE: Eccovi. Eccovi. Siete in anticipo. ||| 오셨군요. 오셨네요. 일찍 오셨습니다.
+CORRADO: Abdoulaye. Finalmente. ||| 압둘라예 씨. 드디어요.
+ABDOULAYE: Lanza. Piacere. Ha un viso più giovane che alla voce. ||| 란차 씨. 반갑습니다. 목소리보다 얼굴이 젊으시네요.
+CORRADO: E lei ha un viso più sorridente. ||| 당신은 얼굴이 더 환하시고요.
+ABDOULAYE: Sorrido per prudenza. Qui i ragazzi non amano i volti tristi. ||| 신중하려고 웃는 겁니다. 여기 아이들은 슬픈 얼굴을 싫어해서요.
+FAVRE: Monsieur Abdoulaye, je suis le docteur Favre. ||| 압둘라예 씨, 파브르 박사입니다.
+ABDOULAYE: Docteur. La porte vous attend. ||| 박사님. 문이 기다리고 있습니다.
+FAVRE: Je suis venu pour la pousser. ||| 밀러 왔습니다.
+ABDOULAYE: Allora venite. Piano. I bambini vi guardano. ||| 그럼 오세요. 천천히요. 아이들이 지켜봅니다.
+CORRADO: I bambini? ||| 아이들이요?
+ABDOULAYE: In ogni finestra. Non fate rumore. ||| 모든 창문마다요. 소리 내지 마세요.
++ linea satellitare = 위성 회선
++ senza scorta = 경호 없이
++ per iscritto = 서면으로
++ stare in anticipo = 일찍 오다
++ per prudenza = 신중하려고
++ mestiere = 직업, 일
+
+## 병원 문 앞 — DAVANTI ALLA PORTA
+FAVRE: Eccola. ||| 여기 있군요.
+CORRADO: È di legno. ||| 나무네요.
+FAVRE: Legno di karité. Rosso scuro. Gonfio per l'umidità. ||| 시어버터 나무예요. 짙은 붉은색이고 습기로 부풀었어요.
+ABDOULAYE: Per tre anni nessuno l'ha toccata. Non per paura. Per rispetto. ||| 3년 동안 아무도 건드리지 않았습니다. 무서워서가 아니라 존중하는 마음에서요.
+CORRADO: Rispetto per chi? ||| 누구에 대한 존중이죠?
+ABDOULAYE: Per il bambino. Si è fermato davanti a questa porta, e non ha trovato nessuno. ||| 아이에 대한 거죠. 아이가 이 문 앞에 멈췄는데 아무도 찾지 못했으니까요.
+FAVRE: Posso? ||| 제가 해도 될까요?
+ABDOULAYE: È il suo mestiere. ||| 박사님의 일이죠.
+FAVRE: No. È il suo permesso. Mi serve il permesso del villaggio. ||| 아닙니다. 허락이 필요해요. 마을의 허락이요.
+ABDOULAYE: Ce l'ha. ||| 받으셨습니다.
+CORRADO: E dei ragazzi? ||| 청년들은요?
+ABDOULAYE: I ragazzi sono il villaggio, Lanza. ||| 청년들이 마을이에요, 란차 씨.
+FAVRE: Allora spingo. ||| 그럼 밀겠습니다.
+CORRADO: Dottore, un momento. ||| 박사님, 잠깐만요.
+FAVRE: Sì? ||| 네?
+CORRADO: Vorrei dire una cosa. Soltanto una. ||| 한 마디만 하고 싶습니다. 딱 하나요.
+FAVRE: La dica. ||| 하세요.
+CORRADO: A chi ha perso quel bambino: mi dispiace. Non per il mio governo. Per me. ||| 그 아이를 잃은 분들에게. 죄송합니다. 우리 정부를 대신해서가 아니라 저 개인으로서요.
+ABDOULAYE: Lo dica a chi lo può ascoltare. ||| 들을 수 있는 사람에게 하세요.
+CORRADO: Lo dirò. Stasera. ||| 하겠습니다. 오늘 밤에요.
+FAVRE: Spingo. ||| 밀겠습니다.
+ABDOULAYE: Spinga. ||| 미세요.
+FAVRE: Una, due... ||| 하나, 둘…
+ABDOULAYE: Si è aperta. ||| 열렸습니다.
+CORRADO: Sì. ||| 네.
+FAVRE: Non era chiusa a chiave. Era soltanto... gonfia. ||| 잠겨 있지 않았어요. 그냥… 부풀었을 뿐이에요.
+CORRADO: Come tante cose. ||| 많은 것들처럼요.
+ABDOULAYE: Dentro c'è polvere. E un registro. Aperto alla pagina dell'ultima notte. ||| 안에는 먼지가 있습니다. 그리고 장부가요. 마지막 밤 쪽이 펼쳐져 있어요.
+FAVRE: Posso leggerlo? ||| 읽어도 됩니까?
+ABDOULAYE: Lo legga. ||| 읽으세요.
+FAVRE: «Notte del dodici gennaio. Entrati: quattro. Usciti: tre. Un bambino di nove anni, febbre alta, arrivato alle due e dieci. Porta chiusa. Alle due e quaranta, partito per Bamarè. Alle cinque, morto in auto». ||| "1월 12일 밤. 들어온 사람 넷. 나간 사람 셋. 아홉 살 아이, 고열, 2시 10분 도착. 문 닫힘. 2시 40분 바마레로 출발. 5시 차 안에서 사망."
+CORRADO: Chi ha scritto? ||| 누가 썼습니까?
+ABDOULAYE: Suor Benedetta. La mattina dopo, quando è tornata. ||| 베네데타 수녀님이요. 이튿날 아침 돌아와서요.
+CORRADO: «Porta chiusa». ||| '문 닫힘'.
+ABDOULAYE: L'ha scritto lei. Con la sua mano. Poi ha cancellato. E poi l'ha riscritto. ||| 직접 썼습니다. 그리고 지웠다가 다시 썼어요.
+FAVRE: Ecco che cosa vuole il ragazzo. ||| 청년이 원하는 게 이거군요.
+CORRADO: Che si legga. Che qualcuno, da fuori, legga che la porta era chiusa. ||| 읽히길 바라는 겁니다. 바깥의 누군가가 문이 닫혀 있었다는 걸 읽는 것.
+ABDOULAYE: E che non si chiuda mai più. ||| 그리고 다시는 닫히지 않는 것요.
+CORRADO: Abdoulaye, posso parlare con lui? ||| 압둘라예 씨, 그 청년과 이야기할 수 있습니까?
+ABDOULAYE: Con Idrissa? ||| 이드리사와요?
+CORRADO: Sì. ||| 네.
+ABDOULAYE: Non vuole essere visto. Ha paura di una fotografia. ||| 보이길 원치 않습니다. 사진을 무서워해요.
+CORRADO: Potrebbe parlare senza essere visto? ||| 보이지 않고 말할 수는 있나요?
+ABDOULAYE: In che modo? ||| 어떻게요?
+CORRADO: C'è una cappella, qui, nella clinica? ||| 이 병원에 예배당이 있습니까?
+ABDOULAYE: C'è. Con un confessionale. ||| 있습니다. 고해실이 있어요.
+CORRADO: Un confessionale. ||| 고해실이라.
+ABDOULAYE: Da trent'anni nessun prete. Ma c'è la griglia. ||| 30년 동안 사제가 없었습니다. 하지만 격자는 있어요.
+CORRADO: La griglia basta. ||| 격자면 충분합니다.
++ karité = 시어버터 나무
++ gonfio = 부푼
++ spingere = 밀다
++ chiuso a chiave = 열쇠로 잠긴
++ registro = 장부
++ cancellare = 지우다
++ confessionale = 고해실
++ griglia = 격자
+
+## 고해실 — IL CONFESSIONALE
+IDRISSA: Sono qui. ||| 여기 있습니다.
+CORRADO: Buonasera. ||| 안녕하세요.
+IDRISSA: Non la vedo. ||| 당신이 안 보입니다.
+CORRADO: Neanch'io. È una cosa buona. ||| 저도요. 좋은 일이죠.
+IDRISSA: Si siede dove si siede il prete? ||| 사제가 앉는 자리에 앉으셨나요?
+CORRADO: Sì. Non so perché. L'ho scelto a caso. ||| 네. 이유는 모르겠습니다. 아무 데나 골랐어요.
+IDRISSA: Non esiste il caso. ||| 우연은 없습니다.
+CORRADO: Mi chiamo Corrado. Lei è Idrissa? ||| 코라도라고 합니다. 이드리사 씨입니까?
+IDRISSA: Sì. ||| 네.
+CORRADO: Ho paura. Non lo nascondo. ||| 무섭습니다. 숨기지 않겠습니다.
+IDRISSA: Anch'io. ||| 저도요.
+CORRADO: Lei? ||| 당신이요?
+IDRISSA: Anch'io. Ho paura da tre anni. Da quando mio fratello Amadou è morto. ||| 저도요. 3년째 무섭습니다. 동생 아마두가 죽은 뒤로요.
+CORRADO: Mi dispiace. ||| 안타깝습니다.
+IDRISSA: Non lo dica come fanno i diplomatici. ||| 외교관들처럼 말하지 마세요.
+CORRADO: Come lo dico? ||| 어떻게 말합니까?
+IDRISSA: Lo dica come lo direbbe un uomo che ha un figlio. ||| 아들이 있는 사람처럼요.
+CORRADO: Ho un figlio. Ha sedici anni. ||| 아들이 있습니다. 열여섯 살이에요.
+IDRISSA: Mio fratello ne avrebbe dodici. ||| 제 동생은 열두 살이 됐겠죠.
+CORRADO: Capisco. ||| 이해합니다.
+IDRISSA: Non può capire. Ma ascolta. ||| 이해할 수 없습니다. 하지만 들어 주네요.
+CORRADO: Ascolto. ||| 듣습니다.
+IDRISSA: Insomma, che cosa è venuto a fare? ||| 그래서, 뭘 하러 오셨죠?
+CORRADO: Insomma. ||| 그래서.
+IDRISSA: Che c'è? ||| 왜요?
+CORRADO: Niente. Mi ha colpito una parola. ||| 아닙니다. 한 단어가 마음에 걸려서요.
+IDRISSA: «Insomma»? ||| '그래서'요?
+CORRADO: Sì. Chi l'ha insegnato a dire «insomma»? ||| 네. 누가 '인솜마'라고 말하는 법을 가르쳐 줬습니까?
+IDRISSA: ... ||| …
+CORRADO: Perché suor Benedetta, quando comincia una frase importante, dice «insomma». L'ho sentito al telefono. Due volte. ||| 베네데타 수녀님은 중요한 문장을 시작할 때 '인솜마'라고 하시거든요. 전화로 두 번 들었습니다.
+IDRISSA: ... Me l'ha insegnato lei. ||| …수녀님이 가르쳐 주셨어요.
+CORRADO: Insegnava a scuola? ||| 학교에서 가르치셨나요?
+IDRISSA: Insegnava a tutti. Nel pomeriggio. L'italiano, la geografia, la matematica. A me, a mio fratello, a Moussa, a trenta bambini. ||| 모두에게 가르쳤습니다. 오후마다요. 이탈리아어, 지리, 수학. 저와 동생, 무사, 아이 서른 명에게요.
+CORRADO: Ecco perché il suo messaggio era scritto come un ufficio. ||| 그래서 메시지가 사무실 문체였군요.
+IDRISSA: Sapevo scrivere così. Pensavo che a Roma sarebbero stati colpiti. ||| 그렇게 쓸 줄 알았으니까요. 로마가 놀랄 줄 알았습니다.
+CORRADO: Siamo stati colpiti. ||| 놀랐습니다.
+IDRISSA: Ma non per il motivo giusto. ||| 하지만 올바른 이유로는 아니었죠.
+CORRADO: No. ||| 아니었습니다.
+IDRISSA: Hanno visto un ricatto. Non una richiesta. ||| 협박만 보고 요청은 보지 못했습니다.
+CORRADO: È vero. ||| 맞습니다.
+IDRISSA: Allora ho fatto male. ||| 그럼 제가 잘못했네요.
+CORRADO: Non lo so. Non sono un prete. ||| 모르겠습니다. 저는 사제가 아니니까요.
+IDRISSA: Ma è dove siede il prete. ||| 하지만 사제가 앉는 자리에 있잖아요.
+CORRADO: Allora le dico quello che direi se lo fossi. Hai fatto un male che nasce da un dolore giusto. Il male resta male. Il dolore resta giusto. ||| 그럼 사제라면 할 말을 하겠습니다. 정당한 고통에서 나온 잘못을 했어요. 잘못은 잘못으로 남고 고통은 정당한 채로 남습니다.
+IDRISSA: Questo è difficile da portare. ||| 그건 지고 가기 어렵군요.
+CORRADO: Lo so. ||| 압니다.
++ confessionale = 고해실
++ griglia = 격자
++ colpire = 충격을 주다, 마음에 걸리다
++ ricatto = 협박
++ penitente = 고해자
++ a caso = 아무렇게나, 우연히
++ non esiste il caso = 우연은 없다
++ Insomma = 그러니까, 요컨대(수녀 베네데타의 말버릇)
+
+## 피난처의 조건 — LE CONDIZIONI DEL RIFUGIO
+CORRADO: Idrissa, posso proporle una cosa? ||| 이드리사, 하나 제안해도 될까요?
+IDRISSA: Mi dica. ||| 말씀하세요.
+CORRADO: C'è una vecchia usanza. In Italia, e in tutta Europa. Nel Medioevo, una chiesa era un rifugio. Chi vi entrava non poteva essere preso. Neanche dal re. ||| 오래된 관습이 있습니다. 이탈리아와 온 유럽에서요. 중세에 성당은 피난처였습니다. 안으로 들어간 사람은 붙잡힐 수 없었어요. 왕에게도요.
+IDRISSA: Lo so. Me l'ha spiegato suor Benedetta. Si chiama «asilo». ||| 압니다. 베네데타 수녀님이 설명하셨어요. '아실로'라고 부르죠.
+CORRADO: Un asilo aveva due regole. La prima: nessuna arma dentro. La seconda: nessuno veniva toccato per ciò che aveva fatto prima. ||| 피난처에는 규칙이 둘 있었습니다. 첫째, 안에는 무기가 들어가지 않는다. 둘째, 그 전에 한 일 때문에 아무도 건드리지 않는다.
+IDRISSA: Nessuno, per ciò che aveva fatto prima. ||| 그 전에 한 일 때문에는 아무도.
+CORRADO: Per un certo tempo. Il tempo per dire ciò che si voleva dire. ||| 일정한 시간 동안요. 하고 싶은 말을 할 수 있는 시간이요.
+IDRISSA: Sta dicendo che questa cappella... ||| 이 예배당이…
+CORRADO: Sì. Da domani, per sette giorni. I cinque vengono portati qui, in questa cappella. Disarmati. Voi lasciate le armi alla porta. ||| 네. 내일부터 7일 동안이요. 다섯 사람이 이 예배당으로 옵니다. 무장 해제된 채로요. 당신들은 문 앞에 무기를 둡니다.
+IDRISSA: E noi? ||| 우리는요?
+CORRADO: Voi restate. Davanti, o dentro. Con loro. Ma disarmati. Il dottor Favre, della Croce Rossa, è in mezzo. Ogni notte, un'ora di cura per i bambini del villaggio. ||| 당신들은 남습니다. 앞에 있든 안에 있든 그들과 함께, 하지만 무장 없이요. 적십자 파브르 박사가 사이에 섭니다. 밤마다 한 시간씩 마을 아이들을 진료하고요.
+IDRISSA: Con i cinque dentro. ||| 다섯 사람이 안에 있는 채로요.
+CORRADO: Sì. Così il villaggio vede. E quando il villaggio vede, i cinque non sono più ostaggi. Sono ospiti. ||| 네. 그러면 마을이 봅니다. 마을이 보면 다섯 사람은 인질이 아니라 손님이 됩니다.
+IDRISSA: Ospiti di chi? ||| 누구의 손님이요?
+CORRADO: Del villaggio. Che li tutela. ||| 마을의 손님입니다. 마을이 지켜 주는 거죠.
+IDRISSA: Se lo faccio, perdo. ||| 그렇게 하면 제가 집니다.
+CORRADO: Perde che cosa? ||| 무엇을 잃습니까?
+IDRISSA: La mia forza. Quella che tengo con il fucile. ||| 제 힘이요. 총으로 쥐고 있는 힘.
+CORRADO: Ne ha un'altra. ||| 또 다른 힘이 있어요.
+IDRISSA: Quale? ||| 어떤 거죠?
+CORRADO: Quella che ha oggi, davanti alla porta. Ha avuto il coraggio di scrivere in un registro «Porta chiusa». ||| 오늘 문 앞에서 보인 힘입니다. 장부에 '문 닫힘'이라고 쓸 용기가 있었잖아요.
+IDRISSA: Non l'ho scritto io. ||| 제가 쓴 게 아닙니다.
+CORRADO: Non l'ha scritto lei. Lo ha scritto suor Benedetta. E lei ha conservato il registro per tre anni. ||| 당신이 쓴 게 아니죠. 베네데타 수녀님이 썼어요. 그리고 당신은 그 장부를 3년간 지켰어요.
+IDRISSA: ... ||| …
+CORRADO: Idrissa. ||| 이드리사.
+IDRISSA: Sì. ||| 네.
+CORRADO: Chi tiene un registro non vuole vendetta. Vuole giustizia. ||| 장부를 지키는 사람은 복수를 원하지 않아요. 정의를 원합니다.
+IDRISSA: Lei dice cose da prete. ||| 사제 같은 말을 하시네요.
+CORRADO: Mi hanno messo qui. ||| 여기에 앉혀졌으니까요.
+IDRISSA: Ci penso. ||| 생각해 보겠습니다.
+CORRADO: Quanto? ||| 얼마나요?
+IDRISSA: Questa notte. ||| 오늘 밤 동안요.
+CORRADO: E se la risposta è no? ||| 대답이 아니라면요?
+IDRISSA: Allora domani la porta resta aperta. Ma i cinque restano dove sono. ||| 그럼 내일도 문은 열려 있을 겁니다. 하지만 다섯 사람은 있던 곳에 남습니다.
+CORRADO: La porta resta aperta comunque? ||| 어쨌든 문은 열려 있다고요?
+IDRISSA: Sì. Il dottore l'ha aperta. Non la richiuderò io. ||| 네. 박사님이 열었습니다. 제가 다시 닫지는 않아요.
+CORRADO: Grazie. ||| 감사합니다.
+IDRISSA: Non mi ringrazi. Dica a suor Benedetta, se la vede domani... ||| 감사는 사양합니다. 내일 수녀님을 보시면 전해 주세요…
+CORRADO: Che cosa? ||| 무엇을요?
+IDRISSA: Che ho scritto una cosa nel registro. Sotto la sua. ||| 제가 장부에 한 줄 적었다고요. 수녀님 글 아래에.
+CORRADO: Che cosa ha scritto? ||| 뭐라고 적었습니까?
+IDRISSA: «Ora è aperta». ||| '이제 열려 있다.'
++ asilo = 피난처(교회의 피난권)
++ rifugio = 은신처, 피난처
++ disarmato = 무장 해제된
++ ospite = 손님
++ tutelare = 보호하다
++ vendetta = 복수
++ giustizia = 정의
++ ora è aperta = 이제 열려 있다

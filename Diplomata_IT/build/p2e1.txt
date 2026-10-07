@@ -164,7 +164,7 @@ ABDOULAYE: Stanno bene. La suora ha la febbre. Ma stanno bene. ||| 괜찮습니�
 CORRADO: Posso parlare con loro? ||| 그분들과 말할 수 있을까요?
 ABDOULAYE: Non oggi. Domani, forse. ||| 오늘은 안 됩니다. 내일이면 아마도요.
 CORRADO: Allora le chiedo una cosa. Chi sono quelli che li tengono? ||| 그럼 하나 묻겠습니다. 그들을 붙잡고 있는 사람은 누굽니까?
-ABDOULAYE: Sono giovani del villaggio. Hanno perso un fratello l'anno scorso. Un bambino di nove anni. ||| 마을 청년들이에요. 지난해 형제를 잃었습니다. 아홉 살 아이였어요.
+ABDOULAYE: Sono giovani del villaggio. Hanno perso un fratello tre anni fa. Un bambino di nove anni. ||| 마을 청년들이에요. 3년 전 형제를 잃었습니다. 아홉 살 아이였어요.
 CORRADO: Mi dispiace. ||| 안타깝군요.
 ABDOULAYE: Il bambino è morto sulla strada per la clinica. La clinica era chiusa, quella notte. ||| 아이는 병원으로 가는 길에서 죽었습니다. 그날 밤 병원은 닫혀 있었어요.
 CORRADO: La clinica era chiusa perché mancavano i fondi. ||| 병원이 닫혀 있었던 건 지원금이 없어서였죠.

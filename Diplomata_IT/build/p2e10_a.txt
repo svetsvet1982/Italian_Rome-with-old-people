@@ -1,0 +1,51 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 10
+@title Trattare al buio
+@ko 어둠 속의 협상
+@setting 화요일 오후 놀로 마을 입구 → 해질녘 산타 리타 병원 문 앞 → 밤 병원 예배당의 고해실
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast FAVRE | 적십자국제위원회 의사 대표, 64세
+@cast ABDOULAYE | 놀로 마을 중재인, 60세
+@cast IDRISSA | 납치 청년들의 우두머리(목소리), 19세
+@cast GIULIA | 분석관, 31세 (위성 전화)
+@cast ORSOLINI | 신임 외무사무총장, 53세 (위성 전화)
+@note 10화는 물밑 협상의 화입니다. 란차는 오르솔리니·국무원의 '두 열쇠' 승인 아래 군인이 아닌 신분으로 놀로에 도착해 적십자 의사 파브르와 함께 병원 문을 엽니다. 우두머리 이드리사는 얼굴을 보이길 거부해, 병원 예배당의 고해실 격자를 사이에 두고 목소리만으로 대화합니다. 란차는 그의 말버릇이 베네데타 수녀의 말버릇임을 알아차립니다. 역사 논거는 중세 성당의 '피난권(asylum)' 전통입니다. 성소에 무기를 들고 들어갈 수 없고, 들어온 자를 붙잡을 수 없다는 규칙이 중립 지대를 만든 선례입니다. 어휘는 협상·종교 공간(grata, penitente, rifugio, asilo, battente)에 주목하세요.
+@next 11화: 몸값 대신 '병원 건립 협정'으로 방식을 전환하고, 재단 장부의 모든 지급을 공개하는 제도를 만듭니다.
+
+## 놀로 도착 — L'ARRIVO A NDOLO
+GIULIA: Corrado, mi senti? Sono in linea satellitare. ||| 코라도, 들려요? 위성 회선이에요.
+CORRADO: Ti sento. Alla perfezione. Siamo a un chilometro dal villaggio. ||| 잘 들려요. 마을에서 1킬로미터 떨어진 곳이에요.
+GIULIA: Orsolini vuole dirti una cosa. ||| 오르솔리니 대사가 할 말이 있대요.
+ORSOLINI: Dottor Lanza. Sono qui con monsignor Pellegrini. Le confermiamo l'autorizzazione. Senza armi, senza scorta italiana, con la Croce Rossa. ||| 란차 박사, 펠레그리니 몬시뇰과 함께 있습니다. 허가를 확인합니다. 무기 없이, 이탈리아 경호 없이, 적십자와 함께입니다.
+CORRADO: Capito. ||| 알겠습니다.
+ORSOLINI: Due chiavi, dottor Lanza. Non lo dimentichi. Ogni sua parola, per iscritto, la sera stessa. ||| 열쇠 둘입니다, 란차 박사. 잊지 마십시오. 한 마디 한 마디를 그날 저녁 서면으로 남기세요.
+CORRADO: Lo farò. ||| 하겠습니다.
+ORSOLINI: E, dottor Lanza. ||| 그리고 란차 박사.
+CORRADO: Sì? ||| 네?
+ORSOLINI: Torni. ||| 돌아오십시오.
+CORRADO: Ci proverò. ||| 노력하겠습니다.
+FAVRE: Dottor Lanza, ha mai viaggiato su una strada come questa? ||| 란차 박사, 이런 길로 여행해 본 적이 있습니까?
+CORRADO: Mai. ||| 한 번도요.
+FAVRE: Io sì. Trentadue anni. E non ho mai smesso di avere paura. ||| 저는 있습니다. 32년이요. 그런데 한 번도 무서움이 사라진 적이 없어요.
+CORRADO: Non l'avrei detto. ||| 그렇게 안 보이십니다.
+FAVRE: È il mio mestiere. Sembrare calmo mentre il cuore corre. ||| 그게 제 일입니다. 심장이 뛰는데 침착해 보이는 것.
+ABDOULAYE: Eccovi. Eccovi. Siete in anticipo. ||| 오셨군요. 오셨네요. 일찍 오셨습니다.
+CORRADO: Abdoulaye. Finalmente. ||| 압둘라예 씨. 드디어요.
+ABDOULAYE: Lanza. Piacere. Ha un viso più giovane che alla voce. ||| 란차 씨. 반갑습니다. 목소리보다 얼굴이 젊으시네요.
+CORRADO: E lei ha un viso più sorridente. ||| 당신은 얼굴이 더 환하시고요.
+ABDOULAYE: Sorrido per prudenza. Qui i ragazzi non amano i volti tristi. ||| 신중하려고 웃는 겁니다. 여기 아이들은 슬픈 얼굴을 싫어해서요.
+FAVRE: Monsieur Abdoulaye, je suis le docteur Favre. ||| 압둘라예 씨, 파브르 박사입니다.
+ABDOULAYE: Docteur. La porte vous attend. ||| 박사님. 문이 기다리고 있습니다.
+FAVRE: Je suis venu pour la pousser. ||| 밀러 왔습니다.
+ABDOULAYE: Allora venite. Piano. I bambini vi guardano. ||| 그럼 오세요. 천천히요. 아이들이 지켜봅니다.
+CORRADO: I bambini? ||| 아이들이요?
+ABDOULAYE: In ogni finestra. Non fate rumore. ||| 모든 창문마다요. 소리 내지 마세요.
++ linea satellitare = 위성 회선
++ senza scorta = 경호 없이
++ per iscritto = 서면으로
++ stare in anticipo = 일찍 오다
++ per prudenza = 신중하려고
++ mestiere = 직업, 일
