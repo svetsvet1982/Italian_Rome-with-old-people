@@ -1,0 +1,220 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 5
+@title La table de Bruxelles
+@ko 브뤼셀의 테이블
+@setting 파리발 브뤼셀행 열차 → EU 대외행동청 회의실 앞 → 원탁 협상 → 복도의 르포르 → 그랑플라스 근처 브라스리의 치즈 카트
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 이 화에서 tu로 말을 놓기 시작한다
+@cast VANDENBERGHE | 뤼크 반덴베르허, EU 대외행동청 국장, 벨기에 출신, 57세
+@cast FAROUQI | 이드리스 알 파루키, 카스라 외교차관, 61세
+@cast BARAKAT | 지아드 바라카트, 카스라 측 변호사, 47세
+@cast SAAD | 나빌 사아드, 걸프 국가 협의체 대표, 49세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 5화입니다. 유럽연합 대외행동청이 브뤼셀 원탁을 엽니다. 누구의 안방도 아닌 중립 장소입니다. 쥘리앵은 세 판본(프랑스어, 아랍어, 영어 작업본)을 나란히 읽는 공동 번역 위원회와, 모든 중개인이 받은 수수료를 공개하는 투명화를 제안합니다. 해법의 순간은 벨기에 대표 반덴베르허의 농담 «Trois versions ? Alors vous vous êtes mis d'accord trois fois.»입니다. 판본이 셋이면 세 번 합의한 셈이라는 말이 '누가 옳은가'를 '어떻게 한 문장으로 모으는가'로 질문을 바꿉니다. 르포르는 형식(안건 미승인, 형식 문제, 법적 근거)으로 위원회에 제동을 걸지만 카스라가 먼저 '누가 돈을 받았는지 우리도 알고 싶다'고 말해 판이 기웁니다. 역사 논거는 슈만 선언(1950년 5월 9일)입니다. 외무부 시계의 방에서 발표된 이 선언은 석탄·철강이라는 좁은 분야의 공동 관리에서 시작해 '구체적 성과를 통한 사실상의 연대'를 말했고, 1951년 파리 조약으로 6개국 공동체가 출범했습니다. 어휘는 tu/vous 전환, 접속법(Il faut que…, sans que…), 협상 어휘(ordre du jour, mandat, base juridique, honoraires)에 주목하세요.
+@next 6화: 쥘리앵은 비서실장 르포르를 마주합니다. 부속 서한을 알고도 형식 문제로 덮은 이유를 묻기 전에, 발쿠르는 치즈 카트 앞에서 '탈레랑의 침묵'을 들려줍니다.
+
+## 열차 안, 말을 놓다 — DANS LE THALYS
+CAMILLE: Une heure vingt de Paris à Bruxelles, et vous lisez toujours la même page. ||| 파리에서 브뤼셀까지 1시간 20분인데 계속 같은 쪽만 읽고 계시네요.
+JULIEN: Je ne lis pas, je mémorise. Il y a une différence que seuls les nerveux connaissent. ||| 읽는 게 아니라 외우는 중이에요. 신경질적인 사람만 아는 차이죠.
+CAMILLE: Vous n'êtes pas nerveux, vous êtes précis. Ce n'est pas pareil. ||| 신경질적이신 게 아니라 정확하신 거예요. 같지 않아요.
+JULIEN: Dans la plupart des familles, c'est la même chose avec des vêtements différents. ||| 대부분의 집안에서는 같은 것이 옷만 다르게 입은 거죠.
+CAMILLE: Je peux vous dire quelque chose ? ||| 한 가지 말씀드려도 돼요?
+JULIEN: Je vous en prie. ||| 그러세요.
+CAMILLE: Depuis Angers, je pense à madame Vasseur. Elle a gardé son carnet pendant un an, en sachant qu'il pourrait la perdre. ||| 앙제 이후로 뷔소르 부인 생각을 해요. 그분은 자기를 잃게 만들 수도 있다는 걸 알면서 일 년 동안 노트를 간직했어요.
+JULIEN: Ou la sauver. Les carnets font les deux. ||| 아니면 구할 수도 있죠. 노트는 둘 다 해요.
+CAMILLE: Vous croyez qu'on peut tout garder sans être complice ? ||| 전부 간직하면서 공범이 되지 않을 수 있을까요?
+JULIEN: On est complice quand on garde pour soi. On est témoin quand on garde pour qu'un autre puisse lire. ||| 자기만 위해 간직하면 공범이고, 남이 읽을 수 있게 간직하면 증인이에요.
+CAMILLE: Alors je suis fière d'être votre témoin. Et je voudrais… enfin, je pense que je devrais vous tutoyer, si vous êtes d'accord. ||| 그럼 저는 부실장님의 증인이라 자랑스러워요. 그리고… 음, 말을 놓아도 될까 싶은데, 괜찮으시면요.
+JULIEN: Ah. Voilà qui est inattendu et très bien venu. Mais je vous préviens, je reste capable de redevenir « vous » dans les cinq minutes qui suivent. ||| 아. 뜻밖이고 아주 반가운 말이네요. 다만 경고하는데, 5분 뒤에 다시 '당신'으로 돌아갈 능력도 있어요.
+CAMILLE: Alors je prends le risque. Et toi, tu me tutoies aussi ? ||| 그럼 위험을 감수할게요. 그리고 너도 나한테 말 놔?
+JULIEN: Volontiers. Appelle-moi Julien, hors des couloirs du Quai. Dans les couloirs, ce sera « monsieur » par respect pour les murs. ||| 좋아. 케도르세 복도 밖에서는 줄리앵이라고 불러. 복도에서는 '부실장님'이야, 벽에 대한 존중으로.
+CAMILLE: Marché conclu. Julien, qu'est-ce que tu veux proposer au juste ? ||| 합의 됐어. 줄리앵, 정확히 뭘 제안하려는 거야?
+JULIEN: Deux choses. Un comité de lecture, où les trois textes sont lus ensemble. Et une règle de transparence : que chacun déclare ce qu'il a perçu sur ce contrat. ||| 두 가지. 세 문서를 함께 읽는 독회 위원회, 그리고 투명성 규칙. 이 계약으로 각자가 받은 돈을 신고하는 거야.
+CAMILLE: Les honoraires. Tu penses au cabinet « V.A. » ? ||| 수수료 말이구나. '브이에이' 사무소 생각하는 거지?
+JULIEN: Je pense à tous. Si je ne vise personne, personne ne peut dire que je vise quelqu'un. ||| 모두를 생각하지. 아무도 겨냥하지 않으면 아무도 내가 누굴 겨냥한다고 말할 수 없으니까.
+CAMILLE: Lefort va s'y opposer. ||| 르포르가 반대할 거야.
+JULIEN: Il s'y opposera par la procédure. Je préfère. On répond mieux à une procédure qu'à un mensonge. ||| 절차로 반대하겠지. 그게 나아. 거짓말보다 절차에 답하기가 쉽거든.
+CAMILLE: Et si la procédure bloque tout ? ||| 절차가 모든 걸 막으면?
+JULIEN: Alors j'aurai la procédure sous les yeux, et je pourrai la montrer à d'autres. ||| 그럼 절차가 눈앞에 있게 되니까 다른 사람들에게 보여 줄 수 있지.
++ tutoyer / vouvoyer = 말을 놓다 / 존댓말을 쓰다. 이 화에서 카미유와 들로름의 호칭 전환
++ bien venu = 반갑게 맞이할 만한. Voilà qui est inattendu et très bien venu
++ Marché conclu = 합의 됐다(거래 성립). hors des couloirs du Quai = 케도르세 복도 밖에서
++ On est témoin quand on garde pour qu'un autre puisse lire = pour que + 접속법. 보관의 윤리
++ Je ne vise personne = 아무도 겨냥하지 않는다. viser qqn
++ le comité de lecture = 독회 위원회. 협상 구조에서의 투명화 장치
++ une règle de transparence = 투명성 규칙. percevoir des honoraires = 수수료를 수령하다
+
+## 회의실 앞의 벨기에인 — LE COULOIR DE LA RUE DE LA LOI
+VANDENBERGHE: Ah, les Français ! Vous êtes en avance, c'est une insulte pour un Belge. Nous, on arrive à l'heure exacte pour ne pas se vexer entre nous. ||| 아, 프랑스 분들! 일찍 오셨네요, 벨기에 사람에게는 모욕이죠. 우리는 서로 기분 상하지 않게 정각에 도착한답니다.
+JULIEN: Monsieur Vandenberghe. Julien Delorme, du Quai d'Orsay. Merci d'avoir organisé cette rencontre. ||| 반덴베르허 씨. 케도르세의 쥘리앵 들로름입니다. 이 자리를 마련해 주셔서 감사합니다.
+VANDENBERGHE: Luc, appelez-moi Luc. Mon nom est impossible à prononcer après dix heures du matin. ||| 뤼크라고 불러요. 제 성은 오전 10시 지나면 발음이 불가능하거든요.
+CAMILLE: Camille Roussel. Merci d'avoir choisi Bruxelles. ||| 카미유 루셀입니다. 브뤼셀을 골라 주셔서 감사해요.
+VANDENBERGHE: On ne choisit pas Bruxelles. On y arrive quand plus personne ne veut recevoir. Ici, personne n'est chez soi, donc tout le monde est un peu chez lui. ||| 브뤼셀은 고르는 곳이 아니에요. 아무도 맞이하고 싶지 않을 때 오게 되는 곳이지. 여기선 아무도 자기 집이 아니라서 다들 조금씩 제집 같아요.
+JULIEN: C'est un très beau principe diplomatique. ||| 아주 훌륭한 외교 원칙이군요.
+VANDENBERGHE: C'est un principe belge. Nous n'avons pas de diplomatie, nous avons des arrangements. Parlons de l'ordre du jour. ||| 벨기에식 원칙이죠. 우리에겐 외교가 아니라 타협이 있어요. 안건 이야기를 합시다.
+JULIEN: Je vous en prie. ||| 말씀하시지요.
+VANDENBERGHE: Point un : les ingénieurs. Point deux : la lettre annexe. Point trois : tout ce qui reste. J'ai mis « tout ce qui reste » parce que c'est ce qui arrive toujours en dernier et ce qui compte le plus. ||| 첫째, 기술자들. 둘째, 부속 서한. 셋째, 나머지 전부. '나머지 전부'를 넣은 건 늘 마지막에 오지만 가장 중요한 게 그거라서요.
+CAMILLE: Les Kasriens ont confirmé leur présence ? ||| 카스라 쪽은 참석을 확인했나요?
+VANDENBERGHE: Le vice-ministre al-Farouqi et son conseil, maître Barakat. Et un monsieur du Conseil des États du Golfe, Nabil Saad, qui vient écouter. Il écoute très bien, d'ailleurs. ||| 알 파루키 차관과 변호사 바라카트 씨요. 그리고 걸프 국가 협의체의 나빌 사아드 씨가 들으러 와요. 그런데 아주 잘 듣는답니다.
+JULIEN: Et la délégation française ? ||| 프랑스 대표단은요?
+VANDENBERGHE: C'est là, ma foi, un détail délicat. Monsieur Lefort a demandé que votre ministère préside la réunion. ||| 그게 참 미묘한 문제예요. 르포르 씨가 귀 부처가 회의를 주재하도록 요청했거든요.
+JULIEN: Il a demandé à présider ? ||| 주재를 요구했습니까?
+VANDENBERGHE: Il a demandé, je cite, « une présidence naturelle de la partie ayant l'initiative diplomatique ». Je lui ai répondu qu'à Bruxelles, la nature est neutre. ||| 인용하자면 '외교적 주도권을 가진 쪽의 자연스러운 주재'를 요청했어요. 브뤼셀에서는 자연이 중립이라고 답했죠.
+CAMILLE: Et il a répondu ? ||| 그가 답했나요?
+VANDENBERGHE: Il a demandé une suspension de séance de dix minutes avant même de commencer. C'est un record. ||| 시작하기도 전에 10분 정회를 요청했어요. 신기록이죠.
+LEFORT: Messieurs, madame. Je vois que mes collègues ont déjà fait connaissance. ||| 여러분. 동료들이 벌써 인사를 나눈 모양이군요.
+VANDENBERGHE: Monsieur le directeur de cabinet. Nous parlions de votre demande de présidence. ||| 비서실장님. 주재 요청 얘기를 하던 참입니다.
+LEFORT: Il ne s'agit pas d'une demande, mais d'un rappel du droit coutumier. ||| 요청이 아니라 관습법의 상기입니다.
+VANDENBERGHE: Du droit coutumier ! Nous avons un droit coutumier à Bruxelles ? Je l'ignorais. En tout cas, la présidence sera tournante : un tiers du temps pour chacun. ||| 관습법이라고요! 브뤼셀에 관습법이 있었나요? 몰랐네요. 어쨌든 의장직은 돌아가며 맡고 시간은 3분의 1씩 갖습니다.
+LEFORT: Je réserve la position de la partie française sur ce point. ||| 이 점에 대한 프랑스 측 입장은 유보합니다.
+VANDENBERGHE: Réservez, réservez. À Bruxelles, on conserve toutes les réserves. Nous en avons un magasin entier. ||| 유보하세요, 유보하세요. 브뤼셀에는 유보를 전부 보관하고 있어요. 창고 하나 가득이죠.
+JULIEN: Monsieur le directeur, puis-je vous dire un mot avant que nous entrions ? ||| 실장님, 입장하기 전에 한 말씀 드려도 되겠습니까?
+LEFORT: Faites vite. ||| 빨리 하세요.
+JULIEN: Je compte proposer un comité de lecture. Je tenais à ce que vous l'appreniez de moi. ||| 독회 위원회를 제안할 생각입니다. 실장님이 저에게서 직접 들으시길 바랐습니다.
+LEFORT: Sans mandat. ||| 위임도 없이.
+JULIEN: Dans le cadre du mandat de la cellule de crise, qui m'autorise à explorer toute solution de désescalade. Voici le paragraphe. ||| 위기 상황실 위임 범위 안에서입니다. 긴장 완화를 위한 모든 해법을 탐색하도록 허용된 바로 그 단락이 여기 있어요.
+LEFORT: C'est une interprétation extensive. ||| 확대 해석이군요.
+JULIEN: Quand il s'agit de sauver quatorze hommes, je préfère l'extensif au restrictif. ||| 열네 명을 구하는 일에서는 제한 해석보다 확대 해석이 낫습니다.
++ l'ordre du jour = 안건. une suspension de séance = 정회. réserver sa position = 입장을 유보하다
++ une présidence tournante = 돌아가며 맡는 의장직. le droit coutumier = 관습법
++ Ma foi, un détail délicat = 'ma foi'는 '글쎄요/참' 정도의 구어 감탄. 벨기에식 완곡
++ Il ne s'agit pas d'une demande, mais d'un rappel = il s'agit de ~ 구문. 형식 논리를 부정하는 화법
++ avant que nous entrions = avant que + 접속법. Je tenais à ce que vous l'appreniez de moi = tenir à ce que + 접속법
++ interprétation extensive / restrictive = 확대 / 제한 해석. 법률 문서 해석의 용어
++ la désescalade = 긴장 완화(디에스컬레이션)
+
+## 원탁 — LA TABLE RONDE
+VANDENBERGHE: Mesdames, messieurs, bienvenue. La séance est ouverte, et personne n'a perdu la face, ce qui est un bon début. ||| 신사 숙녀 여러분, 어서 오십시오. 회의를 열겠습니다. 아직 아무도 체면을 잃지 않았으니 시작이 좋군요.
+FAROUQI: Monsieur le directeur, nous vous remercions de nous accueillir. Nous venons dans un esprit de franchise et de bonne grâce. ||| 국장님, 맞아 주셔서 감사합니다. 솔직함과 호의의 정신으로 왔습니다.
+JULIEN: Excellence, c'est également notre état d'esprit. ||| 각하, 저희도 같은 마음입니다.
+VANDENBERGHE: Point un : les quatorze ingénieurs. Excellence, avez-vous du nouveau ? ||| 첫째, 열네 명의 기술자들. 각하, 새 소식이 있습니까?
+FAROUQI: Le docteur de l'ambassade a visité monsieur Lucas ce matin. Son état est stable. Nous avons décidé de le laisser rentrer en France, pour des raisons humaines. ||| 대사관 의사가 오늘 아침 뤼카 씨를 진찰했습니다. 상태는 안정적입니다. 인도적 이유로 프랑스로 돌아가도록 허락하기로 했습니다.
+CAMILLE: Excellence, c'est une très bonne nouvelle. ||| 각하, 아주 좋은 소식입니다.
+FAROUQI: Je vous l'ai dit à Genève, mademoiselle : une décence. Pour les autres, il y a une procédure. ||| 제네바에서 말씀드렸죠, 아가씨. 도리라고. 나머지는 절차가 있습니다.
+BARAKAT: Si je puis me permettre, la procédure est fixée à l'audience du dix-neuf. Le tribunal décidera librement. ||| 외람되지만 절차는 19일 기일에 정해집니다. 재판부가 자유롭게 결정할 겁니다.
+JULIEN: Maître Barakat, pour qu'un tribunal décide librement, il faut qu'il dispose de tous les éléments. Et il me semble qu'il n'en dispose pas. ||| 바라카트 변호사님, 재판부가 자유롭게 결정하려면 모든 자료를 가지고 있어야 합니다. 그런데 갖고 있지 않은 것 같습니다.
+BARAKAT: Qu'entendez-vous par là ? ||| 무슨 뜻입니까?
+JULIEN: La lettre du quatorze mars existe en trois versions que personne n'a lues ensemble. Une française, une arabe, et un texte de travail en anglais. ||| 3월 14일자 서한에는 아무도 함께 읽어 본 적 없는 세 판본이 있습니다. 프랑스어판, 아랍어판, 그리고 영어 작업본.
+BARAKAT: Le texte de travail anglais n'a aucune valeur contractuelle. Ce n'est qu'un brouillon. ||| 영어 작업본은 계약상 효력이 없습니다. 초안일 뿐입니다.
+JULIEN: Il se peut. Alors la question est simple : de ces trois versions, laquelle les parties ont-elles signée ? ||| 그럴 수 있습니다. 그렇다면 질문은 간단합니다. 이 세 판본 중 당사자들이 서명한 것은 어느 것입니까?
+FAROUQI: La version arabe et la version française ont été signées le même jour, devant moi. ||| 아랍어판과 프랑스어판은 같은 날 내 앞에서 서명되었습니다.
+JULIEN: Alors elles devraient dire la même chose. Elles ne le font pas. ||| 그렇다면 같은 말을 해야 합니다. 그런데 그렇지 않습니다.
+FAROUQI: Elles disent la même chose avec deux accents. ||| 두 가지 억양으로 같은 말을 하는 겁니다.
+JULIEN: Excellence, un accent ne coûte pas quatre-vingt-sept millions d'euros. ||| 각하, 억양 하나가 8,700만 유로가 될 수는 없습니다.
+VANDENBERGHE: Si je comprends bien, il y a donc trois versions de la même lettre. ||| 제가 이해하기로는 같은 편지의 판본이 셋이라는 거군요.
+JULIEN: C'est cela, monsieur le directeur. ||| 그렇습니다, 국장님.
+VANDENBERGHE: Trois versions ? Alors vous vous êtes mis d'accord trois fois. C'est un record, même pour nous. ||| 세 판본이요? 그럼 여러분은 세 번 합의한 셈이군요. 우리한테도 신기록입니다.
+SAAD: Vous voulez dire, monsieur Vandenberghe, que le désaccord est un excès d'accord ? ||| 반덴베르허 씨, 합의가 지나쳐서 불화가 생겼다는 말씀입니까?
+VANDENBERGHE: Je dis qu'on ne se dispute jamais sur un texte sur lequel on n'a pas déjà une fois convenu de quelque chose. Il suffit d'en faire un seul des trois. ||| 한 번도 합의한 적 없는 문서를 두고는 다투지 않는다는 거예요. 셋 중에서 하나를 만들기만 하면 됩니다.
+FAROUQI: Un seul des trois. Voilà qui est d'un sage ou d'un fonctionnaire. ||| 셋 중 하나라. 현자이거나 공무원다운 말씀이군요.
+VANDENBERGHE: En Belgique, c'est la même personne. ||| 벨기에에서는 같은 사람이죠.
+JULIEN: Excellence, je propose que ce travail soit confié à un comité de lecture. Trois traducteurs : un désigné par la France, un par Kasra, un neutre, choisi par l'Union. ||| 각하, 그 작업을 독회 위원회에 맡기자고 제안합니다. 번역사 세 명으로, 프랑스 지명 한 명, 카스라 지명 한 명, 유럽연합이 고른 중립 한 명입니다.
+BARAKAT: Quel serait le mandat de ce comité ? ||| 그 위원회의 위임 범위는 무엇입니까?
+CAMILLE: Aligner les trois textes, ligne à ligne, sans en modifier aucun. Produire un tableau de concordance, et signaler les divergences. ||| 세 문서를 줄 단위로 정렬하되 어느 것도 수정하지 않는 것입니다. 대조표를 만들고 차이를 표시합니다.
+FAROUQI: Sans modifier aucun texte. Et qui tranchera ensuite ? ||| 어느 문서도 수정하지 않고요. 그다음엔 누가 판단합니까?
+JULIEN: Ce sera aux parties. Le comité ne juge pas. Il éclaire. ||| 당사자들이 하게 됩니다. 위원회는 판단하지 않고 밝힙니다.
+BARAKAT: Un comité qui n'a pas de pouvoir de décision est un comité qui peut tout dire sans rien engager. ||| 결정권이 없는 위원회는 아무것도 책임지지 않고 무엇이든 말할 수 있는 위원회입니다.
+JULIEN: C'est précisément son avantage, maître. Il ne peut pas se tromper à voix haute. ||| 바로 그게 장점입니다, 변호사님. 소리 높여 틀릴 수는 없으니까요.
+FAROUQI: Je ne suis pas opposé au principe. Il me faudrait toutefois une garantie de bonne foi. Toutes les parties devraient être transparentes sur ce qu'elles ont reçu à l'occasion de ce contrat. ||| 원칙에는 반대하지 않습니다. 다만 선의에 대한 보증이 필요합니다. 모든 당사자가 이 계약과 관련해 받은 것에 대해 투명해야 하겠지요.
+JULIEN: Je comptais justement proposer une déclaration des honoraires de tous les intermédiaires. ||| 마침 모든 중개인의 수수료 신고를 제안하려던 참이었습니다.
+FAROUQI: Voilà une rencontre qui me plaît. Nous aussi, nous désirons savoir qui a été payé. ||| 마음에 드는 일치군요. 우리 쪽도 누가 돈을 받았는지 알고 싶습니다.
+BARAKAT: Excellence, il y a lieu de réserver le principe d'une telle déclaration. ||| 각하, 그런 신고의 원칙은 유보할 필요가 있습니다.
+FAROUQI: Réservez, maître. Mais ne cachez pas. ||| 유보하시오, 변호사. 하지만 숨기지는 마시오.
+LEFORT: Monsieur le directeur, au nom de la partie française, je dois formuler une objection de forme. ||| 국장님, 프랑스 측을 대표해 형식상의 이의를 제기해야겠습니다.
+VANDENBERGHE: J'en étais sûr. Les objections de forme sont comme les moustiques : elles arrivent avec la lumière. ||| 그럴 줄 알았어요. 형식상의 이의는 모기 같아서 불이 켜지면 날아오죠.
+LEFORT: Le comité proposé n'a pas de base juridique. Sa composition n'a pas été validée par le cabinet du ministre. ||| 제안된 위원회에는 법적 근거가 없습니다. 구성도 장관 비서실의 승인을 받지 않았습니다.
+JULIEN: Je suis prêt à demander cette validation par téléphone, ici même. ||| 지금 여기서 전화로 승인을 요청할 용의가 있습니다.
+LEFORT: Le ministre est en déplacement. Il n'y a pas de validation possible avant demain. ||| 장관님은 출장 중입니다. 내일 전에는 승인이 불가능합니다.
+VANDENBERGHE: Alors nous adopterons le comité sous réserve de validation française, avec effet à la validation. Cela vous convient, monsieur le directeur ? ||| 그럼 위원회는 프랑스 측 승인을 조건으로, 승인 시점부터 효력을 발생시키는 것으로 채택합시다. 실장님, 괜찮으시겠습니까?
+LEFORT: Je n'ai pas qualité pour… ||| 저는 그럴 자격이…
+VANDENBERGHE: Vous n'avez pas qualité pour refuser non plus. C'est ce que j'appelle la symétrie belge. ||| 거부할 자격도 없으시죠. 그게 벨기에식 대칭이에요.
++ perdre la face = 체면을 잃다. Alors vous vous êtes mis d'accord trois fois. = 반덴베르허의 농담. 판본 세 개가 세 번의 합의라는 역발상
++ une décence vs un geste = 도리와 조치(2화에서 이어지는 파루키의 어휘)
++ pour qu'un tribunal décide librement, il faut qu'il dispose = pour que + 접속법, il faut que + 접속법
++ un tableau de concordance = 대조표. aligner les textes = 문서를 정렬하다. signaler les divergences = 차이를 표시하다
++ éclairer / juger / trancher = 밝히다 / 판단하다 / 단칼에 결정하다
++ il y a lieu de + inf. = ~할 필요가 있다(법률체). sous réserve de = ~를 조건으로
++ une objection de forme = 형식상의 이의. base juridique = 법적 근거. avoir qualité pour = ~할 자격이 있다
++ comme les moustiques : elles arrivent avec la lumière = 반덴베르허 특유의 유머. 비유로 상대의 전략을 가볍게 짚는 화법
+## 복도에서 — LE COULOIR, ENCORE
+LEFORT: Vous avez joué avec les règles, monsieur Delorme. Vous avez utilisé un comité européen pour contourner mon autorité. ||| 규칙을 갖고 노셨군요, 들로름 씨. 유럽 위원회를 이용해 제 권한을 우회했습니다.
+JULIEN: J'ai proposé un comité, c'est l'Union qui l'a adopté. Vous avez voté pour, au passage, en vous taisant. ||| 저는 위원회를 제안했고, 채택한 건 유럽연합입니다. 지나가는 길에 침묵하면서 찬성하셨고요.
+LEFORT: Mon silence n'est pas un vote. ||| 제 침묵은 찬성표가 아닙니다.
+JULIEN: C'est ce que dit tout le monde, jusqu'au jour où il faut l'expliquer. ||| 다들 그렇게 말하죠, 그걸 설명해야 하는 날까지는.
+LEFORT: Prenez garde. Il y a des gens à Paris qui s'inquiètent de votre goût pour les initiatives. ||| 조심하세요. 파리에는 당신의 주도권 취향을 걱정하는 사람들이 있습니다.
+JULIEN: Je m'inquiète de leur goût pour le silence. ||| 저는 그들의 침묵 취향이 걱정입니다.
+SAAD: Pardonnez-moi, messieurs. Puis-je échanger deux mots avec monsieur Delorme ? ||| 실례합니다, 여러분. 들로름 씨와 두 마디 나눌 수 있을까요?
+LEFORT: Je vous en prie. Je rentre au bureau. ||| 그러세요. 저는 사무실로 돌아갑니다.
+SAAD: Monsieur Delorme, je ne suis pas ici en tant que représentant de qui que ce soit. Je suis ici pour écouter, et pour que vous sachiez que nous écoutons. ||| 들로름 씨, 저는 누구의 대표로 온 게 아닙니다. 듣기 위해 왔고, 우리가 듣고 있다는 걸 알려 드리기 위해 왔습니다.
+JULIEN: Qui est « nous » ? ||| '우리'가 누구입니까?
+SAAD: Les voisins de Kasra. Nous avons tous signé des contrats avec des cabinets de conseil, et nous nous demandons tous qui a vraiment payé qui. ||| 카스라의 이웃들이죠. 우리 모두 컨설팅 사무소들과 계약을 했고, 누가 누구에게 실제로 돈을 냈는지 다들 궁금해 합니다.
+JULIEN: Vous voulez dire que la déclaration des honoraires vous intéresse. ||| 수수료 신고에 관심이 있으시다는 말씀이군요.
+SAAD: Elle intéresse surtout ceux qui ne l'ont pas encore faite. Bonne chance. ||| 아직 신고하지 않은 이들이 특히 관심을 갖지요. 행운을 빕니다.
+CAMILLE: Julien, tu as vu ? Le vice-ministre a regardé Lefort pendant tout le temps où tu parlais d'honoraires. ||| 줄리앵, 봤어? 네가 수수료 얘기를 하는 내내 차관이 르포르를 쳐다봤어.
+JULIEN: J'ai vu. Mais ne tirons pas de conclusion. Il regardait peut-être sa montre. ||| 봤어. 하지만 결론은 내리지 말자. 시계를 봤을 수도 있어.
+CAMILLE: Les montres des Kasriens s'arrêtent d'habitude sur ceux qu'ils soupçonnent. ||| 카스라 사람들의 시계는 보통 의심하는 사람 앞에서 멈추지.
+JULIEN: Tu apprends vite. Mais jamais « d'habitude » ne doit devenir « toujours ». ||| 빨리 배우네. 하지만 '대개'가 '언제나'가 되어선 안 돼.
+CAMILLE: Je note. Et le comité ? ||| 메모할게. 그럼 위원회는?
+JULIEN: Il manque une chose : le traducteur neutre. Vandenberghe doit nous proposer un nom avant ce soir. ||| 하나가 빠졌어. 중립 번역사. 반덴베르허가 오늘 저녁 전에 이름을 내놔야 해.
+VANDENBERGHE: Vous parlez de moi ? J'ai une candidate : une Luxembourgeoise, trilingue, juriste, cinquante-deux ans. Elle a traduit pour la Cour de justice. ||| 제 얘기 하셨나요? 후보가 있어요. 룩셈부르크 사람이고 3개 국어를 하는 법률가, 52세입니다. 유럽연합 사법재판소에서 번역을 했어요.
+JULIEN: Son nom ? ||| 이름은요?
+VANDENBERGHE: Marthe Kieffer. Elle ne dit jamais rien avant d'avoir tout relu. C'est pour cela qu'on la craint. ||| 마르트 키퍼. 전부 다시 읽기 전에는 아무 말도 안 해요. 그래서 다들 두려워합니다.
+JULIEN: Excellent. Les Kasriens l'accepteront-ils ? ||| 훌륭합니다. 카스라가 받아들일까요?
+VANDENBERGHE: Je pense qu'ils préféreront quelqu'un qui n'est ni français, ni arabe, ni anglais. Un Luxembourgeois, c'est un peu tout cela et ce n'est rien de tout cela. ||| 프랑스인도 아랍인도 영국인도 아닌 사람을 선호할 거라고 봐요. 룩셈부르크 사람은 그 모든 것이면서 그중 어느 것도 아니죠.
++ contourner = 우회하다. prendre garde = 조심하다. au passage = 지나가는 길에
++ Mon silence n'est pas un vote = 르포르의 방어. 다음 화에서 '침묵'이 주제가 됨
++ qui que ce soit = 그가 누구든(접속법 관용구). pour que vous sachiez = pour que + 접속법
++ nous nous demandons tous qui a vraiment payé qui = 간접의문 + 대명동사. 수수료 투명화의 연대
++ tirer une conclusion = 결론을 내리다. d'habitude / toujours = 대개 / 언제나
++ ne dit jamais rien avant d'avoir tout relu = 전치 시제(avant de + inf.). 중립 번역사 키퍼의 성격을 보이는 소개
+
+## 브라스리의 치즈 카트 — LA BRASSERIE
+VALCOURT: Julien, Camille, ici ! Je suis arrivé par le premier train, comme un adolescent. J'ai fait le tour du marché, j'ai tâté trois fromages et insulté un frituriste. ||| 줄리앵, 카미유, 여기예요! 첫 열차로 소년처럼 도착했죠. 시장을 한 바퀴 돌며 치즈 세 개를 만져 보고 튀김 장수를 모욕했어요.
+JULIEN: Vous insultez toujours avec élégance ? ||| 모욕도 늘 우아하게 하십니까?
+VALCOURT: Je lui ai dit que ses frites n'étaient pas assez belges. C'est la pire injure possible. ||| 감자튀김이 별로 벨기에답지 않다고 했죠. 가능한 최악의 모욕입니다.
+CAMILLE: Je suis ravie de vous voir, monsieur l'ambassadeur. Nous avons eu une journée pleine. ||| 뵙게 되어 기뻐요, 대사님. 하루가 꽉 찼어요.
+VALCOURT: Le chariot arrive. Herve, chimay, orval, passendale. Quatre abbayes et un village. Choisissez, vous êtes à Bruxelles. ||| 카트가 옵니다. 에르브, 시메, 오르발, 파상달. 수도원 넷과 마을 하나. 고르세요, 브뤼셀이잖아요.
+JULIEN: Un herve, avec de la bière. ||| 에르브 하나, 맥주와 함께요.
+VALCOURT: Bon choix. Un fromage qui sent fort et ne ment pas. Racontez-moi la séance. ||| 좋은 선택이에요. 냄새가 강해도 거짓말은 않는 치즈지. 회의를 얘기해 봐요.
+JULIEN: Un comité de lecture est adopté, sous réserve de validation française. Le Belge nous a sauvés d'un mot : « trois versions, trois fois d'accord ». ||| 독회 위원회가 채택됐습니다, 프랑스 측 승인 조건으로요. 벨기에 대표가 한 마디로 구했죠. '판본 셋이면 합의 세 번'.
+VALCOURT: Voilà un homme qui comprend l'Europe. Savez-vous où elle est née, cette Europe ? ||| 유럽을 아는 사람이군요. 이 유럽이 어디서 태어났는지 아세요?
+CAMILLE: Dans le salon de l'Horloge, au Quai d'Orsay. Le neuf mai mille neuf cent cinquante. ||| 케도르세 시계의 방에서요. 1950년 5월 9일에.
+VALCOURT: Très bien, Camille. Robert Schuman lit une déclaration de quelques minutes. Il propose de placer la production franco-allemande de charbon et d'acier sous une même autorité commune. ||| 잘했어요, 카미유. 로베르 쉬망이 몇 분짜리 선언문을 읽죠. 프랑스·독일의 석탄과 철강 생산을 하나의 공동 기구 아래 두자고 제안합니다.
+JULIEN: Une proposition très étroite. Le charbon et l'acier. ||| 아주 좁은 제안이었죠. 석탄과 철강.
+VALCOURT: C'est ce qui l'a rendue possible. Il dit : « L'Europe ne se fera pas d'un coup ni dans une construction d'ensemble : elle se fera par des réalisations concrètes, créant d'abord une solidarité de fait. » ||| 그래서 가능했어요. 그가 말하죠. '유럽은 한꺼번에, 전체 구도 속에서 만들어지지 않을 것이다. 먼저 사실상의 연대를 낳는 구체적 성과를 통해 만들어질 것이다.'
+CAMILLE: Puis, en avril 1951, six pays signent le traité de Paris. ||| 그리고 1951년 4월 여섯 나라가 파리 조약에 서명하죠.
+VALCOURT: La France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas, le Luxembourg. Votre Luxembourgeoise n'est donc pas un hasard. ||| 프랑스, 독일, 이탈리아, 벨기에, 네덜란드, 룩셈부르크. 당신네 룩셈부르크 여성은 우연이 아니군요.
+JULIEN: Vous voyez un lien avec notre comité ? ||| 우리 위원회와 연결 고리가 보이십니까?
+VALCOURT: Je vois la même méthode : ne pas régler le conflit, régler un petit objet commun. Trois traducteurs sur trois textes, c'est notre charbon et notre acier. ||| 같은 방법이 보여요. 갈등을 해결하는 게 아니라 작은 공동의 대상을 해결하는 것. 세 문서에 번역사 세 명, 그게 우리의 석탄과 철강이죠.
+CAMILLE: Et la transparence des honoraires ? Où est-elle dans votre histoire ? ||| 그럼 수수료 투명화는요? 대사님 이야기 어디에 있죠?
+VALCOURT: Dans le fait que la Haute Autorité devait publier ses comptes. Une petite chose, mais une chose qui change les habitudes. ||| 고위 기구가 회계를 공개해야 했다는 점에요. 작은 일이지만 습관을 바꾸는 일이죠.
+JULIEN: Je ne savais pas ce détail. ||| 그 세부는 몰랐습니다.
+VALCOURT: Je n'en suis pas sûr moi-même. Je généralise. Mais l'idée est vraie. ||| 나도 확신은 없어요. 일반화하는 거죠. 하지만 생각은 맞아요.
+CAMILLE: Monsieur l'ambassadeur, que pensez-vous de Lefort ? ||| 대사님, 르포르는 어떻게 생각하세요?
+VALCOURT: Un homme qui aime tant le règlement qu'il en oublie le but. Je l'ai connu il y a vingt ans, à Vienne. Il portait déjà ses dossiers comme un bouclier. ||| 규정을 너무 좋아해서 목적을 잊는 사람이죠. 20년 전 빈에서 알았어요. 그때도 서류를 방패처럼 들고 다녔어요.
+JULIEN: Il demande à présider les réunions où personne ne lui a rien demandé. ||| 아무도 요구하지 않은 회의의 의장이 되려 하더군요.
+VALCOURT: Alors invitez-le à dîner dans trois jours. Chez moi. Il y aura du fromage et je lui raconterai l'histoire du silence. ||| 그럼 사흘 뒤에 저녁 식사에 초대하세요. 내 집으로. 치즈가 있을 거고 침묵 이야기를 들려줄 겁니다.
+JULIEN: L'histoire du silence ? ||| 침묵 이야기요?
+VALCOURT: Celle de Talleyrand. Mais chaque chose en son temps. Camille, une dernière bière ? ||| 탈레랑의 이야기죠. 하지만 모든 일엔 때가 있어요. 카미유, 맥주 한 잔 더?
+LÉA: Papa, tu m'écris trop peu. Sujet de ce soir : « Un contrat suppose-t-il la confiance ? » J'ai besoin de ton avis. ||| 아빠, 문자가 너무 적어요. 오늘 밤 주제는 '계약은 신뢰를 전제하는가'예요. 아빠 의견이 필요해요.
+JULIEN: Je te réponds au téléphone. Une seconde. Léa ? ||| 전화로 답하마. 잠깐만. 레아?
+LÉA: Si on se fait confiance, on n'a pas besoin de contrat. Si on ne se fait pas confiance, le contrat ne sert à rien. Donc le contrat est inutile ? ||| 서로 믿으면 계약이 필요 없고, 서로 안 믿으면 계약은 아무 소용이 없어요. 그럼 계약은 쓸모없나요?
+JULIEN: Tu viens d'inventer un paradoxe. Maintenant, définis « confiance ». ||| 역설을 하나 만들었구나. 이제 '신뢰'를 정의해 봐.
+LÉA: C'est une question de définition, papa ! La confiance, c'est accepter d'être vulnérable en face de quelqu'un qui pourrait en profiter. ||| 개념 정의의 문제잖아요, 아빠! 신뢰란 이용할 수 있는 사람 앞에서 약해지기를 받아들이는 거예요.
+JULIEN: Alors le contrat est une confiance qui s'écrit. Il fixe la limite de ce qu'on accepte de perdre. ||| 그럼 계약은 글로 쓴 신뢰네. 잃어도 좋다고 받아들이는 한계를 정하는 거야.
+LÉA: C'est joli. Je le mets. Et toi, tu as confiance en qui, en ce moment ? ||| 멋있어요. 그걸 쓸게요. 그럼 아빠는 요즘 누구를 믿어요?
+JULIEN: En une dame de soixante-dix-huit ans qui a gardé son carnet. Et en un Belge qui fait des blagues. ||| 노트를 간직한 일흔여덟 살 부인, 그리고 농담하는 벨기에 사람이지.
+LÉA: Pas en Lefort. ||| 르포르는 아니고요.
+JULIEN: Pas en Lefort. Mais je m'efforce de ne pas en conclure qu'il ment. ||| 르포르는 아니야. 하지만 그가 거짓말한다고 결론짓지 않으려 애쓰고 있다.
++ le chariot de fromages = 치즈 카트. herve, chimay, orval, passendale = 벨기에 치즈(에르브, 시메, 오르발, 파상달)
++ le salon de l'Horloge = 케도르세의 '시계의 방'. 슈만 선언(1950.5.9)이 발표된 장소
++ «une solidarité de fait» = 슈만 선언의 핵심 표현. 구체적 성과를 통한 사실상의 연대
++ la Haute Autorité = 석탄철강공동체(CECA)의 고위 기구. 1951년 파리 조약으로 6개국 출범
++ chaque chose en son temps = 모든 일에는 때가 있다. insulter avec élégance = 우아하게 모욕하다
++ Un contrat suppose-t-il la confiance ? = 철학 논술 주제. 계약 = 글로 쓴 신뢰, 감수할 손실의 한계
++ je m'efforce de ne pas en conclure = s'efforcer de + inf. 부정 구문. 판단 유보의 윤리
