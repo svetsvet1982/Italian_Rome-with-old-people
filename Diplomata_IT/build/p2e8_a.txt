@@ -1,0 +1,54 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 2
+@ep 8
+@title La diretta
+@ko 생중계
+@setting 일요일 저녁 파르네시나 상황실 → 분장실 → 밤 방송국 스튜디오 → 방송 후 복도
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 신임 외무사무총장, 53세
+@cast ROVELLI | 방송 진행자, 51세
+@cast MARCHESINI | 시사 평론가, 60세
+@cast SIGNORA VALENTI | 인질 간호사 키아라의 어머니, 58세 (전화 연결)
+@cast MADRE COSTANZA | 자비의 수녀회 총장 수녀, 74세 (전화 연결)
+@cast BELLANDI | 바티칸 외교관 몬시뇰, 67세 (전화)
+@note 8화는 언론전의 화입니다. 일요일 밤 인기 생중계 토크쇼에서 '정부가 비밀리에 몸값을 지급하기로 했다'는 설이 확산됩니다. 란차는 방송에서 진행자의 질문 순서와 '재단'이라는 단어가 반복되는 방식에서 정보의 출처를 읽어 내고, 두 텍스트를 방송에서 직접 낭독해 소문을 가라앉힙니다. 역사 논거는 카부르와 발보가 창간한 『일 리소르지멘토』(1847): 신문이 헌법과 의회를 요구하는 공적 광장이 된 사례입니다. 어휘는 방송·언론(diretta, scaletta, smentita, indiscrezione, fonte)에 주목하세요.
+@next 9화: 벨란디의 서류철이 열립니다. 그가 비공식 채널로 몰래 몸값을 다시 지급하려 했음이 드러납니다.
+
+## 상황실 — LA SALA SITUAZIONI
+GIULIA: Corrado, guarda la tv. Sta per cominciare «Prima Serata». ||| 코라도, 텔레비전 보세요. '프리마 세라타'가 곧 시작해요.
+CORRADO: Chi è l'ospite? ||| 손님이 누구죠?
+GIULIA: Il professor Marchesini. Quello che parla di tutto. Il titolo della puntata è «Il prezzo dei cinque». ||| 마르케시니 교수예요. 모든 것에 대해 말하는 사람이요. 오늘 방송 제목이 '다섯 사람의 값'이에요.
+CORRADO: Che titolo elegante. ||| 우아한 제목이네요.
+ORSOLINI: Dottor Lanza, ha visto l'agenzia? ||| 란차 박사, 통신 기사 봤습니까?
+CORRADO: Quale, ambasciatore? ||| 어떤 거요, 대사님?
+ORSOLINI: «Fonti vicine al dossier riferiscono che il governo avrebbe autorizzato un pagamento riservato di due milioni». ||| "사안에 가까운 소식통에 따르면 정부가 200만 유로의 비공개 지급을 승인했다고 한다."
+CORRADO: Chi è la fonte? ||| 출처가 누굽니까?
+ORSOLINI: Non è scritto. ||| 적혀 있지 않습니다.
+CORRADO: Non si capisce neanche in che modo. «Avrebbe autorizzato». Condizionale di cautela. ||| 어떻게인지도 알 수 없죠. '승인했다고 한다'. 신중함의 조건법이에요.
+ORSOLINI: Il ministro mi ha chiamato dodici minuti fa. Vuole una smentita. ||| 장관님이 12분 전 전화하셨습니다. 부인 성명을 원하십니다.
+CORRADO: Una smentita scritta, o in diretta? ||| 서면 부인입니까, 생방송 부인입니까?
+ORSOLINI: In diretta. Hanno invitato un esponente del governo. ||| 생방송입니다. 정부 관계자를 초대했더군요.
+CORRADO: E chi? ||| 누구를요?
+ORSOLINI: Lei. ||| 박사님입니다.
+CORRADO: Io. ||| 제가요.
+ORSOLINI: Il ministro dice che non vuole il portavoce. Vuole qualcuno che il pubblico non associ alla politica. ||| 장관님은 대변인을 원치 않으십니다. 대중이 정치와 연관 짓지 않는 사람을 원하세요.
+CORRADO: È un complimento? ||| 칭찬입니까?
+ORSOLINI: È una necessità. ||| 필요입니다.
+CORRADO: Allora vado. Giulia, vieni con me. ||| 그럼 가겠습니다. 조울리아, 같이 가요.
+GIULIA: Io? ||| 저요?
+CORRADO: Mi serve una persona che ascolti le domande. ||| 질문을 들어 줄 사람이 필요해요.
+GIULIA: Posso prendere appunti. ||| 메모할 수 있어요.
+CORRADO: Prendi appunti sull'ordine. Non sul contenuto. Voglio sapere in che ordine fanno le domande. ||| 순서를 메모해요. 내용이 아니라요. 질문을 어떤 순서로 하는지 알고 싶어요.
+GIULIA: Perché l'ordine? ||| 왜 순서요?
+CORRADO: Perché l'ordine è la parte che un giornalista non riesce a mentire. ||| 순서는 기자가 거짓말하지 못하는 부분이니까요.
++ diretta = 생방송
++ smentita = 부인(성명)
++ indiscrezione = 흘러나온 정보, 소문
++ fonte = 정보원
++ condizionale di cautela = 신중함의 조건법(보도에서 '~라고 한다')
++ esponente = 대표 인사
++ portavoce = 대변인
++ puntata = (방송) 회차
