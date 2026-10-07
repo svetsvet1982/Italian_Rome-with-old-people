@@ -51,3 +51,29 @@
 - 레아 6화 주제: «Se taire, est-ce mentir ?» → «Le silence a une adresse.»
 - 발쿠르 경고: «Ne faites pas de bêtises élégantes… savoir ce que vous prenez et ce que vous rendez» (→ 1-7 사용 범위 제한).
 - 1-7 훅: 엘렌에게 가야 함, 점심 3번째(쥘리앵 몫). 19일 재판까지 시간. 레아 1-7 주제는 정의와 거짓. 르포르의 '조서'가 법적 도구로 쓰임, 르포르는 아직 누구를 대신해 침묵했는지 불명(9화 배신 복선).
+
+## 1-7 Une faveur grise (166턴, 5섹션)
+- 부숑 점심(3번째, 쥘리앵 몫). 엘렌(vous) 봉투: 카스라 재무장관 타렉 알 함디(Tarek al-Hamdi) 12개월 계좌 내역, 외국 은행, '빼낸(pris)' 자료. 요약: 룩셈부르크 등록 회사가 2~5월 매달 송금(총 300만 초과) = 앙제 번역사에게 번역료를 낸 회사와 동일(등록번호 한 자리 차이). 회사명은 쥘리앵이 적지 않음. 엘렌의 대가 = 어떻게 쓰는지 알려 달라 → 쥘리앵 «je vous dirai ce que je n'en fais pas».
+- 쥘리앵 4규칙(카미유와 작성): 존재를 말하지 않음 / 어떤 절차(위원회·법정·언론)에도 인용 안 함 / 상대에게 보이지 않음 / 보관 안 함(한 쪽만 읽고 반환). 증거 수집의 loyauté, recel 대화. 대신 뷔소르 증언(룩셈부르크 제3자 지급)을 근거로 알 파루키에게 공개 서한: 번역자·기안자·중개인에게 보수를 낸 모든 회사 목록 요청(이름·나라 없이, 룩셈부르크 지급 사실만 명시). 알 파루키는 브뤼셀에서 «Nous aussi, nous désirons savoir qui a été payé»라고 했으므로 자기 말에 묶임.
+- 투옥 인원 현재 13명(남 12·여 나디아 1), 뤼카(Lucas)는 귀국. 라스 사피나 재판은 '며칠 뒤'(19일).
+- 발쿠르(클레르 거리 치즈 가게에서 전화): 파쇼다 1898(마르샹 도착 7월, 키치너 9월 옴두르만 직후, 정중한 접촉·술 일화는 '전해진다', 델카세–영국 대사 협상, 12월 철수, 1899.3 협정). «reculer proprement». 경고: 어둠 속에서 안 것은 대낮에 방어할 수 있어야 함.
+- 레아 숙제: «pour la justice, peut-on user du mensonge ?» 정의=절차, 절차를 망치는 거짓은 정의를 잃음. 칸트 1797 vs 콩스탕, 자연 상태. «Cacher n'est pas mentir… zone grise». 
+- 엘렌 경고: 같은 내역의 다른 한 부가 '제게 남아 있지 않다' → 또 새 나갈 수 있음. 훅: «Le Messager» 기자가 3월 14일자 부속 서한 존재 확인 문의, 내일 보도.
+
+## 1-8 La fuite (166턴, 5섹션)
+- «Le Messager» 1면 «Navires de Kasra : l'État savait» (부제 «Une lettre annexe oubliée a changé le sens du contrat»). 기자 마틸드 가르니에(Mathilde Garnier, 38). 번역문만 인용('s'oblige' = 아랍어 번역, 'engagement' = 프랑스어판), '내부 메모(note de synthèse)를 열람했다'고 서술(«signalait»). 2면 «Treize otages d'une virgule ?».
+- 르포르: 유출 조사·부인·언론 접촉 금지를 요구 → 쥘리앵 제안(면담+카미유 기록+서면 보고)에 «sous réserve de relecture» 동의. 메모는 법무국이 작년 봄 작성.
+- 질문 순서: ① 8,700만 위약금 국가 보전 ② 누가 언제 알았나 ③ engagement/obligation 차이 ④ 기술자 피해 ⑤ 누가 후속조치 안 했나 ⑥ 장관 사전 보고. 해법의 순간: 번역문만 인용하고 «어느 텍스트가 원문/우선하는가»를 한 번도 묻지 않음 → 정보원은 원본이 아니라 요약만 가진 자, 청구서(국가가 돈 내는 것)에 이해관계. 쥘리앵: 다음 날 세 판본 전문을 제출 조서에 올려 기자도 열람.
+- 메모 수신자 7명(작년 4월 22일자): 당시 부실장 르포르, 경제 보좌관, 법무국 부국장, 군수 대표, 홍보실장, 계약 운영위(COPIL) 2명(조선소 법무국장 포함). 경제 보좌관 사본 여백 «tr. à GM, pour information».
+- 카미유의 드레퓌스 요약: 1894 군법회의·비밀 서류철, 1896.11 «Le Matin» 명세서(bordereau) 사진판 → 은행가가 필적 식별(에스테라지), 1898.1 졸라 «J'accuse»(«L'Aurore»), 1898 앙리 위조. 교훈 '문서를 보였는가, 문서에 대한 말만 했는가'.
+- 르포르 «À ma connaissance, c'est la première fois que le ministère publie lui-même…», 내부 조사는 진행. 레아: 증거=확인 가능해야 함, 일요일 피자.
+
+## 1-9 Le conseiller (176턴, 5섹션)
+- 세바스티앵 바이양(Sébastien Vaillant, 36): 비서실 경제 보좌관. 가스파르 마르소(Gaspard Marceau, 48): 조선소 «Chantiers de l'Estuaire» 로비스트(이익 대표자 등록). 조선소가 제출한 12번 문서: 이메일 «Compte rendu — réunion de coordination du mardi — usage restreint»(머리글 삭제됨). 내용: 국가는 판결 전 위약금 보증 안 함 / 공동 독회 위원회는 수용하되 해석 권한 없음 / 쥘리앵은 독회에 «cantonné».
+- 해법의 순간: 마르소가 스스로 보여 준 원본 헤더 = 화요일 14:12 (+0200). 회의실 예약 15:00~16:10, 출석부 15:02 서명, 공식 보고 16:30(‘cantonné’ 단어만 빠지고 동일). 즉 결정이 회의 전에 쓰여 있었음 («Elle n'a pas décidé, elle a signé»). 시간대 반박(파리 +0200, 런던 +0100).
+- 마르소의 보수: 룩셈부르크 중개 회사 «V.A. quelque chose»가 청구(조선소 추천). 쥘리앵 «V.A. Luxembourg. Merci.» (V.A. = 1-4 의뢰인 약자와 연결, 풀네임은 아직 불명).
+- 바이양: «Personne ne m'a demandé de le faire. Personne ne m'a demandé de ne pas le faire non plus.», 르포르가 «Je préfère ne pas savoir ce que sait M. Marceau»라고 한 적 있음 (= 6화 계단의 '누군가'). 쥘리앵: 메시지 전부 보관 지시.
+- 르포르: 인정, 쥘리앵의 3요구(바이양 배제, 르포르 본인이 감찰(Inspection générale) 회부, 17시 전 장관에게 서면 보고) 수락, «J'ai passé ma vie à préférer ne pas savoir.» 아직 사임 아님.
+- 발쿠르: 속은 자들의 날(1630.11.10~11): 뤽상부르 궁, 마리 드 메디시스·마리야크 형제(미셸 국새상, 루이 원수 1632 처형), 베르사유 사냥 별장, 리옹 병상 일화. 교훈 '결정보다 앞선 발표'. 몽도르·오소이라티·퐁레베크·브리야사바랭.
+- 레아: «Qu'est-ce que trahir ?» tradere(넘기다), traduire≠tradere(traducere), 이탈리아 속담 인용. 신뢰받은 자만 배신 가능, 알고 싶지 않은 위임은 '포기'.
+- 10화 훅: 알 파루키가 «de vive voix, et sur la mer»로 답한다며 목요일 툴롱의 프리깃함에서 기다림. 쥘리앵은 'V.A.가 누구냐'를 들고 감.

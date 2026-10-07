@@ -1,0 +1,87 @@
+## 사무실의 분석 — LE BUREAU DE JULIEN
+CAMILLE: Tu étais très calme. Moi, j'avais les mains qui tremblaient en prenant des notes. ||| 너 아주 침착했어. 나는 기록하면서 손이 떨렸어.
+JULIEN: Quand elle a dit « le texte est déjà en français », j'ai eu un frisson. Ce n'est pas le texte qu'on lui a donné, c'est un texte lu à sa place. ||| '텍스트가 이미 프랑스어였다'고 했을 때 소름이 돋았어. 기자에게 준 건 텍스트가 아니라 누군가 대신 읽은 텍스트야.
+CAMILLE: Et l'ordre des questions. Prix, savoir, mot, victimes, suite. ||| 질문 순서도 그래. 가격, 앎, 단어, 피해자, 후속 조치.
+JULIEN: Pour moi, l'ordre est un portrait. Le premier sujet, c'est l'intérêt de celui qui parle. ||| 내게 순서는 초상화야. 첫 주제가 말하는 사람의 이익이거든.
+CAMILLE: Qui a un intérêt à ce que l'État paie ? ||| 국가가 돈을 내는 데 이익이 있는 사람이 누구야?
+JULIEN: Le chantier d'abord. Et ensuite quiconque veut montrer que l'administration a failli. ||| 우선 조선소지. 그리고 행정이 실패했다는 걸 보여 주고 싶은 사람이고.
+CAMILLE: Ce qui désigne deux familles. Le chantier, et quelqu'un au Quai qui veut du mal à quelqu'un d'autre au Quai. ||| 두 부류가 가리켜지네. 조선소, 그리고 케도르세 안에서 케도르세의 누군가를 해치고 싶은 사람.
+JULIEN: Ou une seule famille, avec deux têtes. Je ne conclus pas. ||| 아니면 한 가족에 머리가 둘일 수도 있고. 결론은 안 내려.
+CAMILLE: Je t'ai fait la liste des destinataires de la note. Sept personnes. ||| 메모 수신자 명단 만들었어. 일곱 명이야.
+JULIEN: Montre. ||| 보여 줘.
+CAMILLE: La note est datée du 22 avril de l'an dernier. Elle est adressée à : le directeur adjoint de cabinet, c'est-à-dire Lefort alors ; le conseiller économique du cabinet ; la sous-directrice du service juridique ; le délégué à l'armement ; la chef du service de presse ; et deux personnes du comité de pilotage du contrat, dont le directeur juridique du chantier. ||| 메모 날짜는 작년 4월 22일이야. 수신인은 당시 부실장이던 르포르, 비서실 경제 보좌관, 법무국 부국장, 군수 담당 대표, 홍보실장, 그리고 계약 운영위원회의 두 사람인데 그중 한 명이 조선소 법무국장이야.
+JULIEN: Sept, dont un hors du Quai. Donc le chantier avait la note depuis un an. ||| 일곱 명 중 하나가 케도르세 바깥이네. 그러니 조선소는 1년 전부터 메모를 갖고 있었던 거야.
+CAMILLE: Alors pourquoi attendre pour la sortir maintenant ? ||| 그런데 왜 지금까지 기다렸다가 내놓았을까?
+JULIEN: Parce qu'un document qu'on garde est une arme, et qu'on n'utilise une arme que quand l'adversaire est assez près. Les pénalités arrivent. ||| 갖고 있는 문서는 무기고, 무기는 적이 충분히 가까울 때만 쓰니까. 위약금 건이 다가왔지.
+CAMILLE: Tu me rappelles quelque chose, en droit. Je pense à Dreyfus. ||| 법 얘기를 들으니 생각나는 게 있어. 드레퓌스.
+JULIEN: Dis. ||| 말해 봐.
+CAMILLE: À la faculté, on nous l'enseigne comme un cas de procédure. En 1894, un capitaine est condamné par un conseil de guerre. Parce qu'on avait montré aux juges un dossier secret que la défense n'a jamais vu. ||| 법대에선 절차 사례로 가르쳐. 1894년에 대위 한 명이 군법회의에서 유죄가 됐어. 판사들에게는 비밀 서류철을 보여 줬고 변호인은 끝내 못 봤으니까.
+JULIEN: Un document que l'accusé ne peut pas contredire. ||| 피고가 반박할 수 없는 문서였지.
+CAMILLE: Exactement : le principe du contradictoire, ce qui se dit au juge doit pouvoir être dit à l'autre. Et la presse est entrée dedans de deux façons. ||| 정확히 그거야. 대심 원칙. 판사에게 하는 말은 상대에게도 할 수 있어야 해. 그리고 언론은 두 방식으로 끼어들었어.
+JULIEN: Lesquelles ? ||| 어떤 방식으로?
+CAMILLE: D'abord, un journal annonce l'arrestation en 1894 et déclenche une campagne de haine. Ensuite, en novembre 1896, Le Matin publie le fac-similé du document qui accusait Dreyfus, ce qu'on appelle le bordereau. ||| 먼저 한 신문이 1894년에 체포를 알리고 증오 캠페인을 일으켰어. 그리고 1896년 11월 «르 마탱»이 드레퓌스를 고발한 문서, 이른바 명세서의 사진판을 실었지.
+JULIEN: Le document original, donc, pas un résumé. ||| 원본 문서였지, 요약이 아니라.
+CAMILLE: Oui, et c'est là que tout bascule : un banquier reconnaît l'écriture, c'est celle d'un autre officier, Esterhazy. Sans la publication du fac-similé, personne ne l'aurait comparée. ||| 그래, 그 지점에서 모든 게 뒤집혀. 한 은행가가 필적을 알아봤어, 다른 장교인 에스테라지의 필적이라고. 사진판 공개가 없었다면 아무도 대조하지 못했을 거야.
+JULIEN: Alors la publication de l'original a ouvert la vérité. ||| 그러니까 원본 공개가 진실을 열어 준 거네.
+CAMILLE: Et à l'inverse, un document fabriqué, le faux du commandant Henry en 1898, a prolongé le mensonge parce qu'on ne le montrait pas. Quand on l'a examiné en pleine lumière, il est tombé. ||| 반대로 1898년 앙리 소령이 만든 위조문서는 드러내지 않아서 거짓을 연장시켰어. 환한 곳에서 검증하자 무너졌지.
+JULIEN: Zola, entre-temps. ||| 그 사이에 졸라가 있었지.
+CAMILLE: « J'accuse », dans L'Aurore, en janvier 1898. La presse a sali, et elle a sauvé. La différence tient à ceci : a-t-on montré la pièce, ou seulement ce qu'on disait d'elle ? ||| 1898년 1월 «로로르»에 실린 '나는 고발한다'. 언론은 더럽히기도 했고 구하기도 했어. 차이는 이거야. 문서를 보여 줬는가, 아니면 문서에 대한 이야기만 했는가.
+JULIEN: Cela donne tout son sens à notre journaliste. Elle a cité ce qu'on disait de la pièce. ||| 그러면 우리 기자의 의미가 분명해지네. 그 기자는 문서에 대한 이야기를 인용한 거야.
+CAMILLE: Et ta réponse, c'est de montrer la pièce. ||| 그리고 네 대답은 문서를 보여 주는 거고.
+JULIEN: Les trois textes. Dans l'ordre. Sans commentaire. Le meilleur démenti est la lecture. ||| 세 텍스트를 순서대로, 해설 없이. 최고의 부인은 읽게 하는 거야.
+CAMILLE: Mais si Lefort veut qu'on cherche le coupable ? ||| 하지만 르포르가 범인을 찾자고 하면?
+JULIEN: Qu'il cherche. Je n'empêcherai personne de chercher. Je veux seulement que la recherche ne remplace pas la lecture. ||| 찾으라고 해. 나는 아무도 찾지 못하게 막지 않아. 다만 찾는 일이 읽는 일을 대신하지 않기를 바랄 뿐이야.
+CAMILLE: Bien. Je prépare les trois textes avec la table de concordance de la commission, côte à côte. ||| 좋아. 위원회의 대조표와 함께 세 텍스트를 나란히 준비할게.
++ le principe du contradictoire = 대심(對審) 원칙. 상대방이 반박할 수 있어야 한다는 법의 기본 원리
++ le conseil de guerre = 군법회의. 1894년 드레퓌스를 재판한 기구
++ le bordereau = 명세서. 드레퓌스 사건의 핵심 문서이자 계약의 목록 의미도 가진 단어
++ un fac-similé = 사진판, 정밀 복제본. 원문을 그대로 보여 주는 공개 방식
++ tout bascule = 모든 것이 뒤집히다. 반전을 가리키는 구어적 동사
++ montrer la pièce, pas ce qu'on dit d'elle = 문서를 보여 줄 것, 문서에 대한 말이 아니라. 이 화의 주제
+
+## 성명서와 레아 — LE COMMUNIQUÉ
+JULIEN: Je lis le projet de communiqué : « Le ministère confirme l'existence d'une lettre annexe datée du 14 mars. Il verse au dossier, à l'intention de toutes les parties, les trois versions intégrales du texte. Il rappelle que l'interprétation relève de la commission de lecture commune. » ||| 성명서 초안을 읽을게. '부처는 3월 14일자 부속 서한의 존재를 확인한다. 부처는 모든 당사자를 위해 세 판본의 전문을 서류에 제출한다. 해석은 공동 독회 위원회의 소관임을 상기한다.'
+CAMILLE: Il ne dit ni « nous savions » ni « nous ne savions pas ». ||| '알았다'도 '몰랐다'도 말하지 않네.
+JULIEN: Parce que ce n'est pas le sujet du texte. Le sujet est le texte. ||| 그건 글의 주제가 아니니까. 주제는 텍스트야.
+CAMILLE: Lefort va dire que nous nous mettons en cause. ||| 르포르는 우리가 스스로를 문제 삼는다고 할걸.
+JULIEN: Il le dira. Appelle-le, ou plutôt, non, je l'appelle. ||| 그렇게 말하겠지. 전화해 줘, 아니, 내가 걸게.
+LEFORT: Lefort. ||| 르포르입니다.
+JULIEN: Bonjour, monsieur le directeur de cabinet. Je vous rends compte de ma rencontre avec la journaliste, comme convenu. ||| 비서실장님, 약속대로 기자 면담 결과를 보고드립니다.
+LEFORT: Je vous écoute. ||| 말씀하세요.
+JULIEN: Elle n'a rien obtenu de moi. J'ai noté l'ordre de ses questions : la garantie de l'État, puis qui savait, puis la différence entre les mots. Elle n'a jamais demandé quel texte prévaut. ||| 제게서 아무것도 얻지 못했습니다. 질문 순서를 적었습니다. 국가의 보증, 그다음 누가 알았나, 그다음 단어의 차이. 어느 텍스트가 우선하는지는 한 번도 묻지 않았습니다.
+LEFORT: Et cela veut dire quoi ? ||| 그게 무슨 뜻입니까?
+JULIEN: Que la personne qui l'a informée n'avait pas les originaux, mais une synthèse. Et qu'elle a intérêt à ce que l'État paie. ||| 정보를 준 사람에게 원본이 없고 요약본만 있었다는 뜻입니다. 그리고 국가가 돈을 내는 데 이해관계가 있다는 뜻이고요.
+LEFORT: Vous accusez le chantier ? ||| 조선소를 지목하시는 겁니까?
+JULIEN: Je décris un profil. Je n'ai pas de nom. J'ai un communiqué qui dépose les trois textes en intégralité demain matin. ||| 윤곽을 묘사하는 겁니다. 이름은 없습니다. 내일 아침 세 텍스트의 전문을 제출하는 성명서가 있습니다.
+LEFORT: Cela revient à reconnaître que la lettre existe. ||| 그건 서한이 존재한다고 인정하는 것과 같습니다.
+JULIEN: Elle existe, monsieur le directeur de cabinet. Vous me l'avez dit vous-même. Un communiqué qui nie ce que tout le monde sait ne protège personne. ||| 존재합니다, 비서실장님. 직접 말씀하셨고요. 모두가 아는 것을 부인하는 성명서는 아무도 보호하지 못합니다.
+LEFORT: À ma connaissance, c'est la première fois que le ministère publie lui-même ce que d'autres voulaient divulguer. ||| 제가 아는 한, 다른 이들이 폭로하려던 것을 부처가 스스로 공개하는 건 처음입니다.
+JULIEN: C'est le procès-verbal de dépôt que nous avons voté à votre table chez Valcourt. Une forme partagée. ||| 발쿠르 대사님 식탁에서 우리가 동의한 제출 조서입니다. 공유된 형식이죠.
+LEFORT: Je ne vais pas vous empêcher. Mais l'enquête interne aura lieu quand même. ||| 막지는 않겠습니다. 그래도 내부 조사는 진행될 겁니다.
+JULIEN: À moins qu'on ne l'oriente trop tôt vers une personne. ||| 너무 일찍 한 사람 쪽으로 몰아가지만 않는다면요.
+LEFORT: Vous avez décidément des idées sur tout. Bonne journée. ||| 정말 모든 일에 생각이 있으시군요. 좋은 하루 되십시오.
+CAMILLE: Il a cédé. ||| 양보했네.
+JULIEN: Il a laissé faire. Ce n'est pas pareil. Il garde le droit de dire qu'il n'a rien décidé. ||| 내버려 둔 거야. 같지 않아. 자기가 아무것도 결정하지 않았다고 말할 권리를 지키는 거지.
+CAMILLE: Léa te demande au téléphone. ||| 레아가 전화로 찾는데.
+JULIEN: Passe-la-moi. Léa ? ||| 연결해 줘. 레아?
+LÉA: Papa, j'ai vu la une sur mon téléphone. Les copains en parlent. ||| 아빠, 휴대폰으로 1면 봤어요. 친구들이 얘기해요.
+JULIEN: Qu'est-ce qu'ils disent ? ||| 뭐라고들 해?
+LÉA: Que si c'est dans le journal, c'est vrai. ||| 신문에 나왔으면 사실이라고요.
+JULIEN: Et toi, qu'en penses-tu ? ||| 너는 어떻게 생각해?
+LÉA: Que c'est une question de définition. Qu'est-ce qu'une preuve ? Une citation, c'est une preuve ? ||| 개념 정의의 문제라고요. 증거가 뭐예요? 인용이 증거예요?
+JULIEN: Quel est ton premier critère ? ||| 첫 번째 기준이 뭐야?
+LÉA: Qu'on puisse vérifier. Si on cite une traduction sans montrer l'original, on ne peut pas vérifier. Alors ce n'est pas une preuve, c'est une histoire. ||| 확인할 수 있어야 한다는 거요. 원문을 안 보여 주고 번역만 인용하면 확인할 수 없어요. 그러면 증거가 아니라 이야기죠.
+JULIEN: Tu viens de faire en une phrase le travail de ma matinée. ||| 방금 한 문장으로 내 오전 일을 해 버렸네.
+LÉA: Alors c'est l'heure de me dire merci en pizza. ||| 그럼 고맙다는 인사로 피자 사 줄 시간이네요.
+JULIEN: Dimanche, ça marche ? ||| 일요일이면 어때?
+LÉA: Dimanche, mais avec supplément de fromage. ||| 일요일이요, 치즈 추가해서요.
+CAMILLE: Julien, j'ai quelque chose. Sur l'exemplaire du conseiller économique, dans la marge, il y a une mention manuscrite : « tr. à GM, pour information ». ||| 줄리앵, 하나 찾았어. 경제 보좌관 사본의 여백에 손글씨로 '전달 GM, 참고용'이라고 적혀 있어.
+JULIEN: « GM ». Il y a beaucoup de GM à Paris. ||| 'GM'이라. 파리에 GM이 얼마나 많은데.
+CAMILLE: Oui, mais pas beaucoup au Comité de pilotage du chantier. ||| 그렇지, 하지만 조선소 운영위원회에는 많지 않아.
+JULIEN: Ne dis pas le nom avant d'avoir la preuve. Allons voir le conseiller. ||| 증거를 갖기 전에는 이름을 말하지 마. 보좌관을 만나러 가자.
++ verser au dossier = 서류에 편철하다/제출하다. 법률·행정 서류에서 쓰는 표현
++ se mettre en cause = 스스로 문제 삼다. une mise en cause는 책임을 묻는 일
++ à moins que + ne + 접속법 = ~하지 않는 한. À moins qu'on ne l'oriente trop tôt vers une personne
++ laisser faire / céder = 내버려 두다 / 양보하다. 르포르의 소극적 동의를 가리는 뉘앙스
++ question de définition / une preuve = 개념 정의의 문제 / 증거. 확인할 수 있어야 증거라는 레아의 기준
++ tr. à = transmis à의 약어. 사본 여백의 서명 표기

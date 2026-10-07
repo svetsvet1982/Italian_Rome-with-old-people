@@ -1,0 +1,135 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 1
+@ep 9
+@title Le conseiller
+@ko 보좌관
+@setting 쥘리앵의 사무실(조선사 제출 서류) → 발쿠르의 아파트(치즈 접시) → 호텔 살롱(로비스트) → 비서실 보좌관의 사무실 → 비서실장 집무실과 레아의 전화
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu, 복도에서는 vous
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세
+@cast MARCEAU | 가스파르 마르소, 조선소 «Chantiers de l'Estuaire»를 대리하는 로비스트, 48세
+@cast VAILLANT | 세바스티앵 바이양, 장관 비서실 경제 보좌관, 36세
+@cast LEFORT | 베르트랑 르포르, 장관 비서실장, 51세. 입버릇은 «à ma connaissance», «sous réserve»
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 9화입니다. 8화에서 'GM'으로 표시된 메모 전달 흔적을 쫓아, 쥘리앵은 조선소를 대리하는 로비스트 가스파르 마르소와 비서실 경제 보좌관 세바스티앵 바이양 사이의 정보 흐름을 파악합니다. 단서는 이메일 한 통입니다. 마르소가 선의를 증명하려고 스스로 보여 준 이메일은 '화요일 회의의 결과' 보고서인데, 전송 시각은 14시 12분이고 회의는 15시에 시작되어 16시 10분에 끝났습니다. 즉 결정이 회의 전에 이미 쓰여 있었다는 뜻입니다. 이것이 해법의 순간입니다. 역사 논거는 '속은 자들의 날'(Journée des Dupes, 1630년 11월 10-11일)입니다. 모후 마리 드 메디시스와 마리야크 형제(국새상 미셸, 원수 루이)가 리슐리외의 실각을 확신하고 궁정이 환호하던 11월 10일, 국왕은 베르사유의 사냥 별장으로 물러났고 11일 리슐리외를 다시 신임했습니다. 마리야크 형제는 체포되었고 루이는 1632년 처형되었습니다. 궁정 정보의 선점이 권력의 바로미터이던 시대에, 결정이 내려지기 전에 결정이 '소문'으로 퍼지면 가장 먼저 속는 것은 그것을 믿고 움직인 자들이라는 교훈입니다. 이 화에서 쥘리앵은 7화에서 정한 원칙(비공식으로 얻은 것은 쓰지 않고, 공개적으로 묻는다)을 지켜 마르소의 이메일을 본인 동의 아래 확인합니다. 어휘는 접속법(il faut que, avant que, sans que), 시각·절차 표현(horodatage, feuille de présence, compte rendu), 완곡어법(orientations)에 주목하세요.
+@next 10화: 카스라 차관 알 파루키가 서한에 대한 답을 '구두로, 그리고 바다 위에서' 주겠다고 합니다. 툴롱에 정박한 프리깃함 갑판에서의 하루 협상이 시작됩니다.
+
+## 조선사의 제출 서류 — LE DOSSIER DU CHANTIER
+CAMILLE: Les pièces du chantier sont arrivées ce matin, dans un carton, avec une lettre d'accompagnement très courtoise. ||| 조선소 제출 서류가 오늘 아침 상자째 도착했어. 아주 공손한 첨부 서한과 함께.
+JULIEN: Courtoise et vide. Elles étaient demandées dans notre lettre, non ? ||| 공손하고 알맹이는 없고. 우리 서한에서 요구한 서류들이지?
+CAMILLE: Oui, on avait demandé, avec la même règle : tout ce qui a été échangé avec le ministère au sujet de la lettre annexe. ||| 응, 같은 규칙으로 요청했었잖아. 부속 서한과 관련해 부처와 오간 모든 것.
+JULIEN: Et ils ont répondu en vingt-quatre heures. C'est rapide pour un chantier qui ne veut rien cacher. ||| 그리고 24시간 만에 답했네. 아무것도 숨기고 싶지 않은 조선소치고는 빠르군.
+CAMILLE: Ou qui a déjà trié. Regarde la pièce douze. ||| 아니면 이미 추려 놓았거나. 12번 문서를 봐.
+JULIEN: Un courriel imprimé, sans en-tête. Quelqu'un a coupé la partie du haut. ||| 출력한 이메일이네, 머리글이 없어. 누가 위쪽을 잘라 냈군.
+CAMILLE: L'objet est conservé : « Compte rendu — réunion de coordination du mardi — usage restreint ». ||| 제목은 남아 있어. '화요일 조정회의 결과 보고 — 제한 배포'.
+JULIEN: Lis le corps. ||| 본문 읽어 봐.
+CAMILLE: « La réunion a arrêté les points suivants. Un : l'État ne garantira aucune pénalité avant le jugement. Deux : la commission de lecture commune sera acceptée, mais sans pouvoir d'interprétation. Trois : le directeur adjoint de la médiation sera cantonné à la lecture. » ||| '회의는 다음 사항을 확정했다. 하나, 국가는 판결 전에는 어떤 위약금도 보증하지 않는다. 둘, 공동 독회 위원회는 수용하되 해석 권한은 없다. 셋, 중재조정실 부실장은 독회에만 한정한다.'
+JULIEN: « Cantonné ». On parle de moi comme d'un animal. ||| '한정'이라. 나를 짐승처럼 얘기하는군.
+CAMILLE: Et il est à l'indicatif passé : « a arrêté ». Pas « arrêtera ». ||| 그리고 직설법 과거야. '확정할 것이다'가 아니라 '확정했다'.
+JULIEN: Qui l'envoie ? ||| 누가 보낸 거야?
+CAMILLE: Le courriel est transmis par M. Gaspard Marceau, avec la mention « en copie de M. Vaillant ». ||| 가스파르 마르소 씨가 전달한 걸로 되어 있고, '바이양 씨 참조'라는 표기가 있어.
+JULIEN: Vaillant. Le conseiller économique. Celui dont la marge portait « GM ». ||| 바이양. 경제 보좌관이지. 여백에 'GM'이 적혀 있던 사람.
+CAMILLE: Marceau n'est pas membre du comité de pilotage, il est lobbyiste. Il représente le chantier auprès des ministères. ||| 마르소는 운영위원회 위원이 아니라 로비스트야. 부처들 앞에서 조선소를 대변해.
+JULIEN: Un lobbyiste n'est pas un criminel. Il y a un répertoire, des règles, une déclaration. Mais il y a des limites : on ne lui donne pas ce qu'on ne donnerait pas à un citoyen. ||| 로비스트가 범죄자는 아니야. 등록부도 있고 규칙도 있고 신고도 있지. 하지만 한계가 있어. 시민에게 줄 수 없는 걸 그에게 줘서는 안 되는 거야.
+CAMILLE: Alors que fait-on ? On le convoque ? ||| 그럼 어떻게 해? 소환해?
+JULIEN: On ne convoque pas, on demande. Il est libre de refuser. Appelle-le et propose-lui un salon d'hôtel. ||| 소환하지 않고 요청해. 거절할 자유가 그에게 있어. 전화해서 호텔 살롱을 제안해.
+CAMILLE: Pourquoi pas ici ? ||| 왜 여기가 아니고?
+JULIEN: Parce qu'ici il parlera comme un visiteur. Ailleurs, il parlera comme un homme. ||| 여기서는 방문객처럼 말할 거야. 다른 곳에서는 사람처럼 말하고.
+CAMILLE: Tu es cruel. ||| 잔인하다.
+JULIEN: Précis. Autre chose : où était la réunion de coordination ? ||| 정확한 거야. 또 하나. 조정회의는 어디서 했지?
+CAMILLE: Salle des conférences du cabinet, premier étage. Je peux demander le registre de réservation. ||| 비서실 회의실, 1층 위야. 예약 대장을 요청할 수 있어.
+JULIEN: Et la feuille de présence. Je veux les deux, par la voie ordinaire. ||| 출석부도. 둘 다 정식 경로로 받고 싶어.
+CAMILLE: Par la voie ordinaire, Lefort l'apprendra. ||| 정식 경로로 하면 르포르가 알게 될 텐데.
+JULIEN: C'est précisément pourquoi : je ne fais rien que je ne puisse lui dire. ||| 바로 그래서야. 그에게 말할 수 없는 일은 하지 않으니까.
++ une pièce = 문서, 증거 서류. Les pièces du chantier는 소송·중재에서 제출하는 서류를 가리킨다
++ cantonner qqn à = ~에게 한정시키다. 사람을 좁은 영역에 가두는 어감의 동사
++ a arrêté / arrêtera = 확정했다 / 확정할 것이다. 시제가 결정의 시점을 알려 주는 단서
++ un lobbyiste / un représentant d'intérêts = 로비스트 / 이익 대표자. 신고·등록 제도가 있는 직업
++ On ne convoque pas, on demande. = 소환하지 않고 요청한다. 공개적으로 묻는다는 7화의 원칙
++ la voie ordinaire = 정식 경로. 비공식과 대비되는 행정 절차의 표현
++ le registre de réservation / la feuille de présence = 예약 대장 / 출석부. 회의 시각을 입증하는 문서
+
+## 발쿠르의 치즈 접시 — LE PLATEAU DE VALCOURT
+VALCOURT: Entrez, entrez. J'ai fait un petit plateau : un mont-d'or, un ossau-iraty, un pont-l'évêque et un brillat-savarin. C'est octobre, le mont-d'or revient. ||| 들어와요, 들어와. 작은 접시를 마련했어요. 몽도르, 오소이라티, 퐁레베크, 브리야사바랭. 10월이라 몽도르가 돌아왔죠.
+JULIEN: Je n'ai pas faim, monsieur l'ambassadeur. J'ai un problème. ||| 배는 안 고픕니다, 대사님. 문제가 하나 있어요.
+VALCOURT: Un problème sans fromage n'est qu'un problème. Asseyez-vous. ||| 치즈 없는 문제는 그냥 문제일 뿐이죠. 앉아요.
+JULIEN: On a transmis des informations du cabinet à quelqu'un qui représente le chantier. Je ne sais pas encore quelles informations, ni quand. ||| 비서실 정보가 조선소를 대변하는 사람에게 전달됐습니다. 아직 어떤 정보를, 언제 줬는지는 모릅니다.
+VALCOURT: Et vous voulez comprendre comment on reconnaît un traître sans l'accuser. Je vais vous raconter la Journée des Dupes. ||| 그리고 배신자를 비난하지 않고 알아보는 법이 알고 싶고요. 속은 자들의 날 얘기를 해 줄게요.
+JULIEN: Novembre 1630. ||| 1630년 11월이죠.
+VALCOURT: Exact. Imaginez : le roi Louis XIII, la reine mère Marie de Médicis, et le cardinal de Richelieu, dont elle ne veut plus. ||| 맞아요. 상상해 봐요. 국왕 루이 13세, 모후 마리 드 메디시스, 그리고 그녀가 더는 원하지 않는 리슐리외 추기경.
+JULIEN: Elle l'avait fait entrer au Conseil. ||| 그녀가 그를 국무회의에 들였죠.
+VALCOURT: Oui, c'était son protégé, et il est devenu son rival. Le désaccord de fond : la guerre contre les Habsbourg. Richelieu voulait que la France y entre, la reine mère et son camp, les dévots, voulaient la paix avec l'Espagne. ||| 그래요, 그녀의 피보호자였는데 경쟁자가 됐죠. 근본적 이견은 합스부르크와의 전쟁이었어요. 리슐리외는 프랑스가 참전해야 한다고 했고, 모후와 그 일파인 '경건파'는 에스파냐와의 평화를 원했죠.
+JULIEN: Le roi était malade à Lyon, quelques semaines avant. ||| 국왕은 몇 주 전에 리옹에서 앓아누웠고요.
+VALCOURT: À Lyon, chez vous. Il a failli mourir, et au chevet, sa mère a obtenu des promesses. On raconte que le roi lui a presque laissé entendre qu'il se séparerait du cardinal. ||| 당신 고향 리옹에서요. 죽을 뻔했고, 머리맡에서 모후가 약속들을 받아 냈어요. 국왕이 추기경과 결별할 것처럼 비쳤다고들 합니다.
+JULIEN: Et le 10 novembre ? ||| 그럼 11월 10일은요?
+VALCOURT: Le roi vient au palais du Luxembourg, chez sa mère. Le garde des sceaux Michel de Marillac, et son frère le maréchal Louis, sont de son côté. Le roi parle à sa mère, longuement. Richelieu, lui, est derrière une porte, ou plutôt, il est entré par une porte que l'on croyait fermée. ||| 국왕이 어머니의 뤽상부르 궁으로 와요. 국새상 미셸 드 마리야크와 그의 형제 루이 원수가 모후 편이었고요. 국왕이 오래 어머니와 얘기해요. 한편 리슐리외는 문 뒤에, 아니, 닫혔다고 믿은 문으로 들어와 있었어요.
+JULIEN: Scène célèbre. ||| 유명한 장면이네요.
+VALCOURT: Scène racontée de plusieurs façons : je vous la raconte en gros. La reine mère le chasse. Le roi, au lieu de le soutenir, s'en va, il repart vers Versailles, où il avait alors un pavillon de chasse. ||| 여러 방식으로 전해지는 장면이니 큰 줄기만 말할게요. 모후가 그를 쫓아내요. 국왕은 그를 감싸지 않고 떠나요, 당시 사냥 별장이 있던 베르사유로 돌아가죠.
+JULIEN: Donc tout le monde a cru que le cardinal était tombé. ||| 그래서 모두가 추기경이 무너졌다고 믿었군요.
+VALCOURT: Exactement. La nouvelle court dans les couloirs en une heure. Les courtisans se pressent chez la reine mère pour la féliciter. Certains annoncent déjà des nominations. ||| 바로 그거예요. 소식이 복도에서 한 시간 만에 퍼져요. 궁정 사람들이 모후에게 축하하려고 몰려가고요. 벌써 인사 발표를 하는 자들도 있고요.
+JULIEN: Et le lendemain ? ||| 그리고 다음 날은요?
+VALCOURT: Le 11 novembre, Richelieu rejoint le roi à Versailles, et le roi le confirme. Les Marillac sont arrêtés, Louis sera exécuté en 1632. Ceux qui avaient cru la nouvelle, et agi en conséquence, étaient les dupes. ||| 11월 11일에 리슐리외가 베르사유에서 국왕을 만나고 국왕은 그를 재신임해요. 마리야크 형제는 체포됐고 루이는 1632년에 처형되죠. 소식을 믿고 그에 따라 움직인 자들이 바로 '속은 자들'이었어요.
+JULIEN: Donc la nouvelle précédait la décision. ||| 그러니까 소식이 결정보다 앞섰다는 거군요.
+VALCOURT: Voilà le point. Le véritable pouvoir n'était pas dans la salle où l'on annonçait ; il était sur la route de Versailles. Quand une décision est annoncée avant d'être prise, on a deux hypothèses. Ou l'annonceur est un imbécile. Ou il sait que la décision se prend ailleurs. ||| 핵심은 이거예요. 진짜 권력은 발표하던 방이 아니라 베르사유로 가는 길 위에 있었죠. 결정이 내려지기 전에 발표되면 가설이 둘이에요. 발표하는 자가 바보이거나, 결정이 다른 곳에서 내려진다는 걸 아는 자이거나.
+JULIEN: Et dans les deux cas, l'annonce est une pièce à conviction. ||| 그리고 어느 쪽이든 그 발표는 증거물이군요.
+VALCOURT: Que cherchez-vous exactement ? ||| 정확히 뭘 찾고 있죠?
+JULIEN: Une heure. Une heure sur un courriel, et une heure sur un registre. Je ne sais pas si elles coïncident. ||| 시각이요. 이메일의 시각과 대장의 시각. 일치하는지 모르겠습니다.
+VALCOURT: Alors dépêchez-vous avant que la nouvelle ne soit dans les couloirs. Prenez un morceau de mont-d'or. ||| 그럼 소식이 복도에 돌기 전에 서두르세요. 몽도르 한 조각 먹고요.
+JULIEN: Je prends. ||| 먹겠습니다.
+VALCOURT: À la cuillère, avec du pain. Et ne traitez jamais un conseiller de traître avant d'avoir regardé qui il écoute. Le courtisan n'est traître qu'envers l'un des deux maîtres. ||| 숟가락으로 빵에 얹어서요. 그리고 보좌관이 누구 말을 듣는지 보기 전에 절대 배신자라고 부르지 마세요. 궁정 사람은 두 주인 중 한쪽에게만 배신자일 뿐이니까.
++ la Journée des Dupes = 속은 자들의 날(1630.11.10~11). dupe는 속은 사람. 소문을 믿고 움직인 자들이 속았다
++ au chevet de qqn = 머리맡에서. 병상에서 약속을 받아 내는 장면의 표현
++ On raconte que… / en gros = ~라고들 한다 / 대강. 일화의 불확실성을 인정하는 발쿠르의 단서
++ une pièce à conviction = 증거물. 결정보다 먼저 나온 발표가 곧 증거가 된다는 논리
++ avant que + ne + 접속법 = ~하기 전에. dépêchez-vous avant que la nouvelle ne soit dans les couloirs
++ ne pas traiter qqn de… avant d'avoir regardé = 보기 전에 ~라고 부르지 말라. 호칭과 판단의 순서
+
+## 호텔 살롱의 로비스트 — LE SALON DE L'HÔTEL
+MARCEAU: Monsieur Delorme, enchanté. Gaspard Marceau. Je suis ravi que vous m'ayez écrit : c'est rare qu'un diplomate demande plutôt que convoque. ||| 들로름 씨, 반갑습니다. 가스파르 마르소입니다. 편지를 써 주셔서 기쁩니다. 외교관이 소환하지 않고 요청하는 건 드문 일이라서요.
+JULIEN: Je vous remercie d'être venu. Voici Mme Roussel, qui prend des notes avec votre accord. ||| 와 주셔서 감사합니다. 이쪽은 동의 아래 기록을 맡을 루셀 씨입니다.
+MARCEAU: Aucun problème. Je n'ai rien à cacher, et je le dis toujours, ce qui est suspect en soi. ||| 문제없습니다. 숨길 게 없고, 늘 그렇게 말하는데 그게 그 자체로 의심스럽긴 하죠.
+JULIEN: Je vous pose d'abord une question simple. Avez-vous reçu, de la part du cabinet du ministre, des informations sur le dossier Sentinelle ? ||| 먼저 간단한 질문을 하나 드리죠. 장관 비서실에서 센티넬 사안에 대한 정보를 받으신 적이 있습니까?
+MARCEAU: Des informations ouvertes, comme tout représentant d'intérêts. Nous sommes déclarés. Nous parlons, on nous répond parfois. ||| 공개된 정보는요, 모든 이익 대표자가 그렇듯이. 우리는 신고되어 있습니다. 우리가 얘기하면 가끔 답을 받죠.
+JULIEN: Et des informations non publiques ? ||| 비공개 정보는요?
+MARCEAU: Je distingue le non public de l'indiscret. Un compte rendu après réunion, c'est un usage courant, très courant. ||| 비공개와 부적절을 구분합니다. 회의 후 결과 보고는 흔한 관행입니다, 아주 흔한.
+JULIEN: Après réunion. Vous êtes sûr de l'ordre ? ||| 회의 후라고요. 순서를 확신하십니까?
+MARCEAU: Parfaitement. Le courriel que vous avez, la pièce douze, le montre clairement. Je peux vous le montrer en entier. ||| 물론입니다. 갖고 계신 12번 문서가 분명히 보여 줍니다. 전체를 보여 드릴 수도 있고요.
+JULIEN: En entier ? Le haut du message a été coupé dans la pièce qui nous a été remise. ||| 전체를요? 제출된 문서에서는 메시지 위쪽이 잘려 있었습니다.
+MARCEAU: C'est le service juridique du chantier qui a retiré l'en-tête, par réflexe. Moi, j'ai l'original sur mon téléphone. Voyez. ||| 조선소 법무팀이 반사적으로 머리글을 뗀 겁니다. 저는 원본이 제 휴대폰에 있습니다. 보시죠.
+CAMILLE: Monsieur Marceau, vous nous autorisez à le photographier ? ||| 마르소 씨, 촬영해도 되겠습니까?
+MARCEAU: Je vous l'offre. J'ai une conscience tranquille. ||| 드리겠습니다. 양심에 거리낌이 없으니까요.
+JULIEN: Camille, lis l'en-tête. ||| 카미유, 머리글을 읽어.
+CAMILLE: « De : S. Vaillant. À : G. Marceau. Date : mardi, quatorze heures douze, plus zéro deux cents. Objet : Compte rendu — réunion de coordination du mardi — usage restreint. » ||| '발신 S. 바이양. 수신 G. 마르소. 날짜 화요일 14시 12분, 시간대 +0200. 제목 화요일 조정회의 결과 보고 제한 배포.'
+MARCEAU: C'est cela. Après la réunion. ||| 그렇습니다. 회의 후입니다.
+CAMILLE: Quatorze heures douze. ||| 14시 12분이요.
+MARCEAU: Oui. Et alors ? ||| 네. 그래서요?
+JULIEN: La réunion de coordination, monsieur Marceau, a eu lieu à quelle heure ? ||| 조정회의는 몇 시에 열렸습니까, 마르소 씨?
+MARCEAU: À quinze heures, je pense. Je ne sais pas, c'est le cabinet qui... ||| 15시일 겁니다. 잘은 모르고요, 비서실이...
+JULIEN: À quinze heures. Camille ? ||| 15시군요. 카미유?
+CAMILLE: Le registre de réservation de la salle est arrivé il y a une heure. Salle réservée de quinze heures à seize heures dix. La feuille de présence est datée de quinze heures deux, avec les signatures. ||| 회의실 예약 대장이 한 시간 전에 왔어. 15시부터 16시 10분까지 예약됐고, 출석부는 15시 2분 날짜에 서명들이 있어.
+MARCEAU: Il doit y avoir une erreur de fuseau. Mon téléphone est peut-être réglé sur Londres. ||| 시간대 오류가 있겠죠. 제 휴대폰이 런던 시간으로 맞춰져 있을지도 모릅니다.
+CAMILLE: Le décalage est de +0200, l'heure d'été de Paris, jusqu'à la fin du mois. Londres serait +0100. L'en-tête est cohérent avec Paris. ||| 시차는 +0200으로 파리의 서머타임이고 이달 말까지 그래. 런던이면 +0100일 거야. 머리글은 파리와 일치해.
+MARCEAU: Alors le serveur a une dérive d'horloge. ||| 그럼 서버 시계가 어긋난 겁니다.
+JULIEN: Un serveur du ministère, avec une horloge fausse d'une heure et demie ? Je pense qu'il suffit de demander le journal de messagerie. ||| 부처 서버가 한 시간 반이나 틀렸다고요? 메일 서버 기록을 요청하면 될 것 같습니다.
+MARCEAU: Laissez-moi réfléchir une seconde. ||| 잠깐 생각해 보겠습니다.
+JULIEN: Prenez-en trois. Ce n'est pas un piège : c'est votre téléphone, et vous avez dit « après réunion ». ||| 세 초 쓰세요. 함정이 아닙니다. 당신 휴대폰이고, '회의 후'라고 말씀하신 건 당신입니다.
+MARCEAU: Je crois que c'est un projet de compte rendu. Il me l'a envoyé en avance, pour que je prépare notre réponse. ||| 결과 보고 초안이었을 겁니다. 우리가 대응을 준비하라고 미리 보낸 거죠.
+JULIEN: Un projet, avec la mention « a arrêté ». Au passé. ||| 초안이라면서 '확정했다'라는 과거형이군요.
+MARCEAU: Les projets sont toujours rédigés comme si tout allait bien. ||| 초안은 늘 일이 잘 풀린 것처럼 쓰이죠.
+JULIEN: Comme si la réunion avait déjà décidé. Et la réunion a décidé exactement cela ? ||| 회의가 이미 결정한 것처럼요. 그리고 회의는 정확히 그대로 결정했습니까?
+MARCEAU: Je... à ma connaissance, oui. ||| 저는... 제가 아는 한, 그렇습니다.
+CAMILLE: Les trois points du courriel sont identiques au compte rendu officiel de seize heures trente, mot pour mot, sauf pour « cantonné ». ||| 이메일의 세 항목이 16시 30분 공식 결과 보고와 한 글자도 안 틀려. '한정'이라는 단어만 빼고.
+JULIEN: Donc la réunion de quinze heures a ratifié ce qui avait été écrit à quatorze heures douze. Elle n'a pas décidé, elle a signé. ||| 그러니까 15시 회의는 14시 12분에 쓰인 것을 추인했을 뿐입니다. 결정한 게 아니라 서명한 거죠.
+MARCEAU: Monsieur Delorme, je suis un lobbyiste, pas un juge. ||| 들로름 씨, 저는 로비스트이지 판사가 아닙니다.
+JULIEN: Je ne vous juge pas. Je vous demande seulement ceci : qui paie vos honoraires ? ||| 판단하지 않습니다. 하나만 묻죠. 당신의 보수는 누가 지급합니까?
+MARCEAU: Le chantier. Enfin, formellement, par un intermédiaire à Luxembourg, un cabinet de conseil appelé V.A. quelque chose, qui me facture ma mission. Le chantier l'a recommandé. ||| 조선소요. 정확히는 룩셈부르크의 중개 회사를 통해서, V.A.인가 하는 컨설팅사가 제 용역을 청구합니다. 조선소가 추천한 회사죠.
+JULIEN: V.A. Luxembourg. Merci. Vous venez de répondre à une question qu'on ne vous posait pas. ||| V.A., 룩셈부르크. 감사합니다. 묻지 않은 질문에 답하셨네요.
+MARCEAU: C'est le défaut de ceux qui n'ont rien à cacher. ||| 숨길 게 없는 사람의 결점이죠.
++ un représentant d'intérêts = 이익 대표자(로비스트의 공식 명칭). déclaré = 신고된, 등록된
++ Je distingue le non public de l'indiscret. = 비공개와 부적절을 구분한다. 변명을 구조화하는 표현
++ avoir la conscience tranquille = 양심에 거리낌이 없다. 마르소가 선의를 내세우는 관용구
++ un fuseau horaire / une dérive d'horloge = 시간대 / 시계 오차. 시각 증거를 둘러싼 변명 어휘
++ ratifier / décider = 추인하다 / 결정하다. La réunion n'a pas décidé, elle a signé
++ un projet de compte rendu = 결과 보고 초안. « a arrêté »의 과거형이 초안에 어울리지 않는다는 지적

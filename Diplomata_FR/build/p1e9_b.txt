@@ -1,0 +1,99 @@
+## 보좌관의 사무실 — LE BUREAU DE VAILLANT
+VAILLANT: Monsieur Delorme, quelle surprise. Vous auriez dû prendre rendez-vous par l'assistante. ||| 들로름 씨, 뜻밖이네요. 비서를 통해 약속을 잡으셨어야죠.
+JULIEN: Je vous ai appelé, monsieur Vaillant. Je vous ai laissé un message. Je suis venu comme je l'avais dit. ||| 전화드렸고 메시지도 남겼습니다. 말씀드린 대로 왔습니다.
+VAILLANT: Asseyez-vous. Mme Roussel, bonjour. De quoi s'agit-il ? ||| 앉으세요. 루셀 씨, 안녕하세요. 무슨 일입니까?
+JULIEN: D'un exemplaire de la note de synthèse du 22 avril de l'an dernier. Le vôtre, annoté en marge « tr. à GM ». ||| 작년 4월 22일 요약 메모의 사본입니다. 여백에 '전달 GM'이라고 적힌 당신 사본이죠.
+VAILLANT: C'est une note de service, annotée comme toutes les notes. « GM », cela peut vouloir dire n'importe quoi. ||| 업무 메모에 다른 메모들처럼 주석을 단 겁니다. 'GM'은 아무것이나 뜻할 수 있어요.
+JULIEN: Cela peut vouloir dire Gaspard Marceau. ||| 가스파르 마르소를 뜻할 수도 있죠.
+VAILLANT: Cela peut. ||| 그럴 수도 있죠.
+JULIEN: Vous le lui avez transmise ? ||| 그에게 전달하셨습니까?
+VAILLANT: Pour information. Il est lié au chantier, qui est partie au contrat. C'est dans l'intérêt du dossier. ||| 참고용으로요. 그는 계약 당사자인 조선소와 관련이 있습니다. 사안에 이익이 되는 일이죠.
+JULIEN: Il n'est pas membre du comité de pilotage. ||| 그는 운영위원회 위원이 아닙니다.
+VAILLANT: Il en est le conseil. Dans la pratique, c'est la même chose. ||| 그 자문역입니다. 실무에서는 같은 거죠.
+JULIEN: Dans la pratique, ce n'est pas écrit nulle part. Et le compte rendu de la réunion de coordination, mardi dernier ? ||| 실무에서는 어디에도 쓰여 있지 않죠. 그럼 지난 화요일 조정회의 결과 보고는요?
+VAILLANT: Je l'ai envoyé à la fin de la journée, comme d'habitude. ||| 평소처럼 하루가 끝날 때 보냈습니다.
+JULIEN: À la fin de la journée. Camille ? ||| 하루가 끝날 때요. 카미유?
+CAMILLE: Le courriel de M. Marceau, que lui-même nous a remis hier, porte l'horodatage de quatorze heures douze, heure de Paris. Le registre de la salle donne la réunion de quinze heures à seize heures dix. ||| 어제 마르소 씨가 직접 제출한 이메일에는 파리 시각 14시 12분 시간 표시가 있어요. 회의실 대장에는 회의가 15시부터 16시 10분까지로 되어 있고요.
+VAILLANT: Il y a une explication technique. ||| 기술적인 설명이 있습니다.
+JULIEN: Je vous écoute. ||| 듣겠습니다.
+VAILLANT: Le courriel est parti en brouillon, programmé, par erreur. Je l'ai relu après. ||| 이메일은 초안으로, 예약 발송으로 잘못 나갔습니다. 나중에 다시 읽었고요.
+JULIEN: Programmé à quatorze heures douze, pour une réunion de quinze heures, avec trois conclusions déjà arrêtées et un adjectif pour moi : « cantonné ». ||| 15시 회의를 위해 14시 12분에 예약 발송됐고, 이미 정해진 결론 세 개와 저를 가리키는 형용사 '한정'이 들어 있었군요.
+VAILLANT: Les décisions se préparent, monsieur. Un cabinet ne découvre pas ses positions en séance. ||| 결정은 준비되는 겁니다. 비서실은 회의 자리에서 입장을 처음 알게 되지 않아요.
+JULIEN: D'accord, mais... À qui revenait de les préparer ? ||| 알겠습니다. 다코르, 하지만... 누가 그것을 준비하게 되어 있었습니까?
+VAILLANT: Le directeur de cabinet donne des orientations. J'en tire des projets. ||| 비서실장이 방향을 줍니다. 저는 거기서 초안을 뽑고요.
+JULIEN: « Des orientations ». Une orientation précise, ou un mot que vous préférez ne pas préciser ? ||| '방향'이라. 구체적인 방향입니까, 아니면 구체화하고 싶지 않은 단어입니까?
+VAILLANT: Écoutez, monsieur Delorme, je sais ce que vous cherchez. Vous cherchez une phrase de M. Lefort. Vous ne l'aurez pas de moi. ||| 들로름 씨, 뭘 찾는지 압니다. 르포르 씨의 문장을 찾으시죠. 제게서는 못 얻습니다.
+JULIEN: Je ne cherche pas une phrase. Je cherche à savoir si je dois vous poser une autre question que celle-ci : a-t-on dit à Marceau ce que vous lui avez écrit parce qu'on vous l'avait demandé, ou parce que vous l'avez décidé ? ||| 문장을 찾는 게 아닙니다. 이 질문 말고 다른 질문을 해야 하는지 알고 싶은 겁니다. 마르소에게 쓴 내용은 요청받아서 알려 준 겁니까, 당신이 결정해서 알려 준 겁니까?
+VAILLANT: Personne ne m'a demandé de le faire. Personne ne m'a demandé de ne pas le faire non plus. ||| 아무도 하라고 하지 않았습니다. 아무도 하지 말라고도 하지 않았고요.
+JULIEN: Cette phrase est précise. Elle me rappelle quelqu'un. ||| 그 문장은 정확하군요. 누군가가 떠오릅니다.
+VAILLANT: M. Lefort m'a dit un jour : « Je préfère ne pas savoir ce que sait M. Marceau. » Je l'ai pris pour une consigne. ||| 르포르 씨가 언젠가 말했습니다. '마르소 씨가 뭘 아는지는 알고 싶지 않다.' 저는 그걸 지침으로 받아들였죠.
+CAMILLE: Une consigne pour continuer, ou pour s'arrêter ? ||| 계속하라는 지침이요, 멈추라는 지침이요?
+VAILLANT: C'est toute la question. Je ne suis pas un magicien, je suis un exécutant. ||| 그게 문제의 전부죠. 저는 마법사가 아니라 집행자입니다.
+JULIEN: Vous avez fait plus qu'exécuter : vous avez anticipé. C'est ce que l'horloge a enregistré. ||| 집행 이상을 하셨습니다, 예측까지 하셨죠. 시계가 그걸 기록했습니다.
+VAILLANT: Vous allez briser ma carrière. ||| 제 경력을 망치시겠군요.
+JULIEN: Non. Vos horloges l'ont fait avant moi. Je ne vous demande qu'une chose, que vous conserviez tous vos messages, sans en supprimer un seul. ||| 아니요. 당신의 시계가 저보다 먼저 했습니다. 하나만 요구합니다, 모든 메시지를 한 건도 지우지 말고 보관하세요.
+VAILLANT: Et sinon ? ||| 안 그러면요?
+JULIEN: Sinon vous ajouterez une suppression à une indiscrétion, et la deuxième est pire que la première. ||| 안 그러면 부적절한 일에 삭제까지 얹게 되고, 후자가 전자보다 나쁩니다.
+VAILLANT: Vous le direz à Lefort ? ||| 르포르에게 말하실 겁니까?
+JULIEN: Je le lui dirai en face, avant que quelqu'un d'autre ne le lui raconte. C'est la seule chose que je puisse vous promettre. ||| 누군가 다른 사람이 전해 주기 전에 제가 직접 면전에서 말할 겁니다. 약속드릴 수 있는 건 그것뿐입니다.
++ l'horodatage = 시각 기록(타임스탬프). 메일 서버가 남기는 객관적 증거
++ donner des orientations = 방향을 주다. 지시라고 하기 어려운 완곡한 표현
++ un exécutant = 집행자, 시키는 대로 하는 사람. 책임을 아래로 돌리는 화법
++ Personne ne m'a demandé de le faire. Personne ne m'a demandé de ne pas le faire. = 책임 회피의 대구법. 6화의 «je n'ai pas demandé où elle était»와 겹친다
++ avant que + ne + 접속법 = ~하기 전에. avant que quelqu'un d'autre ne le lui raconte
++ ajouter une suppression à une indiscrétion = 부적절한 일에 삭제를 더하다. 증거 인멸이 본래의 잘못보다 무겁다는 뜻
+
+## 비서실장과 레아 — LA TRAHISON
+LEFORT: Entrez, monsieur Delorme. Vous venez avec une tête que je n'aime pas. ||| 들어오세요, 들로름 씨. 마음에 들지 않는 얼굴로 오셨군요.
+JULIEN: Je vous apporte quelque chose avant que quelqu'un d'autre ne le fasse. ||| 다른 누군가가 하기 전에 제가 가져왔습니다.
+LEFORT: Je vous écoute. ||| 말씀하세요.
+JULIEN: Le compte rendu de la réunion de mardi est parti à quatorze heures douze vers un lobbyiste du chantier. La réunion a commencé à quinze heures. ||| 화요일 회의 결과 보고가 14시 12분에 조선소 로비스트에게 발송됐습니다. 회의는 15시에 시작됐고요.
+LEFORT: Impossible. ||| 불가능합니다.
+JULIEN: C'est dans l'en-tête que M. Marceau m'a remis lui-même. Le registre de la salle confirme l'heure de la réunion. ||| 마르소 씨가 직접 제출한 머리글에 있습니다. 회의실 대장이 회의 시각을 확인해 줍니다.
+LEFORT: Vaillant ? ||| 바이양입니까?
+JULIEN: M. Vaillant a expliqué que vous donnez des orientations, qu'il en tire des projets, et qu'un jour vous lui avez dit que vous préfériez ne pas savoir ce que sait M. Marceau. ||| 바이양 씨는 비서실장님이 방향을 주시고 자신이 거기서 초안을 뽑으며, 어느 날 마르소 씨가 뭘 아는지 알고 싶지 않다고 말씀하셨다고 설명했습니다.
+LEFORT: J'ai dit cela, oui. ||| 그렇게 말했습니다, 네.
+JULIEN: C'est ce que vous m'avez dit sur l'escalier, chez M. de Valcourt : « Quelqu'un qui savait que je préférerais ne pas savoir. » ||| 발쿠르 대사님 댁 계단에서 제게 하신 말씀입니다. '내가 알고 싶어 하지 않을 걸 알던 누군가.'
+LEFORT: Je ne pensais pas à lui, je le jure. Je pensais à... C'est un jeune homme loyal. ||| 그를 염두에 둔 게 아닙니다, 맹세합니다. 저는... 충성스러운 청년입니다.
+JULIEN: Loyal envers qui ? ||| 누구에게 충성스럽다는 겁니까?
+LEFORT: Envers moi. Je croyais. ||| 제게요. 그렇게 믿었습니다.
+JULIEN: Il était loyal envers votre confort. Ce n'est pas la même chose. ||| 비서실장님의 편안함에 충성스러웠던 겁니다. 같은 게 아닙니다.
+LEFORT: Vous êtes dur. ||| 가혹하시군요.
+JULIEN: Je suis précis. Monsieur le directeur de cabinet, je ne vous accuse pas d'avoir ordonné. Je dis que vous avez créé les conditions où on n'avait pas besoin d'ordre. ||| 정확한 겁니다. 비서실장님, 명령하셨다고 비난하지 않습니다. 명령이 필요 없는 조건을 만드셨다고 말하는 겁니다.
+LEFORT: Que voulez-vous ? ||| 원하는 게 뭡니까?
+JULIEN: Trois choses. Que M. Vaillant soit retiré du dossier dès aujourd'hui. Que l'Inspection générale soit saisie, par vous, et non par moi. Et que vous écriviez au ministre ce que je viens de vous dire, avant dix-sept heures. ||| 세 가지입니다. 오늘부터 바이양 씨를 이 사안에서 빼는 것. 감찰이 제가 아니라 비서실장님에 의해 개시되는 것. 그리고 방금 제가 말씀드린 내용을 17시 전에 장관께 쓰시는 것.
+LEFORT: Si je fais cela, je me mets en cause. ||| 그렇게 하면 제가 스스로를 문제 삼는 셈입니다.
+JULIEN: Vous êtes déjà dedans. La seule question est si c'est vous qui entrez, ou si c'est un journal qui vous y pousse. ||| 이미 안에 계십니다. 문제는 스스로 들어가느냐, 신문이 떠미느냐뿐입니다.
+LEFORT: Vous me demandez de signer ma propre mise en examen. ||| 제 입건 서류에 제가 서명하라는 말씀이네요.
+JULIEN: Je vous demande de signer l'heure. Les heures ne mentent pas, elles ne savent pas. ||| 시각에 서명하라는 겁니다. 시간은 거짓말하지 않아요, 알지 못할 뿐이죠.
+LEFORT: ... Très bien. Je préviens le ministre moi-même. À ma connaissance, c'est la première fois qu'on me tend une solution plutôt qu'un procès. ||| ... 좋습니다. 장관께는 제가 직접 알리겠습니다. 제가 아는 한, 소송 대신 해법을 내미는 사람은 처음입니다.
+JULIEN: Ne vous y trompez pas : je ne fais pas cela pour vous. Je le fais pour que la commission puisse lire les textes sans que personne n'ait écrit leur conclusion à l'avance. ||| 오해하지 마세요. 비서실장님을 위해서가 아닙니다. 위원회가 결론이 미리 쓰이지 않은 상태에서 텍스트를 읽게 하기 위해서입니다.
+LEFORT: J'ai passé ma vie à préférer ne pas savoir. J'apprends ce que ça coûte. ||| 저는 평생 알고 싶지 않아 하며 살았습니다. 그게 얼마나 비싼지 배우는 중이군요.
+JULIEN: Ce que ça coûte, et à qui ça passe la facture. ||| 얼마나 비싼지, 그리고 청구서가 누구에게 가는지도요.
+LEFORT: Allez. Je ferai écrire à l'Inspection avant la fin de la journée. ||| 가 보세요. 오늘 안에 감찰에 서면을 보내겠습니다.
+LÉA: Papa ? Tu as une minute ? J'ai un nouveau sujet, il tombe demain. ||| 아빠? 1분 있어요? 새 주제가 있는데 내일 나와요.
+JULIEN: Oui. Dis. ||| 응, 말해.
+LÉA: « Qu'est-ce que trahir ? » ||| '배신한다는 것은 무엇인가?'
+JULIEN: Et toi, comment tu définis trahir ? ||| 너는 배신을 어떻게 정의해?
+LÉA: C'est une question de définition, évidemment. Le mot vient du latin tradere, « livrer ». Trahir, c'est livrer à un autre ce qui nous avait été confié. ||| 당연히 개념 정의의 문제죠. 이 말은 라틴어 tradere, '넘기다'에서 왔어요. 배신은 우리에게 맡겨진 것을 다른 사람에게 넘기는 거예요.
+JULIEN: Tradere, d'où « traduire » ? ||| tradere, 거기서 '번역하다'가 나오기도 했나?
+LÉA: Non, traduire vient de traducere, « faire passer ». Mais les deux mots se ressemblent, et les Italiens disent « traduttore, traditore ». ||| 아니에요, traduire는 traducere, '건너게 하다'에서 왔어요. 그래도 두 단어가 닮아서 이탈리아 사람들은 '번역자는 배신자'라고 말하죠.
+JULIEN: Tu m'as devancé. Et que conclus-tu ? ||| 네가 먼저 말했네. 그래서 결론은?
+LÉA: Que pour trahir, il faut d'abord avoir reçu. Quelqu'un à qui on n'a rien confié ne peut pas trahir. Alors le traître est toujours quelqu'un à qui on a fait confiance. ||| 배신하려면 먼저 받은 게 있어야 한다는 거요. 아무것도 맡기지 않은 사람은 배신할 수 없어요. 그러니까 배신자는 항상 신뢰를 받은 사람이에요.
+JULIEN: Et si celui qui confie préfère ne pas savoir ce qu'il confie ? ||| 맡기는 사람이 무엇을 맡기는지 알고 싶어 하지 않는다면?
+LÉA: Alors il confie à quelqu'un d'autre le droit de décider à sa place. Ce n'est plus de la trahison, c'est de l'abandon. ||| 그럼 자기 대신 결정할 권리를 다른 사람에게 맡기는 거죠. 그건 배신이 아니라 포기예요.
+JULIEN: Léa, tu pourrais faire mon métier. ||| 레아, 넌 내 직업을 해도 되겠다.
+LÉA: Pas du tout, c'est un métier où l'on ne dort jamais. Bonne nuit, papa. ||| 천만에요, 한 번도 못 자는 직업이잖아요. 잘 자요, 아빠.
+CAMILLE: Julien, message du bureau d'Idris al-Farouqi. Il répond à ta lettre. ||| 줄리앵, 이드리스 알 파루키 사무실에서 메시지가 왔어. 네 서한에 답한대.
+JULIEN: Par écrit ? ||| 서면으로?
+CAMILLE: Non. Il écrit : « Nous répondrons de vive voix, et sur la mer. Une frégate vous attend à Toulon, jeudi. » ||| 아니. '구두로, 그리고 바다 위에서 답하겠습니다. 목요일 툴롱에서 프리깃함이 기다립니다.'라고 썼어.
+JULIEN: Sur la mer. C'est son genre d'archaïsme. ||| 바다 위라. 그 사람다운 예스러움이네.
+CAMILLE: Il faudra y aller avec qui ? ||| 누구랑 가야 해?
+JULIEN: Avec toi. Et avec une question de plus : qui est V.A. ? ||| 너랑. 그리고 질문 하나 더 들고 가야지. V.A.가 누구냐고.
++ trahir / tradere = 배신하다 / 넘기다(라틴어). 레아의 어원 정의
++ traduire / traducere = 번역하다 / 건너게 하다. 어원이 다르면서도 닮은 두 단어
++ Traduttore, traditore = (이탈리아 속담) 번역자는 배신자. 레아가 인용하는 말
++ saisir l'Inspection générale = 감찰에 회부하다. saisir는 기관에 사건을 넘기다
++ se mettre en cause / mise en examen = 스스로 문제 삼다 / 입건. 르포르의 과장된 반응
++ créer les conditions où… = ~이 일어날 조건을 만들다. 명령 없이 책임을 지는 구조를 가리키는 표현
++ Les heures ne mentent pas. = 시간은 거짓말하지 않는다. 증거로서의 시각을 강조하는 쥘리앵의 말
