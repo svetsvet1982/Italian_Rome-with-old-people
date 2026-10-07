@@ -20,3 +20,13 @@
 - 레아: 논술 «Un nom crée-t-il la chose qu'il nomme ?» → 이름은 사물을 만들지 않고 찾을 곳을 알려 줌, '이름 붙이기=요구할 수 있게 만들기'면 권리를 만든다. 쥘리앵 '요구하는 사람이 값을 치른다'.
 - 발쿠르(치즈 카트 앞 전화): 리스본 세 번(마지막 1991). «Cerne» 듣고 침묵. «je t'ai dit "ne cherche pas", pas "ne trouve pas"». 쥘리앵: 침묵 두 번(일로 사바라, 세르네)=방법. 쥘리앵이 '발쿠르' 이름은 카미유에게도 이메일로 쓰지 않음.
 - 훅(2-3): 카미유가 옛 식민부 문서고에서 'banc du Cerne'/'cernier'를 찾음(서한 이름을 이메일에 쓰지 말고 '어장 서한'이라 부름), 1962.5.11 서한은 사본만 존재, 정정 도장. 월요일 보증금 금액, 아르샹보 보고.
+
+## 2-3 La lettre perdue (151턴, 5섹션)
+- 금요일. 엑상프로방스의 해외 영토 문서고(허구 처리; 옛 식민부 계통 문서 보관). 사서 오딜 파브르(50대 후반, 열람실 책임자, 허구). 아르샹보 조건: 열람실에서만, 18시 전 서면 보고(17시 발송 약속). 엘렌 문자 «Jour 7. Les archives ne mentent pas. Elles omettent.» / 저녁 «Les copies ont des auteurs. Le sixième déjeuner sera plus cher que le cinquième.» (5번째 점심 아직 미지불).
+- 색인 항목: «Affaire du Cerne, dossier 214, pièce unique, copie» ('copie rectifiée', 1962.5.11). 타자 먹지 사본 습자지, 18줄, 서명·서식 머리 없음.
+- 해법의 순간 = 가장자리 정정 도장(보라색 원형 2.5cm): «Rectifié. Texte conforme à la minute de séance. Registre des rectifications, n° 31. 16 mai 1962.» 2단락 3줄의 한 단어 위에 걸쳐(à cheval) 찍혀 정정 전 단어를 덮음(단어는 아직 미공개; 2-11 '마지막 줄 한 단어'와 별개). 도장 아래 줄 그은 단어+행간에 다시 친 단어. 연필 약식 서명 «J. d. V.» 여백(쥘리앵: 결론 없이 그대로 기록). 의미: 사본은 5.11 이후(5.16 정정본), 정정 대장 존재, 회의 중 받아 적은 minute(속기; 통역사 가능성) 존재 → '사라진 것은 서한이 아니라 5.11 시점의 상태'.
+- 문서군 이력: 214번 철은 원래 9점(1~9), 현재 7번(사본)만 남음. 원본은 '7 bis'. 1989.2.9 «restitution de papiers personnels à la famille du signataire, sur demande» (서명자 머리글자 하나+줄 그은 이름). 정정 대장은 «Bureau des conventions» 소관, 문서고 내 또는 케도르세 외교 문서고에 있을 수 있음(파브르가 월요일 아침 전 서신 예정은 '내일 아침'). 
+- 쥘리앵 계산: 발쿠르(이름 미언급)는 1962년 9세 → 정정한 손은 이미 1962년 봄 근무한 아버지 세대 공무원(아버지=장 드 발쿠르는 이름으로 말하지 않음), 1989년 가족이 서류 회수. 카미유는 이름을 어디에도 쓰지 않음. 아르샹보 보고: «paraphe J. d. V., identification en cours».
+- 역사/법: 1790 제헌의회가 국립문서고 창설(초대 문서관 카뮈), 1794.6.25(7 messidor an II) 법=보존 의무+시민 접근권, 나폴레옹의 수비즈 저택 유럽 문서 집중 구상은 '전설'로 헤징, 1804 민법전 사본 규칙(원본 존재 시 사본은 원본이 증명하는 범위; 2016 개정으로 조문 번호 변경, 번호 미보증), 장갑 불착용(깨끗하고 마른 손), 열람 기한 25년/일부 50년+.
+- 레아: «une copie n'est pas moins vraie, elle est moins prouvable» → 'question de définition'. 월요일 아침 오칸라 대사가 보증금 액수 대기.
+- 훅(2-4): 정정 도장의 'minute de séance'를 쓴 사람(통역사), 정정 대장(Bureau des conventions), 7 bis 원본이 1989 가족에게 반환됨(→2-6 발쿠르 보관), 'J. d. V.', 월요일 보증금, 엘렌 6번째 점심.

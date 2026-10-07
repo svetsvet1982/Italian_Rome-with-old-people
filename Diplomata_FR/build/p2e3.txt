@@ -1,0 +1,215 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 3
+@title La lettre perdue
+@ko 사라진 서한
+@setting 파리 리옹역 발 TGV 안(금요일 아침) → 엑상프로방스 문서고의 열람실 → 서고 안쪽 → 열람실, 같은 탁자 → 미라보 대로의 카페(점심) → 문서고 입구와 귀갓길
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 감찰단 조사를 앞두고 있음
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 마르세유 출신 법학자. 둘이 있을 때는 tu
+@cast FABRE | 오딜 파브르, 문서고의 수석 열람 담당 사서, 50대 후반. 허구의 인물
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 전화로만 등장. 접촉마다 사후 서면 보고를 요구
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 3화입니다. 2화 끝에서 카미유는 «서한이 아니라 어장 이름부터 찾으라»는 지시를 받았습니다. 이번 화의 무대는 옛 식민지 관련 부처의 문서를 이어받은 해외 영토 문서고입니다(작품 속 문서고는 허구로 처리했고, 프랑스에 실제로 옛 식민부 계통 문서를 보관하는 기관이 엑상프로방스에 있다는 사실만 배경으로 삼았습니다). 카미유는 «banc du Cerne»(세르네 퇴)의 이름으로 색인을 뒤져 1962년 5월 11일자 「세르네의 서한」을 찾지만, 있는 것은 원본이 아니라 사본 한 장뿐입니다. 해법의 순간은 사본의 가장자리에 찍힌 정정 도장입니다. 도장은 이 문장이 «정정된 문안»이라는 것, 정정 대장에 번호가 있다는 것, 그리고 «회의에서 받아 적은 기록(minute)과 대조했다»는 것을 말해 줍니다. 즉 사라진 것은 서한이 아니라 서한의 이전 상태이고, 단서는 글자가 아니라 도장 자체입니다. 역사·법 배경은 문서 보존의 원칙입니다. 프랑스 국립문서고(Archives nationales)는 1790년 제헌의회 시기에 창설되었다고 설명되며, 1794년 6월 25일(혁명력 2년 메시도르 7일)의 법은 공문서의 보존과 공개 원칙을 세운 것으로 흔히 인용됩니다. 1804년 3월 21일 공포된 나폴레옹 법전(민법전)은 증거 규칙에서 «원본이 남아 있는 경우 사본은 원본이 증명하는 범위에서만 효력이 있다»는 취지의 조항을 두었고(옛 1334조, 2016년 개정 때 번호가 바뀌어 지금은 다른 조문에 해당), 그래서 원본 확인이 중요해졌다고 설명됩니다. 정확한 조문 번호는 보증하지 않고 일반적 취지만 다룹니다. 어휘는 une copie conforme, un bordereau, un récolement, le délai de communicabilité, 접속법(pourvu que, à moins que, bien que)에 주목하세요.
+@next 4화 «L'interprète» (통역사): 정정 도장이 가리킨 «회의 기록»을 쓴 사람을 찾아 은퇴한 통역사를 만난다. 통역 노트에는 한 외교관의 이름이 적혀 있다.
+
+## 기차 안에서 — DANS LE TGV
+CAMILLE: Tu as dormi ? Tu as une tête de dossier mal classé. ||| 잠은 잤어? 분류가 엉망인 서류철 같은 얼굴인데.
+JULIEN: Trois heures, entre Lisbonne et Orly, et deux dans le taxi à penser à une lettre que je n'ai jamais vue. Où en sommes-nous ? ||| 리스본에서 오를리까지 세 시간 자고, 택시에선 두 시간 동안 본 적도 없는 편지 생각만 했어. 어디까지 왔지?
+CAMILLE: Hier soir, après ton appel, j'ai tapé « banc du Cerne » dans l'instrument de recherche en ligne. Une seule notice sort. ||| 어젯밤 네 전화 받고 온라인 색인에 "세르네 퇴"를 쳤어. 항목이 딱 하나 나와.
+JULIEN: Une seule ? Sur un fonds de plusieurs kilomètres de rayonnages ? ||| 하나뿐이라고? 서가 길이가 몇 킬로미터나 되는 문서군에서?
+CAMILLE: Plusieurs dizaines de kilomètres, si l'on compte tout ce que l'ancien ministère a laissé. Mais oui, une seule : « Affaire du Cerne, dossier 214, pièce unique, copie ». ||| 옛 부처가 남긴 걸 다 치면 수십 킬로미터지. 그래도 맞아, 하나뿐이야. "세르네 건, 214번 철, 단일 문서, 사본".
+JULIEN: Copie. Le mot est déjà une mauvaise nouvelle. ||| 사본. 그 단어부터 벌써 나쁜 소식이야.
+CAMILLE: Ou une bonne, à condition qu'il existe un original quelque part. Dans le droit, une copie ne vaut que par ce qu'elle copie. ||| 아니면 좋은 소식이지, 어딘가에 원본이 있다면. 법에서 사본은 베낀 대상만큼의 가치만 있으니까.
+JULIEN: Tu m'expliqueras ça à Aix, devant le papier. Archambault a validé ? ||| 그건 엑스에서 서류 앞에서 설명해 줘. 아르샹보는 승인했어?
+CAMILLE: Hier à vingt heures cinquante-neuf, une minute avant son délai. Deux conditions : consultation en salle seulement, et rapport écrit avant dix-huit heures. ||| 어제 저녁 여덟 시 오십구 분, 마감 일 분 전에. 조건은 둘이야. 열람실에서만 볼 것, 그리고 여섯 시 전에 서면 보고.
+JULIEN: Raisonnable. Elle ne me demande pas de renoncer à voir, seulement de dire ce que j'ai vu. ||| 합리적이네. 보지 말라는 게 아니라 본 걸 말하라는 거니까.
+CAMILLE: Tu en parles comme si ça te plaisait. ||| 마치 마음에 드는 것처럼 말하네.
+JULIEN: Disons que ça me ferait plaisir si elle n'avait pas raison à chaque fois. ||| 매번 그녀 말이 맞지만 않으면 기쁠 거라고 해 두자.
+CAMILLE: Léa t'a écrit. Ton téléphone vibre depuis Dijon. ||| 레아가 문자 보냈어. 디종 지날 때부터 네 폰이 계속 울려.
+JULIEN: Je lis. « Papa, si une copie dit la même chose que l'original, est-ce que c'est moins vrai ? » ||| 읽어 볼게. "아빠, 사본이 원본이랑 똑같은 말을 하면 그게 덜 진짜인가요?"
+CAMILLE: Elle sait où tu vas ? ||| 네가 어디 가는지 알아?
+JULIEN: Non. C'est son cours de philosophie, ou bien elle devine. Je ne sais jamais lequel des deux. ||| 아니. 철학 수업 내용이거나 그냥 짐작이겠지. 둘 중 뭔지는 늘 몰라.
+CAMILLE: Et tu réponds quoi ? ||| 그래서 뭐라고 답할 거야?
+JULIEN: « Ça dépend de ce que tu appelles vrai. » Elle me renverra que c'est une question de définition. ||| "네가 진짜라고 부르는 게 뭐냐에 달렸지." 그러면 개념 정의의 문제래요, 하고 되받겠지.
+CAMILLE: Elle te connaît. Hélène aussi, d'ailleurs ? ||| 레아가 널 잘 아네. 엘렌도 그렇고?
+JULIEN: Un message à six heures douze. « Jour 7. Les archives ne mentent pas. Elles omettent. » ||| 여섯 시 십이 분에 문자. "7일째. 문서고는 거짓말하지 않아요. 빠뜨릴 뿐."
+CAMILLE: C'est de la poésie ou de la facture ? ||| 시야, 아니면 청구서야?
+JULIEN: Les deux, comme toujours. Elle a aussi rappelé que le cinquième déjeuner reste à payer. ||| 늘 그렇듯 둘 다. 다섯 번째 점심은 아직 안 냈다는 것도 상기시켰어.
+CAMILLE: Alors on trouve vite, on paie tard. ||| 그럼 빨리 찾고 늦게 내자.
+JULIEN: Pourvu que ce qu'on trouve vaille le prix. Parle-moi de cette pièce 214. ||| 찾는 게 값어치가 있다면 말이지. 그 214번 문서 얘기를 해 줘.
+CAMILLE: La notice dit trois choses : une feuille, une date, le onze mai mil neuf cent soixante-deux, et une mention « copie rectifiée ». ||| 항목에는 세 가지가 적혀 있어. 한 장, 날짜는 1962년 5월 11일, 그리고 "정정된 사본"이라는 표기.
+JULIEN: Rectifiée. On ne rectifie pas ce qui est juste. ||| 정정이라. 맞는 걸 정정하진 않지.
+CAMILLE: On ne rectifie pas non plus ce qu'on veut oublier. On le détruit. ||| 잊고 싶은 것도 정정하진 않아. 없애 버리지.
+JULIEN: Bien dit. Garde cette phrase pour la salle de lecture. ||| 좋은 말이야. 그 문장은 열람실을 위해 아껴 둬.
++ une tête de dossier mal classé = 분류가 잘못된 서류철 같은 얼굴. 피곤한 얼굴을 서류 비유로 놀리는 농담
++ un instrument de recherche = (문서고의) 색인·검색 도구. 항목(notice)으로 문서를 찾는 행정 용어
++ ne valoir que par ce que l'on copie = 베낀 대상에 의해서만 가치가 있다. 사본의 법적 지위를 요약하는 표현
++ pourvu que + 접속법 = ~하기만 한다면. 조건을 바람처럼 붙이는 접속사(Pourvu que ce soit juste)
++ à condition que + 접속법 = ~라는 조건에서. pourvu que보다 형식적인 조건
++ avoir raison à chaque fois = 매번 옳다. 상사에게 짜증과 존중을 함께 담는 쥘리앵식 표현
++ rectifier / détruire = 정정하다 / 없애다. 두 동사의 차이가 이번 화 전체의 단서
++ c'est de la poésie ou de la facture ? = 시냐 청구서냐. 엘렌의 문자를 놀리는 농담
+
+## 열람실에서 — LA SALLE DE LECTURE
+FABRE: Messieurs-dames, vous avez rendez-vous ? Je suis Odile Fabre, responsable de la salle. Vos cartes, s'il vous plaît. ||| 두 분, 예약하셨나요? 오딜 파브르, 열람실 책임자예요. 카드를 보여 주세요.
+JULIEN: Julien Delorme, ministère de l'Europe et des Affaires étrangères. Voici Mme Roussel, mon analyste. ||| 쥘리앵 들로름, 외무부입니다. 이쪽은 제 분석관 루셀 씨고요.
+FABRE: J'ai reçu la demande hier soir. Une pièce, dossier 214. Vous êtes bien conscients que ce sont des fonds anciens ? ||| 어제 저녁에 신청서를 받았어요. 문서 하나, 214번 철. 옛 문서라는 건 아시죠?
+CAMILLE: Oui, et nous respecterons le règlement. Crayon à papier, pas de stylo, pas de photographie sans autorisation. ||| 네, 규정은 지키겠습니다. 연필만 쓰고, 볼펜 금지, 허가 없는 촬영 금지요.
+FABRE: Très bien. Et pas de gants, contrairement à ce que montrent les films. ||| 좋아요. 그리고 장갑도 안 끼세요, 영화에서 보여 주는 것과는 달리요.
+JULIEN: Pas de gants ? Je croyais que c'était la règle. ||| 장갑을 안 낀다고요? 그게 규칙인 줄 알았는데요.
+FABRE: Les gants rendent les doigts maladroits, et on déchire plus vite qu'on ne protège. Des mains propres et sèches suffisent pour le papier. ||| 장갑은 손가락을 둔하게 해서 보호하는 것보다 찢는 게 빨라요. 종이엔 깨끗하고 마른 손이면 충분합니다.
+CAMILLE: C'est aussi la pratique que j'ai vue à Marseille, pour les registres du port. ||| 마르세유 항구 대장을 볼 때도 그렇게 하더라고요.
+FABRE: Alors vous n'êtes pas des novices. Je dois d'abord vérifier la communicabilité. ||| 그럼 초보는 아니시네요. 먼저 열람 가능 여부를 확인해야 해요.
+JULIEN: Le document date de soixante-quatre ans. Le délai de communicabilité est largement échu, non ? ||| 문서가 육십사 년 전 건데요. 열람 제한 기간은 한참 지나지 않았나요?
+FABRE: En principe, oui : la plupart des archives publiques deviennent librement communicables après un délai de vingt-cinq ans, et certaines catégories après cinquante ans ou plus. ||| 원칙적으로는 그렇죠. 공문서 대부분은 이십오 년 뒤에 자유롭게 열람할 수 있고, 어떤 범주는 오십 년 이상이 걸려요.
+CAMILLE: Et les affaires de défense ou de relations extérieures ? ||| 국방이나 대외 관계 건은요?
+FABRE: C'est le point que je contrôle. À moins qu'une mention ne l'interdise, la pièce vous sera remise. Je reviens. ||| 제가 확인하는 대목이 그거예요. 제한 표시만 없다면 문서를 드릴게요. 금방 올게요.
+JULIEN: Elle ne ressemble pas à l'idée que je me faisais d'une archiviste. ||| 내가 상상하던 사서랑은 영 다르네.
+CAMILLE: Tu pensais à quoi, un homme à lunettes dans un sous-sol ? ||| 뭐 생각했어, 지하실의 안경 쓴 남자?
+JULIEN: Quelque chose comme ça, oui. Les préjugés sont ma seule véritable archive. ||| 대충 그렇지. 편견이야말로 내 유일한 진짜 기록이야.
+CAMILLE: Chut. La voici, avec un chariot. ||| 쉿. 카트를 끌고 오네.
+FABRE: Pas de restriction. Je vous apporte le dossier 214. Il ne contient, vous le savez, qu'une pièce. ||| 제한은 없어요. 214번 철을 가져왔습니다. 아시다시피 문서는 한 장뿐이에요.
+JULIEN: Une seule feuille dans une chemise de cette taille ? ||| 이 크기의 서류철에 한 장뿐이라고요?
+FABRE: Les chemises ont été faites pour un autre contenu. Une partie du dossier a quitté le fonds avant mon arrivée. ||| 서류철은 다른 내용물에 맞춰 만든 거예요. 일부는 제가 오기 전에 문서군에서 나갔고요.
+CAMILLE: Quitté, au sens de déplacé, ou de détruit ? ||| 나갔다는 건 옮겨졌다는 뜻이에요, 폐기됐다는 뜻이에요?
+FABRE: Je ne peux pas vous répondre sans le bordereau de versement. Nous le chercherons. Installez-vous, table quatre, lumière rasante. ||| 이관 명세서 없이는 답할 수 없어요. 같이 찾아보죠. 네 번 탁자에 앉으세요, 측광 조명이에요.
+JULIEN: Merci. Ne vous éloignez pas trop, nous aurons des questions. ||| 감사합니다. 너무 멀리 가지 마세요, 질문이 있을 거예요.
+FABRE: Je suis au comptoir. On ne parle pas fort ici, mais on parle. ||| 카운터에 있을게요. 여기선 크게 말하지 않지만, 말은 합니다.
++ le délai de communicabilité = (공문서의) 열람 가능 시점까지의 기간. 25년·50년 등 범주별로 다르며 여기서는 일반 원칙만 소개
++ à moins que + 접속법 = ~하지 않는 한. À moins qu'une mention ne l'interdise에서 ne 허사(ne explétif)에 주의
++ pas de gants = 장갑 안 낀다. 종이 문서는 깨끗하고 마른 손이 낫다는 현대 보존 실무의 상식
++ un bordereau de versement = (부서에서 문서고로의) 이관 명세서. 무엇이 언제 들어왔는지 증명
++ lumière rasante = 측광(비스듬한 조명). 종이 표면의 요철·지운 흔적을 보는 방법
++ les préjugés sont ma seule véritable archive = 편견이 내 유일한 진짜 기록이다. 쥘리앵의 자기 풍자
++ ne pas parler fort, mais parler = 크게 말하지 않지만 말은 한다. 열람실의 침묵 규칙을 뒤집은 파브르의 재치
+## 가장자리의 도장 — LE TAMPON
+CAMILLE: La voilà. Papier pelure, dactylographié, copie au carbone. Les lettres sont un peu bavées. ||| 여기 있네. 얇은 습자지에 타자, 먹지 사본이야. 글자가 조금 번졌어.
+JULIEN: Pas d'en-tête lisible, pas de signature. Juste un texte de dix-huit lignes et une date en haut : « Le 11 mai 1962 ». ||| 읽을 수 있는 서식 머리도, 서명도 없어. 열여덟 줄짜리 글과 위쪽에 "1962년 5월 11일"이라는 날짜뿐이야.
+CAMILLE: Pas de signature, car une copie n'a pas à signer. Elle atteste, au mieux, qu'un texte a existé. ||| 사본은 서명할 필요가 없으니까. 잘해야 어떤 문안이 있었다는 걸 증명할 뿐이지.
+JULIEN: Et pourtant il y a une marque. Là, dans la marge de gauche, un tampon violet, à moitié sur le texte. ||| 그래도 표시가 있어. 저기 왼쪽 여백에 보라색 도장이 반쯤 본문 위에 걸쳐 있어.
+CAMILLE: Rond, deux centimètres et demi. Je lis à la loupe : « Rectifié. Texte conforme à la minute de séance. Registre des rectifications, numéro 31. Seize mai mil neuf cent soixante-deux. » ||| 둥글고 지름 이 점 오 센티미터야. 돋보기로 읽을게. "정정됨. 문안은 회의 기록과 일치함. 정정 대장 제31호. 1962년 5월 16일."
+JULIEN: Seize mai. Cinq jours après la date de la lettre. ||| 오월 십육 일. 편지 날짜에서 닷새 뒤야.
+CAMILLE: Donc la lettre du onze n'est pas ce que nous avons. Nous avons le texte tel qu'on l'a corrigé le seize. ||| 그러니까 우리가 가진 건 십일 일의 편지가 아니야. 십육 일에 고친 문안이지.
+JULIEN: Tu en es sûre ? Le tampon peut dire seulement qu'un contrôle a eu lieu. ||| 확실해? 도장은 검토가 있었다고만 말할 수도 있잖아.
+CAMILLE: Regarde où il est posé. Il est à cheval sur la ligne trois du deuxième paragraphe, exactement sur un mot. ||| 도장 찍힌 위치를 봐. 둘째 단락 셋째 줄에, 정확히 한 단어 위에 걸쳐 있어.
+JULIEN: On ne tamponne pas au hasard à cheval sur une ligne. ||| 줄에 걸쳐 아무렇게나 도장을 찍지는 않지.
+CAMILLE: Jamais. Le cachet à cheval sert à authentifier une correction : il relie la main qui a gratté ou biffé et le texte qui reste. ||| 절대 안 찍지. 걸쳐 찍는 도장은 정정을 인증하려는 거야. 긁어내거나 줄 그은 손과 남은 본문을 이어 주지.
+FABRE: Vous permettez ? Je peux incliner la lampe. ||| 괜찮으시면 제가 조명을 기울여 볼게요.
+JULIEN: Je vous en prie. ||| 그러시죠.
+FABRE: Voilà. Sous l'encre, vous voyez un mot qui a été barré à la machine, puis un mot tapé par-dessus, à l'interligne. ||| 자, 잉크 밑으로 기계로 줄을 그은 단어가 보이고, 그 위 행간에 다시 친 단어가 있어요.
+CAMILLE: Je ne distingue pas le mot barré. Le tampon le couvre en grande partie. ||| 줄 그은 단어는 안 보여요. 도장이 대부분 덮고 있어서요.
+FABRE: Il le couvre à dessein, je crois. Un cachet de rectification est fait pour ça : on corrige, puis on scelle la correction. ||| 일부러 덮은 것 같아요. 정정 도장은 그러려고 있는 거예요. 고치고 나서 그 정정을 봉인하죠.
+JULIEN: Donc on peut lire ce qu'on a mis à la place, mais pas ce qu'on a retiré. ||| 그러니까 대신 넣은 건 읽히는데, 뺀 건 안 읽힌다는 거네요.
+CAMILLE: Et c'est le seul mot que je veux lire. Pour le moment, je ne dis pas lequel. ||| 그리고 내가 읽고 싶은 건 그 단어 하나뿐이야. 지금은 어떤 단어인지는 말 안 할게.
+JULIEN: Pourquoi ? ||| 왜?
+CAMILLE: Parce qu'on ne devine pas un mot dans un texte de cette importance. On le vérifie. ||| 이렇게 중요한 문서의 단어는 짐작하지 않고 확인하기 때문이야.
+JULIEN: D'accord, mais ce tampon nous apprend déjà trois choses, et elles ne sont pas dans la notice. ||| 다코르, 메 이 도장은 벌써 세 가지를 알려 줘. 색인 항목에는 없던 것들이야.
+CAMILLE: Je t'écoute. ||| 말해 봐.
+JULIEN: Un, la copie est postérieure au onze mai. Deux, la correction a un numéro, donc il existe un registre. Trois, « conforme à la minute de séance » : quelqu'un a pris des notes pendant la réunion. ||| 하나, 사본은 오월 십일 일 이후에 만들어졌다. 둘, 정정에 번호가 있으니 대장이 존재한다. 셋, "회의 기록과 일치"라니, 누군가 회의 중에 받아 적었다.
+CAMILLE: Et « minute », dans l'administration, ça veut dire le brouillon original d'un acte, pas une minute de temps. ||| 그리고 행정에서 "minute"는 시간의 분이 아니라 문서의 최초 원고를 뜻해.
+JULIEN: Une séance avec un compte rendu au moment même. Il y avait donc, ce jour-là, un secrétaire qui écrivait, ou un interprète. ||| 그 자리에서 바로 쓴 기록이 있는 회의라. 그럼 그날 받아 적던 서기가 있었거나, 통역사가 있었겠군.
+CAMILLE: Les deux, peut-être. Les interprètes de l'époque prenaient des notes en sténographie et les gardaient parfois chez eux. ||| 어쩌면 둘 다일 수도 있어. 당시 통역사들은 속기로 메모했고 가끔 집에 보관하기도 했어.
+JULIEN: Alors la lettre n'est pas perdue. C'est son état du onze mai qui l'est. ||| 그러면 편지가 사라진 게 아니야. 사라진 건 오월 십일 일 시점의 상태야.
+CAMILLE: Et ce n'est pas la lettre qu'il faut chercher d'abord, mais la ligne trois. ||| 그리고 먼저 찾아야 할 건 편지가 아니라 셋째 줄이야.
+JULIEN: Regarde, il y a autre chose dans la marge. Trois lettres au crayon, très fines. ||| 봐, 여백에 또 있어. 아주 가늘게 연필로 쓴 글자 세 개.
+CAMILLE: « J. d. V. » Un paraphe, ou des initiales de contrôle. ||| "J. d. V." 약식 서명이거나 검토자 이니셜이야.
+JULIEN: Écris-les sur ta feuille telles quelles. Sans conclusion. ||| 네 종이에 그대로 적어. 결론은 붙이지 말고.
++ à cheval sur = ~에 걸쳐서. 여기서는 도장이 본문 줄과 여백 양쪽에 걸쳐 찍힌 상태(관용: être à cheval sur les principes = 원칙에 엄격하다)
++ une minute = (행정·공증에서) 문서의 최초 원본·원고. 시간의 '분'과 동음이의어
++ conforme à = ~와 일치하는. une copie conforme = 원본과 대조 확인된 사본. 법률 문서의 기본 표현
++ postérieur à / antérieur à = ~보다 후의 / ~보다 전의. 날짜 추론 논증에 필수
++ à dessein = 일부러, 의도적으로(= exprès보다 격식). 우연이 아니라는 단서에 쓴다
++ gratter, biffer = 긁어내다, 줄을 긋다. 타자 문서 정정의 두 방식
++ sans conclusion = 결론 없이. 사실과 해석을 구분해 적으라는 쥘리앵의 지시
++ d'accord, mais = 다코르, 메. 동의하되 다른 관점을 더하는 쥘리앵의 화법
+
+## 점심의 원칙 — LES PRINCIPES
+CAMILLE: Alors ? Tu me laisses commander, ou tu veux d'abord une leçon sur le droit des preuves ? ||| 자, 내가 주문할까, 아니면 증거법 강의부터 듣고 싶어?
+JULIEN: Les deux. Je prends une daube, à condition qu'elle ne soit pas meilleure que celle de ma mère à Lyon. ||| 둘 다. 도브를 먹을게, 리옹에 있는 우리 어머니 것보다 맛있지만 않다면.
+CAMILLE: À Aix, on ne se compare pas, on mange. Voilà le cours Mirabeau, voilà ta table à l'ombre. ||| 엑스에서는 비교하지 않고 그냥 먹어. 이게 미라보 대로, 여기 그늘 쪽 자리야.
+JULIEN: Je t'écoute. Pourquoi est-ce qu'une copie compte moins qu'un original ? ||| 들어 볼게. 왜 사본이 원본보다 덜 중요하지?
+CAMILLE: Le Code civil de 1804, celui qu'on appelle encore le Code Napoléon, l'a posé simplement : quand l'original existe, la copie ne prouve que ce que prouve l'original. ||| 1804년 민법전, 아직도 나폴레옹 법전이라 부르는 그 책이 간단하게 정했어. 원본이 있으면 사본은 원본이 증명하는 범위만 증명한다고.
+JULIEN: C'est un article précis ? ||| 정확한 조문이 있어?
+CAMILLE: Oui, dans la section sur la preuve littérale, mais je ne te jure pas le numéro. Il a été renuméroté lors de la réforme de 2016, et je préfère te donner le principe que me tromper de chiffre. ||| 있어, 서증(書證) 절에. 하지만 번호는 장담 못 해. 2016년 개정 때 번호가 바뀌어서, 숫자를 틀리느니 원칙을 말하는 편이 나아.
+JULIEN: Et si l'original a disparu ? ||| 그럼 원본이 사라졌으면?
+CAMILLE: Alors la copie peut valoir comme commencement de preuve, ou davantage, à certaines conditions : une copie fidèle, durable, faite dans des formes régulières. Le juge apprécie. ||| 그러면 사본이 증거의 단서가 되거나 어떤 조건에서는 그 이상이 될 수 있어. 충실하고 오래가며 정규 절차로 만든 사본이어야 하지. 판단은 판사가 해.
+JULIEN: Et ici, la copie porte un tampon de rectification. Ça la rend plus fiable ou moins ? ||| 그런데 여기 사본에는 정정 도장이 있어. 신뢰도가 높아져, 낮아져?
+CAMILLE: Les deux. Plus, parce que quelqu'un a répondu de la correction. Moins, parce qu'il y a eu correction. ||| 둘 다야. 높아지는 건 누군가 그 정정에 책임을 졌기 때문이고, 낮아지는 건 정정이 있었기 때문이지.
+JULIEN: Léa va adorer. « Une copie corrigée est-elle plus vraie qu'une copie fidèle ? » ||| 레아가 좋아하겠네. "고쳐진 사본이 충실한 사본보다 더 진짜인가?"
+CAMILLE: Réponds-lui que la vérité d'un document, c'est aussi la chaîne de ceux qui l'ont gardé. ||| 이렇게 답해 줘. 문서의 진실은 그것을 보관해 온 사람들의 사슬이기도 하다고.
+JULIEN: Bien. Mais d'où vient l'idée que l'État doit garder ses papiers ? Je n'ai jamais su qui l'avait imposée. ||| 좋아. 그런데 국가가 자기 문서를 보관해야 한다는 생각은 어디서 왔지? 누가 강제했는지 몰랐어.
+CAMILLE: La Révolution. Les Archives nationales sont créées en 1790 par l'Assemblée constituante, avec un archiviste, Armand-Gaston Camus, pour garder les actes de la nation. ||| 혁명이야. 국립문서고는 1790년 제헌의회가 만들었고, 국가의 문서를 지킬 문서관으로 아르망가스통 카뮈가 있었어.
+JULIEN: Pas la monarchie, donc ? ||| 군주정이 아니라고?
+CAMILLE: La monarchie avait des dépôts, des chartriers, le Trésor des chartes. Mais l'idée que les archives appartiennent à la nation, et pas seulement au prince, est révolutionnaire. ||| 군주정에도 보관소, 문서 창고, 칙허장 보관소가 있었어. 하지만 문서고가 군주만이 아니라 국민의 것이라는 생각은 혁명적이야.
+JULIEN: C'est le sens de la loi de 1794 ? ||| 1794년 법의 의미도 그거야?
+CAMILLE: La loi du 7 messidor an II, c'est-à-dire du 25 juin 1794. On la cite pour deux principes : l'obligation de conserver les documents publics, et le droit pour les citoyens d'y accéder. ||| 혁명력 2년 메시도르 7일 법, 그러니까 1794년 6월 25일 법이지. 두 원칙 때문에 인용돼. 공문서를 보존할 의무, 그리고 시민이 접근할 권리.
+JULIEN: Et Napoléon, dans tout ça ? ||| 그럼 나폴레옹은 그 안에서 뭘 했어?
+CAMILLE: Il a mis de l'ordre et de l'ambition. On raconte qu'il rêvait de réunir à Paris, à l'hôtel de Soubise, les archives de toute l'Europe. Je te donne ça comme une légende bien installée, pas comme une certitude. ||| 질서와 야심을 보탰지. 파리 수비즈 저택에 유럽 전체 문서를 모으려는 꿈을 꿨다고들 해. 확실한 사실이 아니라 꽤 자리 잡은 전설로 말해 둘게.
+JULIEN: Tu cites tes sources, tu nuances, tu as le sens de la nuance. Archambault va t'adorer. ||| 출처를 대고, 단서를 달고, 뉘앙스 감각이 있네. 아르샹보가 널 좋아하겠어.
+CAMILLE: Elle ne m'adorera jamais. Elle m'enverra des formulaires. ||| 절대 안 좋아할걸. 서식만 보내 줄 거야.
+JULIEN: Justement, mon téléphone. Archambault, en personne. ||| 마침 전화가 오네. 아르샹보 본인이야.
+ARCHAMBAULT: Monsieur Delorme, je veux le point de situation avant dix-huit heures. Qu'avez-vous vu ? ||| 들로름 씨, 여섯 시 전에 현황을 받고 싶어요. 뭘 보셨나요?
+JULIEN: Une copie dactylographiée de la pièce, datée du 11 mai 1962, avec un tampon de rectification du 16 mai, numéroté 31. Pas d'original dans le fonds. ||| 1962년 5월 11일자 문서의 타자 사본입니다. 5월 16일 날짜, 31번이 붙은 정정 도장이 있고, 문서군에는 원본이 없습니다.
+ARCHAMBAULT: Et ce que vous n'avez pas vu ? ||| 보지 못한 건요?
+JULIEN: Le mot corrigé, le registre des rectifications et l'identité de l'auteur de la correction. Il y a un paraphe, « J. d. V. », que je ne sais pas encore identifier. ||| 정정된 단어, 정정 대장, 정정한 사람의 신원입니다. 약식 서명 "J. d. V."가 있는데, 아직 누구인지 모릅니다.
+ARCHAMBAULT: « Pas encore identifier. » Je note l'adverbe. Lundi matin, l'ambassadrice attend le montant du cautionnement. Ne l'oubliez pas. ||| "아직"이라고 하셨네요. 그 부사를 적어 둘게요. 월요일 아침에 대사가 보증금 액수를 기다립니다. 잊지 마세요.
+JULIEN: Je ne l'oublie pas. Je vous envoie mon rapport à dix-sept heures. ||| 잊지 않습니다. 오후 다섯 시에 보고서를 보내겠습니다.
++ le Code civil de 1804 = 1804년 3월 21일 공포된 민법전, '나폴레옹 법전'. 증거 규칙에서 사본과 원본의 관계를 정리
++ un commencement de preuve = 증거의 단서(불완전한 증거). 다른 증거와 합쳐 입증할 수 있는 서면
++ à condition que + 접속법 = ~라는 조건에서. 도브 농담에서도 같은 구문(à condition qu'elle ne soit pas meilleure…)
++ les Archives nationales = 국립문서고. 1790년 제헌의회 설립으로 흔히 설명되며 초대 문서관은 카뮈
++ la loi du 7 messidor an II = 혁명력 2년 메시도르 7일 법(1794.6.25). 공문서 보존 의무와 시민의 접근권을 천명한 것으로 인용
++ nuancer = 단서를 달다·뉘앙스를 주다. 단서를 다는 화법(on raconte que, je ne te jure pas…). 확신 없는 사실을 말할 때의 신중한 표현
++ faire le point (de situation) = 현황을 점검하다·보고하다. 상사에게 하는 정형 요청
++ je note l'adverbe = 그 부사를 적어 둔다. 한 단어(pas encore)도 놓치지 않는 아르샹보의 화법
+
+## 대장과 구멍 — LE RÉCOLEMENT
+FABRE: Messieurs-dames, j'ai du nouveau. Le bordereau de versement du dossier 214 existe bel et bien, mais il était rangé dans un autre carton. ||| 두 분, 새 소식이 있어요. 214번 철의 이관 명세서가 정말 있었는데, 다른 상자에 끼워져 있었어요.
+JULIEN: Vous l'avez devant vous ? ||| 지금 앞에 가지고 계세요?
+FABRE: Oui. Il confirme que le dossier contenait, à l'origine, neuf pièces, numérotées de un à neuf. ||| 네. 원래 철에는 아홉 점의 문서가 일 번부터 구 번까지 번호가 매겨져 있었다고 확인돼요.
+CAMILLE: Et il n'en reste qu'une ? ||| 지금은 한 점만 남았고요?
+FABRE: Une seule, la numéro 7. Mais attention : la numéro 7, c'est votre copie. L'original portait un autre numéro, le 7 bis. ||| 7번 하나만요. 그런데 주의하세요. 7번이 선생님들이 본 사본이에요. 원본은 7번의 2라는 다른 번호였어요.
+JULIEN: Le 7 bis est parti ? ||| 7번의 2는 나갔나요?
+FABRE: Il a été retiré, avec les pièces 1 à 6, 8 et 9. Mention en marge du récolement : « sortie du fonds le 9 février 1989, restitution de papiers personnels à la famille du signataire, sur demande ». ||| 1에서 6번, 8번, 9번과 함께 빠졌어요. 재대조 장부 여백에 "1989년 2월 9일 문서군에서 반출, 서명자 가족에게 개인 문서 반환, 요청에 따름"이라고 적혀 있어요.
+CAMILLE: Restitution ? Mais les archives publiques sont inaliénables, non ? ||| 반환이라고요? 공문서는 양도할 수 없는 거 아닌가요?
+FABRE: En principe, oui. Un document public appartient à l'État, quel que soit son producteur. Mais à cette époque, des restitutions de papiers « personnels » se faisaient parfois, au gré des interprétations. ||| 원칙적으로는 그렇죠. 공문서는 작성자가 누구든 국가의 것이에요. 하지만 그 시절에는 "개인" 문서 반환이 해석에 따라 간혹 이뤄졌어요.
+JULIEN: Et ce « signataire », il est nommé ? ||| 그 "서명자"는 이름이 있나요?
+FABRE: Pas en toutes lettres. Une initiale et un nom raturé. Je peux vous montrer, mais vous ne le lirez pas mieux que moi. ||| 풀어서 쓴 이름은 없어요. 머리글자 하나와 줄 그어 지운 이름이 있어요. 보여 드릴 수는 있지만 저보다 잘 읽지는 못하실 거예요.
+CAMILLE: Pourquoi y a-t-il eu une restitution à ce moment-là, en 1989 ? ||| 왜 하필 1989년에 반환이 이뤄졌죠?
+FABRE: Je l'ignore. Souvent, c'est un décès. Une famille demande les papiers d'un père, d'un grand-père. ||| 저도 몰라요. 흔히 사망 때문이에요. 가족이 아버지나 할아버지의 문서를 요청하는 거죠.
+JULIEN: D'un père. Mademoiselle Roussel, une minute, s'il vous plaît. ||| 아버지. 루셀 씨, 잠깐만요.
+CAMILLE: Je sais ce que tu vas dire. Je ne l'écris nulle part. ||| 네가 무슨 말 할지 알아. 어디에도 안 쓸게.
+JULIEN: Je ne dirai pas son nom, mais je dirai le calcul. En 1962, il avait neuf ans. Il n'a pas pu signer ni parapher une lettre d'État. ||| 이름은 말하지 않겠지만 계산은 말할게. 1962년에 그분은 아홉 살이었어. 국가 서한에 서명도 약식 서명도 할 수 없었지.
+CAMILLE: Donc la main qui a rectifié ne peut pas être la sienne. C'est celle d'un homme déjà en poste au printemps 1962. ||| 그러니까 정정한 손은 그분 손일 리 없어. 1962년 봄에 이미 근무하던 사람의 손이야.
+JULIEN: Un père, un fonctionnaire, un secrétaire. Et une famille qui reprend les papiers en 1989. ||| 아버지, 공무원, 서기. 그리고 1989년에 문서를 되가져간 가족.
+CAMILLE: Tu veux que je cherche l'état civil et la carrière ? ||| 호적과 경력을 찾아볼까?
+JULIEN: Pas à Aix, et pas ce soir. Nous aurons peut-être besoin de poser la question directement. À la bonne personne, de la bonne façon. ||| 엑스에선 말고, 오늘 밤에도 말고. 아마 직접 물어야 할 거야. 알맞은 사람에게, 알맞은 방식으로.
+FABRE: Je ne comprends pas tout, mais je sens que je ne dois pas poser de questions. ||| 전부는 이해 못 하겠지만, 제가 질문하면 안 된다는 건 느끼겠네요.
+JULIEN: Vous sentez très bien, madame. Dites-moi plutôt : où serait le registre des rectifications ? ||| 아주 잘 느끼십니다. 그보다 말씀해 주세요. 정정 대장은 어디 있을까요?
+FABRE: Pas chez nous, je le crains. Un registre de service reste, en principe, dans le fonds du service qui l'a tenu. Je vous donne le nom du service, d'après le tampon : « Bureau des conventions ». ||| 우리한텐 없을 거예요. 부서 대장은 원칙적으로 그것을 쓴 부서의 문서군에 남아요. 도장에 따르면 부서는 "협약과"고요.
+CAMILLE: Et ce fonds-là se trouve ? ||| 그 문서군은 어디 있죠?
+FABRE: Soit chez nous, soit au Quai, dans les archives diplomatiques. Je peux écrire à mes collègues demain matin. ||| 우리한테 있든가, 케도르세 외교 문서고에 있든가 둘 중 하나예요. 내일 아침에 동료들에게 편지를 쓸게요.
+JULIEN: Écrivez-leur, je vous prie. Et demandez-leur un autre document : la minute prise en séance. ||| 부탁드립니다. 그리고 다른 문서도 요청해 주세요. 회의 때 작성한 기록입니다.
+FABRE: Une minute de séance en 1962, avec un tampon de conformité... Je note. Ce sera le travail d'une personne qui prenait des notes. ||| 1962년 회의 기록에 대조 도장이 있다면, 적어 둘게요. 받아 적던 사람의 작업이겠네요.
+CAMILLE: Un interprète, probablement. ||| 아마 통역사겠죠.
+JULIEN: Il est dix-sept heures moins le quart. Je dois envoyer mon compte rendu. Camille, tu relis ? ||| 다섯 시 십오 분 전이야. 보고서를 보내야 해. 카미유, 네가 읽어 줄래?
+CAMILLE: Je relis. Trois lignes : ce qu'on a vu, ce qu'on n'a pas vu, ce qu'on cherche. ||| 읽을게. 세 줄이야. 본 것, 보지 못한 것, 찾는 것.
+JULIEN: Écris « paraphe J. d. V., identification en cours ». Rien d'autre. ||| "약식 서명 J. d. V., 신원 확인 중"이라고 써. 그 이상은 쓰지 마.
+CAMILLE: C'est exact, et ça ne ment pas. ||| 정확하고 거짓도 아니야.
+JULIEN: C'est exactement la nuance qui compte. ||| 바로 그 뉘앙스가 중요한 거지.
+HÉLÈNE: Jour 7, soir. Vous avez une copie. Les copies ont des auteurs. Le sixième déjeuner sera plus cher que le cinquième. ||| 7일째 저녁. 사본을 갖게 되셨네요. 사본에는 작성자가 있어요. 여섯 번째 점심은 다섯 번째보다 비쌀 거예요.
+LÉA: Papa, je viens de comprendre : une copie n'est pas moins vraie, elle est moins prouvable. Dis-moi si c'est faux. ||| 아빠, 방금 이해했어요. 사본은 덜 진짜인 게 아니라 덜 증명할 수 있는 거예요. 틀렸으면 말해 줘요.
+JULIEN: Ce n'est pas faux. C'est même ce que dit le Code civil depuis 1804, avec moins de style. ||| 틀리지 않았어. 1804년부터 민법전이 해 온 말이야, 문장이 덜 멋있을 뿐.
+LÉA: Alors c'est une question de définition. ||| 그러면 개념 정의의 문제네요.
+JULIEN: Évidemment. Bonne nuit, ma grande. ||| 물론이지. 잘 자, 우리 딸.
++ un récolement = (문서고의) 재대조·점검. 목록과 실물을 맞춰 보며 빠진 것을 확인하는 작업
++ inaliénable = 양도할 수 없는. 공문서는 원칙적으로 국가에 속해 팔거나 넘길 수 없다는 뜻(세부 해석은 시대에 따라 달라짐)
++ en toutes lettres = 풀어서, 빠짐없이. 이름·금액을 약자 없이 쓸 때
++ au gré de = ~에 따라, ~마음대로. au gré des interprétations = 해석에 따라
++ soit… soit… = ~이든가 ~이든가. 두 가능성 중 하나를 나열
++ une identification en cours = 확인 중. 사실을 단정하지 않는 행정 보고의 안전한 표현
++ ce n'est pas faux = 틀린 말은 아니다. 완곡한 긍정, 부정을 겹쳐 쓰는 litote
++ moins prouvable = 덜 증명할 수 있는. 레아가 '진실'과 '증명 가능성'을 구분한 철학적 정의
