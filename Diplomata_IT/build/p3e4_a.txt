@@ -1,0 +1,111 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 4
+@title La Venere di Tarsia
+@ko 타르시아의 베누스
+@setting 월요일 아침 파르네지나 → 낮 로마 고고학 박물관 별관(Annesso) → 저녁 보치아 클럽 → 밤 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast SAADI | 타르시아 장관, 대표단장
+@cast BRUNI | 박물관 별관 책임 큐레이터 도티사 브루니, 50세
+@cast NADIA | 타르시아 국립박물관 큐레이터 나디아 하다드, 45세
+@cast SARTORELLI | 타르시아의 라틴어 명문 학자 사르토렐리 교수, 81세
+@cast IDRIS | 타르시아 대표단 통역 이드리스, 72세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast ERCOLE | 테스타초 보치아 클럽 노인
+@cast PEPPINO | 테스타초 보치아 클럽 노인
+@cast CONCETTA | 노나 콘체타, 보치아 클럽의 최고령 여성
+@cast LEO | 란차의 아들, 16세
+@note B사건(4~6화)의 첫 화입니다. 타르시아가 로마의 박물관 별관에 있는 로마 시대 대리석 '베누스 상'(높이 약 1.8m, 1927년 마르사 베이다 항만 공사에서 발굴, 1928년 수출 허가로 로마 이송)의 반환을 요구합니다. 받침의 라틴어 명문이 열쇠입니다. VENERI CAELESTI AVG(VSTAE) / C IVLIVS PROCVLVS DEC(VRIO) ET CIVES COL(ONIAE) TARSIAE / SVA PECVNIA POSVERVNT / L D D D(= locus datus decreto decurionum). '천상의 베누스에게, 타르시아 식민시의 의원 가이우스 율리우스 프로쿨루스와 시민들이 사비로 봉헌했고, 자리는 의원회의 결의로 주어졌다'는 뜻입니다. 즉 상은 국가가 아니라 '시민(cives)'이라는 공동체의 선물이었다는 논거입니다. 역사 논거는 1815년 카노바(Canova)의 협상입니다. 교황 비오 7세의 사절로 파리에 간 카노바는 나폴레옹 시기에 이탈리아에서 가져간 작품들의 반환을 주장했고, 피렌체의 '메디치의 베누스'도 그해 돌아왔습니다(세부는 일반화). 어휘는 문화재·소유권(restituzione, reperto, provenienza, licenza di esportazione, iscrizione)과 가정법 과거(se + 접속법 반과거, condizionale)에 주목하세요.
+@next 3-5 «밤의 박물관» — 큐레이터 두 사람이 수장고에서 비공식으로 만나고, 장갑에 묻은 먼지가 상의 비밀로 이어집니다.
+
+## 편지 한 통 — LA LETTERA
+ORSOLINI: È arrivata la nota verbale di Tarsia. Una pagina, quattro righe. Leggi tu. ||| 타르시아의 구상서가 도착했어요. 한 장에 네 줄입니다. 당신이 읽어요.
+CORRADO: «La Repubblica di Tarsia chiede la restituzione della statua marmorea nota come "Venere di Tarsia", custodita presso l'Annesso del Museo Archeologico Nazionale di Roma. Si dichiara disponibile a un dialogo bilaterale entro novanta giorni.» ||| '타르시아 공화국은 로마 국립 고고학 박물관 별관에 보관된 "타르시아의 베누스"로 알려진 대리석 상의 반환을 요청한다. 90일 안에 양자 대화에 응할 용의가 있다.'
+GIULIA: Quattro righe, ma con una parola chiave: «disponibile». Non c'è nessun ultimatum. ||| 네 줄이지만 핵심 단어는 '용의'예요. 최후통첩은 없어요.
+ORSOLINI: È più pericoloso così. Un ultimatum si respinge. Una disponibilità bisogna meritarla. ||| 그래서 더 위험합니다. 최후통첩은 거절하면 되지만, 용의에는 응답할 자격을 얻어야 하니까요.
+CORRADO: Segretario... Luca, se restituiamo questa statua, apriamo la porta? ||| 총장님… 루카, 이 상을 돌려주면 문을 여는 걸까요?
+ORSOLINI: La apriamo e la scardiniamo. Nei musei italiani ci sono migliaia di reperti di provenienza mediterranea. Se oggi restituiamo una Venere, domani qualcuno chiede una colonna. ||| 열고, 아예 경첩까지 뽑게 되죠. 이탈리아 박물관에는 지중해 출토 유물이 수천 점입니다. 오늘 베누스를 돌려주면 내일은 누가 기둥을 요구할 겁니다.
+CORRADO: E se non restituiamo, il ministro Saadi torna a casa con una statua in meno e un rancore in più. ||| 돌려주지 않으면 사아디 장관은 조각상 하나를 못 얻고 원한 하나를 얻어 돌아가겠죠.
+ORSOLINI: Dimmi cosa sappiamo, Giulia. ||| 우리가 아는 걸 말해 줘요, 조울리아.
+GIULIA: Allora. Altezza un metro e ottantasei, marmo, età antonina, seconda metà del secondo secolo dopo Cristo. Scoperta nel 1927 durante i lavori del bacino portuale di Marsa Beida. ||| 자, 높이 1미터 86센티, 대리석, 안토니누스 시대, 서기 2세기 후반이에요. 1927년 마르사 베이다 항만 공사 중에 발견됐고요.
+CORRADO: Quindi trovata dagli operai del porto, non dagli archeologi. ||| 그러니까 고고학자들이 아니라 항만 인부들이 찾았군요.
+GIULIA: Sì. Licenza di esportazione numero trecentoundici, rilasciata nel 1928 dall'amministrazione di allora. Dal 1931 è nell'Annesso, in una sala con una targa di donatori. ||| 네. 1928년 당시 행정 당국이 발급한 수출 허가 311호가 있고요. 1931년부터 별관의 한 홀에 있어요. 기부자 명판이 붙은 방이에요.
+CORRADO: Che donatori? ||| 어떤 기부자요?
+GIULIA: Ultima ristrutturazione, sette anni fa: «Sala della Venere, climatizzazione donata dalla Fondazione Leonardo per le Arti e il Mediterraneo». ||| 7년 전 마지막 보수 때 일이에요. '베누스의 방, 공조 시설은 지중해와 예술을 위한 레오나르도 재단 기증'이라고 되어 있어요.
+ORSOLINI: Di nuovo quel nome. Possibile che sia una coincidenza? ||| 또 그 이름이군요. 우연일 수 있을까요?
+CORRADO: Non so ancora. Ma una fondazione che climatizza una statua ha un interesse nel fatto che la statua resti dov'è. ||| 아직은 모릅니다. 하지만 조각상에 공조 시설을 대 준 재단이라면 상이 있던 자리에 남기를 바라는 이해관계가 있겠지요.
+GIULIA: O nel fatto che la statua sia ben conservata, ovunque vada. ||| 아니면 어디로 가든 상태가 잘 보존되기를 바라는 걸 수도 있고요.
+CORRADO: Giulia, tu sei più generosa di me. ||| 조울리아, 당신이 저보다 너그럽군요.
+GIULIA: Io sono di Bologna. Ci fidiamo, ma verifichiamo. ||| 전 볼로냐 출신이에요. 믿되 확인하죠.
+ORSOLINI: Qual è il piano? ||| 계획은 뭡니까?
+CORRADO: Andiamo a vederla. Con la curatrice italiana e con i tarsiani, insieme, davanti alla base. Non voglio parlare di una statua che non ho mai guardato in faccia. ||| 가서 봅시다. 이탈리아 큐레이터와 타르시아 측이 같이, 받침 앞에서요. 얼굴을 한 번도 본 적 없는 조각상을 놓고 말하고 싶지 않습니다.
+ORSOLINI: Il ministro Saadi sarà a Roma fino a giovedì. Ha chiesto un incontro all'Annesso, alle undici. ||| 사아디 장관은 목요일까지 로마에 있습니다. 11시에 별관에서 만나자고 요청했어요.
+CORRADO: Allora ci vediamo là. ||| 그럼 거기서 보죠.
+ORSOLINI: Corrado, un'ultima cosa. Il precedente: se mai dobbiamo cedere, non lo facciamo per paura del precedente. Lo facciamo per una ragione. ||| 코라도, 마지막으로 하나. 선례 문제입니다. 혹시 양보해야 한다면 선례가 두려워서 하지 않고, 이유가 있어서 합니다.
+CORRADO: Una ragione scritta nella pietra. ||| 돌에 쓰인 이유겠지요.
+ORSOLINI: Non fare il poeta alle nove del mattino. ||| 아침 9시부터 시인 노릇은 하지 말아요.
++ nota verbale = 구상서, 외교 공한. 서명 없이 외교 기관이 발송하는 공식 문서
++ scardinare = 경첩에서 떼어 내다, 체제를 흔들어 무너뜨리다 (aprire와 짝을 이루는 과장 표현)
++ reperto = 출토품, 유물
++ licenza di esportazione = 수출 허가증. 반환 분쟁에서 합법성의 근거로 자주 제시됨
++ età antonina = 안토니누스 시대. 서기 2세기 후반 로마 제정 황금기
++ Ci fidiamo, ma verifichiamo = 믿되 확인한다 (볼로냐 출신 조울리아의 기질)
++ Non fare il poeta = 시인 흉내 내지 마라 (비유적 표현을 자제하라는 핀잔)
++ Se restituiamo... apriamo = se + 직설법 현재(현실적 가정). 비현실 가정은 se + 접속법 반과거 + 조건법
+
+## 받침의 글자 — LA BASE
+BRUNI: Dottor Lanza, ministro Saadi, benvenuti all'Annesso. Mi chiamo Livia Bruni, sono la responsabile della sala. Lei, dottoressa Haddad, ci siamo già scritte. ||| 란차 박사님, 사아디 장관님, 별관에 오신 걸 환영합니다. 저는 리비아 브루니, 이 방 책임자입니다. 하다드 박사님과는 이미 서신을 나눴지요.
+NADIA: Nadia Haddad, Museo Nazionale di Marsa Beida. Dottoressa Bruni, per quindici anni ho studiato questa statua solo nelle fotografie. ||| 마르사 베이다 국립박물관의 나디아 하다드입니다. 브루니 박사님, 저는 15년 동안 이 조각상을 사진으로만 연구했어요.
+BRUNI: Allora la saluti. È lì. ||| 그럼 인사하세요. 저기 있습니다.
+NADIA: ...È più alta di quanto pensassi. ||| …생각보다 키가 크네요.
+SAADI: Ha un'aria triste. ||| 슬픈 표정이군요.
+BRUNI: Ha un'aria concentrata. È il restauro del 1931: le palpebre sono state ritoccate. ||| 집중한 표정이에요. 1931년 복원 때 눈꺼풀을 손봤거든요.
+CORRADO: Professor Sartorelli, lei che è con noi... ||| 사르토렐리 교수님, 함께 계시니까…
+SARTORELLI: Mi chiamano professore perché ho ottantun anni, dottor Lanza. In realtà ho solo insegnato latino per quarant'anni a ragazzi che avevano altri progetti. ||| 81살이라 교수라고 불러 주는 겁니다, 란차 박사님. 사실 40년 동안 딴 계획을 가진 아이들에게 라틴어를 가르쳤을 뿐이에요.
+IDRIS: Il professor Sartorelli è nato a Marsa Beida da una famiglia italiana che non è mai ripartita. Io sono stato suo allievo. Settantadue anni, e ancora ascolto. ||| 사르토렐리 교수님은 마르사 베이다에서 이탈리아 가족의 아들로 태어나셨고, 그 가족은 한 번도 떠난 적이 없습니다. 저는 교수님의 제자였고요. 일흔두 살인데도 여전히 듣습니다.
+SARTORELLI: Idris traduce anche quando non serve. Una vecchia abitudine di chi ha tradotto per i potenti. ||| 이드리스는 필요 없을 때도 통역을 한다오. 권력자들을 위해 통역하던 사람의 오랜 버릇이지.
+CORRADO: Professore, ci legga la base. ||| 교수님, 받침을 읽어 주십시오.
+SARTORELLI: Mi servono gli occhiali. Anzi, anche una lampada. ||| 안경이 필요하군요. 아니, 조명도요.
+BRUNI: La accendo. ||| 켜 드리겠습니다.
+SARTORELLI: Allora. Prima riga: «VENERI CAELESTI AVG». ||| 자. 첫 줄. '베네리 카엘레스티 아우그'.
+IDRIS: «A Venere Celeste Augusta.» ||| '천상의 베누스 아우구스타께.'
+SARTORELLI: Seconda riga: «C IVLIVS PROCVLVS DEC». Gaio Giulio Proculo, decurione. Un consigliere della colonia. ||| 둘째 줄. '가이우스 율리우스 프로쿨루스 의원'. 식민시 의회 의원입니다.
+SARTORELLI: Terza riga: «ET CIVES COL TARSIAE». E i cittadini della colonia di Tarsia. ||| 셋째 줄. '그리고 타르시아 식민시의 시민들'.
+CORRADO: «E i cittadini.» Professore, la ripeta. ||| '그리고 시민들'이라. 교수님, 다시 한 번 말씀해 주십시오.
+SARTORELLI: «Et cives». Cioè non solo il decurione: la comunità dei cittadini. ||| '에트 키베스'. 의원 한 사람만이 아니라 시민 공동체라는 뜻이죠.
+NADIA: Quarta riga? ||| 넷째 줄은요?
+SARTORELLI: «SVA PECVNIA POSVERVNT»: «con i propri denari posero». Quinta e ultima: «L D D D». ||| '수아 페쿠니아 포수에룬트', 곧 자기 돈으로 세웠다. 다섯째, 마지막 줄은 'L D D D'입니다.
+CORRADO: Una sigla? ||| 약어입니까?
+SARTORELLI: Una formula. «Locus datus decreto decurionum»: luogo dato per decreto dei consiglieri. ||| 공식 문구예요. '로쿠스 다투스 데크레토 데쿠리오눔', 의원들의 결의로 주어진 자리라는 뜻입니다.
+BRUNI: Una formula che si trova in tutte le colonie dell'impero. ||| 제국 전체 식민시 어디서나 볼 수 있는 문구입니다.
+SAADI: Dottor Lanza, mi traduca lei in due frasi: cosa dice questa pietra? ||| 란차 박사님, 두 문장으로 옮겨 주십시오. 이 돌은 뭐라고 말합니까?
+CORRADO: Dice che la statua non è stata un dono di un imperatore. È stata un dono dei cittadini di un luogo preciso, e quel luogo ha dato lo spazio per metterla. ||| 이 상이 황제의 선물이 아니라 특정한 장소 시민들의 선물이라는 겁니다. 그리고 그 장소가 세울 자리를 내주었다고요.
+SAADI: Cioè è nostra. ||| 그러니까 우리 것이군요.
+BRUNI: Mi permetta, ministro: la pietra non dice «per sempre». E la licenza del 1928 è un atto firmato. ||| 말씀드리자면 장관님, 돌에는 '영원히'라고 쓰여 있지 않습니다. 그리고 1928년 허가증은 서명된 문서고요.
+NADIA: Firmato da un'amministrazione che non ci chiese il parere dei cittadini. Il decreto dei decurioni lo avevamo noi. ||| 시민들의 의견을 묻지 않은 행정 당국이 서명한 거죠. 의원 결의는 우리 쪽에 있었고요.
+BRUNI: Il diritto del 1928 non è il diritto di oggi, ma è comunque il diritto che c'era. ||| 1928년의 법은 오늘의 법이 아니지만, 그래도 당시에 있던 법입니다.
+CORRADO: Dottoressa Bruni, dottoressa Haddad, qualcosa mi dice che avete ragione tutte e due. ||| 브루니 박사님, 하다드 박사님, 두 분 다 옳다는 느낌이 듭니다.
+NADIA: In una disputa su una statua non si ha ragione in due. ||| 조각상 분쟁에서 둘 다 옳을 수는 없어요.
+CORRADO: Si può. Se si cambia la domanda: non «di chi è la Venere?», ma «per chi è stata posta?» ||| 가능합니다. 질문을 바꾸면요. '베누스는 누구 것인가'가 아니라 '누구를 위해 세워졌는가'로요.
+SARTORELLI: Per i cives. Per chi guardava e pregava. ||| 시민들을 위해서죠. 바라보고 기도하던 사람들을 위해서요.
+CORRADO: E oggi chi guarda e prega in questa sala? ||| 그럼 오늘 이 방에서 바라보고 기도하는 사람은 누굽니까?
+BRUNI: Studenti, turisti. Qualche anziano che passa a salutarla. ||| 학생들, 관광객들. 인사하러 오는 노인 몇 분이요.
+NADIA: A Marsa Beida, ogni anno, il giorno della festa del porto, i vecchi mettono un fiore sul podio vuoto del tempio. Un podio vuoto, dottor Lanza. ||| 마르사 베이다에서는 해마다 항구 축제 날 노인들이 신전의 빈 단 위에 꽃을 놓습니다. 빈 단이에요, 란차 박사님.
+CORRADO: Un podio vuoto? ||| 빈 단이요?
+NADIA: Dal 1928 l'impronta dei suoi piedi è rimasta sul marmo. Nessuno ha più riempito quel vuoto. ||| 1928년부터 여신의 발자국이 대리석 위에 남아 있었어요. 그 빈자리를 아무도 다시 채우지 못했고요.
+SAADI: Anche mia madre ci portava un fiore. ||| 제 어머니도 꽃을 가져가곤 하셨습니다.
+BRUNI: Ministro, io non sono una politica: sono una curatrice. Questa statua non l'ho scelta, la custodisco. E la custodisco bene. ||| 장관님, 저는 정치인이 아니라 큐레이터입니다. 이 조각상은 제가 고른 게 아니라 지키는 것이고, 잘 지키고 있습니다.
+SAADI: Non lo metto in dubbio, dottoressa. Metto in dubbio la distanza. ||| 의심하지 않습니다, 박사님. 의심하는 건 거리입니다.
++ decurione = (로마 식민시의) 시의회 의원. dec. = decurio
++ et cives = 그리고 시민들. 비문에서 '공동체'를 가리키는 핵심 구절
++ sua pecunia = 자기 돈으로(사비로). 봉헌 비문의 관용 문구
++ locus datus decreto decurionum (L D D D) = 의원들의 결의로 주어진 자리. 로마 비문의 표준 약어
++ mi permetta / Mi traduca lei = Lei 명령형(permettere, tradurre)의 정중한 요청
++ ci siamo già scritte = (여성 둘이) 이미 서신을 나눴다. 재귀 복수 과거분사는 주어의 성에 일치해 -e로 끝남
++ in una disputa non si ha ragione in due = 분쟁에서는 둘이 다 옳을 수 없다. avere ragione = 옳다
++ si può = 가능하다. 질문을 바꾸면(Se si cambia la domanda) 해법이 보인다는 전환의 순간
++ basamento / piedistallo / podio = 받침대, 대좌, (신전의) 단. 여기서는 상이 있던 빈 자리

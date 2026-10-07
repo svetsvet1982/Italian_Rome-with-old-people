@@ -1,0 +1,226 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 1
+@title Il vertice a Roma
+@ko 로마의 정상회의
+@setting 화요일 아침 파르네지나 위기대응실 → 같은 날 낮 보치아 클럽(테스타초) → 오후 빌라 마다마 → 밤 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장, 53세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast SAADI | 타르시아 교통·항만 장관
+@cast KOVACS | EU 대표단 수석 협상관
+@cast TONINO | 빌라 마다마 조명 기사, 61세
+@cast MARISA | 정상회의 의전 책임자, 55세
+@cast ERCOLE | 테스타초 보치아 클럽 노인
+@cast PEPPINO | 테스타초 보치아 클럽 노인
+@cast CONCETTA | 노나 콘체타, 보치아 클럽의 최고령 여성
+@cast LEO | 란차의 아들, 16세
+@note 3부 «정상회의»의 첫 화입니다. 지중해 협정(Patto del Mediterraneo) 정상회의가 개막하기 48시간 전, 최종 초안에서 제14조(해저 자원 공동 개발에 관한 우선 협상)가 흔적 없이 사라집니다. 번호는 한 칸 당겨졌지만 제22조에는 '제14조에 따라'라는 문구가 남아 있습니다. 역사 논거는 로마 조약(1957)입니다. 여섯 나라가 캄피돌리오에서 서명한 이 조약은 막연한 선언이 아니라 단계와 기한(12년의 과도기, 세 단계)을 못 박은 문서였습니다. 즉 구체적인 조항 하나가 '합의의 뼈대'라는 논리입니다. 해법의 순간은 조명 기사 토니노의 '순서표(scaletta)'입니다. 조항이 사라진 시각이 순서표에서 4분이 지워진 시각과 맞물립니다. 어휘는 문서·절차(bozza, stesura, articolo, rinvio, scaletta, richiamo)와 접속법(ammesso che, a meno che, benché)에 주목하세요.
+@next 3-2 «빌라 마다마의 통역사» — 다음 날 아침, 통역사가 초안에 딸린 비밀 부속서의 이름을 읽었다고 털어놓습니다.
+
+## 사라진 조항 — L'ARTICOLO CHE NON C'È
+GIULIA: Corrado, scusa l'ora, ma devi vedere una cosa. Subito. ||| 코라도, 이른 시간에 미안한데 뭘 좀 봐야 해요. 지금 당장요.
+CORRADO: Giulia, sono le otto e il caffè è ancora nel bricco. Che è successo? ||| 조울리아, 아직 8시고 커피는 아직 주전자 안에 있어요. 무슨 일이에요?
+GIULIA: Ho confrontato la versione sei della bozza, quella di venerdì, con la sette, arrivata ieri sera dagli sherpa. ||| 금요일자 초안 6판과 어젯밤 셰르파들이 보낸 7판을 대조해 봤어요.
+CORRADO: E la sette? ||| 그래서 7판은요?
+GIULIA: Trentuno pagine invece di trentatré. Gli articoli vanno dall'uno al tredici, poi saltano al quindici. ||| 33쪽이 아니라 31쪽이에요. 조항이 1조부터 13조까지 가다가 15조로 건너뜁니다.
+CORRADO: Saltano? Non sono stati rinumerati? ||| 건너뛴다고요? 번호를 다시 매기지 않았다는 건가요?
+GIULIA: Sì, rinumerati, e bene: il quindici è diventato quattordici. Ma guarda l'articolo ventidue. ||| 아뇨, 다시 매겼어요. 그것도 깔끔하게요. 15조가 14조가 됐죠. 그런데 22조를 보세요.
+CORRADO: «Le Parti si impegnano, ai sensi dell'articolo 14, ad avviare i negoziati entro diciotto mesi.» ||| '당사국은 제14조에 따라 18개월 안에 협상을 개시할 것을 약속한다.'
+GIULIA: Ecco. Ma l'articolo quattordici della sette parla di pesca, non di fondali. ||| 바로 그거예요. 그런데 7판의 14조는 어업 얘기지 해저 얘기가 아니에요.
+CORRADO: Quindi il vecchio quattordici, quello sulle risorse del fondale marino, è sparito. E il richiamo è rimasto orfano. ||| 그러니까 해저 자원에 관한 옛 14조가 사라졌고, 인용만 고아처럼 남았다는 거군요.
+GIULIA: Hanno tolto la casa e lasciato la targa sul cancello. ||| 집은 허물고 대문 문패만 남겨 둔 셈이죠.
+CORRADO: Chi può modificare una bozza a quarantotto ore dall'apertura del vertice? ||| 정상회의 개막 48시간 전에 누가 초안을 고칠 수 있죠?
+GIULIA: Ufficialmente nessuno. Il testo è congelato da venerdì. Ogni modifica richiede il consenso dei sei sherpa. ||| 공식적으로는 아무도 못 해요. 금요일부터 동결이라서요. 수정하려면 여섯 셰르파의 동의가 있어야 하고요.
+CORRADO: E il verbale dei consensi? ||| 동의 기록은요?
+GIULIA: Non c'è nessun verbale. Né di sabato, né di domenica, né di lunedì. ||| 기록이 없어요. 토요일도, 일요일도, 월요일도요.
+CORRADO: Allora la bozza è cambiata da sola. ||| 그럼 초안이 혼자서 바뀌었다는 얘기네요.
+GIULIA: I testi non cambiano da soli, Corrado. Cambiano quando qualcuno ha un'ora di tempo e una buona ragione. ||| 문서는 혼자 바뀌지 않아요, 코라도. 한 시간의 여유와 그럴듯한 이유가 있는 누군가가 있을 때 바뀌죠.
+CORRADO: Che cosa diceva, esattamente, quell'articolo? ||| 정확히 그 조항에 뭐라고 쓰여 있었죠?
+GIULIA: «Le Parti avviano negoziati prioritari per lo sviluppo congiunto delle risorse del fondale marino, secondo criteri di trasparenza e parità di accesso.» ||| '당사국은 투명성과 동등한 접근의 기준에 따라 해저 자원의 공동 개발을 위한 우선 협상을 개시한다.'
+CORRADO: Parità di accesso. È l'unico articolo del Patto con un calendario. ||| 동등한 접근이라. 협정에서 일정표가 있는 유일한 조항이군요.
+GIULIA: E il Patto senza quell'articolo è un bel discorso con la firma sotto. ||| 그 조항이 없으면 협정은 서명만 붙은 근사한 연설문이죠.
+CORRADO: Chi lo sa già? ||| 아는 사람이 누구죠?
+GIULIA: Solo io. E adesso tu. Il tuo caffè, però, ha cominciato a bollire. ||| 저랑, 이제 당신뿐이에요. 그런데 커피가 끓기 시작했어요.
+CORRADO: Lo lascio bollire. Oggi ci fa compagnia. Chiama Orsolini: dobbiamo parlargli prima che lo faccia qualcun altro. ||| 끓게 두죠. 오늘은 커피가 말동무가 되어 줄 거예요. 오르솔리니 총장님께 연락해요. 다른 누가 말하기 전에 우리가 먼저 말해야 해요.
+GIULIA: Ho già chiesto un appuntamento alle nove e mezza. Mi ha risposto con una sola parola. ||| 9시 반에 약속을 잡아 놨어요. 한 단어로 답이 왔고요.
+CORRADO: Quale? ||| 무슨 단어요?
+GIULIA: «Sali.» ||| '올라와.'
+CORRADO: Hm. Quando un segretario generale scrive «sali» e non «salga», o è molto stanco o sa già tutto. ||| 음. 사무총장이 '올라오십시오'가 아니라 '올라와'라고 쓰면, 아주 피곤하거나 이미 다 알고 있다는 뜻이죠.
++ bozza = 초안 (la versione sei della bozza = 초안 6판)
++ sherpa = 정상회의 준비를 맡는 수석 실무 대표(셰르파). 산을 오르는 길잡이에서 온 외교 은어
++ rinumerare = 번호를 다시 매기다 (richiamo = 다른 조항을 가리키는 인용·참조)
++ rimanere orfano = 고아로 남다, 가리킬 대상을 잃다 (비유적으로 쓰임)
++ hanno tolto la casa e lasciato la targa = 집은 없애고 문패만 남겼다 (알맹이는 빼고 흔적만 남긴 것)
++ ai sensi dell'articolo = ~조에 따라 (법률·조약 문체의 표준 표현)
++ Sali. / Salga. = 반말 명령형 tu와 존칭 명령형 Lei의 차이. 상사가 갑자기 tu로 쓰면 긴박함이나 친밀함의 신호
+
+## 여섯 나라의 탁자 — IL TAVOLO DEI SEI
+ORSOLINI: Entrate, chiudete la porta. Corrado, lei sapeva che avrei voluto vederla comunque. ||| 들어와요, 문 닫고요. 란차 씨, 내가 어차피 당신을 보려 했다는 건 알고 있었겠죠.
+CORRADO: Segretario, abbiamo un articolo che manca. ||| 총장님, 빠진 조항이 하나 있습니다.
+ORSOLINI: Il quattordici. Lo so. L'ho scoperto ieri alle undici di sera, stampando il fascicolo per il Ministro. ||| 14조요. 알고 있어요. 어젯밤 11시에 장관님 보고용 철을 인쇄하다가 알았어요.
+CORRADO: E non ha chiamato nessuno? ||| 아무에게도 전화하지 않으셨습니까?
+ORSOLINI: Ho chiamato tre sherpa. Tutti e tre hanno giurato che non ne sapevano niente. ||| 셰르파 세 명에게 전화했어요. 셋 다 아무것도 모른다고 맹세했죠.
+CORRADO: Tutti e tre? Gli altri tre? ||| 셋 다요? 나머지 셋은요?
+ORSOLINI: Gli altri tre li chiamo adesso, davanti a voi, in viva voce. Così nessuno potrà dire che abbiamo lavorato nell'ombra. ||| 나머지 셋은 지금 여러분 앞에서 스피커폰으로 걸겠어요. 우리가 어둠 속에서 일했다는 말이 안 나오도록요.
+KOVACS: Buongiorno, qui è la delegazione dell'Unione. Siamo già in cinque in collegamento. ||| 안녕하십니까, 연합 대표단입니다. 이미 다섯 명이 연결되어 있습니다.
+ORSOLINI: Dottor Kovács, mi risulta che l'articolo quattordici della bozza sei non sia più nella sette. ||| 코바치 박사님, 6판의 14조가 7판에는 없는 것으로 압니다.
+KOVACS: Benché la cosa mi sorprenda, devo darle ragione. Il nostro testo di riferimento è il sei. ||| 놀랍긴 하지만 맞는 말씀입니다. 저희 기준 문서는 6판입니다.
+ORSOLINI: Quindi lei non ha approvato nessuna soppressione. ||| 그러니 삭제를 승인하신 적이 없으시군요.
+KOVACS: Mai. E a meno che qualcuno non abbia agito a mio nome, non lo farò. ||| 전혀요. 누가 제 이름으로 행동하지 않은 이상, 앞으로도 안 합니다.
+SAADI: Parla il ministro Saadi, collegato da Marsa Beida. Posso essere molto chiaro? ||| 마르사 베이다에서 연결한 사아디 장관입니다. 아주 분명하게 말씀드려도 되겠습니까?
+ORSOLINI: Prego, ministro. ||| 말씀하시지요, 장관님.
+SAADI: Il quattordici è il motivo per cui il mio paese siede a questo tavolo. Senza il quattordici la nostra delegazione non salirà sull'aereo. ||| 14조는 우리나라가 이 탁자에 앉는 이유입니다. 14조가 없으면 우리 대표단은 비행기에 오르지 않을 겁니다.
+CORRADO: Ministro, ci siamo conosciuti su una nave ferma in porto. Ricorda cosa mi ha detto allora? ||| 장관님, 우리는 멈춰 선 배 위에서 만났습니다. 그때 제게 하신 말씀을 기억하십니까?
+SAADI: Che non volevamo il denaro, ma il rispetto. Lo ricordo, dottor Lanza. E oggi dico lo stesso. ||| 우리가 원하는 건 돈이 아니라 존중이라고 했지요. 기억합니다, 란차 박사님. 오늘도 같은 말을 합니다.
+CORRADO: Allora le chiedo una cosa: non dichiari subito la rottura. Ci dia fino a domani sera. ||| 그렇다면 하나 청합니다. 지금 당장 결렬을 선언하지는 말아 주십시오. 내일 저녁까지만 시간을 주십시오.
+SAADI: E cosa porterà, domani sera? ||| 내일 저녁에 뭘 가져오시려는 겁니까?
+CORRADO: Il nome di chi ha tolto quell'articolo. O almeno l'ora esatta in cui è stato tolto. ||| 그 조항을 뺀 사람의 이름이요. 아니면 최소한 정확히 언제 뺐는지라도요.
+SAADI: Un'ora non è una colpa. ||| 시각이 죄는 아니지요.
+CORRADO: No, ma di solito l'ora è l'inizio del filo. ||| 아니지요. 하지만 보통은 시각이 실마리의 끝입니다.
+SAADI: Le do ventiquattr'ore. Non una di più. A Marsa Beida un'attesa lunga si chiama già un rifiuto. ||| 스물네 시간 드리겠습니다. 한 시간도 더는 안 됩니다. 마르사 베이다에서는 긴 기다림은 이미 거절이라고 부릅니다.
+ORSOLINI: Grazie, ministro. Dottor Kovács, la pregherei di non far trapelare nulla alla stampa. ||| 감사합니다, 장관님. 코바치 박사님, 언론에는 아무것도 새지 않도록 부탁드립니다.
+KOVACS: Naturalmente. Ma ricordi che a Bruxelles anche i muri hanno un ufficio stampa. ||| 물론입니다. 하지만 브뤼셀에서는 벽도 홍보 담당 부서를 둔다는 걸 기억해 주십시오.
+ORSOLINI: Lo ricordo benissimo. Vi aggiorno stasera. ||| 아주 잘 압니다. 저녁에 다시 알려 드리겠습니다.
+ORSOLINI: Corrado, resti un minuto. ||| 코라도, 잠깐 남아요.
+ORSOLINI: Se qualcuno ha toccato il testo senza il consenso dei sei, il vertice è già compromesso. Mi serve un colpevole? No. Mi serve un'ora. ||| 누가 여섯 나라의 동의 없이 본문을 건드렸다면 정상회의는 이미 흔들린 겁니다. 범인이 필요하냐고요? 아니에요. 시각이 필요해요.
+CORRADO: Allora la trovo. Ma devo girare per Villa Madama: sale, uffici, tecnici. ||| 그럼 찾겠습니다. 다만 빌라 마다마를 돌아다녀야 합니다. 홀, 사무실, 기술진까지요.
+ORSOLINI: Ha il mio permesso. E, Corrado... ||| 허락합니다. 그리고 코라도…
+CORRADO: Sì? ||| 네?
+ORSOLINI: Non mi chiami più «Segretario» in corridoio. Mi chiami Luca. ||| 이제 복도에서는 '총장님'이라고 부르지 말아요. 루카라고 불러요.
+CORRADO: Segretario, lei sa che per un napoletano questo è come passare il sale a tavola. ||| 총장님, 나폴리 사람에게 그건 식탁에서 소금을 건네받는 것과 같다는 걸 아시죠.
+ORSOLINI: Allora passa il sale, Corrado, e muoviti. ||| 그럼 소금을 받아요, 코라도. 그리고 서둘러요.
++ in viva voce = 스피커폰으로 (viva voce는 '육성'. 회의 통화에서 흔히 씀)
++ benché + 접속법 = 비록 ~이지만 (Benché la cosa mi sorprenda)
++ a meno che non + 접속법 = ~하지 않는 한 (a meno che qualcuno non abbia agito)
++ trapelare = (정보가) 새어 나가다. far trapelare = 흘리다
++ anche i muri hanno un ufficio stampa = 벽에도 귀가 있다는 속담의 외교관식 변주
++ l'inizio del filo = 실마리의 끝. trovare il filo = 실마리를 찾다
++ Lei → tu 전환 = 오르솔리니가 말을 놓는 순간(Mi chiami Luca → Passa il sale). 존칭을 내려놓는 것이 신뢰의 신호
++ passare il sale = 소금을 건네다. 식탁에서 허물없는 사이가 되었다는 비유
+
+## 보치아 클럽의 점심 — PRANZO ALLA BOCCIOFILA
+ERCOLE: Eccolo! L'uomo che deve ancora salvare il mondo prima di pranzo. ||| 왔구나! 점심 전에 세상을 구해야 하는 사람이.
+CORRADO: Ercole, oggi non salvo niente. Voglio solo capire come si perde un articolo. ||| 에르콜레, 오늘은 아무것도 안 구해요. 조항 하나가 어떻게 사라지는지만 알고 싶어요.
+PEPPINO: Si perde come le chiavi di casa. Quando sei sicuro di averle messe lì. ||| 집 열쇠처럼 사라지는 거야. 거기 뒀다고 확신할 때 말이지.
+CONCETTA: Peppì, non mescolare. Prima si mangia. Siediti, Corrado, c'è la pasta e patate con la provola. ||| 페피노, 말 섞지 마. 먼저 먹어야지. 앉아, 코라도, 감자 파스타에 프로볼라 치즈 넣었다.
+CORRADO: Nonna Concetta, lei mi vizia. ||| 콘체타 할머니, 저를 너무 오냐오냐하세요.
+CONCETTA: Ti vizio perché hai la faccia di chi non mangia da due giorni. E i trattati si firmano a pancia piena. ||| 이틀은 굶은 얼굴이라서 그렇다. 조약은 배부르게 서명하는 거야.
+ERCOLE: Dunque. Hanno tolto un pezzo dal foglio? ||| 그래서. 서류에서 한 토막이 빠졌다고?
+CORRADO: Un articolo intero. E nessuno sa chi. ||| 조항 하나가 통째로요. 누가 뺐는지는 아무도 몰라요.
+ERCOLE: Alla bocciofila, quando manca un giocatore, non guardiamo chi c'è. Guardiamo la lavagna. ||| 보치아 클럽에서는 선수가 빈다 싶으면, 있는 사람을 안 봐. 칠판을 보지.
+CORRADO: La lavagna dei turni? ||| 순번 칠판 말씀이세요?
+ERCOLE: Il gesso non mente. Se un nome è stato cancellato, resta l'ombra bianca. ||| 분필은 거짓말을 안 해. 이름을 지우면 하얀 그림자가 남지.
+PEPPINO: E l'ombra bianca la vede chi sa guardare di sbieco. ||| 그 하얀 그림자는 비스듬히 볼 줄 아는 사람 눈에 보이고.
+CORRADO: Un testo al computer non lascia ombre. ||| 컴퓨터 문서는 그림자를 안 남겨요.
+CONCETTA: Lascia un'ora. Ogni cosa che si fa, si fa a un'ora. ||| 시간을 남기지. 사람이 하는 일은 다 어느 시각엔가 하는 거야.
+CORRADO: Nonna, ha ragione. L'ora. ||| 할머니, 맞아요. 시각이요.
+PEPPINO: Mangia, che si fredda. ||| 먹어, 식는다.
+ERCOLE: Corrado, una cosa. Questo vertice a Roma, questi sei paesi... Il mio nonno diceva che Roma ha firmato i patti più belli sempre in una sala piccola. ||| 코라도, 하나만. 이번 정상회의, 그 여섯 나라 말이야. 우리 할아버지가 그러셨어, 로마는 가장 좋은 조약을 늘 작은 방에서 서명했다고.
+CORRADO: Nel 1957 era una sala del Campidoglio. Sei paesi, due trattati. ||| 1957년에는 캄피돌리오의 한 홀이었죠. 여섯 나라에 조약 둘이었고요.
+ERCOLE: E quelli non si fecero fregare? ||| 그 사람들은 속지 않았고?
+CORRADO: Furono più furbi: scrissero tappe e date. Dodici anni, in tre tappe. Un impegno con il calendario non lo si cancella con un colpo di spugna. ||| 더 영리했죠. 단계와 날짜를 적었어요. 12년을 세 단계로요. 일정표가 달린 약속은 스펀지 한 번으로 못 지웁니다.
+PEPPINO: Un colpo di spugna lo dà chi non vuole il conto. ||| 스펀지질은 계산서를 받기 싫은 사람이 하는 거지.
+CORRADO: Peppino, lei dovrebbe fare il mio mestiere. ||| 페피노 씨, 제 일을 하셔야겠어요.
+PEPPINO: Io ho già un mestiere. Faccio il rompiscatole. ||| 난 이미 직업이 있어. 귀찮게 구는 거야.
+CONCETTA: E lo fa benissimo. Su, un altro piatto, Corrado. ||| 아주 잘하지. 자, 한 접시 더 먹어, 코라도.
++ pasta e patate con la provola = 나폴리식 감자 파스타(프로볼라 치즈를 넣은 것). 코라도의 고향 맛이자 보치아 클럽의 단골 메뉴
++ i trattati si firmano a pancia piena = 조약은 배부를 때 서명한다. 식탁 철학의 변주
++ guardare di sbieco = 비스듬히 보다, 곁눈질하다 (여기서는 '보이지 않는 흔적을 찾아내다')
++ dare un colpo di spugna = 스펀지로 한 번 쓱 지우다, 과거를 덮어 버리다
++ fregare = 속이다, 등쳐 먹다 (구어) / farsi fregare = 속아 넘어가다
++ rompiscatole = 귀찮게 구는 사람 (직역 '상자 깨는 사람')
++ Peppì = 이름 끝을 줄여 부르는 로마·나폴리식 호칭. 사투리의 애정 어린 부름
+## 순서표 — LA SCALETTA DELLE LUCI
+MARISA: Dottor Lanza, benvenuto a Villa Madama. Gli operai finiscono lo stesso tavolo rotondo di stamattina, quindi parliamo qui nel corridoio. ||| 란차 박사님, 빌라 마다마에 오신 걸 환영합니다. 인부들이 오늘 아침부터 원탁을 마무리하고 있어서, 여기 복도에서 말씀 나누지요.
+CORRADO: Dottoressa Marisa, mi serve una cosa semplice: il programma esatto della cerimonia di apertura. ||| 마리사 과장님, 간단한 걸 부탁드립니다. 개막식의 정확한 프로그램이요.
+MARISA: L'ho qui. Quattro ore e dieci minuti, con l'ingresso delle delegazioni, i saluti, la lettura del preambolo, la firma. ||| 여기 있습니다. 4시간 10분이고요, 대표단 입장, 인사말, 전문 낭독, 서명 순서입니다.
+CORRADO: La lettura degli articoli? ||| 조항 낭독은요?
+MARISA: Sono previsti sei articoli simbolici, uno per ogni paese. Tocca al rappresentante di ciascun paese leggere un articolo. ||| 상징적으로 여섯 조항을 낭독합니다. 나라마다 하나씩 대표가 읽는 방식이에요.
+CORRADO: E chi leggeva il quattordici? ||| 14조는 누가 읽기로 되어 있었습니까?
+MARISA: Il ministro tarsiano. Ma l'abbiamo cambiato, ovviamente, con la nuova numerazione. ||| 타르시아 장관이요. 하지만 번호가 바뀌었으니 당연히 조정했지요.
+CORRADO: «Ovviamente.» Chi l'ha deciso? ||| '당연히'라고요. 누가 결정했습니까?
+MARISA: Io no. Mi è arrivato un messaggio dal comitato organizzatore: «Eliminare la lettura dell'articolo quattordici, quattro minuti». ||| 저는 아닙니다. 조직위원회에서 '14조 낭독 삭제, 4분'이라는 메시지가 왔어요.
+CORRADO: Quando? ||| 언제요?
+MARISA: Non lo so con precisione. Io ho solo ricevuto la scaletta nuova. Se vuole l'ora, deve chiedere a Tonino. ||| 정확히는 모릅니다. 저는 새 순서표만 받았어요. 시각이 필요하시면 토니노에게 물어보셔야 합니다.
+CORRADO: Tonino chi? ||| 토니노가 누구죠?
+MARISA: Il capo delle luci. Sessant'anni sul palcoscenico, quaranta su quelli di Stato. Laggiù, sul ballatoio. ||| 조명 감독이에요. 무대 경력 60년, 그중 40년은 국가 행사고요. 저기 위 난간에 계세요.
+TONINO: Ehi, di sotto! Se è per il tavolo, sta tutto a posto. Se è per le luci, venga su che le faccio vedere. ||| 어이, 아래! 탁자 때문이면 다 괜찮고, 조명 때문이면 올라오쇼, 보여 줄 테니.
+CORRADO: Buongiorno. Corrado Lanza, Farnesina. ||| 안녕하십니까. 파르네지나의 코라도 란차입니다.
+TONINO: Lo so, lo so. Il dottore che parla con le mani. Tonino Bertolini, luci. Cosa le serve? ||| 알지, 알아. 손으로 말하는 박사님이구먼. 토니노 베르톨리니, 조명이오. 뭐가 필요하시오?
+CORRADO: Mi hanno detto che la scaletta è cambiata. ||| 순서표가 바뀌었다고 들었습니다.
+TONINO: Cambia sempre. Ma questa volta mi hanno telefonato, pensi un po'. Di solito scrivono. ||| 늘 바뀌지. 근데 이번엔 전화가 왔어요, 참. 보통은 글로 쓰는데.
+CORRADO: Telefonato quando? ||| 언제 전화가 왔습니까?
+TONINO: Ieri, lunedì, alle sei meno dieci del pomeriggio. L'ho scritto qui, sul margine, come faccio sempre. ||| 어제, 월요일, 오후 6시 10분 전이었소. 나는 늘 하던 대로 여기 여백에 적어 놨지.
+CORRADO: Mi faccia vedere. ||| 보여 주십시오.
+TONINO: Ecco. «Art. 14: lettura, 4 minuti, luce calda sul tavolo». Cancellato con la penna rossa. E qui sopra: «Ordine ricevuto lun 17.50 — tolgo». ||| 여기. '14조: 낭독 4분, 탁자에 따뜻한 조명.' 빨간 펜으로 지웠고, 그 위에 '월 17시 50분 지시 수령 — 뺌' 이라고 썼지.
+CORRADO: Lunedì alle 17.50. Ma la bozza sette è arrivata agli sherpa solo alle 21. ||| 월요일 17시 50분이라. 그런데 7판은 밤 9시에야 셰르파들에게 갔습니다.
+TONINO: Allora qualcuno sapeva prima. Io non leggo le bozze, dottore, io leggo le luci. E le luci si accendono dopo il testo, non prima. ||| 그럼 누군가 먼저 알았다는 거지. 난 초안은 안 읽어요, 박사님, 조명을 읽지. 그리고 조명은 문서 다음에 켜지는 법이지 앞서진 않아요.
+CORRADO: Chi telefonò? ||| 누가 전화했습니까?
+TONINO: Una voce di donna, gentile. Disse «dallo studio legale che assiste il comitato». Non mi lasciò il nome. ||| 여자 목소리였고 공손했소. '위원회를 돕는 법률 사무소에서'라고 하더군. 이름은 안 남겼고.
+CORRADO: Ricorda il numero? ||| 번호는 기억하십니까?
+TONINO: Il telefono di scena segna le ultime chiamate. Eccolo: finisce con 4 4 7 1. ||| 무대 전화기에 최근 통화가 남아요. 여기. 끝자리가 4 4 7 1이오.
+CORRADO: Posso fotografarlo? ||| 사진 찍어도 되겠습니까?
+TONINO: Faccia pure. Ma mi dica una cosa, dottore: quattro minuti di luce calda li ho tolti io. Ho fatto male? ||| 찍으쇼. 그런데 하나 말해 줘요, 박사님. 따뜻한 조명 4분을 내가 뺐는데, 내가 잘못한 거요?
+CORRADO: No, Tonino. Lei ha fatto una cosa preziosa: ha scritto l'ora. ||| 아닙니다, 토니노 씨. 아주 귀한 일을 하셨어요. 시각을 적어 두셨으니까요.
+TONINO: È l'unica cosa che so fare. Ogni sera, quando spengo, scrivo cosa ho spento e a che ora. ||| 내가 할 줄 아는 건 그것뿐이오. 매일 저녁 끌 때마다 뭘 껐는지, 몇 시에 껐는지 적지.
+CORRADO: Allora la sua penna rossa vale più di una bozza. ||| 그럼 당신의 빨간 펜이 초안 한 부보다 값어치가 있군요.
+TONINO: E me lo mettete per iscritto? ||| 그걸 서면으로 남겨 주겠소?
+CORRADO: Lo metteremo a verbale, con la sua firma e la sua ora. ||| 조서에 당신의 서명과 시각을 넣어 남기겠습니다.
++ scaletta = (행사·방송의) 진행 순서표, 큐시트
++ tocca a + 인물 = ~가 할 차례다 (Tocca al rappresentante di ciascun paese)
++ non lo so con precisione = 정확히는 모른다. con precisione = 정확하게
++ di sotto / di sopra = 아래에서 / 위에서 (건물 안에서 층을 가리킬 때)
++ il dottore che parla con le mani = 손으로 말하는 박사. 이탈리아인의 몸짓 소통을 놀리는 말
++ mettere a verbale = 조서에 기록하다, 정식 기록으로 남기다
++ le luci si accendono dopo il testo = 조명은 문서가 나온 뒤에 켜진다. 즉 문서 변경이 먼저라는 논리
++ 4 4 7 1 = 전화번호 끝자리는 숫자 하나씩 끊어 읽는 것이 보통
+
+## 배의 조각 — LA NAVE DI TESEO
+LEO: Papà, hai la faccia di quando perdi alle bocce. Cosa è successo? ||| 아빠, 보치아에서 졌을 때 얼굴이네. 무슨 일 있었어?
+CORRADO: Non posso dirti i dettagli, Leo. Ma ti faccio una domanda: se togli un pezzo da un contratto, è ancora lo stesso contratto? ||| 자세한 얘기는 못 해, 레오. 하지만 질문 하나 할게. 계약서에서 한 조항을 빼면 그건 여전히 같은 계약서일까?
+LEO: È la nave di Teseo. ||| 테세우스의 배네.
+CORRADO: La nave di Teseo? ||| 테세우스의 배?
+LEO: L'abbiamo fatta in filosofia. Gli ateniesi sostituivano una per una le assi della nave. Alla fine nessuna asse era originale. Era ancora la stessa nave? ||| 철학 시간에 했어. 아테네 사람들이 배의 널빤지를 하나씩 갈아 끼웠어. 결국 원래 널빤지는 하나도 남지 않았지. 그래도 같은 배일까?
+CORRADO: E tu cosa rispondi? ||| 넌 뭐라고 답하는데?
+LEO: Dipende da chi ha il diritto di cambiare le assi. Se le cambia l'equipaggio, è la stessa nave. Se le cambia un ladro di notte, no. ||| 널빤지를 바꿀 권리가 누구한테 있느냐에 달렸어. 선원들이 바꾸면 같은 배고, 밤에 도둑이 바꾸면 아니야.
+CORRADO: Mi stai dando la risposta senza saperlo. ||| 너는 모르는 새에 나한테 답을 주고 있구나.
+LEO: Lo so, papà. Lo faccio apposta. ||| 알아, 아빠. 일부러 그러는 거야.
+GIULIA: Buonasera! Scusate, ho suonato ma non mi sentivate. ||| 안녕하세요! 죄송해요, 벨을 눌렀는데 못 들으셨나 봐요.
+CORRADO: Giulia, entra. Leo, apparecchia per tre. ||| 조울리아, 들어와요. 레오, 세 사람 상 차려라.
+LEO: Spaghetti alle vongole? ||| 봉골레 스파게티?
+CORRADO: Con quello che ci resta in frigo: pasta e aglio. Aglio, olio e peperoncino. ||| 냉장고에 남은 걸로 해야지. 마늘 파스타. 마늘, 올리브유, 고추.
+GIULIA: Ho il numero. Finisce con 4471, quello fotografato da Tonino. Appartiene a una linea intestata a uno studio che si chiama «Ferretti e Associati». ||| 번호 알아냈어요. 토니노 씨가 찍어 둔 4471로 끝나는 번호요. '페레티 앤드 어소시에이티'라는 법률 사무소 명의 회선이에요.
+CORRADO: E che fa questo studio? ||| 그 사무소가 뭘 하는데요?
+GIULIA: Ha un solo grande cliente, a quanto leggo dal registro delle imprese. Ma non posso ancora dirti il nome. Lunedì notte ha chiesto alla segreteria del comitato un accesso agli allegati. ||| 기업 등기부를 보면 큰 고객이 하나뿐이에요. 하지만 아직 이름은 말할 수 없어요. 월요일 밤에 조직위 사무국에 부속서 열람을 요청했고요.
+CORRADO: Allegati? Quali allegati? ||| 부속서요? 무슨 부속서요?
+GIULIA: Nell'indice del Patto ci sono gli allegati A, B e C. Il C è definito «riservato», sei pagine, e non compare nel fascicolo pubblico. ||| 협정 목차에는 부속서 A, B, C가 있어요. C는 '기밀'로 되어 있고 6쪽인데, 공개 철에는 안 나와요.
+CORRADO: Sei pagine che nessuno ha mai letto ad alta voce. ||| 아무도 소리 내어 읽은 적 없는 여섯 쪽이군요.
+GIULIA: Esatto. E domani il Segretario vuole sapere chi li ha toccati. ||| 맞아요. 그리고 내일 총장님이 누가 건드렸는지 알고 싶어 하세요.
+SANDRI: Si può entrare in una casa dove si parla di allegati riservati senza essere invitati? ||| 기밀 부속서를 이야기하는 집에 초대받지 않고 들어가도 되나?
+CORRADO: Eccellenza! Leo, un altro piatto: è arrivato l'ospite d'onore. ||| 대사님! 레오, 접시 하나 더. 귀빈이 오셨다.
+SANDRI: Ho sentito l'odore dell'aglio dal portone. Un diplomatico di vecchia scuola non sbaglia mai l'indirizzo. ||| 현관에서부터 마늘 냄새가 나더군. 구식 외교관은 주소를 틀리는 법이 없지.
+LEO: Ambasciatore, ci racconta una storia di trattati? ||| 대사님, 75년에 오시모에 계셨잖아요. 이야기 하나 해 주실래요?
+SANDRI: Osimo è un'altra sera. Stasera parlo di Roma, del '57. Il mio vecchio maestro, che allora era un giovane segretario, mi raccontò di un'ultima notte prima della firma. ||| 오시모는 다른 날 밤에 하고, 오늘은 1957년 로마 이야기를 하지. 그때 젊은 서기관이었던 내 스승이 서명 전날 밤 이야기를 해 주셨어.
+LEO: Cosa successe? ||| 무슨 일이 있었는데요?
+SANDRI: I testi erano pronti, ma restavano le virgole. Delegati di sei paesi in una sala del Campidoglio, e ognuno voleva ancora una parola in più. Il capo del cerimoniale ordinò caffè per tutti. ||| 텍스트는 다 준비됐는데 쉼표가 남아 있었어. 여섯 나라 대표가 캄피돌리오의 한 홀에 모였는데, 저마다 단어 하나씩을 더 얹고 싶어 했지. 의전관이 모두에게 커피를 시켰어.
+LEO: E poi? ||| 그다음엔요?
+SANDRI: Il maestro mi disse: «Vittorio, un trattato non si regge sulle parole belle, ma sulle parole che si possono contare». Dodici anni, tre tappe, quattro punti per tappa. Il calendario è la parte dove nessuno può barare. ||| 스승이 말했어. '비토리오, 조약은 아름다운 말로 버티는 게 아니라 셀 수 있는 말로 버티는 거야.' 12년, 세 단계, 단계마다 네 가지 항목. 일정표는 아무도 속일 수 없는 부분이지.
+GIULIA: Il nostro quattordici era il calendario del Patto. ||| 우리 14조가 바로 협정의 일정표였어요.
+SANDRI: Appunto. Chi vuole svuotare un trattato non ne cambia il titolo: gli toglie le date. ||| 바로 그거야. 조약을 비우고 싶은 사람은 제목을 바꾸지 않아. 날짜를 빼지.
+CORRADO: Eccellenza, la nostra regola è sempre stata una: a tavola si promette, a tavola si paga. ||| 대사님, 우리의 규칙은 늘 하나였지요. 식탁에서 약속하고, 식탁에서 갚는다.
+SANDRI: E allora, ragazzo mio, a tavola ci siamo. Tocca a te mettere il conto sul tavolo. ||| 그럼 이 사람아, 식탁에는 앉았으니 이제 계산서를 올려놓는 건 자네 몫이야.
+LEO: Papà, la pasta è pronta. E l'aglio si sta bruciando. ||| 아빠, 파스타 다 됐어. 그런데 마늘이 타고 있어.
+CORRADO: Mamma mia! Salvate l'aglio! ||| 맙소사! 마늘 구해!
++ la nave di Teseo = 테세우스의 배. 부품을 모두 바꿔도 같은 배인가를 묻는 철학 역설
++ Dipende da chi ha il diritto di... = ~할 권리가 누구에게 있는지에 달렸다
++ fare apposta = 일부러 하다 (Lo faccio apposta)
++ aglio, olio e peperoncino = 마늘·올리브유·고추 파스타. '냉장고가 비었을 때'의 로마 사람들 비상 메뉴
++ a quanto leggo = 내가 읽은 바로는 (근거를 대는 삽입구)
++ di vecchia scuola = 구식 교육을 받은, 전통을 지키는
++ barare = 속임수를 쓰다, 반칙하다. 일정표는 속임수의 여지가 가장 적은 부분
++ a tavola si promette, a tavola si paga = 식탁에서 약속하고 식탁에서 갚는다. 시리즈의 모토
++ Mamma mia! = 맙소사! (놀람·당황의 감탄. 탄 마늘 앞에서 외교관도 평범한 이탈리아인이 된다)

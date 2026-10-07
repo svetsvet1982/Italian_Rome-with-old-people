@@ -1,0 +1,225 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 4
+@title La Venere di Tarsia
+@ko 타르시아의 베누스
+@setting 월요일 아침 파르네지나 → 낮 로마 고고학 박물관 별관(Annesso) → 저녁 보치아 클럽 → 밤 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast SAADI | 타르시아 장관, 대표단장
+@cast BRUNI | 박물관 별관 책임 큐레이터 도티사 브루니, 50세
+@cast NADIA | 타르시아 국립박물관 큐레이터 나디아 하다드, 45세
+@cast SARTORELLI | 타르시아의 라틴어 명문 학자 사르토렐리 교수, 81세
+@cast IDRIS | 타르시아 대표단 통역 이드리스, 72세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast ERCOLE | 테스타초 보치아 클럽 노인
+@cast PEPPINO | 테스타초 보치아 클럽 노인
+@cast CONCETTA | 노나 콘체타, 보치아 클럽의 최고령 여성
+@cast LEO | 란차의 아들, 16세
+@note B사건(4~6화)의 첫 화입니다. 타르시아가 로마의 박물관 별관에 있는 로마 시대 대리석 '베누스 상'(높이 약 1.8m, 1927년 마르사 베이다 항만 공사에서 발굴, 1928년 수출 허가로 로마 이송)의 반환을 요구합니다. 받침의 라틴어 명문이 열쇠입니다. VENERI CAELESTI AVG(VSTAE) / C IVLIVS PROCVLVS DEC(VRIO) ET CIVES COL(ONIAE) TARSIAE / SVA PECVNIA POSVERVNT / L D D D(= locus datus decreto decurionum). '천상의 베누스에게, 타르시아 식민시의 의원 가이우스 율리우스 프로쿨루스와 시민들이 사비로 봉헌했고, 자리는 의원회의 결의로 주어졌다'는 뜻입니다. 즉 상은 국가가 아니라 '시민(cives)'이라는 공동체의 선물이었다는 논거입니다. 역사 논거는 1815년 카노바(Canova)의 협상입니다. 교황 비오 7세의 사절로 파리에 간 카노바는 나폴레옹 시기에 이탈리아에서 가져간 작품들의 반환을 주장했고, 피렌체의 '메디치의 베누스'도 그해 돌아왔습니다(세부는 일반화). 어휘는 문화재·소유권(restituzione, reperto, provenienza, licenza di esportazione, iscrizione)과 가정법 과거(se + 접속법 반과거, condizionale)에 주목하세요.
+@next 3-5 «밤의 박물관» — 큐레이터 두 사람이 수장고에서 비공식으로 만나고, 장갑에 묻은 먼지가 상의 비밀로 이어집니다.
+
+## 편지 한 통 — LA LETTERA
+ORSOLINI: È arrivata la nota verbale di Tarsia. Una pagina, quattro righe. Leggi tu. ||| 타르시아의 구상서가 도착했어요. 한 장에 네 줄입니다. 당신이 읽어요.
+CORRADO: «La Repubblica di Tarsia chiede la restituzione della statua marmorea nota come "Venere di Tarsia", custodita presso l'Annesso del Museo Archeologico Nazionale di Roma. Si dichiara disponibile a un dialogo bilaterale entro novanta giorni.» ||| '타르시아 공화국은 로마 국립 고고학 박물관 별관에 보관된 "타르시아의 베누스"로 알려진 대리석 상의 반환을 요청한다. 90일 안에 양자 대화에 응할 용의가 있다.'
+GIULIA: Quattro righe, ma con una parola chiave: «disponibile». Non c'è nessun ultimatum. ||| 네 줄이지만 핵심 단어는 '용의'예요. 최후통첩은 없어요.
+ORSOLINI: È più pericoloso così. Un ultimatum si respinge. Una disponibilità bisogna meritarla. ||| 그래서 더 위험합니다. 최후통첩은 거절하면 되지만, 용의에는 응답할 자격을 얻어야 하니까요.
+CORRADO: Segretario... Luca, se restituiamo questa statua, apriamo la porta? ||| 총장님… 루카, 이 상을 돌려주면 문을 여는 걸까요?
+ORSOLINI: La apriamo e la scardiniamo. Nei musei italiani ci sono migliaia di reperti di provenienza mediterranea. Se oggi restituiamo una Venere, domani qualcuno chiede una colonna. ||| 열고, 아예 경첩까지 뽑게 되죠. 이탈리아 박물관에는 지중해 출토 유물이 수천 점입니다. 오늘 베누스를 돌려주면 내일은 누가 기둥을 요구할 겁니다.
+CORRADO: E se non restituiamo, il ministro Saadi torna a casa con una statua in meno e un rancore in più. ||| 돌려주지 않으면 사아디 장관은 조각상 하나를 못 얻고 원한 하나를 얻어 돌아가겠죠.
+ORSOLINI: Dimmi cosa sappiamo, Giulia. ||| 우리가 아는 걸 말해 줘요, 조울리아.
+GIULIA: Allora. Altezza un metro e ottantasei, marmo, età antonina, seconda metà del secondo secolo dopo Cristo. Scoperta nel 1927 durante i lavori del bacino portuale di Marsa Beida. ||| 자, 높이 1미터 86센티, 대리석, 안토니누스 시대, 서기 2세기 후반이에요. 1927년 마르사 베이다 항만 공사 중에 발견됐고요.
+CORRADO: Quindi trovata dagli operai del porto, non dagli archeologi. ||| 그러니까 고고학자들이 아니라 항만 인부들이 찾았군요.
+GIULIA: Sì. Licenza di esportazione numero trecentoundici, rilasciata nel 1928 dall'amministrazione di allora. Dal 1931 è nell'Annesso, in una sala con una targa di donatori. ||| 네. 1928년 당시 행정 당국이 발급한 수출 허가 311호가 있고요. 1931년부터 별관의 한 홀에 있어요. 기부자 명판이 붙은 방이에요.
+CORRADO: Che donatori? ||| 어떤 기부자요?
+GIULIA: Ultima ristrutturazione, sette anni fa: «Sala della Venere, climatizzazione donata dalla Fondazione Leonardo per le Arti e il Mediterraneo». ||| 7년 전 마지막 보수 때 일이에요. '베누스의 방, 공조 시설은 지중해와 예술을 위한 레오나르도 재단 기증'이라고 되어 있어요.
+ORSOLINI: Di nuovo quel nome. Possibile che sia una coincidenza? ||| 또 그 이름이군요. 우연일 수 있을까요?
+CORRADO: Non so ancora. Ma una fondazione che climatizza una statua ha un interesse nel fatto che la statua resti dov'è. ||| 아직은 모릅니다. 하지만 조각상에 공조 시설을 대 준 재단이라면 상이 있던 자리에 남기를 바라는 이해관계가 있겠지요.
+GIULIA: O nel fatto che la statua sia ben conservata, ovunque vada. ||| 아니면 어디로 가든 상태가 잘 보존되기를 바라는 걸 수도 있고요.
+CORRADO: Giulia, tu sei più generosa di me. ||| 조울리아, 당신이 저보다 너그럽군요.
+GIULIA: Io sono di Bologna. Ci fidiamo, ma verifichiamo. ||| 전 볼로냐 출신이에요. 믿되 확인하죠.
+ORSOLINI: Qual è il piano? ||| 계획은 뭡니까?
+CORRADO: Andiamo a vederla. Con la curatrice italiana e con i tarsiani, insieme, davanti alla base. Non voglio parlare di una statua che non ho mai guardato in faccia. ||| 가서 봅시다. 이탈리아 큐레이터와 타르시아 측이 같이, 받침 앞에서요. 얼굴을 한 번도 본 적 없는 조각상을 놓고 말하고 싶지 않습니다.
+ORSOLINI: Il ministro Saadi sarà a Roma fino a giovedì. Ha chiesto un incontro all'Annesso, alle undici. ||| 사아디 장관은 목요일까지 로마에 있습니다. 11시에 별관에서 만나자고 요청했어요.
+CORRADO: Allora ci vediamo là. ||| 그럼 거기서 보죠.
+ORSOLINI: Corrado, un'ultima cosa. Il precedente: se mai dobbiamo cedere, non lo facciamo per paura del precedente. Lo facciamo per una ragione. ||| 코라도, 마지막으로 하나. 선례 문제입니다. 혹시 양보해야 한다면 선례가 두려워서 하지 않고, 이유가 있어서 합니다.
+CORRADO: Una ragione scritta nella pietra. ||| 돌에 쓰인 이유겠지요.
+ORSOLINI: Non fare il poeta alle nove del mattino. ||| 아침 9시부터 시인 노릇은 하지 말아요.
++ nota verbale = 구상서, 외교 공한. 서명 없이 외교 기관이 발송하는 공식 문서
++ scardinare = 경첩에서 떼어 내다, 체제를 흔들어 무너뜨리다 (aprire와 짝을 이루는 과장 표현)
++ reperto = 출토품, 유물
++ licenza di esportazione = 수출 허가증. 반환 분쟁에서 합법성의 근거로 자주 제시됨
++ età antonina = 안토니누스 시대. 서기 2세기 후반 로마 제정 황금기
++ Ci fidiamo, ma verifichiamo = 믿되 확인한다 (볼로냐 출신 조울리아의 기질)
++ Non fare il poeta = 시인 흉내 내지 마라 (비유적 표현을 자제하라는 핀잔)
++ Se restituiamo... apriamo = se + 직설법 현재(현실적 가정). 비현실 가정은 se + 접속법 반과거 + 조건법
+
+## 받침의 글자 — LA BASE
+BRUNI: Dottor Lanza, ministro Saadi, benvenuti all'Annesso. Mi chiamo Livia Bruni, sono la responsabile della sala. Lei, dottoressa Haddad, ci siamo già scritte. ||| 란차 박사님, 사아디 장관님, 별관에 오신 걸 환영합니다. 저는 리비아 브루니, 이 방 책임자입니다. 하다드 박사님과는 이미 서신을 나눴지요.
+NADIA: Nadia Haddad, Museo Nazionale di Marsa Beida. Dottoressa Bruni, per quindici anni ho studiato questa statua solo nelle fotografie. ||| 마르사 베이다 국립박물관의 나디아 하다드입니다. 브루니 박사님, 저는 15년 동안 이 조각상을 사진으로만 연구했어요.
+BRUNI: Allora la saluti. È lì. ||| 그럼 인사하세요. 저기 있습니다.
+NADIA: ...È più alta di quanto pensassi. ||| …생각보다 키가 크네요.
+SAADI: Ha un'aria triste. ||| 슬픈 표정이군요.
+BRUNI: Ha un'aria concentrata. È il restauro del 1931: le palpebre sono state ritoccate. ||| 집중한 표정이에요. 1931년 복원 때 눈꺼풀을 손봤거든요.
+CORRADO: Professor Sartorelli, lei che è con noi... ||| 사르토렐리 교수님, 함께 계시니까…
+SARTORELLI: Mi chiamano professore perché ho ottantun anni, dottor Lanza. In realtà ho solo insegnato latino per quarant'anni a ragazzi che avevano altri progetti. ||| 81살이라 교수라고 불러 주는 겁니다, 란차 박사님. 사실 40년 동안 딴 계획을 가진 아이들에게 라틴어를 가르쳤을 뿐이에요.
+IDRIS: Il professor Sartorelli è nato a Marsa Beida da una famiglia italiana che non è mai ripartita. Io sono stato suo allievo. Settantadue anni, e ancora ascolto. ||| 사르토렐리 교수님은 마르사 베이다에서 이탈리아 가족의 아들로 태어나셨고, 그 가족은 한 번도 떠난 적이 없습니다. 저는 교수님의 제자였고요. 일흔두 살인데도 여전히 듣습니다.
+SARTORELLI: Idris traduce anche quando non serve. Una vecchia abitudine di chi ha tradotto per i potenti. ||| 이드리스는 필요 없을 때도 통역을 한다오. 권력자들을 위해 통역하던 사람의 오랜 버릇이지.
+CORRADO: Professore, ci legga la base. ||| 교수님, 받침을 읽어 주십시오.
+SARTORELLI: Mi servono gli occhiali. Anzi, anche una lampada. ||| 안경이 필요하군요. 아니, 조명도요.
+BRUNI: La accendo. ||| 켜 드리겠습니다.
+SARTORELLI: Allora. Prima riga: «VENERI CAELESTI AVG». ||| 자. 첫 줄. '베네리 카엘레스티 아우그'.
+IDRIS: «A Venere Celeste Augusta.» ||| '천상의 베누스 아우구스타께.'
+SARTORELLI: Seconda riga: «C IVLIVS PROCVLVS DEC». Gaio Giulio Proculo, decurione. Un consigliere della colonia. ||| 둘째 줄. '가이우스 율리우스 프로쿨루스 의원'. 식민시 의회 의원입니다.
+SARTORELLI: Terza riga: «ET CIVES COL TARSIAE». E i cittadini della colonia di Tarsia. ||| 셋째 줄. '그리고 타르시아 식민시의 시민들'.
+CORRADO: «E i cittadini.» Professore, la ripeta. ||| '그리고 시민들'이라. 교수님, 다시 한 번 말씀해 주십시오.
+SARTORELLI: «Et cives». Cioè non solo il decurione: la comunità dei cittadini. ||| '에트 키베스'. 의원 한 사람만이 아니라 시민 공동체라는 뜻이죠.
+NADIA: Quarta riga? ||| 넷째 줄은요?
+SARTORELLI: «SVA PECVNIA POSVERVNT»: «con i propri denari posero». Quinta e ultima: «L D D D». ||| '수아 페쿠니아 포수에룬트', 곧 자기 돈으로 세웠다. 다섯째, 마지막 줄은 'L D D D'입니다.
+CORRADO: Una sigla? ||| 약어입니까?
+SARTORELLI: Una formula. «Locus datus decreto decurionum»: luogo dato per decreto dei consiglieri. ||| 공식 문구예요. '로쿠스 다투스 데크레토 데쿠리오눔', 의원들의 결의로 주어진 자리라는 뜻입니다.
+BRUNI: Una formula che si trova in tutte le colonie dell'impero. ||| 제국 전체 식민시 어디서나 볼 수 있는 문구입니다.
+SAADI: Dottor Lanza, mi traduca lei in due frasi: cosa dice questa pietra? ||| 란차 박사님, 두 문장으로 옮겨 주십시오. 이 돌은 뭐라고 말합니까?
+CORRADO: Dice che la statua non è stata un dono di un imperatore. È stata un dono dei cittadini di un luogo preciso, e quel luogo ha dato lo spazio per metterla. ||| 이 상이 황제의 선물이 아니라 특정한 장소 시민들의 선물이라는 겁니다. 그리고 그 장소가 세울 자리를 내주었다고요.
+SAADI: Cioè è nostra. ||| 그러니까 우리 것이군요.
+BRUNI: Mi permetta, ministro: la pietra non dice «per sempre». E la licenza del 1928 è un atto firmato. ||| 말씀드리자면 장관님, 돌에는 '영원히'라고 쓰여 있지 않습니다. 그리고 1928년 허가증은 서명된 문서고요.
+NADIA: Firmato da un'amministrazione che non ci chiese il parere dei cittadini. Il decreto dei decurioni lo avevamo noi. ||| 시민들의 의견을 묻지 않은 행정 당국이 서명한 거죠. 의원 결의는 우리 쪽에 있었고요.
+BRUNI: Il diritto del 1928 non è il diritto di oggi, ma è comunque il diritto che c'era. ||| 1928년의 법은 오늘의 법이 아니지만, 그래도 당시에 있던 법입니다.
+CORRADO: Dottoressa Bruni, dottoressa Haddad, qualcosa mi dice che avete ragione tutte e due. ||| 브루니 박사님, 하다드 박사님, 두 분 다 옳다는 느낌이 듭니다.
+NADIA: In una disputa su una statua non si ha ragione in due. ||| 조각상 분쟁에서 둘 다 옳을 수는 없어요.
+CORRADO: Si può. Se si cambia la domanda: non «di chi è la Venere?», ma «per chi è stata posta?» ||| 가능합니다. 질문을 바꾸면요. '베누스는 누구 것인가'가 아니라 '누구를 위해 세워졌는가'로요.
+SARTORELLI: Per i cives. Per chi guardava e pregava. ||| 시민들을 위해서죠. 바라보고 기도하던 사람들을 위해서요.
+CORRADO: E oggi chi guarda e prega in questa sala? ||| 그럼 오늘 이 방에서 바라보고 기도하는 사람은 누굽니까?
+BRUNI: Studenti, turisti. Qualche anziano che passa a salutarla. ||| 학생들, 관광객들. 인사하러 오는 노인 몇 분이요.
+NADIA: A Marsa Beida, ogni anno, il giorno della festa del porto, i vecchi mettono un fiore sul podio vuoto del tempio. Un podio vuoto, dottor Lanza. ||| 마르사 베이다에서는 해마다 항구 축제 날 노인들이 신전의 빈 단 위에 꽃을 놓습니다. 빈 단이에요, 란차 박사님.
+CORRADO: Un podio vuoto? ||| 빈 단이요?
+NADIA: Dal 1928 l'impronta dei suoi piedi è rimasta sul marmo. Nessuno ha più riempito quel vuoto. ||| 1928년부터 여신의 발자국이 대리석 위에 남아 있었어요. 그 빈자리를 아무도 다시 채우지 못했고요.
+SAADI: Anche mia madre ci portava un fiore. ||| 제 어머니도 꽃을 가져가곤 하셨습니다.
+BRUNI: Ministro, io non sono una politica: sono una curatrice. Questa statua non l'ho scelta, la custodisco. E la custodisco bene. ||| 장관님, 저는 정치인이 아니라 큐레이터입니다. 이 조각상은 제가 고른 게 아니라 지키는 것이고, 잘 지키고 있습니다.
+SAADI: Non lo metto in dubbio, dottoressa. Metto in dubbio la distanza. ||| 의심하지 않습니다, 박사님. 의심하는 건 거리입니다.
++ decurione = (로마 식민시의) 시의회 의원. dec. = decurio
++ et cives = 그리고 시민들. 비문에서 '공동체'를 가리키는 핵심 구절
++ sua pecunia = 자기 돈으로(사비로). 봉헌 비문의 관용 문구
++ locus datus decreto decurionum (L D D D) = 의원들의 결의로 주어진 자리. 로마 비문의 표준 약어
++ mi permetta / Mi traduca lei = Lei 명령형(permettere, tradurre)의 정중한 요청
++ ci siamo già scritte = (여성 둘이) 이미 서신을 나눴다. 재귀 복수 과거분사는 주어의 성에 일치해 -e로 끝남
++ in una disputa non si ha ragione in due = 분쟁에서는 둘이 다 옳을 수 없다. avere ragione = 옳다
++ si può = 가능하다. 질문을 바꾸면(Se si cambia la domanda) 해법이 보인다는 전환의 순간
++ basamento / piedistallo / podio = 받침대, 대좌, (신전의) 단. 여기서는 상이 있던 빈 자리
+## 보치아 공 — LA BOCCIA DI ERCOLE
+ERCOLE: Corrado, siediti qui accanto a me, che ti racconto una cosa mentre Peppino sbaglia il tiro. ||| 코라도, 내 옆에 앉아라. 페피노가 헛던지는 동안 얘기 하나 해 줄게.
+PEPPINO: Non ho sbagliato. È la boccia che ha cambiato idea. ||| 안 틀렸어. 공이 마음을 바꾼 거지.
+ERCOLE: Questa boccia, vedi, era di mio padre. L'ha tirata per trent'anni. Poi un giorno l'ho prestata a Peppino per una partita. ||| 이 공 말이다, 우리 아버지 거였어. 30년을 던지셨지. 그러다 하루는 페피노한테 한 판 하라고 빌려줬어.
+PEPPINO: E sono passati quarant'anni. ||| 그리고 40년이 지났지.
+ERCOLE: Quarant'anni, e questa boccia è sempre sulla mensola di casa sua. Di chi è? ||| 40년이야, 그런데 이 공은 내내 이 사람 집 선반에 있었어. 누구 거냐?
+CORRADO: Se la domanda è di chi è... di suo padre. ||| 누구 거냐고 물으시면… 아버님 거지요.
+ERCOLE: Sì. Ma chi l'ha tirata di più negli ultimi quarant'anni? ||| 그래. 하지만 지난 40년간 더 많이 던진 사람은 누구냐?
+CORRADO: Peppino. ||| 페피노 씨요.
+ERCOLE: E allora? ||| 그럼?
+PEPPINO: Allora ci siamo messi d'accordo. Un anno lui la tiene a casa mia, un anno io la porto a casa sua. La boccia gira. ||| 그래서 우린 합의를 봤지. 한 해는 내가 그 집에 가져다 두고, 한 해는 이 사람이 우리 집에서 가져가. 공이 돌아가는 거야.
+CORRADO: E litigate? ||| 그래서 안 싸우세요?
+PEPPINO: Litighiamo di più quando la boccia è ferma. ||| 공이 가만히 있을 때 더 싸우지.
+CONCETTA: Corrado, una cosa tolta si restituisce con le mani, non con le carte. Chi rende con la mano sinistra e prende con la destra non ha capito niente. ||| 코라도, 빼앗은 건 손으로 돌려주는 거지 서류로 돌려주는 게 아니야. 왼손으로 주고 오른손으로 받는 사람은 아무것도 모르는 거란다.
+CORRADO: Nonna, ma se la restituiamo tutta, domani ce ne chiedono altre mille. ||| 할머니, 하지만 전부 돌려주면 내일 천 개를 더 달라고 할 텐데요.
+CONCETTA: Ti hanno mai chiesto mille bocce? ||| 공 천 개를 달라고 한 사람이 있었니?
+CORRADO: No. ||| 아뇨.
+CONCETTA: Perché la boccia la chiedi a chi ti vuole bene. Gli altri li prendi in giro. ||| 공은 널 아끼는 사람한테 달라고 하는 거야. 나머지 사람한테는 그냥 놀리는 거고.
+ERCOLE: Concetta dice che la statua la chiede uno che ci tiene. Quello che ci tiene sa aspettare. ||| 콘체타 말은, 조각상을 달라는 사람은 소중히 여기는 사람이라는 거야. 소중히 여기는 사람은 기다릴 줄 알고.
+PEPPINO: E sa anche aspettare con i fiori sul tempio. ||| 신전에 꽃을 올려 놓고 기다릴 줄도 알고.
+CORRADO: Chi vi ha detto dei fiori? ||| 꽃 이야기는 누가 했죠?
+PEPPINO: Nessuno. Ho solo immaginato che i vecchi di ogni paese mettano un fiore da qualche parte. ||| 아무도. 어느 나라 노인이든 어딘가에 꽃을 놓겠거니 해서 말해 봤지.
+CORRADO: Avete ragione, tutti e tre. Un caffè per il consiglio di saggezza? ||| 세 분 다 맞습니다. 지혜 위원회에 커피 한 잔 올릴까요?
+ERCOLE: Tre. Ma il mio con la sambuca. ||| 세 잔. 내 건 삼부카를 넣고.
++ boccia = 보치아 공. 보치아(bocce)는 이탈리아식 금속·합성수지 공 던지기 경기
++ prestare = 빌려주다 (↔ prendere in prestito 빌리다). 40년 빌려준 공이 소유권 문제의 비유가 됨
++ mensola = 벽에 단 선반
++ la boccia gira = 공이 돈다. 소유와 보관을 번갈아 하는 합의의 이미지(6화 순회 소유의 단서)
++ litigare di più quando è ferma = 가만히 있을 때 더 다툰다. 순환이 갈등을 줄이는 이치
++ prendere in giro = 놀리다, 조롱하다
++ chi ci tiene = (그것을) 소중히 여기는 사람. tenerci a = ~에 애착을 갖다
++ sambuca = 아니스 향 리큐어. 커피에 몇 방울 넣는 로마 노인들의 취향
+
+## 카노바의 이야기 — L'ESPRESSO DI CANOVA
+SANDRI: Siediti. L'espresso è pronto, non si lascia raffreddare. ||| 앉게. 에스프레소가 준비됐어, 식히지 말고.
+CORRADO: Eccellenza, mi serve una storia. ||| 대사님, 이야기가 필요합니다.
+SANDRI: Lo so. Ti racconto Canova, Parigi, 1815. ||| 알고 있네. 카노바와 1815년 파리 이야기를 해 주지.
+CORRADO: Lo scultore. ||| 조각가 말씀이시죠.
+SANDRI: Lo scultore. Il Papa Pio Settimo lo mandò a Parigi dopo che Napoleone era caduto. Missione: riportare a Roma le opere che il Direttorio e l'impero avevano portato al Louvre. ||| 그 조각가네. 교황 비오 7세가 나폴레옹이 몰락한 뒤 그를 파리로 보냈어. 임무는 총재정부와 제국이 루브르로 가져간 작품들을 로마로 되찾아 오는 것이었지.
+CORRADO: Con quale argomento? ||| 어떤 논거로요?
+SANDRI: Che un'opera d'arte è inseparabile dal luogo e dalla comunità per cui è nata. Un'idea moderna per quei tempi. I francesi rispondevano con i trattati: Tolentino, 1797. Il diritto del vincitore. ||| 예술 작품은 그것이 태어난 장소와 공동체와 떼어 놓을 수 없다는 논거였어. 당시로서는 현대적인 생각이었지. 프랑스는 조약으로 맞섰네. 1797년 톨렌티노 조약, 승자의 권리였어.
+CORRADO: E Canova vinse? ||| 카노바가 이겼습니까?
+SANDRI: Vinse l'idea, non tutta la lista. Tornarono moltissime opere, ma alcune restarono a Parigi. Lui sapeva che chi vuole tutto rischia di non riportare niente. ||| 아이디어가 이겼지, 목록 전체는 아니었어. 아주 많은 작품이 돌아왔지만 몇몇은 파리에 남았지. 전부를 원하는 사람은 아무것도 못 가져올 수 있다는 걸 그는 알았던 거야.
+CORRADO: E la Venere dei Medici? ||| 메디치의 베누스는요?
+SANDRI: Ah, bellissimo. Napoleone l'aveva portata a Parigi nel 1802. Firenze si trovò senza la sua Venere. Chiamò lo stesso Canova: «Scolpiscici una Venere nuova». Lui scolpì la Venere Italica. ||| 아, 정말 멋진 대목이지. 나폴레옹이 1802년에 파리로 가져갔고, 피렌체는 베누스 없이 남았어. 피렌체는 바로 카노바를 불렀지. '새 베누스를 조각해 주십시오'라고. 그가 〈이탈리아의 베누스〉를 조각했어.
+CORRADO: Una Venere al posto di un'altra. ||| 베누스 하나가 다른 베누스 자리에 선 거군요.
+SANDRI: Nel 1815, quando la Venere dei Medici tornò a Firenze, la Venere di Canova cambiò sala, ma rimase in città. Due dee, una città. ||| 1815년 메디치의 베누스가 피렌체로 돌아오자 카노바의 베누스는 다른 방으로 옮겼지만 도시에 남았어. 여신 둘에 도시 하나였네.
+CORRADO: Eccellenza, non posso dire che sia lo stesso caso. ||| 대사님, 같은 사례라고 하긴 어렵습니다.
+SANDRI: No. Ma ha tre insegnamenti. Primo: il principio si afferma, e Canova lo affermò davanti a un impero. Secondo: nessuno vince tutto. Terzo: una statua può restare a casa in due modi. ||| 아니지. 하지만 교훈이 셋 있네. 첫째, 원칙은 천명하는 것이고 카노바는 제국 앞에서 그것을 천명했어. 둘째, 아무도 모든 걸 이기지 못해. 셋째, 조각상은 두 가지 방식으로 제자리에 있을 수 있어.
+CORRADO: Quali due modi? ||| 어떤 두 가지 방식이죠?
+SANDRI: Con il corpo e con la copia. Una sta nel luogo, l'altra nel cuore. Venezia, quando riebbe i cavalli di bronzo, ne fece mettere le copie sulla facciata. Gli originali al coperto, dove non piove. ||| 몸으로 그리고 사본으로. 하나는 자리에, 하나는 마음에. 베네치아는 청동 말을 되찾았을 때 정면에는 사본을 세웠어. 진품은 비 오지 않는 실내에 두고.
+CORRADO: Questa storia dei cavalli, Eccellenza, la vorrei sentire intera. ||| 대사님, 그 말 이야기를 전부 듣고 싶습니다.
+SANDRI: Un'altra sera, quando avrai dormito. Questa sera finisci l'espresso. ||| 다른 날 저녁에, 자네가 자고 나서 해 주지. 오늘 저녁은 에스프레소나 마저 마시게.
+CORRADO: Eccellenza, la regola del caffè è: se lo bevo freddo, perdo l'argomento. ||| 대사님, 커피의 규칙은 이렇습니다. 식은 채로 마시면 논거를 잃는다는 거죠.
+SANDRI: Brava la regola. Prima che l'argomento si freddi, scrivi. Una cosa sola, poche righe, per Orsolini. ||| 훌륭한 규칙이군. 논거가 식기 전에 쓰게. 한 가지만, 몇 줄로, 오르솔리니에게.
+CORRADO: Scrivo: «Principio: la statua è stata posta da una comunità. Non si risponde con il diritto del vincitore, ma con il diritto di chi guarda». ||| 이렇게 쓰겠습니다. '원칙: 상은 한 공동체가 세운 것이다. 승자의 권리가 아니라 바라보는 사람의 권리로 답한다'.
+SANDRI: Aggiungi: «Soluzione: né tutta né niente». ||| 덧붙이게. '해법: 전부도 아니고 빈손도 아니다'.
+CORRADO: «Né tutta, né niente». Mi pare un buon titolo. ||| '전부도, 빈손도 아니다.' 좋은 제목이군요.
+SANDRI: Mi pare, anche a me. Sei sempre più simile al tuo vecchio. ||| 나도 그렇게 생각하네. 자네는 점점 이 늙은이를 닮아 가는군.
+CORRADO: La prendo come una condanna e un elogio. ||| 선고이자 찬사로 받아들이겠습니다.
+SANDRI: Ora vai. Tuo figlio ti aspetta. ||| 이제 가게. 아들이 기다리고 있어.
++ il diritto del vincitore = 승자의 권리. 전리품 논리를 가리키는 법적·역사적 표현
++ Direttorio = (프랑스) 총재정부(1795~1799)
++ Tolentino = 톨렌티노 조약(1797). 교황령이 프랑스에 많은 미술품을 내준 조약
++ Venere dei Medici / Venere Italica = 메디치의 베누스(1802년 파리로 이송, 1815년 귀환) / 카노바가 대신 조각한 〈이탈리아의 베누스〉
++ restare a casa in due modi = 두 가지 방식으로 제자리에 머문다. 진품이든 사본이든 '곁에' 둔다는 개념
++ cavalli di bronzo = (베네치아 산마르코의) 청동 말. 5화에서 자세히 나옴
++ né tutta né niente = 전부도 아니고 빈손도 아니다. 타협의 핵심 문구
++ Brava la regola = 규칙이 훌륭하다. 형용사를 앞세운 구어체 강조(Bravo + 명사)
+
+## 소유권이란 — A CHI APPARTIENE UNA STATUA
+LEO: Papà, ho una domanda per filosofia. A chi appartiene una statua? ||| 아빠, 철학 숙제 질문이야. 조각상은 누구 거야?
+CORRADO: Ottimo. È la domanda esatta della settimana. ||| 훌륭하구나. 이번 주 가장 정확한 질문이다.
+LEO: Locke dice che la proprietà nasce dal lavoro. Se mescoli il tuo lavoro con una cosa, quella cosa diventa tua. ||| 로크는 소유가 노동에서 생긴다고 해. 네 노동을 어떤 것과 섞으면 그게 네 것이 된다고.
+CORRADO: Allora, di chi è la Venere? ||| 그럼 베누스는 누구 거지?
+LEO: Dello scultore che l'ha scolpita. Ma è morto da duemila anni. ||| 조각한 조각가 거야. 근데 그분은 2천 년 전에 돌아가셨잖아.
+CORRADO: E dei cittadini che l'hanno pagata. ||| 그리고 값을 치른 시민들의 것이지.
+LEO: Anche loro sono morti. Quindi è di chi la discende? Dei tarsiani di oggi? ||| 그 사람들도 죽었고. 그럼 후손의 것이야? 지금의 타르시아 사람들?
+CORRADO: Forse. Ma chi l'ha custodita novantotto anni in una sala fresca, con la targa dei donatori e un custode che le spolvera il naso ogni mattina? ||| 아마도. 그런데 98년 동안 서늘한 방에서 기부자 명판을 달고 매일 아침 코를 닦아 주는 관리인과 함께 지킨 사람은?
+LEO: Il custode ha lavorato. Secondo Locke, qualcosa se lo guadagna. ||| 관리인이 일을 했네. 로크식으로 보면 뭔가 얻은 거야.
+CORRADO: Allora la statua ha due padroni. ||| 그럼 상에는 주인이 둘이구나.
+LEO: Se ne ha due, deve girare, come la boccia. ||| 둘이면 보치아 공처럼 돌아야 해.
+CORRADO: Leo, ma tu come sai della boccia? ||| 레오, 보치아 공 얘기는 어떻게 알았니?
+LEO: L'ho sentito da Ercole domenica scorsa, quando mi hai portato alla bocciofila. Peppino dice che la boccia gira. ||| 에르콜레 할아버지한테 지난 일요일에 들었어, 아빠가 보치아 클럽에 데려갔을 때. 페피노 할아버지가 공은 돈다고 하셨어.
+CORRADO: I tre saggi del Testaccio, la mia vera segreteria generale. ||| 테스타초의 세 현인이야말로 내 진짜 사무총국이지.
+LEO: E poi hanno aggiunto: «Non basta girare. Bisogna sapere perché gira». ||| 그리고 이렇게 덧붙이셨어. '돌기만 해서는 안 돼. 왜 도는지 알아야 해'.
+CORRADO: Giusto. Una rotazione senza motivo è solo un trasloco. ||| 맞아. 이유 없는 순환은 그냥 이사일 뿐이지.
+GIULIA: Scusate l'ora. Corrado, ti ho cercato tre volte. ||| 늦은 시간에 죄송해요. 코라도, 세 번 전화했어요.
+CORRADO: Giulia, entra. Leo, apparecchia per tre. ||| 조울리아, 들어와요. 레오, 세 사람 상 차려라.
+GIULIA: Ho letto il fascicolo del 1928 all'archivio dell'Annesso: la distinta di spedizione. ||| 별관 문서고에서 1928년 철을 읽었어요. 발송 명세서요.
+CORRADO: E? ||| 그래서?
+GIULIA: Tre casse. Cassa uno: statua, scomposta in tre parti. Cassa due: base con iscrizione. Cassa tre: «appoggio in gesso». ||| 상자가 세 개예요. 1번 상자는 셋으로 분해한 상, 2번 상자는 명문이 있는 받침, 3번 상자는 '석고 받침대'라고 쓰여 있어요.
+CORRADO: Appoggio in gesso? Per cosa? ||| 석고 받침대요? 무슨 용도죠?
+GIULIA: Non lo dice. Ma il registro d'ingresso del 1931 ha una nota a margine: «lato posteriore non rifinito, addossare al muro». ||| 거기엔 없어요. 그런데 1931년 입고 장부 여백에 이렇게 적혀 있어요. '뒷면 마감 없음, 벽에 붙일 것'.
+CORRADO: Non rifinito. Una statua romana di quel livello con la schiena non rifinita? ||| 마감 없음이라. 그 수준의 로마 조각상이 뒷면을 마감하지 않았다고요?
+GIULIA: È quello che mi sembra strano. Gli scultori romani rifinivano anche il retro, se la statua era in un tempio. ||| 저도 이상해요. 신전의 상이면 로마 조각가들은 뒷면도 마감했거든요.
+CORRADO: Chiama la dottoressa Haddad. ||| 하다드 박사님께 연락해요.
+GIULIA: L'ho già fatto. Mi ha detto una cosa. «Venite domani sera dopo la chiusura. Porto i guanti». ||| 이미 했어요. 이렇게 말하더군요. '내일 저녁 폐관 후에 오세요. 장갑을 가져갈게요'.
+LEO: Dopo la chiusura? Papà, vai di notte al museo? ||| 폐관 후? 아빠, 밤에 박물관 가는 거야?
+CORRADO: Sì, Leo. E tu a casa a studiare Locke. ||| 그래, 레오. 너는 집에서 로크를 공부하고.
+LEO: Locke lo so. Mi serve Platone, su Venere. ||| 로크는 알아. 필요한 건 베누스에 관한 플라톤이야.
+CORRADO: Platone dice che c'è una Venere celeste e una Venere volgare. ||| 플라톤은 천상의 베누스와 속세의 베누스가 있다고 하지.
+LEO: Due Veneri! ||| 베누스가 둘이라고!
+CORRADO: Due. E la nostra si chiama «Celeste». Interessante. ||| 둘이지. 그리고 우리 베누스 이름은 '카엘레스티', 천상이야. 흥미롭구나.
+LEO: Papà, hai la faccia di quello che ha trovato la chiave. ||| 아빠, 열쇠를 찾은 사람 얼굴이야.
+CORRADO: Non ancora, Leo. Ma ho trovato la serratura. ||| 아직은 아니야, 레오. 하지만 자물쇠는 찾았지.
++ appartenere a = ~에 속하다, ~의 소유다 (A chi appartiene?)
++ Locke dice che... = 로크의 노동 소유론. 레오의 철학 질문이 '관리의 노동'으로까지 확장됨
++ distinta di spedizione = 발송 명세서
++ addossare al muro = 벽에 붙여 놓다. 뒷면이 안 보이게 세운 이유의 단서
++ Venere celeste / Venere volgare = 플라톤 『향연』의 천상의 베누스(우라니아)와 속세의 베누스(판데모스)
++ trovare la serratura = 자물쇠를 찾다. 아직 열쇠는 없지만 문제의 구조는 보인다는 뜻 (시리즈의 '열쇠' 모티프)
++ Una rotazione senza motivo è solo un trasloco = 이유 없는 순환은 이사일 뿐. 순회 소유의 조건(이유가 있어야 함)
++ ti ho cercato tre volte = 세 번 널 찾았다(전화했다). cercare = 연락을 시도하다

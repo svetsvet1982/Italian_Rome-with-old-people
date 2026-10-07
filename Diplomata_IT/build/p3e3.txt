@@ -1,0 +1,237 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 3
+@title La clausola Leonardo
+@ko 레오나르도 조항
+@setting 목요일 새벽 테스타초 보치아 클럽 → 아침 파르네지나 셰르파 회의 → 빌라 마다마 → 정오 개막식 → 밤 정원 만찬
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast SAADI | 타르시아 교통·항만 장관
+@cast KOVACS | EU 대표단 수석 협상관
+@cast DELCOURT | 프랑스 셰르파, 대사급, 56세
+@cast ZAMMIT | 몰타 셰르파, 49세
+@cast PAPADAKIS | 그리스 셰르파, 60세
+@cast FERRETTI | 변호사, 법률 사무소 페레티 앤드 어소시에이티 대표, 58세
+@cast TONINO | 빌라 마다마 조명 기사, 61세
+@cast SANDRI | 은퇴 대사, 스승, 71세
+@cast ERCOLE | 테스타초 보치아 클럽 노인
+@cast PEPPINO | 테스타초 보치아 클럽 노인
+@cast CONCETTA | 노나 콘체타, 보치아 클럽의 최고령 여성
+@cast LEO | 란차의 아들, 16세
+@note 지중해 협정 개막 당일입니다. 해법의 원리는 '지우지 않고 밝힌다'입니다. 숨은 제14조(부속서 C)를 찢지도, 그대로 서명하지도 않고, 이름을 바꾸어 공개 '사업자 등록부'(제14조와 공개 부속서 D)에 올립니다. 모든 신청자가 같은 기준으로 등록할 수 있고, 레오나르도 홀딩도 알파벳 순서로 한 줄을 얻습니다. 역사 논거는 로디 평화(1454)입니다. 베네치아와 밀라노가 맺은 평화는 이어서 1455년의 이탈리아 동맹으로 넓어졌고, 이 조약들은 '아데렌티 에 라코만다티(aderenti e raccomandati, 가입·보호 대상)'를 명단으로 공개해 누구도 '나는 제외됐다'고 말할 수 없게 했습니다. 약 40년의 상대적 균형을 낳은 방식입니다(세부는 일반화). 보치아 클럽의 '순번 칠판'(lavagna)이 영감이 됩니다. 이름이 칠판에 있으면 배제되지 않고, 배제되지 않으면 불평하지 않는다는 이치입니다. 어휘는 합의·투명성(registro, ammissione, titolare effettivo, trasparenza, parità di accesso)과 접속법·조건문(a condizione che, purché, qualora)에 주목하세요.
+@next 3-4 «타르시아의 베누스» — 한 주 뒤, 타르시아가 로마의 한 박물관 별관에 있는 '베누스 상'의 반환을 요구합니다.
+
+## 새벽의 칠판 — LA LAVAGNA ALL'ALBA
+ERCOLE: Corrado? A quest'ora? Sono le sei e un quarto, la saracinesca l'ho appena alzata. ||| 코라도? 이 시간에? 6시 15분이야, 셔터를 방금 올렸는데.
+CORRADO: Non ho dormito, Ercole. E per pensare mi serve una cosa che odori di gesso e di caffè. ||| 못 잤어요, 에르콜레 씨. 생각하려면 분필과 커피 냄새가 나는 곳이 필요해요.
+ERCOLE: Il caffè lo faccio io. Il gesso lo trovi sulla lavagna. Siediti. ||| 커피는 내가 끓이마. 분필은 칠판에 있고. 앉아라.
+PEPPINO: Chi è che bussa? Ah, il dottore. Hai perso il sonno o l'hai prestato? ||| 누가 두드리나 했더니 박사님이군. 잠을 잃어버렸나, 아니면 빌려줬나?
+CORRADO: Lo avevo prestato, ma non me lo ridanno. Peppino, spiegatemi come funziona la lavagna. ||| 빌려줬는데 안 돌려주네요. 페피노 씨, 칠판이 어떻게 돌아가는지 설명해 주세요.
+PEPPINO: Semplicissimo. Chi vuole giocare scrive il nome. Il primo scritto tira per primo. ||| 아주 간단하지. 치고 싶은 사람은 이름을 써. 먼저 쓴 사람이 먼저 던지고.
+CORRADO: E se uno arriva tardi? ||| 늦게 온 사람은요?
+PEPPINO: Scrive il nome sotto gli altri. Nessuno lo manda via. ||| 다른 이름들 아래에 쓰지. 아무도 쫓아내지 않아.
+ERCOLE: Anzi, c'è una regola: sulla lavagna non si cancella. Se uno ha cambiato idea, lo barri, ma l'ombra resta. ||| 아니, 규칙이 하나 있어. 칠판에서는 지우지 않아. 마음이 바뀌었으면 줄을 긋지만 흔적은 남지.
+CORRADO: E se due giocatori sono amici dell'arbitro? ||| 선수 둘이 심판의 친구라면요?
+ERCOLE: Gli amici scrivono il nome come tutti gli altri. Alla lavagna non c'è un «nome che pesa». C'è un nome e basta. ||| 친구들도 다른 사람들처럼 이름을 써. 칠판에는 '무게 있는 이름'이 없어. 그냥 이름이 있을 뿐이야.
+CORRADO: Ercole, mi sta dicendo la soluzione senza saperlo. ||| 에르콜레 씨, 모르는 사이에 해법을 말해 주고 계세요.
+ERCOLE: Io non so niente. Io faccio il caffè. ||| 나는 아무것도 몰라. 커피를 끓일 뿐이야.
+CONCETTA: Chi è che fa rumore a quest'ora? Ah, sei tu. Eri qui anche ieri sera. Che cos'hai combinato? ||| 이 시간에 누가 소란이냐? 아, 너로구나. 어제 저녁에도 왔었지. 무슨 일을 저질렀니?
+CORRADO: Cerco di non nascondere una cosa che qualcuno aveva nascosto. ||| 누군가 숨겨 놓은 걸 안 숨기려고 하는 중이에요.
+CONCETTA: Il segreto è un debito che cresce da solo. Se lo dici subito, paghi poco. Se lo tieni, paghi con gli interessi. ||| 비밀은 혼자 불어나는 빚이야. 바로 말하면 조금만 갚고, 쥐고 있으면 이자까지 갚게 되지.
+CORRADO: Nonna, mi pare proprio una frase da mettere nel trattato. ||| 할머니, 조약에 넣어야 할 문장 같아요.
+CONCETTA: Mettila. E ricordati di scrivere anche il mio nome, sotto. ||| 넣어라. 내 이름도 아래에 적는 거 잊지 말고.
+PEPPINO: Anche il mio. In piccolo, ché sono timido. ||| 내 이름도. 작게, 내가 수줍음이 많으니까.
+ERCOLE: Tienilo bene a mente: chi sta sulla lavagna non può dire di essere stato escluso. Questa è la forza. ||| 잘 기억해라. 칠판에 있는 사람은 자기가 제외됐다고 말할 수 없어. 그게 힘이야.
+CORRADO: E quindi non mi serve un'altra segretezza. Mi serve una lavagna. ||| 그러니 제게 필요한 건 또 다른 비밀이 아니라 칠판이로군요.
+ERCOLE: Gessetto in tasca? ||| 분필은 주머니에 있나?
+CORRADO: Lo prendo. Grazie, Ercole. Siete la mia segreteria generale. ||| 가져갈게요. 고맙습니다, 에르콜레 씨. 어르신들이 제 사무총국이에요.
+PEPPINO: E a noi chi ci paga lo stipendio? ||| 그럼 우린 월급을 누가 주나?
+CORRADO: Un caffè, una pasta e patate e il mio rispetto. ||| 커피 한 잔, 감자 파스타 한 접시, 그리고 제 존경이요.
+PEPPINO: Affare fatto. ||| 거래 성사.
++ saracinesca = (가게의) 롤 셔터. alzare la saracinesca = 셔터를 올리다, 가게 문을 열다
++ gessetto = 분필 (gesso). 보치아 클럽 순번 칠판의 도구
++ lavagna = 칠판. 여기서는 '순번을 적는 명단'의 상징
++ un nome che pesa = 무게 있는 이름. 영향력 있는 사람의 이름이라는 뜻
++ è un debito che cresce da solo = 혼자 불어나는 빚이다. 시리즈 모티프 '빚(il conto/debito)'
++ pagare con gli interessi = 이자까지 쳐서 갚다 (비유적으로 '더 큰 대가를 치르다')
++ a mente = 마음속에. tenere a mente = 명심하다
++ affare fatto = 거래 성사, 합의. 보치아 노인들의 짧은 입담
+
+## 여섯 셰르파 — I SEI SHERPA
+ORSOLINI: Buongiorno, signori. Sono le sette e mezza. Vi ho convocati prima di tutti per una ragione: il quattordici. ||| 안녕하십니까, 여러분. 7시 반입니다. 여러분을 가장 먼저 소집한 이유는 14조 때문입니다.
+DELCOURT: Segretario, con tutto il rispetto: il testo è congelato da venerdì. Se lo riapriamo, apriamo il vaso di Pandora. ||| 총장님, 존중하는 마음으로 말씀드리지만 본문은 금요일부터 동결입니다. 다시 열면 판도라의 상자를 여는 겁니다.
+CORRADO: Ambasciatrice, non lo riapriamo. Lo completiamo. ||| 대사님, 다시 여는 게 아닙니다. 완성하는 겁니다.
+DELCOURT: È la stessa cosa con parole diverse. ||| 같은 말을 다른 표현으로 한 거죠.
+CORRADO: Mi permetta: ci sono due versioni delle stesse parole. Una si chiama «bozza sei», l'altra «bozza sette». Una delle due è stata modificata senza il vostro consenso. ||| 말씀드려도 될까요. 같은 문서의 판본이 둘 있습니다. 하나는 '6판', 하나는 '7판'이고, 둘 중 하나는 여러분의 동의 없이 수정됐습니다.
+ZAMMIT: A Malta si dice: se la barca ha un buco, non si discute di chi ha bucato. Si tappa. ||| 몰타에서는 배에 구멍이 났을 때 누가 뚫었는지는 따지지 않고 먼저 막는다고 합니다.
+PAPADAKIS: A Atene, invece, si discute finché la barca affonda. ||| 아테네에서는 배가 가라앉을 때까지 따지고요.
+KOVACS: Signori, non scherziamo. Ho qui la nota di discordanza firmata dall'interprete. Credo che tutti dobbiamo leggerla. ||| 여러분, 농담은 그만하시죠. 통역사가 서명한 불일치 통보서가 여기 있습니다. 모두 읽어야 한다고 봅니다.
+GIULIA: L'ho fatta stampare in sei copie, una per delegazione. Prego. ||| 여섯 부 인쇄했어요. 대표단마다 한 부씩이에요. 드세요.
+DELCOURT: «Negoziazione prioritaria» e «exclusive negotiating rights»... Non sono la stessa cosa. ||| '우선 협상'과 '독점 협상권'이라… 같은 게 아니군요.
+CORRADO: No, ambasciatrice. E a pagina sei del vecchio allegato C c'è un nome solo, in un'appendice che nessuno di voi ha mai firmato. ||| 아닙니다, 대사님. 그리고 옛 부속서 C 6쪽에는 여러분 중 누구도 서명한 적 없는 부록에 이름이 하나뿐입니다.
+PAPADAKIS: Quale nome? ||| 무슨 이름이죠?
+ORSOLINI: Leonardo Holding. ||| 레오나르도 홀딩입니다.
+ZAMMIT: Oh. Quella Leonardo. ||| 아. 그 레오나르도 말이군요.
+KOVACS: Sapete che è il maggior azionista di una società di Malta, giusto? ||| 몰타의 한 회사 최대 주주라는 건 아시지요?
+ZAMMIT: Lo so benissimo. Sono io che ho visto la loro sede a La Valletta, davanti al porto. ||| 아주 잘 압니다. 그 회사 사무실을 라 발레타 항구 앞에서 제 눈으로 봤으니까요.
+DELCOURT: Quindi cosa propone, dottor Lanza? Strappare? ||| 그래서 어떻게 하자는 겁니까, 란차 박사님? 찢자고요?
+CORRADO: No. Strappare vuol dire nascondere due volte. Propongo di fare una cosa che nel 1454 hanno fatto Venezia, Milano e Firenze. ||| 아닙니다. 찢는 건 두 번 숨기는 거예요. 1454년에 베네치아, 밀라노, 피렌체가 한 일을 하자고 제안합니다.
+DELCOURT: Lodi. ||| 로디군요.
+CORRADO: Lodi, il 9 aprile 1454. Venezia e Milano finirono una guerra lunga. Ma la vera trovata fu la lista. ||| 로디, 1454년 4월 9일이죠. 베네치아와 밀라노가 오랜 전쟁을 끝냈습니다. 하지만 진짜 묘수는 명단이었어요.
+PAPADAKIS: Quale lista? ||| 무슨 명단입니까?
+CORRADO: I trattati di allora elencavano, uno per uno, gli «aderenti e raccomandati»: gli Stati che potevano entrare nell'accordo e quelli che erano sotto protezione. Tutti scritti, in chiaro, con i loro diritti e i loro obblighi. ||| 당시 조약들은 '가입자와 보호 대상', 곧 합의에 들어올 수 있는 국가와 보호받는 국가를 하나하나 열거했습니다. 전부 명시했고, 권리와 의무까지 공개했죠.
+ZAMMIT: E questo cosa risolveva? ||| 그게 무슨 문제를 풀었습니까?
+CORRADO: Che nessuno poteva dire, dopo, «io ero fuori». Né «io non sapevo». L'anno dopo la lista diventò la Lega Italica, e per circa quarant'anni la penisola ebbe un equilibrio. ||| 나중에 '나는 빠졌다'거나 '나는 몰랐다'고 말할 수 없게 됐다는 겁니다. 이듬해 그 명단은 이탈리아 동맹이 됐고, 약 40년 동안 반도에는 균형이 있었습니다.
+ORSOLINI: E quarant'anni, in politica, sono quasi un'eternità. ||| 정치에서 40년이면 거의 영원이죠.
+CORRADO: Quindi propongo questo. L'articolo quattordici torna com'era nella bozza sei: negoziati prioritari, parità di accesso, diciotto mesi. ||| 그래서 이렇게 제안합니다. 14조는 6판 그대로 복원합니다. 우선 협상, 동등한 접근, 18개월.
+DELCOURT: E l'allegato C? ||| 부속서 C는요?
+CORRADO: Cambia nome e diventa pubblico. «Allegato D: Registro pubblico degli operatori». Ogni operatore dei sei paesi che soddisfa i requisiti scrive il proprio nome, in ordine alfabetico, con il suo titolare effettivo. ||| 이름을 바꾸고 공개로 전환합니다. '부속서 D, 사업자 공개 등록부'. 요건을 충족하는 여섯 나라 사업자는 누구든 알파벳 순서로 이름을 쓰고, 실질 소유주도 함께 적습니다.
+KOVACS: Titolare effettivo: chi sta davvero dietro la società. ||| 실질 소유주, 곧 회사 뒤에 정말로 있는 사람이죠.
+CORRADO: Esattamente. E il registro resta aperto dodici mesi: chi arriva tardi scrive sotto, come in una lavagna di bocciofila. ||| 정확합니다. 등록부는 12개월 동안 열려 있고, 늦게 오는 사람은 보치아 클럽 칠판처럼 아래에 씁니다.
+DELCOURT: Una lavagna di bocciofila. Dottor Lanza, lei porta il gesso ai summit? ||| 보치아 클럽 칠판이라니요. 란차 박사님은 정상회의에 분필을 가져오십니까?
+CORRADO: Lo porto in tasca, ambasciatrice. Non si sa mai. ||| 주머니에 넣고 다닙니다, 대사님. 모르는 일이니까요.
+ZAMMIT: Piace a Malta. Un registro chiaro è una barca senza buchi. ||| 몰타는 마음에 듭니다. 분명한 등록부는 구멍 없는 배죠.
+PAPADAKIS: Piace ad Atene, purché ognuno possa leggerlo. ||| 아테네도 좋습니다, 누구든 읽을 수 있다는 조건으로요.
+KOVACS: E all'Unione piace a condizione che il titolare effettivo sia dichiarato, non presunto. ||| 연합도 좋습니다. 실질 소유주를 추정이 아니라 신고하는 조건으로요.
+DELCOURT: La Francia riserva il voto fino alla riunione con il ministro Saadi, alle nove. ||| 프랑스는 아홉 시 사아디 장관과의 회의 때까지 표결을 유보합니다.
+ORSOLINI: Accolta la riserva. Corrado, a Villa Madama alle nove. Porta il gesso. ||| 유보 수용. 코라도, 9시에 빌라 마다마로. 분필 가져와요.
++ vaso di Pandora = 판도라의 상자. 한번 열면 통제할 수 없다는 비유
++ con tutto il rispetto = 존중하는 마음으로 말씀드리지만 (반대 의견 앞에 붙이는 정중한 서두)
++ mi permetta = 말씀드려도 되겠습니까 (Lei 형식의 양해 구하기)
++ tappare / bucare = 막다 / 구멍 내다. 몰타 셰르파의 뱃사람식 비유
++ aderenti e raccomandati = (15세기 이탈리아 조약의) 가입자와 보호 대상. 조약에 명단으로 열거되던 제3국
++ la Lega Italica = 이탈리아 동맹(1455). 로디 평화를 이어 베네치아·밀라노·피렌체 등이 맺은 균형 체제
++ titolare effettivo = 실질 소유주(법인 뒤의 최종 소유자). 투명성 규정의 핵심 용어
++ a condizione che + 접속법 / purché + 접속법 = ~라는 조건으로 (a condizione che sia dichiarato)
+## 사아디 장관과 변호사 — IL MINISTRO E L'AVVOCATO
+SAADI: Dottor Lanza. Sono le nove e un minuto. Ho aspettato un minuto, come un uomo educato. ||| 란차 박사님. 9시 1분입니다. 예의 바른 사람답게 1분을 기다렸습니다.
+CORRADO: Ministro, grazie di essere venuto di persona. Posso presentarle il rimedio? ||| 장관님, 직접 와 주셔서 감사합니다. 해법을 보여 드려도 되겠습니까?
+SAADI: Lo mostri. ||| 보여 주십시오.
+CORRADO: Articolo quattordici, ripristinato come nella bozza sei. Allegato C, che era riservato, cambia nome e diventa Allegato D: Registro pubblico degli operatori. ||| 14조는 6판대로 복원합니다. 기밀이었던 부속서 C는 이름이 바뀌어 부속서 D, 사업자 공개 등록부가 됩니다.
+SAADI: Pubblico per chi? ||| 누구에게 공개입니까?
+CORRADO: Per chiunque. Un cittadino di Marsa Beida lo potrà leggere come uno di Roma. ||| 누구에게나요. 마르사 베이다의 시민도 로마 시민처럼 읽을 수 있습니다.
+SAADI: E chi controlla che nessuno cambi di nuovo una riga di notte? ||| 그리고 밤중에 누가 또 한 줄을 바꾸지 않는지 누가 감독합니까?
+CORRADO: Due chiavi, ministro. Il registro lo tengono la presidenza di turno e la Commissione. Ogni modifica richiede entrambe le chiavi, e ogni modifica lascia una data. ||| 두 개의 열쇠입니다, 장관님. 등록부는 순번 의장국과 위원회가 관리합니다. 모든 수정에는 두 열쇠가 모두 필요하고, 수정할 때마다 날짜가 남습니다.
+SAADI: Due chiavi. Mi piace. A casa mia il tesoro del villaggio ha sempre avuto due chiavi: una al capo e una all'anziano. ||| 열쇠 둘이라. 마음에 듭니다. 우리 집안에서는 마을 보물 창고에 늘 열쇠가 둘 있었습니다. 하나는 촌장, 하나는 연장자가 갖고요.
+CORRADO: Il nostro è lo stesso principio. ||| 우리 원리도 똑같습니다.
+FERRETTI: Scusate l'interruzione. Avvocato Ferretti. Rappresento un operatore con una posizione particolare. ||| 말씀 중에 실례합니다. 페레티 변호사입니다. 특별한 위치에 있는 한 사업자를 대리합니다.
+CORRADO: Avvocato, il suo cliente ha un nome. Possiamo dirlo ad alta voce in questa sala? ||| 변호사님, 의뢰인에게 이름이 있지 않습니까. 이 방에서 소리 내어 말해도 될까요?
+FERRETTI: Il mio cliente tutela la propria riservatezza commerciale. ||| 제 의뢰인은 자신의 영업상 비밀을 보호합니다.
+CORRADO: La riservatezza commerciale riguarda i prezzi, i progetti, i contratti. Il nome, avvocato, non è un segreto. È una vetrina. ||| 영업상 비밀은 가격, 계획, 계약에 해당합니다. 이름은 말입니다, 변호사님, 비밀이 아니라 진열장입니다.
+FERRETTI: Una vetrina può essere rotta. ||| 진열장은 깨질 수 있습니다.
+CORRADO: Una cassaforte, quando si scopre che nessuno l'ha mai aperta, fa più rumore. ||| 금고는 아무도 연 적이 없다는 게 알려지면 더 큰 소리를 냅니다.
+FERRETTI: Mi spieghi meglio. ||| 더 설명해 주십시오.
+CORRADO: Se il suo cliente è nell'allegato riservato e la cosa viene fuori, si dirà che ha rubato la gara. Se è nel registro pubblico, insieme ad altri e con le regole uguali per tutti, si dirà che l'ha vinta o perduta come gli altri. ||| 의뢰인이 기밀 부속서에 있다가 그게 밝혀지면 입찰을 훔쳤다고들 하겠죠. 공개 등록부에 다른 이들과 같은 규칙으로 올라 있으면, 다른 이들처럼 이겼거나 졌다고 말할 겁니다.
+FERRETTI: Qualora qualcun altro si iscriva, il mio cliente perde la prelazione. ||| 다른 누군가가 등록하면 제 의뢰인은 선매권을 잃습니다.
+CORRADO: Perde l'esclusiva che non aveva diritto di ottenere. Conserva la priorità di chi si iscrive per primo, in ordine alfabetico: «Leonardo» sta alla «L», come tutti. ||| 얻을 권리가 없던 독점권을 잃는 겁니다. 먼저 등록한 사람의 우선순위는 지킵니다. 알파벳 순서에서 '레오나르도'는 모두와 마찬가지로 'L'에 있습니다.
+SAADI: Alla «L». Prima di «Tarsia». Un nome che sta davanti al mio paese solo per ordine alfabetico: lo posso accettare. ||| 'L'이군요. '타르시아'보다 앞이고요. 알파벳 순서 때문에만 우리나라 앞에 오는 이름이라면 받아들일 수 있습니다.
+FERRETTI: Devo sentire il mio cliente. ||| 의뢰인과 상의해야 합니다.
+CORRADO: Chiami. Ma gli dica che la lavagna è pronta. ||| 전화하십시오. 다만 칠판이 준비됐다고 전해 주십시오.
+FERRETTI: Quale lavagna? ||| 무슨 칠판입니까?
+CORRADO: Una questione di gessetto, avvocato. La capirà. ||| 분필 문제입니다, 변호사님. 이해하실 겁니다.
+FERRETTI: Pronto? Sì, sono io. No... no, non è un'esclusione. Un registro. Con il nome in chiaro. Sì, anche il titolare effettivo. ||| 여보세요? 네, 접니다. 아뇨… 아뇨, 배제가 아니에요. 등록부입니다. 이름은 공개로요. 네, 실질 소유주도요.
+FERRETTI: ... Mi hanno detto di sì. Con una riserva. ||| …승낙했습니다. 단서가 하나 붙었고요.
+CORRADO: Quale riserva? ||| 어떤 단서입니까?
+FERRETTI: Il cinquantuno per cento della società è dichiarabile subito. Il restante quarantanove è in una fiduciaria, e la fiduciaria ha bisogno di tempo per il consenso del fiduciante. ||| 회사의 51퍼센트는 즉시 신고할 수 있습니다. 나머지 49퍼센트는 신탁회사에 맡겨져 있고, 위탁자의 동의를 받을 시간이 필요합니다.
+SAADI: Quanto tempo? ||| 얼마나요?
+FERRETTI: Dodici mesi. ||| 12개월입니다.
+CORRADO: E se, dopo dodici mesi, il fiduciante dice di no? ||| 12개월 뒤에 위탁자가 거절하면요?
+FERRETTI: Allora la società esce dal registro. ||| 그러면 회사는 등록부에서 빠집니다.
+CORRADO: Sono d'accordo. Un livello alla volta. Non si toglie tutta la nebbia in un giorno. ||| 동의합니다. 한 겹씩이죠. 안개는 하루에 다 걷히지 않으니까요.
+SAADI: Ma l'importante, dottor Lanza, è che ora la nebbia ha un orario di chiusura. ||| 하지만 중요한 건, 란차 박사님, 이제 안개에 종료 시각이 생겼다는 겁니다.
+CORRADO: L'ha detto meglio di me. ||| 저보다 잘 말씀하셨습니다.
++ ripristinare = 복원하다, 원래대로 되돌리다
++ due chiavi = 두 개의 열쇠. 한쪽만으로는 열 수 없게 한 이중 통제(시리즈의 핵심 장치)
++ presidenza di turno = 순번 의장국 (돌아가며 맡는 의장 직)
++ è una vetrina = (이름은) 진열장이다. 숨기면 의심을 사고 공개하면 신뢰를 얻는다는 반전
++ qualora + 접속법 = 만약 ~한다면 (조건·가정의 격식체)
++ prelazione = 선매권, 우선 취득권
++ titolare effettivo = 실질 소유주. fiduciaria = 신탁회사, fiduciante = 위탁자
++ un livello alla volta = 한 겹씩. 여기서는 불투명한 소유 구조를 단계적으로 걷어 내는 전략
+
+## 개막식 — L'APERTURA
+MARISA: Dottor Lanza, mancano dodici minuti. L'ordine è questo: ingresso delle delegazioni, preambolo, lettura dei sei articoli simbolici. ||| 란차 박사님, 12분 남았습니다. 순서는 이렇습니다. 대표단 입장, 전문 낭독, 상징 조항 여섯 개 낭독입니다.
+CORRADO: Quale articolo legge il ministro tarsiano? ||| 타르시아 장관은 어느 조항을 읽습니까?
+MARISA: Il quattordici. Tonino ha tolto i quattro minuti lunedì e li ha rimessi stamattina. ||| 14조요. 토니노 씨가 월요일에 4분을 뺐다가 오늘 아침에 다시 넣었어요.
+TONINO: Rimessi alle 11.20, con la penna blu. «Art. 14: lettura, 4 minuti, luce calda sul tavolo.» Ripristinato. ||| 11시 20분에 파란 펜으로 다시 넣었소. '14조 낭독, 4분, 탁자에 따뜻한 조명.' 복원.
+CORRADO: Il rosso e il blu: una penna che racconta la storia. ||| 빨강과 파랑이라, 펜이 이야기를 들려주는군요.
+TONINO: Il rosso toglie, il blu rimette. Io ho una sola regola: mai cancellare, solo aggiungere. ||| 빨강은 빼고 파랑은 넣고. 내 규칙은 하나요. 지우지 말고 더하기만 하라.
+CORRADO: Anche questa sarebbe una bella regola per i trattati. ||| 그건 조약에도 좋은 규칙이겠습니다.
+TONINO: Basta che mi lasciate la luce sul tavolo. ||| 탁자 위 조명만 남겨 주면 됩니다.
+KOVACS: Signore e signori, delegati, con la firma di oggi nasce il Patto del Mediterraneo. ||| 신사 숙녀 여러분, 대표 여러분, 오늘의 서명으로 지중해 협정이 출범합니다.
+SAADI: Articolo quattordici. «Le Parti avviano, entro diciotto mesi, negoziati prioritari per lo sviluppo congiunto delle risorse del fondale marino, secondo criteri di trasparenza e parità di accesso.» ||| 제14조. '당사국은 18개월 안에 투명성과 동등한 접근 기준에 따라 해저 자원의 공동 개발을 위한 우선 협상을 개시한다.'
+SAADI: «Gli operatori interessati si iscrivono nel Registro pubblico di cui all'Allegato D. Il registro è tenuto con due chiavi.» ||| '관심 있는 사업자는 부속서 D의 공개 등록부에 이름을 올린다. 등록부는 두 열쇠로 관리한다.'
+ORSOLINI: La presidenza italiana ringrazia il ministro Saadi. A questo punto, i delegati sono invitati a firmare. ||| 이탈리아 의장국은 사아디 장관께 감사드립니다. 이제 대표단은 서명해 주시기 바랍니다.
+DELCOURT: Per la Francia, firmo. ||| 프랑스를 대표하여 서명합니다.
+ZAMMIT: Per Malta. Una barca senza buchi. ||| 몰타를 대표하여. 구멍 없는 배입니다.
+PAPADAKIS: Per la Grecia, dopo secoli di discussioni, firmo in quattro minuti. ||| 그리스를 대표하여, 수 세기의 토론 끝에 4분 만에 서명합니다.
+SAADI: Per la Repubblica di Tarsia. Con una riserva: il nome di chi tiene le chiavi dovrà essere letto ogni anno in questa stessa sala. ||| 타르시아 공화국을 대표하여 서명합니다. 단서가 하나 있습니다. 열쇠를 쥔 이의 이름을 해마다 이 방에서 낭독해야 합니다.
+KOVACS: Riserva accolta, ministro. Sarà il primo punto dell'ordine del giorno del prossimo anno. ||| 단서 수락합니다, 장관님. 내년 의제의 첫 번째 안건이 될 겁니다.
+ORSOLINI: L'Italia firma per ultima, come si addice a chi ospita. ||| 이탈리아는 손님을 맞이한 쪽답게 마지막으로 서명합니다.
+GIULIA: Corrado, hai notato? ||| 코라도, 보셨어요?
+CORRADO: Cosa? ||| 뭘요?
+GIULIA: L'inchiostro del segretario Orsolini è blu. Come la penna di Tonino. ||| 오르솔리니 총장님의 잉크가 파란색이에요. 토니노 씨 펜처럼요.
+CORRADO: Allora oggi si aggiunge e non si cancella. ||| 그럼 오늘은 지우지 않고 더하는 날이군요.
+GIULIA: Il tuo conto, Corrado: lo hai pagato a metà. ||| 당신의 계산서 말이에요, 코라도. 절반은 갚았어요.
+CORRADO: Manca il resto: i quarantanove per cento in fiduciaria. ||| 나머지가 남았죠. 신탁회사에 있는 49퍼센트요.
++ lettura dei sei articoli simbolici = 상징적인 여섯 조항 낭독. 의전에서 서명 전에 하는 낭독 의식
++ mai cancellare, solo aggiungere = 지우지 말고 더하기만 하라. 칠판과 조명 기사 양쪽의 규칙이자 이번 해법의 원리
++ come si addice a chi ospita = 주인 역할을 하는 쪽에 어울리게 (addirsi a = ~에 걸맞다. 격식체)
++ con una riserva = 단서를 달고 (riserva = 유보·단서. 서명 때 붙이는 조건)
++ firmare per ultimo = 마지막으로 서명하다. 주최국이 마지막에 서명하는 것이 의전 관례
++ ordine del giorno = 의제, 안건 목록
++ dopo secoli di discussioni = 수 세기의 토론 끝에. 그리스 대표의 농담
++ pagare il conto a metà = 계산서의 절반만 치르다. 문제의 절반을 해결했다는 뜻
+
+## 정원의 만찬 — LA CENA NEL GIARDINO
+SANDRI: Un trattato firmato prima di pranzo vale più di uno firmato dopo cena. Lo diceva sempre il mio maestro. ||| 점심 전에 서명한 조약이 저녁 뒤에 서명한 조약보다 값어치가 있다. 내 스승이 늘 하시던 말씀이야.
+CORRADO: Eccellenza, non l'ho vista alla cerimonia. ||| 대사님, 개막식에서는 뵙지 못했습니다.
+SANDRI: Ero in fondo, al posto dei vecchi. Si vede tutto, da lì. E ho visto il ministro tarsiano che ti stringeva la mano. ||| 맨 뒤 노인석에 있었지. 거기서는 다 보이거든. 타르시아 장관이 자네 손을 잡는 것도 봤어.
+CORRADO: Con un lungo respiro. Non so se di sollievo o di stanchezza. ||| 긴 숨을 쉬면서요. 안도였는지 피로였는지 모르겠습니다.
+SANDRI: Era la risposta giusta: entrambe. Ora, un caffè? ||| 정답이었지, 둘 다. 자, 커피 한 잔 할까?
+CORRADO: Prima la cena. Le tavole sono apparecchiate sotto il pergolato. ||| 먼저 저녁이죠. 덩굴 아래에 식탁이 차려져 있습니다.
+ORSOLINI: Corrado, siediti qui, accanto a me. ||| 코라도, 이쪽 내 옆에 앉아요.
+CORRADO: Segretario... Luca, il posto d'onore? ||| 총장님… 루카, 상석이라고요?
+ORSOLINI: Il posto d'onore è per chi ha tolto un peso a tutti. Brindo a te. ||| 상석은 모두의 짐을 덜어 준 사람의 자리죠. 당신을 위해 건배합니다.
+CORRADO: Io brindo a una lavagna di gesso e a una vecchia di Testaccio. ||| 저는 분필 칠판과 테스타초의 한 할머니를 위해 건배하겠습니다.
+SAADI: Alla tavola in cui si promette. ||| 약속을 하는 식탁을 위하여.
+CORRADO: E si paga. ||| 그리고 갚는 식탁을 위하여.
+SAADI: Come dicono da voi? «A tavola si promette»... ||| 여러분은 뭐라고 하시죠? '식탁에서 약속하고'…
+CORRADO: «...a tavola si paga.» Ministro, ora lei ha due volti: quello del ministro e quello dell'ospite. ||| '…식탁에서 갚는다.' 장관님, 이제 두 얼굴을 갖고 계십니다. 장관의 얼굴과 손님의 얼굴이요.
+SAADI: Il volto dell'ospite è il più difficile. Soprattutto quando il mio paese ha da chiedere qualcosa a Roma. ||| 손님의 얼굴이 가장 어렵지요. 특히 우리나라가 로마에 청할 것이 있을 때는요.
+CORRADO: Qualcosa? ||| 청할 것이요?
+SAADI: Non stasera. Ma la settimana prossima il suo Segretario riceverà una lettera. Parla di una statua. ||| 오늘 밤은 아닙니다. 하지만 다음 주에 총장님께 서한이 한 통 갈 겁니다. 조각상에 관한 겁니다.
+CORRADO: Una statua? ||| 조각상이요?
+SAADI: Una dea, per essere precisi. Ma di questo parleremo con il piatto in mano, come si deve. ||| 정확히는 여신입니다. 하지만 그 얘기는 접시를 들고 하지요, 도리에 맞게.
+LEO: Papà, scusa se ti chiamo qui. Sono nell'ingresso, Giulia mi ha fatto salire con un pass da ospite. ||| 아빠, 여기까지 불러서 미안. 입구에 있어. 조울리아 누나가 손님 출입증으로 올려 줬어.
+CORRADO: Leo! Ti ha fatto salire? ||| 레오! 널 올라오게 했다고?
+GIULIA: Ha finito il doposcuola e ha insistito. Dice che ha una domanda urgente. ||| 방과 후 수업이 끝나고 고집을 부렸어요. 급한 질문이 있대요.
+LEO: Papà, hai nascosto o hai mostrato? ||| 아빠, 숨긴 거야, 보여 준 거야?
+CORRADO: Che cosa? ||| 뭘?
+LEO: La cosa dell'articolo. Giulia dice che l'hai messo in una lista. Ma una lista è un modo per mostrare o per nascondere? ||| 조항 얘기 말이야. 누나가 그걸 명단에 올렸다고 하던데. 명단은 보여 주는 방법이야, 숨기는 방법이야?
+CORRADO: Domanda difficile. ||| 어려운 질문이네.
+LEO: Se metti una foglia in un bosco, la nascondi. Se la metti in un vaso su un tavolo, la mostri. ||| 나뭇잎을 숲에 놓으면 숨기는 거고, 탁자 위 화병에 꽂으면 보여 주는 거잖아.
+CORRADO: E noi l'abbiamo messa in un vaso con una luce calda sopra. Quindi l'abbiamo mostrata. ||| 우린 따뜻한 조명이 비치는 화병에 꽂았지. 그러니 보여 준 거야.
+LEO: Ma se la luce è troppo forte, non si vede il colore. ||| 근데 빛이 너무 세면 색이 안 보여.
+CORRADO: Giusto, Leo. Questo lo scrivo nel prossimo trattato: «Né troppo buio né troppo luminoso». ||| 맞다, 레오. 다음 조약에 써야겠다. '너무 어둡지도, 너무 밝지도 않게'.
+SANDRI: Un ragazzo che parla così... Corrado, questo qui lo mando io all'accademia. ||| 이렇게 말하는 아이라니… 코라도, 이 아이는 내가 외교관 학교에 보내겠네.
+LEO: Prima la maturità, ambasciatore. ||| 먼저 졸업 시험이 있어요, 대사님.
+CORRADO: E dopo la maturità, a tavola. ||| 그리고 졸업 시험 다음엔 식탁이지.
+GIULIA: Il telefono vibra. Un messaggio. Federica: «Hai acceso una luce. Ora guarda chi tiene la fiduciaria. Registro imprese, "Fiduciaria Alba S.r.l.". E una fondazione, nome di battesimo Leonardo.» ||| 휴대폰이 울려요. 페데리카예요. '불을 하나 켰네. 이제 신탁회사를 누가 쥐고 있는지 봐. 상업등기부, "피두차리아 알바 유한회사". 그리고 재단 하나, 세례명은 레오나르도.'
+CORRADO: Fondazione? ||| 재단이라고요?
+GIULIA: «Fondazione Leonardo per le Arti e il Mediterraneo». Ha una voce nell'elenco dei donatori del Museo Archeologico di Roma. ||| '지중해와 예술을 위한 레오나르도 재단'이에요. 로마 고고학 박물관 기부자 명단에 올라 있고요.
+CORRADO: Un museo. ||| 박물관이라.
+SAADI: Dottor Lanza, a quanto vedo, la sua faccia ha capito prima di me. ||| 란차 박사님, 보아하니 박사님 얼굴이 저보다 먼저 알아차렸군요.
+CORRADO: Ministro, brindiamo ancora una volta. La settimana prossima la nebbia sarà in un'altra stanza. ||| 장관님, 한 번 더 건배하시지요. 다음 주에는 안개가 다른 방에 있을 겁니다.
+SAADI: Una stanza con una dea. Alla nostra. ||| 여신이 있는 방이군요. 우리의 여신을 위하여.
++ posto d'onore = 상석, 귀빈석
++ brindare a + 대상 = ~를 위해 건배하다 (brindo a te)
++ pergolato = 포도덩굴 등으로 덮은 정원 시렁. 여름 만찬의 전형적 무대
++ con il piatto in mano = 접시를 손에 들고, 곧 식탁에서 (비공식 대화의 은유)
++ come si deve = 도리에 맞게, 제대로
++ avere due volti = 얼굴이 둘이다. 장관의 얼굴과 손님의 얼굴. 다음 화들의 주제(상의 두 얼굴)를 예고하는 말
++ Né troppo buio né troppo luminoso = 너무 어둡지도 너무 밝지도 않게. 투명성의 적정선에 관한 레오의 철학
++ nome di battesimo = 세례명, 이름(성 아닌 이름). 여기서는 '이름이 레오나르도인 재단'을 말장난처럼 가리킴

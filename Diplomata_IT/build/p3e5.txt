@@ -1,0 +1,221 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 5
+@title Il museo la notte
+@ko 밤의 박물관
+@setting 화요일 밤 21시 30분~23시 로마 고고학 박물관 별관 '베누스의 방'과 수장고
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast BRUNI | 박물관 별관 책임 큐레이터 리비아 브루니, 50세
+@cast NADIA | 타르시아 국립박물관 큐레이터 나디아 하다드, 45세
+@cast AMEDEO | 별관 야간 경비원, 63세
+@cast LEO | 란차의 아들, 16세
+@note 같은 주 화요일 밤입니다. 큐레이터 두 사람이 비공식으로 만납니다. 외교관은 증인이자 제3의 열쇠입니다. 하다드의 장갑에 묻은 하얀 가루가 이야기의 열쇠입니다. 대리석 가루라면 반짝여야 하는데 이 가루는 부드럽고 분필 같은 석고입니다. 1928년 발송 명세서의 '석고 받침대', 1931년 입고 장부의 '뒷면 마감 없음, 벽에 붙일 것'과 합쳐지면, 상의 뒷면이 석고로 덮여 있다는 결론이 나옵니다. 역사 논거는 베네치아 산마르코의 청동 말입니다. 1204년 4차 십자군 때 콘스탄티노폴리스에서 베네치아로 왔고, 1797년 나폴레옹이 파리로 가져갔다가 1815년 돌아왔으며, 지금은 원본을 실내에 두고 정면에는 사본을 세웁니다(세부는 일반화). 한 물건이 여러 번 주인이 바뀌고도 '자리'를 지킨 사례입니다. 또한 브루니는 7년 전 레오나르도 재단의 기증 조건에 '상은 재단 동의 없이 이동·대여할 수 없다'는 조항이 있음을 털어놓습니다. 어휘는 박물관·보존(sala, deposito, restauro, polvere, gesso, schiena, ritocco)과 말씨 전환(Lei에서 tu로)에 주목하세요.
+@next 3-6 «두 얼굴» — 석고를 벗겨 낸 상의 뒷면에서 두 번째 얼굴이 나타나고, 두 나라가 번갈아 전시하는 순회 소유를 합의합니다.
+
+## 폐관 후 — DOPO LA CHIUSURA
+AMEDEO: Buonasera, dottoressa Bruni. Sono le nove e mezza, il museo ha chiuso da un'ora. Mi avevano detto di tre persone e ne vedo quattro. ||| 안녕하십니까, 브루니 박사님. 9시 반입니다, 박물관은 한 시간 전에 문을 닫았고요. 세 분이라고 들었는데 네 분이 보입니다.
+BRUNI: Amedeo, la quarta persona è la dottoressa Haddad, ospite del ministero. Firmi pure sul registro. ||| 아메데오 씨, 네 번째 분은 하다드 박사님이에요. 장관실 손님입니다. 장부에 서명하세요.
+AMEDEO: Nome, ora, motivo. «Consultazione scientifica notturna.» Molto bello. Ma lei lo sa che, a quest'ora, i musei hanno un'altra aria? ||| 이름, 시각, 사유. '야간 학술 열람.' 아주 근사하군요. 그런데 이 시간이면 박물관 공기가 다르다는 거 아십니까?
+NADIA: Come? ||| 어떻게 다른가요?
+AMEDEO: Gli oggetti respirano. Di giorno li guardano, di notte tornano a pensare. ||| 물건들이 숨을 쉬어요. 낮에는 사람들이 쳐다보고, 밤에는 다시 생각에 잠기죠.
+CORRADO: Amedeo, lei è un poeta. ||| 아메데오 씨, 시인이시군요.
+AMEDEO: No, dottore, sono un custode. Ma sono vent'anni che parlo con la Venere. ||| 아뇨, 박사님, 경비원입니다. 하지만 20년째 베누스와 얘기를 나눕니다.
+BRUNI: E lei che cosa le dice? ||| 그래서 베누스는 뭐라고 하나요?
+AMEDEO: Niente. È molto riservata. Anche con me. ||| 아무 말도요. 아주 과묵해요. 저한테조차도요.
+GIULIA: Dottoressa, ci siamo solo noi? ||| 박사님, 우리뿐이죠?
+BRUNI: Noi quattro e Amedeo. Nessun altro. L'allarme del piano sarà spento per mezz'ora, e io rispondo per tutti. ||| 우리 넷과 아메데오 씨뿐입니다. 이 층 경보기는 30분간 꺼 두고, 제가 모두를 책임집니다.
+CORRADO: Dottoressa Bruni, voglio dirle una cosa prima di entrare. Non siamo qui per prendere nulla. ||| 브루니 박사님, 들어가기 전에 말씀드리고 싶습니다. 우리는 아무것도 가져가려고 온 게 아닙니다.
+BRUNI: Lo so. Se lo avessi pensato, non avrei acceso le luci. ||| 알고 있습니다. 그랬다면 불을 켜지 않았겠죠.
+NADIA: Posso... posso salutare la statua da sola, un minuto? ||| 저 혼자 조각상에게 인사해도 될까요, 1분만?
+BRUNI: Certo. Noi aspettiamo qui. ||| 물론이죠. 우리는 여기서 기다리겠습니다.
+CORRADO: Un minuto, dottoressa. Poi lavoriamo. ||| 1분입니다, 박사님. 그다음에 일하죠.
+NADIA: Grazie. ||| 고맙습니다.
+GIULIA: Dottoressa Bruni, posso chiederle una cosa da collega? ||| 브루니 박사님, 동료로서 하나 여쭤도 될까요?
+BRUNI: Lei non è una collega, ma chieda. ||| 동료는 아니지만 물어보세요.
+GIULIA: Perché ha accettato di aprirci la sala di notte? ||| 왜 밤에 방을 열어 주기로 하셨나요?
+BRUNI: Perché una statua che per novantotto anni ha guardato il muro merita almeno che qualcuno la guardi in faccia. ||| 98년 동안 벽만 바라본 조각상이라면 누군가 얼굴을 마주 봐 주는 게 마땅하니까요.
+CORRADO: Ha detto «il muro»? ||| '벽'이라고 하셨습니까?
+BRUNI: Sì. È appoggiata a una parete. È stato deciso nel 1931 e non l'ha mai messo in discussione nessuno. ||| 네. 벽에 기대 세워져 있어요. 1931년에 결정된 일이고 아무도 문제 삼은 적이 없습니다.
+CORRADO: Neanche lei? ||| 박사님도요?
+BRUNI: Neanche io. Non so perché. Forse perché ci si abitua a ciò che ha sempre fatto così. ||| 저도요. 이유는 모르겠어요. 늘 그래 왔던 것에는 익숙해지니까요.
+NADIA: Dottoressa Bruni. ||| 브루니 박사님.
+BRUNI: Sì? ||| 네?
+NADIA: Posso toccarla? Con i guanti, dall'alto e dal basso. Sul retro. ||| 만져 봐도 될까요? 장갑을 끼고요, 위쪽과 아래쪽, 뒷면을요.
+BRUNI: Il retro è addossato al muro: quindici centimetri di spazio. Un braccio ci passa, non una persona. ||| 뒷면은 벽에 붙어 있고 틈이 15센티미터예요. 팔은 들어가도 사람은 못 들어갑니다.
+NADIA: Basta il braccio. ||| 팔이면 충분해요.
+BRUNI: Allora ci diamo del tu? A quest'ora di notte, con un braccio dietro a una dea, il Lei diventa un po' ridicolo. ||| 그럼 말을 놓을까요? 이 밤중에 여신 뒤로 팔을 뻗는 마당에 존댓말은 좀 우습네요.
+NADIA: Volentieri. Livia. ||| 기꺼이요. 리비아.
+BRUNI: Nadia. ||| 나디아.
+CORRADO: Mi concedete il privilegio di restare al Lei? ||| 저는 계속 존댓말을 써도 되겠습니까?
+BRUNI: Lei, dottor Lanza, è l'ospite: resta al Lei finché non fa una gaffe. ||| 란차 박사님은 손님이니까 실수하기 전까지는 존댓말로 두죠.
+CORRADO: Prometto una gaffe entro mezzanotte. ||| 자정 안에 실수 하나 하겠다고 약속드립니다.
++ ci siamo solo noi? = 우리뿐입니까? (essere + ci, 소재를 묻는 표현)
++ ci si abitua a ciò che ha sempre fatto così = 늘 그래 온 일에는 익숙해진다 (si 비인칭 + abituarsi a)
++ dare del tu / darsi del tu = 말을 놓다. Lei에서 tu로 넘어가는 순간 (A quest'ora di notte... il Lei diventa ridicolo)
++ restare al Lei = 계속 Lei(존댓말)로 남다
++ fare una gaffe = 실수를 저지르다, 결례를 하다 (프랑스어에서 온 말)
++ addossato al muro = 벽에 기대 붙은 (addossare = 기대 놓다). 3화의 단서 '벽에 붙일 것'과 이어짐
++ guanti = (보존용) 장갑. 이 장면의 핵심 도구
++ aria diversa = 다른 공기. 박물관의 밤 분위기를 말하는 경비원의 시적인 표현
+
+## 장갑의 먼지 — LA POLVERE SUL GUANTO
+NADIA: Eccola. Sotto la nuca, nell'incavo tra il collo e la spalla. Sento una superficie... diversa. ||| 여기예요. 목덜미 아래, 목과 어깨 사이의 오목한 곳이요. 표면이… 달라요.
+BRUNI: Diversa come? ||| 어떻게 다르죠?
+NADIA: Meno fredda. Il marmo raffredda il guanto. Qui no. ||| 덜 차가워요. 대리석이면 장갑이 차가워지는데 여기는 안 그래요.
+CORRADO: Che cosa significa? ||| 그게 무슨 뜻입니까?
+NADIA: Che il materiale trattiene meno il calore o ne cede meno. Un attimo... Ritiro il braccio. Guardate il guanto. ||| 재료가 열을 덜 빼앗거나 덜 내놓는다는 거예요. 잠깐만… 팔을 빼 볼게요. 장갑을 보세요.
+GIULIA: Una polvere bianca, quasi rosa. ||| 하얀, 거의 분홍빛 가루예요.
+BRUNI: Non luccica. ||| 반짝이지 않네요.
+NADIA: Esatto. Se fosse polvere di marmo, brillerebbe sotto la lampada, perché ha i cristalli. Questa è opaca. Morbida. ||| 맞아요. 대리석 가루라면 결정이 있어서 램프 아래서 반짝였을 거예요. 이건 불투명하고 부드러워요.
+BRUNI: Prova a sfregarla tra le dita. ||| 손가락 사이에 비벼 봐요.
+NADIA: Si sbriciola come il gesso di scuola. È gesso, Livia. ||| 학교 분필처럼 부서져요. 석고예요, 리비아.
+BRUNI: Gesso da stuccatore. Cassa tre: «appoggio in gesso». ||| 미장용 석고요. 3번 상자, '석고 받침대'네요.
+GIULIA: Quindi il retro non è marmo. È una colata di gesso sopra il marmo. ||| 그럼 뒷면은 대리석이 아니라는 거죠. 대리석 위에 석고를 부은 거예요.
+BRUNI: Nel 1931 il restauratore disse: «lato posteriore non rifinito». Ma non rifinito non significa coperto di gesso. ||| 1931년에 복원가가 '뒷면 마감 없음'이라고 썼어요. 하지만 마감이 없다는 게 석고로 덮여 있다는 뜻은 아니죠.
+NADIA: Ho una cosa nella borsa. Fotografie del 1927, dell'archivio di Marsa Beida. Le ho portate perché ci tenevo a confrontarle con la statua. ||| 가방에 있는 게 하나 있어요. 마르사 베이다 문서고의 1927년 사진들이에요. 조각상과 대조하고 싶어서 가져왔어요.
+CORRADO: Ce le mostri. ||| 보여 주십시오.
+NADIA: Questa è la prima. Gli operai l'hanno tirata su dal fango del bacino con una gru. Vedete? Davanti, il volto di Venere... ||| 이게 첫 번째 사진이에요. 인부들이 항만 진흙 속에서 기중기로 끌어올렸어요. 보이시죠? 앞쪽에는 베누스의 얼굴이…
+GIULIA: E dietro, nell'ombra. ||| 그리고 뒤쪽은 그림자에 있어요.
+NADIA: Dietro c'è qualcosa. Una massa sporgente, a destra della nuca, alta quanto la testa. ||| 뒤에 뭔가 있어요. 뒤통수 오른쪽으로 머리만큼 높이 튀어나온 덩어리요.
+BRUNI: Una massa? Non c'è più. La statua oggi è liscia, dietro. ||| 덩어리요? 지금은 없어요. 조각상은 뒤가 매끈해요.
+NADIA: Appunto. Qualcuno ha livellato. ||| 그러니까요. 누군가 평평하게 만든 거예요.
+CORRADO: Livellato con il gesso. Per poterla appoggiare al muro. ||| 석고로 평평하게 한 거군요. 벽에 기대 세우려고.
+BRUNI: Mio Dio. Novantotto anni a guardare una parete, e io che pensavo che fosse una schiena. ||| 세상에. 98년을 벽을 보고 있었는데, 저는 그게 등이라고 생각했다니.
+NADIA: Livia, non ti sentire in colpa. Chi guarda una statua di fronte non indovina il retro. ||| 리비아, 죄책감 갖지 마. 조각상을 정면에서 보는 사람은 뒷면을 짐작하지 못해.
+CORRADO: E nessuno lo ha mai verificato? ||| 아무도 확인한 적이 없습니까?
+BRUNI: C'è una regola nella conservazione: più un oggetto è fragile, meno lo si tocca. E per una statua di duemila anni, il retro non è una priorità. ||| 보존에는 규칙이 있어요. 깨지기 쉬울수록 덜 만진다는 거죠. 그리고 2천 년 된 조각상의 뒷면은 우선순위가 아닙니다.
+GIULIA: A meno che qualcuno non voglia che resti coperto. ||| 누군가 덮어 두고 싶어 하지 않는 한 말이죠.
+BRUNI: Non lo escludo. ||| 배제하진 않아요.
+NADIA: Livia, c'è una cosa che devi dirci. Sento che c'è. ||| 리비아, 말해 줘야 할 게 있죠. 느껴져요.
+BRUNI: ...Sì. C'è. Anzi, è il motivo per cui questa sera ho aperto le luci. ||| …네, 있어요. 사실 그게 오늘 저녁 제가 불을 켠 이유예요.
+CORRADO: Prego. ||| 말씀하세요.
+BRUNI: Sette anni fa, per la climatizzazione della sala, la Fondazione Leonardo ha firmato una convenzione con il museo. Un milione e duecentomila euro. ||| 7년 전 방 공조 시설을 위해 레오나르도 재단이 박물관과 협약을 맺었어요. 120만 유로였죠.
+GIULIA: E nella convenzione? ||| 협약서에는 뭐가 있었죠?
+BRUNI: L'articolo nove. «Le opere della sala non possono essere spostate, prestate o cedute, nemmeno temporaneamente, senza il consenso della Fondazione, per vent'anni.» ||| 9조예요. '방의 작품은 20년간 재단의 동의 없이는 일시적으로도 이동, 대여, 양도할 수 없다.'
+CORRADO: Venti anni. Ne sono passati sette. ||| 20년이라. 7년이 지났네요.
+BRUNI: Ne mancano tredici. ||| 13년이 남았어요.
+NADIA: Quindi anche se Roma volesse restituire, non potrebbe senza il permesso di una fondazione privata. ||| 그러니 로마가 돌려주고 싶어도 사립 재단의 허락 없이는 못 하는 거네요.
+CORRADO: Una clausola nascosta in una convenzione. Ancora. ||| 협약서 속에 숨은 조항이라. 또요.
+GIULIA: Una settimana fa in un trattato; stasera in un museo. È come un copione. ||| 일주일 전엔 조약에서, 오늘은 박물관에서. 각본 같네요.
+BRUNI: Dottor Lanza, io non sono una spia. Sono una curatrice. Ho firmato quella convenzione perché senza l'aria climatizzata la statua si sarebbe sgretolata. ||| 란차 박사님, 저는 스파이가 아니라 큐레이터입니다. 그 협약에 서명한 건 공조 없이는 조각상이 부스러졌을 테니까요.
+CORRADO: E nessuno le ha mai spiegato perché una fondazione di arti si preoccupi tanto di una sola statua? ||| 예술 재단이 왜 하필 조각상 하나를 그렇게 신경 쓰는지, 아무도 설명해 주지 않았습니까?
+BRUNI: Mi dissero: «Per la reputazione». Una parola che non spiega niente. ||| '평판 때문'이라고 하더군요. 아무것도 설명하지 못하는 말이죠.
++ trattenere / cedere calore = 열을 붙잡다 / 내놓다. 대리석과 석고의 촉감 차이를 말하는 보존 어휘
++ brillerebbe (condizionale) = 반짝일 텐데. se fosse polvere di marmo, brillerebbe = 비현실 가정(se + 접속법 반과거, 조건법)
++ sbriciolarsi = 부스러지다. gesso da stuccatore = 미장공의 석고
++ livellare = 평평하게 하다, 수평으로 고르다
++ guardare una parete e pensare che fosse una schiena = 벽을 보면서 등이라고 생각하다 (pensare che + 접속법 반과거)
++ a meno che non + 접속법 = ~하지 않는 한 (a meno che qualcuno non voglia)
++ convenzione / articolo nove = 협약 / 9조. 'non possono essere spostate' = 수동형 + potere (이동 불가 조항)
++ sentire che c'è = (말하지 않은 것이) 있다는 걸 느끼다. 눈치와 직관의 표현
+## 산마르코의 말들 — I CAVALLI DI SAN MARCO
+AMEDEO: Scusate, ho fatto il caffè con la moka, quella del custode. Non è l'espresso del bar, ma tiene sveglio. ||| 실례합니다, 경비원용 모카포트로 커피를 끓였어요. 바에서 파는 에스프레소는 아니지만 잠은 깨워 줍니다.
+NADIA: Grazie, Amedeo. Che profumo. ||| 고마워요, 아메데오. 향이 참 좋네요.
+AMEDEO: Zucchero? ||| 설탕은요?
+CORRADO: No, grazie. A Napoli lo zucchero si mette prima, nella tazzina. Ma non voglio far scoppiare una guerra. ||| 괜찮습니다. 나폴리에서는 설탕을 잔에 먼저 넣죠. 하지만 전쟁을 일으키고 싶진 않네요.
+BRUNI: Dottor Lanza, mentre il caffè si raffredda, le racconto una cosa che i miei studenti trovano meno noiosa di un trattato. I cavalli di San Marco. ||| 란차 박사님, 커피가 식는 동안 제 학생들이 조약보다 덜 지루해하는 이야기를 하나 해 드릴게요. 산마르코의 말들이요.
+CORRADO: Il mio maestro me li ha promessi proprio ieri. ||| 제 스승께서 바로 어제 약속하셨습니다.
+BRUNI: Quattro cavalli di bronzo dorato, nati in età antica. Per secoli sono stati all'Ippodromo di Costantinopoli. ||| 고대에 만들어진 도금 청동 말 네 마리예요. 수 세기 동안 콘스탄티노폴리스의 경마장에 있었죠.
+NADIA: E Venezia li prese nel 1204. ||| 그리고 베네치아가 1204년에 가져갔죠.
+BRUNI: Dopo la quarta crociata. Li portarono sulla basilica di San Marco, e per quasi seicento anni stettero lì. ||| 4차 십자군 뒤에요. 산마르코 대성당 위에 올려 놓았고, 거의 600년을 거기 있었어요.
+CORRADO: Fino a Napoleone. ||| 나폴레옹 때까지요.
+BRUNI: Nel 1797 lui conquistò Venezia e mandò i cavalli a Parigi, sopra un arco di trionfo. E nel 1815, caduto l'impero, tornarono. ||| 1797년에 그가 베네치아를 정복하고 말들을 파리의 개선문 위로 보냈죠. 1815년 제국이 무너지자 돌아왔고요.
+NADIA: Quindi quel bronzo ha cambiato casa quattro volte. ||| 그러니 그 청동은 집을 네 번 바꾼 거네요.
+BRUNI: Quattro. E la quarta è la più interessante. Negli anni Ottanta del Novecento gli originali sono stati portati al coperto, nel museo della basilica, perché l'aria della laguna li stava mangiando. ||| 네 번이에요. 그리고 네 번째가 가장 흥미로워요. 20세기 80년대에 원본은 석호 공기가 부식시키고 있어서 대성당 박물관 실내로 옮겨졌어요.
+CORRADO: E sulla facciata? ||| 정면에는요?
+BRUNI: Le copie. Fatte con grande cura. Chi passa in piazza vede i cavalli, e i cavalli sono dove devono essere. ||| 사본이에요. 아주 정성껏 만든. 광장을 지나는 사람은 말을 보고, 말은 있어야 할 자리에 있고요.
+NADIA: E il bronzo vero lo si vede da vicino, in una sala fresca. ||| 그리고 진짜 청동은 서늘한 방에서 가까이서 볼 수 있고요.
+BRUNI: Esatto. Un oggetto in due posti: uno nel luogo, l'altro nella custodia. ||| 맞아요. 하나의 물건이 두 곳에 있는 거죠. 하나는 장소에, 하나는 보관 속에.
+CORRADO: È la stessa formula del mio maestro: «con il corpo e con la copia». ||| 제 스승이 쓰신 공식과 같군요. '몸으로 그리고 사본으로'.
+NADIA: Ma Livia, nel nostro caso, la copia di chi sarebbe? ||| 하지만 리비아, 우리 경우에 사본은 누구 것이 될까요?
+BRUNI: Dipende da chi vuole l'originale. ||| 원본을 누가 원하느냐에 달렸죠.
+NADIA: Noi lo vogliamo. ||| 우리가 원해요.
+BRUNI: Anche noi. ||| 우리도 원해요.
+CORRADO: E se, per una volta, nessuno prendesse l'originale? ||| 만약 이번에는 누구도 원본을 독차지하지 않는다면요?
+BRUNI: Cosa intende? ||| 무슨 뜻이죠?
+CORRADO: Se l'originale girasse, come la boccia di un mio amico? Cinque anni a Roma, cinque anni a Marsa Beida. E in ogni sala, nell'altro anno, la copia fedele. ||| 원본이 돈다면요, 제 친구의 보치아 공처럼. 로마에서 5년, 마르사 베이다에서 5년. 그리고 비는 해에는 각 방에 충실한 사본을 두고요.
+NADIA: Una proprietà comune? ||| 공동 소유요?
+CORRADO: Una proprietà condivisa, sì. Con un solo registro, un solo inventario, e due chiavi. ||| 공유 소유입니다. 등록부 하나, 목록 하나, 열쇠 둘로요.
+BRUNI: Interessante. Ma i conservatori diranno che spostare una statua di duemila anni ogni cinque anni è un rischio. ||| 흥미롭네요. 하지만 보존 담당자들은 2천 년 된 조각상을 5년마다 옮기는 건 위험하다고 하겠죠.
+NADIA: Ci sono imballaggi moderni. Sono anch'io del mestiere: so quanto costa e quanto si può fare. ||| 요즘은 현대식 포장재가 있어요. 저도 같은 업계 사람이라 비용과 가능성을 알아요.
+CORRADO: Una cosa per volta. Prima capiamo che cosa c'è dietro il gesso. ||| 하나씩 하죠. 먼저 석고 뒤에 뭐가 있는지 알아봅시다.
+AMEDEO: Se lo permettete: dietro il gesso c'è sempre qualcosa. Nella vita e nelle statue. ||| 외람되지만, 석고 뒤에는 늘 뭔가 있습니다. 인생에서도 조각상에서도요.
+BRUNI: Amedeo, di notte lei fa il filosofo. ||| 아메데오 씨, 밤에는 철학자 노릇을 하시는군요.
+AMEDEO: Io faccio il custode, dottoressa. La filosofa vera è mia moglie. ||| 저는 경비원이에요, 박사님. 진짜 철학자는 제 아내죠.
++ moka = 모카포트(가정용 에스프레소 주전자). 야간 경비원의 커피 도구
++ lo zucchero si mette prima = 나폴리식은 설탕을 먼저(잔에 넣고 커피를 부음). 나폴리 사람의 자부심 섞인 농담
++ quarta crociata (1204) = 4차 십자군. 콘스탄티노폴리스 약탈과 청동 말의 베네치아 이송
++ cadere l'impero → 'caduto l'impero' = 제국이 무너진 뒤. 과거분사 독립절(분사 구문)
++ se + 접속법 반과거 + 조건법 = 비현실 가정 (E se nessuno prendesse l'originale? / Se l'originale girasse...)
++ con il corpo e con la copia = 몸으로 그리고 사본으로. 한 작품이 두 곳에 있는 방식
++ proprietà condivisa = 공유 소유. 소유자가 하나가 아니라 둘이며 번갈아 보관·전시하는 방식
++ il filosofo / la filosofa = 철학자(남)/(여). 아메데오의 농담: 진짜 철학자는 제 아내
+
+## 두 개의 서명 — DUE FIRME
+GIULIA: Dottoressa, tornando al gesso: possiamo farci un'idea di ciò che nasconde senza rovinare nulla? ||| 박사님, 석고 얘기로 돌아가서요. 아무것도 손상하지 않고 안에 뭐가 있는지 짐작할 방법이 있을까요?
+BRUNI: Una radiografia portatile. Il museo ne ha una per le urgenze. Nessun contatto con la superficie. ||| 이동식 엑스레이요. 박물관에 응급용으로 한 대 있어요. 표면에는 닿지 않고요.
+NADIA: E il permesso? ||| 허가는요?
+BRUNI: L'articolo nove vieta di spostare, prestare, cedere. Non vieta di guardare. E la radiografia non è un intervento invasivo: nessuna notifica alla Fondazione. ||| 9조는 이동, 대여, 양도를 금지해요. 들여다보는 건 금지하지 않아요. 그리고 엑스레이는 침습적 개입이 아니라서 재단에 통보할 필요가 없습니다.
+CORRADO: Allora lo facciamo domattina. Chi deve firmare? ||| 그럼 내일 아침에 합니다. 누가 서명해야 하죠?
+BRUNI: Il responsabile della sala, cioè io. E per la consulenza scientifica... ||| 방 책임자인 저요. 그리고 학술 자문으로는…
+NADIA: Io. Come curatrice del paese di origine. ||| 저요. 출처국의 큐레이터로서요.
+CORRADO: Due firme, due chiavi: la dottoressa Bruni, per Roma, e la dottoressa Haddad, per Tarsia. Nessuna delle due agisce da sola. ||| 서명 둘, 열쇠 둘입니다. 로마를 대신한 브루니 박사님과 타르시아를 대신한 하다드 박사님. 어느 쪽도 혼자서 움직이지 않습니다.
+BRUNI: Dottor Lanza, mi lascia dire una cosa? Questa sera ho temuto di essere ingenua. Poi ho guardato la sua faccia e ho pensato che ingenuo era chi non apriva mai. ||| 란차 박사님, 한마디 해도 될까요? 오늘 저녁 제가 순진한 건 아닐까 걱정했어요. 그러다 박사님 얼굴을 보고, 문을 한 번도 열지 않는 쪽이 순진한 거라고 생각했죠.
+CORRADO: Dottoressa, se avessi una faccia da diplomatico non mi lascerebbero entrare in nessun museo. ||| 박사님, 제가 외교관다운 얼굴이었다면 어느 박물관도 저를 들이지 않았을 겁니다.
+NADIA: Posso dire una cosa anch'io? ||| 저도 한마디 해도 될까요?
+BRUNI: Dilla. ||| 말해요.
+NADIA: In quindici anni non ho mai pensato che la persona che teneva la mia statua potesse volerle bene. Ho sempre pensato a un carceriere. ||| 15년 동안 제 조각상을 맡고 있는 사람이 그걸 아낄 수 있다고는 한 번도 생각하지 않았어요. 늘 간수라고만 생각했죠.
+BRUNI: Io ho sempre pensato che chi la reclamava avesse una bandiera in mano e non un fiore. ||| 저는 반환을 요구하는 사람은 손에 꽃이 아니라 깃발을 들고 있다고만 생각했어요.
+NADIA: Noi abbiamo tutti e due. ||| 우리는 둘 다 들고 있죠.
+CORRADO: Ricordatevelo domani, davanti al ministro Saadi e al Segretario Orsolini. ||| 내일 사아디 장관님과 오르솔리니 총장님 앞에서 이걸 기억하십시오.
+GIULIA: Corrado, dobbiamo avvisare comunque Orsolini. Una parte del mio compito è tenere i fili. ||| 코라도, 어쨌든 오르솔리니 총장님께 알려야 해요. 실마리를 쥐고 있는 게 제 일이에요.
+CORRADO: Mandagli due righe: «Domattina radiografia non invasiva alla Venere, due firme, nessuna notifica obbligatoria. Dettagli a voce». ||| 두 줄 보내요. '내일 아침 베누스 비침습 엑스레이, 서명 둘, 의무 통보 없음. 상세는 구두로'.
+GIULIA: E per la Fondazione? ||| 재단에는요?
+CORRADO: Non scriviamo il suo nome in nessuna mail finché non sappiamo cosa c'è dietro il gesso. ||| 석고 뒤에 뭐가 있는지 알기 전에는 어떤 메일에도 재단 이름을 쓰지 않습니다.
+GIULIA: Hai paura che l'ombra sia nella posta? ||| 우편함에 그림자가 있을까 봐 걱정되세요?
+CORRADO: Ho paura che l'ombra legga la posta. ||| 그림자가 우편을 읽을까 봐 걱정입니다.
+BRUNI: Allora anche io faccio una cosa: domattina arrivo alle sette, prima del personale. Sveglio il tecnico di radiologia e chiudo la sala dall'interno. ||| 그럼 저도 하나 하죠. 내일 아침 직원들보다 먼저 7시에 옵니다. 방사선 기사를 깨우고 방을 안에서 잠그겠어요.
+NADIA: E io porto una cosa da Marsa Beida. ||| 저는 마르사 베이다에서 가져온 걸 가져올게요.
+CORRADO: Che cosa? ||| 뭘요?
+NADIA: Un decalco. Quando fecero i lavori del porto, nel 1927, mio nonno era un operaio. Prese un calco in gesso dell'impronta sul podio. Un'impronta di piedi, di una dea sola. ||| 탁본이요. 1927년 항만 공사 때 제 할아버지가 인부였어요. 단 위의 자국을 석고로 본뜨셨죠. 발자국이에요, 여신 하나의.
+CORRADO: Di una dea sola? ||| 여신 하나의요?
+NADIA: Ma l'impronta è larga il doppio di quella di una Venere in piedi. È sempre stata una cosa che non capivo. ||| 그런데 자국 너비가 서 있는 베누스의 두 배예요. 늘 이해하지 못했던 부분이에요.
+BRUNI: Larga il doppio... come se ce ne fossero due. ||| 두 배 너비라니… 마치 둘이 서 있었던 것처럼요.
+CORRADO: O come se ce ne fosse una sola con due fronti. ||| 아니면 정면이 둘인 하나가 서 있었던 것처럼요.
+GIULIA: Corrado, è tardi. Hai già più teorie di quante servano a un museo. ||| 코라도, 늦었어요. 이미 박물관 하나에 필요한 것보다 많은 가설을 갖고 계세요.
+CORRADO: Tutte provvisorie. Come i migliori accordi. ||| 전부 임시예요. 최고의 합의들이 그렇듯이요.
++ avvisare / notifica = 알리다 / 통보. 협약상 침습적 개입은 재단에 통보해야 하지만 비침습 검사는 해당하지 않는다는 해석
++ vietare di + 동사 = ~하는 것을 금지하다. 'Non vieta di guardare' = 보는 것은 금지하지 않는다
++ se avessi una faccia da diplomatico non mi lascerebbero entrare = 외교관다운 얼굴이었다면 들이지 않았을 것 (se + 접속법 대과거/반과거 + 조건법)
++ ingenuo = 순진한. (~이 아닌 쪽이 순진하다는 역전 표현)
++ tenere i fili = 실마리를 쥐다, 일의 줄을 잡고 있다
++ l'ombra legga la posta = 그림자가 우편을 읽다. 레오나르도라는 이름의 배후를 '그림자'로 부르는 은유
++ decalco / calco = 탁본 / 거푸집, 본뜬 틀
++ provvisorio = 임시의. 순회 소유도 결국 '임시의 반복'이라는 철학
+
+## 한밤의 전화 — LA TELEFONATA
+CORRADO: Leo, sei ancora sveglio? Sono quasi le undici. ||| 레오, 아직 안 잤어? 거의 11시야.
+LEO: Sto leggendo Platone. Dice che Venere ha due volti, uno celeste e uno volgare. ||| 플라톤 읽고 있어. 베누스에게는 두 얼굴이 있대, 천상의 얼굴과 속세의 얼굴.
+CORRADO: Ne ho sentito parlare. ||| 들어 본 적 있어.
+LEO: E dice che sono la stessa dea. Cambia solo l'amore che le dedichi. ||| 그리고 같은 여신이래. 바치는 사랑이 달라질 뿐이래.
+CORRADO: La stessa dea. Leo, tu hai appena detto una frase che vale una notte intera. ||| 같은 여신. 레오, 방금 한 말이 하룻밤만큼의 값어치가 있구나.
+LEO: Che cosa succede, papà? ||| 무슨 일 있어, 아빠?
+CORRADO: Non lo so ancora. Domattina forse lo saprò. ||| 아직 몰라. 내일 아침이면 알지도 몰라.
+LEO: Mangia qualcosa. ||| 뭘 좀 먹어.
+CORRADO: Ho bevuto il caffè del custode. ||| 경비원 아저씨 커피를 마셨어.
+LEO: Non è mangiare. ||| 그건 먹는 게 아니야.
+CORRADO: Hai ragione. Mi porto un panino. Buonanotte, Leo. ||| 맞는 말이다. 샌드위치 하나 챙길게. 잘 자, 레오.
+LEO: Buonanotte, papà. E domani dimmi com'è la Venere da dietro. ||| 잘 자, 아빠. 그리고 내일 베누스가 뒤에서 어떻게 생겼는지 알려 줘.
+AMEDEO: Dottore, esce? Le chiudo io. ||| 박사님, 나가십니까? 제가 잠그겠습니다.
+CORRADO: Amedeo, un'ultima cosa. Ogni sera, prima di spegnere, che cosa fa? ||| 아메데오 씨, 마지막으로 하나. 매일 저녁 불을 끄기 전에 뭘 하십니까?
+AMEDEO: La saluto. «Buonanotte, Venere». E lei, come sempre, non risponde. ||| 인사합니다. '잘 자요, 베누스.' 그러면 늘 대답이 없죠.
+CORRADO: Stanotte provi a salutarla da dietro. ||| 오늘 밤은 뒤쪽에서 인사해 보세요.
+AMEDEO: Da dietro? Dottore, a una signora non si dà mai le spalle... ma se me lo chiede lei. ||| 뒤에서요? 박사님, 부인께는 등을 보이는 법이 아닌데… 박사님이 청하시니 해 보겠습니다.
++ vale una notte intera = 하룻밤만큼의 값어치가 있다. valere = 값어치가 나가다
++ dimmi com'è = 어떤지 말해 줘 (dire의 tu 명령형 di' + mi → dimmi)
++ la saluto = (경비원이) 조각상에게 인사한다. 사물에 인격을 부여하는 이탈리아식 정서
++ dare le spalle = 등을 돌리다. 여기서는 여신에게 뒤를 보이는 무례를 농담으로 삼음
++ mi porto un panino = (내가) 샌드위치를 챙긴다. 재귀 대명사로 '자기를 위해 가져가다'

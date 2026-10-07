@@ -1,0 +1,244 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 6
+@title Due volti
+@ko 두 얼굴
+@setting 수요일 7시 별관 베누스의 방 → 아침 사르토렐리 교수 해석 → 오후 3시 파르네지나 회의 → 저녁 란차의 식탁
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast ORSOLINI | 외무사무총장 루카 오르솔리니, 53세
+@cast SAADI | 타르시아 장관, 대표단장
+@cast BRUNI | 박물관 별관 책임 큐레이터 리비아 브루니, 50세
+@cast NADIA | 타르시아 국립박물관 큐레이터 나디아 하다드, 45세
+@cast DARIO | 박물관 방사선 기사, 38세
+@cast SARTORELLI | 타르시아의 라틴어 명문 학자 사르토렐리 교수, 81세
+@cast IDRIS | 타르시아 대표단 통역 이드리스, 72세
+@cast LEO | 란차의 아들, 16세
+@cast ERCOLE | 테스타초 보치아 클럽 노인(음성 메시지)
+@cast CONCETTA | 노나 콘체타(음성 메시지 속 목소리)
+@note B사건의 결산 화입니다. 이동식 엑스레이가 석고 뒤에서 '두 번째 얼굴'을 드러냅니다. 상은 앞면이 베누스, 뒷면은 초승달 관을 쓴 면사포 쓴 여신(카르타고의 천상의 여신 타닛과 겹치는 모습)을 새긴 '양면 상'이었고, 1931년에 뒷면을 가역적(reversibile) 석고로 덮어 벽에 붙였습니다. 앞면 명문의 'Caelestis'는 두 이름이 한 여신을 가리킨다는 단서였습니다(세부는 일반화). 해법의 순간은 이 발견입니다. 한 얼굴만 보던 소유 논쟁이 두 얼굴, 두 소유자로 바뀝니다. 합의는 '순회 소유'입니다. 공동 등록부 한 권과 두 열쇠(로마·타르시아의 서명)를 두고 5년씩 번갈아 전시하며, 비는 해에는 충실한 사본을 둡니다. 역사 논거는 메디치 가문의 선물 외교입니다. 로렌초 일 마니피코는 1481~82년 시스티나 예배당 벽화를 위해 자기 화가들을 교황에게 보냈고(선물이자 관계의 끈), 1487년 이집트 술탄이 보낸 기린을 받아 도시의 자랑으로 삼았습니다(세부는 일반화). 선물은 받는 쪽에 빚과 유대를 동시에 남깁니다. 어휘는 소유·합의(comproprietà, rotazione, custodia, riproduzione, reversibile)와 가정법(se + 접속법 반과거)에 주목하세요. 이 화로 B사건이 끝나고, 레오나르도 재단과 '알바(Alba)'라는 이름이 다음 사건으로 이어집니다.
+@next 3-7 «교황의 방문» — 교황의 지중해 방문 경로를 두고 정부·바티칸·현지가 충돌하고, 후원 만찬 스폰서 명단에 레오나르도가 다시 나타납니다.
+
+## 엑스레이 — LA RADIOGRAFIA
+BRUNI: Buongiorno a tutti. Sono le sette e due minuti. Nessuno dello staff è ancora arrivato. ||| 모두 좋은 아침입니다. 7시 2분이에요. 직원은 아직 아무도 안 왔고요.
+DARIO: Dottoressa, ho montato l'apparecchio. Posso fare tre proiezioni dal retro, a venti centimetri dal gesso, senza toccare. ||| 박사님, 장비를 설치했습니다. 석고에서 20센티미터 떨어져서 뒤쪽에서 세 방향으로 촬영할 수 있습니다. 닿지는 않고요.
+NADIA: Quanto ci mette? ||| 얼마나 걸리나요?
+DARIO: Quaranta secondi a proiezione. Poi la lastra digitale si carica. Fermi tutti, un passo indietro, per favore. ||| 촬영마다 40초입니다. 그다음 디지털 판에 이미지가 올라와요. 모두 한 걸음 뒤로 물러서 주세요.
+CORRADO: Dottoressa Haddad, sta tremando. ||| 하다드 박사님, 손이 떨리고 계시네요.
+NADIA: Sì. Perché è l'unica volta in cui potrò vedere l'altra faccia prima di sapere cosa dirà il ministero. ||| 네. 장관실이 뭐라고 하기 전에 다른 쪽 얼굴을 볼 수 있는 유일한 기회라서요.
+BRUNI: Anche io tremo. Non è la prima volta che apro una cassa. Ma è la prima volta che apro una statua. ||| 저도 떨려요. 상자를 여는 건 처음이 아닌데, 조각상을 여는 건 처음이거든요.
+DARIO: Via. ||| 촬영합니다.
+DARIO: ...Un'altra. ||| …한 장 더요.
+DARIO: ...E la terza. ||| …세 번째요.
+GIULIA: Ho trattenuto il respiro per tre minuti. ||| 저는 3분 동안 숨을 참았어요.
+DARIO: Eccole sul monitor. Guardate. ||| 모니터에 나왔습니다. 보세요.
+BRUNI: Dio mio. ||| 세상에.
+NADIA: È un volto. ||| 얼굴이에요.
+CORRADO: Dietro la nuca di Venere? ||| 베누스의 뒤통수 뒤에요?
+DARIO: Una seconda testa, in rilievo alto. Con un velo, e sopra la fronte qualcosa che sembra una falce di luna. Sotto il gesso, il marmo è integro. ||| 두 번째 머리예요, 높은 부조로요. 면사포를 쓰고 이마 위에는 초승달 같은 게 있어요. 석고 아래 대리석은 온전합니다.
+BRUNI: Quindi non è stata tagliata. È stata coperta. ||| 그러니까 잘라 낸 게 아니라 덮은 거네요.
+DARIO: Una copertura reversibile. Gesso di sostegno, non scalpello. Chi l'ha fatto sapeva di dover lasciare la via di ritorno. ||| 가역적 덮개예요. 끌이 아니라 지지용 석고입니다. 이걸 한 사람은 되돌릴 길을 남겨 둬야 한다는 걸 알았던 거죠.
+CORRADO: «La via di ritorno.» Il restauratore del 1931 sapeva che qualcuno sarebbe tornato. ||| '되돌릴 길'이라. 1931년의 복원가는 누군가 돌아오리라는 걸 알았군요.
+NADIA: Livia, la mia statua ha due facce. ||| 리비아, 내 조각상에는 얼굴이 둘이에요.
+BRUNI: Nostra, Nadia. La nostra statua ha due facce. ||| 우리 조각상이에요, 나디아. 우리 조각상에 얼굴이 둘이에요.
+NADIA: ...Hai ragione. Nostra. ||| …맞아. 우리 조각상.
+GIULIA: Corrado, non trovi che questa frase cambi la stanza? ||| 코라도, 이 말이 방의 공기를 바꿨다고 생각하지 않으세요?
+CORRADO: La stanza è già cambiata. Dottoressa Bruni, il retro che per novantotto anni guardava un muro... ora guarda tre persone e un tecnico. ||| 방은 이미 바뀌었습니다. 브루니 박사님, 98년 동안 벽을 보던 뒷면이 이제 세 사람과 기사님 한 분을 보고 있군요.
+BRUNI: E un custode che stanotte la salutava da dietro. ||| 그리고 어젯밤 뒤에서 인사하던 경비원 한 분도요.
+DARIO: Mi dica: il gesso lo rimuoviamo? ||| 말씀해 주세요, 석고를 벗길까요?
+BRUNI: Sì. Ma non oggi e non da soli. Con due firme e un protocollo di restauro. ||| 네. 하지만 오늘은 아니고 우리끼리도 아니에요. 서명 둘과 복원 절차서를 갖춰서요.
+CORRADO: E con la Fondazione informata. ||| 그리고 재단에 통보하고요.
+BRUNI: Con la Fondazione informata, sì. Perché l'articolo nove parla di spostare, ma qui non sposteremo niente: scopriremo. ||| 재단에 통보하고요, 네. 9조는 이동에 관한 것이지만 여기서는 아무것도 옮기지 않고 드러내기만 하니까요.
++ lastra = 판(板). lastra digitale = 디지털 엑스레이 판
++ proiezione = (엑스레이) 촬영 방향, 투영
++ fermi tutti = 모두 멈추세요 (fermo = 가만있는). 현장에서 쓰는 짧은 명령형
++ rilievo alto = 높은 부조(몸체가 크게 돌출한 양각)
++ reversibile = 가역적인, 되돌릴 수 있는. 현대 복원학의 기본 원칙
++ via di ritorno = 되돌아올 길, 되돌릴 방법
++ nostra / mia = 우리 / 내 (소유 대명사 전환). Nadia의 '내 조각상'이 '우리 조각상'으로 바뀐 순간이 해법의 심리적 전환
++ trattenere il respiro = 숨을 참다
+
+## 천상의 여신 — LA DEA CELESTE
+SARTORELLI: Mi hanno chiamato alle otto. Idris mi ha letto il messaggio due volte, perché io non ho creduto alla prima. ||| 8시에 전화를 받았소. 첫 번째는 내가 못 믿어서 이드리스가 메시지를 두 번 읽어 줬지.
+IDRIS: Professore, sieda. Respiri. ||| 교수님, 앉으세요. 숨 쉬세요.
+SARTORELLI: Sto bene. Fatemi vedere l'immagine. ||| 괜찮아. 이미지를 보여 주게.
+BRUNI: Eccola. ||| 여기 있습니다.
+SARTORELLI: ...Un velo. E la mezzaluna... Questa non è Venere. O meglio, non è solo Venere. ||| …면사포. 그리고 초승달… 이건 베누스가 아니야. 아니, 베누스만은 아니라고 해야겠지.
+CORRADO: Professore, la scritta sulla base dice «Veneri Caelesti». ||| 교수님, 받침의 글은 '베네리 카엘레스티'라고 되어 있습니다.
+SARTORELLI: Appunto. «Caelestis», la Celeste. Era il nome romano della grande dea di Cartagine, la Tanit dei punici. I romani la chiamavano Venere Celeste, o semplicemente Celeste. ||| 바로 그거요. '카엘레스티스', 천상의 여신. 카르타고의 위대한 여신, 곧 포에니인들의 타닛을 로마인들이 부른 이름이었소. 베누스 카엘레스티스라고도 하고 그냥 '천상의 여신'이라고도 했지.
+NADIA: Quindi non una Venere con un attributo africano? ||| 그럼 아프리카적 속성이 붙은 베누스가 아니라는 거예요?
+SARTORELLI: Una dea sola con due nomi e due volti. Davanti, quella che i romani riconoscevano. Dietro, quella che i punici pregavano da secoli. ||| 이름이 둘이고 얼굴이 둘인 한 여신이오. 앞면은 로마인이 알아보는 얼굴, 뒷면은 포에니인이 수백 년 기도해 온 얼굴이지.
+IDRIS: La stessa dea vista da due popoli. ||| 두 민족이 본 같은 여신이죠.
+SARTORELLI: E scolpita perché la vedessero entrambi. La processione girava intorno al tempio. Ecco perché l'impronta sul podio è larga il doppio. ||| 그리고 두 민족 다 볼 수 있도록 조각된 거요. 행렬이 신전을 돌았소. 그래서 단 위 자국이 두 배로 넓은 거고.
+NADIA: «E cives». I cittadini, tutti i cittadini: latini e punici. ||| '에트 키베스'. 시민들, 모든 시민이요. 라틴인도 포에니인도.
+SARTORELLI: Giusto. La comunità non era una sola. Questa è la parola nascosta nel marmo: «cives» al plurale, di due lingue. ||| 맞소. 공동체는 하나가 아니었소. 대리석에 숨은 말은 그거요. 두 언어의 복수 '시민들'.
+CORRADO: Professore, e se oggi due paesi si contendessero questa statua... ||| 교수님, 지금 두 나라가 이 상을 두고 다툰다면…
+SARTORELLI: ... sarebbero i nipoti dei due popoli che la pregarono insieme. Non c'è nessun ladro. Ci sono due eredi. ||| …함께 기도한 두 민족의 손자들이 될 거요. 도둑은 없소. 상속자 둘이 있을 뿐이지.
+BRUNI: Due eredi. Questa è la parola giusta. ||| 상속자 둘. 정확한 단어네요.
+CORRADO: E per due eredi esiste una formula in tutti i codici civili del mondo. ||| 상속자가 둘일 때 쓰는 공식은 세상 모든 민법에 있습니다.
+NADIA: Comproprietà. ||| 공동 소유요.
+CORRADO: Con un regolamento d'uso. Chi la tiene, in quale anno, con quali cure, a spese di chi. ||| 이용 규칙을 둔 채로요. 누가 어느 해에, 어떤 관리로, 누구 비용으로 맡는지요.
+SARTORELLI: Una cosa mi preme dire. ||| 한 가지 꼭 말하고 싶은 게 있소.
+CORRADO: Prego, professore. ||| 말씀하십시오, 교수님.
+SARTORELLI: Quando ero ragazzo, una vecchia di Marsa Beida mi disse: «La dea guarda da due parti perché il porto ha due entrate». Io pensavo a una favola. ||| 어렸을 때 마르사 베이다의 한 노파가 '여신은 항구에 입구가 둘이라서 양쪽을 본다'고 했소. 나는 옛날이야기인 줄 알았지.
+IDRIS: Non era una favola. ||| 옛날이야기가 아니었군요.
+SARTORELLI: Era una mappa. ||| 지도였소.
+CORRADO: Professore, mi permetta di scriverlo. Se il Segretario Orsolini vuole un argomento, questo è il più bello. ||| 교수님, 기록해 두겠습니다. 오르솔리니 총장님이 논거를 원하신다면 이게 가장 아름답습니다.
+SARTORELLI: Lo scriva. Ma ci metta un fiore. ||| 쓰시오. 하지만 꽃도 한 송이 곁들이시오.
+CORRADO: Un fiore e due firme. ||| 꽃 한 송이와 서명 둘이죠.
++ Caelestis / Tanit = 카르타고의 위대한 여신 타닛(로마인은 Caelestis, 천상의 여신이라 불렀음). 이름이 둘, 여신은 하나
++ scolpita perché la vedessero entrambi = 둘 다 볼 수 있도록 조각된 (perché + 접속법 = ~하도록, 목적절)
++ se oggi due paesi si contendessero = 오늘 두 나라가 다툰다면 (se + 접속법 반과거, 비현실 가정)
++ ladro / erede = 도둑 / 상속자. 소유 논쟁의 프레임을 '약탈'에서 '상속'으로 바꾸는 단어
++ comproprietà = 공동 소유, 지분을 나눠 가진 소유
++ regolamento d'uso = 이용 규칙, 사용 규정
++ mi preme dire = 꼭 말하고 싶다 (premere = 마음에 걸리다, 중요하다)
++ era una mappa = 지도였다. 구전이 사실을 담고 있었다는 놀라움을 짧게 표현
+
+## 오르솔리니의 책상 — LA RIUNIONE
+ORSOLINI: Sono le tre del pomeriggio. Ho davanti due curatrici, un ministro, un professore, un interprete e il mio più testardo negoziatore. Cominciamo dalla fine: che cosa proponete? ||| 오후 3시입니다. 앞에 큐레이터 두 분, 장관님, 교수님, 통역사, 그리고 가장 고집 센 협상관이 앉아 있군요. 끝부터 시작하죠. 무엇을 제안합니까?
+CORRADO: Una comproprietà con rotazione. La Venere Celeste, una statua con due volti, appartiene in comune alla Repubblica Italiana e alla Repubblica di Tarsia. ||| 순회하는 공동 소유입니다. 두 얼굴을 가진 천상의 베누스 상은 이탈리아 공화국과 타르시아 공화국의 공동 소유가 됩니다.
+SAADI: E l'altra metà del tempo? ||| 그리고 나머지 시간은요?
+CORRADO: Cinque anni a Roma, nell'Annesso. Cinque anni a Marsa Beida, nel Museo Nazionale. Nell'anno vuoto, in ciascun luogo, una riproduzione fedele a grandezza naturale, con le due facce. ||| 로마 별관에서 5년, 마르사 베이다 국립박물관에서 5년입니다. 비는 해에는 각 장소에 두 얼굴을 모두 담은 실물 크기 사본을 둡니다.
+ORSOLINI: E chi paga il trasporto e l'assicurazione? ||| 운송과 보험은 누가 냅니까?
+CORRADO: Un fondo comune, gestito con due chiavi. Metà Roma, metà Tarsia. E una quota per il restauro della parte posteriore. ||| 두 열쇠로 관리하는 공동 기금입니다. 로마와 타르시아가 반반이고, 뒷면 복원 비용도 한 몫 넣습니다.
+SAADI: Una domanda, dottor Lanza. Chi decide dove sta la statua il giorno in cui, per esempio, scoppia una guerra, o un terremoto? ||| 질문이 하나 있습니다, 란차 박사님. 전쟁이나 지진이 일어난 날 상이 어디 있을지는 누가 결정합니까?
+CORRADO: La decisione richiede entrambe le chiavi. In caso di emergenza, vale la regola della sicurezza: la statua resta dove è più al sicuro finché le due parti non si accordano. ||| 결정에는 두 열쇠가 모두 필요합니다. 비상시에는 안전 규칙이 우선입니다. 양측이 합의할 때까지 상은 가장 안전한 곳에 머뭅니다.
+SAADI: E il primo anno? Chi la tiene per primo? ||| 첫해는요? 누가 먼저 맡습니까?
+CORRADO: Ministro, la proposta è che la prima sistemazione sia a Marsa Beida. ||| 장관님, 처음 자리는 마르사 베이다로 하자는 제안입니다.
+ORSOLINI: Lo so. L'ho letto nella tua nota. Corrado, hai già scritto una cosa che io non ho approvato. ||| 알아요, 당신 메모에서 읽었습니다. 코라도, 내가 승인하지 않은 걸 벌써 써 놓았군요.
+CORRADO: L'ho scritto per darle un'ipotesi da respingere. ||| 거절하실 가설을 드리려고 썼습니다.
+ORSOLINI: Non la respingo. Ma voglio una condizione. La prima volta a Marsa Beida, sì; però dopo cinque anni la statua torna a Roma in una cerimonia, con lo stesso fiore. ||| 거절하지 않겠습니다. 하지만 조건이 하나 있어요. 처음은 마르사 베이다가 맞고, 5년 뒤에는 같은 꽃과 함께 의식을 열어 로마로 돌아옵니다.
+SAADI: Accetto il fiore. E la dea ne sarà felice. ||| 꽃을 받아들입니다. 여신도 기뻐할 겁니다.
+BRUNI: Posso aggiungere una clausola tecnica? ||| 기술적 조항을 하나 덧붙여도 될까요?
+ORSOLINI: Prego, dottoressa. ||| 말씀하세요, 박사님.
+BRUNI: Il gesso. Va rimosso prima del primo trasferimento, con una squadra mista di restauratori, e la statua deve restare in piedi, libera, al centro della sala: dritta, non contro il muro. Con le due facce sempre visibili. ||| 석고요. 첫 이송 전에 양측 복원가로 구성한 혼성팀이 벗겨 내야 하고, 상은 벽이 아니라 방 한가운데 똑바로 서서 두 얼굴이 늘 보여야 합니다.
+NADIA: Con una base girevole. L'impronta sul podio suggerisce che la statua girasse. ||| 회전하는 받침으로요. 단 위 자국을 보면 상이 돌았던 것 같아요.
+SARTORELLI: Girava durante le feste. Per questo i podi a Tarsia avevano il foro al centro. ||| 축제 때 돌았소. 그래서 타르시아의 단에는 가운데 구멍이 있었지.
+ORSOLINI: Una Venere che gira, come la boccia del Testaccio. ||| 테스타초의 보치아 공처럼 도는 베누스군요.
+CORRADO: Segretario, chi le ha parlato della boccia? ||| 총장님, 보치아 공 얘기는 누가 했습니까?
+ORSOLINI: Mi ha telefonato un certo Ercole alle otto. Dice che hai dimenticato un gessetto sul tavolo. ||| 에르콜레라는 분이 8시에 전화했어요. 당신이 식탁에 분필을 두고 갔다고 하더군요.
+CORRADO: Ho tutte le segreterie del mondo, tranne la mia. ||| 세상 모든 비서실이 있는데 제 비서실만 없군요.
+ORSOLINI: Passiamo al punto delicato. L'articolo nove della convenzione con la Fondazione. ||| 민감한 대목으로 넘어갑시다. 재단과의 협약 9조입니다.
+BRUNI: Ho già inviato una comunicazione di cortesia, stamattina alle nove. La Fondazione non ha risposto. ||| 오늘 아침 9시에 예의상 통보를 보냈어요. 재단은 아직 답이 없습니다.
+GIULIA: Segretario, a mezzogiorno mi hanno chiamata dalla Fondazione. La segretaria generale vorrebbe un incontro. ||| 총장님, 정오에 재단에서 저한테 전화가 왔어요. 사무총장이라는 분이 만나자고 합니다.
+ORSOLINI: Prima di sapere cosa dicono, dimmi cosa vogliamo. ||| 그쪽이 뭐라 하는지 알기 전에 우리가 뭘 원하는지부터 말해요.
+CORRADO: Vogliamo che il nome della Fondazione rimanga sulla targa, accanto al nome di Tarsia, in entrambe le sale. Cioè: sulla lavagna, come tutti. ||| 재단 이름이 타르시아 이름 옆에 명판에 남기를 바랍니다. 두 방 모두에서요. 곧 칠판에, 다른 사람들과 똑같이요.
+ORSOLINI: E se chiedono qualcosa in cambio? ||| 대가로 뭘 요구하면요?
+CORRADO: Lo scriveremo nel registro, davanti a tutti. Ma niente allegati riservati. ||| 등록부에 모두가 보는 앞에서 쓰겠습니다. 단 기밀 부속서는 없습니다.
+SAADI: Mi piace questa frase: «niente allegati riservati». Posso metterla sul muro del mio ufficio? ||| 그 말이 마음에 듭니다. '기밀 부속서는 없다'. 제 사무실 벽에 붙여도 될까요?
+ORSOLINI: Mettila sul muro di tutti i ministeri. ||| 모든 부처의 벽에 붙입시다.
++ riproduzione fedele a grandezza naturale = 실물 크기의 충실한 사본
++ fondo comune = 공동 기금
++ assicurazione = 보험 (trasporto e assicurazione = 운송과 보험)
++ base girevole = 회전 받침(girare = 돌다). 단의 중앙 구멍과 맞물리는 구조
++ passiamo al punto delicato = 민감한 대목으로 넘어갑시다. 회의 진행 관용구
++ una comunicazione di cortesia = 예의상의(비공식) 통보. 법적 요건은 아니지만 신뢰를 위한 연락
++ sulla lavagna, come tutti = 칠판에, 다른 사람들과 똑같이. 칠판 모티프의 회수. 재단의 이름도 다른 이와 똑같이 한 줄로 올린다
++ tranne la mia = 내 것만 빼고. tranne + 명사 = ~을 제외하고
+## 식탁 위의 여신 — A TAVOLA CON LA DEA
+CORRADO: Prego, accomodatevi. Ministro, lei qui, a capotavola. Professore, accanto a me. ||| 어서 앉으십시오. 장관님은 여기 상석에요. 교수님은 제 옆에 앉으시고요.
+SAADI: Dottor Lanza, mi dà del tu? Siamo a casa sua, e a casa si abbassano i titoli. ||| 란차 박사님, 말씀 편하게 하시겠습니까? 박사님 댁이니 집에서는 직함을 내려놓는 법이지요.
+CORRADO: Con piacere, Saadi. E tu chiamami Corrado. ||| 기꺼이, 사아디. 그럼 나도 코라도라고 불러요.
+SAADI: Corrado. La parola ha un suono morbido, come il pane tiepido. ||| 코라도. 갓 나온 따뜻한 빵처럼 부드러운 소리군요.
+LEO: Buonasera, signor ministro. Sono Leo. Sono il cuoco dei contorni. ||| 안녕하세요, 장관님. 레오예요. 곁들임 요리 담당이에요.
+SAADI: Ah, un cuoco. Che cosa prepari? ||| 아, 요리사로군. 뭘 만들었니?
+LEO: Zucchine alla scapece e peperoni. Mio padre ha fatto il pesce all'acqua pazza. ||| 호박 스카페체랑 피망이요. 아빠는 아쿠아파차 생선을 만들었어요.
+SARTORELLI: Acqua pazza? Un'acqua matta? ||| 아쿠아파차? 미친 물이라고?
+CORRADO: Un brodo leggero con pomodorini e prezzemolo, professore. Si chiama così perché una volta i pescatori napoletani cucinavano con l'acqua di mare. ||| 방울토마토와 파슬리를 넣은 가벼운 국물입니다, 교수님. 예전에 나폴리 어부들이 바닷물로 요리해서 그런 이름이 붙었죠.
+SARTORELLI: Come i pescatori di Marsa Beida. Con una tradizione identica. ||| 마르사 베이다 어부들처럼 말이오. 전통이 똑같구려.
+NADIA: Sapete che in arabo di Tarsia lo chiamiamo «il brodo del porto»? ||| 타르시아 아랍어로는 이걸 '항구 국물'이라고 부른다는 걸 아세요?
+BRUNI: Allora c'è la comproprietà anche del brodo. ||| 그럼 국물도 공동 소유네요.
+GIULIA: A tavola siamo già in accordo: quindi il resto è formalità. ||| 식탁에서는 이미 합의한 셈이니 나머지는 형식이에요.
+CORRADO: Giulia, lei è bolognese: ha l'istinto del contratto. ||| 조울리아, 볼로냐 사람이라 계약 본능이 있군요.
+IDRIS: Ministro, posso chiedere una cosa? Il professore e io vorremmo brindare con acqua, ma i padroni di casa hanno messo il vino. ||| 장관님, 하나 여쭤도 되겠습니까? 교수님과 저는 물로 건배하고 싶은데 집주인께서 포도주를 내셨습니다.
+CORRADO: Idris, ho pensato a tutto. Acqua di sorgente per voi, con una fetta di limone. ||| 이드리스 씨, 다 생각해 뒀습니다. 두 분께는 레몬 한 조각을 넣은 샘물이 있어요.
+IDRIS: Lei è un diplomatico premuroso. ||| 세심한 외교관이시군요.
+CORRADO: Sono un napoletano. È la stessa cosa. ||| 나폴리 사람이라서요. 같은 말이죠.
+BRUNI: Posso fare un brindisi? Alla comproprietà, al brodo del porto e ai cinque anni di Venere a Roma. ||| 건배사를 해도 될까요? 공동 소유를 위하여, 항구 국물을 위하여, 그리고 로마에서의 베누스 5년을 위하여.
+NADIA: E ai cinque anni di Tarsia. ||| 그리고 타르시아에서의 5년을 위하여.
+LEO: E ai dieci anni di tutti e due. ||| 그리고 둘 다에게 열 번의 해를 위하여.
+SAADI: Leo, hai la tua matematica. ||| 레오, 계산이 있구나.
+LEO: È l'unica che mi riesce bene. ||| 제가 제일 잘하는 건 그것뿐이에요.
+SARTORELLI: Aspettate, lasciate che vi racconti una cosa, prima che si freddi il pesce. Ciò che avete deciso oggi, a Firenze lo facevano già ai tempi di Lorenzo il Magnifico. ||| 잠깐, 생선이 식기 전에 이야기를 하나 하겠소. 오늘 여러분이 결정한 일을 피렌체에서는 로렌초 일 마니피코 시대에 이미 하고 있었소.
+CORRADO: Che cosa, professore? ||| 무엇을요, 교수님?
+SARTORELLI: Regalare invece di prendere. Nel 1481 Lorenzo mandò a Roma i suoi pittori, Botticelli e gli altri, a dipingere nella Cappella del Papa. Non erano un tributo: erano un dono che teneva il Papa legato a Firenze. ||| 빼앗는 대신 선물하는 일이오. 1481년 로렌초는 보티첼리를 비롯한 자기 화가들을 교황의 예배당에 그림을 그리라고 로마로 보냈소. 조공이 아니라 교황을 피렌체에 묶어 두는 선물이었지.
+BRUNI: E nel 1487 ricevette una giraffa dal sultano d'Egitto. ||| 그리고 1487년에는 이집트 술탄에게서 기린을 받았죠.
+SARTORELLI: Esatto. La città intera andava a vederla. Un dono che diventò un orgoglio comune. ||| 맞소. 도시 전체가 보러 갔지. 선물이 공동의 자랑이 된 거요.
+LEO: Una giraffa a Firenze nel Quattrocento? Come l'hanno portata? ||| 15세기 피렌체에 기린이라고요? 어떻게 데려왔어요?
+BRUNI: In nave, e poi a piedi. Con tanta cura e tanti ortaggi. ||| 배로, 그다음엔 걸어서요. 정성과 채소를 잔뜩 먹여서요.
+SAADI: Un regalo lascia sempre due cose: un debito e un legame. ||| 선물은 늘 두 가지를 남기지요. 빚과 유대입니다.
+CORRADO: Il conto e il filo. ||| 계산서와 실이죠.
+SAADI: Da noi, quando un ospite porta un dono, bisogna ricambiare entro l'anno. Se non ricambi, il legame si spezza. ||| 우리 쪽에서는 손님이 선물을 가져오면 1년 안에 답례를 해야 합니다. 답례를 하지 않으면 유대가 끊어지지요.
+SARTORELLI: Ecco, la rotazione è questo. Cinque anni a te, cinque anni a me. Un dono che ritorna. ||| 바로 그거요, 순회 소유는. 5년은 그대에게, 5년은 나에게. 돌아오는 선물이오.
+LEO: Papà, posso fare la mia domanda di filosofia? ||| 아빠, 제 철학 질문 해도 돼요?
+CORRADO: Prima il pesce. Poi la filosofia. ||| 먼저 생선, 그다음이 철학이다.
+LEO: No, adesso, perché Saadi è ospite e deve rispondere. ||| 아니, 지금요. 사아디 장관님이 손님이니까 대답하셔야 해요.
+SAADI: Mi hanno già interrogato in tutti i modi, ma un ragazzo di sedici anni è il più severo. Dimmi. ||| 온갖 방식으로 심문을 받아 봤지만 열여섯 살 소년이 가장 엄하군. 말해 보렴.
+LEO: Se una statua ha due volti, qual è il volto vero? ||| 조각상에 얼굴이 둘이면 어느 쪽이 진짜 얼굴이에요?
+SAADI: Interessante. Nadia, tu che sei una curatrice. ||| 흥미롭구나. 나디아, 큐레이터인 네가 답해 보게.
+NADIA: Direi che dipende da chi guarda. Chi entra dal porto vede un volto, chi entra dalla città ne vede un altro. ||| 보는 사람에 달렸다고 하고 싶어요. 항구로 들어오는 사람은 한 얼굴을 보고, 시내에서 들어오는 사람은 다른 얼굴을 보죠.
+BRUNI: Direi che il volto vero è quello che guarda anche l'altro. ||| 저는 진짜 얼굴은 다른 쪽 얼굴도 바라보는 얼굴이라고 하고 싶어요.
+LEO: Platone dice che la Venere celeste e la Venere volgare sono la stessa dea. Cambia l'amore con cui la guardi. ||| 플라톤은 천상의 베누스와 속세의 베누스가 같은 여신이라고 해요. 바라보는 사랑이 달라질 뿐이래요.
+SARTORELLI: Giovanotto, tu sei più avanti di me. Io ci ho messo ottant'anni a capirlo. ||| 젊은이, 자네가 나보다 앞서 있구먼. 나는 이해하는 데 팔십 년이 걸렸소.
+CORRADO: Allora scriviamo la prima riga dell'accordo con la penna blu: «La Venere Celeste è una dea sola con due volti e due eredi». ||| 그럼 합의문의 첫 줄을 파란 펜으로 씁시다. '천상의 베누스는 얼굴이 둘이고 상속자가 둘인 하나의 여신이다'.
+SAADI: E la firma? ||| 서명은요?
+CORRADO: Sulla tovaglia di carta, adesso, con due firme: la tua e la mia. Poi le firme formali la settimana prossima, nel Registro. ||| 지금 종이 식탁보에 두 서명으로 합니다. 당신과 제 서명이요. 정식 서명은 다음 주 등록부에서 하고요.
+SAADI: Una tovaglia di carta come atto preliminare. Mio nonno sarebbe stato fiero. ||| 종이 식탁보가 예비 문서라니. 우리 할아버지가 자랑스러워하셨겠습니다.
+CORRADO: «A tavola si promette.» ||| '식탁에서 약속한다.'
+SAADI: «E a tavola si paga.» Anche io ho imparato la frase. ||| '그리고 식탁에서 갚는다.' 저도 그 말을 배웠습니다.
++ a capotavola = 식탁 상석(끝자리)에. capotavola = 식탁의 머리 쪽
++ mi dà del tu? = 말을 놓으시겠습니까? (Lei → tu 전환의 제안). 집에서는 직함을 내려놓는다
++ acqua pazza = '미친 물'. 나폴리식 생선 요리(토마토·파슬리 국물)
++ zucchine alla scapece = 나폴리식 식초 절임 호박 튀김
++ regalare invece di prendere = 빼앗는 대신 선물하다. 메디치 가문의 선물 외교 원리
++ lasciare un debito e un legame = 빚과 유대를 남기다. 선물의 이중성(시리즈 모티프 il conto)
++ giovanotto = 젊은이 (노인이 소년을 다정하게 부르는 말)
++ tovaglia di carta = 종이 식탁보. 비공식 합의를 적는 식탁의 서명판
++ avere ragione in due vs due eredi = 둘 다 옳을 수 없다는 4화의 말이 '상속자 둘'로 풀린 대목
+
+## 알바 — ALBA
+GIULIA: Il telefono vibra. È la Fondazione. Ha risposto per iscritto: «La Fondazione Leonardo per le Arti e il Mediterraneo prende atto con favore dell'iniziativa e rinuncia al diritto di cui all'articolo 9, purché il proprio nome compaia sulle targhe di entrambe le sale e il primo trasferimento sia curato da Alba Logistica S.r.l.». ||| 전화가 울려요. 재단이에요. 서면으로 답했습니다. '지중해와 예술을 위한 레오나르도 재단은 이 발의를 호의적으로 받아들이며, 양쪽 방의 명판에 재단 이름이 오르고 첫 이송을 알바 로지스티카 유한회사가 맡는 조건으로 9조의 권리를 포기한다.'
+CORRADO: Alba Logistica. ||| 알바 로지스티카.
+GIULIA: Fiduciaria Alba, Alba Logistica. Quasi lo stesso nome, Corrado. ||| 피두차리아 알바, 알바 로지스티카. 거의 같은 이름이에요, 코라도.
+BRUNI: Chi è? ||| 누구죠?
+CORRADO: Una società di trasporti. Giulia, domattina la verifichi nel registro delle imprese. Se ha una sola persona dietro, la scriviamo sulla lavagna. ||| 운송 회사입니다. 조울리아, 내일 아침 등기부에서 확인해 줘요. 뒤에 사람이 하나뿐이면 칠판에 씁시다.
+GIULIA: E se ne ha tre? ||| 셋이면요?
+CORRADO: Allora scriviamo tre nomi. Mai una nebbia senza il suo orario. ||| 그럼 이름 셋을 씁니다. 종료 시각 없는 안개는 없어요.
+SAADI: Il nome della Fondazione sulla targa: lo accetto. Con una condizione: la targa dev'essere in due lingue. ||| 명판에 재단 이름이 오르는 건 받아들입니다. 조건이 하나 있어요. 명판은 두 언어로 쓸 것.
+NADIA: E sul retro della statua, lo stesso. Non c'è il retro per i donatori, solo per la dea. ||| 그리고 상의 뒷면에도 마찬가지로요. 뒷면은 기부자의 자리가 아니라 오직 여신의 자리예요.
+BRUNI: Accetto. ||| 동의해요.
+GIULIA: Corrado, c'è un'altra cosa. Mentre parlavate, il Segretario mi ha girato una comunicazione della Santa Sede. ||| 코라도, 하나 더 있어요. 말씀들 하시는 동안 총장님이 교황청 연락문을 저한테 넘겼어요.
+CORRADO: La Santa Sede? ||| 교황청이요?
+GIULIA: Il Papa visiterà tre luoghi del Mediterraneo. Il cerimoniale vuole parlare con te lunedì. C'è un monsignore nuovo: Carlo Manini. ||| 교황님이 지중해 세 곳을 방문하실 거래요. 의전 쪽에서 월요일에 당신과 얘기하고 싶답니다. 새 몬시뇰이 있어요, 카를로 마니니.
+CORRADO: Il successore di Bellandi. ||| 벨란디의 후임이군요.
+GIULIA: E c'è un'altra riga: la cena di gala del Papa a Roma, in vista della partenza, ha un patrocinio. ||| 그리고 한 줄이 더 있어요. 출발을 앞둔 교황님의 로마 만찬에 후원이 붙었어요.
+CORRADO: Di chi? ||| 누구 후원이죠?
+GIULIA: Fondazione Leonardo. ||| 레오나르도 재단이에요.
+CORRADO: Naturalmente. ||| 당연하군요.
+LEO: Papà, ti è arrivato un messaggio vocale. Dice «Ercole». ||| 아빠, 음성 메시지가 왔어. 에르콜레라고 쓰여 있어.
+CORRADO: Mettilo in vivavoce. ||| 스피커폰으로 틀어 봐라.
+ERCOLE: Corrado! Mi hanno detto che la Venere gira. Bene. Ma ricordati, chi gira deve girare per tutti: se gira solo per uno, quella non è una rotazione, è una fuga. ||| 코라도! 베누스가 돈다고 들었다. 좋아. 하지만 명심해라. 도는 건 모두를 위해 돌아야 해. 한 사람을 위해서만 돌면 그건 순회가 아니라 도망이야.
+CONCETTA: E dagli da mangiare, a quel ragazzo! ||| 그리고 그 아이한테 밥도 먹이고!
+ERCOLE: Concetta dice di darti da mangiare. Ciao. ||| 콘체타가 너한테 밥을 먹이라는구나. 끊는다.
+CORRADO: Sono già nutrito, Ercole. Di cibo e di sapienza. ||| 벌써 먹었어요, 에르콜레 씨. 음식도, 지혜도요.
+SAADI: Corrado, chi sono questi saggi? ||| 코라도, 이 현인들은 누굽니까?
+CORRADO: Il mio ufficio studi, Saadi. Vicino al Tevere, con le bocce. ||| 제 연구소입니다, 사아디. 테베레 강가의 보치아 공들과 함께요.
+SAADI: Un giorno li invito a Marsa Beida. ||| 언젠가 마르사 베이다에 초대하겠습니다.
+CORRADO: Verranno. Ma portano le bocce. ||| 올 겁니다. 보치아 공을 들고서요.
+LEO: Papà, la mia domanda: la serratura l'hai trovata ieri. Oggi hai trovato la chiave? ||| 아빠, 내 질문인데. 어제는 자물쇠를 찾았잖아. 오늘은 열쇠를 찾았어?
+CORRADO: Due chiavi, Leo. Una di Roma, una di Tarsia. Nessuna apre da sola. ||| 열쇠가 둘이야, 레오. 하나는 로마, 하나는 타르시아. 어느 쪽도 혼자서는 못 열어.
+LEO: E la Venere? ||| 그럼 베누스는?
+CORRADO: La Venere ci guarda. Da due parti. ||| 베누스가 우리를 보고 있지. 양쪽에서.
+SAADI: Ai due volti. ||| 두 얼굴을 위하여.
+TUTTI: Ai due volti! ||| 두 얼굴을 위하여!
++ prendere atto = (사실을) 인지하다, 공식적으로 받아들이다. 행정 문체의 관용구
++ rinunciare al diritto di... = ~의 권리를 포기하다. purché + 접속법 = ~라는 조건으로 (purché il proprio nome compaia)
++ mai una nebbia senza il suo orario = 종료 시각 없는 안개는 없다. 3화의 '안개에 종료 시각이 생겼다'의 반복
++ Fiduciaria Alba / Alba Logistica = 알바라는 이름이 신탁회사와 운송회사에서 겹침. 레오나르도의 '한 겹 뒤'를 암시
++ girare per tutti / una fuga = 모두를 위해 돌다 / 도망. 순회는 모든 당사자에게 이익일 때만 순회라는 노인의 한마디
++ e dagli da mangiare! = 먹을 걸 줘라! (dagli = da' + gli, 부정형 아닌 명령형 + 간접목적 대명사)
++ in vivavoce = 스피커폰으로 (viva voce 표기: 'in viva voce'도 쓰임)
++ ai due volti! = 두 얼굴을 위하여! (A + 명사 형태의 건배)

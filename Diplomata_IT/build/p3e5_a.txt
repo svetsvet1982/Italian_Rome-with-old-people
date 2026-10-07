@@ -1,0 +1,113 @@
+@series DUE SPONDE · 외교관 시리즈
+@lang 이탈리아어 낭독 교재
+@part 3
+@ep 5
+@title Il museo la notte
+@ko 밤의 박물관
+@setting 화요일 밤 21시 30분~23시 로마 고고학 박물관 별관 '베누스의 방'과 수장고
+@level B2-C1
+@cast CORRADO | 외무부 위기대응국 협상관, 47세
+@cast GIULIA | 분석관, 31세
+@cast BRUNI | 박물관 별관 책임 큐레이터 리비아 브루니, 50세
+@cast NADIA | 타르시아 국립박물관 큐레이터 나디아 하다드, 45세
+@cast AMEDEO | 별관 야간 경비원, 63세
+@cast LEO | 란차의 아들, 16세
+@note 같은 주 화요일 밤입니다. 큐레이터 두 사람이 비공식으로 만납니다. 외교관은 증인이자 제3의 열쇠입니다. 하다드의 장갑에 묻은 하얀 가루가 이야기의 열쇠입니다. 대리석 가루라면 반짝여야 하는데 이 가루는 부드럽고 분필 같은 석고입니다. 1928년 발송 명세서의 '석고 받침대', 1931년 입고 장부의 '뒷면 마감 없음, 벽에 붙일 것'과 합쳐지면, 상의 뒷면이 석고로 덮여 있다는 결론이 나옵니다. 역사 논거는 베네치아 산마르코의 청동 말입니다. 1204년 4차 십자군 때 콘스탄티노폴리스에서 베네치아로 왔고, 1797년 나폴레옹이 파리로 가져갔다가 1815년 돌아왔으며, 지금은 원본을 실내에 두고 정면에는 사본을 세웁니다(세부는 일반화). 한 물건이 여러 번 주인이 바뀌고도 '자리'를 지킨 사례입니다. 또한 브루니는 7년 전 레오나르도 재단의 기증 조건에 '상은 재단 동의 없이 이동·대여할 수 없다'는 조항이 있음을 털어놓습니다. 어휘는 박물관·보존(sala, deposito, restauro, polvere, gesso, schiena, ritocco)과 말씨 전환(Lei에서 tu로)에 주목하세요.
+@next 3-6 «두 얼굴» — 석고를 벗겨 낸 상의 뒷면에서 두 번째 얼굴이 나타나고, 두 나라가 번갈아 전시하는 순회 소유를 합의합니다.
+
+## 폐관 후 — DOPO LA CHIUSURA
+AMEDEO: Buonasera, dottoressa Bruni. Sono le nove e mezza, il museo ha chiuso da un'ora. Mi avevano detto di tre persone e ne vedo quattro. ||| 안녕하십니까, 브루니 박사님. 9시 반입니다, 박물관은 한 시간 전에 문을 닫았고요. 세 분이라고 들었는데 네 분이 보입니다.
+BRUNI: Amedeo, la quarta persona è la dottoressa Haddad, ospite del ministero. Firmi pure sul registro. ||| 아메데오 씨, 네 번째 분은 하다드 박사님이에요. 장관실 손님입니다. 장부에 서명하세요.
+AMEDEO: Nome, ora, motivo. «Consultazione scientifica notturna.» Molto bello. Ma lei lo sa che, a quest'ora, i musei hanno un'altra aria? ||| 이름, 시각, 사유. '야간 학술 열람.' 아주 근사하군요. 그런데 이 시간이면 박물관 공기가 다르다는 거 아십니까?
+NADIA: Come? ||| 어떻게 다른가요?
+AMEDEO: Gli oggetti respirano. Di giorno li guardano, di notte tornano a pensare. ||| 물건들이 숨을 쉬어요. 낮에는 사람들이 쳐다보고, 밤에는 다시 생각에 잠기죠.
+CORRADO: Amedeo, lei è un poeta. ||| 아메데오 씨, 시인이시군요.
+AMEDEO: No, dottore, sono un custode. Ma sono vent'anni che parlo con la Venere. ||| 아뇨, 박사님, 경비원입니다. 하지만 20년째 베누스와 얘기를 나눕니다.
+BRUNI: E lei che cosa le dice? ||| 그래서 베누스는 뭐라고 하나요?
+AMEDEO: Niente. È molto riservata. Anche con me. ||| 아무 말도요. 아주 과묵해요. 저한테조차도요.
+GIULIA: Dottoressa, ci siamo solo noi? ||| 박사님, 우리뿐이죠?
+BRUNI: Noi quattro e Amedeo. Nessun altro. L'allarme del piano sarà spento per mezz'ora, e io rispondo per tutti. ||| 우리 넷과 아메데오 씨뿐입니다. 이 층 경보기는 30분간 꺼 두고, 제가 모두를 책임집니다.
+CORRADO: Dottoressa Bruni, voglio dirle una cosa prima di entrare. Non siamo qui per prendere nulla. ||| 브루니 박사님, 들어가기 전에 말씀드리고 싶습니다. 우리는 아무것도 가져가려고 온 게 아닙니다.
+BRUNI: Lo so. Se lo avessi pensato, non avrei acceso le luci. ||| 알고 있습니다. 그랬다면 불을 켜지 않았겠죠.
+NADIA: Posso... posso salutare la statua da sola, un minuto? ||| 저 혼자 조각상에게 인사해도 될까요, 1분만?
+BRUNI: Certo. Noi aspettiamo qui. ||| 물론이죠. 우리는 여기서 기다리겠습니다.
+CORRADO: Un minuto, dottoressa. Poi lavoriamo. ||| 1분입니다, 박사님. 그다음에 일하죠.
+NADIA: Grazie. ||| 고맙습니다.
+GIULIA: Dottoressa Bruni, posso chiederle una cosa da collega? ||| 브루니 박사님, 동료로서 하나 여쭤도 될까요?
+BRUNI: Lei non è una collega, ma chieda. ||| 동료는 아니지만 물어보세요.
+GIULIA: Perché ha accettato di aprirci la sala di notte? ||| 왜 밤에 방을 열어 주기로 하셨나요?
+BRUNI: Perché una statua che per novantotto anni ha guardato il muro merita almeno che qualcuno la guardi in faccia. ||| 98년 동안 벽만 바라본 조각상이라면 누군가 얼굴을 마주 봐 주는 게 마땅하니까요.
+CORRADO: Ha detto «il muro»? ||| '벽'이라고 하셨습니까?
+BRUNI: Sì. È appoggiata a una parete. È stato deciso nel 1931 e non l'ha mai messo in discussione nessuno. ||| 네. 벽에 기대 세워져 있어요. 1931년에 결정된 일이고 아무도 문제 삼은 적이 없습니다.
+CORRADO: Neanche lei? ||| 박사님도요?
+BRUNI: Neanche io. Non so perché. Forse perché ci si abitua a ciò che ha sempre fatto così. ||| 저도요. 이유는 모르겠어요. 늘 그래 왔던 것에는 익숙해지니까요.
+NADIA: Dottoressa Bruni. ||| 브루니 박사님.
+BRUNI: Sì? ||| 네?
+NADIA: Posso toccarla? Con i guanti, dall'alto e dal basso. Sul retro. ||| 만져 봐도 될까요? 장갑을 끼고요, 위쪽과 아래쪽, 뒷면을요.
+BRUNI: Il retro è addossato al muro: quindici centimetri di spazio. Un braccio ci passa, non una persona. ||| 뒷면은 벽에 붙어 있고 틈이 15센티미터예요. 팔은 들어가도 사람은 못 들어갑니다.
+NADIA: Basta il braccio. ||| 팔이면 충분해요.
+BRUNI: Allora ci diamo del tu? A quest'ora di notte, con un braccio dietro a una dea, il Lei diventa un po' ridicolo. ||| 그럼 말을 놓을까요? 이 밤중에 여신 뒤로 팔을 뻗는 마당에 존댓말은 좀 우습네요.
+NADIA: Volentieri. Livia. ||| 기꺼이요. 리비아.
+BRUNI: Nadia. ||| 나디아.
+CORRADO: Mi concedete il privilegio di restare al Lei? ||| 저는 계속 존댓말을 써도 되겠습니까?
+BRUNI: Lei, dottor Lanza, è l'ospite: resta al Lei finché non fa una gaffe. ||| 란차 박사님은 손님이니까 실수하기 전까지는 존댓말로 두죠.
+CORRADO: Prometto una gaffe entro mezzanotte. ||| 자정 안에 실수 하나 하겠다고 약속드립니다.
++ ci siamo solo noi? = 우리뿐입니까? (essere + ci, 소재를 묻는 표현)
++ ci si abitua a ciò che ha sempre fatto così = 늘 그래 온 일에는 익숙해진다 (si 비인칭 + abituarsi a)
++ dare del tu / darsi del tu = 말을 놓다. Lei에서 tu로 넘어가는 순간 (A quest'ora di notte... il Lei diventa ridicolo)
++ restare al Lei = 계속 Lei(존댓말)로 남다
++ fare una gaffe = 실수를 저지르다, 결례를 하다 (프랑스어에서 온 말)
++ addossato al muro = 벽에 기대 붙은 (addossare = 기대 놓다). 3화의 단서 '벽에 붙일 것'과 이어짐
++ guanti = (보존용) 장갑. 이 장면의 핵심 도구
++ aria diversa = 다른 공기. 박물관의 밤 분위기를 말하는 경비원의 시적인 표현
+
+## 장갑의 먼지 — LA POLVERE SUL GUANTO
+NADIA: Eccola. Sotto la nuca, nell'incavo tra il collo e la spalla. Sento una superficie... diversa. ||| 여기예요. 목덜미 아래, 목과 어깨 사이의 오목한 곳이요. 표면이… 달라요.
+BRUNI: Diversa come? ||| 어떻게 다르죠?
+NADIA: Meno fredda. Il marmo raffredda il guanto. Qui no. ||| 덜 차가워요. 대리석이면 장갑이 차가워지는데 여기는 안 그래요.
+CORRADO: Che cosa significa? ||| 그게 무슨 뜻입니까?
+NADIA: Che il materiale trattiene meno il calore o ne cede meno. Un attimo... Ritiro il braccio. Guardate il guanto. ||| 재료가 열을 덜 빼앗거나 덜 내놓는다는 거예요. 잠깐만… 팔을 빼 볼게요. 장갑을 보세요.
+GIULIA: Una polvere bianca, quasi rosa. ||| 하얀, 거의 분홍빛 가루예요.
+BRUNI: Non luccica. ||| 반짝이지 않네요.
+NADIA: Esatto. Se fosse polvere di marmo, brillerebbe sotto la lampada, perché ha i cristalli. Questa è opaca. Morbida. ||| 맞아요. 대리석 가루라면 결정이 있어서 램프 아래서 반짝였을 거예요. 이건 불투명하고 부드러워요.
+BRUNI: Prova a sfregarla tra le dita. ||| 손가락 사이에 비벼 봐요.
+NADIA: Si sbriciola come il gesso di scuola. È gesso, Livia. ||| 학교 분필처럼 부서져요. 석고예요, 리비아.
+BRUNI: Gesso da stuccatore. Cassa tre: «appoggio in gesso». ||| 미장용 석고요. 3번 상자, '석고 받침대'네요.
+GIULIA: Quindi il retro non è marmo. È una colata di gesso sopra il marmo. ||| 그럼 뒷면은 대리석이 아니라는 거죠. 대리석 위에 석고를 부은 거예요.
+BRUNI: Nel 1931 il restauratore disse: «lato posteriore non rifinito». Ma non rifinito non significa coperto di gesso. ||| 1931년에 복원가가 '뒷면 마감 없음'이라고 썼어요. 하지만 마감이 없다는 게 석고로 덮여 있다는 뜻은 아니죠.
+NADIA: Ho una cosa nella borsa. Fotografie del 1927, dell'archivio di Marsa Beida. Le ho portate perché ci tenevo a confrontarle con la statua. ||| 가방에 있는 게 하나 있어요. 마르사 베이다 문서고의 1927년 사진들이에요. 조각상과 대조하고 싶어서 가져왔어요.
+CORRADO: Ce le mostri. ||| 보여 주십시오.
+NADIA: Questa è la prima. Gli operai l'hanno tirata su dal fango del bacino con una gru. Vedete? Davanti, il volto di Venere... ||| 이게 첫 번째 사진이에요. 인부들이 항만 진흙 속에서 기중기로 끌어올렸어요. 보이시죠? 앞쪽에는 베누스의 얼굴이…
+GIULIA: E dietro, nell'ombra. ||| 그리고 뒤쪽은 그림자에 있어요.
+NADIA: Dietro c'è qualcosa. Una massa sporgente, a destra della nuca, alta quanto la testa. ||| 뒤에 뭔가 있어요. 뒤통수 오른쪽으로 머리만큼 높이 튀어나온 덩어리요.
+BRUNI: Una massa? Non c'è più. La statua oggi è liscia, dietro. ||| 덩어리요? 지금은 없어요. 조각상은 뒤가 매끈해요.
+NADIA: Appunto. Qualcuno ha livellato. ||| 그러니까요. 누군가 평평하게 만든 거예요.
+CORRADO: Livellato con il gesso. Per poterla appoggiare al muro. ||| 석고로 평평하게 한 거군요. 벽에 기대 세우려고.
+BRUNI: Mio Dio. Novantotto anni a guardare una parete, e io che pensavo che fosse una schiena. ||| 세상에. 98년을 벽을 보고 있었는데, 저는 그게 등이라고 생각했다니.
+NADIA: Livia, non ti sentire in colpa. Chi guarda una statua di fronte non indovina il retro. ||| 리비아, 죄책감 갖지 마. 조각상을 정면에서 보는 사람은 뒷면을 짐작하지 못해.
+CORRADO: E nessuno lo ha mai verificato? ||| 아무도 확인한 적이 없습니까?
+BRUNI: C'è una regola nella conservazione: più un oggetto è fragile, meno lo si tocca. E per una statua di duemila anni, il retro non è una priorità. ||| 보존에는 규칙이 있어요. 깨지기 쉬울수록 덜 만진다는 거죠. 그리고 2천 년 된 조각상의 뒷면은 우선순위가 아닙니다.
+GIULIA: A meno che qualcuno non voglia che resti coperto. ||| 누군가 덮어 두고 싶어 하지 않는 한 말이죠.
+BRUNI: Non lo escludo. ||| 배제하진 않아요.
+NADIA: Livia, c'è una cosa che devi dirci. Sento che c'è. ||| 리비아, 말해 줘야 할 게 있죠. 느껴져요.
+BRUNI: ...Sì. C'è. Anzi, è il motivo per cui questa sera ho aperto le luci. ||| …네, 있어요. 사실 그게 오늘 저녁 제가 불을 켠 이유예요.
+CORRADO: Prego. ||| 말씀하세요.
+BRUNI: Sette anni fa, per la climatizzazione della sala, la Fondazione Leonardo ha firmato una convenzione con il museo. Un milione e duecentomila euro. ||| 7년 전 방 공조 시설을 위해 레오나르도 재단이 박물관과 협약을 맺었어요. 120만 유로였죠.
+GIULIA: E nella convenzione? ||| 협약서에는 뭐가 있었죠?
+BRUNI: L'articolo nove. «Le opere della sala non possono essere spostate, prestate o cedute, nemmeno temporaneamente, senza il consenso della Fondazione, per vent'anni.» ||| 9조예요. '방의 작품은 20년간 재단의 동의 없이는 일시적으로도 이동, 대여, 양도할 수 없다.'
+CORRADO: Venti anni. Ne sono passati sette. ||| 20년이라. 7년이 지났네요.
+BRUNI: Ne mancano tredici. ||| 13년이 남았어요.
+NADIA: Quindi anche se Roma volesse restituire, non potrebbe senza il permesso di una fondazione privata. ||| 그러니 로마가 돌려주고 싶어도 사립 재단의 허락 없이는 못 하는 거네요.
+CORRADO: Una clausola nascosta in una convenzione. Ancora. ||| 협약서 속에 숨은 조항이라. 또요.
+GIULIA: Una settimana fa in un trattato; stasera in un museo. È come un copione. ||| 일주일 전엔 조약에서, 오늘은 박물관에서. 각본 같네요.
+BRUNI: Dottor Lanza, io non sono una spia. Sono una curatrice. Ho firmato quella convenzione perché senza l'aria climatizzata la statua si sarebbe sgretolata. ||| 란차 박사님, 저는 스파이가 아니라 큐레이터입니다. 그 협약에 서명한 건 공조 없이는 조각상이 부스러졌을 테니까요.
+CORRADO: E nessuno le ha mai spiegato perché una fondazione di arti si preoccupi tanto di una sola statua? ||| 예술 재단이 왜 하필 조각상 하나를 그렇게 신경 쓰는지, 아무도 설명해 주지 않았습니까?
+BRUNI: Mi dissero: «Per la reputazione». Una parola che non spiega niente. ||| '평판 때문'이라고 하더군요. 아무것도 설명하지 못하는 말이죠.
++ trattenere / cedere calore = 열을 붙잡다 / 내놓다. 대리석과 석고의 촉감 차이를 말하는 보존 어휘
++ brillerebbe (condizionale) = 반짝일 텐데. se fosse polvere di marmo, brillerebbe = 비현실 가정(se + 접속법 반과거, 조건법)
++ sbriciolarsi = 부스러지다. gesso da stuccatore = 미장공의 석고
++ livellare = 평평하게 하다, 수평으로 고르다
++ guardare una parete e pensare che fosse una schiena = 벽을 보면서 등이라고 생각하다 (pensare che + 접속법 반과거)
++ a meno che non + 접속법 = ~하지 않는 한 (a meno che qualcuno non voglia)
++ convenzione / articolo nove = 협약 / 9조. 'non possono essere spostate' = 수동형 + potere (이동 불가 조항)
++ sentire che c'è = (말하지 않은 것이) 있다는 걸 느끼다. 눈치와 직관의 표현
