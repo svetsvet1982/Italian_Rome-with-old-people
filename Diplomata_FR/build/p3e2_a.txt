@@ -1,0 +1,122 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 2
+@title Déjeuner à Trianon
+@ko 트리아농에서의 점심
+@setting 베르사유 궁 호텔 방과 정원 입구(일요일 아침) → 트리아농 공원의 식당 «라 타블 뒤 아모»(일요일 점심) → 식당 안쪽 벽 자리 → 공원 길(오후)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 문안 중재자, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast KOUROUMA | 살리프 쿠루마, 타마랑드 공화국 대사, 58세. 허구의 나라·인물
+@cast THÉODORE | 테오도르, 식당 지배인(허구의 인물), 60세
+@cast BARBIER | 이네스 바르비에, 문안 위원회 서기, 27세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 전화로 짧게 등장
+@note 3부 2화입니다. 1화 다음 날 일요일, 개막(월요일 10시)까지 하루 반이 남았습니다. 쥘리앵은 «부록 7을 막은 세 대표단» 중 하나로 지목된 타마랑드(가상의 서아프리카 공화국)의 대사 살리프 쿠루마의 초대를 받아 트리아농 공원의 식당에서 점심을 합니다. 수행원 없이 오라는 초대였지만 쥘리앵은 아르샹보에게 사전 신청서를 내고 사후 보고를 약속했습니다. 이 화의 해법의 순간은 대사가 음식을 주문하는 순서입니다. 그는 디저트(수플레는 처음에 주문해야 하니까), 치즈, 메인 요리 순으로 고르고 전채는 건너뜁니다. 쥘리앵이 «조약을 끝에서부터 읽으시는군요»라고 하자 대사는 답합니다: «서문은 감탄받으라고 쓰고, 열쇠는 최종 조항에서 넘기지요.» 둘이 14판의 맨 끝을 펴 보니 부록 7이 사라진 대신 12조 2항이 «사무국이 공표할 부록 7»을 가리키고, 41조는 «서명 후 30일 이내에 사무국이 기술 파트너의 지원으로 부록을 최종 정리한다»고 되어 있었습니다. 서명할 때 아무도 본 적 없는 부록 7을 서명 이후에 만들 수 있게 하는 문장이었습니다. 역사 배경은 루이 14세의 베르사유 의전입니다. 왕이 사람들 앞에서 식사하고(grand couvert, petit couvert), 의자(tabouret)를 앉을 권리가 신분이었으며, 순서를 정하는 일이 곧 권력이었습니다. 트리아농은 의전을 조금 내려놓는 곳이었고, 1920년에는 그랑 트리아농에서 헝가리와의 조약이 서명되었습니다. 어휘는 le grand couvert, un tabouret, la mise en forme, 접속법(bien que, pourvu que, à moins que)에 주목하세요.
+@next 3-3 «Le procès-verbal»: 18시 조정 회의 회의록의 번호가 7, 8, 10으로 건너뛴다. 사라진 9번째 줄을 찾아라.
+
+## 일요일 아침 — AVANT TRIANON
+ARCHAMBAULT: Votre demande écrite est arrivée à huit heures. Je l'ai lue deux fois. Vous voulez déjeuner seul avec l'ambassadeur de Tamarande. ||| 서면 신청은 8시에 도착했어요. 두 번 읽었습니다. 타마랑드 대사와 단둘이 점심을 하겠다고요.
+JULIEN: Il l'a demandé ainsi. J'ai accepté à une condition : je rends compte de tout, par écrit, avant ce soir. ||| 그쪽이 그렇게 요청했습니다. 저는 한 가지 조건으로 수락했고요. 오늘 저녁 전에 모든 것을 서면으로 보고하겠습니다.
+ARCHAMBAULT: Et s'il vous demande de ne pas le faire ? ||| 보고하지 말라고 하면요?
+JULIEN: Je lui dirai que c'est la condition de ma présence. Un homme qui demande le mur sait qu'on lui demandera un reçu. ||| 그게 제가 나가는 조건이라고 말하겠습니다. 벽을 요구하는 사람이라면 영수증을 요구받을 걸 알겠죠.
+ARCHAMBAULT: Bien. Camille ? ||| 좋아요. 카미유는요?
+CAMILLE: Je reste à l'entrée du Grand Trianon, à trois cents mètres. Téléphone en main, sans un mot, sauf s'il y a une urgence. ||| 그랑 트리아농 입구에서 삼백 미터 떨어진 곳에 대기해요. 전화를 들고 말은 하지 않고, 급한 일이 있을 때만요.
+ARCHAMBAULT: Pourquoi Tamarande, d'après vous ? Delaunay m'a dit qu'ils étaient « bloquants ». ||| 왜 타마랑드라고 생각하세요? 들로네는 "발목 잡는 쪽"이라고 하던데요.
+CAMILLE: Je l'ai étudié cette nuit. Onze millions d'habitants, un fonds numérique européen de deux cent quarante millions d'euros en discussion, un parlement qui vote ses traités à la majorité des deux tiers. ||| 밤새 공부했어요. 인구 천백만 명, 논의 중인 유럽 디지털 기금 이억 사천만 유로, 조약은 의회가 삼분의 이로 비준하는 나라예요.
+JULIEN: Donc un homme à qui l'on demande de signer vite, et qui devra expliquer lentement. ||| 빨리 서명하라는 요구를 받으면서 천천히 설명해야 하는 사람이군.
+CAMILLE: Le dossier dit aussi qu'il a fait son droit à Lyon. Mille neuf cent quatre-vingt-dix-neuf. Troisième cycle. ||| 서류에는 리옹에서 법학을 했다고 나와. 1999년이고, 석사 과정.
+JULIEN: À Lyon ? Alors il connaît les bouchons. Je ne le lui dirai pas tout de suite. ||| 리옹이라고? 그럼 부숑을 알겠군. 바로 말하진 않을 거야.
+ARCHAMBAULT: Vous gardez des cartes pour le dessert. ||| 디저트 때 쓸 카드를 남겨 두시는군요.
+JULIEN: Je garde un couteau à fromage. C'est plus lent et plus poli. ||| 치즈 칼을 남겨 두는 거죠. 더 느리고 더 예의 바릅니다.
+ARCHAMBAULT: Une chose encore. Le gel de cette nuit : Delaunay a envoyé son communiqué à vingt-deux heures cinq. Trois délégations ont déjà demandé à voir l'annexe sept version treize. ||| 한 가지 더요. 어젯밤 동결 건은 들로네가 22시 5분에 공지를 보냈어요. 대표단 세 곳이 이미 13판 부록 7을 보여 달라고 했습니다.
+JULIEN: Trois délégations : donc ce n'était pas « trois délégations qui bloquaient ». C'était « trois délégations qui voulaient lire ». ||| 세 곳이라. "막는 세 대표단"이 아니라 "읽고 싶은 세 대표단"이었던 거군요.
+ARCHAMBAULT: C'est ce que j'ai pensé. Soyez prudent. Un déjeuner n'est jamais un déjeuner. ||| 저도 그렇게 생각했어요. 조심하세요. 점심은 결코 점심이 아니니까요.
+JULIEN: Chez moi, à Lyon, c'était toujours une négociation. Avec ma mère et ma grand-mère, au sujet du sel. ||| 우리 집, 리옹에서는 늘 협상이었어요. 어머니와 할머니와 소금을 두고요.
+CAMILLE: Je prends ton dossier ? ||| 서류 가방 내가 챙길까?
+JULIEN: Non. Je prends la version quatorze imprimée à vingt-deux heures, la treize signée, un stylo, mon carnet. Et le couteau, au cas où il y aurait du fromage. ||| 아니. 22시에 인쇄한 14판, 서명된 13판, 펜, 수첩을 가져가. 그리고 치즈가 있을지 모르니 칼도.
+CAMILLE: Le règlement interdit les couteaux dans le parc. ||| 공원에는 칼 반입이 금지돼 있어.
+JULIEN: Le règlement a été écrit avant Valcourt. Je le garde au fond de la poche, avec le mouchoir. ||| 규정은 발쿠르 대사 이전에 쓰였지. 주머니 깊숙이, 손수건 밑에 둘게.
+ARCHAMBAULT: Je n'ai rien entendu. Allez. ||| 저는 아무것도 못 들었습니다. 가세요.
++ rendre compte par écrit = 서면으로 보고하다. 아르샹보가 접촉마다 요구한 규칙
++ bloquant = 발목을 잡는, 진행을 막는. 사무국이 반대 대표단을 가리킬 때 쓰는 완곡한 표현
++ un parlement qui vote à la majorité des deux tiers = 삼분의 이 다수로 표결하는 의회. 서명 후 비준이 어려운 나라의 사정을 보여 줌
++ garder des cartes pour le dessert = 디저트 때 쓸 카드를 남겨 두다. 협상 카드를 늦게 꺼내는 태도
++ Un déjeuner n'est jamais un déjeuner. = 점심은 결코 점심이 아니다. 비공식 식사 자리가 협상 무대라는 뜻
++ voulaient lire / bloquaient = 읽고 싶어 했다 / 막았다. 같은 대표단을 다르게 부르는 말의 뉘앙스
++ au fond de la poche = 주머니 깊숙이. 규정을 피해 치즈 칼을 몰래 가져가는 유머
+
+## 왕의 식탁 — LE GRAND COUVERT
+THÉODORE: Monsieur Delorme ? Théodore, le maître d'hôtel. On m'a dit : une table dans le fond, contre le mur. C'est une demande rare. ||| 들로름 씨죠? 지배인 테오도르입니다. 안쪽 벽 가까운 자리를 부탁받았어요. 드문 요청이에요.
+JULIEN: Rare ? Je croyais qu'on aimait la vue sur le parc. ||| 드물다고요? 다들 공원이 보이는 자리를 좋아하는 줄 알았는데요.
+THÉODORE: Ici, on aime être vu. C'est la tradition du lieu. Savez-vous pourquoi on mange en public à Versailles ? ||| 여기선 보이는 걸 좋아합니다. 이곳의 전통이죠. 왜 베르사유에서는 사람들 앞에서 식사하는지 아십니까?
+JULIEN: Louis XIV. Le roi mangeait devant sa cour. ||| 루이 14세요. 왕이 궁정 앞에서 식사했죠.
+THÉODORE: Exactement. Le petit couvert, presque tous les jours, dans la chambre : le roi seul à sa table, et la cour qui regarde. Le grand couvert, avec la famille royale, le dimanche, par exemple. ||| 맞습니다. 거의 매일 침실에서 하는 소찬, 프티 쿠베르는 왕이 혼자 식탁에 앉고 궁정이 구경해요. 왕실 가족과 함께하는 그랑 쿠베르는 예를 들어 일요일에요.
+JULIEN: Et personne ne s'asseyait, sauf les privilégiés. ||| 그리고 특권자 말고는 아무도 앉지 못했죠.
+THÉODORE: Les duchesses avaient droit au tabouret. Un petit siège sans dossier. Pour elles, c'était une victoire. Pour nous, aujourd'hui, ce serait un reproche. ||| 공작 부인들은 탁자 앞에서 앉는 낮은 의자, 타부레를 앉을 권리가 있었어요. 등받이 없는 작은 의자죠. 그분들에게는 승리였지만 지금 우리에겐 흠잡을 일이겠죠.
+JULIEN: Un tabouret, un rang, une signature : toujours la même histoire. On donne un siège pour ne pas donner un pouvoir. ||| 타부레와 석차와 서명. 늘 같은 이야기죠. 권력을 안 주려고 의자를 주는 겁니다.
+THÉODORE: Et le roi, lui, ne choisissait presque rien. On lui apportait les plats en cortège, avec un cri : « La viande du Roi ! » Tout le monde se découvrait. ||| 왕은 거의 아무것도 고르지 않았어요. 행렬로 음식을 가져오며 "왕의 식사요!" 하고 외쳤고, 모두 모자를 벗었죠.
+JULIEN: Il ne choisissait pas les plats ? ||| 요리를 고르지 않았다고요?
+THÉODORE: Il choisissait ce qui comptait : l'ordre dans lequel les gens entraient, qui tenait la serviette, qui la lui présentait. L'étiquette était un langage. Le moindre geste était une phrase. ||| 중요한 건 골랐죠. 누가 어떤 순서로 들어오는지, 누가 냅킨을 들고 누가 올리는지요. 의전이 곧 언어였습니다. 사소한 몸짓 하나하나가 문장이었어요.
+JULIEN: Et ici, à Trianon ? ||| 그럼 여기 트리아농에서는요?
+THÉODORE: À Trianon, le roi venait se reposer de lui-même. Moins d'étiquette. On a même signé ici, au Grand Trianon, en mille neuf cent vingt, le traité avec la Hongrie. Après Versailles, Trianon. Le château pour l'ordre, le parc pour la fin. ||| 트리아농에는 왕이 자기 자신에게서 쉬러 왔어요. 의전이 덜했죠. 1920년에는 이곳 그랑 트리아농에서 헝가리와의 조약을 서명하기도 했고요. 베르사유 다음이 트리아농이었습니다. 궁전은 질서의 자리, 공원은 마무리의 자리죠.
+JULIEN: Les traités se terminent toujours dans une pièce plus petite que celle où ils commencent. ||| 조약은 늘 시작한 방보다 작은 방에서 끝나는군요.
+THÉODORE: Vous le notez ? ||| 적어 두십니까?
+JULIEN: Dans ma tête. Elle est moins surveillée que le carnet. ||| 머릿속에요. 수첩보다 감시가 덜하니까요.
+THÉODORE: Votre invité est arrivé. Il est assis, mais dans le fond de la salle. Il attend de n'être pas vu. ||| 손님이 도착하셨어요. 안쪽에 앉아 계시고요. 눈에 띄지 않기를 기다리시는 모양이에요.
+JULIEN: Il y a une règle pour cela ? ||| 그런 데도 규칙이 있나요?
+THÉODORE: Oui. Dans une maison où l'on aime être vu, ceux qui se cachent sont les plus regardés. ||| 네. 보이는 걸 좋아하는 집에서는 숨는 사람이 가장 많이 보이는 법입니다.
+JULIEN: Alors, je vais lui faire la grâce de m'asseoir à côté de lui, bien en vue, contre le mur. ||| 그럼 제가 옆자리에 눈에 잘 띄게, 벽을 등지고 앉는 은혜를 베풀어야겠군요.
+THÉODORE: Je vous accompagne. Nos plats arrivent en silence, mais je peux crier « La viande du Roi » si cela vous aide. ||| 안내해 드리겠습니다. 음식은 조용히 나오지만, 도움이 된다면 "왕의 식사요!" 하고 외쳐 드릴 수도 있어요.
+JULIEN: Gardez votre voix pour le dessert. ||| 목소리는 디저트 때 쓰세요.
++ le petit couvert / le grand couvert = 왕의 소찬 / 왕의 대찬. 루이 14세가 궁정이 보는 앞에서 식사하던 의식
++ un tabouret = 등받이 없는 낮은 의자. 궁정에서 앉을 권리가 신분의 표시였던 특권
++ « La viande du Roi ! » = 왕의 식사요. 식사를 가져올 때 외쳤다고 전하는 외침
++ l'étiquette est un langage = 의전은 언어다. 몸짓 하나하나가 문장이라는 뜻
++ le traité de Trianon (1920) = 트리아농 조약. 제1차 대전 후 헝가리와 연합국이 그랑 트리아농에서 서명
++ faire la grâce de + inf. = ~해 주는 은혜를 베풀다. 반어적이고 정중한 어조
++ un siège pour ne pas donner un pouvoir = 권력을 안 주려고 의자를 주다. 석차가 실권을 대신하는 의전의 속임수
+
+## 주문의 순서 — LA COMMANDE
+KOUROUMA: Monsieur Delorme. Vous êtes à l'heure. À Versailles, c'est un signe de caractère. ||| 들로름 씨. 시간에 맞춰 오셨군요. 베르사유에서는 성격이 있다는 표시지요.
+JULIEN: Monsieur l'ambassadeur, merci de votre invitation. Je dois vous prévenir d'une chose. Je rendrai compte de ce déjeuner à ma hiérarchie, ce soir, par écrit. ||| 대사님, 초대 감사합니다. 한 가지 미리 말씀드려야겠습니다. 오늘 저녁 이 점심에 대해 상관에게 서면으로 보고합니다.
+KOUROUMA: Je m'en doutais. Un fonctionnaire qui ne rend pas compte est un fonctionnaire qui a quelque chose à cacher. Je vous demande seulement de ne pas écrire ce que je dis dans le cadre d'une plainte. ||| 짐작했습니다. 보고하지 않는 공무원은 숨기는 게 있는 공무원이니까요. 제 말을 고발 용도로 기록하지 말아 달라는 것만 부탁드립니다.
+JULIEN: Je n'ai pas de plainte. J'ai des questions. ||| 저는 고발이 아니라 질문이 있습니다.
+KOUROUMA: Alors, nous commençons bien. Monsieur Théodore, la carte, s'il vous plaît. ||| 그럼 잘 시작했군요. 테오도르 씨, 메뉴판 부탁합니다.
+THÉODORE: Voici. Aujourd'hui, nous avons un soufflé au Grand Marnier, qui demande vingt-cinq minutes. Je conseille de le commander dès maintenant. ||| 여기 있습니다. 오늘은 그랑 마르니에 수플레가 있는데 이십오 분이 걸립니다. 지금 바로 주문하시는 걸 권해 드려요.
+KOUROUMA: Je commence par là. Le soufflé au Grand Marnier. ||| 그것부터 시작하죠. 그랑 마르니에 수플레.
+JULIEN: Vous commencez par le dessert ? ||| 디저트부터 하신다고요?
+KOUROUMA: Je commande dans le sens de la durée, pas dans celui de la table. Ensuite le fromage. Un saint-nectaire, s'il y en a, et un bleu léger. ||| 식탁의 순서가 아니라 걸리는 시간 순서로 주문합니다. 그다음은 치즈. 있다면 생넥테르와 순한 블루 치즈로요.
+THÉODORE: Nous avons les deux. ||| 둘 다 있습니다.
+KOUROUMA: Puis un plat. Une quenelle de brochet, sauce Nantua. ||| 그다음 메인. 강꼬치고기 크넬, 낭튀아 소스로요.
+JULIEN: Une quenelle sauce Nantua. À Lyon. ||| 크넬에 낭튀아 소스라. 리옹에서요.
+KOUROUMA: Vous avez reconnu. J'ai fait mon droit à l'université Lyon-III, il y a vingt-sept ans. Je dînais dans un bouchon, rue Mercière, avec trente francs par repas. ||| 알아보셨군요. 이십칠 년 전 리옹 제3대학에서 법학을 했습니다. 메르시에르 가의 부숑에서 한 끼 삼십 프랑으로 저녁을 먹었죠.
+JULIEN: Mon père tenait un bouchon dans le quartier des Terreaux. Peut-être nous sommes-nous croisés sans le savoir. ||| 아버지가 테로 구역에서 부숑을 하셨습니다. 서로 모르고 스쳤을지도 모르죠.
+KOUROUMA: Peut-être. Ce qui est sûr, c'est que vous avez le palais de la patience. Monsieur Théodore, je n'ai pas d'entrée. ||| 아마도요. 분명한 건 인내하는 입맛을 가지셨다는 겁니다. 테오도르 씨, 저는 전채는 없습니다.
+THÉODORE: Pas d'entrée ? ||| 전채가 없으시다고요?
+KOUROUMA: Les entrées sont des prologues. On les écrit pour être admiré. ||| 전채는 서문이죠. 감탄받으려고 쓰는 거니까요.
+JULIEN: Monsieur l'ambassadeur… le soufflé d'abord, puis le fromage, puis le plat, et pas d'entrée. Vous commandez comme on lit un traité : par la fin. ||| 대사님… 수플레부터, 치즈, 메인, 전채는 없이. 조약을 읽듯이 주문하시는군요. 끝에서부터요.
+KOUROUMA: Vous m'avez compris plus vite que mes collègues. Le préambule est écrit pour qu'on l'admire. C'est dans les dernières pages que l'on rend les clefs. ||| 제 동료들보다 빨리 이해하셨군요. 서문은 감탄받으라고 쓰지요. 열쇠는 맨 끝 몇 쪽에서 넘기고요.
+JULIEN: Alors dites-moi, quelle page avez-vous lue en dernier ? ||| 그럼 말씀해 주세요. 마지막에 어느 쪽을 읽으셨습니까?
+KOUROUMA: Les dispositions finales de la version quatorze. Avez-vous le texte ? ||| 14판 최종 조항이요. 문안 가지고 계신가요?
+JULIEN: Dans ma sacoche. L'impression de vingt-deux heures. ||| 가방에 있습니다. 22시 인쇄본이에요.
+KOUROUMA: Alors, avant le soufflé, lisez-moi l'article douze, deuxième alinéa. Puis l'article quarante et un. ||| 그럼 수플레가 나오기 전에 12조 2항을 읽어 주시죠. 그리고 41조요.
+JULIEN: « Douze deux. Les modalités de cette coopération sont celles de l'annexe 7, telle qu'elle sera publiée par le Secrétariat. » ||| "12조 2항. 이 협력의 방식은 사무국이 공표할 부록 7에 따른다."
+KOUROUMA: Dans la version treize, quelle était la formule ? ||| 13판에서는 어떤 표현이었습니까?
+JULIEN: Je vérifie sur le papier signé. « Telle qu'annexée au présent accord. » ||| 서명된 종이로 확인하겠습니다. "본 협정에 부속된 바에 따른다."
+KOUROUMA: « Telle qu'annexée » devient « telle qu'elle sera publiée ». Un participe passé devient un futur. Voilà le tour de passe-passe. Continuez. L'article quarante et un. ||| "부속된"이 "공표될"로 바뀌었어요. 과거 분사가 미래형이 되었죠. 이게 요술입니다. 계속 읽으시죠. 41조요.
+JULIEN: « Quarante et un un. Les annexes sont mises en forme définitive par le Secrétariat, avec l'appui de son partenaire technique, dans les trente jours suivant la signature. Quarante et un deux. Cette mise en forme ne peut modifier le sens du texte signé. » ||| "41조 1항. 부록은 서명 후 30일 이내에 사무국이 기술 파트너의 지원을 받아 최종 정리한다. 41조 2항. 이 정리는 서명된 문안의 의미를 바꿀 수 없다."
+KOUROUMA: Qui juge du sens du texte signé ? Un texte qui n'existe pas. ||| 서명된 문안의 의미는 누가 판단합니까? 존재하지도 않는 문안의 의미를요.
+JULIEN: Personne. C'est la phrase parfaite : elle rassure ceux qui la lisent et ne contraint personne. ||| 아무도 안 합니다. 완벽한 문장이죠. 읽는 사람을 안심시키고 누구도 구속하지 않으니까요.
+KOUROUMA: Et c'est là que mon gouvernement devait signer mardi. Un accord où la sécurité des données de onze millions de personnes serait fixée trente jours plus tard, par des gens que personne n'a élus, avec le concours d'une société que personne n'a désignée. ||| 우리 정부가 화요일에 서명하기로 했던 게 이겁니다. 천백만 명의 데이터 안전이 서명 삼십 일 뒤에, 아무도 뽑지 않은 사람들이, 아무도 지명하지 않은 회사의 도움으로 정해지는 협정요.
+JULIEN: Et on vous a dit à Tamarande que vous « bloquiez ». ||| 그런데 타마랑드는 "발목을 잡는다"고 불렸죠.
+KOUROUMA: Je n'ai rien bloqué, monsieur Delorme. J'ai demandé que l'on me montre le texte. ||| 저는 아무것도 막지 않았습니다, 들로름 씨. 문안을 보여 달라고 했을 뿐이에요.
++ commander dans le sens de la durée = 걸리는 시간 순서로 주문하다. 수플레는 조리 시간이 길어 처음에 시키는 것이 규칙
++ commander comme on lit un traité : par la fin = 조약을 읽듯 끝에서부터 주문하다. 이 화의 해법의 순간
++ Le préambule est écrit pour qu'on l'admire. = 서문은 감탄받으라고 쓴다. 최종 조항에서 열쇠를 넘긴다는 대사의 경구
++ telle qu'annexée / telle qu'elle sera publiée = 부속된 바에 따른 / 공표될 바에 따른. 과거 분사가 미래형이 되며 부록의 내용이 비어 버리는 한 단어 차이
++ la mise en forme définitive = 최종 정리·서식 확정. «mise en forme»이 정리인지 작성인지 모호하게 쓰이는 표현
++ un tour de passe-passe = 요술, 눈속임. 문장 하나로 의미를 바꿔치기하는 수법
++ ne peut modifier le sens = 의미를 바꿀 수 없다. 누가 «sens»를 판단하는지가 빠져 있어 실효가 없는 안전 문구
++ un bouchon (lyonnais) = 리옹의 전통 대중 식당. 쥘리앵 집안과 대사의 유학 시절을 이어 주는 장소

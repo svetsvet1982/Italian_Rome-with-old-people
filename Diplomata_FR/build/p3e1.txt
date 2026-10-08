@@ -1,0 +1,236 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 1
+@title Le sommet de Versailles
+@ko 베르사유 정상회의
+@setting 베르사유 궁 북쪽 건물의 문안 작성실(토요일 저녁) → 의전실 → 전화(리스본) → 사무총장 집무실 → 밤의 정원 테라스
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 이번 정상회의의 «문안 중재자», 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast DELAUNAY | 막심 들로네, 정상회의 사무총장(허구의 인물), 57세
+@cast ORSINI | 바스티앵 오르시니, 문서 작성 플랫폼 «살 블랑슈»의 현장 기술 책임자(허구의 인물), 34세
+@cast FERRAND | 오딜 페랑, 정상회의 의전 책임자(허구의 인물), 55세
+@cast BARBIER | 이네스 바르비에, 문안 위원회 서기(허구의 인물), 27세
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 르포르의 후임
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@note 3부 1화입니다. 3부 «베르사유 정상회의»의 첫 사건(1~3화)은 유럽·아프리카 정상회의의 합의문 «부록 7»(데이터·인공지능 협력)을 둘러싼 이야기입니다. 2부 마지막에서 쥘리앵은 «문안 중재자»라는 새 직책을 맡았고, 두 가지 조건을 걸었습니다. 모든 버전을 서명과 날짜가 있는 종이 사본으로 남길 것, 그리고 문서 작성 플랫폼 «살 블랑슈»(오렐리아 데이터 시스템 제품)의 수정 이력을 누구도 가릴 수 없게 할 것입니다. 이 화는 정상회의 개막(월요일 10시) 36시간 전, 문안 동결 시각(토요일 22시) 직전에 시작합니다. 서명식은 화요일 17시 거울의 방. 그런데 14판에서 부록 7이 통째로 사라졌고, 사무국은 «18시 조정 회의에서 합의로 철회했다»고 말합니다. 해법의 순간은 의전 책임자의 메모입니다: «순서표는 거짓말을 하지 않는다.» 서명식 자리 배치표에는 부록 7을 서명할 7번 탁자(14석)가 아직 남아 있고, 부록 7 서류철 인쇄 기록은 19시 10분입니다. 철회됐다는 문서를 위해 의자를 놓는 사람은 없습니다. 역사 배경은 1919년 6월 28일 거울의 방에서 서명된 베르사유 조약입니다. 독일 대표단은 협상이 아니라 통보를 받았고, 서명은 입장 순서까지 의미를 가진 의식이었습니다. 어휘는 le gel du texte, le procès-verbal, une annexe, le protocole, 접속법(avant que, pour que, sans que)과 «sous réserve de»에 주목하세요. 레아는 이제 17세이고, 쥘리앵은 47세입니다.
+@next 3-2 «Déjeuner à Trianon»: 일요일 점심, 트리아농 정원 식당에서 망설이는 회원국 대사가 메뉴를 고르는 순서로 무언가를 말해 준다.
+
+## 동결 한 시간 전 — LA SALLE DE RÉDACTION
+JULIEN: Vingt et une heures dix. Il reste cinquante minutes avant le gel du texte. Camille, lis-moi la table des matières de la version quatorze. ||| 스물한 시 십 분. 문안 동결까지 오십 분 남았어. 카미유, 14판 목차를 읽어 줘.
+CAMILLE: Titre premier, titre deux, titre trois… Annexe un, annexe deux, annexe trois, annexe quatre, annexe cinq, annexe six. Et ensuite, les dispositions finales. ||| 제1편, 제2편, 제3편… 부록 1, 2, 3, 4, 5, 6. 그다음이 최종 조항이야.
+JULIEN: Et après l'annexe six ? ||| 부록 6 다음엔?
+CAMILLE: Rien. Julien, il n'y a pas d'annexe sept. ||| 없어. 쥘리앵, 부록 7이 없어.
+JULIEN: Redis-le lentement. ||| 천천히 다시 말해 봐.
+CAMILLE: La version treize, celle de dix-huit heures quarante, avait sept annexes. La version quatorze, celle de vingt heures cinquante-deux, en a six. ||| 18시 40분 13판에는 부록이 일곱 개였어. 20시 52분 14판에는 여섯 개야.
+JULIEN: Bien. Je vais chercher quelqu'un qui me dise qui a retiré quoi. Monsieur Orsini ! ||| 좋아. 누가 무엇을 뺐는지 말해 줄 사람을 찾아야겠군. 오르시니 씨!
+ORSINI: Bonsoir, monsieur Delorme. Un souci ? ||| 안녕하세요, 들로름 씨. 무슨 문제라도?
+JULIEN: Un souci, oui. L'annexe sept a disparu de la version quatorze. ||| 문제죠. 14판에서 부록 7이 사라졌어요.
+ORSINI: Ah, ça. Elle a été retirée. Par consensus, à la réunion de coordination de dix-huit heures. ||| 아, 그거요. 철회됐습니다. 18시 조정 회의에서 합의로요.
+JULIEN: Par consensus de qui ? ||| 누구의 합의로요?
+ORSINI: Des délégations. Enfin, de la salle. Je n'y étais pas, je tiens la plateforme, pas la réunion. ||| 대표단들의요. 아니, 회의장 분위기라고 해야 하나. 저는 거기 없었습니다. 회의가 아니라 플랫폼 담당이라서요.
+JULIEN: Alors montrez-moi l'historique de l'annexe. Qui l'a supprimée, à quelle heure. ||| 그럼 부록의 이력을 보여 주세요. 누가 언제 삭제했는지.
+ORSINI: Je clique… Voilà. Message : « Historique indisponible. Accès réservé à l'administrateur. » ||| 클릭하면… 이렇게 뜨네요. "이력 이용 불가. 관리자 전용."
+JULIEN: Réservé à l'administrateur. Et qui est l'administrateur ? ||| 관리자 전용이라. 관리자가 누굽니까?
+ORSINI: Le compte « adm-sec », c'est-à-dire le secrétariat du sommet. Moi, je suis « technique ». Je n'ai pas le droit de voir ce que les administrateurs masquent. ||| "adm-sec" 계정이고, 정상회의 사무국이에요. 저는 "기술"입니다. 관리자가 가린 건 볼 권한이 없어요.
+CAMILLE: Donc quelqu'un du secrétariat peut cacher une modification, et le technicien lui-même ne la voit pas. ||| 그러니까 사무국 사람이 수정을 숨길 수 있고, 기술 담당자는 그걸 볼 수도 없다는 거네.
+ORSINI: C'est une fonction de confidentialité. Elle protège les propositions des délégations. ||| 기밀 보호 기능입니다. 대표단의 제안을 보호하죠.
+JULIEN: Je connais l'argument. Je connais aussi ma lettre. Elle disait : l'historique ne peut être masqué par personne. ||| 그 논리는 압니다. 제 서한도 알고요. "수정 이력은 누구도 가릴 수 없다"고 썼죠.
+ORSINI: Je ne l'ai pas reçue, cette lettre. ||| 저는 그 서한을 받지 못했습니다.
+JULIEN: Je vous crois. C'est le principe de ces plateformes : la parole circule, la mémoire s'arrête à la porte. ||| 믿습니다. 이런 플랫폼의 원리가 그렇죠. 말은 돌아다니고 기억은 문 앞에서 멈춥니다.
+DELAUNAY: Monsieur Delorme. On m'a dit que vous posiez des questions à mon technicien. ||| 들로름 씨. 제 기술 담당에게 질문하고 계시다고 들었습니다.
+JULIEN: Monsieur le secrétaire général, je pose des questions à tout le monde. C'est le métier de médiateur. ||| 사무총장님, 저는 모두에게 질문합니다. 중재자의 일이니까요.
+DELAUNAY: Le métier, c'est de rapprocher les textes, pas de les rouvrir à vingt et une heures vingt. ||| 중재자의 일은 문안을 가까이 놓는 것이지, 스물한 시 이십 분에 다시 여는 게 아닙니다.
+JULIEN: Je ne rouvre rien. Je demande où est passée une annexe. ||| 다시 여는 게 아니에요. 부록 하나가 어디로 갔는지 묻는 겁니다.
+DELAUNAY: Elle a été retirée, de l'accord de la salle, parce qu'elle bloquait trois délégations. L'article sept point cinq. Vous le connaissez mieux que moi. ||| 회의장의 동의로 철회됐습니다. 대표단 세 곳이 막고 있었으니까요. 7.5조. 저보다 더 잘 아시잖아요.
+JULIEN: Je le connais, oui. Camille, lis-le au secrétaire général. ||| 압니다. 카미유, 사무총장님께 읽어 드려.
+CAMILLE: « Par dérogation à l'article 7.3, les services compétents des Parties peuvent accéder aux flux et aux journaux de données des plateformes partagées, sans notification préalable ni contrôle indépendant, lorsque la sécurité de l'État l'exige. » ||| "7.3조의 예외로서, 당사국의 관할 기관은 국가 안보상 필요한 경우 사전 통지와 독립적 통제 없이 공유 플랫폼의 데이터 흐름과 기록에 접근할 수 있다."
+DELAUNAY: Voilà. Vous contestiez vous-même cette clause vendredi. Elle a disparu avec l'annexe. Je pensais vous faire plaisir. ||| 그거예요. 금요일에 이 조항을 직접 문제 삼으셨잖아요. 부록과 함께 사라졌고요. 기뻐하실 줄 알았는데.
+JULIEN: D'accord, mais… ce n'est pas une question de plaisir. Une mauvaise clause se corrige en pleine lumière. On ne la fait pas disparaître dans le noir avec tout son voisinage. ||| 다코르, 메… 기쁨의 문제가 아닙니다. 나쁜 조항은 환한 데서 고치는 겁니다. 이웃한 것들까지 통째로 어둠 속에서 없애는 게 아니라.
+DELAUNAY: Dans le noir ? Une réunion de coordination, ce n'est pas le noir. ||| 어둠이라니요? 조정 회의가 어둠은 아니죠.
+JULIEN: Alors le procès-verbal le dira. Où est le procès-verbal de dix-huit heures ? ||| 그럼 회의록이 말해 주겠죠. 18시 회의록은 어디 있습니까?
+DELAUNAY: En cours de rédaction. Mademoiselle Barbier le termine. ||| 작성 중입니다. 바르비에 양이 마무리하고 있어요.
+BARBIER: Je le termine, monsieur le secrétaire général, mais je n'ai pas fini de le comprendre. ||| 마무리하고는 있는데요, 총장님, 이해는 아직 다 못 끝냈어요.
+DELAUNAY: Pardon ? ||| 네?
+BARBIER: Rien. Je veux dire : il est long. ||| 아무것도 아닙니다. 길다는 뜻이에요.
+JULIEN: Mademoiselle Barbier, quand vous aurez fini, je voudrais le lire. Sur papier, signé, daté. ||| 바르비에 씨, 마치시면 읽고 싶습니다. 종이로, 서명과 날짜를 넣어서.
+BARBIER: Bien sûr. Comme pour les treize versions. ||| 물론이죠. 열세 개 버전처럼요.
+DELAUNAY: Vous avez cinquante minutes, monsieur Delorme. Après le gel, la version quatorze sera le texte du sommet. ||| 오십 분 있습니다, 들로름 씨. 동결 후에는 14판이 정상회의의 문안입니다.
+JULIEN: Sous réserve. Toujours sous réserve. ||| 유보 하에서요. 늘 유보 하에서.
++ le gel du texte = 문안 동결. 개막 직전에 더 이상 수정할 수 없게 문서를 고정하는 시점
++ un procès-verbal = 회의록·조서. 외교 회의에서 누가 무엇을 말했고 무엇이 결정되었는지 남기는 공식 기록
++ réservé à l'administrateur = 관리자 전용. 플랫폼에서 이력을 가리는 권한의 근거가 되는 표현
++ par dérogation à… = ~의 예외로서. 법률 조항에서 일반 원칙을 비켜 가는 조항의 도입부
++ sans notification préalable ni contrôle indépendant = 사전 통지도 독립적 통제도 없이. 감시 허용 문구의 핵심 위험
++ se corriger en pleine lumière = 환한 데서 고치다. 쥘리앵이 투명 절차를 요구하는 방식
++ sous réserve = 유보 하에. 쥘리앵과 외교 문서의 입버릇
+
+## 순서표 — LA TABLE DE PLACEMENT
+FERRAND: Vous avez l'air de quelqu'un qui cherche une chaise. Elle est ici. Entrez, monsieur Delorme. ||| 의자를 찾는 분 얼굴이시네요. 의자는 여기 있어요. 들어오세요, 들로름 씨.
+JULIEN: Madame Ferrand. On m'a dit que le protocole voit tout. ||| 페랑 씨. 의전은 모든 걸 본다고 들었습니다.
+FERRAND: Le protocole ne voit rien. Il place. C'est différent. Ce que je vois, c'est qui s'assied où, qui entre avant qui, qui sort sans avoir eu le temps de se lever. ||| 의전은 아무것도 못 봐요. 배치할 뿐이죠. 다릅니다. 제가 보는 건 누가 어디 앉고, 누가 누구보다 먼저 들어오고, 누가 일어설 틈도 없이 나가는지예요.
+JULIEN: Alors dites-moi : combien d'annexes à la cérémonie de signature ? ||| 그럼 말씀해 주세요. 서명식에 부록은 몇 개입니까?
+FERRAND: Sept. Sept tables, sept chemises de cuir, sept stylos. ||| 일곱 개요. 탁자 일곱, 가죽 서류철 일곱, 만년필 일곱.
+CAMILLE: Sept ? On vient de nous dire qu'il n'y en a plus que six. ||| 일곱이요? 방금 여섯 개만 남았다고 했는데요.
+FERRAND: On vous a dit ce qu'on a dit au texte. Moi, je vous dis ce que j'ai dans mes tableaux. ||| 문안에 대해 한 말을 들으신 거죠. 저는 제 표에 있는 걸 말씀드리는 겁니다.
+JULIEN: Montrez-moi vos tableaux. ||| 표를 보여 주세요.
+FERRAND: Le plan de table de la cérémonie, mardi, dix-sept heures, Galerie des Glaces. Version six. Imprimée à dix-neuf heures trente. Regardez la table sept. ||| 화요일 17시 거울의 방 서명식 자리 배치표예요. 6판이고요, 19시 30분에 인쇄했어요. 7번 탁자를 보세요.
+CAMILLE: « Table VII. Signature de l'annexe numérique. Quatorze sièges. » Quatorze ministres. ||| "7번 탁자. 디지털 부록 서명. 14석." 장관 열네 명이네요.
+JULIEN: Dix-neuf heures trente. C'est une heure après la réunion de coordination. ||| 19시 30분. 조정 회의 한 시간 뒤군요.
+FERRAND: Plus d'une heure. Et il y a mieux. Les chemises ont été imprimées à dix-neuf heures dix. Pour la septième, onze feuillets. J'ai la facture du service d'impression : une ligne par chemise. ||| 한 시간이 훨씬 넘죠. 더 있어요. 서류철은 19시 10분에 인쇄했습니다. 일곱 번째는 열한 장이고요. 인쇄 담당 청구서에 서류철마다 한 줄씩 있어요.
+JULIEN: Onze feuillets pour une annexe qui n'existe plus. ||| 이미 없어진 부록에 열한 장이라.
+FERRAND: Qui n'existait plus pour la plateforme, monsieur Delorme. Elle existait encore pour mes ciseaux. ||| 플랫폼에는 없어진 거죠, 들로름 씨. 제 가위에게는 아직 있었어요.
+JULIEN: Vos ciseaux ? ||| 가위요?
+FERRAND: Quand un texte est retiré, le protocole retire la chaise le jour même. On ne dresse pas une table pour un texte mort. Ça coûte quatorze chaises, quatorze place-cards, quatorze cartons d'invitation. ||| 문안이 철회되면 의전은 그날 의자를 치웁니다. 죽은 문안을 위해 탁자를 차리지 않아요. 의자 열네 개, 명패 열네 개, 초대장 열네 장 값이 드니까요.
+CAMILLE: Donc aucun ordre de retrait n'est arrivé jusqu'à vous. ||| 그러니까 철회 지시는 당신에게 전혀 오지 않았군요.
+FERRAND: Aucun. J'ai même écrit une note, à vingt heures cinquante. Je la montre ? ||| 한 장도요. 20시 50분에 메모도 썼어요. 보여 드릴까요?
+JULIEN: S'il vous plaît. ||| 부탁드립니다.
+FERRAND: « Note pour le secrétaire général. Objet : annexe numérique. La table VII subsiste dans le plan de table. Veuillez confirmer le retrait afin que je supprime quatorze sièges. En l'absence de confirmation, je maintiens la table. Cordialement. » ||| "사무총장님께 드리는 메모. 제목: 디지털 부록. 7번 탁자가 배치표에 남아 있습니다. 14석을 삭제할 수 있도록 철회를 확인해 주십시오. 확인이 없으면 탁자를 유지합니다. 경의를 표하며."
+JULIEN: Et sa réponse ? ||| 답은요?
+FERRAND: Pas de réponse. Mais écoutez : la table de placement ne ment pas. Les gens, si. Les textes, parfois. Mais pas la table. Une chaise est là ou elle n'y est pas. ||| 답이 없어요. 하지만 들어 보세요. 순서표는 거짓말을 하지 않아요. 사람은 해요. 문안도 가끔 하고요. 그래도 표는 안 합니다. 의자는 있거나 없거나니까요.
+JULIEN: Madame Ferrand, puis-je vous demander de me signer cette note, avec l'heure ? ||| 페랑 씨, 이 메모에 시각을 넣어서 서명해 주시겠습니까?
+FERRAND: Je la signe. Et je vous donne aussi la facture d'impression. Je la garde en double. ||| 서명하죠. 인쇄 청구서도 드릴게요. 사본은 제가 갖고 있을 테니까요.
+CAMILLE: Ça fait deux preuves de l'avant. Le retrait de dix-huit heures est contredit par dix-neuf heures dix et dix-neuf heures trente. ||| 이전 증거가 두 개 되네. 18시 철회가 19시 10분과 19시 30분 기록과 맞지 않아.
+JULIEN: Ça ne dit pas qui a retiré l'annexe. Ça dit que, jusqu'à dix-neuf heures trente, personne n'imaginait qu'elle fût retirée. ||| 누가 부록을 뺐는지는 말해 주지 않아. 19시 30분까지 아무도 부록이 철회됐다고 생각하지 않았다는 것만 알려 주지.
+FERRAND: Ce qui est déjà beaucoup. Je vais vous raconter quelque chose. Le vingt-huit juin mille neuf cent dix-neuf, ici même, dans la Galerie des Glaces, on a signé le traité avec l'Allemagne. ||| 그것만으로도 많은 거죠. 이야기 하나 해 드릴게요. 1919년 6월 28일, 바로 이 거울의 방에서 독일과의 조약에 서명했어요.
+JULIEN: La date n'a pas été choisie au hasard. Cinq ans, jour pour jour, après Sarajevo. ||| 날짜는 우연이 아니었죠. 사라예보에서 정확히 오 년 되는 날이었으니까요.
+FERRAND: Et le lieu non plus : c'est dans cette galerie qu'avait été proclamé l'Empire allemand en mille huit cent soixante et onze. On a voulu fermer une boucle. Le protocole sait ce que fait un lieu. ||| 장소도 마찬가지고요. 1871년 독일 제국이 선포된 곳이 이 회랑이었어요. 고리를 닫으려 한 겁니다. 의전은 장소가 무슨 일을 하는지 알아요.
+CAMILLE: Et l'ordre d'entrée ? ||| 입장 순서는요?
+FERRAND: Les délégués allemands sont entrés en dernier, par un couloir de soldats, après les vainqueurs. Des blessés de guerre, les gueules cassées, ont été placés sur leur passage. On n'a pas écrit un mot de plus. Le placement parlait. ||| 독일 대표들은 승전국이 모두 자리한 뒤에 맨 나중에 병사들이 늘어선 통로를 지나 입장했어요. 전상자들, 얼굴을 다친 병사들이 지나는 길목에 세워졌고요. 한 마디도 더 쓸 필요가 없었죠. 배치가 말을 했으니까요.
+FERRAND: Mardi, la place des quatorze ministres du numérique est encore là. Si vous voulez que l'annexe y soit aussi, il faut le dire avant que quelqu'un ne fasse retirer les chaises. ||| 화요일에도 디지털 장관 열네 명의 자리는 아직 거기 있어요. 부록도 거기 있기를 바라신다면, 누가 의자를 치우게 하기 전에 말씀하셔야 합니다.
+JULIEN: Je vais le dire. Mais à qui il faut. ||| 말하겠습니다. 다만 말해야 할 사람에게.
++ une table de placement = (자리) 배치표. 의전에서 누가 어디에 앉는지 정하는 표
++ La table de placement ne ment pas. = 순서표는 거짓말을 하지 않는다. 의자와 인쇄물 같은 물리적 기록은 문안보다 정직하다는 이 화의 핵심 문장
++ une chemise = (문서) 서류철. 서명식에서 부록마다 한 개씩 가죽 서류철을 준비
++ un feuillet = (한 장의) 서류. 인쇄 청구서에 남은 기록이 증거가 됨
++ l'avant (preuve de l'avant) = 이전의 증거. 철회 이전 시점에 부록이 살아 있었다는 입증
++ fermer une boucle = 고리를 닫다. 1871년 선포 장소에서 1919년 서명한 상징적 의도
++ les gueules cassées = 얼굴을 다친 제1차 대전 부상병들. 1919년 서명식에 참석해 입장 통로에 세워졌다고 알려진 이들
++ avant que + 접속법 = ~하기 전에. «avant que quelqu'un ne fasse retirer…»에서 허사 ne와 함께 쓰이는 형태
+
+## 리스본의 전화 — L'APPEL DE LISBONNE
+JULIEN: Monsieur l'ambassadeur, je vous réveille ? ||| 대사님, 깨운 건 아닙니까?
+VALCOURT: À vingt-deux heures moins le quart ? J'ai un serra da estrela à la cuillère et une conscience tranquille. Pas de risque. ||| 열시 십오 분 전에요? 세하 다 에스트렐라 치즈를 숟가락으로 떠먹는 중이고 양심은 편안해요. 걱정 마세요.
+JULIEN: Le gel est dans quinze minutes. Une annexe a disparu. Celle que vous savez. ||| 동결이 십오 분 뒤입니다. 부록 하나가 사라졌어요. 아시는 바로 그 부록이요.
+VALCOURT: Je sais. Tu me l'as montré il y a un mois, sur la page d'un carnet : « sept », trois fois. ||| 알아. 구월에 수첩 한 쪽에 "일곱"이라고 세 번 써서 보여 줬잖아.
+JULIEN: Je voudrais l'avis d'un homme qui a vu des salles se tromper. ||| 홀이 틀리는 걸 본 분의 의견이 듣고 싶습니다.
+VALCOURT: Alors parlons de la salle. Mille neuf cent dix-neuf. Ce n'est pas le texte qui a perdu l'Europe, c'est la forme. On a donné aux Allemands le texte le sept mai et on leur a dit : vous avez quinze jours pour des observations. ||| 그럼 그 홀 얘기를 하자. 1919년. 유럽을 망친 건 문안이 아니라 형식이었어. 5월 7일에 독일인들에게 문안을 건네고 "의견 낼 시간은 보름"이라고 했지.
+JULIEN: Ils ont répondu avec des centaines de pages. ||| 수백 쪽으로 답했죠.
+VALCOURT: Et on a changé peu de chose, puis on a envoyé un ultimatum en juin. Ils ont signé, mais ils n'ont pas consenti. En allemand, on a parlé de « Diktat ». Ce mot-là a fait plus de dégâts que beaucoup d'articles. ||| 그리고 바꾼 건 거의 없었고, 6월에는 최후통첩을 보냈어. 서명은 했지만 동의는 하지 않았지. 독일어로 "딕타트", 강요된 평화라고 불렀어. 그 한 단어가 많은 조항보다 더 큰 해를 끼쳤단다.
+JULIEN: Signer et consentir, ce n'est pas la même chose. ||| 서명하는 것과 동의하는 건 같지 않죠.
+VALCOURT: C'est même le contraire, quand on ne laisse pas lire. Julien, ta salle n'est pas la Galerie des Glaces. Mais elle a le même défaut : on veut qu'un texte soit signé avant qu'il soit lu. ||| 읽지 못하게 할 땐 오히려 반대야. 쥘리앵, 네 방은 거울의 방이 아니지만 같은 결함이 있어. 읽히기 전에 서명되기를 원한다는 거.
+JULIEN: Que me conseillez-vous ? ||| 어떻게 하라고 하시겠어요?
+VALCOURT: Ne pas demander le retrait du retrait. Demander que personne ne signe ce qu'il ne peut pas lire. C'est plus difficile à refuser. ||| 철회의 철회를 요구하지 말고, 읽을 수 없는 것에는 아무도 서명하지 않게 해 달라고 요구해. 그건 거절하기가 더 어렵거든.
+JULIEN: Vous parlez comme un ministre. ||| 장관처럼 말씀하시네요.
+VALCOURT: Je parle comme un vieil homme qui ne veut pas d'un nouveau Diktat sous un autre nom. Cette fois, ce serait un Diktat de plateforme. ||| 다른 이름의 또 다른 딕타트는 원치 않는 늙은이처럼 말하는 거야. 이번엔 플랫폼의 딕타트가 되겠지.
+JULIEN: Je prendrai votre phrase. ||| 그 문장을 빌리겠습니다.
+VALCOURT: Prends-la. Elle ne coûte rien. Quant à moi, ma conscience est tranquille, mais elle a un goût de poire. ||| 가져가. 공짜니까. 나는 양심이 편안한데 배 맛이 나는구나.
+JULIEN: Je vous rappelle dimanche, à l'heure de la poire. ||| 일요일, 배 먹는 시간에 다시 전화드리겠습니다.
+VALCOURT: Je t'attendrai avec la cuillère. ||| 숟가락 들고 기다리마.
+LÉA: Papa ! Tu n'as pas répondu à mon message de tout à l'heure. Tu es dans le château ? ||| 아빠! 아까 문자에 답이 없었어요. 궁전에 계세요?
+JULIEN: Dans l'aile nord. Je te rappelle : tu as fini ta dissertation ? ||| 북쪽 건물이야. 다시 말하는데, 논술 끝냈니?
+LÉA: Oui. Mais j'ai une question pour toi, de philosophie. « Un texte qui disparaît a-t-il existé ? » ||| 네. 그런데 철학 질문이 있어요. "사라진 문서는 존재했던 걸까?"
+JULIEN: Si personne ne se souvient de lui, peut-être pas. S'il a laissé une chaise, oui. ||| 아무도 기억하지 못한다면 아닐 수도 있지. 의자를 남겼다면 존재했던 거야.
+LÉA: Une chaise ? C'est une preuve, ça ? ||| 의자요? 그게 증거예요?
+JULIEN: C'est une trace. Une trace n'est pas une preuve, mais elle oblige à chercher. ||| 흔적이지. 흔적은 증거가 아니지만 찾아보게 만들어.
+LÉA: Alors c'est une question de définition, comme toujours. Bonne chance, papa. ||| 그럼 늘 그렇듯 개념 정의의 문제네요. 행운을 빌어요, 아빠.
+CAMILLE: Il est vingt et une heures cinquante. Dix minutes. ||| 스물한 시 오십 분이야. 십 분 남았어.
+JULIEN: Alors allons parler au secrétaire général. À voix basse. ||| 그럼 사무총장에게 가자. 낮은 목소리로.
++ Signer n'est pas consentir. = 서명하는 것과 동의하는 것은 다르다. 1919년 «강요된 평화(Diktat)» 논쟁의 핵심
++ un ultimatum = 최후통첩. 1919년 6월 연합국이 독일에 보낸 기한부 요구
++ ne pas demander le retrait du retrait = 철회의 철회를 요구하지 않다. 발쿠르가 권한 전략: 사람을 뒤로 돌리지 않고 원칙을 요구
++ lire avant de signer = 서명하기 전에 읽다. 발쿠르가 가르쳐 준 원칙. 읽을 수 없는 것에 서명을 요구하지 않는 문서 윤리
++ un Diktat de plateforme = 플랫폼의 강요된 문안. 발쿠르의 신조어 격 표현, 1919년의 «Diktat»를 현대에 대입
++ une trace n'est pas une preuve = 흔적은 증거가 아니다. 레아와의 개념 정의 대화
++ à l'heure de la poire = 배 먹는 시간에. 발쿠르와의 전화 약속을 가리키는 시리즈 속 표현
+## 사무총장 집무실 — LE BUREAU DU SECRÉTAIRE GÉNÉRAL
+DELAUNAY: Vingt et une heures cinquante-six. Vous avez quatre minutes, monsieur Delorme. Parlez. ||| 스물한 시 오십육 분. 사 분 드리죠, 들로름 씨. 말씀하세요.
+JULIEN: Une note de la cheffe du protocole, signée et datée de vingt heures cinquante. Une facture d'impression : sept chemises, onze feuillets pour la septième, dix-neuf heures dix. Un plan de table de dix-neuf heures trente avec une table VII de quatorze sièges. ||| 의전 책임자의 메모입니다. 20시 50분 서명과 날짜가 있습니다. 인쇄 청구서에는 서류철 일곱 개, 일곱 번째는 열한 장, 19시 10분. 19시 30분 배치표에는 14석짜리 7번 탁자가 있고요.
+DELAUNAY: Le protocole n'est pas la rédaction. ||| 의전은 작성이 아닙니다.
+JULIEN: Non. C'est mieux : il ne rédige pas, donc il n'a aucun intérêt à mentir sur le texte. ||| 아닙니다. 더 낫죠. 작성하지 않으니 문안에 대해 거짓말을 할 이유가 없습니다.
+DELAUNAY: Où voulez-vous en venir ? ||| 어디로 가고 싶으신 겁니까?
+JULIEN: Vous m'avez dit : retrait par consensus à dix-huit heures. Or, une heure et demie plus tard, personne, ni vous, ni le protocole, ni l'imprimeur, n'avait tiré la moindre conséquence de ce retrait. ||| 18시에 합의로 철회됐다고 하셨죠. 그런데 한 시간 반 뒤까지 사무총장님도, 의전도, 인쇄소도 그 철회에서 어떤 결론도 끌어내지 않았습니다.
+DELAUNAY: Les conséquences viennent avec du retard. C'est normal. ||| 결과는 늦게 따라오는 법입니다. 정상이에요.
+JULIEN: Alors le procès-verbal l'établira. Mais je ne le vois pas encore. ||| 그럼 회의록이 입증하겠죠. 하지만 아직 못 봤습니다.
+DELAUNAY: Il sera prêt demain. ||| 내일 준비됩니다.
+JULIEN: Demain, c'est tard. Pour que personne ne signe ce qu'il ne peut pas lire, je ne vous demande pas d'annuler le gel. ||| 내일은 늦습니다. 아무도 읽을 수 없는 것에 서명하지 않도록, 동결을 취소해 달라고는 하지 않겠습니다.
+DELAUNAY: Vous ne le demandez pas ? ||| 요구 안 하신다고요?
+JULIEN: Non. Je demande qu'il soit prononcé avec une mention. La version quatorze est gelée, mais l'annexe sept, dans sa version treize papier, signée de Mlle Barbier et de moi, reste déposée en séance, à l'étude, jusqu'à lundi neuf heures. ||| 네. 단서를 달아 선포해 달라는 겁니다. 14판은 동결하되, 서기 바르비에 씨와 제가 서명한 종이 13판 부록 7은 월요일 아홉 시까지 회의에 기탁된 채 검토 대상으로 남기는 겁니다.
+DELAUNAY: À l'étude. C'est un mot qui ne coûte rien. ||| "검토 대상"이라. 아무 값도 안 드는 단어군요.
+JULIEN: C'est pour cela que je le choisis. Il ne force personne, il oblige seulement à ne pas oublier. ||| 그래서 고른 겁니다. 누구도 강제하지 않으면서 잊지 않게만 하니까요.
+DELAUNAY: Et si je refuse ? ||| 거절하면요?
+JULIEN: Je n'ai pas de pouvoir de refus. Je n'ai que des feuilles de papier, un carnet, et un téléphone. Mais le téléphone appelle le Quai, et le Quai appelle les chefs de délégation avant le petit déjeuner. ||| 저는 거부권이 없어요. 종이 몇 장과 수첩, 전화가 전부죠. 다만 전화는 케도르세로 걸리고, 케도르세는 아침 식사 전에 대표단장들에게 전화를 겁니다.
+DELAUNAY: C'est une menace. ||| 협박이군요.
+JULIEN: C'est un calendrier. ||| 일정표예요.
+ARCHAMBAULT: Excusez-moi d'entrer sans frapper. J'étais dans le couloir. Je suis Solène Archambault. ||| 노크 없이 들어와서 미안합니다. 복도에 있었어요. 솔렌 아르샹보입니다.
+DELAUNAY: Madame la directrice de cabinet, je ne vous attendais pas. ||| 비서실장님, 오실 줄 몰랐습니다.
+ARCHAMBAULT: Le ministre est arrivé à vingt et une heures quarante. Il a lu la note de Mme Ferrand sur le chemin, parce qu'elle me l'a envoyée en copie. ||| 장관께서 21시 40분에 도착하셨어요. 오시는 길에 페랑 씨 메모를 읽으셨습니다. 제게 참조로 보냈거든요.
+DELAUNAY: En copie à la France ? Le protocole ne devait pas écrire au ministère. ||| 프랑스에 참조로요? 의전이 외무부에 쓰면 안 되는 거였는데요.
+ARCHAMBAULT: Le protocole écrit à qui il veut quand il voit une chaise de trop. Monsieur le secrétaire général, je ne demande pas d'annuler le gel. Le gel est un acte de votre secrétariat. Mais le sommet appartient aux délégations. ||| 의전은 의자가 하나 넘칠 때 쓰고 싶은 사람에게 씁니다. 사무총장님, 저도 동결 취소는 요구하지 않습니다. 동결은 사무국의 행위니까요. 하지만 정상회의는 대표단의 것입니다.
+DELAUNAY: Et vous voudriez que je dise aux délégations quoi, au juste ? ||| 그래서 대표단에 정확히 뭐라고 말하라는 겁니까?
+ARCHAMBAULT: Ceci : « La version quatorze est gelée à vingt-deux heures. L'annexe sept, dans sa version treize, reste déposée et fera l'objet d'un examen lundi à neuf heures, avant l'ouverture. » Cinq lignes. ||| 이렇게요. "14판은 22시에 동결된다. 13판 부록 7은 기탁된 채 월요일 9시, 개막 전에 검토된다." 다섯 줄이에요.
+DELAUNAY: Vous m'obligez à avouer. ||| 제게 자백하라는 거군요.
+JULIEN: Non. Vous constatez. Un secrétaire général qui constate n'avoue pas. Il gouverne. ||| 아닙니다. 확인하시는 거죠. 확인하는 사무총장은 자백하지 않아요. 통치합니다.
+DELAUNAY: Il est vingt-deux heures moins une minute. Je signe ce communiqué à la main, avec l'heure. Mais je veux deux choses : la clause sept point cinq ne sera pas ressuscitée sans débat… ||| 22시 일 분 전입니다. 이 공지에 손으로 시각을 넣어 서명하겠어요. 대신 두 가지를 원합니다. 7.5조가 토론 없이 되살아나선 안 되고…
+JULIEN: Elle ne le sera jamais sans débat. Je m'y engage. ||| 토론 없이는 절대 안 됩니다. 약속합니다.
+DELAUNAY: …et que vous ne parliez pas de la plateforme à la presse. ||| …플랫폼에 대해 언론에 말하지 않는 것입니다.
+JULIEN: Je ne parle pas de la plateforme. Je parle de l'historique. Et pour l'instant, je ne parle à personne. ||| 플랫폼 얘기는 안 합니다. 이력 얘기를 하죠. 그리고 지금은 아무에게도 말하지 않아요.
+DELAUNAY: Orsini, affichez la mention. ||| 오르시니, 문구를 띄우세요.
+ORSINI: C'est fait. « Texte gelé. Version quatorze. Vingt-deux heures. » Et la mention manuscrite ? ||| 됐습니다. "문안 동결. 14판. 22시." 손으로 쓴 단서는요?
+DELAUNAY: Elle n'est pas sur l'écran. Elle est sur le papier. Le papier, ici, fait foi. ||| 화면에는 없어요. 종이에 있습니다. 여기서는 종이가 증거입니다.
+ARCHAMBAULT: Je retiens le mot « examen ». À neuf heures, c'est vous qui le conduirez, Julien. ||| "검토"라는 말을 기억해 두겠습니다. 9시에는 쥘리앵이 진행하세요.
+JULIEN: Avec un procès-verbal. Un vrai. ||| 회의록과 함께요. 진짜 회의록으로.
++ prononcer le gel = 동결을 선포하다. 사무국이 시각을 정해 문안 수정을 막는 공식 행위
++ déposer en séance = 회의에 기탁하다. 문서를 공식 회의록에 첨부해 두는 절차 표현
++ à l'étude = 검토 대상으로 남겨 둔. 강제력은 없지만 잊지 못하게 하는 완충 표현
++ faire foi = 증거로서 효력이 있다. «Le papier fait foi»는 종이 문서가 기준이라는 뜻
++ C'est un calendrier. = 협박이 아니라 일정표입니다. 쥘리앵의 건조한 유머
++ constater / avouer = 확인하다 / 자백하다. 같은 사실도 어느 동사를 쓰느냐에 따라 체면이 달라진다
++ ressusciter une clause = 조항을 되살리다. 7.5조를 토론 없이 되살리지 않겠다는 약속
++ sans frapper = 노크 없이. 비서실장이 사무총장실에 불쑥 들어오는 장면에서 쓰이는 표현
+
+## 밤의 정원 — LA TERRASSE
+CAMILLE: Il est vingt-deux heures vingt. Le jardin est éclairé comme un décor de théâtre. ||| 22시 20분이야. 정원이 무대 세트처럼 환해.
+JULIEN: C'est un décor. Tout ici est un décor sauf la signature. ||| 무대 세트지. 여기서 서명 말고는 전부 세트야.
+CAMILLE: Ton portable. ||| 네 휴대폰.
+JULIEN: Je sais. Hélène. Elle a dit : si une page manque, je le lui dis avant de le dire à quiconque. ||| 알아. 엘렌이야. 한 쪽이 없어지면 누구에게든 말하기 전에 자기한테 먼저 말하라고 했지.
+CAMILLE: Elle a aussi dit : « avant la presse ». Pas avant la ministre. ||| "언론보다 먼저"라고 했어. 장관보다 먼저가 아니라.
+JULIEN: La ministre est au courant. La presse, non. Je tiens ma parole. ||| 장관님은 아세요. 언론은 모르고요. 약속은 지킵니다.
+HÉLÈNE: Vous appelez à vingt-deux heures vingt-deux. Une annexe a disparu, je suppose. ||| 22시 22분에 전화하시네요. 부록이 하나 없어졌겠죠.
+JULIEN: Comment le savez-vous ? ||| 어떻게 아세요?
+HÉLÈNE: Parce que vous n'auriez pas appelé pour une chaise de trop. Dites-moi tout, lentement, et sans adjectif. ||| 의자 하나 넘치는 일로 전화하진 않으실 테니까요. 천천히, 형용사 없이 전부 말씀해 보세요.
+JULIEN: La version treize, dix-huit heures quarante, a sept annexes. La quatorze, vingt heures cinquante-deux, en a six. L'historique de l'annexe est masqué par le compte « adm-sec ». Le plan de table, à dix-neuf heures trente, a encore la table VII. ||| 18시 40분 13판에는 부록이 일곱 개, 20시 52분 14판은 여섯 개입니다. 부록 이력은 "adm-sec" 계정이 가렸고요. 19시 30분 배치표에는 아직 7번 탁자가 있어요.
+HÉLÈNE: Je note les heures. Les heures sont ce qui reste quand les hommes se taisent. ||| 시각을 적어 둘게요. 사람이 입을 닫으면 남는 건 시각이죠.
+JULIEN: Je vous demande une seule chose : l'administrateur. Un compte n'est pas un homme. ||| 하나만 부탁드립니다. 관리자요. 계정은 사람이 아니니까요.
+HÉLÈNE: Un compte est un mot de passe, et les mots de passe voyagent. Je ne vous promets rien. Mais je vous donne une chose gratuite, parce que notre compte est soldé. ||| 계정은 비밀번호고, 비밀번호는 돌아다니죠. 약속은 못 드립니다. 하지만 공짜로 하나 드릴게요. 우리 계정은 정산됐으니까요.
+JULIEN: Je vous écoute. ||| 듣고 있습니다.
+HÉLÈNE: Un certain M. Reeve est accrédité depuis jeudi à Versailles, comme « consultant du partenaire technique ». Badge de la régie, accès à la salle de rédaction de huit heures à minuit. ||| 리브 씨라는 분이 목요일부터 "기술 파트너 자문"으로 베르사유에 등록돼 있어요. 중계실 배지로 작성실 출입이 8시부터 자정까지 가능하고요.
+JULIEN: Colin Reeve. Le trente pour cent. ||| 콜랭 리브. 30퍼센트 지분이군요.
+HÉLÈNE: Je n'ai pas prononcé ce nom. Vous l'avez dit vous-même. Bonne nuit, monsieur Delorme. Jour deux. ||| 저는 그 이름을 말하지 않았어요. 직접 말씀하셨죠. 안녕히 주무세요, 들로름 씨. 이틀째입니다.
+CAMILLE: « Jour deux » ? ||| "이틀째"라니?
+JULIEN: Le compteur d'Hélène. Le jour un, c'était vendredi, notre arrivée à Versailles. Elle compte tout, même les nuits. ||| 엘렌의 계수기야. 첫날은 금요일, 베르사유에 도착한 날이었지. 엘렌은 밤까지 전부 세거든.
+FERRAND: Monsieur Delorme ? Pardon de vous déranger dans le noir. Un huissier m'a remis ceci pour vous. ||| 들로름 씨? 어둠 속에서 방해해서 죄송해요. 수위가 이걸 당신에게 전해 달라고 했어요.
+JULIEN: Un carton. ||| 카드로군요.
+CAMILLE: « L'ambassadeur de la République de Tamarande serait honoré de vous recevoir demain, dimanche, à douze heures trente, à La Table du Hameau, dans le parc de Trianon. Sans collaborateurs. » ||| "타마랑드 공화국 대사가 내일 일요일 12시 30분, 트리아농 공원의 라 타블 뒤 아모에서 모시게 되면 영광이겠습니다. 수행원 없이."
+JULIEN: Tamarande. Une des trois délégations qui « bloquaient » l'annexe, d'après Delaunay. ||| 타마랑드. 들로네 말로는 부록을 "막았다"는 세 대표단 중 하나군요.
+FERRAND: Il a téléphoné lui-même au protocole. Il a demandé une table dans le fond, contre le mur. ||| 직접 의전에 전화를 걸었어요. 안쪽 벽 가까운 자리를 달라고 했고요.
+JULIEN: Un homme qui demande le mur veut qu'on le voie avec nous sans qu'on l'entende. ||| 벽을 요구하는 사람은 우리와 함께 있는 건 보여도 말은 들리지 않기를 바라는 거죠.
+CAMILLE: Et sans collaborateurs. Tu iras seul ? ||| 수행원 없이래. 혼자 갈 거야?
+JULIEN: Je ne peux pas aller seul. Un homme qui m'invite sans collaborateurs me demande, au fond, de ne rien rapporter. J'irai avec une demande écrite à la ministre, et je rendrai compte de tout, après. ||| 혼자 갈 수는 없어. 수행원 없이 부르는 사람은 결국 아무것도 보고하지 말아 달라는 거니까. 장관께 서면으로 신청하고, 모든 걸 나중에 보고할 거야.
+CAMILLE: Solène t'a imposé cette règle. ||| 솔렌이 그 규칙을 정해 줬지.
+JULIEN: Et elle avait raison. Mon carnet. ||| 맞는 말이었어. 수첩 줘 봐.
+CAMILLE: « Sept. Chaise. Dix-neuf heures trente. » ||| "일곱. 의자. 19시 30분."
+JULIEN: Ajoute : « Reeve, jeudi. Badge régie. » Ajoute aussi : « Les miroirs ne mentent pas. Ils répètent. C'est le texte qui change. » ||| 덧붙여. "리브, 목요일. 중계실 배지." 그리고 이것도. "거울은 거짓말을 하지 않는다. 되풀이할 뿐이다. 바뀌는 건 문안이다."
+CAMILLE: C'est de Léa ? ||| 레아한테 들은 거야?
+JULIEN: C'est de moi, avec une mauvaise mémoire. Allons dormir quatre heures. Demain, nous irons déjeuner avec un homme qui veut un mur. ||| 내 말이야, 기억이 나빠서 그렇지. 네 시간만 자자. 내일은 벽이 필요한 남자와 점심을 먹으러 가야 하니까.
++ sans adjectif = 형용사 없이. 정보 보고에서 평가를 빼고 사실만 말하라는 엘렌의 요구
++ Un compte n'est pas un homme. = 계정은 사람이 아니다. 책임자의 신원과 접속 기록의 구별
++ un badge de la régie = 중계실(현장 기술실) 출입 배지. 작성실 접근 권한을 보여 주는 단서
++ un consultant du partenaire technique = 기술 파트너의 자문. 대표단이 아닌 사람이 문안실에 드나든다는 징후
++ rendre compte = 보고하다. 아르샹보가 쥘리앵에게 건 조건 «접촉마다 사후 서면 보고»
++ au fond = 결국, 속뜻은. 초대의 겉모습 아래 숨은 요구를 짚을 때 쓰는 표현
++ se faire voir sans se faire entendre = 눈에는 띄되 말은 들리지 않게 하다. 벽 쪽 자리를 청한 이유
++ Jour deux. = 이틀째. 엘렌이 «Jour un: Versailles»부터 세는 계수기

@@ -1,0 +1,229 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 3
+@title Le procès-verbal
+@ko 회의록
+@setting 베르사유 궁 평화의 살롱 앞 회랑(일요일 오후) → 의전실 옆 작은 사무실 → 리스본 전화와 레아의 문자(일요일 저녁) → 사무총장 집무실 앞 복도(밤) → 개막 한 시간 전 검토 회의실(월요일 아침)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 문안 중재자, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast BARBIER | 이네스 바르비에, 문안 위원회 서기, 27세
+@cast FERRAND | 오딜 페랑, 정상회의 의전 책임자, 55세
+@cast DELAUNAY | 막심 들로네, 정상회의 사무총장, 57세
+@cast ORSINI | 바스티앵 오르시니, 문서 작성 플랫폼 «살 블랑슈» 현장 기술 책임자, 34세
+@cast KOUROUMA | 살리프 쿠루마, 타마랑드 공화국 대사, 58세. 허구의 인물
+@cast VIRTA | 아이노 비르타, 한 북유럽 대표단장(허구의 인물), 52세
+@cast MBARGA | 폴 음바르가, 중앙아프리카 한 나라의 대표단장(허구의 인물), 55세
+@cast REEVE | 콜랭 리브, 기술 파트너 측 자문, 50세. 발루아 어드바이저리의 30퍼센트 사원
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@note 3부 3화(1~3화 사건의 결말)입니다. 일요일 오후, 서기 이네스 바르비에가 18시 조정 회의 회의록의 번호가 1부터 12까지 가다가 «7, 8, 10, 11, 12»로 9번이 비어 있음을 털어놓습니다. 플랫폼은 번호를 자동으로 매기지 않고 손으로 쳐 넣었기 때문에 9번을 지워도 다음 번호가 당겨지지 않았습니다. 그런데 번호의 빈틈보다 더 정직한 것이 있습니다. 11번과 12번 안건에 «9번에 따라»라는 문장이 남아 있다는 점, 즉 주인을 잃은 참조(renvoi orphelin)입니다. 서기의 손글씨 수첩에는 9번이 있었습니다: 회의장에 대표단이 아닌 기술 파트너 측 사람(콜랭 리브)이 «형식 문제»로 들어와 부록 7을 동결 문안에서 떼어 내 서명 뒤에 사무국이 정리하자고 제안했고, 사무총장이 «이의 없으십니까?»라고 물은 뒤 침묵을 «합의»로 기록하려 했으며, 북유럽 대표단장의 «문안을 보여 달라»는 유보는 «다음 안건에서 보자»며 기록되지 않았습니다. 이것이 이 화의 해법의 순간인 «사라진 한 줄»입니다. 역사 배경은 빈 회의(1814~1815)입니다. 전체 회의가 거의 없고 위원회와 회담이 이어졌으며 의사록(프로토콜)에 번호를 매겨 서명하는 관행이 있었고, 서기 역할은 프리드리히 폰 겐츠가 맡았고 마지막 문서 «최종 의정서»는 1815년 6월 9일 서명되었습니다. 공식 외교에서 유보를 «의사록에 삽입해 달라»고 요구하는 것은 권리였습니다. 이 화에서 쥘리앵은 월요일 9시 검토 회의에서 열린 이력과 종이 버전 전체를 공개하는 투명 절차를 제안하고, 7.5조는 통지와 독립 통제를 붙인 형태로 바뀝니다. 어휘는 un procès-verbal, un renvoi, une réserve, insérer au procès-verbal, 접속법(il faut que, pour que, quoique)에 주목하세요.
+@next 3-4 «L'école de Port-Lumière»: 해외 프랑스어 학교가 문을 닫을 위기에 처하고, 학부모들이 청원서를 낸다.
+
+## 사라진 번호 — LE NUMÉRO ABSENT
+BARBIER: Je vous ai attendu devant le salon de la Paix. Je suis là depuis quatorze heures quarante-cinq. J'ai le carnet dans une enveloppe, signée au verso. ||| 평화의 살롱 앞에서 기다렸어요. 14시 45분부터 와 있었습니다. 수첩은 봉투에 넣고 뒷면에 서명했어요.
+JULIEN: Merci, mademoiselle. Je vous présente Camille Roussel. Elle lit les textes comme d'autres lisent les visages. ||| 고마워요. 카미유 루셀을 소개합니다. 남들이 얼굴을 읽듯이 문서를 읽는 사람이에요.
+CAMILLE: Enchantée. Nous ne sommes pas ici pour vous accuser. ||| 반갑습니다. 우리는 누구를 고발하러 온 게 아니에요.
+BARBIER: C'est ce qu'on dit toujours avant d'accuser. Pardon. J'ai peur. J'ai signé une clause de confidentialité qui m'interdit de montrer des documents du secrétariat. ||| 늘 고발하기 직전에 하는 말이죠. 죄송해요. 겁이 납니다. 사무국 문서를 보여 주지 못하게 하는 비밀 유지 조항에 서명했거든요.
+JULIEN: Je ne vous demande pas de me donner un document du secrétariat. Je vous demande de lire à voix haute, devant un témoin, ce que vous avez écrit de votre main. Votre main n'appartient à personne. ||| 사무국 문서를 달라는 게 아닙니다. 본인이 손으로 쓴 것을 증인 앞에서 소리 내어 읽어 달라는 거예요. 당신의 손은 누구의 것도 아니니까요.
+BARBIER: Un témoin ? ||| 증인이요?
+FERRAND: Moi. Mme Ferrand, protocole. Je suis passée par hasard. Le protocole passe toujours par hasard. ||| 접니다. 의전 담당 페랑이에요. 우연히 지나갔어요. 의전은 늘 우연히 지나가죠.
+JULIEN: Merci, madame. Mademoiselle Barbier, commençons par les chiffres. Combien de points y avait-il à l'ordre du jour ? ||| 감사합니다. 바르비에 씨, 숫자부터 시작합시다. 의제는 몇 개였습니까?
+BARBIER: Douze. Je les ai notés d'avance dans mon carnet : un, ouverture. Deux, ordre du jour. Trois, procès-verbal précédent. Quatre, titre un. Cinq, titre deux. Six, titre trois. Sept, annexes un à six. Huit, calendrier du gel. Neuf, annexe sept. Dix, liste des signataires. Onze, communications. Douze, prochaine réunion. ||| 열두 개요. 수첩에 미리 적어 놨어요. 1 개회, 2 의제, 3 지난 회의록, 4 제1편, 5 제2편, 6 제3편, 7 부록 1~6, 8 동결 일정, 9 부록 7, 10 서명자 명단, 11 공지, 12 다음 회의입니다.
+CAMILLE: Neuf, annexe sept. Et dans le procès-verbal que la plateforme a imprimé ? ||| 9번 부록 7이로군요. 그런데 플랫폼이 인쇄한 회의록에는요?
+BARBIER: Un, deux, trois, quatre, cinq, six, sept, huit… dix, onze, douze. ||| 1, 2, 3, 4, 5, 6, 7, 8… 10, 11, 12.
+CAMILLE: Les numéros ne se sont pas décalés ? Normalement, si on supprime un paragraphe numéroté, le suivant devient neuf. ||| 번호가 당겨지지 않았네요. 보통 번호 매긴 단락을 지우면 다음 것이 9번이 되잖아요.
+BARBIER: Ils sont tapés à la main, comme au lycée. J'ai tout fait en texte libre, parce que la numérotation automatique de la plateforme change toute seule quand quelqu'un modifie un point. Je ne voulais pas qu'un chiffre bouge sans que je le sache. ||| 손으로 쳐 넣었어요. 학교 때처럼요. 자동 번호는 누가 안건을 고치면 저절로 바뀌거든요. 제가 모르는 사이에 숫자가 움직이는 게 싫어서 자유 텍스트로 썼어요.
+JULIEN: Vous avez bien fait. Votre méfiance a gardé le trou. ||| 잘하셨어요. 그 불신이 구멍을 지켜 준 겁니다.
+BARBIER: Un trou ? ||| 구멍이요?
+JULIEN: Si l'on supprime proprement, on ne voit rien. Si l'on supprime salement, on voit un chiffre qui manque. C'est la seule vraie différence entre un effacement et un oubli. ||| 깨끗이 지우면 아무것도 안 보여요. 서툴게 지우면 숫자 하나가 빠진 게 보이죠. 삭제와 망각의 유일한 차이입니다.
+FERRAND: J'ai une question de protocole. Qui était dans la salle ? ||| 의전 질문이 있어요. 누가 방에 있었죠?
+BARBIER: Vingt-deux personnes. Les chefs de délégation, le secrétaire général, moi. Et un invité, pour un « point de format ». ||| 스물두 명이에요. 대표단장들, 사무총장, 저. 그리고 "형식 문제"를 위해 초대된 손님 한 명.
+CAMILLE: L'homme à la pochette bleue. ||| 파란 행커치프를 한 남자.
+BARBIER: Comment le savez-vous ? ||| 어떻게 아세요?
+CAMILLE: On l'a décrit. Gris, souriant, cinquante ans. Je n'en dis pas plus. ||| 묘사를 들었어요. 회색 옷에 웃는 얼굴, 쉰 살쯤. 더는 말하지 않을게요.
+JULIEN: Mademoiselle Barbier, voulez-vous bien nous lire le point neuf ? ||| 바르비에 씨, 9번 안건을 읽어 주시겠습니까?
+BARBIER: Je l'ouvre. Voilà. Point neuf. Heure : dix-huit heures quarante-cinq environ. ||| 열겠습니다. 9번 안건. 시각은 18시 45분쯤입니다.
++ le procès-verbal = 회의록. 번호와 시각, 발언자를 남겨 두는 공식 기록. 번호의 빈틈이 곧 단서가 됨
++ un numéro absent = 비어 있는 번호. 서툴게 지운 기록의 흔적
++ taper à la main = 손으로 쳐 넣다. 자동 번호를 쓰지 않아 구멍이 보존된 이유
++ la numérotation automatique = 자동 번호 매기기. 항목이 지워지면 뒤 번호가 당겨져 흔적이 사라짐
++ un témoin = 증인. 기록을 소리 내어 읽는 자리에 제3자를 세우는 절차
++ la différence entre un effacement et un oubli = 삭제와 망각의 차이. 남은 흔적의 유무
++ une clause de confidentialité = 비밀 유지 조항. 서기가 문서를 보여 주기를 두려워한 이유
+
+## 주인을 잃은 참조 — LE RENVOI ORPHELIN
+BARBIER: « Point neuf. Annexe sept (numérique). M. Colin Reeve, du partenaire technique, invité pour un point de format, expose que l'annexe sept, dans son état, empêche le gel. Il propose de la détacher du texte gelé et de la remettre au Secrétariat, pour mise en forme après la signature. » ||| "9번 안건. 부록 7(디지털). 기술 파트너의 콜랭 리브 씨가 형식 문제 때문에 초대되어, 부록 7이 현재 상태로는 동결을 막는다고 설명. 동결 문안에서 떼어 내 서명 후 정리하도록 사무국에 넘기자고 제안."
+JULIEN: Colin Reeve. Vous avez écrit le nom. ||| 콜랭 리브라. 이름을 적으셨군요.
+BARBIER: Il me l'a donné quand je lui ai demandé de l'épeler. Il a même ajouté : « Avec deux e, comme dans free. » ||| 철자를 불러 달라고 했더니 알려 줬어요. "free처럼 e가 두 개"라고까지 덧붙였죠.
+JULIEN: Continuez. ||| 계속하세요.
+BARBIER: « Le Secrétaire général : Pas d'objection ? Silence. Le Secrétaire général : Pris acte. Consensus. » ||| "사무총장: 이의 없으십니까? 침묵. 사무총장: 알겠습니다. 합의."
+CAMILLE: Le silence, noté comme un consentement. ||| 침묵이 동의로 기록됐군요.
+BARBIER: Il y a la suite, dans la marge. Je l'ai écrite avec un astérisque. « Mme Virta (délégation nordique) : Nous demandons à voir la version. Le Secrétaire général : On verra au point suivant. Réserve non enregistrée à la demande du Secrétaire général. » ||| 여백에 다음 내용이 있어요. 별표를 달아 적었습니다. "비르타 씨(북유럽 대표단): 문안을 보여 달라고 요청합니다. 사무총장: 다음 안건에서 보죠. 유보는 사무총장의 요청으로 기록되지 않음."
+FERRAND: Réserve non enregistrée. Voilà une expression que le protocole déteste. ||| 유보는 기록되지 않음이라. 의전이 질색하는 표현이에요.
+JULIEN: Pourquoi l'avez-vous écrite quand même ? ||| 그래도 왜 적으셨어요?
+BARBIER: Parce qu'à l'école de droit on m'a appris qu'un procès-verbal est un récit de ce qui a été dit, pas de ce qui a été décidé. Si on ne note que les décisions, on devient l'avocat de ceux qui décident. ||| 법학 전문대학원에서 회의록은 결정된 것이 아니라 말해진 것의 기록이라고 배웠으니까요. 결정만 적으면 결정하는 사람들의 변호인이 되는 거죠.
+CAMILLE: Bonne école. Dites-moi, dans le procès-verbal imprimé par la plateforme, y a-t-il des phrases qui renvoient à ce point neuf ? ||| 좋은 학교네요. 플랫폼이 인쇄한 회의록에 이 9번을 가리키는 문장이 있나요?
+BARBIER: Je ne sais pas. Je n'ai pas relu ça. ||| 모르겠어요. 그건 다시 읽지 않았습니다.
+CAMILLE: Alors lisons. Je prends le point onze. « Communications. Conformément au point 9, le Secrétariat communiquera aux délégations, avant lundi neuf heures, le calendrier de mise en forme. » ||| 그럼 읽어 보죠. 11번 안건. "공지. 9번에 따라 사무국은 월요일 9시 전에 대표단에 정리 일정을 통지한다."
+JULIEN: « Conformément au point 9 ». ||| "9번에 따라".
+CAMILLE: Et le point douze. « Prochaine réunion : lundi huit heures trente, en vue des suites du point 9. » ||| 12번 안건. "다음 회의: 월요일 8시 30분, 9번의 후속 조치를 위해."
+JULIEN: Deux renvois à un point qui n'existe plus. C'est un fantôme qui laisse des empreintes. ||| 이미 없는 안건을 가리키는 참조가 둘이군. 유령이 발자국을 남겼어.
+FERRAND: On appelle ça, au protocole, une chaise vide avec un nom dessus. ||| 의전에서는 이름표가 놓인 빈 의자라고 하죠.
+BARBIER: Je n'avais pas vu ces renvois. Je n'ai pas écrit « conformément au point 9 ». J'ai écrit « suite à décider ». ||| 이 참조들은 못 봤어요. "9번에 따라"라고 쓴 적이 없어요. "후속 조치는 추후 결정"이라고 썼습니다.
+CAMILLE: Donc quelqu'un a modifié ton point onze et ton point douze, après toi. ||| 그럼 누군가 서기님 뒤에 11번과 12번을 고쳤다는 거네요.
+BARBIER: Et il n'a pas supprimé la numérotation. Il a seulement supprimé le neuf. Mais il a gardé deux phrases où le neuf servait de preuve. ||| 번호 체계는 안 건드렸고 9번만 지웠어요. 하지만 9번이 증거로 쓰인 문장 두 개를 남겨 뒀네요.
+JULIEN: C'est une erreur humaine. Ceux qui dissimulent le plus mal sont ceux qui s'y connaissent le mieux en dissimulation : ils pensent à tout, sauf à ce qui les rend visibles. ||| 사람의 실수예요. 가장 서툴게 숨기는 사람은 숨기는 법을 가장 잘 아는 사람들입니다. 모든 걸 생각하면서 자기를 눈에 띄게 하는 것만 빼먹죠.
+FERRAND: Je ferai une copie certifiée du carnet. Page de gauche, page de droite, avec mon tampon et l'heure. L'original reste à Mlle Barbier. ||| 수첩의 인증 사본을 만들겠습니다. 왼쪽 쪽과 오른쪽 쪽 모두, 제 도장과 시각을 넣어서요. 원본은 바르비에 씨가 갖고 있고요.
+BARBIER: Et si on me licencie ? ||| 해고당하면요?
+JULIEN: Vous aurez fait ce que fait un greffier : écrire ce qui a été dit. Un greffier qu'on licencie pour ça devient l'objet d'un autre procès-verbal. Et celui-là, je le lirai. ||| 서기가 해야 할 일을 하신 겁니다. 그것 때문에 해고되는 서기는 또 다른 회의록의 주제가 되겠죠. 그 회의록은 제가 읽겠습니다.
+BARBIER: Vous dites ça pour me rassurer. ||| 안심시키려고 하시는 말이죠.
+JULIEN: Non. Je le dis pour que vous ayez un témoin de plus. ||| 아닙니다. 증인을 하나 더 늘려 드리려는 겁니다.
++ un renvoi = (문서 안의) 참조·상호 인용. «conformément au point 9»처럼 다른 조항을 가리키는 표현
++ un renvoi orphelin = 가리키던 대상이 사라진 참조. 지운 흔적을 남기는 가장 약한 고리
++ réserve non enregistrée = 기록되지 않은 유보. 의사록에 반대 의견을 남기지 않는 관행
++ conformément à… = ~에 따라. 공문서에서 앞선 결정에 근거를 대는 표현
++ pris acte / consensus = 알겠다 / 합의. 침묵을 동의로 바꾸어 적는 위험한 한 쌍의 말
++ une copie certifiée = 인증 사본. 의전 책임자의 도장과 시각으로 원본의 존재를 확인
++ un récit de ce qui a été dit / de ce qui a été décidé = 말해진 것의 기록 / 결정된 것의 기록. 회의록의 두 철학
++ pour que + 접속법 = ~하도록. «pour que vous ayez un témoin de plus»에서 목적을 나타냄
+
+## 빈의 번호들 — LES PROTOCOLES DE VIENNE
+VALCOURT: Je t'écoute, et j'ai choisi pour toi un fromage de Lisbonne. Un queijo de Azeitão, qu'on mange à la cuillère, comme un secret. ||| 듣고 있다. 리스본 치즈를 하나 골랐지. 숟가락으로 떠먹는 아제이탕 치즈, 비밀처럼 먹는 치즈야.
+JULIEN: Monsieur l'ambassadeur, hier vous m'avez dit : « À Vienne, on numérotait tout. » Je l'ai cherché toute la nuit. Mais je préfère l'entendre de vous. ||| 대사님, 어제 "빈에서는 모든 걸 번호 붙였다"고 하셨죠. 밤새 찾아봤지만 대사님께 듣는 게 낫습니다.
+VALCOURT: Alors écoute. Le Congrès de Vienne, de l'automne mille huit cent quatorze à juin mille huit cent quinze, n'a presque jamais tenu de séance plénière. On disait qu'il dansait beaucoup et qu'il avançait peu. ||| 그럼 들어라. 1814년 가을부터 1815년 6월까지 이어진 빈 회의는 전체 회의를 거의 열지 않았어. 많이 춤추고 조금 나아간다는 말이 돌았지.
+JULIEN: Alors où était le travail ? ||| 그럼 일은 어디서 했습니까?
+VALCOURT: Dans les comités et les conférences. Et chaque séance avait son protocole, numéroté, lu, puis signé. Le secrétaire du Congrès, Friedrich von Gentz, tenait la plume. On dit qu'il était l'homme qui savait le mieux ce qui n'avait pas été dit. ||| 위원회와 회담에서. 회담마다 번호를 붙인 의사록, 즉 프로토콜을 읽고 서명했지. 회의의 서기였던 프리드리히 폰 겐츠가 펜을 잡았어. 말해지지 않은 것을 누구보다 잘 아는 사람이라고들 했단다.
+JULIEN: Qu'est-ce qu'on faisait si un plénipotentiaire n'était pas d'accord avec le texte du protocole ? ||| 전권대표가 의사록 문안에 동의하지 않으면 어떻게 했습니까?
+VALCOURT: Il demandait l'insertion de sa réserve au protocole. C'était un droit. À Vienne, une objection non insérée était une objection qui n'existait pas, et un diplomate qui laissait passer cela se le voyait longtemps reprocher. ||| 자기 유보를 의사록에 삽입해 달라고 요구했어. 권리였지. 빈에서는 삽입되지 않은 이의는 존재하지 않는 이의였고, 그걸 그냥 넘기는 외교관은 두고두고 비난받았다.
+JULIEN: Alors « réserve non enregistrée à la demande du Secrétaire général »… ||| 그럼 "유보는 사무총장의 요청으로 기록되지 않음"이라는 건…
+VALCOURT: …serait un scandale à Vienne. Mais écoute le plus beau. L'Acte final, signé le neuf juin mille huit cent quinze, comporte tant d'articles et d'annexes que les signataires ont dû décider de l'ordre de signature. Ils ont choisi l'ordre alphabétique des pays, en français. ||| 빈에서는 추문이었겠지. 하지만 가장 멋진 건 이거다. 1815년 6월 9일 서명한 최종 의정서는 조항과 부속이 하도 많아서 서명 순서를 정해야 했어. 국가 이름의 프랑스어 알파벳 순서로 정했단다.
+JULIEN: Pour qu'aucun rang ne soit préféré ? ||| 어느 석차도 더 앞서지 않게요?
+VALCOURT: Voilà. Le français servait de langue neutre, et l'alphabet de rang neutre. Les inventions les plus avancées de la diplomatie sont les plus ennuyeuses. Un ordre alphabétique, c'est beau comme un mur propre. ||| 그렇지. 프랑스어는 중립적인 언어였고 알파벳은 중립적인 석차였어. 외교의 가장 앞선 발명은 늘 가장 지루한 거란다. 알파벳순은 깨끗한 벽처럼 아름답지.
+JULIEN: Les numéros aussi. ||| 번호도 그렇죠.
+VALCOURT: Les numéros surtout. Un numéro, c'est la seule loyauté qui ne parle pas. Retiens ceci : un trou dans une numérotation est un aveu d'arithmétique. Tu n'as pas besoin d'un traître. Tu as besoin d'une soustraction. ||| 번호가 특히 그렇지. 번호는 말하지 않는 유일한 충성이야. 이걸 기억해라. 번호가 비는 건 산수의 자백이다. 배신자는 필요 없어. 뺄셈이 필요할 뿐이지.
+JULIEN: Je m'en servirai demain. ||| 내일 쓰겠습니다.
+VALCOURT: Et ne triomphe pas. Gentz lui-même, à Vienne, aimait trop que ses notes lui donnent raison. Un procès-verbal qui triomphe n'est plus un procès-verbal. ||| 이겼다고 우쭐하지 마라. 빈에서 겐츠 자신도 자기 기록이 자기가 옳다고 해 주는 걸 너무 좋아했단다. 승리하는 회의록은 더 이상 회의록이 아니야.
+JULIEN: Compris. ||| 알겠습니다.
+VALCOURT: Léa m'a écrit hier pour sa dissertation. Je l'ai ajoutée à la conversation. Mon téléphone sait faire cela, à la grande surprise de mon âge. ||| 어제 레아가 논술 때문에 연락을 했어. 통화에 넣어 뒀지. 내 전화기가 그런 걸 할 줄 아는 건 내 나이에 큰 놀라움이야.
+LÉA: Bonsoir, monsieur Henri. Bonsoir, papa. J'ai écouté poliment depuis le début. J'ai une question. Si une phrase manque dans un texte, on peut accuser quelqu'un de l'avoir dite ? ||| 안녕하세요, 앙리 아저씨. 안녕, 아빠. 처음부터 예의 바르게 듣고 있었어요. 질문이 있어요. 글에서 한 문장이 빠졌을 때 누군가를 그 말을 했다고 고발할 수 있어요?
+JULIEN: Non. On ne peut accuser que de l'avoir fait disparaître. Et pour cela, il faut d'abord prouver qu'elle a existé. ||| 아니. 사라지게 했다고만 고발할 수 있지. 그러려면 먼저 그 문장이 존재했다는 걸 증명해야 해.
+LÉA: Alors une absence ne prouve rien toute seule. ||| 그럼 부재는 혼자서는 아무것도 증명하지 못하네요.
+JULIEN: Elle prouve quelque chose avec deux témoins. Un chiffre qui manque, et une phrase qui le cite. C'est une question de définition, comme tu dis. ||| 증인 둘이 있으면 증명하지. 빠진 숫자와 그 숫자를 인용하는 문장. 네가 말하듯 개념 정의의 문제야.
+LÉA: J'adore quand tu me copies. Bonne nuit, papa. Et bonne chance demain. ||| 아빠가 날 따라 하면 좋더라. 잘 자요, 아빠. 내일 행운을 빌어요.
++ insérer une réserve au protocole = 유보를 의사록에 삽입하다. 빈 회의의 관행에서 전권대표의 권리였던 절차
++ un plénipotentiaire = 전권대표. 조약 협상과 서명의 권한을 위임받은 외교관
++ l'Acte final = 최종 의정서. 1815년 6월 9일 서명된 빈 회의의 결과 문서
++ l'ordre alphabétique en français = 프랑스어 알파벳순. 서명 석차를 둘러싼 다툼을 피한 중립적 해법
++ un aveu d'arithmétique = 산수의 자백. 번호가 비어 있다는 사실이 이미 증거라는 발쿠르의 경구
++ Il faut d'abord prouver qu'elle a existé. = 먼저 그 문장이 존재했음을 증명해야 한다. «il faut que»와 함께 쓰이는 필요성의 표현
++ avoir raison / donner raison = 옳다 / 옳다고 인정해 주다. 겐츠가 자기 기록에 만족하는 대목의 어감
++ derrière l'écran = 화면 뒤에. 레아의 농담으로, 화면이 현대의 문이라는 뜻
+## 복도에서 — DANS LE COULOIR
+HÉLÈNE: Vous appelez à vingt-deux heures dix. Dimanche. Je vous ai dit que vous seriez le premier. ||| 22시 10분에 전화하시네요. 일요일에요. 제일 먼저일 거라고 말씀드렸죠.
+JULIEN: Je suis le premier. Un numéro manque dans un procès-verbal. Neuf. Il manque aussi dans une version imprimée, et deux phrases le citent encore. ||| 첫 번째 맞습니다. 회의록에서 번호 하나가 빠졌어요. 9번이요. 인쇄본에서도 빠졌는데 두 문장이 아직 그걸 인용하고 있습니다.
+HÉLÈNE: Je note. Heure ? ||| 적습니다. 시각은요?
+JULIEN: Le point neuf, dix-huit heures quarante-cinq. Le retrait de la page, d'après ce que nous croyons, vingt heures quarante-sept. ||| 9번 안건은 18시 45분. 쪽이 빠진 건 우리 추측으로는 20시 47분입니다.
+HÉLÈNE: Vingt heures quarante-sept. Intéressant. Je n'ai pas le droit de vous dire pourquoi c'est intéressant. Je peux vous dire que la porte de la régie technique s'est ouverte à vingt heures quarante et une avec un badge de visiteur. Pas un badge de délégation. ||| 20시 47분이라. 흥미롭네요. 왜 흥미로운지는 말할 수 없어요. 중계실 문이 20시 41분에 방문객 배지로 열렸다는 것만 말씀드릴 수 있습니다. 대표단 배지가 아니라요.
+JULIEN: Un visiteur « consultant du partenaire technique ». ||| "기술 파트너의 자문"이라는 방문객이겠죠.
+HÉLÈNE: Je n'ai pas prononcé ce mot. Mais je compte les secondes. À vingt heures quarante-sept, la session « adm-sec » s'est ouverte sur le poste de la régie. À vingt heures quarante-neuf, elle s'est fermée. ||| 저는 그 말을 하지 않았어요. 하지만 초를 셉니다. 20시 47분에 중계실 컴퓨터에서 "adm-sec" 세션이 열렸고 20시 49분에 닫혔어요.
+JULIEN: Deux minutes. ||| 이 분이군요.
+HÉLÈNE: Deux minutes suffisent pour supprimer un point et en modifier deux autres. Pas assez pour les relire. ||| 안건 하나를 지우고 두 개를 고치기에는 충분하고, 다시 읽기에는 부족한 시간이죠.
+JULIEN: C'est pour cela qu'il a laissé deux renvois. ||| 그래서 참조를 두 개 남겼군요.
+HÉLÈNE: Jour trois, dimanche soir. Je n'ajoute rien. Demain, appelez-moi avant le déjeuner, pas après. ||| 사흘째 일요일 밤입니다. 더 말하지 않을게요. 내일은 점심 전에 전화하세요. 후가 아니라.
+CAMILLE: Elle a donné l'heure à la seconde. Elle ne peut pas l'avoir vue ailleurs. ||| 초 단위로 시각을 줬어. 다른 데서 봤을 리가 없는데.
+JULIEN: Elle la tient d'un registre qu'elle ne nomme pas. Je n'en fais aucun usage officiel. Je m'en sers seulement pour savoir où regarder. ||| 이름 밝히지 않는 기록에서 얻은 거야. 공식적으로는 쓰지 않아. 어디를 볼지 아는 데만 쓰는 거지.
+CAMILLE: Le même principe que pour les comptes de Kasra. ||| 카스라 계좌 때와 같은 원칙이네.
+JULIEN: Les mêmes quatre règles. Je ne le cite à personne, je ne le montre à personne, je ne le garde pas. Viens, le couloir du secrétaire général. ||| 같은 네 가지 규칙이야. 아무에게도 인용하지 않고, 보여 주지 않고, 보관하지 않아. 자, 사무총장 집무실 복도로 가자.
+DELAUNAY: Monsieur Delorme, il est vingt-deux heures quinze. Je n'ai pas de rendez-vous avec vous. ||| 들로름 씨, 22시 15분입니다. 당신과 약속은 없었는데요.
+JULIEN: Moi non plus, avec le temps. Voici une copie certifiée par la cheffe du protocole, avec le tampon et l'heure, du carnet manuscrit de Mlle Barbier. Page treize. Point neuf. ||| 저도 시간과는 약속이 없었죠. 의전 책임자가 도장과 시각을 넣어 인증한 바르비에 씨 손글씨 수첩 사본입니다. 열세 번째 쪽, 9번 안건이에요.
+DELAUNAY: Je ne lis pas les carnets à vingt-deux heures. ||| 밤 10시에 수첩을 읽지는 않습니다.
+JULIEN: Alors je le lis pour vous. « Le Secrétaire général : Pas d'objection ? Silence. Le Secrétaire général : Pris acte. Consensus. » C'est bien vous ? ||| 그럼 제가 읽어 드리죠. "사무총장: 이의 없으십니까? 침묵. 사무총장: 알겠습니다. 합의." 사무총장님 맞습니까?
+DELAUNAY: C'est moi. Et alors ? Un silence est un consentement, en droit. Qui ne dit mot consent. ||| 접니다. 그래서요? 법적으로 침묵은 동의입니다. 말하지 않으면 동의한 것이죠.
+JULIEN: Qui ne dit mot consent. Sauf quand quelqu'un a dit un mot, et qu'on a refusé de l'écrire. Mme Virta a dit : « Nous demandons à voir la version. » ||| 말하지 않으면 동의한 것이라. 누군가 말했는데 적지 않았다면 다르죠. 비르타 씨가 "문안을 보여 달라고 요청한다"고 했습니다.
+DELAUNAY: J'ai dit que nous verrions au point suivant. ||| 다음 안건에서 보자고 했습니다.
+JULIEN: Le point suivant, c'était le dix. La liste des signataires. Vous n'avez jamais « vu » rien du tout. ||| 다음 안건은 10번, 서명자 명단이었죠. 아무것도 "본" 적이 없잖아요.
+DELAUNAY: Vous pensez que j'ai supprimé le point neuf. ||| 제가 9번 안건을 지웠다고 생각하시는군요.
+JULIEN: Je pense que quelqu'un l'a fait avec le compte du secrétariat, à vingt heures quarante-sept, depuis le poste de la régie. Je ne vous accuse pas. J'accuse les chiffres. ||| 누군가 사무국 계정으로 20시 47분에 중계실 컴퓨터에서 했다고 생각합니다. 사무총장님을 고발하는 게 아니라 숫자를 고발하는 겁니다.
+DELAUNAY: J'ai demandé à M. Reeve de « mettre le procès-verbal en forme » pour qu'il soit lisible. Voilà ce que j'ai demandé. Rien d'autre. ||| 리브 씨에게 읽기 쉽게 회의록을 "정리"해 달라고 부탁했습니다. 그게 전부예요. 다른 건 없습니다.
+CAMILLE: « Mettre en forme ». C'est la même expression que l'article quarante et un. ||| "정리". 41조와 똑같은 표현이네요.
+DELAUNAY: C'est l'expression que tout le monde emploie ! ||| 다들 쓰는 표현입니다!
+JULIEN: Oui. C'est ce qui la rend dangereuse. Monsieur le secrétaire général, je vais vous dire ce que je crois, et vous direz si je me trompe. Vous voulez que ce sommet réussisse. ||| 네. 그래서 위험한 겁니다. 사무총장님, 제가 믿는 바를 말씀드릴 테니 틀렸는지 말씀해 주세요. 사무총장님은 이 정상회의가 성공하기를 바라십니다.
+DELAUNAY: Évidemment. ||| 물론이죠.
+JULIEN: Trois délégations menaçaient de ne pas signer à cause du sept point cinq. Quatre services de sécurité, en revanche, ne voulaient pas qu'il soit supprimé. Vous aviez un sommet à sauver, et un homme charmant de la régie vous a proposé une porte de sortie : retirer l'annexe, signer, régler après. ||| 7.5조 때문에 대표단 세 곳이 서명하지 않겠다고 했고, 반대로 보안 기관 네 곳은 삭제를 원하지 않았습니다. 구해야 할 정상회의가 있었고, 매력적인 중계실 남자가 출구를 제안했죠. 부록을 철회하고, 서명하고, 나중에 정리하자고.
+DELAUNAY: …Ce n'est pas faux. ||| …틀린 말은 아니군요.
+JULIEN: Et vous ne lui avez pas demandé pourquoi ce partenaire technique était si pressé de régler après. ||| 그리고 그 기술 파트너가 왜 나중에 정리하는 데 그렇게 서둘렀는지는 묻지 않으셨죠.
+DELAUNAY: Je n'ai pas… je n'ai pas pensé. ||| 저는… 생각하지 못했습니다.
+JULIEN: Je ne vous demande pas de penser à voix haute. Je vous demande quatre signatures, avant minuit. Un : le point neuf est rétabli dans le procès-verbal, avec le texte de Mlle Barbier et la réserve de Mme Virta. Deux : les quatorze versions papier sont déposées dans un dossier ouvert à tous les chefs de délégation, à huit heures. ||| 생각을 소리 내어 하라는 게 아닙니다. 자정 전에 서명 네 개를 요구합니다. 하나, 9번 안건을 바르비에 씨의 글과 비르타 씨의 유보를 넣어 회의록에 복원합니다. 둘, 종이 버전 열네 개를 모든 대표단장에게 8시에 여는 서류철로 기탁합니다.
+DELAUNAY: Trois ? ||| 셋은요?
+JULIEN: Trois : l'historique de la plateforme est ouvert en lecture à toutes les délégations, et personne ne peut plus le masquer. Quatre : M. Reeve ne retourne pas dans la régie tant que l'examen n'est pas terminé. ||| 셋, 플랫폼 이력을 모든 대표단이 읽을 수 있게 열고 누구도 가리지 못하게 합니다. 넷, 리브 씨는 검토가 끝날 때까지 중계실에 돌아가지 않습니다.
+DELAUNAY: C'est une mise sous tutelle. ||| 후견 상태에 두라는 거군요.
+JULIEN: C'est une mise sous lumière. ||| 조명 아래 두라는 겁니다.
+DELAUNAY: …Et si je signe ? ||| …서명하면요?
+JULIEN: Alors vous serez le secrétaire général qui a rétabli un point neuf. On en parlera encore dans cinquante ans. ||| 그럼 9번 안건을 복원한 사무총장이 되시는 겁니다. 오십 년 뒤에도 이야기될 거예요.
+DELAUNAY: Donnez-moi le stylo. ||| 펜 주세요.
+ORSINI: Monsieur le secrétaire général, pardon. Si vous signez, c'est moi qui dois l'exécuter. Et je suis payé par Aurelia. ||| 사무총장님, 죄송합니다. 서명하시면 실행하는 건 저예요. 그런데 저는 오렐리아에서 월급을 받습니다.
+JULIEN: Monsieur Orsini, vous perdrez peut-être une place. Vous garderez un nom. ||| 오르시니 씨, 자리는 잃을 수도 있어요. 하지만 이름은 지키게 됩니다.
+ORSINI: C'est un joli mot. Il ne paye pas mon loyer. ||| 멋진 말이네요. 제 월세는 못 내 주지만.
+DELAUNAY: Le secrétariat vous garantit l'ordre écrit, signé, daté, à vingt-deux heures quarante. Si Aurelia vous renvoie, ce sera pour avoir obéi au sommet. ||| 사무국이 서면 지시를 보증합니다. 서명, 날짜, 22시 40분이요. 오렐리아가 해고한다면 정상회의에 복종했기 때문이 됩니다.
+ORSINI: Alors j'ouvre l'historique à sept heures trente. Lecture seule, pour tous. Et je ne le referme pas, même si on me le demande. ||| 그럼 7시 30분에 이력을 엽니다. 모두에게 읽기 전용으로요. 요청받아도 다시 닫지 않겠습니다.
+JULIEN: Écrivez-le. ||| 그걸 적어 주세요.
+ORSINI: C'est écrit. Sur papier. Je commence à comprendre l'intérêt. ||| 적었습니다. 종이에요. 이제 이유를 알겠네요.
++ Qui ne dit mot consent. = 말하지 않는 자는 동의한 것이다. 침묵을 동의로 보는 법언인데, 말한 사람이 있었다면 성립하지 않음
++ mettre en forme / mise en forme = 정리하다 / 정리. 모든 것을 가릴 수 있는 완곡한 행정 표현
++ une mise sous tutelle / une mise sous lumière = 후견 상태에 두기 / 조명 아래 두기. 쥘리앵의 말놀이로 통제와 투명성을 구별
++ J'accuse les chiffres. = 저는 숫자를 고발합니다. 사람을 비난하지 않고 기록으로 말한다는 방식
++ une copie certifiée = 인증 사본. 의전 책임자의 도장으로 증거 가치를 보태는 사본
++ une session se ferme / s'ouvre = 세션이 닫히다 / 열리다. 접속 기록의 시각이 지운 시점을 짐작하게 하는 단서
++ lecture seule = 읽기 전용. 수정 권한 없이 모두가 이력을 열람하도록 하는 설정
++ garder un nom = 이름을 지키다. 직업적 손실을 감수하고 양심을 택하는 사람에게 쥘리앵이 건네는 말
+
+## 아홉 시의 검토 — L'EXAMEN DE NEUF HEURES
+JULIEN: Mesdames et messieurs les chefs de délégation, je vous remercie d'être venus avant l'ouverture. À huit heures, ce matin, le Secrétariat a déposé devant chacun de vous un dossier : quatorze versions papier, signées et datées, et le procès-verbal de la réunion d'hier, avec son point neuf. ||| 대표단장 여러분, 개막 전에 와 주셔서 감사합니다. 오늘 아침 8시 사무국이 여러분 앞에 서류철을 놓았습니다. 서명과 날짜가 있는 종이 버전 열네 개, 어제 회의록과 9번 안건입니다.
+VIRTA: Je le tiens. Je lis : « Mme Virta : Nous demandons à voir la version. Réserve non enregistrée à la demande du Secrétaire général. » Je demande que cette réserve soit insérée au procès-verbal, avec mon nom. ||| 들고 있습니다. 읽겠어요. "비르타 씨: 문안을 보여 달라고 요청합니다. 유보는 사무총장의 요청으로 기록되지 않음." 이 유보를 제 이름과 함께 회의록에 삽입해 줄 것을 요구합니다.
+DELAUNAY: Insérée. Avec le nom. ||| 삽입합니다. 이름과 함께요.
+BARBIER: Insérée au procès-verbal, point neuf, dix-neuf heures cinq hier. Lue ce matin à neuf heures deux. ||| 회의록 9번 안건에 삽입했습니다. 어제 19시 5분 건이고 오늘 아침 9시 2분에 낭독했어요.
+KOUROUMA: Monsieur le médiateur, je suis un peu lent ce matin. Je ne comprends toujours pas comment un texte peut sortir d'un procès-verbal sans que personne ne le voie sortir. ||| 중재자님, 오늘 아침엔 제가 좀 느립니다. 회의록에서 문장 하나가 나가는데 아무도 나가는 걸 보지 못할 수 있다는 걸 아직 이해 못 하겠어요.
+JULIEN: Il suffit qu'on ait organisé la scène pour que personne n'ait de raison de regarder la sortie. Il faut que l'historique soit ouvert, que les papiers soient datés, que chacun sache ce qu'il a lu et quand. ||| 아무도 출구를 볼 이유가 없게 무대를 짜 놓으면 되죠. 이력이 열려 있고, 종이에 날짜가 있고, 누구나 무엇을 언제 읽었는지 알아야 합니다.
+KOUROUMA: C'est une bonne définition de la transparence. ||| 투명성에 대한 좋은 정의군요.
+JULIEN: C'est une définition de Léa, ma fille, avec des mots un peu moins beaux. ||| 제 딸 레아의 정의입니다. 말이 조금 덜 예쁠 뿐이죠.
+MBARGA: Je suis le délégué d'Afrique centrale. Puis-je poser une question ? On nous a dit hier que l'annexe sept était « retirée ». Qui a retiré, au juste, et au nom de qui ? ||| 중앙아프리카 대표입니다. 질문해도 되겠습니까? 어제 부록 7이 "철회됐다"고 들었습니다. 정확히 누가, 누구의 이름으로 철회했습니까?
+JULIEN: Ma réponse tient en trois phrases. Aucune délégation n'a proposé le retrait. Le retrait a été proposé par un invité du partenaire technique, qui n'est pas une délégation. Le silence qui a suivi a été enregistré comme un consensus, alors qu'une délégation avait demandé à voir le texte. ||| 세 문장으로 답하겠습니다. 어떤 대표단도 철회를 제안하지 않았습니다. 철회는 대표단이 아닌 기술 파트너의 초청 손님이 제안했습니다. 그 뒤의 침묵이 합의로 기록되었는데, 한 대표단이 문안을 보여 달라고 요청한 상태였고요.
+MBARGA: Alors il n'y a pas eu de retrait. ||| 그렇다면 철회는 없었던 겁니다.
+JULIEN: Il y a eu une proposition, qui n'a pas été adoptée. C'est exactement ce que dit le point neuf une fois qu'il est complet. ||| 채택되지 않은 제안이 있었을 뿐이에요. 완전한 형태의 9번 안건이 바로 그렇게 말합니다.
+KOUROUMA: Je demande alors le rétablissement de la formule « telle qu'annexée au présent accord » à l'article douze deux, et la suppression de l'article quarante et un tel qu'il est rédigé. ||| 그렇다면 12조 2항의 "본 협정에 부속된 바에 따른다"를 복원하고, 현재 문안의 41조는 삭제할 것을 요구합니다.
+DELAUNAY: Je… je n'y vois pas d'objection de ma part. Mais je ne veux pas noter un silence. Quelqu'un s'y oppose-t-il ? Je demande à chaque délégation de répondre par oui ou par non. ||| 저로서는 이의가 없습니다. 하지만 침묵을 적고 싶지 않군요. 반대하는 분 있습니까? 각 대표단이 예 또는 아니오로 답해 주시길 요청합니다.
+VIRTA: Oui, pour la nôtre. ||| 저희는 예입니다.
+MBARGA: Oui. ||| 예.
+KOUROUMA: Oui. Je note que, pour la première fois depuis hier, on me demande un oui, pas un silence. ||| 예. 어제 이후 처음으로 침묵이 아니라 예를 요구받았다는 점을 기록합니다.
+JULIEN: Vingt-deux délégations. Je les appelle une à une, comme à Vienne. Alphabétique, en français. ||| 대표단 스물두 곳입니다. 빈에서처럼 한 곳씩 호명하겠습니다. 프랑스어 알파벳 순서로요.
+BARBIER: Le résultat : vingt et un oui, une réserve de forme. Pas d'opposition. ||| 결과입니다. 찬성 스물하나, 형식 유보 하나. 반대는 없습니다.
+CAMILLE: Reste le sept point cinq. ||| 7.5조가 남았어.
+JULIEN: Oui. Mme Virta, vous aviez des mots. ||| 네. 비르타 씨, 문구가 있으셨죠.
+VIRTA: Nous ne contestons pas que des services de sécurité aient besoin d'agir vite. Nous contestons que personne ne le sache jamais. Je propose : « Les services compétents ne peuvent accéder aux flux et aux journaux de données qu'après notification à l'autorité indépendante prévue à l'article 7.3, sauf urgence caractérisée. En cas d'urgence, la notification intervient dans les quarante-huit heures et l'accès figure dans un rapport public annuel. » ||| 보안 기관이 신속히 움직여야 한다는 건 부인하지 않습니다. 아무도 영영 모르게 된다는 걸 부인하는 겁니다. 제안합니다. "관할 기관은 7.3조의 독립 기관에 통지한 후에만 데이터 흐름과 기록에 접근할 수 있다. 다만 명백한 긴급 상황은 예외로 한다. 긴급한 경우 통지는 48시간 내에 이루어지고 접근은 연례 공개 보고서에 기재된다."
+KOUROUMA: Je soutiens. Quoique ce soit moins que ce que nous voulions, c'est un texte que l'on peut lire sans rougir. ||| 지지합니다. 우리가 원한 것보다는 덜하지만 얼굴 붉히지 않고 읽을 수 있는 문안이군요.
+MBARGA: Je soutiens aussi. ||| 저도 지지합니다.
+DELAUNAY: Les services de sécurité de quatre pays ont demandé à être consultés. Je propose d'inscrire qu'ils l'ont été. ||| 네 나라의 보안 기관이 협의를 요청했습니다. 협의했다는 사실을 기재할 것을 제안합니다.
+JULIEN: Excellent. Qu'on l'inscrive au procès-verbal : consultés, avec la date et l'heure. Ce qu'on inscrit ne s'efface pas. ||| 훌륭합니다. 회의록에 협의했다는 것을 날짜와 시각과 함께 기재하세요. 적어 둔 것은 지워지지 않습니다.
+FERRAND: Monsieur le médiateur, une dernière précision, pour le protocole. La table VII reste. Quatorze sièges, mardi, dix-sept heures. ||| 중재자님, 의전으로서 마지막 확인입니다. 7번 탁자는 유지됩니다. 14석, 화요일 17시.
+JULIEN: Merci, madame. Elle a dit la vérité depuis le début. ||| 감사합니다. 그 탁자는 처음부터 진실을 말했습니다.
+REEVE: Pardon de vous déranger. Colin Reeve. Je suis ici pour aider, et on m'a dit à l'entrée que mon badge était suspendu. ||| 방해해서 죄송합니다. 콜랭 리브입니다. 도우러 왔는데 입구에서 배지가 정지됐다고 하더군요.
+JULIEN: Monsieur Reeve, soyez le bienvenu dans cette salle, comme observateur. Vous n'êtes pas une délégation, donc vous ne parlez pas. Mais vous pouvez écouter. ||| 리브 씨, 참관인으로 이 방에 오신 걸 환영합니다. 대표단이 아니니 발언은 못 하지만 들으실 수는 있어요.
+REEVE: Vous êtes aimable. Nous avons beaucoup d'autres clients, vous savez, dans d'autres écoles, dans d'autres ports. Le monde est grand, monsieur Delorme. ||| 친절하시군요. 우리에겐 다른 고객이 아주 많습니다. 다른 학교, 다른 항구에도요. 세상은 넓어요, 들로름 씨.
+JULIEN: Je n'en doute pas. Mais il y a des numéros qui sont plus grands que le monde. ||| 의심하지 않습니다. 하지만 세상보다 큰 번호도 있어요.
+REEVE: Lesquels ? ||| 어떤 번호요?
+JULIEN: Le neuf, par exemple. ||| 예를 들어 9번이요.
+CAMILLE: Il est neuf heures cinquante-deux. Ton téléphone vibre. ||| 9시 52분이야. 전화기가 울려.
+JULIEN: C'est un message d'Hélène : « Jour quatre. Valois vient d'ouvrir une ligne pour une fondation d'enseignement à Port-Lumière. Appelez avant le déjeuner. » ||| 엘렌의 문자야. "나흘째. 발루아가 포르 뤼미에르의 교육 재단 건으로 라인을 열었어요. 점심 전에 전화하세요."
+CAMILLE: Port-Lumière ? C'est l'école française d'outre-mer dont la fermeture est annoncée. ||| 포르 뤼미에르라면 폐쇄 예고된 프랑스 해외 학교잖아.
+JULIEN: Oui. Une affaire à la fois. Écris dans mon carnet. « Neuf. Rétabli. Neuf heures cinquante-deux. » ||| 맞아. 한 번에 한 건씩. 수첩에 적어. "9번. 복원. 9시 52분."
++ insérer au procès-verbal = 회의록에 삽입하다. 빈 회의에서 이어진 유보 기록의 권리
++ Il suffit que + 접속법 = ~하기만 하면 충분하다. «Il suffit qu'on ait organisé la scène…»에서 쓰임
++ Il faut que + 접속법 = ~해야 한다. «Il faut que l'historique soit ouvert»처럼 필요 조건
++ quoique + 접속법 = ~이긴 하지만. 대사가 타협안을 받아들이면서 아쉬움을 담는 표현
++ une urgence caractérisée = 명백한 긴급 상황. 예외를 좁히는 법률 문구
++ un rapport public annuel = 연례 공개 보고서. 감시 접근 사실을 사후에 공개하는 통제 장치
++ répondre par oui ou par non = 예 또는 아니오로 답하다. 침묵을 기록하지 않고 명시적 동의를 받는 방식
++ comme à Vienne : alphabétique, en français = 빈에서처럼 프랑스어 알파벳순으로. 석차 다툼을 피하는 중립적 호명 방식
