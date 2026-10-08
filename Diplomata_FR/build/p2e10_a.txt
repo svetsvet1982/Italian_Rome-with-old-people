@@ -1,0 +1,136 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 10
+@title Négocier dans le noir
+@ko 어둠 속의 협상
+@setting 포르오뱅 공항과 항구의 폭풍(수요일 오후) → 항만 사무소 2층 회의실(전등 아래) → 정전 직후 촛불 → 어둠 속 대화 → 촛불 아래 낭독과 서명
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 프랑스 대표단 단장
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 말라비 대표단 단장
+@cast TAVARES | 사뮈엘 타바르스, 말라비 대표단 법률 자문, 34세. 조부는 1962년 변호사 도밍구스 타바르스
+@cast REEVE | 콜랭 리브, 런던 소재 자문 사무소 소속 영어권 자문, 40대. 말라비 대표단의 '대표단 자문'
+@cast LE GALL | 이본 르 갈, 포르오뱅 항만 감독관(capitaine de port), 61세. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 전화로 등장
+@note 2부 10화입니다. 수요일 저녁, 목요일 위원회 첫 회의를 앞두고 열리는 '개막 의정서' 준비 회의입니다. 열대 저기압이 군도를 덮치고 항만 사무소가 정전됩니다. 어둠 속에서는 직함도 표정도 보이지 않고 목소리만 남습니다. 해법의 순간은 어둠 속에서 들린 한마디입니다. 영어로 낮게 속삭인 «우리 고객은 20일에 허가에 서명한다»는 말을 쥘리앵이 듣고, 공개 질문으로 바꿔 놓습니다. 어둠 속에서는 침묵이 위엄이 아니라 그냥 부재로 들린다는 점이 이 장면의 규칙입니다. 역사 배경은 1659년 비다소아 강 위의 '꿩의 섬(Île des Faisans)' 회담입니다. 마자랭과 스페인의 루이스 데 아로가 같은 해 8월부터 11월 7일까지 협상해 피레네 조약을 맺었고, 회담장의 배치 자체가 국경선을 가운데 두고 대칭을 이루었다고 전해집니다(전해지는 이야기이므로 단정하지 않습니다). 루이 14세는 이듬해 6월에야 섬에서 스페인 왕을 만났고, 이 섬은 오늘날에도 프랑스와 스페인이 번갈아 관리하는 공동 관리지입니다(공동 관리의 가장 오래된 사례입니다). 유엔해양법협약 83조 3항은 최종 합의 전 «합의를 방해하는 행위를 하지 않는다»고 규정합니다. 어휘는 une coupure de courant, à tâtons, à la bougie, se tenir à égale distance, 접속법(pourvu que, sans que, à moins que)에 주목하세요.
+@next 11화 «La gestion commune» (공동 관리): 목요일, 위원회 첫 회의. 발쿠르가 두 대표단 앞에서 1962년 서한의 마지막 줄을 읽고, 한 단어가 합의를 가른다.
+
+## 저기압 — LA DÉPRESSION
+CAMILLE: Julien, la passerelle a été fermée. L'avion est le dernier à avoir atterri avant la tempête. ||| 쥘리앵, 탑승교가 폐쇄됐어. 우리 비행기가 폭풍 전 마지막 착륙이래.
+JULIEN: Alors nous sommes arrivés à temps pour être enfermés. Le vent ? ||| 그럼 갇히려고 제시간에 왔네. 바람은?
+CAMILLE: Quatre-vingt-dix nœuds en rafales cette nuit, d'après la météo marine. Rien ne sort du port avant demain matin. ||| 오늘 밤 돌풍이 구십 노트까지래, 해양 기상예보 말로는. 내일 아침까지 아무것도 항구를 못 나가.
+JULIEN: Donc pas d'escorte, pas de navire de prospection, pas d'incident. La nature fait le gel avant nous. ||| 그러면 호송도, 탐사선도, 사고도 없겠군. 우리보다 먼저 자연이 동결을 해 주네.
+CAMILLE: Barral Maritime a répondu. Ce matin, avant midi, comme promis. ||| 바랄 마리팀이 답했어. 약속대로 오늘 정오 전에.
+JULIEN: Montre. ||| 보여 줘.
+CAMILLE: Trois pages. Actionnaires, contrat de service du port, et une ligne : « Conseil : V.A. Ltd, Londres. » Rien d'autre sur le conseil. ||| 세 쪽이야. 주주, 항만 용역 계약, 그리고 한 줄. "자문: V.A. Ltd, 런던." 자문에 대해선 그뿐이야.
+JULIEN: Il a déclaré ce qu'il détient. Il n'a pas déclaré ce qu'on lui a soufflé. ||| 가진 걸 신고했군. 누가 귀띔해 준 건 신고하지 않았고.
+CAMILLE: Il a ajouté un mot à la main. Je l'ai photographié. ||| 손으로 쓴 쪽지가 하나 붙어 있어. 사진 찍어 뒀어.
+JULIEN: Lis. ||| 읽어 봐.
+CAMILLE: « Descartes, voici ce que j'ai. Le reste est derrière une porte dont je n'ai pas la clé. T. » ||| "데카르트, 내가 가진 건 이거야. 나머지는 내가 열쇠를 갖고 있지 않은 문 뒤에 있어. T."
+JULIEN: Une porte dont il n'a pas la clé. Voilà le premier aveu d'un homme qui croyait diriger. ||| 열쇠 없는 문이라. 자기가 운전한다고 믿던 사람의 첫 고백이군.
+LE GALL: Monsieur Delorme ? Yvon Le Gall, capitaine de port. Je vous attends avec une voiture à quatre roues motrices et un parapluie qui ne sert à rien. ||| 들로름 씨? 이본 르 갈, 항만 감독관입니다. 사륜구동차와 아무 쓸모 없는 우산을 가지고 기다렸습니다.
+JULIEN: Capitaine. Merci. Où se tient la réunion de ce soir ? ||| 감독관님, 감사합니다. 오늘 저녁 회의는 어디서 합니까?
+LE GALL: Chez moi. La capitainerie. L'hôtel de ville a perdu son toit hier soir et la mairie est sous les tôles. Il y a une salle au premier, une table de quatre mètres, un thermos de café. ||| 우리 쪽입니다. 항만 사무소. 시청은 어제 저녁 지붕이 날아갔고 시청 청사는 양철판 밑에 있어요. 이층에 방 하나, 사 미터짜리 탁자, 보온병 커피가 있습니다.
+JULIEN: Et l'électricité ? ||| 전기는요?
+LE GALL: Un groupe électrogène. Il tient, d'habitude. Mais d'habitude, nous n'avons pas quatre-vingt-dix nœuds. ||| 발전기가 있습니다. 보통은 버티죠. 하지만 보통은 구십 노트가 안 불어요.
+CAMILLE: Madame Okanla est déjà là ? ||| 오칸라 대사님은 벌써 오셨어요?
+LE GALL: Depuis une heure, avec son juriste et l'Anglais. Ils ont demandé deux tables. Je leur en ai donné une. ||| 한 시간 전부터요. 법률가와 영국인이랑. 탁자를 두 개 달라더군요. 하나만 내줬습니다.
+JULIEN: Pourquoi une seule ? ||| 왜 하나만요?
+LE GALL: Parce que j'ai connu des négociations à deux tables. On finit à deux traités. ||| 두 탁자에서 하는 협상을 본 적이 있어서요. 결국 조약이 둘이 됩니다.
+LE GALL: Montez, je vous suis, les voitures se rangent mal quand le vent s'en mêle. ||| 올라가세요, 바람이 끼면 차 대기가 나빠서 뒤따를게요.
+LÉA: Papa, j'ai vu la météo de ton archipel sur mon téléphone. Un gros tourbillon rouge. ||| 아빠, 휴대폰으로 아빠 군도 날씨를 봤어요. 큼직한 빨간 소용돌이예요.
+LÉA: J'ai un sujet pour ma dissertation : « Peut-on se comprendre sans se voir ? » Diderot, Lettre sur les aveugles. ||| 논술 주제가 있어요. "서로 보지 않고도 이해할 수 있는가?" 디드로의 『맹인에 관한 편지』요.
+JULIEN: Diderot a fini à Vincennes pour cette lettre, en 1749. Quelques mois. ||| 디드로는 그 편지 때문에 1749년에 뱅센 감옥에 몇 달 갇혔지.
+LÉA: Je sais. Mais il y a un mathématicien aveugle, Saunderson, qui voit mieux qu'un voyant quand il s'agit de géométrie. ||| 알아요. 근데 맹인 수학자 손더슨이 나오잖아요. 기하학에서는 눈 뜬 사람보다 잘 본다고.
+LÉA: Je dirai que c'est une question de définition : voir un visage, est-ce comprendre ? Appelle-moi si ça arrive. ||| 개념 정의의 문제라고 할 거예요. 얼굴을 보는 게 이해하는 걸까? 그런 일이 생기면 전화 줘요.
+HÉLÈNE: Jour 19. Dans le noir, on entend ce que la lumière interdit. Ne répétez pas ce que vous n'avez pas entendu vous-même. ||| 19일째. 어둠에서는 빛이 금하는 것이 들립니다. 직접 듣지 않은 건 되풀이하지 마세요.
++ une dépression tropicale = 열대 저기압. 군도를 덮친 폭풍을 가리키는 기상 용어
++ en rafales = 돌풍으로. 90 nœuds(노트)는 시속 약 167km
++ le capitaine de port = 항만 감독관. 항구의 입출항과 안전을 관리하는 공직
++ Un groupe électrogène = 발전기. 정전 때 비상 전원이 되는 장치로 이 장면의 복선
++ À deux tables, on finit à deux traités. = 탁자가 둘이면 조약도 둘. 협상 장소의 구조가 결과를 만든다는 경험칙
++ Peut-on se comprendre sans se voir ? = 레아의 논술 주제. 디드로의 『맹인에 관한 편지』(1749)를 인용
++ s'en mêler = (바람이) 끼어들다. Quand le vent s'en mêle처럼 일상적으로 쓰는 표현
++ ne répétez pas ce que vous n'avez pas entendu vous-même = 직접 듣지 않은 것은 되풀이하지 말 것. 엘렌의 정보 윤리
+
+## 개막 의정서 — LE PROTOCOLE D'OUVERTURE
+OKANLA: Monsieur Delorme, soyez le bienvenu dans le seul bâtiment du port qui n'a pas encore perdu un toit. ||| 들로름 씨, 지붕이 아직 하나도 안 날아간 항구의 유일한 건물에 오신 걸 환영합니다.
+JULIEN: Madame l'ambassadrice. Monsieur Tavares. Monsieur Reeve. Camille, ma collaboratrice. ||| 대사님, 타바르스 씨, 리브 씨. 제 동료 카미유입니다.
+REEVE: Good evening. I mean, bonsoir. Je vous ai préparé un projet de protocole d'ouverture. Dix articles. ||| 굿 이브닝. 아니, 본수아르. 개막 의정서 초안을 준비했습니다. 열 개 조항입니다.
+JULIEN: Dix articles préparés par la partie malavienne ? ||| 말라비 쪽이 준비한 열 개 조항이요?
+OKANLA: Par notre conseiller. Nous les avons lus, nous n'avons pas encore décidé de les faire nôtres. ||| 우리 자문이 준비했습니다. 읽어 봤지만 아직 우리 것으로 삼을지는 정하지 않았어요.
+JULIEN: C'est une distinction que j'apprécie. Je peux lire ? ||| 높이 사는 구분입니다. 읽어 봐도 될까요?
+REEVE: Bien sûr. Les articles un à trois portent sur la composition : trois membres par partie, un secrétariat neutre sous l'égide de l'ONU, présidence tournante. ||| 물론이죠. 1~3조는 구성입니다. 당사자별 3명, 유엔 주관 중립 사무국, 순환 의장.
+JULIEN: C'est conforme à ce que Mme Lindqvist a proposé à Genève. ||| 제네바에서 린드크비스트 교수가 제안한 것과 일치하는군요.
+TAVARES: Nous avons même repris ses mots. « Égalité, rotation, neutralité du greffe. » ||| 교수님의 표현을 그대로 썼습니다. "평등, 순환, 사무국의 중립."
+REEVE: C'est le gel. « Pendant les travaux de la commission, les autorisations de prospection déjà délivrées sont suspendues, sous réserve des droits acquis. » ||| 동결입니다. "위원회 작업 기간 중 이미 발급된 탐사 허가는 정지된다. 다만 기득권은 유보한다."
+JULIEN: « Suspendues, sous réserve des droits acquis. » Quels droits acquis ? ||| "정지된다, 기득권은 유보한다." 어떤 기득권요?
+REEVE: Ceux qui résultent de contrats antérieurs à la date de la présente commission. ||| 이 위원회 발족일 이전의 계약에서 나온 권리요.
+JULIEN: Autrement dit, un contrat signé la veille du gel reste en vigueur. ||| 다시 말해 동결 전날 서명한 계약은 유효하다는 뜻이군요.
+REEVE: Pas exactement. Juridiquement, c'est plus nuancé. ||| 정확히 그렇진 않습니다. 법적으로는 좀 더 미묘하죠.
+JULIEN: Je ne dis pas que c'est faux, monsieur Reeve. Je dis que « sous réserve » est une porte, et que je veux savoir qui a la clé. ||| 틀렸다는 게 아닙니다, 리브 씨. "유보"는 문인데 열쇠를 누가 갖고 있는지 알고 싶습니다.
+OKANLA: Une porte. Mon directeur de cabinet m'a dit la même chose ce matin, avec d'autres mots. ||| 문이라. 오늘 아침 제 비서실장도 다른 말로 같은 얘길 했어요.
+JULIEN: L'article 83, paragraphe 3 de la Convention de 1982 impose aux deux parties de ne rien faire qui compromette ou entrave la conclusion de l'accord final. Un permis nouveau, signé demain, pour un navire qui sort demain, serait exactement une entrave. ||| 1982년 협약 83조 3항은 양측에 최종 합의의 성립을 해치거나 방해하는 행위를 하지 말라고 요구합니다. 내일 서명되고 내일 출항하는 새 허가는 정확히 그런 방해가 되고요.
+REEVE: On pourrait soutenir que c'est une exécution de droits antérieurs. ||| 기존 권리의 이행이라고 주장할 수도 있습니다.
+JULIEN: On pourrait soutenir beaucoup de choses. Je préfère un texte qui n'oblige pas les juristes à soutenir. ||| 많은 걸 주장할 수 있죠. 저는 법률가가 주장하지 않아도 되는 텍스트를 선호합니다.
+TAVARES: Madame l'ambassadrice, je crois que la formulation de M. Delorme est plus simple : « aucune autorisation n'est délivrée, renouvelée ou exécutée » pendant les travaux. Point. ||| 대사님, 들로름 씨의 표현이 더 간단한 것 같습니다. "위원회 작업 기간에는 어떤 허가도 발급·갱신·이행되지 않는다." 끝.
+REEVE: Samuel, nous avions convenu de garder « sous réserve ». ||| 사뮈엘, "유보"는 두기로 했잖아요.
+TAVARES: Nous avions convenu de le discuter. C'est ce que nous faisons. ||| 논의하기로 했죠. 지금 하고 있고요.
+OKANLA: Monsieur Reeve, laissons un instant le texte à la parole. Monsieur Delorme, que proposez-vous pour l'escorte ? ||| 리브 씨, 잠시 텍스트를 말에 맡기죠. 들로름 씨, 호송에 대해서는 어떻게 제안하십니까?
+JULIEN: Aucun bâtiment de guerre n'accompagne un navire de prospection dans la zone du banc du Cerne pendant la durée des travaux. Nulle part. Ni vos bâtiments, ni les nôtres. ||| 위원회 작업 기간에는 세른 퇴 구역에서 군함이 탐사선을 호송하지 않습니다. 어디서도요. 귀국 함정도 우리 함정도.
+OKANLA: Les vôtres n'y vont pas non plus. ||| 귀국 함정도 안 간다는 거군요.
+JULIEN: Les nôtres n'y vont pas. Je le dis avant qu'on me le demande. ||| 우리도 안 갑니다. 물으시기 전에 말씀드립니다.
+OKANLA: Voilà une phrase que je peux écrire telle quelle. ||| 그대로 적을 수 있는 문장이네요.
+LE GALL: Messieurs-dames, le groupe électrogène tient bon. Mais je vous préviens, si les lumières s'éteignent, ne bougez pas : l'escalier n'a pas de rampe. ||| 여러분, 발전기는 잘 버팁니다. 하지만 불이 꺼지면 움직이지 마세요. 계단에 난간이 없어요.
+JULIEN: Article cinq : la langue de travail. ||| 5조. 업무 언어.
+REEVE: L'anglais, en cas de divergence. ||| 이견이 있으면 영어입니다.
+JULIEN: Madame, j'ai vu cette année ce que produit une clause « en cas de divergence, l'anglais prévaut ». Je ne la signerai plus. Pour ce texte, le français et le portugais feront foi tous deux. ||| 대사님, 올해 "불일치 시 영어 우선"이라는 조항이 무엇을 낳는지 직접 봤습니다. 다시는 서명하지 않겠습니다. 이 문서는 프랑스어와 포르투갈어가 모두 정본이어야 합니다.
+OKANLA: Les deux langues de vos deux histoires. J'accepte, sous réserve de l'avis de Kandara. ||| 두 역사의 두 언어로군요. 칸다라의 의견을 조건으로 수락합니다.
+REEVE: Madame l'ambassadrice, c'est un risque. Les juristes de Londres... ||| 대사님, 위험합니다. 런던 법률가들은…
+LE GALL: Messieurs-dames, la lumière a faibli. ||| 여러분, 불이 약해졌습니다.
++ un protocole d'ouverture = 개막 의정서. 위원회 첫 회의 전에 구성·절차·동결 같은 기본 규칙을 정하는 문서
++ sous réserve des droits acquis = 기득권을 유보하고. 법적 문 하나를 열어 두는 표준 문구
++ délivrer / renouveler / exécuter une autorisation = 허가를 발급·갱신·이행하다. 동결 문안을 '정지' 대신 쓴 이유는 이행까지 막기 위함
++ entraver = 방해하다. 협약 83조 3항의 핵심 동사로, 법적 동결 근거
++ une porte et la clé = 문과 열쇠. 모호한 문구가 누구에게 열리는지를 따지는 비유
++ faire foi = 정본으로서 효력을 갖다. Le français et le portugais font foi.
++ en cas de divergence = 불일치가 있는 경우. 언어 조항의 전형적인 문구
++ sous réserve de l'avis de + 명사 = ~의 의견을 조건으로. 대사가 본국 승인을 유보하는 표현
+
+## 정전 — LA COUPURE
+LE GALL: Ne bougez pas. ||| 움직이지 마세요.
+OKANLA: Capitaine, vous avez des bougies ? ||| 감독관님, 초 있으십니까?
+LE GALL: Dans le tiroir de gauche. Des bougies de balisage. Elles sentent la cire d'église. Je vous les apporte. ||| 왼쪽 서랍에요. 표지용 초입니다. 성당 밀랍 냄새가 나죠. 가져다 드리죠.
+TAVARES: Il y a un téléphone qui éclaire. ||| 휴대폰 불빛이 있는데요.
+JULIEN: Je préfère qu'on ne s'éclaire pas avec nos téléphones. Un écran allumé est une caméra qu'on ne voit pas. ||| 휴대폰 불빛은 안 쓰는 게 좋겠습니다. 켜진 화면은 보이지 않는 카메라니까요.
+OKANLA: Vous avez raison. Éteignons-les. Posons-les sur la table, face contre le bois. ||| 맞아요. 모두 끕시다. 탁자 위에 화면을 아래로 해서 놓죠.
+LE GALL: Voici les bougies. J'en pose une de chaque côté de la table. Une pour vous, une pour vous. ||| 초 나갑니다. 탁자 양쪽에 하나씩 놓겠습니다. 한 쪽씩.
+OKANLA: Une seule bougie de chaque côté. On ne voit que les mains. ||| 양쪽에 초 하나씩. 손밖에 안 보이네요.
+JULIEN: Et la voix. Madame l'ambassadrice, je sais que nous avons le choix : suspendre la séance jusqu'au retour du courant, ou continuer. ||| 그리고 목소리죠. 대사님, 우리에겐 전기가 돌아올 때까지 중단하거나 계속하는 선택이 있습니다.
+OKANLA: Si nous suspendons, il est possible que la pluie nous donne dix heures. Dans dix heures, il y aura les journalistes, les ministres, la population dans la salle. Je préfère continuer maintenant. ||| 중단하면 비 때문에 열 시간이 날아갈 수도 있어요. 열 시간 뒤엔 기자, 장관, 시민이 방에 들어옵니다. 지금 계속하는 게 좋겠어요.
+JULIEN: Je suis d'accord, mais pas pour n'importe quelle règle. Dans le noir, on n'a ni rang ni visage. Il faut que chacun dise qui il est avant de parler. ||| 동의합니다. 다만 아무 규칙이나 안 됩니다. 어둠에서는 직위도 얼굴도 없어요. 말하기 전에 누구인지 밝혀야 합니다.
+OKANLA: « Ici la France. Ici la République de Malavi. » Comme à la radio du port. ||| "여기는 프랑스. 여기는 말라비 공화국." 항구 무선처럼요.
+JULIEN: Précisément. Comme la VHF du capitaine. ||| 정확히 그렇습니다. 감독관님 초단파 무선처럼요.
+LE GALL: Je ne connais rien de mieux. Parlez lentement, répétez les chiffres, et ne dites jamais « ça » sans dire quoi. ||| 이보다 좋은 건 모릅니다. 천천히 말하고, 숫자는 되풀이하고, 뭔지 말하지 않고 "그거"라고 하지 마세요.
+JULIEN: Madame, j'aimerais dire quelque chose. En 1659, sur l'île des Faisans, dans la Bidassoa, le cardinal Mazarin et don Luis de Haro ont négocié ce qui est devenu le traité des Pyrénées. Ils ont tenu vingt-quatre conférences, entre août et le 7 novembre. ||| 대사님, 한 말씀 드리고 싶습니다. 1659년 비다소아 강 위 꿩의 섬에서 마자랭 추기경과 돈 루이스 데 아로가 훗날 피레네 조약이 된 것을 협상했습니다. 8월부터 11월 7일까지 스물네 번의 회의를 했어요.
+OKANLA: Je connais cette histoire, mais racontez-la-moi telle que vous la voyez. ||| 아는 이야기지만 쥘리앵 씨가 보는 대로 들려주세요.
+JULIEN: On raconte que la salle a été arrangée pour que la ligne de la frontière passe au milieu, que chaque camp ait sa porte, que les sièges soient symétriques. On a négocié la salle avant de négocier le traité. ||| 국경선이 가운데를 지나도록 방을 꾸미고, 각 진영이 자기 문을 갖고, 의자가 대칭이 되게 했다고 전해집니다. 조약을 협상하기 전에 방부터 협상한 겁니다.
+JULIEN: Louis XIV n'y vient qu'en juin 1660, pour la rencontre avec Philippe IV et le mariage avec Marie-Thérèse. Les ministres avaient travaillé quatre mois avant que les rois ne se voient. Et l'île est encore administrée aujourd'hui par la France et l'Espagne, six mois chacune. ||| 루이 14세는 1660년 6월에야 가서 펠리페 4세를 만나고 마리 테레즈와 혼인합니다. 왕들이 만나기 전 대신들이 넉 달 일했죠. 그리고 그 섬은 오늘날에도 프랑스와 스페인이 여섯 달씩 번갈아 관리합니다.
+OKANLA: Une île qui appartient aux deux, à tour de rôle. Je comprends pourquoi vous me la citez ce soir. ||| 두 나라에 번갈아 속한 섬이라. 왜 오늘 밤 그 얘기를 하시는지 알겠네요.
+JULIEN: Je ne cite pas une île, je cite une méthode : on commence par la forme, parce qu'une forme équitable rend les mots équitables. ||| 섬을 인용하는 게 아닙니다. 방법을 인용하는 겁니다. 형식부터 시작하세요. 공정한 형식이 말을 공정하게 만듭니다.
+CAMILLE: Alors, une chaise pour chacun, des bougies de chaque côté, et un tableau noir ? ||| 그럼 의자 하나씩, 양쪽에 초, 그리고 칠판?
+LE GALL: J'ai une craie. Dans la poche de mon ciré. ||| 분필 있어요. 방수복 주머니에.
+OKANLA: Alors une ligne de craie au milieu de la table. Elle ne coupe rien, elle rappelle seulement que nous sommes deux. ||| 그럼 탁자 한가운데 분필 선 하나. 뭘 자르는 게 아니라 둘이라는 걸 상기시킬 뿐이죠.
+JULIEN: Et chacun parle depuis son côté de la ligne. ||| 그리고 각자 자기 쪽에서 말하는 겁니다.
+OKANLA: C'est entendu. Ici la République de Malavi. Je propose de lire à haute voix les articles un à trois, puisqu'ils sont déjà d'accord. ||| 알겠습니다. 여기는 말라비 공화국. 이미 합의한 1~3조를 소리 내어 읽자고 제안합니다.
+JULIEN: Ici la France. J'accepte. ||| 여기는 프랑스. 수락합니다.
++ une coupure de courant = 정전. 사고로 전기가 끊겼을 때 쓰는 일반적 표현
++ des bougies de balisage = 표지용 초. 항구의 야간 표시 용도의 비상 광원
++ à tour de rôle = 번갈아, 순번대로. 꿩의 섬 공동 관리를 설명하는 핵심 표현
++ négocier la salle avant le traité = 조약 전에 방부터 협상하다. 의전과 공간 배치가 협상의 첫 조항이라는 뜻
++ la ligne de craie = 분필 선. 둘이 있음을 상기시키는 상징적 경계로 시리즈에서 '공동 관리'의 복선
++ une forme équitable rend les mots équitables = 공정한 형식이 말을 공정하게 만든다. 이 화의 핵심 원칙
++ Ici la France / Ici la République de Malavi = 여기는 ~. 무선 교신식 자기 소개로 어둠 속 화자 식별 규칙
++ à haute voix = 소리 내어. 정전 속에서 문안을 낭독해 확인하는 방식

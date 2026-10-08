@@ -1,0 +1,96 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 12
+@title Le prix de l'archipel
+@ko 군도의 값
+@setting 케도르세 장관 비서실장 집무실(목요일 아침) → 국회 외교위원회 청문실 → 라탱 구역의 식당(마지막 점심) → 쥘리앵의 사무실(저녁) → 늦은 밤 전화
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세. 오늘 증언하고 비공식 자문직에서 물러남
+@cast MARCHAL | 오데트 마르샬, 국회 외교위원회 위원장, 60세. 허구의 인물
+@cast HERVÉ | 조제 에르베, 생토뱅 군도 선출 국회의원, 55세. 허구의 인물
+@cast LENOIR | 파브리스 르누아르, 외교위원회 소속 의원, 54세. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 저녁에 직접 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 2부 12화(2부 완결)입니다. 포르오뱅에서 공동 개발 합의, 즉 «포르오뱅 협정»이 서명되고 2주가 지난 목요일(엘렌의 «34일째»)입니다. 쥘리앵은 감찰단(IGAE)으로부터 «경고»를 받는 데서 그치고(1부에서 밝힌 비공식 수단을 둘러싼 처분), 오전에는 국회 외교위원회에서 발쿠르가 공개 증언을 합니다. 발쿠르가 치르는 값은 세 가지입니다: 37년간 침묵한 가족 비밀을 공개 석상에서 말하는 것, 비공식 자문직에서 물러나는 것, 아버지의 유품과 자기 서류를 문서고에 모두 기증하는 것. 그리고 검찰의 «법 환기(rappel à la loi)» 조치를 받아들입니다(공문서 보관이 쟁점). 그의 한마디가 이 화의 해법의 순간입니다: «기억은 책임이다.» 의무(devoir)는 이행하면 끝나지만 책임(responsabilité)은 계속 값을 치른다는 뜻입니다. 프랑스 해외 정책의 전환점으로는 1946년 해외 도 승격(과들루프·마르티니크·기아나·레위니옹), 1958년 헌법 53조 3항(영토의 양도·교환·병합은 «관련 주민의 동의» 없이는 유효하지 않다), 2003년 헌법 개정(해외 공동체 규정 신설)과 해외 영토가 확보한 해양 배타적 경제수역(약 1,000만 제곱킬로미터대, 세계 2위로 알려져 있음)을 다룹니다. 이 화의 끝에서 엘렌이 «예»를 꺼내 들고 발루아 어드바이저리의 실체, 즉 등기 사슬을 보여 줍니다. 발루아는 자문 사무소가 아니라 '빨리 쓰는' 문서 협업 플랫폼 회사의 얼굴이며, 그 플랫폼이 곧 열리는 베르사유 정상회의의 문안 작성에 쓰입니다. 어휘는 une audition, un rappel à la loi, une instruction, 접속법(avant que, afin que, bien que)과 répondre de / répondre à에 주목하세요.
+@next 3부 «Le Sommet de Versailles» (베르사유 정상회의): 정상회의 개막 36시간 전, 합의문 초안의 «부록 7»(데이터·AI 협력)이 사라진다.
+
+## 포르오뱅 협정 이후 — APRÈS L'ACCORD
+ARCHAMBAULT: Asseyez-vous, Julien. Camille, vous aussi. Je commence par ce qui vous concerne. ||| 앉으세요, 쥘리앵. 카미유도요. 두 분과 직접 관련된 것부터 시작하죠.
+JULIEN: La Mission d'inspection ? ||| 감찰단 건입니까?
+ARCHAMBAULT: Le rapport est arrivé hier soir. Quatre-vingts pages, une conclusion de huit lignes. Je lis : « Les moyens non officiels ont été limités, déclarés, et utilisés de façon proportionnée. Cependant, M. Delorme a accepté une information dont l'origine n'était pas régulière. » ||| 어제 저녁 보고서가 왔어요. 여든 쪽에 결론은 여덟 줄입니다. 읽죠. "비공식 수단은 제한되고 신고되었으며 비례적으로 사용되었다. 다만 들로름 씨는 출처가 정규적이지 않은 정보를 받아들였다."
+JULIEN: Et la sanction ? ||| 처분은요?
+ARCHAMBAULT: Un avertissement. Au dossier, pendant deux ans. Le ministre a voulu y ajouter un mot : « Le service rendu ne dispense pas du doute. » ||| 경고입니다. 이 년간 기록에 남습니다. 장관께서 한마디를 덧붙이고 싶어 하셨어요. "공헌이 의심의 의무를 면제하지 않는다."
+JULIEN: C'est juste. Je l'accepte sans réserve. ||| 옳은 말씀입니다. 유보 없이 받아들입니다.
+CAMILLE: Sans réserve ? ||| 유보 없이요?
+JULIEN: Il y a des moments où la seule vraie réserve est de ne pas en faire. ||| 유보를 하지 않는 게 유일하게 진짜 유보인 순간도 있어.
+ARCHAMBAULT: Voilà qui est dit. Deuxième point : l'accord de Port-Aubin a été signé mardi à seize heures. Camille, résumez. ||| 말씀 잘하셨어요. 둘째, 포르오뱅 협정이 화요일 열여섯 시에 서명됐습니다. 카미유, 요약해 주세요.
+CAMILLE: Quatre pages, huit articles. Le Conseil de développement conjoint de Saint-Aubin : trois membres par partie, deux sièges consultatifs, un greffe neutre. Désignation des exploitants uniquement ensemble. Gel des autorisations jusqu'à la première décision du Conseil. ||| 네 쪽, 여덟 개 조항. 생토뱅 공동 개발 협의회: 당사자별 3명, 자문석 2개, 중립 서기국. 운영자 지정은 오직 함께. 협의회 첫 결정 때까지 허가 동결.
+ARCHAMBAULT: Et la souveraineté ? ||| 주권은요?
+CAMILLE: Article premier : « Rien dans le présent accord ne préjuge des positions respectives des parties sur la souveraineté. » Cinq ans plus tard, clause de rendez-vous. ||| 제1조. "본 협정의 어떤 것도 주권에 대한 당사자 각자의 입장을 선입견으로 규정하지 않는다." 오 년 뒤 재회 조항이 있습니다.
+ARCHAMBAULT: Et la pêche ? ||| 어업은요?
+CAMILLE: Hors mandat. L'article sept le dit en une ligne. M. Rivière l'a fait imprimer sur le fond de sa casquette. ||| 권한 밖입니다. 7조가 한 줄로 말하죠. 리비에르 씨가 모자 안쪽에 인쇄해 넣었어요.
+ARCHAMBAULT: Les trois navires ? ||| 어선 세 척은요?
+CAMILLE: Rentrés, remis en état, avec une indemnisation de l'assurance. Le Cerne Offshore a retiré sa demande de permis. Son navire de prospection est reparti vers Port-Louis, vide. ||| 돌아왔고 수리됐으며 보험 보상도 받았습니다. 세른 오프쇼어는 허가 신청을 철회했고 탐사선은 빈 채로 포르루이스로 돌아갔어요.
+ARCHAMBAULT: Bien. Troisième point : l'audition de M. de Valcourt, dans une heure. Il a demandé qu'elle soit publique. ||| 좋습니다. 셋째, 한 시간 뒤 발쿠르 대사의 청문입니다. 공개로 해 달라고 요청하셨어요.
+JULIEN: Je le sais. Il me l'a dit au téléphone. Il a dit : « Une honte dite à huis clos est une honte à moitié payée. » ||| 알고 있습니다. 통화로 말씀하셨어요. "비공개로 말한 수치는 반만 치른 수치다."
+ARCHAMBAULT: Il se trompe sur la honte. Il a raison sur le prix. Le parquet a classé hier : un rappel à la loi, pas de poursuites, parce qu'il a déposé l'original de lui-même et qu'il a restitué le reste. ||| 수치에 대해선 틀렸지만 값에 대해선 맞아요. 검찰은 어제 종결했습니다. 법 환기 조치로, 기소 없음입니다. 스스로 원본을 기탁하고 나머지를 반환했으니까요.
+JULIEN: Un rappel à la loi. C'est une semonce, pas une peine. ||| 법 환기라. 형벌이 아니라 훈계군요.
+ARCHAMBAULT: C'est une peine pour qui l'a toujours évitée. Une dernière chose. Le ministre a signé ce matin une instruction. Lisez-la, Camille. ||| 평생 그걸 피해 온 사람에겐 형벌이죠. 마지막으로, 장관이 오늘 아침 훈령에 서명했습니다. 카미유, 읽어 주세요.
+CAMILLE: « Toute négociation affectant l'espace maritime d'un territoire ultramarin donne lieu, avant sa conclusion, à la consultation de la collectivité concernée. Les documents relatifs aux territoires d'outre-mer sont versés aux archives dans un délai de cinq ans, et ouverts aux élus de ces territoires. » ||| "해외 영토의 해양 공간에 영향을 주는 모든 협상은 타결 전에 해당 공동체의 의견을 듣는다. 해외 영토 관련 문서는 오 년 안에 문서고에 이관되고 해당 영토의 선출직에게 공개된다."
+JULIEN: C'est la phrase de Mme Vantour, mot pour mot. « Parler de nous avec nous. » ||| 방투르 시장의 문장 그대로네요. "우리 얘기를 우리와 함께."
+ARCHAMBAULT: C'est la phrase de tout un archipel. Elle a mis du temps à arriver au Quai. ||| 군도 전체의 문장입니다. 케도르세에 오는 데 시간이 걸렸죠.
+JULIEN: Pourquoi me le dire avant l'audition ? ||| 왜 청문 전에 말씀하십니까?
+ARCHAMBAULT: Parce que M. de Valcourt va dire une chose que je veux qu'on entende dans le bon contexte. Elle n'est pas contre l'État. Elle est pour la mémoire de l'État. ||| 발쿠르 대사가 하실 말을 올바른 맥락에서 듣게 하고 싶어서요. 그 말은 국가를 거스르지 않습니다. 국가의 기억을 위한 말이에요.
++ un avertissement (au dossier) = 경고(인사 기록에 남음). 공무원 징계 중 가장 가벼운 단계에 가까운 처분
++ proportionné = 비례적인. 감찰단이 비공식 수단의 사용을 평가한 핵심 기준
++ Le service rendu ne dispense pas du doute. = 공헌이 의심의 의무를 면제하지 않는다. 결과가 좋아도 방법을 의심해야 한다는 윤리
++ un rappel à la loi = 법 환기(검찰이 기소 대신 취하는 경고 조치). 처벌이 아니지만 기록과 낙인이 남음
++ classer (une affaire) = 사건을 종결하다. 검찰이 수사를 접을 때 쓰는 동사
++ une instruction (ministérielle) = (장관) 훈령. 기관 내부에서 행동 기준을 정하는 문서
++ verser aux archives = 문서고에 이관하다. 공문서 관리에서 쓰는 전문 표현
++ une honte dite à huis clos est une honte à moitié payée = 비공개로 말한 수치는 반만 치른 수치. 발쿠르가 공개 청문을 요청한 이유
+
+## 국회 청문 — L'AUDITION
+MARCHAL: Mesdames et messieurs les députés, je déclare ouverte l'audition publique de M. Henri de Valcourt, ambassadeur de France honoraire, sur les circonstances de la conservation du document dit « de 1962 ». ||| 의원 여러분, 명예 대사 앙리 드 발쿠르 씨에 대한 "1962년 문서" 보관 경위 공개 청문을 개회합니다.
+VALCOURT: Madame la présidente, je vous remercie de m'avoir autorisé à parler en public. ||| 의장님, 공개로 말하게 해 주셔서 감사합니다.
+MARCHAL: Je vous rappelle que votre audition n'est pas sous serment, mais que la parole d'un ancien ambassadeur est une parole engagée. ||| 선서하는 청문은 아니지만 전직 대사의 말은 약속된 말임을 상기시킵니다.
+VALCOURT: Je le sais, madame. Je veux dire trois choses. Un : le papier existe, il est authentique, il est déposé. Deux : je l'ai gardé trente-sept ans, par peur, par amour, par orgueil, dans cet ordre. Trois : je n'étais pas seul à ne pas avoir voulu qu'on le lise. ||| 압니다, 의장님. 세 가지를 말하겠습니다. 하나, 서류는 존재하고 진본이며 기탁되었습니다. 둘, 저는 이를 삼십칠 년간 두려움, 사랑, 오만 때문에 간직했습니다. 그 순서로요. 셋, 읽히지 않기를 바란 사람은 저 혼자가 아니었습니다.
+MARCHAL: Qui d'autre ? ||| 또 누가요?
+VALCOURT: Tout le monde qui avait intérêt à ne pas poser la question. L'administration, parce que cela créait un devoir. Le gouvernement de l'époque, parce que cela limitait une liberté. Et moi, parce que cela me rendait comptable de la mémoire d'un père. ||| 질문하지 않는 게 이익인 모두입니다. 행정부는 의무가 생기니까, 당시 정부는 자유가 제한되니까, 저는 아버지의 기억을 책임져야 하니까요.
+HERVÉ: Monsieur l'ambassadeur, José Hervé, député de Saint-Aubin. Je suis né à Port-Aubin. Mes parents ont pêché au large du Cerne. Pendant soixante ans, on a parlé de nous sans nous. Vous le saviez ? ||| 대사님, 생토뱅 선출 의원 조제 에르베입니다. 저는 포르오뱅에서 태어났고 부모님은 세른 앞바다에서 고기를 잡으셨습니다. 육십 년간 우리 이야기를 우리 없이 해 왔습니다. 알고 계셨습니까?
+VALCOURT: Je savais qu'on parlait de vous. Je ne savais pas que vous n'étiez pas là. Je le sais maintenant, grâce à votre maire. ||| 여러분 얘기를 한다는 것은 알았습니다. 여러분이 그 자리에 없다는 것은 몰랐습니다. 이제 시장님 덕분에 압니다.
+HERVÉ: C'est une réponse qui ressemble à une excuse. ||| 사과처럼 들리는 대답이군요.
+VALCOURT: Non, monsieur. Une excuse dit : « je ne savais pas ». Moi, je dis : « je savais la moitié, et j'ai laissé l'autre moitié se perdre ». Ce n'est pas la même chose. ||| 아닙니다, 의원님. 변명은 "몰랐다"고 하지요. 저는 "절반은 알았고 나머지 절반이 사라지게 놔뒀다"고 말합니다. 같은 게 아닙니다.
+HERVÉ: Que demandez-vous à cette commission ? ||| 위원회에 무엇을 요청하십니까?
+VALCOURT: Rien pour moi. Je demande une chose pour les archipels : que l'on conserve ce qui les concerne là où ils peuvent le lire. ||| 저를 위한 건 없습니다. 군도들을 위해 하나만 요청합니다. 그들에 관한 기록을 그들이 읽을 수 있는 곳에 보존해 달라는 것입니다.
+LENOIR: Mme la présidente, Fabrice Lenoir. Monsieur l'ambassadeur, vous avez soustrait une pièce publique aux archives d'État. N'est-ce pas un délit ? ||| 의장님, 파브리스 르누아르입니다. 대사님, 국가 문서고에서 공문서를 빼 가셨습니다. 범죄 아닙니까?
+VALCOURT: C'est ce que le parquet a examiné. Il a classé avec un rappel à la loi, parce que j'ai déposé de moi-même. Mais le parquet n'a pas à dire si c'était bien. Moi, je dis que ce n'était pas bien. Il fallait une procédure que j'ai remplacée par un geste. ||| 검찰이 검토한 바로 그것입니다. 제가 스스로 기탁했기에 법 환기로 종결했습니다. 하지만 잘한 일인지 말하는 건 검찰의 몫이 아닙니다. 저는 잘하지 못했다고 말합니다. 절차가 필요했는데 제가 몸짓으로 대신했습니다.
+LENOIR: Et pourquoi parlez-vous aujourd'hui ? ||| 그런데 왜 지금 말씀하십니까?
+VALCOURT: Parce qu'un journal a commencé à lire pour moi, avec une erreur. Un homme qui laisse les erreurs parler pour lui n'est plus un témoin, il est un décor. ||| 신문이 제 대신 읽기 시작했고 오류도 있었으니까요. 오류가 자기를 대신해 말하게 두는 사람은 증인이 아니라 장식입니다.
+MARCHAL: Je voudrais revenir à la question de l'État. L'État a-t-il failli ? ||| 국가의 문제로 돌아가고 싶습니다. 국가가 잘못했습니까?
+VALCOURT: L'État a failli par oubli, comme la plupart des États. Il a oublié que les territoires d'outre-mer ne sont pas des marges de carte, mais des habitants avec une mer. ||| 대부분의 국가처럼 건망증으로 잘못했습니다. 해외 영토가 지도의 여백이 아니라 바다를 가진 주민들이라는 걸 잊었어요.
+HERVÉ: Pouvez-vous situer cela dans l'histoire ? ||| 역사 속에 위치시켜 주실 수 있습니까?
+VALCOURT: Je peux essayer. En 1946, la Guadeloupe, la Martinique, la Guyane et La Réunion deviennent des départements. En 1958, la Constitution dit, à l'article cinquante-trois, qu'aucune cession ou adjonction de territoire n'est valable sans le consentement des populations intéressées. En 2003, une révision constitutionnelle reconnaît les collectivités d'outre-mer comme une catégorie propre. À chaque fois, on avance d'un cran vers cette idée : un territoire n'est pas seulement à nous, il est avec nous. ||| 해 보겠습니다. 1946년 과들루프, 마르티니크, 기아나, 레위니옹이 도가 됩니다. 1958년 헌법 53조는 어떤 영토의 양도나 병합도 관련 주민의 동의 없이는 유효하지 않다고 말하죠. 2003년 헌법 개정은 해외 공동체를 독자적 범주로 인정합니다. 매번 한 걸음씩 나아갑니다. 영토는 우리 것이기만 한 게 아니라 우리와 함께라는 생각 쪽으로요.
+HERVÉ: Et la mer ? ||| 바다는요?
+VALCOURT: La mer est ce qui fait de la France la deuxième puissance maritime pour l'étendue de ses eaux, avec des millions de gens qui habitent ces territoires. On ne gère pas dix millions de kilomètres carrés avec des vœux pieux. ||| 바다가 프랑스를 수역 면적에서 세계 2위로 만듭니다. 그 영토들에 수백만 명이 삽니다. 천만 제곱킬로미터를 희망 사항만으로 관리할 수는 없습니다.
+MARCHAL: Vous citez Le Messager. ||| 『메사제』 문장을 인용하시는군요.
+VALCOURT: Je cite un homme que je ne connais pas et qui avait raison sur ce point. Il avait tort sur le reste. On peut être exact sur un mot et injuste sur l'ensemble. ||| 제가 모르는 사람의 말인데 그 점에선 옳았습니다. 나머지는 틀렸고요. 한 단어는 정확하고 전체는 부당할 수 있습니다.
+LENOIR: Quelle conclusion tirez-vous de cette affaire, monsieur ? ||| 이 사건에서 어떤 결론을 내리십니까?
+VALCOURT: Que la mémoire est une responsabilité, monsieur le député. Pas un devoir. Un devoir, on l'exécute et on est quitte. Une responsabilité, on en répond, et on continue d'en répondre. ||| 기억은 책임이라는 것입니다, 의원님. 의무가 아니라. 의무는 이행하면 끝나지만 책임은 계속 대답해야 합니다.
+MARCHAL: Et si vous aviez à choisir entre le devoir et la responsabilité ? ||| 의무와 책임 중에 고른다면요?
+VALCOURT: Je choisirais la seconde, qui m'oblige à regarder ceux qui viendront après moi. Mon père a dit : « Elle vaudra le papier, et davantage. » J'ai compris trop tard que ce « davantage » s'appelle « ceux qui lisent ». ||| 뒤에 올 사람들을 보게 만드는 두 번째를 택하겠습니다. 아버지는 "종이만큼, 그 이상으로"라고 하셨습니다. 이 "그 이상"이 "읽는 사람들"이라는 걸 너무 늦게 알았습니다.
+MARCHAL: Souhaitez-vous ajouter autre chose ? ||| 덧붙이실 말씀이 있습니까?
+VALCOURT: Oui. Je quitte aujourd'hui mon rôle de conseiller officieux du ministère. Je ne l'ai jamais demandé. Je m'en dessaisis. Mes papiers, ceux de mon père, tout ce qui relève du service, seront versés aux archives dans un mois. Je n'accepterai aucune cérémonie. ||| 네. 오늘로 비공식 자문 역할에서 물러납니다. 요청한 적도 없는 자리였습니다. 내려놓겠습니다. 제 서류와 아버지 서류, 직무와 관련된 전부를 한 달 안에 문서고로 이관하겠습니다. 어떤 기념행사도 받지 않겠습니다.
+MARCHAL: Je prends acte. L'audition est close à onze heures vingt. ||| 알겠습니다. 열한 시 이십 분에 청문을 마칩니다.
++ une audition publique = 공개 청문. 의회가 증인의 진술을 공개적으로 듣는 절차
++ soustraire une pièce publique = 공문서를 빼돌리다. 공문서는 양도할 수 없다는 원칙에 반하는 행위
++ par peur, par amour, par orgueil = 두려움·사랑·오만으로. 세 감정을 순서까지 정확히 고백한 발쿠르의 표현
++ une excuse / un aveu = 변명 / 고백. «몰랐다»가 아니라 «절반은 알았고 방치했다»는 구분
++ faillir = 소홀히 하다·잘못하다. L'État a failli처럼 책임을 인정하는 격식 있는 동사
++ la mémoire est une responsabilité, pas un devoir = 기억은 의무가 아니라 책임. 이 화의 해법의 순간
++ répondre de / répondre à = ~에 책임지다 / ~에 답하다. 1부 12화 책임 윤리의 어휘를 되살림
++ se dessaisir de = 내려놓다·넘기다. 직책이나 서류의 소유·권한을 손에서 놓는 동사

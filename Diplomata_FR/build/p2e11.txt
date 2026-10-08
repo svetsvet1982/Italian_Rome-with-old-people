@@ -1,0 +1,237 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 11
+@title La gestion commune
+@ko 공동 관리
+@setting 폭풍 다음 날 아침의 포르오뱅 부두 → 어시장 경매장에 마련된 위원회 회의장 → 발쿠르의 서한 낭독 → 에비앙을 둘러싼 논쟁 → 마지막 줄 → 정오의 어선 3척 귀항
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 프랑스 대표단 단장
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 프랑스 대표단 법률 담당. 둘이 있을 때는 tu
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세. 증인으로 출석. 쥘리앵에게 tu로 말함
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 위원회 첫 의장
+@cast TAVARES | 사뮈엘 타바르스, 말라비 대표단 법률 자문, 34세
+@cast MABUNDA | 에우제비우 마분다, 대령, 40대 후반. 말라비 합동참모본부가 보낸 대표단 위원. 허구의 인물
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 58세. 프랑스 대표단 위원
+@cast RIVIÈRE | 아르망 리비에르, 어업위원회 위원장, 64세
+@cast MATHIS | 마티스 리비에르, 어선 생트안 선장, 34세. 리비에르의 아들
+@cast VAN AALST | 피터르 판 알스트, 유엔 법무 사무국 소속 중립 서기, 50대. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 11화입니다. 폭풍이 지난 목요일 아침, 10화에서 가서명된 개막 의정서에 따라 '생토뱅 공동 개발 위원회'의 첫 회의가 열립니다. 이 화의 해법은 영유권을 건드리지 않고 공동 개발 위원회를 만드는 것입니다. 근거는 1962년 서한입니다. 문제는 서한이 법적으로 조약인가 하는 점인데, 쥘리앵은 이 논쟁을 '해결'하지 않고 '보류'합니다(sans préjudice). 서한은 시종 «d'un commun accord»라고 말했을 뿐 '공동 관리(gestion commune)'라는 단어는 직접 쓰지 않았고, 해법의 순간은 발쿠르가 읽는 마지막 줄의 한 단어입니다: «Les fonds ne seront exploités que par les deux gouvernements, ou par ceux qu'ils auront désignés ensemble.» 마지막 단어 'ensemble'(함께)은 어느 한쪽이 단독으로 지정한 운영자의 권리를 무효로 만들고, 변경도 함께 해야 함을 뜻합니다. 발쿠르가 37년 동안 읽기를 미룬 이유는 이 단어가 모두를 서로의 인질로 만들기 때문입니다. 역사 배경은 1962년 3월 18일의 에비앙 협정입니다. 알제리 독립과 프랑스의 사하라 석유·이권, 공동 기구 같은 조항이 포함되었고, 1971년 알제리가 프랑스 석유 이권의 다수를 국유화하면서 '개정 절차 없는 공동 기구'의 한계가 드러났습니다(세부는 일반화했습니다). 법률 배경은 1969년 빈 조약법 협약 7조(전권위임)이며 협약은 소급 적용되지 않으므로 원칙으로만 참고합니다. 어휘는 sans préjudice de, d'un commun accord, désigner, une clause de rendez-vous, 접속법(à moins que, pourvu que, bien que)에 주목하세요.
+@next 12화 «Le prix de l'archipel» (군도의 값): 공동 개발 합의가 서명되고, 발쿠르가 증언한 뒤 퇴임한다. 마지막 식사에서 «기억은 책임이다»가 말해지고, 엘렌이 건넨 등기 사슬로 발루아 어드바이저리의 실체가 드러난다.
+
+## 폭풍 다음 날 — LE LENDEMAIN DE LA TEMPÊTE
+VALCOURT: Tu es en avance, Julien. Moi aussi. Ça veut dire que ni l'un ni l'autre n'a dormi. ||| 일찍 왔구나, 쥘리앵. 나도 그렇다. 둘 다 못 잤다는 뜻이지.
+JULIEN: Monsieur l'ambassadeur. Le premier avion d'ici est arrivé à sept heures ? ||| 대사님. 여기 첫 비행기가 일곱 시에 도착했습니까?
+VALCOURT: Sept heures dix, entre deux palmiers couchés. J'ai pris un taxi qui n'avait plus de pare-brise. ||| 일곱 시 십 분에, 쓰러진 야자나무 두 그루 사이로 왔다. 앞유리 없는 택시를 탔지.
+JULIEN: Regardez le quai. La nuit a déplacé les bateaux comme des meubles. ||| 부두를 보세요. 밤사이 배들이 가구처럼 옮겨졌습니다.
+VALCOURT: Et la halle ? ||| 경매장은요?
+JULIEN: Elle a tenu. C'est la criée. On a lavé le sol et monté des tables. Le capitaine Le Gall a même reporté la ligne de craie. ||| 버텼습니다. 어시장 경매장이에요. 바닥을 씻고 탁자를 올렸어요. 르 갈 감독관은 분필 선까지 다시 그었고요.
+VALCOURT: Une ligne de craie. J'espère qu'elle ne s'effacera pas avant midi. ||| 분필 선이라. 정오 전에 지워지지 않으면 좋겠구나.
+JULIEN: Vous avez lu mon compte rendu d'hier soir. ||| 어젯밤 제 보고서를 읽으셨군요.
+VALCOURT: Ligne par ligne, avant même de défaire ma valise. « Ici la France. Ici le Malavi. » C'est un début de poème. ||| 가방을 풀기도 전에 한 줄씩. "여기는 프랑스. 여기는 말라비." 시의 첫머리 같더구나.
+JULIEN: Et cet Anglais qui dit « our client » ? ||| 그리고 "우리 고객"이라고 한 영국인은요?
+VALCOURT: Il a dit la vérité sans le vouloir. C'est la plus rare des vérités. ||| 의도치 않게 진실을 말했다. 가장 드문 진실이지.
+JULIEN: Vous avez pris la lettre ? ||| 서한을 가져오셨습니까?
+VALCOURT: Non. Elle est déposée à Aix, sous le numéro 214. Mme Fabre m'a donné une copie certifiée. Ce n'est pas l'original, mais ce sera suffisant pour la lecture. ||| 아니. 엑스에 214번으로 기탁했다. 파브르 부인이 인증 사본을 줬어. 원본은 아니지만 낭독에는 충분하다.
+JULIEN: Et la dernière ligne ? ||| 마지막 줄은요?
+VALCOURT: Je n'ai pas peur d'une ligne. J'ai peur de ce qu'elle déclenche. ||| 한 줄이 무서운 게 아니다. 그게 일으킬 일이 무서운 거야.
+JULIEN: Qu'est-ce qu'elle déclenche ? ||| 무엇을 일으킵니까?
+VALCOURT: Je te le dirai après l'avoir lue, pas avant. Tu m'as laissé le temps, tu me laisses encore une heure. ||| 읽고 난 뒤에 말해 주마. 시간을 줬으니 한 시간만 더 다오.
+JULIEN: Vous avez toujours le bateau ? ||| 범선은 갖고 계십니까?
+VALCOURT: Dans ma poche, à gauche. Il m'a coupé la doublure en trois nuits. ||| 왼쪽 주머니에. 사흘 밤 사이에 안감을 찢어 놨어.
+LÉA: Papa, bonne chance pour ta commission. La définition de « commission » : un groupe de gens qui sont d'accord de ne pas être d'accord devant un greffier. ||| 아빠, 위원회 잘하세요. "위원회"의 정의: 서기 앞에서 의견이 다르기로 합의한 사람들의 모임.
+JULIEN: Je te l'ai dit : tu es trop exacte. ||| 말했잖니, 너는 너무 정확하다고.
+HÉLÈNE: Jour 20. Une ligne peut peser plus que tout un dossier. Demandez à quelqu'un si elle pèse dans sa poche ou dans son cœur. ||| 20일째. 한 줄이 서류철 전체보다 무거울 수 있습니다. 그것이 주머니에서 무거운지 마음에서 무거운지 물어보세요.
+VALCOURT: Elle écrit bien, ton agent. ||| 네 요원은 글을 잘 쓰는구나.
+JULIEN: Elle écrit souvent juste. C'est plus embêtant. ||| 정확하게 쓰는 때가 많습니다. 그게 더 귀찮고요.
++ le lendemain de la tempête = 폭풍 다음 날. 장소와 분위기를 한 번에 바꾸는 장면 전환 표현
++ la criée = (어시장의) 경매장. 항구의 일상 공간이 협상장으로 바뀐 설정
++ un pare-brise = 앞유리. 폭풍의 피해를 일상 디테일로 보여 줌
++ une copie certifiée (conforme) = 인증 사본. 원본이 기탁된 뒤 낭독용으로 쓰는 문서
++ J'ai peur de ce qu'elle déclenche. = 그 줄이 일으킬 일이 두렵다. 발쿠르가 낭독을 미룬 이유의 단서
++ un greffier = 서기. 위원회에서 발언과 결정을 기록하는 중립적 직책
++ écrire juste = 정확하게 쓰다. 엘렌의 문자를 쥘리앵이 평가하는 말
++ Il m'a coupé la doublure. = 안감을 찢었다. 작은 범선이 주머니에서 어떻게 무게를 갖는지 보여 주는 농담
+
+## 경매장의 첫 회의 — LA PREMIÈRE RÉUNION À LA CRIÉE
+VAN AALST: Mesdames, messieurs, je suis Pieter Van Aalst, greffier neutre, sous l'égide du secrétariat juridique des Nations unies. La commission est ouverte à dix heures cinq. ||| 여러분, 저는 유엔 법무 사무국 소속 중립 서기 피터르 판 알스트입니다. 위원회를 열 시 오 분에 개회합니다.
+OKANLA: Ici le Malavi. En vertu de l'article trois du protocole, j'assume la première présidence. Je rappelle que la commission statue d'un commun accord. ||| 여기는 말라비. 의정서 3조에 따라 제가 첫 의장을 맡습니다. 위원회는 합의로 결정함을 상기시킵니다.
+JULIEN: Ici la France. Nous approuvons. Je rappelle l'article quatre, signé hier à vingt-deux heures quarante-sept, heure du capitaine. ||| 여기는 프랑스. 승인합니다. 어제 스물두 시 사십칠 분, 감독관 시계로 서명된 4조를 상기시킵니다.
+OKANLA: Ici le Malavi. J'ai reçu à six heures et douze minutes l'approbation de Kandara pour le protocole, y compris l'article quatre. ||| 여기는 말라비. 여섯 시 십이 분에 칸다라가 4조를 포함해 의정서를 승인했다고 통보받았습니다.
+MABUNDA: Ici le colonel Mabunda, représentant de l'état-major. Madame la présidente, je dois faire consigner mes réserves. ||| 여기는 마분다 대령, 참모본부 대표입니다. 의장님, 유보 의견을 기록해 주십시오.
+OKANLA: Elles seront consignées, colonel. Vous avez la parole. ||| 기록됩니다, 대령. 발언하세요.
+MABUNDA: Ici le Malavi. Premièrement : cette commission n'a pas de compétence sur la souveraineté. Deuxièmement : une lettre signée par un simple rédacteur ne lie pas un État. Troisièmement : la France cache cette lettre depuis soixante-quatre ans. ||| 여기는 말라비. 첫째, 이 위원회는 주권에 대한 권한이 없습니다. 둘째, 단순 서기가 서명한 서한은 국가를 구속하지 않습니다. 셋째, 프랑스는 이 서한을 육십사 년간 숨겨 왔습니다.
+JULIEN: Ici la France. Colonel, je partage vos deux premiers points, et je reconnais le troisième en partie. ||| 여기는 프랑스. 대령님의 첫째·둘째에는 동의하고, 셋째는 일부 인정합니다.
+MABUNDA: Vous partagez mon deuxième point ? ||| 둘째에 동의한다고요?
+JULIEN: Je dis que nous ne sommes pas ici pour juger de la valeur juridique de la lettre. Ni vous ni moi n'avons à gagner ce jugement. Je propose que la commission décide qu'elle ne le tranchera pas. ||| 우리는 서한의 법적 가치를 판단하러 온 게 아닙니다. 그 판단은 대령님도 저도 이길 수 없습니다. 위원회가 그것을 가리지 않기로 결정하자고 제안합니다.
+MABUNDA: Et sur quoi voulez-vous construire, alors ? ||| 그럼 무엇 위에 짓겠다는 겁니까?
+JULIEN: Sur ce que les deux gouvernements ont déclaré vouloir en 1962, en toute bonne foi. Une lettre n'a pas besoin d'être un traité pour être un indice de ce que deux États ont trouvé juste. ||| 1962년에 두 정부가 선의로 원했다고 밝힌 것 위에서요. 서한이 조약일 필요는 없습니다. 두 국가가 무엇을 공정하다고 보았는지의 증거면 됩니다.
+TAVARES: Ici le conseiller juridique du Malavi. Madame la présidente, la Convention de Vienne de 1969 ne s'applique pas à un document de 1962. On peut seulement en reprendre les principes. Et l'un de ces principes est la bonne foi. ||| 여기는 말라비 법률 자문. 의장님, 1969년 빈 협약은 1962년 문서에는 적용되지 않습니다. 원칙만 가져올 수 있고, 그 원칙 중 하나가 선의입니다.
+MABUNDA: La bonne foi, c'est le mot des avocats quand ils n'ont pas de preuves. ||| 선의는 증거가 없을 때 변호사들이 하는 말입니다.
+CAMILLE: Ici la France. Colonel, nous avons une preuve : l'original est déposé, sous serment, dans un fonds public, devant un officier ministériel. Il ne vous est pas demandé de croire. Il vous est demandé de lire. ||| 여기는 프랑스. 대령님, 증거가 있습니다. 원본은 공공 문서고에 집행관 입회 아래 선서와 함께 기탁됐습니다. 믿으라는 게 아니라 읽으라는 겁니다.
+OKANLA: Ici le Malavi. Je propose d'entendre un témoin. Monsieur l'ambassadeur Henri de Valcourt, vous n'êtes membre d'aucune délégation. ||| 여기는 말라비. 증인을 한 분 듣겠습니다. 앙리 드 발쿠르 대사님, 어느 대표단 위원도 아니시죠.
+VALCOURT: Je ne suis qu'un vieil homme avec une copie certifiée. ||| 인증 사본을 든 늙은이일 뿐입니다.
+OKANLA: Voulez-vous vous asseoir de ce côté-ci de la ligne de craie, ou de l'autre ? ||| 분필 선의 이쪽에 앉으시겠습니까, 저쪽에 앉으시겠습니까?
+VALCOURT: Sur la ligne, madame la présidente. Si l'on m'y autorise. Je parle pour les deux. ||| 선 위에요, 의장님. 허락하신다면. 저는 양쪽을 위해 말합니다.
+VAN AALST: Il y a un tabouret au bout de la table. Il est sur la craie. Je l'inscris au procès-verbal. ||| 탁자 끝에 걸상이 하나 있습니다. 분필 위에 있어요. 조서에 기재합니다.
+VALCOURT: Je vous remercie. Je précise que je ne témoigne pas en tant qu'ambassadeur. Je témoigne en tant que fils de l'homme qui a signé, et comme celui qui a gardé le papier pendant trente-sept ans. ||| 감사합니다. 대사로서가 아니라 서명한 분의 아들로서, 서류를 삼십칠 년간 보관한 사람으로서 증언한다는 점을 밝힙니다.
+MABUNDA: Pourquoi trente-sept ans ? ||| 왜 삼십칠 년입니까?
+VALCOURT: Parce que j'avais trente-six ans quand je suis allé la chercher, un matin de février 1989, et que j'en ai soixante-treize aujourd'hui. Et parce que je n'ai pas eu le courage de la lire à voix haute devant des gens qui avaient le droit de me demander pourquoi. ||| 1989년 2월 아침에 가지러 갔을 때 서른여섯이었고 지금은 일흔셋이기 때문이다. 그리고 왜냐고 물을 권리가 있는 사람들 앞에서 소리 내어 읽을 용기가 없었기 때문이다.
+MABUNDA: Maintenant, vous l'avez ? ||| 지금은 있으십니까?
+VALCOURT: Maintenant, un journal l'a lue à ma place, avec une erreur de traduction. J'ai décidé de ne plus laisser une erreur parler pour moi. ||| 지금은 신문이 제 대신 읽었고 번역 오류까지 넣었지요. 오류가 저를 대신해 말하게 두지 않기로 했습니다.
++ greffier neutre = 중립 서기. 유엔 사무국 소속으로 회의 조서를 작성하는 자
++ statuer d'un commun accord = 합의로 결정하다. 위원회 의사결정의 기본 규칙
++ faire consigner ses réserves = 유보 의견을 기록에 남기다. 외교 회의에서 반대·조건을 공식화하는 방식
++ ne pas lier un État = 국가를 구속하지 않다. 단순 서기의 서한이 갖는 법적 한계(전권위임 문제)
++ trancher / ne pas trancher = (쟁점을) 가르다 / 가르지 않다. 쥘리앵이 법적 논쟁을 '보류'하는 핵심 동사
++ un indice de ce que... = ~의 단서·증거. 조약은 아니지만 두 정부의 의사를 보여 주는 증거라는 논리
++ un officier ministériel = 법무 공무원(집행관·공증인 등). 기탁의 신뢰성을 높이는 존재
++ Il ne vous est pas demandé de croire. Il vous est demandé de lire. = 믿으라는 게 아니라 읽으라는 것. 카미유의 문장으로 증거와 신앙을 구분
+
+## 서한의 낭독 — LA LECTURE DE LA LETTRE
+VALCOURT: Avec l'autorisation de la présidente, je vais lire la lettre telle qu'elle est écrite. Je la lis en entier, sauf la dernière ligne, que je lirai à la fin, à part. ||| 의장님의 허락을 받아 서한을 쓰인 그대로 읽겠습니다. 마지막 줄은 빼고 전체를, 마지막 줄은 끝에 따로 읽겠습니다.
+OKANLA: Ici le Malavi. Accordé. ||| 여기는 말라비. 허가합니다.
+VALCOURT: « Paris, le onze mai mil neuf cent soixante-deux. Monsieur le Docteur, j'ai l'honneur de confirmer les termes de l'entretien du dix mai. » ||| "파리, 1962년 5월 11일. 박사님께. 5월 10일 면담의 내용을 확인하는 영광을 갖습니다."
+VALCOURT: « Les deux gouvernements décideront d'un commun accord de l'exploration et de l'exploitation des fonds situés au-delà des eaux territoriales de l'archipel. » ||| "두 정부는 군도 영해 밖 해저의 탐사와 개발을 합의로 결정한다."
+VALCOURT: « La présente lettre ne préjuge pas de la souveraineté sur les îles, qui demeure régie par le droit applicable. » ||| "본 서한은 섬들에 대한 주권을 선입견으로 규정하지 않으며, 주권은 적용되는 법에 따른다."
+MABUNDA: C'est tout ? ||| 이게 전부입니까?
+VALCOURT: Sauf une ligne. Je la lirai à la fin. ||| 한 줄만 빼고요. 마지막에 읽겠습니다.
+MABUNDA: Alors, ce que je comprends, c'est que la France s'est engagée par une phrase de deux lignes. Une phrase écrite par un jeune homme sans plein pouvoir. ||| 그렇다면 제가 이해하기로는 프랑스가 두 줄짜리 문장으로 약속한 겁니다. 전권도 없는 젊은이가 쓴 문장으로요.
+VALCOURT: Colonel, cela fait trente-sept ans que je me pose la même question, et je réponds la même chose : ce jeune homme avait trente-quatre ans, il n'avait pas le pouvoir de signer un traité. Il avait celui de dire la vérité de l'intention de son gouvernement. Les deux choses sont différentes. ||| 대령님, 삼십칠 년째 같은 질문을 하며 같은 대답을 합니다. 그 청년은 서른넷이었고 조약에 서명할 권한은 없었습니다. 자기 정부의 의도를 진실하게 말할 권한은 있었어요. 두 가지는 다릅니다.
+MABUNDA: Vous reconnaissez donc qu'il n'avait pas de pouvoir. ||| 그럼 권한이 없었다고 인정하시는군요.
+VALCOURT: Je reconnais qu'il n'avait pas de plein pouvoir. Je ne reconnais pas qu'il n'avait pas de pouvoir. Un rédacteur du Bureau des conventions, sous la responsabilité de son directeur adjoint, qui était dans la pièce derrière la porte. ||| 전권이 없었음은 인정합니다. 권한이 없었다는 건 인정하지 않습니다. 협약과 서기관이었고, 문 뒤 방에 있던 부국장의 책임 아래 있었어요.
+CAMILLE: Ici la France. Colonel, le registre des rectifications, numéro trente et un, daté du seize mai 1962, porte le visa de J. de Valcourt, « conformément à la minute de séance ». La correction a été faite six jours après la réunion, après relecture à voix haute par l'interprète. On ne corrige pas un texte qu'on désavoue. ||| 여기는 프랑스. 대령님, 1962년 5월 16일자 정정 대장 31번에는 "회의록 원본에 따라"라는 문구와 J. 드 발쿠르의 사증이 있습니다. 회의 엿새 뒤 통역사가 소리 내어 다시 읽은 뒤에 고쳐졌습니다. 부인하는 텍스트는 정정하지 않습니다.
+MABUNDA: Quel mot ? ||| 어떤 단어죠?
+CAMILLE: « Se concerteront » est devenu « décideront ». ||| "협의한다(se concerteront)"가 "결정한다(décideront)"로 바뀌었습니다.
+MABUNDA: Pourquoi un fonctionnaire français aurait-il durci la phrase au profit d'un pays qui n'existait pas encore ? ||| 왜 프랑스 공무원이 아직 존재하지도 않는 나라에 유리하게 문장을 강화했습니까?
+VALCOURT: Parce qu'il voulait que le pays qui allait naître ne naisse pas avec une promesse molle. Mon père a dit à Me Tavares, dans la cour de la rue Oudinot : « Cette poignée de main vaudra ce que vaudra le papier. » Et il a ajouté, à voix basse : « Elle vaudra le papier, et davantage. » ||| 태어날 나라가 무른 약속을 안고 태어나지 않기를 바랐기 때문입니다. 아버지는 오디노 거리 안뜰에서 타바르스 변호사에게 말했습니다. "이 악수는 종이만큼의 값이 있을 것이오." 그리고 낮게 덧붙였죠. "종이만큼, 그리고 그 이상으로."
+TAVARES: Ici le conseiller juridique. Mon grand-père m'a rapporté cette phrase deux semaines avant de mourir, en 2001. Il a dit : « Un jeune homme a écrit, la France a promis. » Je croyais que c'étaient deux phrases. Je comprends maintenant que c'est une seule. ||| 여기는 법률 자문. 할아버지가 2001년 돌아가시기 이 주 전에 이 말을 전해 주셨습니다. "젊은이가 썼고, 프랑스가 약속했다." 두 문장인 줄 알았습니다. 이제 한 문장인 것을 압니다.
+MABUNDA: Monsieur Tavares, votre grand-père n'est pas un témoin. Il est un membre de la famille. ||| 타바르스 씨, 할아버님은 증인이 아니라 가족입니다.
+TAVARES: Mon grand-père a vu l'original à Paris en 2001, chez M. de Valcourt, avant de mourir. Il a eu le temps de lire la dernière ligne. Il ne m'a dit qu'une chose : « Il y a un mot à la fin ; celui qui le lit comprend pourquoi ce papier est resté caché. » ||| 할아버지는 2001년 파리의 발쿠르 대사 댁에서 원본을 보셨습니다. 돌아가시기 전에 마지막 줄을 읽으셨고요. 한 말씀만 하셨습니다. "끝에 단어가 하나 있다. 그걸 읽는 사람은 이 종이가 왜 숨겨져 있었는지 이해한다."
+MABUNDA: Un mot ? ||| 단어 하나요?
+VALCOURT: Oui. Un seul. Et je comprends ce que votre grand-père a voulu dire, monsieur Tavares. Il me l'avait dit en face, dans ma salle à manger, à Paris. Il m'avait demandé de ne pas le lire à voix haute avant qu'on me le demande. ||| 그렇습니다. 하나뿐이에요. 타바르스 씨, 할아버님 뜻을 압니다. 파리 우리 집 식당에서 제 앞에서 말씀하셨죠. 누가 묻기 전에는 소리 내어 읽지 말라고요.
+OKANLA: Ici le Malavi. Est-ce que la commission le demande maintenant ? ||| 여기는 말라비. 지금 위원회가 요청합니까?
+JULIEN: Ici la France. Avant la dernière ligne, madame la présidente, je demande dix minutes pour que M. Tavares et moi puissions exposer une autre histoire de 1962. Celle qui explique pourquoi un « mot à la fin » peut tout changer. ||| 여기는 프랑스. 의장님, 마지막 줄 전에 십 분을 요청합니다. 타바르스 씨와 제가 1962년의 다른 이야기를 말씀드리겠습니다. "끝의 단어" 하나가 왜 모든 걸 바꿀 수 있는지 설명하는 이야기입니다.
+OKANLA: Dix minutes. Ensuite, la ligne. ||| 십 분입니다. 그다음에 그 줄.
++ jurer / sous serment = 선서하다 / 선서와 함께. 낭독과 기탁의 진정성을 높이는 장치
++ pleins pouvoirs / plein pouvoir = 전권위임. 서명자가 국가를 대표해 조약을 맺을 권한(1969 빈 협약 7조 맥락)
++ un rédacteur du Bureau des conventions = 협약과 서기관. 면담을 문서로 옮기는 하위 직급 공무원
++ On ne corrige pas un texte qu'on désavoue. = 부인하는 텍스트는 정정하지 않는다. 정정 사증이 승인의 증거라는 논리
++ une promesse molle = 무른 약속. se concerteront와 décideront의 차이를 일상어로 표현
++ Cette poignée de main vaudra ce que vaudra le papier. = 이 악수는 종이만큼의 값이 있을 것이다. 2-6의 사진 뒷면 문장의 재등장
++ Un mot à la fin. = 끝의 단어 하나. 마지막 줄 낭독의 기대를 높이는 복선
++ ne pas préjuger de la souveraineté = 주권을 선입견으로 규정하지 않다. 영유권과 자원 문제를 분리하는 문구
+## 에비앙의 교훈 — LA LEÇON D'ÉVIAN
+JULIEN: Ici la France. Madame la présidente, le printemps de 1962 n'a pas été seulement celui de ce papier. Le dix-huit mars, deux mois avant, les accords d'Évian ont mis fin à la guerre d'Algérie. Monsieur Tavares, voulez-vous commencer ? ||| 여기는 프랑스. 의장님, 1962년 봄은 이 문서만의 봄이 아니었습니다. 두 달 전인 3월 18일 에비앙 협정이 알제리 전쟁을 끝냈습니다. 타바르스 씨, 시작하시겠습니까?
+TAVARES: Ici le Malavi. Les accords d'Évian prévoyaient la fin des hostilités, un référendum, l'indépendance en juillet. Ils prévoyaient aussi des arrangements concrets : la coopération pour le pétrole et le gaz du Sahara, des organismes mixtes pour les gérer, une base navale louée à la France pour quinze ans. ||| 여기는 말라비. 에비앙 협정은 적대 행위 종식, 국민투표, 7월 독립을 정했습니다. 사하라 석유·가스 협력, 이를 관리하는 혼합 기구, 프랑스에 십오 년간 임대한 해군기지 같은 구체적 조치도 있었고요.
+JULIEN: Des organismes mixtes. C'était la même idée que celle de la lettre du onze mai : on ne partage pas la propriété, on partage la décision. ||| 혼합 기구. 5월 11일 서한과 같은 발상입니다. 소유를 나누는 게 아니라 결정을 나눈다는 거죠.
+MABUNDA: Et ça a marché ? ||| 그래서 잘됐습니까?
+TAVARES: Pas toujours. En 1971, l'Algérie a nationalisé la majorité des intérêts pétroliers français. Le cadre mixte existait, mais personne n'avait écrit comment le modifier ensemble. Il a fallu une crise pour le changer. ||| 늘 그렇지는 않았습니다. 1971년 알제리가 프랑스 석유 이권의 다수를 국유화했습니다. 혼합 틀은 있었지만 그것을 함께 고치는 방법은 아무도 적어 두지 않았어요. 바꾸려면 위기가 필요했습니다.
+JULIEN: Je ne juge pas ces années. Je retiens une leçon : une gestion commune qui n'a pas de règle de révision ne meurt pas de désaccord. Elle meurt d'un changement unilatéral. ||| 그 시기를 평가하지는 않습니다. 교훈 하나를 얻습니다. 개정 규칙이 없는 공동 관리는 의견 충돌로 죽지 않습니다. 일방적 변경으로 죽습니다.
+MABUNDA: Vous plaidez contre la France, monsieur Delorme ? ||| 프랑스에 불리한 변론을 하시는 겁니까?
+JULIEN: Je plaide contre le changement par surprise, colonel. Il est le péché commun des deux côtés de la table. ||| 기습적인 변경에 대한 변론입니다, 대령님. 탁자 양쪽의 공통된 죄지요.
+CAMILLE: Les accords d'Évian ont aussi un autre enseignement. Les clauses qui ont duré sont celles qui prévoyaient un rendez-vous : une date à laquelle on se revoit, pour dire ce qui marche et ce qui ne marche pas. ||| 에비앙에는 또 다른 가르침도 있습니다. 오래 간 조항은 만남 시점을 정해 둔 조항이었습니다. 정해진 날 다시 만나 되는 것과 안 되는 것을 말하는 거죠.
+TAVARES: Une clause de rendez-vous. Mon grand-père, juriste de contrats, disait que c'est la clause qu'on oublie d'écrire parce qu'elle semble inutile le jour de la signature. ||| 만남 조항. 계약법 전문가였던 할아버지는 서명하는 날에는 쓸모없어 보여서 잊게 되는 조항이라고 하셨습니다.
+MABUNDA: Mais alors, si tout est modifiable, rien n'est garanti. ||| 하지만 모든 게 바뀔 수 있다면 보장되는 건 없잖습니까.
+JULIEN: Si tout est modifiable par un seul, rien n'est garanti. Si rien n'est modifiable que par les deux, tout est garanti. ||| 한쪽이 마음대로 바꿀 수 있으면 보장되는 건 없습니다. 둘이 함께가 아니면 못 바꾼다면 모든 게 보장됩니다.
+MABUNDA: « Par les deux ». Vous en parlez comme si vous aviez déjà lu la dernière ligne. ||| "둘이 함께". 마지막 줄을 이미 읽으신 듯 말씀하시는군요.
+JULIEN: Je ne l'ai pas lue. Je la devine à la forme de la lettre, colonel : un texte qui commence par « d'un commun accord » ne peut pas finir par « chacun pour soi ». ||| 읽지 않았습니다. 서한의 모양으로 짐작할 뿐입니다, 대령님. "합의로"로 시작한 글이 "각자 알아서"로 끝날 수는 없습니다.
+OKANLA: Ici le Malavi. Le temps est écoulé. Monsieur l'ambassadeur de Valcourt, la ligne. ||| 여기는 말라비. 시간이 다 됐습니다. 발쿠르 대사님, 그 줄을 읽어 주십시오.
++ les accords d'Évian = 1962년 3월 18일 알제리 전쟁을 끝낸 협정. 휴전, 국민투표, 독립, 사하라 이권과 혼합 기구 같은 조치를 담음
++ un organisme mixte = 혼합 기구. 양국이 함께 구성해 공동 업무를 보는 기관
++ nationaliser = 국유화하다. 1971년 알제리가 프랑스 석유 이권의 다수를 국유화한 사건을 일반화한 설명
++ une clause de révision / de rendez-vous = 개정 조항 / 정기 재회 조항. 공동 관리가 오래 가게 하는 장치
++ le changement unilatéral = 일방적 변경. 공동 관리를 가장 쉽게 무너뜨리는 요인
++ modifiable par un seul / par les deux = 한쪽만 / 둘 다 있어야 바꿀 수 있는. 이 화의 법적 논리의 핵심 대비
++ le péché commun = 공통의 죄. Il est le péché commun des deux côtés처럼 양측을 비판할 때 쓰는 완곡한 표현
++ deviner à la forme = 모양으로 짐작하다. 텍스트의 구조에서 내용을 예측하는 법률가의 감각
+
+## 마지막 줄 — LA DERNIÈRE LIGNE
+VALCOURT: Merci, madame la présidente. Je prends la lettre. Je la tiens à deux mains. ||| 감사합니다, 의장님. 서한을 들겠습니다. 두 손으로 잡았습니다.
+VAN AALST: Je consigne le début de la lecture à onze heures quatorze. ||| 열한 시 십사 분 낭독 시작을 기록합니다.
+VALCOURT: « Les fonds ne seront exploités que par les deux gouvernements, ou par ceux qu'ils auront désignés ensemble. » ||| "해저는 두 정부만이, 또는 두 정부가 함께 지정한 자만이 개발한다."
+VAN AALST: ... Je consigne. ||| …기록합니다.
+MABUNDA: « Ensemble ». ||| "함께".
+VALCOURT: Le dernier mot est « ensemble ». Il y a un point après. ||| 마지막 단어가 "함께"입니다. 그 뒤에 마침표가 있어요.
+CAMILLE: Ici la France. Colonel, pour être précise : cela veut dire qu'aucun exploitant ne peut être désigné par une partie seule. Ni par Paris. Ni par Kandara. ||| 여기는 프랑스. 대령님, 정확히 말씀드리면 어느 한쪽이 단독으로 운영자를 지정할 수 없다는 뜻입니다. 파리도 칸다라도요.
+MABUNDA: Donc le permis que mon ministère a accordé à Cerne Offshore... ||| 그럼 제 부처가 세른 오프쇼어에 준 허가는…
+CAMILLE: ... n'est pas une désignation faite ensemble. Il ne peut pas produire de droits acquis dans ce périmètre. ||| …함께 한 지정이 아닙니다. 이 구역에서는 기득권을 만들 수 없어요.
+MABUNDA: Vous venez d'annuler un permis. ||| 허가를 취소하셨군요.
+CAMILLE: Non, colonel. Je viens de lire un mot. C'est le mot qui l'annule. ||| 아니요, 대령님. 단어 하나를 읽었을 뿐입니다. 취소하는 건 그 단어예요.
+MABUNDA: Mais ce mot nous lie aussi. La France ne pourra pas, elle non plus, désigner seule un exploitant. ||| 하지만 그 단어는 우리도 묶습니다. 프랑스도 단독으로 운영자를 지정하지 못하는 거고요.
+JULIEN: Oui. Et c'est la raison pour laquelle je l'accepte. Une serrure à une seule clé ne protège que celui qui la tient. ||| 맞습니다. 그래서 받아들이는 겁니다. 열쇠 하나짜리 자물쇠는 쥔 사람만 지킵니다.
+MABUNDA: Vous signez une serrure à deux clés. ||| 열쇠 둘짜리 자물쇠에 서명하시는군요.
+JULIEN: Chacun a une clé de la porte, et personne ne peut ouvrir tout seul. C'est une phrase de l'interprète de 1962. Je l'emprunte. ||| 누구나 문 열쇠를 하나씩 갖고, 아무도 혼자서는 못 엽니다. 1962년 통역사의 문장입니다. 빌려 쓰겠습니다.
+VALCOURT: Madame la présidente, puis-je dire pourquoi j'avais peur de cette ligne ? ||| 의장님, 제가 이 줄을 왜 두려워했는지 말씀드려도 되겠습니까?
+OKANLA: Ici le Malavi. Parlez. ||| 여기는 말라비. 말씀하십시오.
+VALCOURT: Mon père a écrit ce mot en pensant à la paix. Moi, à trente-six ans, quand j'ai lu cette ligne pour la première fois dans le tiroir de son bureau, j'ai pensé : un jour, quelqu'un s'en servira pour empêcher un pays de vivre de sa mer. « Ensemble » peut devenir un veto. ||| 아버지는 평화를 생각하며 이 단어를 쓰셨습니다. 저는 서른여섯에 아버지 책상 서랍에서 이 줄을 처음 읽고 이런 생각을 했습니다. 언젠가 누군가 이 단어로 한 나라가 자기 바다로 살아가는 걸 막겠구나. "함께"는 거부권이 될 수 있습니다.
+OKANLA: Et vous avez préféré qu'il reste dans un tiroir. ||| 그래서 서랍에 둬 두기로 하셨군요.
+VALCOURT: J'ai préféré, oui. C'était une erreur ou une prudence, je ne sais toujours pas. Mais je sais que si personne ne l'avait demandé, je l'aurais emporté avec moi. ||| 그랬습니다. 잘못이었는지 신중함이었는지는 지금도 모릅니다. 하지만 아무도 묻지 않았다면 그것을 안고 갔으리라는 건 압니다.
+TAVARES: Monsieur l'ambassadeur, mon grand-père vous a dit de garder le papier jusqu'à ce que quelqu'un ait le courage de le demander. Ce n'était pas une punition. C'était un devoir confié. ||| 대사님, 할아버지는 누군가 용기 내어 묻기 전까지 이 종이를 지키라고 하셨습니다. 벌이 아니었어요. 맡겨진 의무였습니다.
+VALCOURT: Je le prends comme un devoir, jeune homme. Je le rends comme une dette. ||| 의무로 받았다, 젊은이. 이제 빚으로 돌려준다.
+JULIEN: Ici la France. Le veto que vous craignez, monsieur l'ambassadeur, nous pouvons le désarmer par le texte, pas par le silence. Je propose trois règles. ||| 여기는 프랑스. 대사님이 두려워하시는 거부권은 침묵이 아니라 텍스트로 무장 해제할 수 있습니다. 세 가지 규칙을 제안합니다.
+OKANLA: Ici le Malavi. Je vous écoute. ||| 여기는 말라비. 듣겠습니다.
+JULIEN: Un : pour toute désignation d'exploitant, le Conseil délibère d'un commun accord, et si le désaccord dure, un expert neutre est saisi pour proposer, non pour trancher. Deux : une clause de rendez-vous, tous les cinq ans, pour dire ce qui marche et ce qui bloque. Trois : aucun acte du Conseil ne préjuge de la souveraineté. ||| 하나, 운영자 지정은 위원회가 합의로 심의하고, 이견이 계속되면 중립 전문가에게 맡겨 결정이 아니라 제안을 받습니다. 둘, 오 년마다 만나는 재회 조항으로 되는 것과 막힌 것을 말합니다. 셋, 위원회의 어떤 행위도 주권을 선입견으로 규정하지 않습니다.
+OKANLA: Et le nom du Conseil ? ||| 위원회 이름은요?
+VANTOUR: Ici la France. Madame la présidente, je suis la maire d'un archipel qui n'a pas encore été nommé dans cette discussion autrement que par des mots comme « zone » et « fonds ». Je demande que les habitants aient un siège à la table, sans droit de vote, mais avec droit de saisine. ||| 여기는 프랑스. 의장님, 저는 이 논의에서 "구역"과 "해저" 같은 말로만 불려 온 군도의 시장입니다. 주민에게 투표권은 없지만 안건 제출권이 있는 자리를 탁자에 요청합니다.
+OKANLA: Ici le Malavi. Les habitants des îles ont une voix. Les pêcheurs de la côte de Kandara, de l'autre côté, aussi. Je propose que le Conseil ait deux sièges consultatifs : un pour l'archipel, un pour la côte. ||| 여기는 말라비. 섬 주민의 목소리가 있습니다. 반대편 칸다라 해안의 어부도 그렇고요. 위원회에 자문석 둘을 제안합니다. 하나는 군도, 하나는 해안.
+VANTOUR: Je prends le mien avec plaisir. Je n'ai pas souvent l'occasion de parler d'égal à égal avec un ambassadeur. ||| 기꺼이 받겠습니다. 대사님과 대등하게 말할 기회는 자주 없어서요.
+OKANLA: Alors que votre voix soit la première à se faire entendre au moment de choisir un exploitant. ||| 그럼 운영자를 고를 때 가장 먼저 들리는 목소리가 시장님 것이 되기를.
+VALCOURT: Si je puis, madame la présidente, j'aimerais le nom suivant : « Conseil de développement conjoint de Saint-Aubin ». Pas « commun », pas « mixte ». « Conjoint », parce que ce mot a deux syllabes pour dire qu'on se tient par la main. ||| 괜찮다면 의장님, 다음 이름을 제안하고 싶습니다. "생토뱅 공동 개발 협의회(Conseil de développement conjoint)". '공통'도 '혼합'도 아니고 '공동(conjoint)'으로요. 손을 맞잡았다는 걸 두 음절로 말해 주니까요.
+OKANLA: « Conjoint ». Je note. Le colonel Mabunda ? ||| "공동". 적습니다. 마분다 대령은요?
+MABUNDA: Ici le colonel Mabunda. Je consigne ma réserve sur la valeur juridique de la lettre. Je ne m'oppose pas à la création du Conseil. ||| 여기는 마분다 대령. 서한의 법적 가치에 대한 제 유보를 기록합니다. 위원회 설립에는 반대하지 않습니다.
+OKANLA: Ici le Malavi. La commission décide, d'un commun accord : de ne pas trancher la valeur juridique de la lettre du onze mai 1962, de la tenir pour l'expression d'une intention commune, de constituer un Conseil de développement conjoint, sans préjudice des positions respectives sur la souveraineté. ||| 여기는 말라비. 위원회는 합의로 결정합니다. 1962년 5월 11일 서한의 법적 가치는 가리지 않는다. 그 서한을 공통된 의도의 표현으로 본다. 각자의 주권 입장은 그대로 둔 채 공동 개발 협의회를 구성한다.
+JULIEN: Ici la France. Approuvé. ||| 여기는 프랑스. 승인합니다.
+TAVARES: Ici le Malavi. Approuvé. ||| 여기는 말라비. 승인합니다.
+VAN AALST: Je consigne la décision à midi moins six. ||| 열한 시 오십사 분 결정을 기록합니다.
++ désigner ensemble = 함께 지정하다. 한 줄 서한의 마지막 단어 'ensemble'이 운영자 지정의 단독권을 막는 규정
++ un veto = 거부권. 'ensemble'가 가진 위험을 발쿠르가 두려워한 이유
++ désarmer par le texte = 텍스트로 무장 해제하다. 거부권의 위험을 규칙(중립 전문가·재회 조항)으로 줄인다는 해법
++ saisir un expert neutre = 중립 전문가에게 맡기다. 교착 시 결정이 아닌 제안을 받는 장치
++ le droit de saisine = 안건 제출권. 투표권은 없지만 위원회에 안건을 올릴 수 있는 권리
++ conjoint (≠ commun, mixte) = 공동의(함께 결합된). '두 음절로 손을 맞잡았다'는 발쿠르의 어휘 선택
++ sans préjudice de (des positions respectives) = ~를 해치지 않고, 각자 입장은 그대로 두고. 주권 논쟁을 보류하는 핵심 문구
++ une dette (≠ un devoir) = 빚(≠ 의무). 발쿠르가 '의무로 받아 빚으로 돌려준다'고 한 대비
+
+## 정오의 어선 — LES TROIS BATEAUX
+RIVIÈRE: Ici le quai, monsieur Delorme. Pas ici la France, pas ici le Malavi : ici le quai. ||| 여기는 부두입니다, 들로름 씨. 여기는 프랑스도 말라비도 아니고, 부두입니다.
+JULIEN: Monsieur Rivière. Ils sont là ? ||| 리비에르 씨. 도착했습니까?
+RIVIÈRE: Le Cormoran est entré à onze heures cinquante. L'Albatros derrière lui. La Sainte-Anne, avec mon fils à la barre, a contourné le môle comme si elle n'avait jamais été arrêtée. ||| 코르모랑이 열한 시 오십 분에 들어왔고 알바트로스가 뒤를 따랐습니다. 생트안은 제 아들이 조타를 잡고 마치 한 번도 억류된 적 없는 것처럼 방파제를 돌았지요.
+JULIEN: Et lui ? ||| 아드님은요?
+RIVIÈRE: Il est sur le ponton, avec l'équipage. Ils sentent le diesel et la peur. Mais personne n'a perdu un doigt. ||| 부두에 선원들과 있습니다. 디젤과 두려움 냄새가 나지만 손가락 하나 잃은 사람 없습니다.
+JULIEN: J'ai une nouvelle pour vous. La commission a décidé de créer un Conseil. Pas de partage de la souveraineté. Un Conseil pour décider ensemble de ce qui est sous l'eau. ||| 소식이 있습니다. 위원회가 협의회를 만들기로 했습니다. 주권을 나누는 게 아닙니다. 물 밑의 것을 함께 결정하는 협의회입니다.
+RIVIÈRE: Et la pêche ? ||| 어업은요?
+JULIEN: La pêche n'est pas dans le mandat du Conseil. Ni au-dessus, ni à côté. Mme Vantour aura un siège consultatif pour le dire chaque fois qu'il le faudra. ||| 어업은 협의회 권한이 아닙니다. 위에도 옆에도요. 방투르 시장이 자문석에서 필요할 때마다 말할 겁니다.
+RIVIÈRE: Alors ça me va. La mer est à moi du premier mètre à ce que mon filet peut toucher. Le reste, qu'ils se le partagent. ||| 그럼 됐어요. 바다는 첫 미터부터 제 그물이 닿는 데까지 제 겁니다. 나머지는 알아서 나누라지요.
+MATHIS: Papa, tu parles de moi ? ||| 아빠, 내 얘기 해요?
+RIVIÈRE: Je parle de la mer, mon garçon. Tu viens de rentrer, tu ne penses qu'à toi. ||| 바다 얘기야, 얘야. 방금 돌아와서 네 생각만 하는구나.
+MATHIS: Monsieur Delorme, ils nous ont rendu les filets. Ils n'ont pas rendu l'odeur du poisson qui avait trois semaines. ||| 들로름 씨, 그물은 돌려받았는데 삼 주 된 생선 냄새는 안 돌려주더군요.
+JULIEN: Je ne peux pas négocier l'odeur, capitaine. Je peux seulement négocier qu'elle ne revienne pas. ||| 냄새는 협상할 수 없습니다, 선장님. 다시 오지 않게 하는 것만 협상할 수 있죠.
+MATHIS: C'est déjà beaucoup. ||| 그것만으로도 많죠.
+RIVIÈRE: Les îles ont deux noms, la mer n'en a qu'un. Je l'ai dit en mars. Aujourd'hui je dirais autre chose : la mer n'a qu'un nom, mais elle a deux clés. ||| 섬에는 이름이 둘이고 바다는 하나. 삼월에 제가 한 말이죠. 오늘은 다르게 말하겠습니다. 바다는 이름이 하나지만 열쇠는 둘이라고.
+JULIEN: Vous avez entendu la lecture ? ||| 낭독을 들으셨습니까?
+RIVIÈRE: Mme Vantour m'a dit à voix basse. Mais je n'ai pas besoin d'entendre pour comprendre. Les pêcheurs savent ça depuis toujours. On ne tire pas un chalut tout seul. ||| 방투르 시장이 낮은 목소리로 알려 줬어요. 근데 듣지 않아도 압니다. 어부는 옛날부터 알아요. 트롤망은 혼자 못 끕니다.
+LÉA: Papa, je viens de lire le communiqué du Conseil sur mon téléphone. « Ensemble », est-ce que ça veut dire qu'on s'aime bien ? ||| 아빠, 방금 휴대폰으로 협의회 성명을 읽었어요. "함께"가 서로 좋아한다는 뜻이에요?
+JULIEN: Non, Léa. Ça veut dire que chacun a une clé, et que personne ne peut ouvrir tout seul. On peut ne pas s'aimer et ouvrir ensemble. ||| 아니야, 레아. 각자 열쇠 하나씩을 갖고 아무도 혼자서는 못 연다는 뜻이야. 좋아하지 않아도 함께 열 수 있어.
+LÉA: Alors « ensemble » n'est pas un sentiment. C'est une procédure. ||| 그럼 "함께"는 감정이 아니라 절차네요.
+JULIEN: C'est une procédure qui finit parfois par devenir un sentiment. Parfois. ||| 가끔은 감정이 되기도 하는 절차지. 가끔은.
+MERCIER: Descartes. J'ai lu « ensemble » dans votre communiqué. Ils m'ont demandé de démissionner du conseil de Cerne Offshore. J'ai dit oui. Je ne sais pas si c'est de la dignité ou de la peur. T. ||| 데카르트. 성명에서 "함께"를 읽었어. 세른 오프쇼어 이사회에서 사임하라더군. 그러겠다고 했어. 존엄인지 두려움인지는 나도 모르겠다. T.
+JULIEN: Il a écrit « de la dignité ou de la peur ». Les deux se ressemblent beaucoup dans un SMS. ||| "존엄인지 두려움인지"라고 썼네. 문자로는 둘이 많이 닮았어.
+CAMILLE: Tu réponds ? ||| 답장할 거야?
+JULIEN: « Les deux se partagent souvent un même homme. Prends ton temps. » Et je consigne. ||| "둘은 한 사람이 나눠 갖는 일이 많아. 시간을 가져." 그리고 기록해 둬.
+HÉLÈNE: Jour 20, midi. Vous avez trouvé un mot qui rend chacun responsable de l'autre. Je n'ai jamais aimé ce genre de mot. Je le respecte. ||| 20일째 정오. 서로를 책임지게 만드는 단어를 찾으셨군요. 저는 그런 단어를 좋아한 적이 없습니다. 존중은 합니다.
+VALCOURT: Julien. Viens un moment sur la jetée. ||| 쥘리앵. 잠깐 방파제로 오너라.
+JULIEN: Oui. ||| 네.
+VALCOURT: J'ai lu la ligne. Elle ne m'a pas détruit. C'est un soulagement ridicule. Maintenant il me reste à la payer. ||| 그 줄을 읽었다. 나를 무너뜨리지 않더구나. 우스꽝스러운 안도감이지. 이제 값을 치르는 일이 남았다.
+JULIEN: Comment ? ||| 어떻게요?
+VALCOURT: En témoignant, comme on me le demandera. Après, je m'en irai. Tu m'inviteras à déjeuner, avant. ||| 요청받는 대로 증언하는 거다. 그 뒤엔 떠날 거고. 그 전에 점심에 초대해 다오.
++ la mer a deux clés = 바다에는 열쇠가 둘. 리비에르가 3월의 말을 'ensemble'의 뜻으로 확장해 다시 말한 표현
++ une procédure / un sentiment = 절차 / 감정. 레아의 정의: «함께는 감정이 아니라 절차»
++ chacun a une clé de la porte = 누구나 문 열쇠를 하나씩 갖는다. 2-4 통역사 오브리의 문장이 해법을 설명하는 말로 되돌아옴
++ démissionner d'un conseil = 이사회에서 사임하다. 메르시에의 선택은 우정의 유보를 보여 줌
++ la dignité ou la peur = 존엄 혹은 두려움. 문자로는 서로 닮는다는 쥘리앵의 관찰
++ une jetée = 방파제·부두. 대화가 바다를 앞에 둔 마지막 장면 배경
++ payer une ligne = 한 줄의 값을 치르다. 12화 제목 '군도의 값'으로 이어지는 복선
++ soulagement ridicule = 우스꽝스러운 안도감. 긴장이 풀린 노인의 자기 조롱

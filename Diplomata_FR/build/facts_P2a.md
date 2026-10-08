@@ -79,3 +79,37 @@
 - 오칸라(18시): 칸다라는 성명 호평(상가라 «Pour une fois, Paris a dit la vérité en moins de mots que les journaux.»), 말라비가 언론에 넘기지 않았다고 해명; 사뮈엘 타바르스가 기사를 읽고 «Voilà le jeune homme de mon grand-père» → 위원회 첫 회의 목요일, 배 3척은 그날 반환.
 - 엘렌 Jour 17: 유예 끝, '제 부서가 아니다'. 레아: préjuger(선입견) = 기다리지 못한 판단. 
 - 훅(2-9): 익명 해운업 인사의 정체(쥘리앵의 리옹 시절 친구, 별명), 마르샹의 재전화, 마지막 줄 한 단어(엑스 14시 기탁 현장은 2-9 첫머리에서 짧게 다루거나 2-11에서 공개), 목요일 위원회 첫 회의, 20일 호송 보류, V.A.(Valois).
+
+## 2-9 L'ami d'enfance (159턴, 5섹션)
+- 화요일(엘렌 Jour 18). 월요일 14시 엑스 기탁 완료(214번 '7 bis', 파브르·집행관 아르누·발쿠르; 조서 4쪽). 발쿠르는 마지막 줄을 읽지 않고 «Une ligne adressée à deux parties ne se lit pas devant une seule. Je la lirai jeudi, devant les deux délégations.» (조서: 낭독 유보). 마르샹(Le Messager de Paris)은 영어로 들은 문장을 직접 번역했다고 시인, 출처 익명은 보호가 아니라 이해관계를 묻지 않게 하려는 것.
+- 익명의 해운업 인사 = 티보 메르시에(Thibaut Mercier, 46세), 리옹 크루아루스, 아버지가 손강·론강 나룻배 사공(«On ne tient pas un fleuve avec des prières»). 별명: 메르시에 = «Gnafron»(냐프롱), 쥘리앵 = «Descartes»(데카르트). 2006년 선박 등록 건으로 '말 한마디'를 거절해 20년 침묵. 해법의 순간: 전화에서 «Descartes ? … Je me demandais quand tu appellerais.»
+- 메르시에 회사: 바랄 마리팀(Barral Maritime, 해운사) 대서양 사업 총괄. 세른 오프쇼어(Cerne Offshore, 포르루이스 등록) 지분 18%, 이사회 참관인(의결권 없음), 포르오뱅 항만 물류. 영국계 '자문들'에게서 영어 발췌를 받음(V.A. 암시), 비밀 유지 서약. 투자자 메모 «un canal de confiance au Quai d'Orsay, ami d'enfance du négociateur»(엘렌이 문장만 알려 줌, 메모 날짜가 기사보다 앞섬). 쥘리앵이 신고서 요구(주주·계약·자문), 수요일 정오까지 답. «Ne signe rien qu'ils auront écrit en premier… Ceux qui écrivent vite.»
+- 아르샹보: 쥘리앵의 이해관계 신고(déclaration de lien) 수용, 조건 4(스피커폰·카미유 동석·정오 전 서면, 식사·선물 금지, 국가 대신 약속 금지, 우정만 말하면 끊을 것). 쥘리앵 유지 결정. 카미유 성 Roussel.
+- 발쿠르(치즈 카트: 퐁레베크·리바로·블뢰 드 브레스·오소이라티): 제2제정(1852~70), 크레디 모빌리에 1852, 수에즈(1858/1869), 멕시코 1861~67과 제커 채권·모르니('on dit'), 코브던–슈발리에 1860; «Un intérêt déclaré, c'est une politique ; un intérêt caché, c'est une affaire.» 메르시에 = «a rangé un autre homme à la mauvaise place». «L'amitié se met en réserve.» 범선(Savara)을 주머니에 지님. 날씨: 수요일 저녁 군도에 저기압.
+- 레아: 아리스토텔레스 우정 3층(유용·쾌락·덕), tradere, 몽테뉴 «Parce que c'était lui, parce que c'était moi.», '정리하는 사람'.
+- 훅(2-10): 수요일 정오 메르시에 답, 목요일 위원회 첫 회의(어선 3척 반환), 폭풍.
+
+## 2-10 Négocier dans le noir (166턴, 5섹션)
+- 수요일(엘렌 Jour 19). 메르시에의 서면 신고(3쪽: 주주·항만 용역·«Conseil : V.A. Ltd, Londres») + 손글씨 «Le reste est derrière une porte dont je n'ai pas la clé. T.» 항만 감독관 이본 르 갈(Yvon Le Gall, 61, 36년 일지), 장소 포르오뱅 항만 사무소 2층(시청은 지붕 날아감). 오칸라, 사뮈엘 타바르스, 콜랭 리브(리브가 10조항 개막 의정서 초안 작성). 레아 논술: «Peut-on se comprendre sans se voir ?» 디드로 『맹인에 관한 편지』(1749).
+- 리브 초안 4조 «suspendues, sous réserve des droits acquis»; 쥘리앵 문안 «aucune autorisation… délivrée, renouvelée ou exécutée»(UNCLOS 83(3)). 호송 금지: 양측 군함 모두 세른 퇴 구역 동행 금지. 언어: 프랑스어·포르투갈어 둘 다 정본(영어 우선 조항 거부).
+- 정전 22시 전, 촛불 한 쪽에 하나, 분필 선, 규칙 «Ici la France / Ici le Malavi». 꿩의 섬 1659(마자랭–루이스 데 아로, 24회 회의, 8월~11월 7일, 루이 14세는 1660년 6월, 섬은 6개월씩 공동 관리), «On a négocié la salle avant le traité.» «une forme équitable rend les mots équitables».
+- 해법의 순간: 어둠 속 리브의 영어 속삭임 «Samuel, don't concede "freeze". Our client signs the survey licence on the twentieth.» → 쥘리앵의 열린 질문 → 오칸라 «Dans le noir… une absence de réponse» → 리브: 고객 = Cerne Offshore, 소속 = Valois Advisory(런던). 오칸라는 도면의 V.A.를 기술 부서 약자로 알았음. 리브 퇴장(복도, 르 갈 동행). 사뮈엘은 '들은 문장을 자기 것으로 삼지 않음'.
+- 4조 최종: «À compter de la signature du présent protocole… aucune autorisation… délivrée, renouvelée ou exécutée dans la zone du banc du Cerne, ni par l'une ou l'autre partie, ni par toute personne agissant pour leur compte.» 서명 22:47(르 갈 시계, 4초 느림), ad referendum, 아르샹보 확인.
+- 훅(2-11): 목요일 10시 위원회 첫 회의, 발쿠르 마지막 줄 낭독, 어선 3척 정오 반환. 엘렌 «N'écoutez pas avec les yeux.»
+
+## 2-11 La gestion commune (156턴, 6섹션)
+- 목요일(엘렌 Jour 20), 장소 포르오뱅 어시장 경매장(criée). 오칸라 첫 의장, 중립 서기 피터르 판 알스트(UN 법무 사무국), 말라비 대표 마분다 대령(참모본부; 서한 가치 유보), 칸다라 승인 06:12. 발쿠르는 분필 선 위 걸상에 증인으로 앉음. 서한 사본(인증)을 두 손으로 낭독.
+- 서한 원문(확정): «Paris, le onze mai mil neuf cent soixante-deux. Monsieur le Docteur, j'ai l'honneur de confirmer les termes de l'entretien du dix mai.» / «Les deux gouvernements décideront d'un commun accord de l'exploration et de l'exploitation des fonds situés au-delà des eaux territoriales de l'archipel.» / «La présente lettre ne préjuge pas de la souveraineté sur les îles, qui demeure régie par le droit applicable.» / 마지막 줄: «Les fonds ne seront exploités que par les deux gouvernements, ou par ceux qu'ils auront désignés ensemble.» → 해법의 한 단어 = «ensemble»(어느 쪽도 단독 지정 불가, 기득권 주장 불가; Cerne Offshore 허가 = 함께 지정이 아니므로 무효 취지).
+- 발쿠르: 장 드 발쿠르는 당시 34세 서기관(전권 없음, 부국장 책임), 정정 대장 31번 visa. 타바르스 조부는 2001년 파리 발쿠르 집에서 원본 마지막 줄을 읽음(«Il y a un mot à la fin…»). 발쿠르가 마지막 줄을 두려워한 이유: 'ensemble'가 거부권이 될까 봐.
+- 에비앙(1962.3.18): 사하라 석유 협력·혼합 기구·해군기지 15년 임대; 1971 알제리 국유화(일반화); 교훈 = 개정 규칙 없는 공동 관리는 일방 변경으로 죽음, 재회 조항. 쥘리앵의 3규칙: ①운영자 지정은 합의, 이견 시 중립 전문가(제안만) ②5년마다 clause de rendez-vous ③주권 불선입견.
+- 결정(11:54): 서한의 법적 가치는 가리지 않음, 공통된 의도의 표현으로 봄, «Conseil de développement conjoint de Saint-Aubin» 구성(발쿠르 작명: conjoint), 주권 입장은 각자(sans préjudice). 자문석 2(군도: 방투르 / 칸다라 해안 어부), 마분다는 유보를 기록하되 반대 안 함. 어선 3척 정오 귀항(마티스 리비에르 선장), 어업은 위원회 권한 밖. 리비에르 «la mer n'a qu'un nom, mais elle a deux clés».
+- 메르시에 문자: Cerne Offshore 이사회 사임, «dignité ou peur». 엘렌 Jour 20. 레아: «ensemble n'est pas un sentiment, c'est une procédure». 발쿠르: 줄을 읽었고 값을 치르겠음, 점심 초대 요청.
+- 훅(2-12): 발쿠르 증언·퇴임·마지막 점심, 엘렌의 '예', 메르시에, 발루아 실체.
+
+## 2-12 Le prix de l'archipel (159턴, 5섹션)
+- 목요일(엘렌 Jour 34), 포르오뱅 협정은 화요일 16시 서명(4쪽 8조: 위원회 3+3, 자문석 2, 중립 서기국, 함께 지정, 허가 동결, 어업 제외 7조, 5년 재회). 쥘리앵: 감찰단 결론 8줄, '경고'(2년 기록), 장관 문장 «Le service rendu ne dispense pas du doute.» 검찰은 발쿠르에게 rappel à la loi로 종결. 장관 훈령: 해외 영토 해양 공간 협상은 사전 해당 공동체 협의, 해외 영토 문서 5년 내 문서고 이관·선출직 공개. Cerne Offshore는 허가 신청 철회.
+- 국회 외교위원회 공개 청문(위원장 오데트 마르샬, 의원 조제 에르베(생토뱅), 파브리스 르누아르): 발쿠르 «par peur, par amour, par orgueil», «La mémoire est une responsabilité… pas un devoir», 1946 도 승격·1958 헌법 53조·2003 개정, '자문직 사임, 서류 1개월 내 문서고 이관, 의식 거부'.
+- 마지막 점심(레아 동석): 범선 Savara는 협의회 탁자 분필 선 위에 무기한 대여(방투르·타바르스 영수증). 장 드 발쿠르의 뿔 손잡이 치즈 칼을 쥘리앵에게 전수. 건배 «À ceux qui lisent». 발쿠르는 리스본으로, 전화는 '배 먹는 시간'에.
+- 발루아의 실체(엘렌 직접 방문, 공개 등기만 사용): Valois Advisory LLP(런던, 4년, 직원 11명, 신고 고객 없음 — '사용자') 사원 = Valois Holdings S.à r.l.(룩셈부르크) 70% + 콜랭 리브 30% ← 단독 사원 플뢰르 드 리스 재단(리히텐슈타인) ← 프랑스 공공 조달에서 신고된 수익자 에티엔 바세르(52), 오렐리아 데이터 시스템(파리 8구) 창업 회장. 오렐리아 제품 = 다국어 공동 집필 플랫폼 «Salle Blanche»(즉시 번역·동시 버전·관리자가 수정 이력 은닉 가능). 발루아는 무료 접근으로 대표단 문서를 먼저 읽고 '앞선 시간'을 판매. 포르오뱅 의정서만 손글씨로 쓰여 예외.
+- 엘렌의 '예' 행사: 베르사유에서 쪽이 사라지면 언론보다 먼저 자기에게 말할 것(쥘리앵: 장관보다 먼저는 약속 안 함). 정산 완료, 계수기 '1일째: 베르사유'.
+- 3부 훅: 베르사유 정상회의 30일 뒤 개막, 문안은 개막 36시간 전 동결, 사무국은 Salle Blanche(오렐리아 '기술 파트너')를 입찰로 선정, 디지털(데이터·AI) 부록 = 부록 7. 쥘리앵 '문안 중재자'로 지명, 조건: 모든 버전 종이 사본(서명·날짜), 수정 이력 은닉 불가. 쥘리앵 도구: 치즈 칼, 작은 방안 수첩. 레아: «Ils répètent tout, même les erreurs.»
