@@ -183,4 +183,5 @@
 - 2부 1~12화 제작 완료 (`2부_Il_Calore_dell_Inverno/`)
 - 3부 1~12화 제작 완료 (`3부_La_Primavera_delle_Prove/`)
 - 화마다 .docx + .pdf, 각 100턴
-- 4부(사랑의 수확)는 확인 후 제작
+- 4부 1~12화 제작 완료 (`4부_La_Vendemmia_dell_Amore/`)
+- 전 4부 48화(총 4,800턴) 완료
