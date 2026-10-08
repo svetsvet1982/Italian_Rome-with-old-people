@@ -1,0 +1,114 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 12
+@title Un mot, une paix
+@ko 한 단어, 하나의 평화
+@setting 틴에자르 우물(일요일 새벽 4시 30분~7시) → 귀환 비행기와 타마즈리트 비행장(일요일 오전) → 파리 외무부(화요일 오전) → 베르사유 거울의 방(화요일 17시~저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 베르사유로 와서 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast ATTAHER | 아타에르 아그 티나리, 부족 연합의 아메노칼, 71세
+@cast IBRAHIM | 이브라힘, 아타에르의 조카, 29세
+@cast MARCHAIS | 위고 마르셰, 프랑스 의사, 44세. 열이 있다
+@cast ROLLAND | 클레망스 롤랑, 프랑스 간호사, 35세. 말이 많다
+@cast BENHAMOU | 레일라 방하무, 프랑스 대사관 의사, 40세(허구의 인물)
+@cast DELAUNAY | 막심 들로네, 정상회의 사무총장, 57세
+@cast KOUROUMA | 살리프 쿠루마, 타마랑드 공화국 대사, 58세
+@cast BARBIER | 이네스 바르비에, 문안 위원회 서기, 27세
+@cast FERRAND | 오딜 페랑, 정상회의 의전 책임자, 55세
+@cast VIRTA | 아이노 비르타, 북유럽 대표단장, 52세
+@cast MBARGA | 폴 음바르가, 중앙아프리카 대표단장, 55세
+@cast ORSINI | 바스티앵 오르시니, «살 블랑슈» 현장 기술 책임자, 34세
+@note 3부의 마지막 화(사건 D의 결산이자 3부 전체의 결산)입니다. 일요일 새벽, 쥘리앵은 틴에자르 우물에서 이브라힘에게 열린 이력을 그대로 보여 줍니다. 대책반의 결정 시각표, 앙슬랭이 직접 쓴 서명 진술서, 예비 지원팀을 수도로 물렸다는 장관 비서실의 서면 명령입니다. 그러나 이브라힘에게는 체면이라는 마지막 걸림돌이 남아 있습니다. 인질을 «돌려주면» 족장의 조카가 프랑스에 굴복한 것이 됩니다. 해법의 순간은 한 단어입니다. 클레망스가 쪽지에 쓴 «invités»(손님들)와 투아레그의 환대 규범, 곧 손님은 건드리지 않고 팔지 않으며 떠날 때 배웅한다는 규범이 만납니다. 쥘리앵은 «otages(인질)»라는 프랑스어 단어를 보고서에서 접고, 아타에르가 «hôtes(손님)»를 «reconduits(배웅받는다)»고 선언하게 합니다. 아무도 풀려나지 않고, 아무도 굴복하지 않으며, 손님이 배웅받는 평화의 문법이 만들어집니다. 이어 화요일 17시 거울의 방에서 22개 대표단이 «열린 이력 의정서»에 서명합니다. 쥘리앵의 연설 한 줄이 3부의 주제입니다. «뉘앙스는 평화의 문법입니다. 문장을 지키는 일이 평화를 지키는 일입니다.» 마지막에 쥘리앵은 딸 레아와 거울의 방을 걷고, «한 번 지킨 단어가 평화를 지킨다»는 말로 장을 닫습니다. 역사 배경은 프랑스 외교의 유산입니다. 리슐리외, 탈레랑, 칼리에르로 이어지는 협상의 직업, 그리고 1919년 같은 회랑에서 있었던 공개 서명입니다. 발쿠르가 간단히 정리합니다. 어휘는 un hôte (손님이자 주인이라는 이중 의미), reconduire, la grammaire, la paix, 접속법(pour que, sans que, bien que)에 주목하세요.
+@next 4부 «La Question»: 생토뱅 군도의 지위를 묻는 주민투표가 12일 뒤 열린다. 질문은 단 한 줄, 그 한 줄의 문장을 두고 모든 진영이 쥘리앵을 찾아온다.
+
+## 새벽의 우물 — L'AUBE AU PUITS
+CAMILLE: Quatre heures trente. Trois voitures civiles, le docteur Benhamou, ton dossier dans la sacoche, et nous deux. Dehors, c'est le noir complet. ||| 4시 30분. 민간 차량 세 대, 방하무 선생님, 네 서류 가방, 그리고 우리 둘. 바깥은 칠흑이야.
+BENHAMOU: J'ai le matériel pour une fièvre sévère, une déshydratation, une plaie infectée au besoin. Je n'ai pas de ceinture de sécurité pour les histoires que je ne sais pas encore. ||| 심한 열과 탈수, 필요하면 감염된 상처까지 대응할 장비는 있어요. 아직 모르는 사연에 맞는 안전벨트는 없지만요.
+JULIEN: Docteur, vous ne soignerez que le corps. L'histoire, c'est le travail de la route. Camille, tu as le papier d'Archambault ? ||| 선생님은 몸만 돌보시면 됩니다. 사연은 길이 해결할 일이고요. 카미유, 아르샹보 비서실장님 문서 있어?
+CAMILLE: À deux heures dix cette nuit, signé de sa main, tamponné par le ministre : « L'équipe d'appui est retirée de l'aérodrome de Tamazrit et regagne la capitale, à trois cents kilomètres. Le chef Attaher ag Tinari est invité à contrôler le départ, par les moyens de son choix. » ||| 오늘 밤 2시 10분, 비서실장님 친필 서명에 장관 직인이 찍혔어. "지원팀은 타마즈리트 비행장에서 철수해 수도로 돌아간다. 아메노칼 아타에르 아그 티나리는 자신이 택한 수단으로 철수를 확인하도록 초청된다."
+JULIEN: Le départ de l'équipe, c'est un fait que le chef pourra voir. Je ne veux plus avoir de « parole » sans « preuve » à côté. ||| 팀이 떠나는 건 족장이 직접 볼 수 있는 사실이지. 이제 '말'만 있고 '증거'가 곁에 없는 상황은 만들고 싶지 않아.
+CAMILLE: Cinq heures cinquante. Voici le puits. Une margelle de pierre, un seau, un chameau couché. Et un vieil homme debout, tout seul, avec son turban indigo. ||| 5시 50분. 우물이야. 돌 우물 둘레, 두레박, 누워 있는 낙타. 그리고 남색 터번을 쓴 노인이 혼자 서 있어.
+ATTAHER: Je vous attendais, monsieur Delorme. Le soleil est en retard, ce matin. Il hésite, comme moi. ||| 기다리고 있었소, 들로름 씨. 오늘 아침은 해가 늦는구려. 나처럼 망설이고 있소.
+JULIEN: Monsieur Attaher. Où est Ibrahim ? ||| 아타에르 어르신. 이브라힘은 어디 있습니까?
+ATTAHER: Il arrive. À pied, par la dune. Il est resté toute la nuit sur la crête, à regarder les deux routes. Il veut voir votre voiture avant de voir votre visage. Il dit qu'on lit mieux la vérité dans la façon dont un homme descend de voiture. ||| 오고 있소. 모래언덕을 걸어서. 밤새 능선에서 두 길을 지켜봤소. 당신 얼굴을 보기 전에 당신 차를 보고 싶어 하오. 사람이 차에서 내리는 모습에서 진실이 더 잘 읽힌다고 말이오.
+JULIEN: Alors je descends lentement. Camille, le docteur reste dans la voiture. Je suis venu avec les mains vides, à l'exception de papiers. ||| 그럼 천천히 내리겠습니다. 카미유, 의사 선생님은 차에 계시게 해. 저는 서류 말고는 빈손으로 왔습니다.
+IBRAHIM: Vous êtes venu. ||| 오셨군요.
+JULIEN: Je vous l'avais dit : ma parole, ma voix. Je ne vous ai pas menti, Ibrahim ag Wissa. Mais je ne vous ai pas tout dit non plus, parce que je ne savais pas tout. Je vais vous montrer ce que je sais, dans l'ordre où je l'ai appris. ||| 말씀드렸죠. 제 말이고 제 목소리라고. 거짓말하지 않았습니다, 이브라힘 아그 위사 씨. 하지만 다 말씀드리지도 못했어요. 다 알지 못했으니까요. 제가 아는 것을, 알게 된 순서대로 보여 드리겠습니다.
+IBRAHIM: Un papier ? Encore un papier. ||| 서류요? 또 서류입니까.
+JULIEN: Trois papiers, que je pose sur la pierre du puits. Vous pouvez les toucher, les lire, les garder. Le premier : l'emploi du temps de samedi, minute par minute, de l'équipe d'appui. À seize heures trente-neuf, un homme de mon camp demande la décision. À dix-sept heures douze, le ministre dit oui. Les deux heures sont écrites. ||| 서류 세 장을 우물 돌 위에 놓겠습니다. 만져도 읽어도 가져가셔도 됩니다. 첫째, 토요일의 분 단위 시간표입니다. 지원팀 건이요. 16시 39분에 우리 쪽 한 사람이 결정을 요청했고, 17시 12분에 장관이 승인했습니다. 두 시각이 적혀 있어요.
+IBRAHIM: (Il lit à la lueur d'une petite lampe.) « Demande à seize heures trente-neuf. Accord à dix-sept heures douze. » ||| (그는 작은 손전등 불빛에 읽는다.) "16시 39분 요청. 17시 12분 승인."
+JULIEN: Le deuxième : une déclaration écrite à la main par cet homme, M. Ancelin, ce soir, signée. Il reconnaît avoir averti un tiers, M. Colin Reeve, du plan de repli, avant que je le sache moi-même, et avant que vous l'appreniez de votre côté. Voilà pourquoi quelqu'un vous a appelé avant moi. ||| 둘째, 그 사람, 앙슬랭 씨가 어젯밤 손으로 써서 서명한 진술서입니다. 제가 알기도 전에, 그리고 당신이 알기도 전에 대비 계획을 제삼자 콜랭 리브에게 알렸다고 인정하는 글입니다. 누군가 저보다 먼저 당신에게 전화한 이유죠.
+IBRAHIM: (Il relève la tête.) Le même qui m'a appelé à sept heures. ||| (그가 고개를 든다.) 7시에 전화한 바로 그 사람이군요.
+JULIEN: Je ne peux pas l'affirmer avec une certitude de justice. Je peux l'affirmer avec une certitude de calendrier. ||| 재판에서 요구하는 확실성으로는 단언할 수 없습니다. 시간표로는 확실하게 단언할 수 있어요.
+ATTAHER: Voilà une manière de dire que je n'ai jamais entendue. Une certitude de calendrier. ||| 처음 들어 보는 말투로군. 시간표의 확실성이라니.
+JULIEN: Le troisième : un ordre signé cette nuit. L'équipe d'appui quitte Tamazrit et rentre dans la capitale. Elle sera à trois cents kilomètres à midi. Et le chef Attaher est invité à vérifier ce départ, de ses yeux. ||| 셋째, 오늘 밤 서명된 명령입니다. 지원팀이 타마즈리트를 떠나 수도로 돌아갑니다. 정오에는 300킬로미터 밖에 있을 거고, 족장께서는 직접 눈으로 이 철수를 확인하시도록 초청되었습니다.
+IBRAHIM: Vous reculez votre équipe pour moi ? ||| 저 때문에 팀을 물리는 겁니까?
+JULIEN: Je la recule pour la parole que j'ai donnée. Ne confondons pas. Ce n'est pas une concession : c'est une correction d'erreur. Chez nous, on dit que quand on s'est trompé, on ne s'excuse pas seulement, on montre le chemin du retour. ||| 제가 한 약속 때문에 물리는 겁니다. 혼동하지 맙시다. 양보가 아니라 오류 정정이에요. 우리 말에 잘못했을 땐 사과만 하지 말고 되돌아가는 길을 보여 주라고 하죠.
+IBRAHIM: (Un long silence.) Ça, je le crois. C'est écrit, daté, signé. Mon oncle me répète depuis l'enfance que ce qui est écrit au grand jour ne ment pas. Mais il y a autre chose, Français. ||| (긴 침묵.) 그건 믿겠습니다. 쓰였고 날짜가 있고 서명이 있으니. 삼촌은 어릴 적부터 대낮에 쓰인 글은 거짓말하지 않는다고 말했죠. 하지만 다른 문제가 있습니다, 프랑스인 양반.
+JULIEN: Dites-le. ||| 말씀하십시오.
+IBRAHIM: Si je vous rends ces deux-là, tout le désert dira : « Le neveu de l'amenokal a rendu des otages à la France, contre un papier. » Il dira : « Il a plié. » Mon frère est en prison, je n'ai rien obtenu d'autre qu'un papier. Je ne peux pas rentrer sous les tentes avec la honte. ||| 이 둘을 돌려주면 사막 전체가 말할 겁니다. "아메노칼의 조카가 서류 한 장에 인질을 프랑스에 돌려줬다"고. "굽혔다"고 하겠죠. 제 동생은 감옥에 있고, 저는 서류 한 장 말고는 아무것도 얻지 못했습니다. 수치를 안고 천막으로 돌아갈 수는 없어요.
+CAMILLE: (Doucement.) Julien… c'est le moment. C'est le mot qu'on cherchait. ||| (조용히.) 쥘리앵… 지금이야. 우리가 찾던 그 단어.
+JULIEN: Monsieur Ibrahim, j'ai une question de vocabulaire. Comment dit-on « otage » dans votre langue ? ||| 이브라힘 씨, 어휘에 관한 질문이 있습니다. 당신 말로 '인질'은 뭐라고 합니까?
+IBRAHIM: Il n'y a pas de mot propre. On dit « celui qu'on retient ». Un mot d'étranger, un mot de guerre. ||| 정확한 말은 없습니다. '붙잡아 둔 사람'이라고 하죠. 외국인의 말이고 전쟁의 말이에요.
+JULIEN: Et « celui qui est reçu sous la tente » ? ||| 그럼 '천막 아래에서 맞이한 사람'은요?
+ATTAHER: L'hôte. L'hôte est sacré. On ne le vend pas. On ne le prend pas. On ne le garde pas contre son gré. On le protège pendant son séjour, et lorsqu'il veut partir, on le reconduit jusqu'à la limite de sa protection, qui est le dernier puits. ||| 손님이오. 손님은 신성하오. 팔지 않고, 빼앗지 않고, 뜻에 반해 붙잡아 두지 않소. 머무는 동안 보호하고, 떠나려 할 때는 보호가 미치는 마지막 우물까지 배웅하오.
+IBRAHIM: Ces deux-là sont mes… (Il s'arrête.) Ils ont mangé avec nous. Ils ont dormi sous ma tente. L'infirmière a soigné ma nièce, avant-hier, d'une fièvre. Elle l'a fait pour rien. ||| 저 둘은 제… (그가 말을 멈춘다.) 우리와 함께 먹었습니다. 제 천막에서 잤고요. 간호사는 그저께 제 조카딸의 열을 치료해 줬어요. 대가 없이.
+JULIEN: Elle vous a écrit elle-même, hier : « Ils nous traitent en invités. » Ce n'est pas moi qui ai trouvé ce mot, Ibrahim. C'est Clémence Rolland. Je n'ai fait que le lire. ||| 어제 본인이 직접 썼죠. "우리를 손님으로 대해 주고 있어요." 이 단어를 찾은 건 제가 아닙니다, 이브라힘. 클레망스 롤랑이에요. 저는 읽기만 했습니다.
+ATTAHER: Alors c'est ainsi que cela se dit, et je le dirai de ma voix, devant ce puits : ces deux Français sont les hôtes de ma confédération depuis mercredi soir. Ils n'ont jamais été retenus : ils ont été reçus. Ibrahim, mon neveu, tu ne rends rien. Tu reconduis tes hôtes, comme le veut notre loi. ||| 그렇다면 이렇게 말하는 거고, 나는 이 우물 앞에서 내 목소리로 말하겠소. 이 두 프랑스인은 수요일 밤부터 내 연합의 손님이오. 붙잡힌 적이 없고 맞이받았소. 이브라힘, 내 조카야, 너는 아무것도 돌려주지 않는다. 우리 법이 정한 대로 손님을 배웅하는 것이다.
+IBRAHIM: (Il pose la main sur la margelle.) Reconduire. Oui. On reconduit un hôte, on ne le rend pas. Je ne perds rien. Je fais mon devoir. ||| (그가 우물 둘레에 손을 얹는다.) 배웅. 그렇죠. 손님은 배웅하지 돌려주지 않아요. 저는 아무것도 잃지 않습니다. 제 도리를 다하는 거예요.
+JULIEN: Et moi, de mon côté, je promets ceci : dans mes rapports à Paris, à partir de ce matin, le mot « otages » n'apparaîtra plus. J'écrirai : « hôtes de l'amenokal Attaher ag Tinari, reconduits par Ibrahim ag Wissa ». Vous aurez ma plume comme vous avez eu ma voix. ||| 그리고 저도 약속하겠습니다. 오늘 아침부터 파리로 보내는 제 보고서에 '인질'이라는 단어는 나오지 않습니다. 이렇게 쓰겠습니다. "아메노칼 아타에르 아그 티나리의 손님, 이브라힘 아그 위사가 배웅." 제 목소리처럼 제 펜도 드리겠습니다.
+CAMILLE: Les pick-up, là-bas, sur la crête. Ils descendent. ||| 저기 능선에 픽업트럭들이야. 내려오고 있어.
+ROLLAND: (Elle saute à terre avant que la voiture s'arrête.) Biscotte ! C'est vous, le monsieur qui sait le nom de mon âne ? Je savais que quelqu'un viendrait ! ||| (차가 서기도 전에 그녀가 땅으로 뛰어내린다.) 비스코트! 제 당나귀 이름을 아는 분이 당신이군요? 누군가 올 줄 알았어요!
+JULIEN: Madame Rolland, c'est votre mère, c'est monsieur Marchais, c'est Paris tout entier qui sait le nom de votre âne. Comment allez-vous ? ||| 롤랑 씨, 당신 어머니와 마르셰 선생님 어머니, 파리 전체가 당신 당나귀 이름을 압니다. 괜찮으십니까?
+ROLLAND: Épuisée, sale, affamée, et vivante. Hugo a quarante de fièvre mais il est tenace, il refuse de lâcher la gourde. ||| 지치고 더럽고 배고프지만 살아 있어요. 위고는 열이 40도인데도 끈질기게 물통을 놓지 않으려 해요.
+MARCHAIS: (Soutenu par le docteur Benhamou.) Je ne lâche pas la gourde, parce que c'est l'hôte qui l'a remplie. Ce serait grossier. Merci d'être venu, monsieur. ||| (방하무 선생에게 부축받으며.) 물통을 안 놓는 건 손님 접대로 채워 준 거라서요. 놓으면 무례하죠. 와 주셔서 감사합니다, 선생님.
+BENHAMOU: Pouls cent quinze, tension basse, pas de blessure grave. À l'avion, perfusion tout de suite. Monsieur Marchais, vous vous taisez. ||| 맥박 115, 혈압 낮음, 심한 상처는 없어요. 비행기에서 바로 수액 놓겠습니다. 마르셰 선생님, 말씀 그만하세요.
+ATTAHER: Allez, mes amis. Le soleil se lève sur le puits de mon grand-père, et il ne s'est rien passé ici sinon un thé qu'on a bu à deux mains. Que la route vous soit douce. ||| 가시오, 친구들. 내 할아버지의 우물에 해가 뜨오. 여기서는 두 손으로 마신 차 한 잔 말고는 아무 일도 없었소. 길이 부드럽기를.
+JULIEN: Monsieur Attaher, une dernière chose. À Tamazrit, dans huit jours, l'avocat général recevra une demande d'audience pour Rhissa, avec un avocat et un observateur de votre choix. Je viendrai moi-même le voir. Et si je ne peux pas, ce sera Mlle Roussel. ||| 어르신, 마지막 한 가지입니다. 8일 뒤 타마즈리트에서 검찰 차장이 리사의 심문 요청서를 받을 겁니다. 변호사 한 명과 어르신이 고른 참관인이 동석합니다. 제가 직접 그를 만나겠습니다. 제가 못 하면 루셀 양이 갑니다.
+ATTAHER: Tu entends, Ibrahim ? Il a nommé deux personnes. Celui qui nomme deux personnes se rend responsable d'un nom. ||| 들었느냐, 이브라힘? 두 사람의 이름을 댔다. 두 이름을 대는 자는 이름 하나에 책임을 지는 것이지.
++ reconduire = 배웅하다, 되돌려 보내다. 손님을 보호의 끝까지 데려다주는 환대 규범의 동사
++ un hôte = 손님 또는 주인. 환대를 받는 사람과 베푸는 사람을 모두 가리키는 이중 어휘
++ rendre / reconduire = 돌려주다 / 배웅하다. 체면을 바꾸는 한 단어의 차이
++ la margelle = 우물 둘레의 돌. 세 장의 서류를 공개적으로 놓는 장소
++ une certitude de calendrier = 시간표의 확실성. 재판의 확실성과 구별한 쥘리앵의 정확한 화법
++ une correction d'erreur = 오류 정정. 양보와 구별해서 체면을 지키는 표현
++ se rendre responsable de = ~에 대해 책임을 지다. 이름을 건 약속의 무게
+
+## 귀환 — LE RETOUR
+BENHAMOU: Neuf heures dix. Perfusion en place, Hugo dort. Clémence, elle, ne dort pas : elle parle depuis le décollage. ||| 9시 10분. 수액 연결했고 위고는 자고 있어요. 클레망스는 안 자요. 이륙 때부터 계속 말하고 있죠.
+ROLLAND: Je vous dérange ? Je ne peux pas dormir tant que je n'ai pas raconté. Vous voulez savoir pourquoi j'ai écrit « invités » ? ||| 방해되나요? 이야기를 다 하기 전엔 잘 수 없어서요. 제가 왜 '손님'이라고 썼는지 궁금하세요?
+JULIEN: Oui. Beaucoup. ||| 네, 아주 많이요.
+ROLLAND: Le premier soir, ils nous ont assis sous une tente, sans nous ligoter, et ils nous ont servi du thé. Le jeune homme, Ibrahim, m'a donné le premier verre, à moi, avant Hugo. Il a dit, en français : « La femme qui parle d'abord. » J'ai compris que quelqu'un avait décidé qu'on était des hôtes avant même de décider ce qu'on était. ||| 첫날 저녁에 그들은 우리를 묶지도 않고 천막 아래 앉히더니 차를 줬어요. 이브라힘이라는 청년이 위고보다 먼저 저한테 첫 잔을 줬고요. 프랑스어로 "말하는 여자가 먼저"라고 하더군요. 우리가 뭔지 정하기도 전에 누군가 우리를 손님으로 정했다는 걸 알았어요.
+JULIEN: C'est le même ordre qu'avec moi. Le premier verre à la personne dont on vient de décider qu'elle comptait. ||| 저한테도 같은 순서였어요. 방금 중요하다고 정한 사람에게 첫 잔을 주는 거죠.
+ROLLAND: Et puis il y a eu le mot « otage », le troisième jour. J'ai entendu un des jeunes, à la radio, qui répétait « otages, otages » dans un français approximatif. Ibrahim l'a fait taire. Il lui a dit quelque chose en tamasheq, et il a ajouté en français : « On ne dit pas ça sous ma tente. » ||| 사흘째에는 '인질'이라는 말이 나왔어요. 청년 중 한 명이 라디오에서 서툰 프랑스어로 "인질, 인질" 되풀이했거든요. 이브라힘이 입을 막았어요. 타마샤크어로 뭔가 말하고 프랑스어로 덧붙였죠. "내 천막 아래서는 그런 말 쓰지 마."
+CAMILLE: Il avait déjà choisi le mot avant nous. ||| 우리보다 먼저 단어를 골라 둔 거네요.
+ROLLAND: Oui. Mais personne ne lui avait dit qu'il avait le droit de le dire à voix haute. C'est vous qui lui avez donné cette permission, hier, en lui lisant ma phrase. ||| 네. 하지만 크게 말해도 된다고 그에게 말해 준 사람은 없었어요. 어제 제 문장을 읽어 줌으로써 그 허락을 준 사람이 당신이에요.
+JULIEN: Je n'ai donné aucune permission. J'ai juste accepté qu'un mot existe. ||| 허락을 준 적은 없습니다. 단어 하나가 존재하도록 받아들였을 뿐이에요.
+ROLLAND: C'est la même chose, monsieur Delorme. Dans mon métier, on soigne des malades avec des mots avant de le faire avec des pilules. « Ce n'est rien de grave », « on va s'en occuper ». Un mot juste, c'est déjà un pansement. ||| 같은 거예요, 들로름 씨. 제 직업에선 알약보다 말로 먼저 치료합니다. "심각한 거 아니에요", "저희가 돌볼게요." 맞는 말 한 마디가 이미 붕대예요.
+CAMILLE: Madame Rolland, votre mère vous attend à Roissy. Elle m'a envoyé un message ce matin : « Dites-lui que Biscotte a eu un petit. » ||| 롤랑 씨, 어머님이 루아시 공항에서 기다리세요. 오늘 아침 저한테 문자가 왔어요. "비스코트가 새끼를 낳았다고 전해 주세요."
+ROLLAND: (Elle rit, puis pleure.) C'était il y a trente ans, et elle ne l'a pas oublié ! ||| (그녀가 웃다가 운다.) 삼십 년 전 일인데 잊지 않으셨네요!
+HÉLÈNE: (Au téléphone satellite.) Monsieur Delorme, je ne vous dérange pas ? Jour dix-sept. Hôtes reconduits, vivants, en route pour la maison. Félicitations. ||| (위성전화로.) 들로름 씨, 방해되지 않나요? 17일째. 손님들은 배웅받아 살아서 귀가 중이네요. 축하해요.
+JULIEN: Hélène. Vous avez dit « hôtes ». ||| 엘렌. '손님'이라고 하셨네요.
+HÉLÈNE: Je lis vos messages avant qu'ils partent, c'est mon métier. Vous avez changé un mot, et l'affaire a changé de nature. Je ne le comprends pas toujours, mais je le constate. Pour le reste : Reeve a quitté son bureau ce matin. Valois Advisory ne répond plus. Il n'y a pas de preuve qu'ils aient commandé l'enlèvement. Il y a une preuve qu'ils ont tiré parti de l'attente. ||| 보내기 전에 메시지를 읽는 게 제 직업이에요. 단어 하나를 바꾸셨고 사건의 성격이 바뀌었죠. 늘 이해하는 건 아니지만 확인은 해요. 나머지는요. 리브는 오늘 아침 사무실을 비웠고, 발루아 어드바이저리는 응답이 없습니다. 그들이 납치를 지시했다는 증거는 없어요. 기다림을 이용했다는 증거는 있고요.
+JULIEN: Je ne dirai jamais plus que cela. Je constate, je n'accuse pas. ||| 그 이상은 말하지 않겠습니다. 확인할 뿐 비난하진 않아요.
+HÉLÈNE: Je sais. C'est ce qui vous rend dangereux pour eux. Ils n'ont rien à répondre à un constat. À propos : le compteur. Je ne vous facture pas ce week-end. Mais gardez votre « oui », celui de Versailles : vous me direz avant la presse quand une page disparaîtra. ||| 알아요. 그래서 그들에겐 당신이 위험한 거고요. 확인 앞에서는 대답할 말이 없으니까. 참, 계수기 말인데요. 이번 주말은 청구하지 않겠어요. 하지만 베르사유 때의 "예"는 유지해 주세요. 쪽이 사라지면 언론보다 먼저 제게 말해 주세요.
+JULIEN: Avant le ministre, je ne promets rien. Avant la presse, d'accord. ||| 장관보다 먼저는 약속하지 않겠습니다. 언론보다 먼저라면 좋아요.
+HÉLÈNE: Comme au premier jour. Bon retour. ||| 첫날처럼요. 잘 돌아오세요.
+VALCOURT: (Un appel de Lisbonne.) Julien, j'ai suivi tout cela depuis ma table du Chiado. J'ai pris un billet. Je suis à Orly demain soir. ||| (리스본에서 걸려 온 전화.) 쥘리앵, 시아두 내 자리에서 다 지켜봤네. 비행기표를 샀어. 내일 밤 오를리에 도착하네.
+JULIEN: Vous venez pour Versailles ? ||| 베르사유 때문에 오시는 겁니까?
+VALCOURT: Je viens pour voir comment un garant s'est comporté. En 1264, Saint Louis jugeait, et on l'a rejeté. Hier, Attaher n'a pas jugé du tout, et on l'a suivi. Vous avez fait de l'arbitrage à l'envers, mon cher : vous avez rendu le serment avant le jugement, et vous avez supprimé le jugement. Je trouve cela très profond. Je vous l'écrirai. ||| 보증인이 어떻게 처신했는지 보러 가네. 1264년에 생 루이는 판결했고 거부당했지. 어제 아타에르는 전혀 판결하지 않았는데 사람들이 따랐어. 자네는 중재를 거꾸로 한 거야. 판결 전에 맹세를 돌려주고 판결 자체를 없앴지. 아주 깊다고 생각하네. 글로 써 보내겠네.
+JULIEN: Merci, monsieur l'ambassadeur. J'apporterai le fromage. ||| 감사합니다, 대사님. 치즈는 제가 가져가겠습니다.
+VALCOURT: Pas de fromage mardi. Mardi, on signe. On mangera après. ||| 화요일엔 치즈 말게. 화요일엔 서명하네. 먹는 건 그다음이야.
++ être en route pour la maison = 귀가 중이다. 'rentrer à la maison'의 진행형 표현
++ tirer parti de = ~을 이용하다. 'l'attente'를 이용해 이득을 얻으려 한 발루아의 행태를 가리킨다
++ les mots avant les pilules = 알약보다 먼저 말. 말이 치료의 첫 단계라는 클레망스의 직업관
++ changer de nature = 성격이 바뀌다. 단어 하나로 사건의 정의가 달라진다는 뜻
++ avant la presse / avant le ministre = 언론보다 먼저 / 장관보다 먼저. 엘렌과의 약속 범위 협상
++ faire de l'arbitrage à l'envers = 중재를 거꾸로 하다. 발쿠르가 아미앵과 대비해 쓰는 표현
++ le serment avant le jugement = 판결 전의 맹세. 아미앵의 교훈이 현대적으로 변주된 문장

@@ -1,0 +1,125 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 11
+@title Le conseiller
+@ko 보좌관
+@setting 아타에르의 천막(토요일 16시 30분) → 사륜구동차 안, 위성전화(17시) → 타마즈리트의 프랑스 영사 관저(토요일 21시~일요일 0시 30분)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast IBRAHIM | 이브라힘, 아타에르의 조카, 29세. 천막에서 짧게 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 화상 연결
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 화상 연결
+@cast MAILLARD | 제라르 마이아르, 외무부 위기 대책반 책임자, 55세
+@cast ANCELIN | 티보 앙슬랭, 장관 비서실 아프리카 담당 보좌관, 38세
+@cast ATTAHER | 아타에르 아그 티나리, 부족 연합의 아메노칼, 71세. 위성전화로 등장
+@cast VIDAL | 사빈 비달, 인질 가족 협회의 변호사, 58세. 카미유의 옛 고용주(허구의 인물)
+@cast DELAUNAY | 막심 들로네, 정상회의 사무총장, 57세. 화상 연결
+@cast BARBIER | 이네스 바르비에, 문안 위원회 서기, 27세. 화상 연결
+@cast ORSINI | 바스티앵 오르시니, «살 블랑슈» 현장 기술 책임자, 34세. 화상 연결
+@note 3부 11화(사건 D의 배신)입니다. 토요일 오후, 아타에르는 일요일 새벽 틴에자르 우물에서 두 의료진을 넘기겠다고 합니다. 그런데 밤이 되자 이브라힘이 약속을 깨고 인질을 옮깁니다. «프랑스가 급습을 준비한다는 걸 아는 사람이 먼저 내게 전화했다»는 이유입니다. 쥘리앵에게는 쥘리앵의 이름으로 한 «우물에는 우리 셋뿐»이라는 맹세와, 그날 오후 파리가 정한 «예비 지원팀 사전 배치»가 서로 충돌하는 상황이 됩니다. 정보가 새어 나간 곳을 찾는 열쇠는 이메일 한 통의 전송 시각입니다. 앙슬랭이 가족 측 변호사 비달에게 보낸 «가족 안내문»의 전송 시각은 16시 41분인데, 예비 지원팀 배치를 장관이 결정한 시각은 17시 12분입니다. 결정되기 31분 전에 이미 «결정됨»이라고 쓰였다는 것은, 그 내용이 대책반 회의에서 나온 게 아니라 앙슬랭이 직접 밀어붙이고 미리 퍼뜨린 것이라는 뜻입니다. 비달은 카미유의 옛 고용주이고 자신도 모르는 채 통로가 되었으며(가족 협회가 목요일에 고용한 위기 소통 자문이 콜랭 리브입니다), 카미유는 의심받지만 충성이 입증됩니다. 앙슬랭은 3-2의 «기술 파트너»와 이어진 사람으로, 베르사유 정상회의 뒤 «참조 문안 조화» 요청에도 자기 서명을 남겼음이 드러납니다. 이 사실이 부록 7의 마지막 매듭입니다. 살 블랑슈의 숨겨진 이력을 열어 보면 서명 이튿날 0시 12분, «활자 조화»라는 이름으로 7.5조의 옛 문구(«사전 통지도 독립적 통제도 없이»)가 참조본에 되살아나 있었습니다. 들로네 사무총장은 원문과 수정 이력을 모두 공개하는 «열린 이력 의정서»를 제안합니다. 역사 배경은 속은 자들의 날(1630년 11월 10일)입니다. 마리 드 메디시스가 리슐리외의 실각을 얻어 냈다고 믿었지만, 이튿날 루이 13세는 베르사유의 사냥 별장에서 리슐리외를 재신임했습니다. 잊힌 작은 문 하나가 궁정의 판을 뒤집었습니다. 또 하나의 배경은 웨스트팔리아(1648)·빈(1815)·베르사유(1919)로 이어지는 «공개 서명» 전통입니다. 어휘는 une fuite, un horodatage, un aveu, mettre en cause, 접속법(sans que, avant que, bien que)에 주목하세요.
+@next 3-12 «Un mot, une paix»: 일요일 새벽, 쥘리앵은 우물로 간다. «인질»이 아니라 «손님»이라는 한 단어가 모두의 체면을 지키고, 두 사람이 돌아온다. 화요일 17시, 거울의 방에서 의정서에 서명한다.
+
+## 천막의 답 — LA RÉPONSE DU CHEF
+ATTAHER: Seize heures trente. Le soleil est bas, comme je l'avais dit. Asseyez-vous. Ibrahim, ici, à ma droite. Le thé, cette fois, je le fais sans ordre : regardez. ||| 16시 30분이오. 말한 대로 해가 낮아졌소. 앉으시오. 이브라힘, 내 오른쪽으로. 이번 차는 순서 없이 따르겠소. 보시오.
+CAMILLE: Il sert deux verres en même temps, un dans chaque main. Une main pour Ibrahim, une pour toi. ||| 두 잔을 동시에 따라. 한 손에 하나씩. 한 손은 이브라힘, 한 손은 너.
+JULIEN: C'est sa manière de dire : « Ni l'un avant l'autre. » Il est devenu garant, et il me l'écrit avec ses mains. ||| "누가 먼저도 아니다"라고 말하는 그의 방식이야. 보증인이 됐고, 그걸 손으로 쓰고 있는 거지.
+ATTAHER: Voici ce que j'ai à vous dire. Demain, dimanche, à six heures, avant que le soleil frappe, au puits de Tin-Ezzar. C'est un lieu où personne ne doit rien à personne : mon grand-père y a jugé des querelles. Ibrahim vous y amènera vos compatriotes. ||| 내가 전할 말은 이것이오. 내일 일요일 새벽 6시, 해가 내리쬐기 전에 틴에자르 우물에서 보겠소. 누구도 누구에게 빚지지 않은 곳이오. 내 할아버지가 거기서 분쟁을 판결하셨지. 이브라힘이 동포들을 데려올 것이오.
+JULIEN: Qui sera présent ? ||| 누가 참석합니까?
+ATTAHER: Moi, Ibrahim, ceux que vous reprendrez, et trois d'entre vous : vous, la demoiselle, et un médecin. Sans arme. Sans voiture militaire. Sans machine volante au-dessus de nos têtes. Rien qui fasse de l'ombre. ||| 나, 이브라힘, 당신들이 데려갈 이들, 그리고 당신들 쪽 셋. 당신, 아가씨, 그리고 의사 한 명. 무기 없이, 군용 차량 없이, 머리 위를 나는 기계 없이. 그림자를 드리울 것은 아무것도 없이.
+JULIEN: Un médecin de l'ambassade, désarmé. Trois voitures civiles qui roulent depuis Tamazrit. Et ma parole : il n'y aura personne d'autre au puits que nous. ||| 대사관 의사 한 분, 비무장으로. 타마즈리트에서 출발하는 민간 차량 세 대. 그리고 제 말을 드립니다. 우물에는 우리 말고 아무도 없을 겁니다.
+IBRAHIM: Votre parole à vous. Pas celle de votre ministère. ||| 당신의 말씀이군요. 당신 부처의 말이 아니라.
+JULIEN: Ma parole, et mon nom sur le papier. Voici la demande d'audience pour Rhissa, signée, en deux exemplaires. L'un reste chez le chef, l'autre part ce soir par valise à la capitale. ||| 제 말과 서류에 쓴 제 이름입니다. 리사의 심문 요청서입니다. 서명해서 두 부예요. 한 부는 어르신께 남기고, 한 부는 오늘 밤 외교 행낭으로 수도에 보냅니다.
+ATTAHER: Bien. Je vous demande une chose en échange de ce papier. Ibrahim ne croit pas les Français qui parlent par d'autres voix. Il m'a dit : « Je ne croirai que ce que ce monsieur me dira de sa bouche ou signera de sa main. » Acceptez-vous cette règle ? ||| 좋소. 이 서류의 대가로 하나만 청하겠소. 이브라힘은 다른 입을 통해 말하는 프랑스인들을 믿지 않소. "저 사람이 직접 입으로 말하거나 손으로 서명한 것만 믿겠다"고 했지. 이 규칙을 받아들이시오?
+JULIEN: Je l'accepte. Ce que vous apprendrez de moi, ce sera de ma voix ou de ma plume. Le reste n'est pas moi. ||| 받아들입니다. 저에게서 들으시는 건 제 목소리나 제 펜으로 온 것입니다. 나머지는 제가 아닙니다.
+CAMILLE: Seize heures trente-huit. M. Ancelin se lève. ||| 16시 38분. 앙슬랭 씨가 일어나.
+ANCELIN: Excusez-moi, le ministre m'appelle. Une minute, pas plus. Je sors. ||| 실례합니다. 장관께서 부르십니다. 일 분만, 더 걸리지 않습니다. 나갑니다.
+JULIEN: Faites. Camille, note-le. ||| 그러세요. 카미유, 적어 둬.
+CAMILLE: C'est fait. Seize heures trente-huit. J'écris tout, tu sais. Un vieux réflexe de juriste. ||| 적었어. 16시 38분. 난 다 적어. 법률가의 오랜 반사 신경이야.
+ATTAHER: Ce monsieur sort souvent pour téléphoner. Chez nous, on dit : l'homme qui sort pendant le thé a une deuxième tente. ||| 저 양반은 전화하러 자주 나가는구려. 우리 말에 차 마시다 나가는 사람은 두 번째 천막이 있다고 하오.
+JULIEN: Il a une obligation envers son ministre. Je ne le juge pas. ||| 장관에 대한 의무가 있습니다. 판단하진 않겠습니다.
+ATTAHER: Vous ne jugez pas. C'est une qualité chez un homme, et un défaut chez un chef. Je ne juge pas non plus : je note. ||| 판단하지 않는다니, 사람에게는 미덕이고 지도자에게는 결점이오. 나도 판단하지 않소. 기록하는 거지.
+CAMILLE: Seize heures quarante-six : il revient. ||| 16시 46분. 돌아왔어.
+ANCELIN: Pardon. Le ministre vous salue et souhaite que tout se passe pour le mieux. Rien d'autre. ||| 죄송합니다. 장관께서 안부를 전하시며 모든 일이 잘되기를 바라십니다. 그 외엔 없습니다.
+JULIEN: Merci. Monsieur Attaher, nous partons. Nous reviendrons demain avant l'aube, avec les trois voitures. ||| 감사합니다. 어르신, 저희는 떠납니다. 내일 동트기 전에 차 세 대로 돌아오겠습니다.
+ATTAHER: Que votre route soit courte. ||| 길이 짧기를 비오.
+JULIEN: Une dernière chose, et je la dis devant tous : s'il arrive quelque chose, quoi que ce soit, qui ressemble à un changement, vous m'appelez avant d'agir. Je ferai de même. ||| 마지막으로, 모두 앞에서 말씀드립니다. 변화처럼 보이는 일이 생기면 무엇이든, 행동하기 전에 제게 전화 주십시오. 저도 그렇게 하겠습니다.
+ATTAHER: Voilà qui est dit. ||| 그렇게 말씀하셨소.
++ avant que le soleil frappe = 해가 내리쬐기 전에. 'avant que'는 접속법을 취한다
++ personne ne doit rien à personne = 아무도 아무에게 빚진 것이 없다. 중립 장소를 가리키는 표현
++ faire de l'ombre = 그림자를 드리우다, 위협하다. 상대의 위세를 눌러 불편하게 하는 것
++ de sa bouche ou de sa plume = 입이나 펜으로. 출처 한정 원칙을 표현
++ un réflexe de juriste = 법률가의 반사 신경. 카미유가 시각을 적어 두는 이유
++ sortir pendant le thé = 차를 마시다 나가다. '두 번째 천막' 속담의 맥락
++ souhaiter que tout se passe pour le mieux = 모든 일이 잘되길 바라다. 형식적 인사에 쓰는 접속법
+
+## 한밤의 전화 — L'APPEL DE LA NUIT
+HÉLÈNE: (À l'écran, depuis Paris.) Le point de dix-sept heures est ouvert. Le dispositif décidé à dix-sept heures douze : une équipe d'appui sanitaire et de sécurité est pré-positionnée sur l'aérodrome de Tamazrit, à quatre-vingt-dix minutes du puits. À titre dissuasif seulement. ||| (화면 속 파리에서.) 17시 회의를 시작합니다. 17시 12분에 결정된 조치입니다. 의료·안전 지원팀을 타마즈리트 비행장에 사전 배치합니다. 우물에서 90분 거리고, 억지 목적일 뿐입니다.
+JULIEN: Madame Archambault, j'ai donné ma parole au chef : personne d'autre que nous trois au puits. Votre équipe est à quatre-vingt-dix minutes, mais elle existe. ||| 아르샹보 비서실장님, 저는 족장에게 우물에 우리 셋 말고는 아무도 없을 거라고 말했습니다. 그 팀은 90분 거리지만 존재하긴 하죠.
+ARCHAMBAULT: Le ministre a tranché à dix-sept heures douze. Après une demi-heure d'échanges avec le cabinet. Il veut un plan de repli. Je ne vous demande pas d'y souscrire, je vous demande de ne pas l'ébruiter. ||| 장관이 17시 12분에 결정하셨습니다. 비서실과 반 시간 협의한 끝에요. 철수·대비 계획을 원하세요. 동의하라는 게 아니라 새어 나가지 않게 해 달라는 겁니다.
+JULIEN: Je le tairai. Mais je note que ma parole et votre équipe se touchent. ||| 입 다물겠습니다. 다만 제 말과 그 팀이 서로 닿아 있다는 점은 적어 둡니다.
+ANCELIN: C'est une précaution normale, monsieur Delorme. Elle n'est qu'en cas d'échec. ||| 정상적인 대비책입니다, 들로름 씨. 실패할 경우에만 쓰는 거예요.
+JULIEN: Je sais ce qu'est une précaution. Ce que je vous demande, c'est que personne hors de cette pièce ne sache qu'elle existe. ||| 대비책이 뭔지는 압니다. 이 방 밖에서는 아무도 그게 존재한다는 걸 몰라야 한다는 거죠.
+ANCELIN: Évidemment. ||| 물론입니다.
+CAMILLE: Vingt heures quarante. Nous arrivons à Tamazrit. Le consul nous prête le salon de sa résidence pour la nuit. ||| 20시 40분. 타마즈리트에 도착했어. 영사님이 관저 응접실을 밤새 쓰게 내주셨어.
+MAILLARD: (Au téléphone, depuis Paris.) Vingt et une heures cinq. Un appel entrant pour vous, monsieur Delorme, sur la ligne satellite du chauffeur de M. Attaher. C'est lui. ||| (파리에서 전화로.) 21시 5분. 들로름 씨에게 오는 전화가 있습니다. 아타에르 씨 운전사의 위성회선입니다. 그분입니다.
+ATTAHER: Monsieur Delorme. Écoutez-moi sans parler. Ibrahim est parti. Avec les Français. Il a pris la route de l'est, vers le fond du désert, il a dit : « Je n'attends plus le puits. » ||| 들로름 씨, 말하지 말고 들으시오. 이브라힘이 떠났소. 프랑스 사람들을 데리고. 동쪽 길로, 사막 깊숙이 갔소. "더는 우물에서 기다리지 않겠소"라고 했지.
+JULIEN: Il a rompu la parole ? ||| 약속을 깨뜨렸다는 겁니까?
+ATTAHER: Il dit que c'est vous qui l'avez rompue. Il m'a rapporté qu'un homme lui a téléphoné à sept heures, un homme qui n'est ni de chez moi, ni de chez vous, qui parle un français très propre et un anglais encore plus propre. Cet homme lui a dit : « Les Français ont une équipe prête à Tamazrit pour frapper dimanche à l'aube. Leur délégué te ment. » ||| 당신이 깼다고 하오. 7시에 어떤 남자가 전화했다고 내게 말하더군. 우리 쪽도 당신들 쪽도 아닌 남자가, 아주 깨끗한 프랑스어와 더 깨끗한 영어를 쓰면서. 그가 "프랑스인들이 일요일 새벽에 칠 팀을 타마즈리트에 준비해 뒀다. 그들 대표는 네게 거짓말을 하고 있다"고 했다는 거요.
+JULIEN: Cette équipe, je l'ai apprise à dix-sept heures douze. Moi-même. Dans une voiture. Qui peut le lui avoir dit à dix-neuf heures ? ||| 그 팀 이야기는 저도 17시 12분에 차 안에서 알았습니다. 19시에 누가 그에게 말할 수 있었다는 겁니까?
+ATTAHER: Voilà ce que je me demande. Je vous croirais : vous n'avez pas le visage d'un homme qui ment. Mais Ibrahim croit l'autre : l'autre a parlé le premier, et il a dit des choses vraies. Quand un menteur dit une chose vraie, on lui croit tout le reste. ||| 나도 그게 궁금하오. 나는 당신을 믿겠소. 거짓말하는 사람 얼굴이 아니니. 하지만 이브라힘은 그 남자를 믿소. 그가 먼저 말했고 사실을 말했으니. 거짓말쟁이가 사실 하나를 말하면 나머지를 다 믿게 되지.
+JULIEN: Je comprends. Monsieur Attaher, il me faut une nuit. Une seule. Je ne vous demande pas de me croire. Je vous demande de ne rien décider avant l'aube, et de m'attendre. ||| 이해합니다. 어르신, 하룻밤만 주십시오. 믿어 달라는 게 아닙니다. 동틀 때까지 아무것도 결정하지 말고 저를 기다려 달라는 겁니다.
+ATTAHER: Je suis le garant. Je suis aussi un vieux. Les vieux attendent. L'aube est à six heures. Après, il sera trop tard. ||| 나는 보증인이오. 또한 늙은이지. 늙은이는 기다리는 법이오. 동틀 녘은 6시요. 그 뒤엔 늦소.
+JULIEN: Dites-lui ceci, de ma part, et c'est signé de ma voix : je n'ai pas menti. Je n'ai pas tout su. Et je vais savoir. ||| 제 말로 이렇게 전해 주십시오. 제 목소리로 서명합니다. 저는 거짓말하지 않았습니다. 다 알지는 못했습니다. 그리고 알아내겠습니다.
+ATTAHER: Je lui dirai. (Il coupe.) ||| 전하겠소. (그는 전화를 끊는다.)
+CAMILLE: Quelqu'un lui a dit tout cela quatre-vingt-dix minutes après la décision, par un autre canal que le tien. Julien, ça ne vient pas du Sahara. Ça vient d'ici. ||| 결정 90분 뒤에, 너와는 다른 경로로 누군가 그에게 다 말했어. 쥘리앵, 이건 사하라에서 온 게 아니야. 여기서 나온 거야.
+JULIEN: Tu as raison. Quelqu'un à l'intérieur a parlé. À qui, et par quel chemin, il me faut le savoir avant six heures. ||| 맞아. 안쪽 누군가가 말했어. 누구에게, 어떤 경로로인지 여섯 시 전에 알아야 해.
++ sans parler = 말하지 않고. 'écoutez-moi sans parler'는 절대적인 경청 요구
++ rompre la parole = 약속을 깨다. 맹세와 약속을 어기는 행위
++ trancher = 결정하다. 장관이 17시 12분에 결단했다는 뜻
++ ébruiter = 소문을 내다. 'ne pas ébruiter'는 비밀로 지키다
++ à titre dissuasif = 억지 목적으로. 사용하지 않을 것을 전제한 대비
++ quand un menteur dit une chose vraie = 거짓말쟁이가 진실 하나를 말하면. 부분적 진실이 전체 신뢰를 만드는 경고
++ un plan de repli = 후퇴·대비 계획. 실패에 대비한 대안
+
+## 누가 알았는가 — QUI SAVAIT
+JULIEN: Écran de la résidence. Je veux tout le monde sur la ligne sécurisée : Madame Archambault, Monsieur Maillard, Hélène. Le décor est simple : un fait, une heure, un trou. ||| 관저 화면으로. 보안 회선에 전원 연결해 주세요. 아르샹보 비서실장님, 마이아르 씨, 엘렌. 상황은 단순합니다. 사실 하나, 시각 하나, 구멍 하나.
+MAILLARD: Neuf personnes dans la salle de crise à dix-sept heures douze : moi, Mme Archambault, deux de ma direction, deux militaires, un médecin-chef, l'officier de liaison de la DGSE, et la secrétaire. Et vous trois, par liaison satellite, dont M. Ancelin. ||| 17시 12분 대책반 안에는 아홉 명이 있었습니다. 저, 아르샹보 비서실장, 우리 국 직원 둘, 군인 둘, 군의관 한 명, DGSE 연락장교, 그리고 비서. 거기에 위성으로 연결된 세 분, 앙슬랭 씨 포함해서요.
+HÉLÈNE: Je précise : je n'y suis pas la fuite, pour une raison simple, qui est un avantage professionnel : mon téléphone est dans une pièce blindée. Je ne suis pas autorisée à dire à Valois l'heure qu'il est. ||| 분명히 해 두죠. 제가 새는 구멍이 아닌 이유는 간단하고, 직업상 이점이기도 해요. 제 전화기는 방호실에 있어요. 저는 발루아에게 몇 시인지도 말할 권한이 없습니다.
+JULIEN: Je ne vous accuse pas, Hélène. Je constate. ||| 당신을 비난하는 게 아닙니다, 엘렌. 확인하는 겁니다.
+HÉLÈNE: Voilà qui est dit. Voici ce que j'ai : à dix-neuf heures cinq, un téléphone prépayé ouvre une communication de quatre minutes avec une ligne satellite que nous rattachons à l'entourage d'Ibrahim. Ce téléphone prépayé, à dix-huit heures cinquante-huit, avait reçu un message d'un autre numéro, qui lui-même avait reçu quelque chose six minutes plus tôt d'une boîte de messagerie d'un cabinet d'avocats de Marseille. ||| 말씀드릴게요. 19시 5분, 선불 전화 한 대가 이브라힘 주변으로 보이는 위성회선과 4분간 통화했어요. 그 선불 전화는 18시 58분에 다른 번호에서 메시지를 받았고, 그 번호는 6분 전 마르세유 법률사무소의 메일함에서 뭔가를 받았죠.
+CAMILLE: Un cabinet d'avocats de Marseille. ||| 마르세유 법률사무소요.
+HÉLÈNE: Vidal & Associés. Maître Sabine Vidal. Elle représente l'association des familles. ||| 비달 앤 어소시에이츠. 사빈 비달 변호사입니다. 가족 협회를 대리하고 있어요.
+ARCHAMBAULT: Mademoiselle Roussel. Vous avez travaillé quatre ans dans ce cabinet, je crois ? ||| 루셀 양. 그 사무소에서 4년 일하셨죠, 제가 알기로는?
+CAMILLE: Oui, madame. De vingt-quatre à vingt-eight ans. Maître Vidal a été ma patronne. Elle m'a appris à écrire un acte. ||| 네, 비서실장님. 스물네 살부터 스물여덟 살까지요. 비달 변호사님이 제 상사셨어요. 계약서 쓰는 법을 가르쳐 주셨죠.
+ARCHAMBAULT: Et vous êtes restée en contact avec elle ? ||| 지금도 연락하고 있나요?
+CAMILLE: Je lui écris pour Noël. Je l'ai appelée une fois cette année, pour un anniversaire. Je n'ai pas parlé de ma mission, madame. Je n'en ai pas le droit, et je n'en aurais pas eu l'idée. ||| 크리스마스에 편지를 써요. 올해는 생일 때문에 한 번 전화했고요. 제 임무 얘기는 하지 않았어요, 비서실장님. 그럴 권리도 없고 그럴 생각도 없었어요.
+ARCHAMBAULT: Ce n'est pas une accusation. C'est une question de procédure. Votre téléphone, cet après-midi ? ||| 비난이 아니라 절차상의 질문입니다. 오늘 오후 전화기는요?
+CAMILLE: Dans la pochette, de six heures du matin à vingt heures. Monsieur Delorme l'a vue fermer. ||| 아침 6시부터 20시까지 파우치 안에 있었습니다. 들로름 씨가 닫히는 걸 봤고요.
+JULIEN: Je l'ai vue fermer, et rouvrir à vingt heures dix à Tamazrit. Je le dis pour le procès-verbal. Camille n'a pas eu un téléphone ouvert pendant onze heures. ||| 닫히는 걸 봤고 타마즈리트에서 20시 10분에 열리는 것도 봤습니다. 조서에 남기려고 말씀드립니다. 카미유는 열한 시간 동안 열린 전화기가 없었습니다.
+ARCHAMBAULT: Je note. Je ne m'étonne pas : mais je devais poser la question. ||| 기록하겠습니다. 놀랍진 않지만, 물어야만 했습니다.
+CAMILLE: Je comprends, madame. Et vous savez ce que je comprends aussi ? C'est que j'ai eu trente secondes de honte, et que je les ai méritées. Quand on a été dans un cabinet, on sait qu'un nom suffit à salir. ||| 이해합니다, 비서실장님. 또 이해하는 게 있어요. 30초 동안 부끄러웠고 그럴 만했다는 거예요. 사무소에 있어 본 사람은 이름 하나로 더럽혀질 수 있다는 걸 알거든요.
+JULIEN: Camille, tu n'as rien à mériter. Moi, je suis en train de chercher dans une pièce où la lumière est mal faite. Quand on cherche, on ne doit pas confondre ce qui est proche et ce qui est coupable. ||| 카미유, 넌 마땅히 받을 게 없어. 나는 조명이 나쁜 방에서 뭔가를 찾고 있는 거고. 찾는 동안에는 가까운 것과 유죄인 것을 혼동하면 안 돼.
+MAILLARD: Alors qui, à votre avis ? ||| 그럼 누구라고 보십니까?
+JULIEN: Je n'ai pas de nom. J'ai une question : pourquoi la messagerie de Maître Vidal ? Elle n'est pas dans le cercle des neuf. Quelqu'un lui a écrit. Et ce quelqu'un lui a écrit avant dix-neuf heures. ||| 이름은 없습니다. 질문은 있죠. 왜 하필 비달 변호사의 메일함입니까? 그분은 아홉 명 안에 없어요. 누군가 그분에게 썼고, 19시 전에 썼습니다.
+CAMILLE: Je l'appelle. Elle me répondra. Je sais à quelle heure elle dîne et ce qu'elle mange. ||| 내가 전화할게. 대답해 주실 거야. 몇 시에 저녁을 드시고 뭘 드시는지도 아니까.
+JULIEN: Mets le haut-parleur. Je veux qu'on entende, tous les quatre. ||| 스피커로 해. 우리 넷 다 들을 수 있게.
+VIDAL: Camille ? Quelle surprise. Tu es en mission, il paraît. Je ne vais pas te poser de questions. ||| 카미유? 놀랍네. 임무 중이라고 들었어. 질문은 하지 않을게.
+CAMILLE: Sabine, j'ai une question, moi. Cet après-midi, tu as reçu un message du ministère à propos de l'affaire des soignants ? ||| 사빈, 내가 질문이 있어요. 오늘 오후에 의료진 건으로 외무부에서 메시지를 받으셨어요?
+VIDAL: Oui, une note d'information pour les familles, sur ma boîte, un peu avant dix-sept heures. Une note aimable, quelques lignes. Je l'ai transmise au comité de l'association, comme c'est mon devoir. ||| 네, 17시 조금 전에 내 메일함으로 가족 안내문이 왔어. 정중하고 짧은 글이었지. 협회 위원회에 전달했어. 내 의무니까.
+JULIEN: Madame, à qui l'avez-vous transmise ? ||| 변호사님, 누구에게 전달하셨습니까?
+VIDAL: À quatre personnes du comité, et au conseil en communication que l'association a engagé jeudi. Un monsieur très compétent. M. Reeve. Colin Reeve. Il nous a été recommandé par un généreux donateur. ||| 위원회 네 분과, 협회가 목요일에 고용한 소통 자문에게요. 아주 유능한 분이에요. 리브 씨. 콜랭 리브. 후한 기부자가 추천해 주셨죠.
+CAMILLE: Reeve. Sabine… tu ne le connaissais pas avant jeudi ? ||| 리브라고요. 사빈, 목요일 전엔 몰랐죠?
+VIDAL: Non. Pourquoi ? Qu'est-ce qui se passe, Camille ? ||| 몰랐지. 왜? 무슨 일이야, 카미유?
+JULIEN: Il se passe que vous avez été un canal sans le savoir, Maître. Je vous demande seulement une chose : n'effacez rien. Ni le message, ni l'heure de réception. Nous vous ferons demander la copie dans les formes. ||| 변호사님은 자신도 모르게 통로가 되셨습니다. 한 가지만 부탁드립니다. 아무것도 지우지 마십시오. 메시지도 수신 시각도요. 절차에 맞게 사본을 요청하겠습니다.
+VIDAL: Je n'efface jamais rien. C'est ce que j'ai appris à Camille. Je vous envoie tout de suite les en-têtes. ||| 난 절대 아무것도 안 지워요. 카미유에게 가르쳐 준 거죠. 지금 바로 헤더를 보내 드릴게요.
+CAMILLE: Merci, Sabine. Je te rappelle. ||| 고마워요, 사빈. 다시 전화할게요.
++ un canal = 통로. 정보가 오가는 경로를 가리키는 말
++ pour le procès-verbal = 조서에 남기려고. 사실을 공식 기록에 올리는 화법
++ ce n'est pas une accusation, c'est une question de procédure = 비난이 아니라 절차상의 질문이다. 의심을 완곡하게 표현하는 관용구
++ confondre… et… = ~와 ~를 혼동하다. 'proche'와 'coupable'을 구별하라는 쥘리앵의 원칙
++ un conseil en communication = 소통 자문. 위기 시 홍보를 맡는 전문가
++ n'effacer rien = 아무것도 지우지 않다. 'ne… rien'. 기록 보존의 원칙
++ dans les formes = 절차에 맞게. 법적 요청을 형식을 갖춰 한다는 뜻

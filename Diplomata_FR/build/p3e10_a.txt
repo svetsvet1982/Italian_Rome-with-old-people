@@ -1,0 +1,105 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 10
+@title L'otage du Ténéré
+@ko 테네레의 인질
+@setting 파리 외무부 위기 대책반(금요일 7시) → 사하라 방면 비행기 안(금요일 오후) → 허구의 지방 도시 타마즈리트의 숙소(금요일 밤) → 부족장 천막(토요일 새벽~정오) → 천막 밖 사륜구동차 안과 모래언덕(토요일 정오)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 전화로 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 위성전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast MAILLARD | 제라르 마이아르, 외무부 위기 대책반 책임자(허구의 인물), 55세
+@cast ANCELIN | 티보 앙슬랭, 장관 비서실 아프리카 담당 보좌관(허구의 인물), 38세. 임무에 동행
+@cast ATTAHER | 아타에르 아그 티나리, 투아레그 부족 연합의 아메노칼(전통 부족장), 71세(허구의 인물)
+@cast IBRAHIM | 이브라힘, 아타에르의 조카, 29세(허구의 인물). 거의 말이 없다
+@note 3부 10화(사건 D의 시작)입니다. 수요일 밤, 사하라 남쪽 테네레 사막 가장자리의 작은 진료소(허구의 «탱살와 진료소»)에서 프랑스 의사 위고 마르셰와 간호사 클레망스 롤랑이 납치되었습니다. 아무도 범행을 주장하지 않았고, 대신 한 노인이 프랑스 영사관에 «말을 전해 주겠다»고 청했습니다. 투아레그 부족 연합의 아메노칼(전통 부족장) 아타에르 아그 티나리입니다. 해법의 순간은 천막에서의 차 시중 순서입니다. 투아레그의 차는 보통 세 잔을 차례로 내는데, 아타에르는 귀한 손님인 쥘리앵보다 먼저, 문 곁에 앉은 말없는 청년에게 첫 잔을 줍니다. 쥘리앵은 이 순서에서 «중재자는 중립이 아니다. 청년 이브라힘이 이 일의 주인이고 그는 족장의 조카다»라는 사실을 읽어냅니다. 족장은 말로 할 수 없는 것을 잔의 순서로 말한 것입니다. 그래서 쥘리앵은 아타에르에게 «판관(juge)이 아니라 보증인(garant)이 되어 달라»고 제안합니다. 역사 배경은 아미앵의 판결(Mise d'Amiens, 1264년 1월)입니다. 영국왕 헨리 3세와 귀족들은 분쟁을 프랑스왕 생 루이(루이 9세)의 중재에 맡기기로 미리 맹세했지만, 루이가 왕의 편에 선 판결을 내리자 귀족들은 따르지 않았고 같은 해 전쟁이 터졌습니다(발쿠르가 일반화해 말합니다). 교훈은 «중재자의 권위는 지혜가 아니라 사전의 맹세에서 나온다»입니다. 어휘는 un otage, une rançon, un garant, la médiation / l'arbitrage / les bons offices의 구별, 접속법(avant que, pourvu que, bien que)에 주목하세요. 발루아/리브의 직접 개입은 이 화에서는 확정되지 않습니다.
+@next 3-11 «Le conseiller»: 천막에서 얻은 약속의 시각표가 이튿날 새벽 이전에 새어 나간다. 이메일 한 통의 전송 시각이 회의 시각보다 앞선다. 누가 발루아에게 길을 열어 주었을까.
+
+## 위기 대책반 — LA CELLULE DE CRISE
+MAILLARD: Sept heures. Je reprends pour ceux qui sont arrivés en cours de route. Mercredi soir, vers vingt-deux heures, quatre hommes armés, deux pick-up, un dispensaire à trois jours de piste du bitume : Tin-Salwa. Le docteur Hugo Marchais, quarante-quatre ans, et l'infirmière Clémence Rolland, trente-cinq ans, ont été emmenés. ||| 7시입니다. 중간에 오신 분들을 위해 다시 정리하겠습니다. 수요일 밤 22시경, 무장한 남자 넷에 픽업트럭 두 대. 포장도로에서 사흘 걸리는 진료소, 탱살와입니다. 위고 마르셰 의사(44)와 클레망스 롤랑 간호사(35)가 끌려갔습니다.
+ARCHAMBAULT: Revendication ? ||| 범행 주장은?
+MAILLARD: Aucune. Pas de vidéo, pas de message, pas de demande. Le gardien de nuit, légèrement blessé, dit qu'ils parlaient entre eux dans la langue du désert et qu'ils n'ont rien volé. Pas un comprimé. ||| 없습니다. 영상도 메시지도 요구도 없어요. 가볍게 다친 야간 경비 말로는 사막 말로 자기들끼리 얘기했고, 아무것도 훔치지 않았답니다. 알약 하나도요.
+HÉLÈNE: Ce qui est déjà une information. Quand on enlève des soignants pour de l'argent, on prend les médicaments, on prend le véhicule, on prend le générateur. Ici, on a pris deux personnes et on a laissé tout le reste. ||| 그것만으로도 정보예요. 돈 때문에 의료진을 납치하면 약도, 차도, 발전기도 가져가죠. 여기선 사람 둘만 데려가고 나머지는 두고 갔어요.
+JULIEN: Quelqu'un voulait des personnes, pas du matériel. Et personne ne dit encore ce qu'il veut en échange. ||| 누군가는 물건이 아니라 사람을 원했다는 거군요. 그리고 아직 아무도 대가로 뭘 원하는지 말하지 않았고요.
+MAILLARD: Hier à dix-neuf heures, notre consul à Tamazrit a reçu une visite. Un vieil homme en turban indigo, accompagné d'un seul chauffeur. Il s'appelle Attaher ag Tinari. Il dit : « J'ai entendu qu'on cherche des Français. Je peux porter des paroles. » ||| 어제 19시, 타마즈리트의 우리 영사가 방문을 받았습니다. 남색 터번을 쓴 노인이 운전사 한 명만 데리고 왔어요. 이름은 아타에르 아그 티나리. "프랑스인들을 찾는다고 들었소. 말을 전해 줄 수 있소"라고 했답니다.
+CAMILLE: J'ai passé la nuit dessus. Attaher ag Tinari est amenokal, c'est-à-dire chef traditionnel d'une confédération de tentes, mille quatre cents familles environ. Soixante et onze ans. Il arbitre depuis trente ans les conflits de puits et de pâturages, et les autorités du pays comme les gens du désert le respectent. ||| 밤새 조사했어. 아타에르 아그 티나리는 아메노칼, 그러니까 천막 연합의 전통 부족장이야. 대략 천4백 가구. 일흔한 살이고, 30년 동안 우물과 목초지 분쟁을 중재해 왔어. 국가 당국도 사막 사람들도 그를 존중해.
+JULIEN: Respecté des deux côtés, donc utile. Et pour la même raison, suspect. Quelqu'un qui est écouté par tout le monde est rarement innocent de tout le monde. ||| 양쪽에서 존중받으니 쓸모가 있겠지. 같은 이유로 의심스럽기도 하고. 모두에게 귀 기울여지는 사람이 모두에게 결백한 경우는 드물거든.
+HÉLÈNE: Je n'ai rien de précis sur lui. Une famille nombreuse, des frères, des neveux, des cousins : je n'ai pas les noms. Je note, c'est tout. ||| 그에 대해 구체적인 건 없어요. 대가족에 형제, 조카, 사촌까지 있지만 이름은 몰라요. 기록해 둘 뿐입니다.
+ARCHAMBAULT: Monsieur Delorme, je vous résume la position de la présidence, et je vous demande de la répéter en entier avant de poser un pied dans cet avion : ni rançon, ni raid, ni humiliation. ||| 들로름 씨, 대통령실의 입장을 요약하겠습니다. 비행기에 발을 올리기 전에 한 줄도 빼지 말고 되풀이해 주세요. 몸값도, 급습도, 굴욕도 안 됩니다.
+JULIEN: Ni rançon, ni raid, ni humiliation. Trois négations, et pas une seule affirmation. Madame, je vais devoir chercher dans l'espace entre les trois. ||| 몸값도, 급습도, 굴욕도 안 된다. 부정이 셋이고 긍정은 하나도 없군요. 그 셋 사이의 빈 공간에서 길을 찾아야겠습니다.
+ARCHAMBAULT: C'est ce qu'on attend de vous. Et comme pour Bruxelles, une condition : un rapport écrit après chaque contact. Pour cela, Thibault Ancelin vous accompagne. Il est conseiller Afrique au cabinet du ministre. ||| 그게 기대하는 바예요. 그리고 브뤼셀 때처럼 조건이 하나 있습니다. 접촉마다 서면 보고서요. 그 일로 티보 앙슬랭이 동행합니다. 장관 비서실 아프리카 담당 보좌관이에요.
+ANCELIN: Monsieur Delorme, c'est un honneur. J'ai lu vos « faits constatés » de Bruxelles : quatre pages sans un adjectif. Je tâcherai de ne pas vous gêner. ||| 들로름 씨, 영광입니다. 브뤼셀 건 "확인된 사실" 읽었습니다. 형용사 하나 없는 네 쪽이더군요. 방해되지 않도록 하겠습니다.
+JULIEN: Vous ne me gênerez pas si vous respectez une règle simple : dans une négociation, les téléphones restent à la porte, dans une pochette qui bloque les ondes. ||| 간단한 규칙을 지키면 방해되지 않을 겁니다. 협상장에서는 전화기를 문 앞에 두는 겁니다. 전파를 막는 파우치 안에요.
+ANCELIN: Je comprends, et je m'y plierai, sauf un point. Je suis d'astreinte pour le ministre, vingt-quatre heures sur vingt-quatre. Mme Archambault m'a donné une dérogation : je garde mon téléphone sur moi, éteint ou presque. ||| 이해하고 따르겠습니다. 한 가지만 빼고요. 저는 장관 대기 당직이라 24시간 연락이 닿아야 합니다. 아르샹보 비서실장님이 예외를 허락하셨어요. 전화기는 몸에 지니되 거의 꺼 둔 상태로요.
+JULIEN: « Éteint ou presque ». C'est un adverbe qui m'inquiète toujours. ||| "꺼 둔 상태 아니면 거의"라. 그 부사는 늘 마음에 걸리는군요.
+ARCHAMBAULT: C'est une consigne du ministre, pas de moi. Prenez-la comme une donnée. ||| 장관의 지시지 제 지시가 아닙니다. 주어진 조건으로 받아들이세요.
+JULIEN: Je la prends comme une donnée. Je la note aussi. ||| 조건으로 받아들이죠. 기록도 해 두고요.
+CAMILLE: Je voudrais poser une question de vocabulaire, parce que tout part de là. Quand nous parlons d'« otages », nous disons une chose très précise : des personnes retenues pour obtenir quelque chose. Mais personne n'a encore dit ce qu'on veut. ||| 어휘에 관한 질문을 하나 하고 싶어요. 모든 게 거기서 시작하니까. 우리가 '인질'이라고 말할 때는 아주 정확한 뜻이 있어요. 무언가를 얻으려고 붙잡힌 사람들이라는 거죠. 그런데 아직 아무도 뭘 원하는지 말하지 않았잖아요.
+JULIEN: Excellente remarque. Tant qu'on ne sait pas ce qu'on veut d'elles, ces deux personnes ne sont pas encore des otages au sens strict. Elles sont des absentes. Et on ne négocie pas avec des absents. ||| 훌륭한 지적이야. 그들에게서 무엇을 원하는지 모르는 한, 이 두 사람은 엄밀한 의미에서 아직 인질이 아니야. 부재자들이지. 그리고 부재자와는 협상할 수 없어.
+MAILLARD: Alors vous cherchez quelqu'un qui sache ce qu'on veut. ||| 그럼 원하는 바를 아는 사람을 찾으시는 거군요.
+JULIEN: Je cherche quelqu'un qui sache qui le veut. C'est un autre problème, et c'est le bon. Monsieur Maillard, quelles preuves de vie ? ||| 저는 누가 그걸 원하는지 아는 사람을 찾습니다. 다른 문제고, 제대로 된 문제죠. 마이아르 씨, 생존 증거는요?
+MAILLARD: Aucune. Nous exigerons une preuve de vie avant tout le reste. Une photographie avec le journal du jour, ou mieux, une question dont seule la victime connaît la réponse. ||| 없습니다. 무엇보다 먼저 생존 증거를 요구할 겁니다. 그날 신문을 든 사진이나, 더 좋게는 당사자만 답을 아는 질문이죠.
+JULIEN: Une question. Le mari de Clémence Rolland ? Les parents d'Hugo Marchais ? ||| 질문이라. 클레망스 롤랑의 남편은요? 위고 마르셰의 부모님은요?
+MAILLARD: La mère de Marchais est joignable, l'infirmière est veuve. Sa mère nous a donné une phrase : « Demandez-lui comment s'appelait son premier âne. » ||| 마르셰의 어머니와는 연락이 닿고, 간호사는 미망인입니다. 그분 어머니가 문장을 하나 주셨어요. "첫 번째 당나귀 이름이 뭐였는지 물어보세요."
+CAMILLE: Un âne ? ||| 당나귀요?
+MAILLARD: Quand elle avait huit ans, au Maroc. Personne d'autre au monde ne le sait. Le nom de l'âne servira de mot de passe. ||| 여덟 살 때, 모로코에서요. 세상에 아무도 모릅니다. 당나귀 이름이 암호가 될 겁니다.
+JULIEN: Je préfère cela à un cachet officiel. Un nom d'âne ne se falsifie pas. ||| 공식 도장보다 훨씬 낫네요. 당나귀 이름은 위조할 수 없으니까.
+HÉLÈNE: Monsieur Delorme, un mot en aparté ? Compteur : jour quinze. Cette fois, je ne vous facture rien. Je vous préviens seulement : dans le Ténéré, tout se sait avant d'être dit. Ne dites rien que vous ne voudriez pas voir revenir. ||| 들로름 씨, 잠깐 따로요? 계수기는 15일째. 이번엔 청구하지 않겠어요. 경고만 할게요. 테네레에서는 말하기도 전에 다 알려집니다. 되돌아오는 걸 원치 않는 말은 하지 마세요.
+JULIEN: Je ne dirai que ce qui doit revenir. Camille, tu as une heure pour la valise et dix minutes pour appeler Léa. Le vol part à midi. ||| 돌아와야 할 말만 하죠. 카미유, 짐 싸는 데 한 시간, 레아에게 전화하는 데 십 분이야. 비행기는 정오 출발이고.
+CAMILLE: Je viens avec vous ? ||| 나도 가는 거야?
+JULIEN: Pour comprendre un texte, il faut la personne qui lit les mots. Pour comprendre un homme, il faut celle qui lit les gestes. J'ai besoin des deux. ||| 텍스트를 이해하려면 단어를 읽는 사람이 필요하고, 사람을 이해하려면 몸짓을 읽는 사람이 필요해. 둘 다 있어야 해.
++ avoir quelqu'un d'astreinte = 대기 당직이다. 앙슬랭이 전화기 예외를 요구하는 근거
++ éteint ou presque = 꺼 둔 상태 아니면 거의. 쥘리앵이 '거의'라는 부사에 경계심을 보이는 표현
++ ni rançon, ni raid, ni humiliation = 몸값도 급습도 굴욕도 없다. 'ne… ni… ni' 병렬 부정
++ une preuve de vie = 생존 증거. 인질 협상의 첫 단계
++ au sens strict = 엄밀한 의미에서. 정의를 따지는 법학적 화법
++ porter des paroles = 말을 전하다. 중재자의 전통적 역할
++ je note, c'est tout = 기록해 둘 뿐이다. 엘렌이 근거 없는 추측을 선 긋는 말
+
+## 비행기 — DANS L'AVION
+CAMILLE: Trois heures de vol jusqu'à la capitale, puis une escale, et une nuit à Tamazrit. Je viens de relire ma note sur l'amenokal. Son titre veut dire littéralement « maître de la terre ». Mais il n'a pas de terre. Il a des relations. ||| 수도까지 비행 세 시간, 경유 한 번, 그리고 타마즈리트에서 하룻밤이야. 방금 아메노칼 메모를 다시 읽었어. 이 칭호는 문자 그대로 '땅의 주인'이란 뜻인데, 땅은 없고 관계만 있어.
+JULIEN: Un chef qui n'a que des liens. Dans mon métier, c'est la meilleure définition de l'autorité. Tu sais d'où vient le mot « Ténéré » ? ||| 관계만 가진 부족장이라. 내 직업에서는 그게 권위에 대한 최고의 정의야. '테네레'라는 말이 어디서 왔는지 알아?
+CAMILLE: Du tamasheq. Ça veut dire « le désert » tout simplement. Ou plutôt, « là où il n'y a rien ». ||| 타마샤크어야. 그냥 '사막'이라는 뜻이지. 아니면 '아무것도 없는 곳'이라고 해야 하나.
+JULIEN: « Là où il n'y a rien. » Et on y a perdu deux personnes. Camille, je déteste les lieux qui se définissent par un manque. On ne sait jamais ce qu'on va y trouver. ||| "아무것도 없는 곳"이라. 거기서 사람 둘을 잃어버렸군. 카미유, 나는 결핍으로 정의되는 장소가 싫어. 거기서 뭘 찾게 될지 알 수 없거든.
+CAMILLE: Léa est en ligne. Je te passe le téléphone satellite, il y a un retard de deux secondes. ||| 레아가 연결됐어. 위성전화 넘길게. 이 초쯤 지연이 있어.
+LÉA: Papa ? Tu m'entends ? Ça fait écho. Tu pars encore. ||| 아빠? 들려요? 에코가 있어요. 또 가시네요.
+JULIEN: Je pars pour trois jours, peut-être quatre. Je te promets de rentrer avant ton oral de philosophie. ||| 사흘, 어쩌면 나흘. 철학 구술시험 전에는 돌아온다고 약속할게.
+LÉA: Ne promets pas. Dis-moi plutôt ce que tu vas faire là-bas. Camille m'a envoyé un message : un chef du désert veut « porter des paroles ». ||| 약속하지 마요. 거기서 뭘 할 건지 말해 줘요. 카미유가 문자 보냈어요. 사막의 부족장이 "말을 전해 주겠다"고 했다고.
+JULIEN: Il se propose comme intermédiaire. Il y a au moins trois mots pour cela, et je n'ai pas encore choisi le bon : la médiation, l'arbitrage, les bons offices. ||| 중개자로 나서겠다는 거야. 그걸 가리키는 말이 적어도 세 개 있는데, 아직 맞는 걸 못 골랐어. 중재, 중재 판정, 주선.
+LÉA: Alors c'est une question de définition. Dis-moi la différence, je note sur mon cahier. ||| 그럼 개념 정의의 문제네요. 차이를 말해 줘요, 공책에 적을게요.
+JULIEN: D'accord, mais attention, c'est un peu plus subtil que ça. Celui qui offre ses bons offices transmet : il porte le message d'une main à l'autre sans y toucher. Le médiateur propose : il avance une solution que personne n'est obligé de suivre. L'arbitre tranche : il rend une décision, et les parties ont promis de s'y soumettre. ||| 알겠다, 그런데 그보다 조금 더 미묘해. 주선하는 사람은 전달해. 메시지를 손대지 않고 한 손에서 다른 손으로 옮기지. 중재자는 제안해. 아무도 따를 의무가 없는 해법을 내밀지. 판정자는 결정해. 당사자들이 그 결정에 따르겠다고 미리 약속했고.
+LÉA: Donc la différence, c'est la promesse. Dans l'arbitrage, on promet avant. ||| 그러니까 차이는 약속이네요. 중재 판정에서는 먼저 약속하는 거고요.
+JULIEN: Tu viens de faire en dix secondes ce que mes collègues font en un colloque. ||| 십 초 만에 내 동료들이 학술대회 한 번 걸려 하는 일을 해냈구나.
+LÉA: Et celui qui sert le thé, dans ta tente ? C'est quoi, dans ta liste ? ||| 그럼 천막에서 차를 따라 주는 사람은요? 아빠 목록에서는 뭐예요?
+JULIEN: Je ne sais pas, Léa. Je ne suis pas sûr qu'il y ait un mot pour lui. Peut-être celui qui décide qui parle en premier. ||| 모르겠다, 레아. 그 사람을 가리키는 말이 있는지도 모르겠어. 어쩌면 누가 먼저 말할지를 정하는 사람일지도.
+LÉA: Alors regarde le thé. Les gens disent des choses avec les verres qu'ils n'osent pas dire avec la bouche. C'est Mme Berthier qui nous l'a dit en cours : un geste est un énoncé. ||| 그럼 차를 잘 봐요. 사람들은 입으로 못 하는 말을 잔으로 해요. 베르티에 선생님이 수업 시간에 그러셨어요. 몸짓도 하나의 진술이라고.
+JULIEN: Je regarderai les verres. Dors bien, ma grande. Révise ton chapitre sur la justice. ||| 잔을 볼게. 잘 자라, 우리 딸. 정의 단원 복습하고.
+CAMILLE: J'ai le vieux téléphone de l'ambassade pour la liaison avec Valcourt. Il décroche, le voilà. ||| 발쿠르 선생님과 연락할 대사관 구형 전화기를 받아 왔어. 받으셨네, 연결됐어.
+VALCOURT: Julien, je suis au Chiado, devant un thé, moi aussi, ce qui est de bon augure. On me dit que vous allez voir un chef du désert. Soyez prudent avec les chefs : ils ont tous un point commun, ils ne sont jamais seuls. ||| 쥘리앵, 나는 시아두에서 차 앞에 앉아 있네. 나도 차라니 징조가 좋군. 사막의 부족장을 만나러 간다고 들었네. 부족장들을 조심하게. 공통점이 하나 있거든. 절대 혼자가 아니라는 것.
+JULIEN: Il se propose comme médiateur. J'aimerais savoir si un médiateur peut avoir une autorité réelle sur les gens qui détiennent nos concitoyens. ||| 중재자를 자처합니다. 중재자가 우리 국민을 붙잡은 자들에게 실질적인 권위를 가질 수 있는지 알고 싶어요.
+VALCOURT: Je vais vous raconter Amiens. Janvier 1264. Le roi d'Angleterre, Henri III, est en guerre froide avec ses barons, qui lui ont imposé des règles de gouvernement, les Provisions d'Oxford. Ils décident de s'en remettre à un arbitre. Et ils choisissent Louis IX, notre Saint Louis. ||| 아미앵 이야기를 들려주지. 1264년 1월. 영국왕 헨리 3세는 귀족들과 냉전 중이었어. 귀족들이 옥스퍼드 조항이라는 통치 규칙을 강요했거든. 그래서 중재자에게 맡기기로 하고, 우리 생 루이, 루이 9세를 골랐네.
+JULIEN: Un roi étranger, comme arbitre. Pourquoi lui ? ||| 외국의 왕을 중재자로요. 왜 그였죠?
+VALCOURT: Parce qu'il était pieux, réputé juste, et parce qu'on lui avait déjà confié d'autres querelles, jusqu'en Flandre. Et surtout, les deux camps avaient juré à l'avance d'accepter sa sentence. Retenez bien cela : le serment précédait le jugement. ||| 독실하고 공정하다는 평판이 있었고, 이미 플랑드르까지 가서 다른 분쟁들을 맡았던 사람이거든. 무엇보다 양쪽이 그의 판결을 받아들이겠다고 미리 맹세했네. 이걸 기억하게. 맹세가 판결보다 앞섰다는 걸.
+JULIEN: Et il a tranché. ||| 그리고 그가 판결을 내렸군요.
+VALCOURT: Il a tranché pour le roi : il a annulé les Provisions. Les barons ont refusé de s'incliner, parce que ce roi leur semblait trop proche de son collègue royal. La guerre a repris en quelques mois, et, à Lewes, Henri III a même été fait prisonnier. Louis IX était intègre. On l'a cru du côté d'un roi. Cela a suffi. ||| 왕을 위해 판결했어. 옥스퍼드 조항을 무효로 했지. 귀족들은 따르기를 거부했네. 이 왕이 자기 동료 왕에게 너무 가까워 보였으니까. 몇 달 만에 전쟁이 다시 터졌고, 루이스에서는 헨리 3세가 포로가 되기까지 했지. 루이 9세는 청렴했지만 한 왕의 편이라고 믿어졌고, 그거면 충분했네.
+JULIEN: Donc l'autorité d'un arbitre ne vient pas de sa sagesse. ||| 그러니까 중재자의 권위는 지혜에서 나오지 않는군요.
+VALCOURT: Elle vient de deux choses. D'abord, ce que les parties ont juré avant de l'entendre. Ensuite, ce qu'elles croient qu'il est : sans parti. Perdez l'un ou l'autre, et il ne reste qu'un vieil homme avec un avis. ||| 두 가지에서 나오네. 하나, 당사자들이 그의 말을 듣기 전에 맹세한 것. 둘, 그가 편이 없다고 그들이 믿는 것. 둘 중 하나라도 잃으면 의견 가진 노인 한 명만 남지.
+CAMILLE: Et dans le désert ? Qui a juré à qui ? ||| 사막에서는요? 누가 누구에게 맹세했죠?
+VALCOURT: Cherchez qui a juré, mademoiselle, pas qui est sage. Les sages abondent, ce sont les serments qui manquent. ||| 누가 현명한지 말고 누가 맹세했는지 찾아보게, 아가씨. 현명한 사람은 넘쳐 나는데 부족한 건 맹세라네.
+JULIEN: Cherchez qui a juré. C'est noté. Dernière question, monsieur l'ambassadeur : comment sait-on qu'un médiateur est de parti ? ||| 누가 맹세했는지 찾으라. 적어 두죠. 마지막 질문입니다, 대사님. 중재자가 어느 한 편이라는 건 어떻게 알 수 있습니까?
+VALCOURT: Il y a toujours un signe, et il n'est jamais dans ses paroles. Cherchez-le dans ce qu'il fait avant de parler. Dans ma carrière, c'était l'ordre des chaises. Je ne connais pas votre désert, Julien. À vous de trouver l'équivalent. ||| 늘 표시가 있네. 그리고 말 속에는 절대 없지. 말하기 전에 그가 하는 일에서 찾게. 내 경력에서는 의자 순서였지. 자네의 사막은 내가 모르네, 쥘리앵. 그에 해당하는 걸 직접 찾아야 하네.
+JULIEN: Merci, monsieur l'ambassadeur. Je vous rappelle quand j'aurai quelque chose à vous raconter. ||| 감사합니다, 대사님. 들려드릴 얘기가 생기면 다시 전화드리죠.
+VALCOURT: Ne me rappelez pas : écrivez-le-moi. Une histoire n'est solide que lorsqu'on a eu le temps de la mettre sur papier. Bon voyage. ||| 전화하지 말고 글로 써 보내게. 이야기는 종이에 옮길 시간이 있어야 단단해지네. 잘 다녀오게.
+CAMILLE: « L'ordre des chaises. » Dans une tente, il n'y a pas de chaises. ||| "의자 순서"라. 천막에는 의자가 없는데.
+JULIEN: Il y a des coussins, des nattes, des verres. Quelque chose sera mis dans un ordre. À nous de le voir avant d'être vus. ||| 방석도 있고 돗자리도 있고 잔도 있어. 뭔가가 어떤 순서로 놓일 거야. 우리가 눈에 띄기 전에 먼저 알아봐야지.
++ s'en remettre à = ~에게 맡기다. 분쟁을 중재자에게 일임할 때 쓰는 표현
++ trancher = 판결하다, 결단하다. 'trancher en faveur de'는 ~에게 유리하게 판정하다
++ s'incliner = 승복하다, 고개를 숙이다. 판결에 따른다는 뜻
++ les bons offices = 주선. 당사자 사이의 메시지를 전하는 가장 얇은 중재 형태
++ être de parti = 한 편이다. 'sans parti'는 편이 없는, 공정한
++ une question de définition = 개념 정의의 문제. 레아의 말버릇 변형
++ un énoncé = 진술. 말뿐 아니라 몸짓도 의미를 담는다는 철학적 용법
