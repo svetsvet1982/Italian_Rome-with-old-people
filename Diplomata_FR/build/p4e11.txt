@@ -1,0 +1,256 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 11
+@title Fachoda
+@ko 파쇼다
+@setting 포르오뱅 항만 사무소(토요일 새벽 5시 50분, J-2) → 고등판무관청 상황실 → 전화로 리스본의 발쿠르 → 프랑스 초계함 «Le Fulmar» 함교와 VHF 12번 채널 → 연락선 «Marguerite»와 부두 → 고등판무관청 테라스(밤)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast MARCHAND | 에티엔 마르샹, 공화국 고등판무관, 58세(허구). 파쇼다의 마르샹과는 이름만 같은 동명이인
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast RIVIÈRE | 아르망 리비에르, 어업위원회 위원장, 65세
+@cast MATHIS | 마티스 리비에르, 어선 선장, 35세. 무전으로 등장
+@cast KERHERVÉ | 얀 케르에르베, 프랑스 초계함 «Le Fulmar» 함장(소령급), 41세(허구)
+@cast KIBWE | 아마니 키브웨, 말라비 해군 초계함 «Kisiwa» 함장, 48세(허구). 무전으로 등장
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파이지만 정직한 상대
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 전화로 등장
+@cast MERCADIER | 가스파르 메르카디에, 해외영토부 비서실장, 46세. 전화로 등장
+@cast BAVOUX | 에스텔 바부, «르 쿠리에 드 라르시펠» 편집장, 54세(허구)
+@cast SYLVAINE | 실벤 도를리스, 포르오뱅의 통역·번역가, 38세. 크레올어로 경보를 읽는다
+@cast PINEL | 도로테 피넬, 포르오뱅 중학교 영어 교사(허구). 영어로 경보를 읽는다
+@cast SAINTE-ROSE | 오딜 생트로즈, 아르시펠 동맹 대표(자치파), 57세(허구). 쁘띠트쇠르 부두에서
+@cast PASSEUR | «Marguerite»호 선원
+@cast CAPITAINE | 포르오뱅 항만장(허구). 스피커로 항행 경보를 읽는다
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 전화로 등장
+@note 토요일 새벽, 투표 전날(J-2)입니다. 새벽 5시 2분에 말라비 해군 초계함 «Kisiwa»가 군도 사이의 «쁘띠트쇠르 수로»로 들어와 5시 20분에 닻을 내렸습니다. 통항은 멈추지 않고 이어져야 하는 것이어서(유엔 해양법 협약 제18조: 정선과 투묘는 통상 항해에 부수되거나 불가항력·조난 구조 때만 인정), 닻을 내렸다면 의도가 있다는 뜻입니다. 그런데 칸다라 외교장관도 몰랐던 일입니다. 어젯밤 쥘리앵이 15조를 서명받은 뒤에 출항 소식을 받았을 정도입니다. 오늘 14시에 투표함과 개표 요원을 싣고 쁘띠트쇠르로 가는 연락선이 바로 이 수로를 지납니다. 프랑스 군함이 호위하면 «총구 아래의 투표»가 되고, 말라비 군함이 막으면 «봉쇄»가 됩니다. 어느 쪽도 한 걸음 물러서는 모습이 되어선 안 됩니다. 지휘관은 둘 다 명령을 받았고, 둘 다 물러서라는 명령은 받지 않았습니다. 역사 배경은 1898년 파쇼다입니다. 장 바티스트 마르샹 소령이 이끈 콩고-나일 원정대는 2년 넘는 행군 끝에 1898년 7월 10일 나일 강변 파쇼다에 도착했습니다. 2달 뒤인 9월 중순 키치너 장군이 옴두르만 승리 직후 포함들과 훨씬 많은 병력을 이끌고 도착했고, 두 사람은 정중하게 마주 앉았습니다(샴페인을 나눴다는 이야기가 전해지나 세부는 헤지). 키치너는 영국이 아니라 이집트 총독의 이름으로 국기를 올렸고, 결정은 두 수도에 넘겨졌습니다. 11월 초 프랑스 정부는 철수를 결정했고(외무장관 델카세), 마르샹은 12월 11일 파쇼다를 떠났으며, 1899년 3월 영불 협정으로 경계가 정해졌습니다. 이 위기는 1904년 앙탕트 코르디알로 이어집니다. 교훈은 이렇습니다. 지휘관들은 예의를 지켰고 수도들이 값을 흥정했으며, 후퇴가 명예로울 수 있었던 것은 누구도 상대에게 물러서라고 요구하지 않았기 때문입니다. 이 시리즈의 고등판무관 «마르샹»은 이름만 같은 허구의 동명이인입니다.
+@next 4-12 «Le plébiscite de tous les jours»(시리즈 최종화): 일요일 투표일. 근소한 차의 결과를 두고 승패를 선언하지 않는 길을 찾고, 5년마다 같은 질문을 다시 묻는 규칙이 세워집니다. 매듭이 하나씩 풀리며 시리즈가 끝납니다.
+
+## 수로 — LA PASSE
+RIVIÈRE: (À la capitainerie, au micro de la VHF, la voix grave.) Mathis, répète-moi ça. Lentement. ||| (항만 사무소에서 VHF 마이크에 대고 낮고 무거운 목소리로.) 마티스, 다시 말해 봐. 천천히.
+MATHIS: (À la radio, grésillements.) Papa, je suis sur la passe. Un bateau gris, long comme trois chalutiers, sans feux de navigation. Il est entré à cinq heures deux par le nord. Il a mouillé l'ancre à cinq heures vingt, en plein milieu. Il a un pavillon malavien. Je le vois très bien, il n'y a pas de brume. ||| (무전, 잡음.) 아빠, 수로에 나와 있어요. 회색 배인데 트롤어선 셋을 이은 길이에요. 항해등이 없어요. 5시 2분에 북쪽으로 들어와서 5시 20분에 한가운데에 닻을 내렸어요. 말라비 깃발이에요. 안개도 없어서 아주 잘 보여요.
+RIVIÈRE: Il a jeté l'ancre. On ne jette pas l'ancre pour passer. Ça, même mon petit-fils le sait. ||| 닻을 내렸다고. 지나가는 배는 닻을 안 내려. 그건 내 손자도 안다.
+JULIEN: (Il entre, essoufflé, avec Camille.) Armand, c'est quoi, cette nouvelle ? Je n'ai dormi que deux heures. ||| (카미유와 숨을 몰아쉬며 들어온다.) 아르망, 무슨 소식입니까? 두 시간밖에 못 잤어요.
+RIVIÈRE: Un patrouilleur malavien dans la passe de Petite-Sœur. À neuf milles de la côte, au milieu du chenal. Il est chez nous, monsieur Delorme. Et il a mouillé. ||| 쁘띠트쇠르 수로에 말라비 초계함이에요. 해안에서 9마일, 수로 한복판입니다. 우리 바다 안이고, 닻까지 내렸어요.
+CAMILLE: Les eaux territoriales vont jusqu'à douze milles. Le passage inoffensif est un droit, mais l'arrêt et le mouillage ne le sont pas, sauf force majeure ou assistance. Article dix-huit de la convention de mille neuf cent quatre-vingt-deux. ||| 영해는 12마일까지예요. 무해 통항은 권리지만 정선과 투묘는 불가항력이나 구조의 경우가 아니면 권리가 아니고요. 1982년 협약 18조예요.
+JULIEN: Il n'y a ni force majeure, ni naufragés. Donc il y a une intention. Quelle heure est-il à Paris ? ||| 불가항력도 조난자도 없으니 의도가 있다는 뜻이야. 파리는 몇 시지?
+CAMILLE: Neuf heures cinquante. Et le dernier ferry pour les urnes part à quatorze heures. Il passe dans cette passe, au mille et demi de ce bateau. ||| 9시 50분이요. 투표함 연락선은 14시에 떠나요. 바로 이 수로에서 그 배와 1마일 반 거리를 지나가고요.
+JULIEN: Ah. Voilà le vrai problème. Pas le bateau gris : la boîte en bois qui doit passer devant lui. ||| 아. 그게 진짜 문제로군. 회색 배가 아니라 그 앞을 지나야 할 나무 상자야.
+RIVIÈRE: On peut envoyer le Fulmar. Il est à quatre milles, il a le même gabarit. Il se mettra devant, le Malavien ne bougera plus. ||| 풀마르호를 보내면 됩니다. 4마일 거리에 있고 크기도 비슷해요. 앞에 서면 말라비 배가 꼼짝 못 할 겁니다.
+JULIEN: Il ne bougera plus, c'est exactement ce que je crains. Un bateau qui ne bouge plus devant un autre qui ne bouge plus, c'est la définition d'une cuisine qui prend feu. ||| 꼼짝 못 한다는 게 바로 걱정입니다. 꼼짝 않는 배 앞에 꼼짝 않는 배가 서 있다면 주방에 불이 붙기 시작한 거죠.
+MATHIS: (À la radio.) Papa, il me fait des signaux. Il me demande mon nom et mon lieu. Je lui réponds quoi ? ||| (무전.) 아빠, 저한테 신호를 보내요. 이름이랑 위치를 묻는데 뭐라고 대답해요?
+JULIEN: Dites-lui la vérité, Mathis. « Mathis Rivière, patron pêcheur, Saint-Aubin, en route pour la pêche, rien à déclarer. » Rien de plus. Pas un mot sur l'urne, pas un mot sur le vote. ||| 사실을 말해 줘요, 마티스. "마티스 리비에르, 선장, 생토뱅, 조업 중, 신고할 것 없음." 그 이상은 안 돼요. 투표함도 투표도 한마디 하지 마세요.
+MATHIS: (À la radio.) Rien à déclarer. Compris. Il a l'air jeune, le commandant. Il me salue avec la main. ||| (무전.) 신고할 것 없음. 알겠습니다. 함장이 젊어 보여요. 손으로 인사를 하네요.
+CAMILLE: Il salue. Ce n'est pas un homme qui veut la guerre. ||| 인사를 하네. 전쟁을 원하는 사람이 아니야.
+JULIEN: Ce n'est pas un homme qui sait pourquoi il est là. Ce sont les plus dangereux, Camille, parce qu'ils ne peuvent pas expliquer comment repartir. ||| 왜 거기 있는지 모르는 사람이야. 그런 사람이 제일 위험해, 카미유. 어떻게 돌아가야 하는지 설명할 수 없으니까.
+HÉLÈNE: (Message, 5 h 58.) « Jour 30. Je ne te dérange pas pour rien. Vocal de 3 h 10 dans un groupe d’officiers malaviens : la voix d’un amiral, ou d’une voix qui lui ressemble. “Kisiwa, entrez dans la passe de Petite-Sœur, mouillez, empêchez l’escorte des urnes françaises. Le Conseil sera dissous demain.” Voix de synthèse. Serveur à Dublin, même bailleur que la voix de la Caisse. Je te l’envoie pour que tu saches ce que l’autre bateau a entendu. » ||| (문자, 5시 58분.) "30일째. 괜히 깨우는 게 아니야. 새벽 3시 10분, 말라비 장교 단체방에 음성 메시지가 올라왔어. 제독의 목소리, 혹은 그와 닮은 목소리. '키시와, 쁘띠트쇠르 수로로 진입해 닻을 내리고 프랑스 투표함 호위를 막아라. 협의회는 내일 해산된다.' 합성 음성이야. 서버는 더블린, 연금 금고 음성 때와 같은 임대업자. 저쪽 배가 무엇을 들었는지 알려 주려고 보내."
+CAMILLE: « Le Conseil sera dissous demain. » La phrase de la note deux cent quinze bis. Ils reprennent leur propre faux. ||| "협의회는 내일 해산된다." 215 bis의 문장이에요. 자기네 가짜를 그대로 재활용하네요.
+JULIEN: Ils réutilisent ce qui a marché. C'est ce qu'on fait quand il reste peu de temps. Ne le dis à personne pour l'instant. Surtout pas au commandant du Kisiwa. ||| 먹혔던 걸 다시 쓰는 거야. 시간이 얼마 안 남은 사람들이 하는 짓이지. 지금은 아무한테도 말하지 마. 특히 키시와 함장한테는.
+CAMILLE: Pourquoi pas ? S'il apprend qu'on l'a trompé, il rentre chez lui. ||| 왜요? 속았다는 걸 알면 돌아갈 텐데요.
+JULIEN: Parce qu'on ne dit pas à un homme qu'il s'est fait avoir devant son équipage. Il ne partira pas : il se défendra. On ne rend pas leur dignité aux gens en leur montrant leur erreur. On leur offre une sortie. ||| 부하들 앞에서 속았다고 말하면 돌아가지 않아. 자신을 방어할 테니까. 사람의 존엄은 실수를 보여 줘서 돌려주는 게 아니야. 나갈 문을 열어 줘서 돌려주는 거야.
+RIVIÈRE: Un marin et un cuisinier, c'est le même métier, monsieur Delorme : attendre la bonne heure. ||| 선원과 요리사는 같은 직업이죠, 들로름 씨. 알맞은 때를 기다리는 일이니까요.
+JULIEN: Mon père disait, dans sa cuisine lyonnaise, qu'on ne force pas une sauce qui tourne : on lui laisse du temps et un peu de froid. Un courant, c'est pareil. On ne le pousse pas, on lui laisse un passage. ||| 아버지는 리옹의 주방에서 분리되는 소스는 억지로 휘젓지 않고 시간과 약간의 찬 기운을 준다고 하셨어요. 물살도 마찬가지입니다. 밀지 않고 길을 터 주는 거죠.
+RIVIÈRE: Alors venez. Marchand vous attend dans la salle des opérations. Il n'a pas encore pris de petit-déjeuner. Il dit qu'il y a des jours où l'estomac passe après le pavillon. ||| 그럼 오십시오. 마르샹 판무관이 상황실에서 기다립니다. 아직 아침도 안 먹었어요. 위장보다 깃발이 먼저인 날이 있다고요.
++ jeter l'ancre / mouiller = 닻을 내리다. mouillage는 투묘, 정박지의 뜻. «On ne jette pas l'ancre pour passer»는 통항과 정박의 구분
++ le passage inoffensif = 무해 통항. 영해에서 외국 선박이 가지는 권리로, 정선과 투묘는 제한된다
++ la force majeure = 불가항력. 정선·투묘를 허용하는 예외 사유 중 하나
++ ne pas avoir de feux de navigation = 항해등을 켜지 않다. 군함의 은밀한 접근을 나타내는 세부
++ rien à déclarer = 신고할 것 없음. 세관과 무전에서 쓰는 정형 문구로, 마티스의 침착한 대답에 쓰인다
++ se faire avoir = 속아 넘어가다(구어). 부하들 앞에서 속았다는 말은 하지 않는다는 쥘리앵의 배려
++ pousser un courant / laisser un passage = 물살을 밀다 / 길을 터 주다. 분리되는 소스를 억지로 젓지 않는다는 쥘리앵 아버지의 가르침에서 나온 비유
+
+## 상황실 — LA SALLE DES OPÉRATIONS
+MARCHAND: (Au téléphone, puis à la salle.) Oui, amiral, je comprends. Je n'ai pas besoin d'un coup de semonce, j'ai besoin d'un café. (Il raccroche.) Monsieur Delorme, mademoiselle Roussel. Entrez. L'amiral de la zone me propose de faire monter une frégate de Dakar. Trente-six heures de mer. ||| (전화로, 이어서 방 안에서.) 네, 제독님, 압니다. 경고 사격은 필요 없고 커피가 필요합니다. (끊는다.) 들로름 씨, 루셀 양. 들어오세요. 담당 해역 제독이 다카르에서 프리깃함을 올려 보내자고 합니다. 항해 36시간입니다.
+JULIEN: Elle arriverait après le scrutin. Elle arriverait pour le résultat, pas pour l'urne. ||| 투표가 끝난 뒤에 도착하겠군요. 투표함이 아니라 결과를 위해 오는 셈이고요.
+MARCHAND: Et un coup de semonce, on me l'a proposé deux fois depuis six heures. Je le refuse. Je ne tire rien la veille d'un vote. ||| 경고 사격은 6시 이후 두 번 제안받았습니다. 거절합니다. 투표 전날엔 아무것도 쏘지 않아요.
+CAMILLE: Monsieur le haut-commissaire, la question est : que faisons-nous du ferry de quatorze heures ? ||| 판무관님, 문제는 14시 연락선을 어떻게 하느냐예요.
+MARCHAND: Je ne peux pas le retarder. Les assesseurs de Petite-Sœur dorment sur place ce soir, ils doivent installer les bureaux. Si l'urne n'arrive pas, le scrutin ne s'ouvre pas à huit heures. Si le scrutin ne s'ouvre pas, on dira que Paris l'a empêché. ||| 미룰 수 없습니다. 쁘띠트쇠르 개표·감시 요원들이 오늘 밤 현지에서 자야 하고, 투표소를 차려야 해요. 투표함이 안 닿으면 8시에 투표가 열리지 않고, 열리지 않으면 파리가 막았다고들 할 겁니다.
+JULIEN: Et si le Fulmar l'escorte, on dira que Paris a voté sous les canons. ||| 풀마르호가 호위하면 파리가 포구 아래에서 투표를 치렀다고 하겠죠.
+MARCHAND: Ni retard, ni escorte. Il me reste quoi, monsieur Delorme ? Le miracle ? ||| 지연도 호위도 안 됩니다. 남는 게 뭡니까, 들로름 씨? 기적인가요?
+JULIEN: Il vous reste une troisième chose, monsieur le haut-commissaire, que je n'ai pas encore trouvée. Je vous demande jusqu'à onze heures. En attendant, une seule instruction : que le Fulmar reste exactement où il est, ni plus près, ni plus loin. Qu'il ne bouge pas un cheveu. ||| 세 번째 방법이 남아 있습니다, 판무관님. 아직 못 찾았을 뿐이죠. 11시까지 시간을 주십시오. 그동안 지시는 하나입니다. 풀마르호는 지금 있는 곳 그대로, 더 가깝지도 멀지도 않게 있게 하십시오. 머리카락 하나도 움직이지 말고요.
+MARCHAND: Capitaine Kerhervé a déjà eu cette instruction. Il m'a répondu « bien reçu » avec une voix qui disait qu'il aimerait autre chose. ||| 케르에르베 함장은 이미 그 지시를 받았습니다. "수신했습니다"라고 답했는데 목소리는 다른 걸 원하는 듯했어요.
+ARCHAMBAULT: (Sur haut-parleur, depuis le Quai d'Orsay.) Monsieur Delorme, le ministre veut une photo. Il veut montrer que la France n'a pas peur. ||| (스피커폰, 케도르세에서.) 들로름 씨, 장관님이 사진을 원하십니다. 프랑스가 두려워하지 않는다는 걸 보이고 싶어 하세요.
+JULIEN: Madame la directrice, le ministre veut que l'urne arrive. La photo, on la fera demain soir, quand l'urne sera fermée. Aujourd'hui, la photo est une promesse que le Kisiwa pourrait lui faire répéter. ||| 비서실장님, 장관님이 원하시는 건 투표함이 도착하는 겁니다. 사진은 내일 저녁 투표함이 봉인된 뒤에 찍으면 됩니다. 오늘 사진은 키시와가 장관께 다시 확인하게 만들 약속이 될 수 있어요.
+ARCHAMBAULT: Il vous écoute. Il a dit : « Je veux le pavillon, pas l'incident. » Mais il est préoccupé par une chose : si on fait mine de reculer, la presse dira que la France cède devant un patrouilleur étranger. ||| 듣고 계십니다. "깃발은 원하지만 사고는 원하지 않는다"고 하셨어요. 다만 하나가 걱정이십니다. 물러서는 모양새를 취하면 언론이 프랑스가 외국 초계함 앞에서 굴복했다고 쓸 거라는 거죠.
+JULIEN: C'est exactement le problème, et c'est le même pour l'autre côté. Le commandant malavien lit déjà sa propre presse : « Tu recules devant l'ancienne puissance. » Nous avons deux hommes qui ne peuvent ni avancer ni reculer. On ne fait pas reculer un homme. On lui donne une raison de rentrer. ||| 바로 그 문제입니다. 그리고 상대편도 똑같습니다. 말라비 함장도 자기 나라 언론을 이미 읽고 있어요. "옛 강대국 앞에서 물러서는 거냐." 앞으로도 뒤로도 못 가는 사람이 둘 있는 겁니다. 사람을 물러서게 할 수는 없어요. 돌아갈 이유를 줘야 합니다.
+MERCADIER: (Au téléphone, bref.) Mercadier. Je suis réveillé depuis cinq heures. Je n'ai aucun conseil sur les bateaux. J'ai un conseil sur les papiers : tout ce que vous décidez, vous me l'envoyez en trois lignes avant de l'exécuter. Je signe en cinq minutes. ||| (전화, 짧게.) 메르카디에입니다. 5시부터 깨어 있습니다. 배에 관해서는 조언이 없습니다. 서류에 관한 조언은 있습니다. 결정하시는 건 실행 전에 세 줄로 보내십시오. 5분 안에 서명하겠습니다.
+JULIEN: Trois lignes, cinq minutes. Je vous remercie, monsieur Mercadier. Vous venez de nous donner une demi-heure que nous n'avions pas. ||| 세 줄에 5분. 감사합니다, 메르카디에 씨. 방금 우리에게 없던 삼십 분을 주셨네요.
+MERCADIER: Je ne suis pas votre ami. Je suis votre signature. Et ce matin, votre signature a faim de lisibilité. Allez. ||| 저는 당신 친구가 아니라 당신 서명입니다. 그리고 오늘 아침 당신의 서명은 읽기 쉬운 문서를 목말라합니다. 가십시오.
+BANDA: (Il entre, essoufflé, un téléphone à la main.) Monsieur le haut-commissaire. Je ne suis pas invité. Je viens quand même. Mon ministre a été réveillé à six heures par un amiral. Il n'avait pas donné cet ordre. Il m'a dit : « Va là-bas, et explique. Ne t'excuse pas, explique. » ||| (전화기를 쥐고 숨차게 들어온다.) 판무관님. 초대받지 않았지만 왔습니다. 제 장관께서 6시에 제독의 전화로 깨셨습니다. 그분은 이 명령을 내린 적이 없습니다. "가서 설명해라. 사과 말고 설명."이라고 하셨습니다.
+MARCHAND: Monsieur Banda, vous êtes toujours le bienvenu dans cette salle, même quand vous n'êtes pas invité. Surtout quand vous ne l'êtes pas. ||| 방다 씨, 초대받지 않았더라도 늘 환영합니다. 초대받지 않았을 때일수록 더요.
+BANDA: L'amiral dit avoir donné jeudi soir, après le discours de mon ministre, un ordre de « présence de souveraineté hors des eaux territoriales françaises ». Hors, monsieur. Hors. Ce qui s'est passé cette nuit n'est pas l'ordre qu'il a donné. ||| 제독은 목요일 저녁, 장관의 연설 뒤에 "프랑스 영해 밖에서의 주권 현시"라는 명령을 내렸다고 합니다. 밖에서요. 밖. 오늘 밤 일어난 일은 제독이 내린 명령이 아닙니다.
+CAMILLE: Alors le commandant a reçu un autre ordre, et il ne l'a pas reçu par la voie officielle. ||| 그럼 함장이 다른 명령을 받았다는 건데, 공식 경로가 아니었다는 뜻이네요.
+BANDA: Je ne dis rien de plus. Je suis un diplomate. J'ai seulement apporté de quoi fixer l'heure : l'amiral confirmera son ordre de jeudi par la voie réglementaire, mais il ne le fera pas avant d'avoir une raison à écrire. Un amiral ne rectifie pas parce qu'on le lui demande. Il rectifie parce que quelque chose a changé. ||| 더는 말하지 않겠습니다. 저는 외교관입니다. 시각을 정할 수 있는 것만 가져왔습니다. 제독은 목요일 명령을 정식 경로로 확인해 줄 겁니다. 다만 적을 이유가 생기기 전에는 안 합니다. 제독은 요청을 받았다고 정정하지 않습니다. 무언가 바뀌었기 때문에 정정합니다.
+JULIEN: Quelque chose a changé… (Il regarde par la fenêtre.) Camille. La météo. ||| 무언가 바뀌었기 때문에라... (창밖을 본다.) 카미유. 날씨.
+CAMILLE: La météo ? Le bulletin de six heures dit un coup de vent force huit demain soir à vingt heures, houle de quatre mètres dès ce soir au large de la passe. ||| 날씨요? 6시 예보는 내일 저녁 8시 풍력 8의 강풍, 오늘 저녁부터 수로 앞바다에 4미터 너울이에요.
+JULIEN: Une raison qui n'appartient à personne. Qui vient d'ailleurs. Je veux que Dakar nous envoie le bulletin officiel, signé, daté, pour les deux marines. ||| 누구의 것도 아닌 이유야. 다른 곳에서 오는 이유. 다카르에서 두 해군 모두에게 보낼 공식 예보를 서명하고 날짜까지 찍어서 보내 줬으면 해.
++ un coup de semonce = 경고 사격. 상대 선박에 정선·퇴각을 요구하는 해군의 첫 단계 조치
++ la veille d'un vote = 투표 전날. «Je ne tire rien la veille d'un vote» 같은 단호한 어순
++ faire mine de + inf. = ~하는 척하다, ~하는 모양새를 취하다. «faire mine de reculer»는 물러서는 모양새를 뜻한다
++ une présence de souveraineté = 주권 현시 임무. 영해 밖에서도 국가의 깃발을 보여 주는 해군 용어
++ la voie réglementaire = 정식 경로. 명령이 규정된 계통으로 전달되는 것
++ rectifier = 바로잡다, 정정하다. 제독은 부탁받아서가 아니라 사정이 바뀌어서 정정한다는 방다의 설명
++ avoir faim de lisibilité = 읽기 쉬움에 목마르다. 메르카디에식 건조한 농담으로, 서류가 분명해야 서명한다는 뜻
+
+## 마르샹과 키치너 — LE FROMAGE ET LE NIL
+VALCOURT: (Au téléphone, bruit de couteau sur une planche.) Delorme. Je vous parle depuis un azeitão, un petit fromage rond de brebis qui coule comme une dernière phrase. Vous m'appelez pour le patrouilleur. Je suis au courant : Okanla m'a prévenu hier soir. ||| (전화, 도마 위 칼소리.) 들로름. 지금 아제이탕을 앞에 두고 말하네, 마지막 문장처럼 흘러내리는 동그란 양젖 치즈야. 초계함 때문에 전화했겠지. 알고 있네. 어젯밤 오칸라 대사가 알려 줬어.
+JULIEN: Et vous avez eu le temps de réfléchir à Fachoda. ||| 파쇼다에 대해 생각할 시간도 있으셨겠군요.
+VALCOURT: J'y pense depuis le jour où j'ai appris que le haut-commissaire s'appelle Marchand. Un Marchand ! Dans un archipel, devant un bateau étranger ! Le destin a parfois un goût trop sûr pour la farce. ||| 고등판무관 이름이 마르샹이라는 걸 안 날부터 생각했네. 마르샹이라니! 군도에서, 외국 배 앞에서! 운명은 가끔 소극에 너무 취미를 붙인다니까.
+JULIEN: Il n'a aucun lien avec l'autre, je l'ai vérifié. Il vient de Rodez. Il n'a jamais traversé l'Afrique à pied. ||| 그분은 파쇼다의 마르샹과 아무 관계도 없습니다. 확인했어요. 로데즈 출신이고 아프리카를 걸어서 가로지른 적도 없고요.
+VALCOURT: Heureusement. Le premier a mis plus de deux ans à marcher du Congo jusqu'au Nil. Il arrive à Fachoda le dix juillet mil huit cent quatre-vingt-dix-huit, avec une centaine de tirailleurs et une poignée d'officiers, épuisé, fier, et persuadé que la carte lui donnait raison. ||| 다행이지. 첫 번째 마르샹은 콩고에서 나일까지 걷는 데 2년이 넘게 걸렸어. 1898년 7월 10일 파쇼다에 도착했는데, 세네갈 보병 백 명 남짓과 장교 몇 명, 녹초가 됐지만 자랑스러웠고 지도가 자기 편이라 믿었지.
+CAMILLE: Et deux mois plus tard, Kitchener. ||| 그리고 두 달 뒤에 키치너가 오죠.
+VALCOURT: Kitchener vient de gagner la bataille d'Omdurman, début septembre. Il remonte le Nil avec des canonnières et plus d'un millier d'hommes. Il arrive à Fachoda à la mi-septembre. Face à lui, Marchand a une centaine de fusils et une petite garnison dont les vivres sont maigres. ||| 키치너는 9월 초 옴두르만 전투에서 막 승리했지. 포함들과 천 명이 넘는 병력을 이끌고 나일을 거슬러 올라와 9월 중순에 파쇼다에 도착해. 맞은편 마르샹에게는 소총 백여 정과 식량이 변변찮은 작은 수비대뿐이고.
+JULIEN: Un rapport de forces écrasant. Et pourtant il n'y a pas eu de combat. ||| 압도적인 전력 차인데도 전투는 없었죠.
+VALCOURT: Parce que chacun a fait une chose que ni l'un ni l'autre n'avait prévue. Ils se sont salués avec la plus grande politesse. On raconte qu'ils ont trinqué, l'un avec du champagne, l'autre avec du whisky. Je ne jurerais pas du champagne, mais je jurerais de la politesse. Kitchener fait hisser le drapeau égyptien, pas le drapeau britannique, au nom du Khédive. Marchand garde le sien. Deux drapeaux à quelques centaines de mètres l'un de l'autre. ||| 각자 서로 예상 못 한 일을 했기 때문이야. 아주 정중하게 인사를 나눴지. 한쪽은 샴페인, 한쪽은 위스키로 건배했다는 얘기가 전해져. 샴페인은 장담 못 하지만 정중함은 장담해. 키치너는 영국 국기가 아니라 총독의 이름으로 이집트 국기를 올리게 했고, 마르샹은 자기 국기를 지켰어. 불과 몇백 미터 사이에 깃발이 둘.
+CAMILLE: Donc, Kitchener n'humilie pas Marchand. ||| 그러니까 키치너가 마르샹에게 모욕을 주지 않았네요.
+VALCOURT: Il fait mieux : il ne lui demande pas de partir. Il lui dit que son devoir à lui, c'est de réoccuper Fachoda, et que le devoir de l'autre, c'est de rester. Et que ces deux devoirs sont des affaires de capitales. La décision monte. Les deux hommes redeviennent des invités l'un de l'autre. ||| 더 나은 일을 했지. 떠나라고 요구하지 않았어. 자기 임무는 파쇼다를 다시 점령하는 것이고 상대의 임무는 남는 것이라고 말했을 뿐이야. 그리고 그 두 임무는 수도들의 문제라고 했지. 결정이 위로 올라가. 두 사람은 다시 서로의 손님이 되고.
+JULIEN: La décision monte. Le conflit ne reste pas entre les deux commandants. ||| 결정이 위로 올라가는군요. 갈등이 두 지휘관 사이에 머물지 않고요.
+VALCOURT: Voilà. Pendant ce temps, à Paris et à Londres, on est près de la guerre. Londres met sa flotte en alerte en octobre et novembre. Paris n'a pas les moyens. Delcassé, ministre des Affaires étrangères depuis juin, comprend que la France ne fera pas la guerre pour un coin de marais. Le trois novembre, le gouvernement français décide d'évacuer. ||| 그러는 동안 파리와 런던은 전쟁 직전이었어. 런던은 10월과 11월에 함대를 경계 태세로 올리고, 파리에는 그럴 힘이 없었지. 6월부터 외무장관이던 델카세는 프랑스가 늪지 한 귀퉁이 때문에 전쟁을 할 수 없다는 걸 깨달아. 11월 3일에 프랑스 정부가 철수를 결정하지.
+JULIEN: Et Marchand ? ||| 마르샹은요?
+VALCOURT: Il veut démissionner. On l'en dissuade. Il quitte Fachoda le onze décembre, avec son drapeau, avec ses hommes, par l'Abyssinie, et il rentre en France en héros, ce qui est un peu étrange pour un homme qui a reçu l'ordre de partir. Mais la France n'a pas eu le sentiment de reculer devant Kitchener. Elle a eu le sentiment d'avoir été battue par une carte, pas par un homme. ||| 사임하려 했지만 다들 말렸어. 12월 11일 자기 깃발과 부하들을 데리고 에티오피아 쪽으로 파쇼다를 떠났고, 프랑스에 영웅이 되어 돌아왔지. 철수 명령을 받은 사람치고는 좀 이상하지. 그래도 프랑스는 키치너에게 물러섰다는 느낌은 갖지 않았어. 한 사람이 아니라 한 장의 지도에 졌다고 느꼈지.
+CAMILLE: Et la suite ? Mars mille huit cent quatre-vingt-dix-neuf ? ||| 그 뒤는요? 1899년 3월은요?
+VALCOURT: Une convention franco-britannique qui trace les zones : la ligne de partage des eaux entre le Nil et le Congo. Et six ans plus tard, mille neuf cent quatre, l'Entente cordiale. Delcassé la signe. Souviens-toi de celle-là, Delorme : tu l'as déjà rencontrée sur le pont d'une frégate, grâce à un cuisinier. ||| 영불 협정이 나일과 콩고의 분수령을 따라 구역을 그었어. 그리고 6년 뒤인 1904년에 앙탕트 코르디알이야. 델카세가 서명했지. 그 일을 기억하게, 들로름. 프리깃함 갑판에서, 조리장 덕분에 이미 한 번 만난 적이 있잖나.
+JULIEN: Le cuisinier de la frégate. Je lui dois encore un plat. ||| 프리깃함의 조리장 말씀이시군요. 아직 요리 하나 빚이 있습니다.
+VALCOURT: On doit toujours payer ses dettes aux cuisiniers. Je te dis ma règle, que je donne à ceux qui doivent partir devant un autre sans perdre la face : un recul devient un retour quand la raison vient d'ailleurs. Cinq conditions. Je les dicte : un. Ne demande jamais à l'autre de reculer, donne-lui une raison de rentrer. Deux. La raison ne doit appartenir à aucun des deux : la mer, le vent, le calendrier, un ordre plus récent. Trois. Chacun garde une phrase à raconter à son pays, et les deux phrases ne se contredisent pas. Quatre. Personne ne salue le premier : le départ a une heure qui n'appartient à personne. Cinq. On ne filme pas la sortie. ||| 요리사에게 진 빚은 늘 갚아야 하는 법이지. 상대 앞에서 체면을 잃지 않고 떠나야 하는 사람들에게 주는 내 규칙을 말해 주지. 후퇴는 이유가 다른 곳에서 올 때 귀환이 된다. 조건 다섯. 받아 적게. 하나, 상대에게 물러나라고 하지 말고 돌아갈 이유를 줘라. 둘, 이유는 어느 쪽 것도 아니어야 한다. 바다, 바람, 달력, 더 늦게 내려온 명령. 셋, 각자 자기 나라에 들려줄 문장을 하나씩 가지되 두 문장이 서로 모순되지 않아야 한다. 넷, 아무도 먼저 인사하지 않는다. 떠나는 시각은 누구의 것도 아니다. 다섯, 나가는 모습은 촬영하지 않는다.
+CAMILLE: (Elle écrit.) Je note. « Un recul devient un retour quand la raison vient d'ailleurs. » C'est de vous ? ||| (받아 적는다.) 적었어요. "후퇴는 이유가 다른 곳에서 올 때 귀환이 된다." 선생님 문장인가요?
+VALCOURT: C'est de moi, mais je l'ai volée à un marin de Lorient qui l'avait dite en breton. Je ne cite pas toujours mes sources, surtout quand elles sont mortes. Delorme, tu as ton couteau ? ||| 내 거지만 로리앙의 선원에게서 훔쳤어. 브르타뉴어로 말한 걸 내가 번역한 거지. 출처가 죽었을 땐 늘 밝히진 않아. 들로름, 칼은 가지고 있나?
+JULIEN: Dans ma poche gauche, comme chaque matin depuis l'archipel. ||| 왼쪽 주머니에 있습니다, 군도 이후 매일 아침처럼요.
+VALCOURT: Garde-le dans ta poche. Et ne coupe rien. Il y a des jours où le couteau est une présence, pas un outil. Salue Marchand de ma part. Dis-lui que le sien est parti à pied, que celui-là n'a pas à le faire. ||| 주머니에 넣어 두고 아무것도 자르지 마. 칼이 도구가 아니라 존재인 날이 있네. 마르샹 판무관께 안부 전해 주게. 첫 번째 마르샹은 걸어서 갔지만 이쪽은 그럴 필요가 없다고.
++ le goût trop sûr pour la farce = 소극에 너무 확실한 취미. 운명이 우연의 일치로 장난을 친다는 뜻의 발쿠르식 익살
++ réoccuper / hisser un drapeau = 다시 점령하다 / 깃발을 올리다. 키치너가 영국이 아니라 이집트 총독의 이름으로 깃발을 올린 일
++ la décision monte = 결정이 위로 올라가다. 현장 지휘관의 대치를 수도의 정치 결정으로 넘기는 방식
++ être battu par une carte, pas par un homme = 사람이 아니라 지도에 졌다. 패배를 구조의 탓으로 돌려 체면을 지키는 표현
++ je ne jurerais pas de… mais je jurerais de… = ~는 장담 못 하지만 ~는 장담한다. 전승과 사실을 구분하는 발쿠르의 화법
++ un recul devient un retour quand la raison vient d'ailleurs = 후퇴는 이유가 다른 곳에서 올 때 귀환이 된다. 명예로운 후퇴 설계의 원칙
++ la ligne de partage des eaux = 분수령. 1899년 영불 협정이 나일과 콩고의 구역을 가른 기준선
+## 함교에서 — LE PONT DU FULMAR
+KERHERVÉ: (Sur la passerelle du patrouilleur, jumelles au cou.) Monsieur Delorme. Je vous accueille à bord d'un bateau dont l'équipage est debout depuis cinq heures vingt, pour regarder un autre bateau. Ils me demandent si on va tirer. Je leur dis non. Ils me demandent alors ce qu'on va faire. Je n'ai pas de réponse. ||| (초계함 함교에서, 쌍안경을 목에 걸고.) 들로름 씨. 5시 20분부터 서 있는 승조원들이 다른 배를 지켜보는 배에 오신 걸 환영합니다. 쏘느냐고 묻기에 안 쏜다고 했습니다. 그럼 뭘 하느냐고 묻는데 답이 없습니다.
+JULIEN: Capitaine, vous avez dit non à la première question. C'est la plus difficile. Pour la seconde, j'ai des réponses, mais elles ne viennent pas de moi. Elles viennent d'un homme de soixante-quatorze ans qui mange un fromage à Lisbonne. ||| 함장님, 첫 질문에 아니라고 하신 게 가장 어려운 일입니다. 둘째 질문의 답은 있습니다만 제 것이 아닙니다. 리스본에서 치즈를 드시는 일흔네 살 어르신의 것이죠.
+KERHERVÉ: Un diplomate retraité qui commande une marine. C'est une première. ||| 은퇴한 외교관이 해군을 지휘하는 건 처음 보는군요.
+JULIEN: Il ne commande rien. Il m'a donné cinq conditions, je vous les lis. Un : on ne demande jamais à l'autre de reculer, on lui donne une raison de rentrer. Deux : la raison n'appartient à personne, ni à lui ni à vous. Trois : chacun garde une phrase à raconter à son pays. Quatre : personne ne salue le premier. Cinq : on ne filme pas la sortie. ||| 지휘하는 게 아니라 조건 다섯 개를 주셨어요. 읽어 드리겠습니다. 하나, 상대에게 물러나라 하지 않고 돌아갈 이유를 준다. 둘, 이유는 누구의 것도 아니다. 그의 것도 함장님 것도 아니다. 셋, 각자 자기 나라에 들려줄 문장을 하나씩 갖는다. 넷, 아무도 먼저 인사하지 않는다. 다섯, 나가는 모습을 촬영하지 않는다.
+KERHERVÉ: Joli. Mais je vais vous dire comment cela se passe en mer. Le premier qui lève l'ancre a perdu. Tout le monde le sait. Même eux. ||| 근사하군요. 하지만 바다에서는 이렇게 됩니다. 먼저 닻을 올리는 쪽이 진 겁니다. 다들 압니다. 저쪽도요.
+JULIEN: Alors il ne faut pas que ce soit lui qui lève l'ancre. Il faut que ce soit le vent. Capitaine, quelle heure donne la table des marées pour la renverse de ce matin ? ||| 그렇다면 그가 닻을 올리면 안 되겠군요. 바람이 올려야 합니다. 함장님, 오늘 아침 조류 전환은 조석표로 몇 시입니까?
+KERHERVÉ: Douze heures huit. (Il hausse un sourcil.) Je commence à voir où vous allez. À la renverse, les bateaux au mouillage tournent sur leur ancre, tous en même temps. Ils changent d'orientation sans que personne ait rien décidé. ||| 12시 8분입니다. (눈썹을 치켜올린다.) 어디로 가시는지 보이기 시작하는군요. 조류가 바뀌면 닻을 내린 배들은 전부 동시에 닻을 축으로 돕니다. 아무도 결정하지 않았는데 방향이 바뀌죠.
+JULIEN: Et une demi-heure avant, le capitaine de port lira l'avis de coup de vent, comme chaque fois que la météo l'exige. Il le lira à haute voix sur le quai, en trois langues, par les haut-parleurs. Ce n'est pas un message pour le Kisiwa. C'est un message pour tout bateau dans l'archipel. ||| 그리고 삼십 분 전에 항만장이 강풍 경보를 읽을 겁니다. 기상이 요구할 때마다 하는 대로요. 부두에서 스피커로 세 언어로 크게 읽습니다. 키시와에게 보내는 메시지가 아니라 군도 안의 모든 배에게 보내는 메시지죠.
+KERHERVÉ: Et les gens du quai, qui sont des centaines, ne verront qu'un avis de tempête, un navire étranger qui rentre chez lui et un patrouilleur français qui continue sa patrouille. Aucune des deux marines ne recule. Les deux rentrent. ||| 그러면 부두의 수백 명은 폭풍 경보와 집으로 돌아가는 외국 배, 순찰을 계속하는 프랑스 초계함만 보게 되겠군요. 어느 해군도 물러서지 않습니다. 둘 다 돌아가는 거죠.
+JULIEN: Il y a un point faible : l'ordre. Un commandant malavien ne lève pas l'ancre parce qu'un Français lui lit la météo. Il lève l'ancre parce que son amiral l'a décidé. Madame Roussel travaille à ça depuis sept heures, avec monsieur Banda. ||| 약한 고리가 하나 있습니다. 명령이죠. 말라비 함장은 프랑스인이 날씨를 읽어 준다고 닻을 올리지 않습니다. 제독이 결정해서 올리지요. 루셀 양이 7시부터 방다 씨와 그걸 위해 뛰고 있습니다.
+KERHERVÉ: Et moi, qu'est-ce que je fais en attendant ? ||| 그동안 저는 뭘 합니까?
+JULIEN: Vous l'appelez à la VHF. Pas pour lui demander quoi que ce soit. Pour lui dire bonjour, officier à officier, et lui transmettre un bulletin météo, parce que c'est un devoir des gens de mer. ||| VHF로 부르십시오. 무언가를 요구하려는 게 아니라 장교 대 장교로 인사하고 기상 예보를 전하기 위해서입니다. 뱃사람의 의무니까요.
+KERHERVÉ: (Il prend le micro.) Kisiwa, Kisiwa, ici patrouilleur français Fulmar, canal seize. Bonjour, commandant. Voulez-vous passer sur le canal douze ? ||| (마이크를 든다.) 키시와, 키시와, 여기는 프랑스 초계함 풀마르, 16번 채널. 안녕하십니까, 함장님. 12번 채널로 옮기시겠습니까?
+KIBWE: (À la radio, en français, la voix jeune et tendue.) Fulmar, Kisiwa. Bonjour, commandant. Canal douze. ||| (무전, 프랑스어, 젊고 긴장한 목소리.) 풀마르, 키시와. 안녕하십니까, 함장님. 12번 채널로 가겠습니다.
+KERHERVÉ: Kisiwa, Fulmar, canal douze. Commandant, je suis capitaine de corvette Yann Kerhervé. Je ne vous demande rien. Je vous salue, et je vous transmets le bulletin officiel de la zone, par courtoisie entre gens de mer. Vous le recevez ? ||| 키시와, 풀마르, 12번 채널. 함장님, 저는 소령 얀 케르에르베입니다. 요구하는 건 없습니다. 인사드리고, 뱃사람 사이의 예의로 해역 공식 예보를 전해 드립니다. 수신하십니까?
+KIBWE: Fulmar, Kisiwa. Je suis le capitaine de frégate Amani Kibwe. Je vous reçois. Je suis en mission de présence. J'ai mes ordres. ||| 풀마르, 키시와. 프리깃 중령급 함장 아마니 키브웨입니다. 수신합니다. 저는 주권 현시 임무 중입니다. 명령을 받았습니다.
+KERHERVÉ: Je ne vous demande pas vos ordres, commandant. Voici le bulletin. Houle de quatre mètres sur la passe à partir de dix-sept heures. Vent d'ouest à force huit demain à vingt heures, avec rafales. Le mouillage dans la passe sera dangereux dès ce soir. Les abris les plus proches sont Port-Aubin, ou, pour votre bâtiment, votre port, à vingt-six heures de mer. ||| 명령을 묻는 게 아닙니다, 함장님. 예보입니다. 17시부터 수로에 4미터 너울. 내일 저녁 8시 풍력 8의 서풍과 돌풍. 수로 정박은 오늘 저녁부터 위험합니다. 가장 가까운 피항지는 포르오뱅이고, 귀함에는 귀국 항구가 항해 26시간입니다.
+KIBWE: C'est une manière polie de me dire de partir. ||| 정중하게 떠나라는 말이군요.
+KERHERVÉ: Non, commandant. C'est une manière polie de vous dire que je ne vous dirai rien d'autre. Si votre amiral vous donne un nouvel ordre, vous le suivrez. Si votre amiral vous demande de rester, je resterai à quatre milles de vous, dans mes eaux, avec mes hommes. Il n'y a pas de duel. Il y a deux bateaux et une tempête. ||| 아닙니다, 함장님. 그 외에는 아무 말도 하지 않겠다는 정중한 표현입니다. 제독이 새 명령을 내리시면 따르시겠죠. 남으라고 하시면 저는 제 해역에서 4마일 거리에 부하들과 남겠습니다. 결투는 없습니다. 배 두 척과 폭풍이 있을 뿐입니다.
+KIBWE: Vous êtes très calme, commandant. Chez moi, on dit que le calme est la forme polie de la peur. ||| 아주 침착하시군요. 저희 쪽에서는 침착함이 두려움의 정중한 형태라고 합니다.
+KERHERVÉ: Chez moi, on dit que la peur est la forme polie de l'attente. Demain, dans mon pays, des gens vont répondre à une question. Je ne veux pas qu'ils répondent avec un bateau gris derrière eux. Vous non plus, je suppose. ||| 저희 쪽에서는 두려움이 기다림의 정중한 형태라고 합니다. 내일 제 나라에서 사람들이 질문 하나에 답합니다. 회색 배를 뒤에 두고 답하게 하고 싶지 않습니다. 함장님도 마찬가지일 거라 짐작합니다.
+KIBWE: (Après un silence.) Je n'ai pas d'opinion sur votre vote, commandant. J'ai reçu une voix qui m'a dit que la Marine française allait escorter l'urne avec des armes. Je ne vois pas d'armes. Je vois un petit bateau de pêche et un patrouilleur qui me dit bonjour. ||| (침묵 뒤.) 귀국의 투표에 대해 의견은 없습니다. 프랑스 해군이 무기를 들고 투표함을 호위할 거라는 목소리를 들었을 뿐입니다. 무기는 안 보입니다. 작은 어선과 인사를 건네는 초계함이 보입니다.
+JULIEN: (À voix basse, à Kerhervé.) Ne relevez pas « une voix ». Dites seulement : « Je comprends ». ||| (케르에르베에게 낮은 목소리로.) "목소리"는 되묻지 마십시오. "이해합니다"라고만 하세요.
+KERHERVÉ: Je comprends, commandant. Je reste sur ce canal. Quand vous aurez reçu votre prochain ordre, vous me le direz si vous voulez. Je n'ai pas besoin de le savoir. ||| 이해합니다, 함장님. 이 채널에 머물겠습니다. 다음 명령을 받으시면 알려 주셔도 되고, 안 알려 주셔도 됩니다. 제가 알아야 할 필요는 없으니까요.
+CAMILLE: (Entrant sur la passerelle, essoufflée, une feuille à la main.) J'ai le bulletin signé de Dakar : daté, tamponné, en deux langues, avec l'heure de transmission, onze minutes avant dix heures. Et monsieur Banda a eu son ministre à dix heures vingt. Le ministre a appelé l'amiral. L'amiral rédige une rectification qu'il enverra sur le canal réglementaire. Il demande une chose pour l'écrire. ||| (숨을 헐떡이며 함교로 들어온다, 종이 한 장을 든 채.) 다카르의 서명 예보를 받았어요. 날짜와 도장이 있고 두 언어, 송신 시각은 10시 11분 전이에요. 방다 참사관이 10시 20분에 장관과 통화했고, 장관이 제독에게 전화했어요. 제독이 정식 경로로 보낼 정정 명령을 쓰고 있는데, 쓰려면 한 가지가 필요하다고 해요.
+JULIEN: Une raison. ||| 이유겠지.
+CAMILLE: Une raison qui ne dise pas qu'il a été trompé, qui ne dise pas qu'il a cédé, et qui ne cite pas la France. Il propose : « Mission de présence accomplie. Retour à la base avant dégradation des conditions météorologiques. » ||| 속았다는 말도, 굴복했다는 말도, 프랑스에 대한 언급도 없는 이유요. 제독이 제안한 문장은 이거예요. "주권 현시 임무 완료. 기상 악화 전 귀항."
+JULIEN: « Mission accomplie » : c'est la phrase que Kibwe pourra raconter à son pays. « Avant dégradation des conditions météorologiques » : c'est le bulletin que Kerhervé lui a donné, sans qu'on puisse dire qui l'a donné. Les deux phrases se tiennent debout toutes seules. ||| "임무 완료"가 키브웨 함장이 자기 나라에 들려줄 문장이군요. "기상 악화 전"은 케르에르베 함장이 준 예보이되 누가 줬는지는 말할 수 없는 문구고요. 두 문장이 각자 서 있습니다.
+KERHERVÉ: Et la phrase que je raconterai, moi ? ||| 제가 들려줄 문장은요?
+JULIEN: « Un bâtiment étranger a quitté nos eaux après avoir reçu notre bulletin météo et nos salutations. » Tout y est vrai. Rien n'y est l'inverse de l'autre phrase. ||| "외국 선박이 우리 기상 예보와 인사를 받은 뒤 우리 해역을 떠났다." 전부 사실이고, 어느 것도 저쪽 문장의 반대가 아닙니다.
+KERHERVÉ: Il nous manque le salut. Quatre : personne ne salue le premier. ||| 인사가 빠졌습니다. 조건 넷, 아무도 먼저 인사하지 않는다.
+JULIEN: Le port donnera l'heure. Douze heures huit. Au moment où le courant tourne, les deux bateaux salueront leur pavillon et l'autre. Ce n'est pas l'un qui salue l'autre : c'est la marée qui les salue tous les deux. ||| 시각은 항구가 정합니다. 12시 8분. 조류가 바뀌는 순간 두 배가 각자 자기 깃발과 상대 깃발에 경례합니다. 한쪽이 다른 쪽에 하는 경례가 아니라 조류가 둘 다에게 하는 경례입니다.
+KERHERVÉ: Je crois que je n'ai jamais été aussi poli de ma vie. Les ordres seront donnés. (Il se tourne vers un matelot.) Pavillon de poupe, que ce soit propre et à l'heure. ||| 평생 이렇게 정중해 본 적이 없는 것 같군요. 명령을 내리겠습니다. (수병에게.) 선미 깃발, 깨끗하고 정시에.
+JULIEN: (À Camille, à mi-voix.) Les trois lignes pour Mercadier. « Un : le port lit l'avis de coup de vent à douze heures moins une demi-heure, en trois langues. Deux : à douze heures huit, les deux bâtiments saluent, le Kisiwa appareille. Trois : aucun escorteur pour le ferry. » ||| (카미유에게 낮은 목소리로.) 메르카디에에게 보낼 세 줄이야. "하나, 항만이 11시 30분에 강풍 경보를 세 언어로 읽는다. 둘, 12시 8분에 두 함정이 경례하고 키시와가 출항한다. 셋, 연락선에는 호위함을 붙이지 않는다."
+CAMILLE: (Elle tape.) Envoyé, dix heures cinquante-deux. (Un bip.) Réponse de Mercadier, dix heures cinquante-six : « Signé. Les trois lignes tiennent. Ne parlez pas de signature à la radio. » ||| (타자한다.) 보냈어요, 10시 52분. (알림음.) 메르카디에 답장, 10시 56분. "서명했음. 세 줄이 서 있음. 무전에서는 서명 얘기 하지 마시오."
+JULIEN: Quatre minutes. Il a le goût de la vitesse, quand il le faut. ||| 4분이라. 필요할 땐 속도를 좋아하는 사람이야.
++ la renverse (de la marée) = 조류 전환, 밀물과 썰물이 바뀌는 순간. 이 장면의 «아무도 먼저 움직이지 않는» 시각을 정하는 기준
++ lever l'ancre / appareiller = 닻을 올리다 / 출항하다. 먼저 올리는 쪽이 진다는 해군의 불문율을 뒤집는 설계
++ un bulletin météo officiel / un avis de coup de vent = 공식 기상 예보 / 강풍 경보. 누구의 것도 아닌 이유의 구실을 한다
++ la courtoisie entre gens de mer = 뱃사람 사이의 예의. 군사적 대치 속 인사를 가능하게 하는 관행
++ saluer son pavillon = 자기 깃발에 경례하다. 상대에게가 아니라 깃발에 하는 경례로 체면을 보존한다
++ la peur est la forme polie de l'attente = 두려움은 기다림의 정중한 형태. 케르에르베가 키브웨의 말을 받아 되돌리는 대구
++ une rectification / un ordre de rectification = 정정 명령. «un ordre n'est pas retiré, il est remplacé»라는 설계의 핵심 용어
+
+## 12시 8분과 투표함 — LA RENVERSE ET L'URNE
+CAPITAINE: (Au haut-parleur du quai, midi moins une demi-heure.) Avis à tous les navigateurs de l'archipel de Saint-Aubin. Le service météorologique annonce pour demain dimanche à vingt heures un coup de vent d'ouest, force huit, avec houle de quatre mètres dès ce soir. Tous les bâtiments, quelle que soit leur nationalité, sont invités à rejoindre un abri ou leur port avant dix-sept heures. ||| (부두 스피커로, 정오 삼십 분 전.) 생토뱅 군도의 모든 항해자께 알립니다. 기상청은 내일 일요일 20시 서풍 풍력 8의 강풍과 오늘 저녁부터 4미터 너울을 예보했습니다. 모든 선박은 국적을 불문하고 17시 전에 피항지나 자국 항구로 돌아가시기 바랍니다.
+SYLVAINE: (Au même micro, en créole.) Avi a tout navigatè Sen-Obèn… (Elle poursuit, puis conclut.) Sa vle di : tout bato, kèlkeswa nasyon yo, ale nan yon abri anvan di-sèt è. ||| (같은 마이크로, 크레올어.) 생토뱅의 모든 항해자께… (이어서 읽고 마무리한다.) 뜻은 이렇습니다. 모든 배는 국적에 상관없이 17시 전에 피항지로 가십시오.
+PINEL: (En anglais, au même micro.) Notice to all mariners of the Saint-Aubin archipelago. A westerly gale, force eight, is forecast for tomorrow evening at eight o'clock. All vessels, of whatever nationality, are advised to proceed to shelter or home port before five p.m. ||| (같은 마이크로, 영어.) 생토뱅 군도의 모든 선원께 알립니다. 내일 저녁 8시 풍력 8의 서풍 강풍이 예보되었습니다. 모든 선박은 국적과 상관없이 오후 5시 전에 피항지나 모항으로 이동하시기 바랍니다.
+BAVOUX: (Sur le quai, carnet à la main, à Julien.) Monsieur Delorme, tout le port écoute la météo. Un bateau gris dans la passe, un bulletin de tempête et un patrouilleur qui ne bouge pas. Je pourrais faire un titre. Vous me donnez la phrase ? ||| (부두에서 수첩을 들고 쥘리앵에게.) 들로름 씨, 항구 전체가 일기예보를 듣고 있어요. 수로에 회색 배, 폭풍 경보, 꼼짝 않는 초계함. 제목을 뽑을 수 있겠네요. 문장을 주시겠어요?
+JULIEN: Madame Bavoux, la phrase est celle du capitaine de port. Je ne l'ai pas écrite. Je vous demande seulement d'attendre midi huit pour écrire la suite. ||| 바부 편집장님, 문장은 항만장이 읽은 그대로입니다. 제가 쓴 게 아닙니다. 속편은 12시 8분까지 기다렸다 쓰시길 부탁드립니다.
+BAVOUX: Vous me demandez de ne pas écrire avant que ce soit fini ? C'est contraire à mon métier. ||| 끝나기 전엔 쓰지 말라는 부탁이군요. 제 직업의 반대인데요.
+JULIEN: Je vous demande d'écrire ce qui s'est passé, pas ce qu'on aurait voulu qu'il se passe. Cela, c'est votre métier. ||| 일어난 일을 쓰라는 부탁입니다, 일어나길 바랐던 일이 아니라. 그게 편집장님의 직업이죠.
+BAVOUX: Et si rien ne se passe ? ||| 아무 일도 안 일어나면요?
+JULIEN: Alors vous écrirez « il ne s'est rien passé », et ce sera la plus belle phrase du jour. ||| 그럼 "아무 일도 없었다"라고 쓰세요. 오늘의 가장 아름다운 문장이 될 겁니다.
+KIBWE: (À la radio, canal douze, midi sept.) Fulmar, Kisiwa. J'ai reçu un ordre de ma hiérarchie par la voie réglementaire à midi moins cinq. Mission de présence accomplie. Retour à la base avant dégradation des conditions météorologiques. Je lève l'ancre à midi huit avec la renverse, commandant. ||| (무전, 12번 채널, 12시 7분.) 풀마르, 키시와. 11시 55분에 정식 경로로 상부 명령을 받았습니다. 주권 현시 임무 완료. 기상 악화 전 귀항. 조류가 바뀌는 12시 8분에 닻을 올립니다, 함장님.
+KERHERVÉ: Kisiwa, Fulmar. Bien reçu, commandant. Je reste à votre disposition pour tout renseignement météorologique supplémentaire. À midi huit, je salue mon pavillon et le vôtre. ||| 키시와, 풀마르. 수신했습니다, 함장님. 추가 기상 정보가 필요하시면 언제든 말씀하십시오. 12시 8분에 제 깃발과 귀함 깃발에 경례합니다.
+KIBWE: Fulmar, Kisiwa. Je fais de même. (Un temps.) Commandant, je vous demande pardon. Je ne le dirai pas devant mon équipage, mais je vous le dis sur le canal : je n'ai pas aimé ce que j'ai fait cette nuit. ||| 풀마르, 키시와. 저도 같이 하겠습니다. (사이.) 함장님, 사과드립니다. 승조원 앞에서는 말하지 않겠지만 이 채널에서는 말씀드립니다. 오늘 밤 제가 한 일이 마음에 들지 않았습니다.
+KERHERVÉ: Commandant, sur ce canal, il n'y a ni excuses ni reproches. Il y a seulement la mer. Bon vent. ||| 함장님, 이 채널에는 사과도 비난도 없습니다. 바다만 있습니다. 순풍을 빕니다.
+CAMILLE: (À Julien, sur le quai, à voix basse.) Regarde. Les deux bateaux tournent sur leur ancre. En même temps. Les proues se détournent l'une de l'autre sans que personne n'ait rien fait. ||| (부두에서 쥘리앵에게 낮은 목소리로.) 봐요. 두 배가 닻을 축으로 동시에 돌아요. 아무도 아무것도 하지 않았는데 뱃머리가 서로에게서 돌아서고 있어요.
+RIVIÈRE: (Aux jumelles.) Ils saluent. Les deux pavillons descendent d'un coup et remontent. On dirait un seul geste. Mon père disait que la mer a une grammaire. Je ne l'avais jamais vue pareille. ||| (쌍안경으로.) 경례하네요. 두 깃발이 한꺼번에 내려갔다 올라갑니다. 한 동작처럼요. 아버지가 바다에도 문법이 있다고 하셨는데, 이런 건 처음 봅니다.
+MATHIS: (À la radio.) Papa, le gris lève l'ancre. Il part vers le nord. Il ne se presse pas. Les gars de l'équipage me font des signes de la main. ||| (무전.) 아빠, 회색 배가 닻을 올려요. 북쪽으로 가요. 서두르지 않아요. 승조원들이 손을 흔들어요.
+RIVIÈRE: Rends-leur le signe, Mathis. Tu n'as pas gagné contre eux. Tu n'as pas perdu non plus. ||| 너도 손 흔들어 줘라, 마티스. 이긴 것도 아니고 진 것도 아니다.
+BAVOUX: (Elle écrit, puis lève les yeux.) Monsieur Delorme. Qui a gagné ? ||| (쓰다가 고개를 든다.) 들로름 씨. 누가 이겼죠?
+JULIEN: La météo. Et elle ne se présente pas aux élections. ||| 일기예보요. 그리고 일기예보는 선거에 나오지 않습니다.
+BAVOUX: Je titre : « Le temps a tourné. » Il y a deux sens, vous l'avez remarqué ? ||| 제목은 "날씨가 돌았다"로 하죠. 뜻이 둘인 거 눈치채셨죠?
+JULIEN: Je crois que c'est la raison pour laquelle je vous ai demandé d'attendre midi huit. ||| 제가 12시 8분까지 기다려 달라고 한 이유가 바로 그겁니다.
+
+MARCHAND: (Sur le quai, à treize heures quarante.) Monsieur Delorme, le ferry est prêt. Quarante et une urnes, trois sacs de bulletins, onze assesseurs. Pas d'escorte. Le Fulmar continue sa patrouille à quatre milles. Je vous dis la vérité : j'ai passé une heure et demie à regarder ma montre. ||| (부두에서, 13시 40분.) 들로름 씨, 연락선이 준비됐습니다. 투표함 41개, 투표용지 자루 셋, 감시 요원 11명. 호위는 없습니다. 풀마르호는 4마일 거리에서 순찰을 계속합니다. 솔직히 말씀드리면 한 시간 반 동안 시계만 봤습니다.
+JULIEN: Vous avez bien fait de ne pas faire autre chose. Regarder sa montre, c'est la seule action qui ne change pas l'heure. ||| 다른 걸 하지 않으신 게 잘하신 겁니다. 시계를 보는 건 시각을 바꾸지 않는 유일한 행동이니까요.
+MARCHAND: Mon homonyme de Fachoda est parti à pied. Moi, je regarde partir un bateau que personne n'escorte. Vous savez ce qui est drôle ? Depuis ce matin, tout le port m'appelle « Fachoda » dans mon dos. ||| 파쇼다의 제 동명이인은 걸어서 떠났죠. 저는 아무도 호위하지 않는 배가 출발하는 걸 지켜봅니다. 웃기는 게 뭔지 아십니까? 오늘 아침부터 항구 사람들이 등 뒤에서 저를 "파쇼다"라고 부릅니다.
+CAMILLE: Ils disent « le Marchand » tout court, monsieur le haut-commissaire. Comme un titre. ||| 그냥 "마르샹"이라고들 해요, 판무관님. 직함처럼요.
+MARCHAND: Alors je le prends. Un titre qu'on ne gagne pas à pied, c'est le meilleur. ||| 그럼 받겠습니다. 걸어서 얻지 않는 직함이 제일 좋은 직함이죠.
+PASSEUR: (Du pont de la Marguerite.) Quai quatre, on largue dans cinq minutes ! Les assesseurs de Petite-Sœur, tout le monde à bord ! ||| («Marguerite»호 갑판에서.) 4번 부두, 5분 뒤 출항합니다! 쁘띠트쇠르 감시 요원 여러분, 전원 승선하세요!
+RIVIÈRE: Mon fils m'a dit qu'il avait envie de monter avec eux. Je lui ai dit non. Il porte l'urne, pas le vote. Les urnes ne se portent pas avec le cœur. ||| 아들이 같이 타고 싶다고 하더군요. 안 된다고 했습니다. 아이는 투표함을 나를 뿐 투표를 나르는 게 아닙니다. 투표함은 마음으로 나르는 게 아니에요.
+BANDA: (Il arrive, souffle court, un papier à la main.) Monsieur Delorme, mon ministre est dans la salle de presse de Kandara et il lit un texte. Il va dire que le Kisiwa a accompli sa mission de présence et qu'il a quitté les eaux de l'archipel à cause de la météo. Il dira aussi que Kandara suit le scrutin de demain en signataire, et qu'elle attend le dix-sept novembre. ||| (숨을 가쁘게 몰아쉬며 종이를 들고 도착한다.) 들로름 씨, 제 장관이 칸다라 기자실에서 글을 읽고 있습니다. 키시와가 주권 현시 임무를 마치고 기상 때문에 군도 해역을 떠났다고 말할 겁니다. 그리고 칸다라는 내일 투표를 서명 당사자로서 지켜보며 11월 17일을 기다린다고 말할 겁니다.
+JULIEN: Il ne dit pas « merci ». ||| 감사 인사는 안 하는군요.
+BANDA: Il m'a chargé de vous dire de ne pas vous remercier. Il estime que des remerciements publics seraient des preuves. Il a ajouté : « Dis-lui que je n'ai pas oublié le passage où il m'a laissé gagner la phrase. » ||| 감사하지 말라고 전하라고 하셨습니다. 공개 감사는 증거가 된다는 생각이시죠. 그리고 덧붙이셨어요. "문장을 내가 이기게 해 준 대목을 잊지 않았다고 전해라."
+JULIEN: Dites-lui que je n'ai pas oublié non plus. Et que votre « qu'on ne puisse pas lui dire bientôt », hier au phare, était un subjonctif parfait. ||| 저도 잊지 않았다고 전해 주십시오. 그리고 어제 등대에서 하신 "'곧'이라는 말을 들을 수 없도록"이 완벽한 접속법이었다고도요.
+BANDA: Je lui ferai passer. Il dira que la phrase est de lui. Il aura raison à moitié. ||| 전하겠습니다. 그분은 자기 문장이라고 하실 겁니다. 절반은 맞는 말이고요.
+PASSEUR: (Du pont.) On largue ! ||| (갑판에서.) 출항합니다!
+HÉLÈNE: (Message, 15 h 30, pendant la traversée.) « Jour 30. Le bail du serveur de Dublin a été prolongé hier à minuit. Quarante-huit heures, pas une de plus : il s’éteint dimanche à minuit. Quelqu’un a payé pour la durée exacte du vote. Je ne t’écris pas que c’est fini. Je t’écris que ça a une date de fin. » ||| (문자, 15시 30분, 항해 중.) "30일째. 더블린 서버 임대가 어제 자정에 연장됐어. 48시간, 딱 그만큼. 일요일 자정에 꺼져. 누군가 투표 시간만큼 정확히 돈을 냈어. 끝났다고 쓰는 건 아니야. 끝나는 날짜가 있다고 쓰는 거야."
+CAMILLE: Quelqu'un qui paie pour la durée exacte d'un vote. C'est une signature, non ? ||| 투표 시간만큼 정확히 값을 치르는 사람이라니. 서명이나 다름없네요.
+JULIEN: C'est une habitude. Une faute se corrige, une habitude se trahit. Mais pas ce soir. Ce soir, on écrit ce qui s'est passé, pas ce qui est probable. ||| 습관이야. 잘못은 고쳐지고 습관은 드러나지. 하지만 오늘 밤은 아니야. 오늘 밤은 가능성이 아니라 일어난 일을 적는 거야.
+SAINTE-ROSE: (Sur le quai de Petite-Sœur, quand la Marguerite accoste, à quinze heures cinquante-cinq.) Madame Pinel est là, monsieur Lamy a envoyé son délégué, monsieur Cadet aussi. Nous prendrons chaque urne à deux, ensemble. Chacun lira son numéro avant de la poser. ||| (쁘띠트쇠르 부두, «Marguerite»가 접안하는 15시 55분.) 피넬 선생님이 와 계시고, 라미 씨도 대리인을 보냈고, 카데 씨도 마찬가지예요. 투표함은 하나씩 두 사람이 함께 받겠습니다. 내려놓기 전에 각자 자기 번호를 읽고요.
+JULIEN: (De loin, par téléphone avec Camille, sur haut-parleur.) Elle a dit « ensemble ». ||| (멀리서 카미유와 통화하며, 스피커로.) "함께"라고 하셨네.
+CAMILLE: Elle a dit « chaque numéro ». Quarante et une urnes. Quarante et un numéros. On a gagné une journée. ||| "각자 번호"라고도 했어요. 투표함 41개, 번호 41개. 하루를 얻었네요.
+
++ avis aux navigateurs / avis de coup de vent = 항행 경보 / 강풍 경보. 모든 선박에게 공통으로 나가는 안내로, 특정 국가를 겨냥하지 않는다
++ quelle que soit leur nationalité = 국적을 불문하고. quel que soit + 접속법의 변형으로, 경보의 중립성을 강조
++ la voie réglementaire = 정식 계통. 명령이 위조 메시지가 아닌 규정된 경로로 내려왔음을 확인
++ lever l'ancre avec la renverse = 조류 전환에 맞춰 닻을 올리다. 누가 먼저 움직였는지 불분명하게 만드는 시각 설계
++ saluer son pavillon = 자기 깃발에 경례하다. 해군 예절로 상대에게 하는 인사와 구별된다
++ Il n'y a ni excuses ni reproches. Il y a seulement la mer. = 사과도 비난도 없고 바다만 있다. 케르에르베가 키브웨의 체면을 지키는 마무리
++ le temps a tourné = 날씨가 돌았다 / 시간이 돌았다. temps가 날씨와 시간의 두 뜻을 가진 중의적 제목
++ une faute se corrige, une habitude se trahit = 잘못은 고쳐지고 습관은 드러난다. 4-5의 해법 문장이 되돌아온다
+## 전날 밤 — LA VEILLE
+MARCHAND: (Sur la terrasse du haut-commissariat, à vingt et une heures, un verre de vin blanc à la main.) Asseyez-vous. Le vent monte, j'ai fait mettre les chaises à l'abri du mur. Vous savez, monsieur Delorme, qu'à vingt-deux ans j'ai voulu devenir historien de l'Afrique ? ||| (고등판무관청 테라스, 21시, 백포도주 잔을 들고.) 앉으세요. 바람이 올라와서 의자를 벽 쪽에 붙여 놨습니다. 들로름 씨, 제가 스물두 살 때 아프리카 역사가가 되고 싶었다는 거 아십니까?
+JULIEN: Vous ne me l'aviez pas dit. ||| 말씀하신 적 없는데요.
+MARCHAND: Je n'ai jamais fini ma thèse. Elle portait sur la mission Congo-Nil. Mon directeur disait que mon nom me destinait à ce sujet. Je lui répondais que je préférais les noms d'autrui. Le jour où j'ai appris que j'étais nommé ici, j'ai ri à voix haute dans mon bureau. ||| 논문은 끝내지 못했어요. 주제가 콩고-나일 원정대였습니다. 지도교수는 제 성이 저를 그 주제로 이끈다고 했죠. 저는 남의 이름이 더 좋다고 대꾸했고요. 이곳에 임명됐다는 걸 안 날 사무실에서 소리 내어 웃었습니다.
+CAMILLE: Alors vous connaissez la fin de Fachoda mieux que nous. ||| 그럼 판무관님이 저희보다 파쇼다의 결말을 더 잘 아시겠네요.
+MARCHAND: Je la connais. Le premier Marchand est parti avec son drapeau. Il n'a jamais reconnu qu'il avait perdu : il a dit qu'il avait obéi. L'obéissance, c'est ce qu'on dit quand l'honneur n'est pas disponible. Aujourd'hui, le commandant malavien a dit « mission accomplie ». Je me demande s'il le pense. ||| 압니다. 첫 번째 마르샹은 깃발을 들고 떠났어요. 졌다고 인정한 적이 없고 복종했다고 말했죠. 복종이란 명예가 쓸 수 없는 날에 하는 말입니다. 오늘 말라비 함장은 "임무 완료"라고 했는데, 정말 그렇게 생각하는지 궁금하군요.
+JULIEN: Je crois qu'il en a besoin plus que de la vérité. Et je crois que, dans quelques mois, il la verra autrement. Il aura appris que la voix qu'il a suivie n'était pas celle de son amiral. Quelqu'un le lui dira sans lui faire honte. ||| 그는 진실보다 그 문장이 더 필요하다고 생각합니다. 몇 달 뒤엔 다르게 보겠죠. 자신이 따른 목소리가 제독의 것이 아니었다는 걸 알게 될 겁니다. 누군가 그에게 모욕을 주지 않고 말해 줄 거고요.
+CAMILLE: Qui ? ||| 누가요?
+JULIEN: Quelqu'un qui n'aura pas besoin de lui prouver qu'il avait tort pour être sûr qu'il avait raison de partir. ||| 그가 틀렸다는 걸 증명하지 않고도 떠난 게 옳았다고 확신시킬 수 있는 사람이.
+MARCHAND: Je vous laisse. Demain, je ferai ce que je fais le mieux : être là, à huit heures, au bureau de vote numéro un, avec ma carte d'électeur de la mairie du XVe où je ne vote plus. (Il sourit.) Nous ne votons pas, nous. Nous regardons les autres voter. C'est un métier. ||| 물러가겠습니다. 내일은 제가 제일 잘하는 걸 합니다. 8시에 1번 투표소에 가서 있는 거요. 이제는 투표하지 않는 15구의 선거인 카드를 들고서. (웃는다.) 우리는 투표하지 않습니다. 남들이 투표하는 걸 지켜보지요. 그것도 직업이에요.
+LÉA: (Au téléphone, depuis Paris, 1 h 10 du matin chez elle.) Papa, je ne dors pas. J'ai ouvert le journal en ligne du Courrier. Le titre : « Le temps a tourné. » C'est de toi ? ||| (전화, 파리 새벽 1시 10분.) 아빠, 잠이 안 와요. 쿠리에 온라인 신문을 열었어요. 제목이 "날씨가 돌았다"인데, 아빠가 쓴 거예요?
+JULIEN: C'est de madame Bavoux, que je n'ai pas aidée. Mais j'ai donné une demi-heure d'avance à la phrase. ||| 바부 편집장 제목이고 내가 돕진 않았어. 문장에 삼십 분만 일찍 시간을 줬지.
+LÉA: Alors j'ai une question pour demain. C'est Fachoda, tout ça, hein ? Un recul qui devient un retour. Je veux le définir. Honneur. ||| 그럼 내일을 위한 질문 하나요. 이게 다 파쇼다 얘기죠? 후퇴가 귀환이 되는 것. 정의하고 싶어요. 명예.
+JULIEN: Vas-y. ||| 해 봐.
+LÉA: « L'honneur, c'est ce qu'on peut raconter à ceux qui n'étaient pas là sans rougir devant ceux qui y étaient. » ||| "명예란 그 자리에 없던 사람들에게 이야기할 수 있되, 그 자리에 있던 사람들 앞에서 얼굴을 붉히지 않아도 되는 것이다."
+JULIEN: C'est très bon. Ajoute : et sans avoir pris l'honneur de l'autre pour le payer. Un honneur qui demande le déshonneur d'un autre n'est pas de l'honneur : c'est un duel. ||| 아주 좋아. 이걸 덧붙여. 그리고 값을 치르려고 상대의 명예를 가져오지 않는 것. 다른 사람의 불명예를 요구하는 명예는 명예가 아니라 결투야.
+LÉA: « Un honneur qui exige le déshonneur de l’autre n’est pas de l’honneur : c’est un duel. » Je le note. Papa, tu as peur pour demain ? ||| "다른 사람의 불명예를 요구하는 명예는 명예가 아니라 결투다." 적을게요. 아빠, 내일이 무서워요?
+JULIEN: Non. Demain, nous ne faisons rien. Les gens répondent. Notre travail est fini quand l'urne est fermée. ||| 아니. 내일은 우리가 아무것도 안 해. 사람들이 대답하는 날이야. 우리 일은 투표함이 닫히면 끝나.
+LÉA: Et après ? ||| 그리고 그다음엔요?
+JULIEN: Après, il faut qu'une phrase tienne pour dire ce que le résultat veut dire, et ne veut pas dire. C'est le plus difficile. ||| 그다음엔 결과가 무엇을 뜻하고 무엇을 뜻하지 않는지 말해 줄 문장이 서 있어야 해. 가장 어려운 일이야.
+LÉA: Alors dors, papa. Tu parles mieux quand tu as dormi. ||| 그럼 주무세요, 아빠. 자고 나면 더 말을 잘하잖아요.
+HÉLÈNE: (Message, 22 h 50.) « Jour 30, fin. Demain, jour 31. Je te laisse la nuit. Rappelle-toi : je ne vote pas, je ne publie pas, je ne conclus pas. Je dis seulement que le bail s’éteint à minuit demain. » ||| (문자, 22시 50분.) "30일째 끝. 내일은 31일째. 밤은 네게 맡길게. 기억해. 나는 투표도 공개도 결론도 안 해. 서버 임대가 내일 자정에 꺼진다는 것만 말해 둘게."
+CAMILLE: Dors, Julien. Je veille sur le vent. ||| 자, 쥘리앵. 바람은 내가 지킬게.
+JULIEN: Camille. Merci pour cette journée. Je ne te l'ai pas dit hier, ni avant-hier, ni depuis le début. J'ai pensé à te le dire, mais je préférais te le prouver. ||| 카미유. 오늘 하루 고마웠어. 어제도 그제도 처음부터도 말하지 않았지. 말하려고 생각은 했는데 말보다 증명하고 싶었어.
+CAMILLE: Je le sais. Mais tu viens de le dire. C'est un cachet, ça ? ||| 알아. 그래도 방금 말했네. 이게 소인이야?
+JULIEN: C'est un cachet. Daté, signé : samedi dix-sept octobre, vingt-trois heures. ||| 소인이지. 날짜도 서명도 있는: 10월 17일 토요일 23시.
++ ne pas avoir besoin de prouver qu'on a raison = 옳다는 걸 증명할 필요가 없다. 쥘리앵이 키브웨의 체면을 지키는 방식
++ l'obéissance, c'est ce qu'on dit quand l'honneur n'est pas disponible = 복종이란 명예가 쓸 수 없을 때 하는 말. 마르샹의 파쇼다 철수를 두고 하는 에티엔의 평
++ rougir devant quelqu'un = ~ 앞에서 얼굴을 붉히다. 레아의 «명예» 정의에 나온 표현
++ un honneur qui exige le déshonneur de l'autre = 상대의 불명예를 요구하는 명예. 명예와 결투를 가르는 쥘리앵의 보충
++ la veille = 전날 밤. «la veille du vote»는 투표 전날, «la veille au soir»는 전날 저녁
++ je veille sur le vent = 내가 바람을 지킨다. veiller는 밤새 깨어 지키다. 카미유가 쥘리앵에게 건네는 다정한 농담
++ un cachet daté et signé = 날짜와 서명이 든 소인. 4-9의 «cachet»가 신뢰의 은유로 돌아온 말

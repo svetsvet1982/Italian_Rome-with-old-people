@@ -1,0 +1,135 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 10
+@title Trente jours
+@ko 30일
+@setting 포르오뱅 호텔 방(금요일 아침 7시, J-3) → 등대 방(방다와 비공식 대화) → 전화로 리스본의 발쿠르 → 고등판무관청 화상 회의실(칸다라·파리 연결) → 주교관 참사회실(서명)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파이지만 정직한 상대
+@cast SANGARA | 엘리 상가라, 말라비 공화국 외교장관, 62세. 화상으로 등장(허구)
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세. 화상으로 등장
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 파리에서 화상으로 등장
+@cast MARCHAND | 에티엔 마르샹, 공화국 고등판무관, 58세(허구)
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast SAINTE-ROSE | 오딜 생트로즈, 아르시펠 동맹 대표(자치파), 57세(허구). 처음엔 전화로
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세(허구)
+@cast CADET | 이폴리트 카데, 생토뱅 연합 대표(공화국 잔류파), 63세(허구)
+@cast DORIVAL | 안셀름 도리발 주교, 68세(허구)
+@cast FABRE | 뤼시엔 파브르, 군도 상공회의소 회장, 52세(허구)
+@cast NÉRET | 조엘 네레, 개신교 목사, 52세(허구)
+@cast SYLVAINE | 실벤 도를리스, 포르오뱅의 통역·번역가, 38세
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@note 금요일, 투표 사흘 전입니다(J-3: 오늘과 투표일을 포함해 사흘). 어제 저녁 말라비 외무장관 상가라가 한 문장을 보냈습니다. «투표 30일 뒤 협상이 열리지 않으면 재판소에 제소한다.» 이 기한은 1962년 서한에도 주민투표 문안에도 없습니다. 상가라가 스스로 의회 앞에서 정한 기한이고, 압박하려고 만든 것입니다. 방다는 비공식 대화에서 그것이 상가라 자신의 올가미이기도 하다는 점을 털어놓습니다. 철회하면 체면을 잃고, 유지하면 파리가 맞서야 합니다. 아르샹보는 «우리는 15일로 받겠다»고 맞서자고 하지만, 쥘리앵은 기한에 호가로 맞서지 않습니다. 해법은 기한의 주인을 바꾸는 것입니다. 밖에서 들이민 기한은 최후통첩이고, 양측이 문서에 적은 기한은 일정표입니다. 그래서 투표 문항은 건드리지 않고(이미 인쇄됨), 고등판무관청이 문항과 함께 게시하는 «포르오뱅 선언»에 제15조를 추가합니다. «투표 결과가 어떠하든 공동 개발 협의회는 11월 17일까지 모인다. 예가 이기면 국가와 영토가 그날 협상을 연다.» 문장에는 주어와 날짜가 있고(4-4의 작성 규칙), 개시 여부는 협의회의 중립 서기국이 서면으로 확인합니다. 역사 배경은 1954년 제네바입니다. 피에르 멘데스 프랑스는 1954년 6월 중순 총리로 인준받으면서 «한 달 안에, 즉 7월 20일까지 휴전을 얻지 못하면 사임하겠다»고 의회 앞에서 스스로 기한을 걸었습니다. 제네바 협정은 7월 20일에서 21일로 넘어가는 밤에 서명되었고(그날 밤 시계를 멈춰 놓았다는 이야기가 전해지나 세부는 헤지), 인도차이나 전쟁은 끝났지만 17도선 분단과 1956년 선거 약속이라는 값을 남겼습니다. 선거는 열리지 않았습니다. 교훈은 둘입니다. 기한은 스스로에게 거는 순간 힘이 되지만, 주인과 날짜가 없는 약속은 지켜지지 않습니다.
+@next 4-11 «Fachoda»: 토요일, 투표 전날(J-2). 새벽에 말라비 해군 초계함이 군도 앞 바다에 나타나고, 프랑스 초계함이 마주 섭니다. 두 지휘관 모두 명령을 받았고 누구도 물러설 수 없습니다. 쥘리앵은 누구의 체면도 다치지 않는 후퇴를 설계합니다.
+
+## 서명된 인용 — LE FEU VERT DE PETITE-SŒUR
+JULIEN: Allô ? Madame Sainte-Rose ? Julien Delorme. Je m'excuse, il n'est que sept heures cinq. ||| 여보세요? 생트로즈 씨? 쥘리앵 들로름입니다. 죄송합니다, 아직 7시 5분밖에 안 됐는데요.
+SAINTE-ROSE: À Petite-Sœur, à sept heures cinq, on ne peut téléphoner que pour une mauvaise nouvelle ou pour le pain. Ce n'est pas le pain, je suppose. ||| 쁘띠트쇠르에서 7시 5분에 전화가 오면 나쁜 소식이거나 빵 때문이죠. 빵은 아니겠죠.
+JULIEN: Ce n'est ni l'un ni l'autre. C'est une demande. Ma fille a une épreuve de philosophie cet après-midi, à Paris. Elle voudrait citer une phrase de vous. ||| 둘 다 아닙니다. 부탁 하나입니다. 딸이 오늘 오후 파리에서 철학 시험을 봅니다. 당신의 문장을 인용하고 싶어 합니다.
+SAINTE-ROSE: Une phrase de moi ? Je n'ai pas écrit de livre. ||| 제 문장이요? 저는 책을 쓴 적이 없는데요.
+JULIEN: Hier, sur le seuil, vous m'avez dit qu'on ne trahit pas en changeant de camp, qu'on trahit quand on ne trouve plus sa place dans le sien. Je l'ai noté. Je lui ai transmis la phrase sans vous demander. J'aurais dû vous demander avant. ||| 어제 문턱에서 이렇게 말씀하셨죠. 편을 바꿔서 배반하는 게 아니라 자기 편에서 더는 자리를 찾지 못할 때 배반한다고요. 적어 뒀고, 딸에게 허락 없이 전했습니다. 먼저 여쭤봤어야 했습니다.
+SAINTE-ROSE: Je ne l'ai pas dite comme ça. J'ai dit : « On ne quitte pas un camp. On cesse d'y avoir une chaise. » ||| 그렇게 말하진 않았어요. 저는 "사람은 편을 떠나는 게 아니다. 거기에 의자가 없어지는 거다"라고 했어요.
+JULIEN: C'est plus beau. Et plus exact. Elle peut utiliser votre version ? ||| 그쪽이 더 아름답고 더 정확하군요. 따님이 당신 판본을 써도 될까요?
+SAINTE-ROSE: Elle a quel âge, votre fille ? ||| 따님 몇 살이에요?
+JULIEN: Dix-sept ans. ||| 열일곱 살입니다.
+SAINTE-ROSE: Alors qu'elle écrive mon prénom en entier. Odile. Pas « O. », pas « Odile S. ». Les initiales, c'est pour ceux qui se cachent. J'ai passé un jeudi à me cacher. Ça m'a suffi. ||| 그럼 제 이름을 온전히 쓰라고 하세요. 오딜. "O."도 "오딜 S."도 안 돼요. 머리글자는 숨는 사람들이 쓰는 거예요. 목요일 하루 숨어 봤으니 충분해요.
+JULIEN: Je le lui dirai mot pour mot. Merci, Odile. ||| 한 마디도 안 바꾸고 전하겠습니다. 고마워요, 오딜.
+SAINTE-ROSE: Monsieur Delorme. Hier soir, j'ai reçu un petit mot de Kandara. Une ligne : « Reçue. Lue. Signée, c'est mieux. » Il n'y avait pas de signature. Cette fois, je n'ai pas eu envie de m'en plaindre. ||| 들로름 씨. 어제 저녁 칸다라에서 쪽지가 왔어요. 한 줄. "받음. 읽음. 서명된 쪽이 낫다." 서명은 없더군요. 이번엔 불평하고 싶지 않았어요.
+JULIEN: C'est le monsieur Banda, je crois. Il aime les phrases courtes. ||| 방다 씨겠죠. 짧은 문장을 좋아하는 분이라서요.
+SAINTE-ROSE: Un homme qui aime les phrases courtes n'a pas de petites pensées. Allez, travaillez. Moi, j'ai une pâte à lever. ||| 짧은 문장을 좋아하는 사람은 하찮은 생각을 안 해요. 가서 일하세요. 전 반죽을 부풀리러 갑니다.
+CAMILLE: (Elle entre avec deux cafés.) Elle a dit oui ? ||| (커피 두 잔을 들고 들어온다.) 허락하셨어요?
+JULIEN: Oui, avec une correction qui améliore la phrase et une condition qui améliore l'auteur. ||| 응. 문장을 낫게 하는 수정 하나, 쓰는 사람을 낫게 하는 조건 하나.
+CAMILLE: Je te préviens, ce café n'a pas de nom. Le patron de l'hôtel dit qu'il vient « du Brésil, probablement ». ||| 미리 말해 두는데, 이 커피는 이름이 없어. 호텔 주인이 "아마 브라질산"이라던데.
+JULIEN: Probablement, c'est le mot le plus honnête du menu. ||| "아마"가 메뉴에서 제일 정직한 단어네.
+LÉA: (Message, 7 h 40.) « Papa, je pars pour le lycée dans vingt minutes. Réponse de la dame ? Je ne peux pas rendre une copie avec une citation en l'air. » ||| (문자, 7시 40분.) "아빠, 20분 뒤에 학교로 가요. 그분 답은요? 허공에 뜬 인용을 답안지에 낼 순 없어요."
+JULIEN: (Il dicte en tapant.) « Oui. Texte exact : “On ne quitte pas un camp. On cesse d’y avoir une chaise.” Signé : Odile Sainte-Rose, de Petite-Sœur, en entier. Elle dit que les initiales sont pour ceux qui se cachent. » ||| (타자 치며 불러 준다.) "응. 정확한 문장: '사람은 편을 떠나는 게 아니다. 거기에 의자가 없어지는 거다.' 서명: 쁘띠트쇠르의 오딜 생트로즈, 온전한 이름으로. 머리글자는 숨는 사람들이 쓰는 거라고 하신다."
+LÉA: (Réponse.) « Elle est géniale. Je mets “selon Odile Sainte-Rose, habitante de Petite-Sœur” et je dis en note qu’elle m’a donné la phrase par un intermédiaire : toi. Une source de seconde main, c’est honnête si on le dit. » ||| (답장.) "그분 대단하다. '쁘띠트쇠르 주민 오딜 생트로즈에 따르면'이라고 쓰고, 중개자인 아빠를 통해 받았다고 주석에 쓸게요. 이차 출처도 밝히면 정직한 거니까요."
+JULIEN: (Il répond.) « Source de seconde main, document de première main : la permission. Bonne épreuve. Tu as le droit d’être lente. » ||| (답장한다.) "출처는 이차, 허락은 일차 자료. 시험 잘 봐. 느려도 돼."
+HÉLÈNE: (Message, 7 h 52.) « Jour 29. Horizon Civique SAS : “dissolution anticipée” déposée hier au greffe, journal d’annonces légales à paraître. Une société qui ferme trois jours avant le vote, c’est un commerçant qui baisse le rideau avant le dernier client. Ou avant l’inspecteur. Je ne conclus pas. Je te le dis tôt pour que tu le saches avant ta journée. » ||| (문자, 7시 52분.) "29일째. 호리즌 시비크 SAS가 어제 등기소에 '조기 해산'을 신고했어. 법정 공고지에 곧 실려. 투표 사흘 전에 문을 닫는 회사는 마지막 손님 전에 셔터를 내리는 가게야. 아니면 검사관 전에. 결론은 안 내려. 하루 시작 전에 알도록 일찍 알려 주는 거야."
+CAMILLE: Elle n'a rien demandé en échange ? ||| 대가는 안 달았어요?
+JULIEN: Elle a écrit « je te le dis tôt ». Chez Hélène, c'est une facture à régler plus tard. Le prix, elle le met à la fin de la phrase qu'elle n'écrit pas. ||| "일찍 알려 준다"고 썼잖아. 엘렌한테는 나중에 갚을 청구서라는 뜻이야. 가격은 쓰지 않은 문장 끝에 붙어 있어.
+CAMILLE: Tu es de bonne humeur, pour un homme qui a un ultimatum au petit-déjeuner. ||| 아침 식사로 최후통첩을 받은 사람치고는 기분이 좋아 보이네.
+JULIEN: Je suis de bonne humeur parce qu'une dame m'a rappelé que les chaises comptent. Et que le délai de Sangara, justement, est une affaire de chaise. Viens. Banda nous attend au phare. ||| 한 분이 의자가 중요하다는 걸 일깨워 줘서 기분이 좋은 거야. 그리고 상가라의 기한도 따지고 보면 의자 문제거든. 가자. 방다가 등대에서 기다려.
+CAMILLE: Au phare ? Il aurait pu choisir un café sans nom. ||| 등대요? 이름 없는 카페를 고를 수도 있었을 텐데.
+JULIEN: Il a choisi un lieu qui n'appartient à personne. C'est déjà un message. ||| 누구의 것도 아닌 장소를 골랐어. 그 자체로 메시지야.
++ en entier / en toutes lettres = 온전히 / 풀어서. 이름을 머리글자가 아니라 전부 쓰라는 오딜의 요구
++ les initiales sont pour ceux qui se cachent = 머리글자는 숨는 사람들의 것. 서명 없는 편지를 쓴 지난 목요일의 오딜이 하는 말이라 무게가 있다
++ une source de seconde main = 이차 출처. 중개자를 통해 받은 정보를 숨기지 않고 밝히는 학문적 정직성
++ une citation en l'air = 근거 없이 떠 있는 인용. 출처와 허락 없는 인용을 가리킨다
++ je ne conclus pas = 결론을 내리지 않는다. 엘렌이 정보를 전달하면서 선을 긋는 정형 문구
++ baisser le rideau = 셔터를 내리다, 가게를 닫다. 조기 해산 신고를 비유한 말
++ une dissolution anticipée = 조기 해산. 회사법 용어로, 법정 공고와 등기가 따른다
+
+## 등대 — LE PHARE
+BANDA: Vous êtes à l'heure. Moi, j'ai marché. Le chauffeur de l'ambassade ne sait pas encore qu'il est ici. ||| 시간을 지키셨군요. 저는 걸어왔습니다. 대사관 운전기사는 제가 여기 있는 줄 아직 모릅니다.
+JULIEN: Un phare est un bon endroit pour parler d'un délai. Il est construit pour qu'on voie ce qui arrive avant que cela arrive. ||| 등대는 기한을 이야기하기 좋은 곳이죠. 닥쳐올 일을 닥치기 전에 보라고 지은 건물이니까요.
+BANDA: Ne soyez pas aimable avant que je vous aie dit l'essentiel. Hier soir, mon ministre a dit à son Assemblée une phrase qu'il n'avait pas demandée à son administration. « Trente jours après le scrutin, la négociation s'ouvre, ou Kandara saisit le tribunal arbitral. » ||| 본론을 듣기 전에 친절하게 굴지는 마십시오. 어제 저녁 제 장관이 의회에서 행정부와 상의하지 않은 문장을 말했습니다. "투표 30일 뒤 협상이 열리지 않으면 칸다라는 중재 재판소에 제소한다."
+CAMILLE: Pas demandée à son administration. Donc ce n'est pas dans la note du ministère. ||| 행정부와 상의하지 않았다면, 부처 문서에는 없다는 뜻이네요.
+BANDA: Ce n'est nulle part. Pas dans la lettre de 1962, pas dans la question, pas dans vos déclarations. Ce délai n'a qu'un auteur : lui. Il l'a fixé tout seul, devant les caméras de notre télévision, pour que vous l'entendiez à travers elles. ||| 어디에도 없습니다. 1962년 서한에도, 질문에도, 귀측 선언에도요. 이 기한의 저자는 한 사람, 그분입니다. 혼자 정했고 우리 텔레비전 카메라 앞에서 말했습니다. 카메라를 통해 귀측이 듣게 하려고요.
+JULIEN: Un délai qu'on se donne pour que l'autre se sente pressé. Et pourquoi trente ? Pourquoi pas vingt, pas soixante ? ||| 상대가 쫓기게 하려고 스스로 정한 기한이군요. 왜 30일이죠? 왜 20일도 60일도 아니고요?
+BANDA: Vingt jours, c'est une provocation. Soixante, c'est un renoncement. Trente, c'est un mois. Un mois, tout le monde le comprend, même un paysan, même un journaliste. Et surtout, c'est assez court pour que votre Assemblée ne puisse rien préparer, et assez long pour qu'il ait l'air patient. ||| 20일은 도발이고 60일은 포기입니다. 30일은 한 달입니다. 한 달은 누구나 이해합니다, 농부도 기자도요. 게다가 귀국 의회가 아무것도 준비할 수 없을 만큼 짧고, 그분이 참을성 있어 보일 만큼은 깁니다.
+JULIEN: Vous parlez de lui comme d'un homme qui s'est mis un nœud coulant et l'a montré à tout le monde. ||| 올가미를 스스로 목에 걸어 놓고 모두에게 보여 준 사람처럼 말씀하시네요.
+BANDA: Parce que c'est exactement ce qu'il a fait. S'il retire la phrase, son opposition dira qu'il a plié devant Paris. S'il la garde et que rien ne s'ouvre, il doit saisir le tribunal, un tribunal qui peut lui donner tort. Dans les deux cas, il perd. Dans les deux cas, il vous le fera payer. ||| 정확히 그렇게 했으니까요. 문장을 거두면 야당이 파리에 굽혔다고 할 겁니다. 유지했는데 아무것도 열리지 않으면 재판소에 제소해야 하는데, 그 재판소가 그분에게 불리하게 판결할 수도 있고요. 어느 쪽이든 그분이 집니다. 어느 쪽이든 그 대가를 귀측에 치르게 하겠죠.
+JULIEN: C'est la corde la plus dangereuse, celle qu'on s'est passée soi-même. On ne peut accuser personne. ||| 제일 위험한 밧줄이군요, 스스로 맨 밧줄. 탓할 사람이 없으니까요.
+BANDA: Voilà pourquoi je suis ici avant huit heures et sans mon chauffeur. Vous voyez que je ne viens pas défendre le délai. Je viens vous dire qu'il est un problème pour nous aussi. ||| 그래서 제가 8시 전에, 운전기사도 없이 여기 와 있는 겁니다. 저는 기한을 옹호하러 온 게 아닙니다. 우리에게도 문제라는 말씀을 드리러 온 겁니다.
+CAMILLE: Vous demandez de l'aide ? ||| 도움을 청하시는 건가요?
+BANDA: Je demande qu'on ne me demande pas de l'avouer. ||| 도움을 청했다고 인정하라는 요구는 하지 말라는 겁니다.
+JULIEN: Entendu. Je ne répéterai pas cette phrase. Posons les trois sortes de délais, si vous voulez. Cela se fait en trois lignes sur le mur du phare. ||| 알겠습니다. 이 문장은 옮기지 않겠습니다. 기한을 세 종류로 나눠 볼까요. 등대 벽에 세 줄이면 됩니다.
+BANDA: Je vous écoute. Vous avez de la craie ? ||| 듣겠습니다. 분필 있습니까?
+JULIEN: J'en ai toujours une, depuis la table du Conseil. Un : le délai imposé à l'autre. C'est un ultimatum. Il dit « fais, ou je frappe ». Deux : le délai qu'on s'impose à soi-même, en public. C'est une promesse. Il dit « je ferai, ou je paie ». Trois : le délai que les deux écrivent ensemble dans une procédure. C'est un calendrier. Il dit « nous ferons ». ||| 협의회 탁자에서 나온 뒤로 늘 갖고 다닙니다. 하나, 상대에게 들이미는 기한. 최후통첩입니다. "하라, 아니면 친다." 둘, 자기 자신에게 거는 기한, 공개적으로. 약속입니다. "하겠다, 아니면 대가를 치른다." 셋, 양쪽이 절차 안에 함께 적은 기한. 일정표입니다. "우리가 하겠다."
+BANDA: Mon ministre a fabriqué un numéro deux et l'a brandi comme un numéro un. ||| 제 장관은 둘째 종류를 만들어 놓고 첫째 종류처럼 휘둘렀군요.
+JULIEN: Exactement. Il s'est lié lui-même, mais en pointant le doigt vers nous. Si on le laisse comme ça, c'est un ultimatum. Si on l'écrit à deux, c'est un calendrier. La date ne change pas. Son propriétaire change. ||| 정확합니다. 스스로 묶었는데 손가락은 우리를 가리켰죠. 그대로 두면 최후통첩이고, 둘이 함께 적으면 일정표입니다. 날짜는 바뀌지 않습니다. 주인이 바뀝니다.
+BANDA: Le jour où je suis arrivé à Paris, je vous ai dit : « Ce n'est pas un adjectif, c'est un calendrier. » Je parlais de « libre ». Je ne pensais pas que le mot reviendrait pour moi. ||| 제가 파리에 도착한 날 이렇게 말씀드렸죠. "이건 형용사가 아니라 일정표입니다." "자유로운"을 두고 한 말이었는데, 그 단어가 이렇게 제게 돌아올 줄은 몰랐습니다.
+JULIEN: Alors faisons que celui-ci soit un bon calendrier. Dites-moi ce que Sangara doit pouvoir dire à son Assemblée lundi. ||| 그럼 이번 일정표를 제대로 만들죠. 상가라 장관이 월요일 의회에서 무슨 말을 할 수 있어야 하는지 말씀해 주십시오.
+BANDA: Trois choses. Une date : qu'on ne puisse pas lui dire « bientôt ». Une présence : que le Malavi ne soit pas informé après coup. Une autorité qui constate : que ce ne soit pas la France qui dise « c'est ouvert ». ||| 세 가지입니다. 날짜, 즉 "곧"이라는 말을 들을 수 없을 것. 참석, 즉 말라비가 사후에 통보받는 처지가 아닐 것. 확인하는 권위, 즉 "열렸다"고 말하는 쪽이 프랑스가 아닐 것.
+CAMILLE: Date, présence, constat. Trois mots-clés, trois solutions possibles. La date, on la fixe. La présence, ça dépend de ce qu'on appelle « ouvrir ». Le constat, on l'a déjà : le secrétariat neutre du Conseil. ||| 날짜, 참석, 확인. 키워드 셋에 해법 셋이 가능해요. 날짜는 정하면 되고, 참석은 "연다"를 어떻게 정의하느냐에 달렸고, 확인은 이미 있어요. 협의회의 중립 서기국이요.
+BANDA: Un secrétariat que nous avons nommé ensemble, avec des Français et des Malaviens dedans ? Mon ministre ne peut pas dire qu'il est partial. Il dirait que c'est une politesse. ||| 우리가 함께 지명한, 프랑스인과 말라비인이 같이 들어 있는 서기국 말입니까? 장관이 편파적이라고 할 수는 없겠군요. 예의 차원의 문제라고 하겠죠.
+JULIEN: Une politesse qui écrit. Les politesses qui écrivent sont des preuves. ||| 글로 적는 예의지요. 글로 적는 예의는 증거가 됩니다.
+OKANLA: (Au téléphone, haut-parleur, voix fatiguée.) Bonjour, messieurs, madame. Je suppose que vous êtes dans le phare, que le café est mauvais et que vous avez déjà trouvé la solution. Je suis dans un taxi à Paris. Je n'ai pas le café, mais j'ai la vue. ||| (스피커 전화, 지친 목소리.) 안녕하세요, 여러분. 아마 등대에서 커피는 형편없고 해법은 벌써 찾으셨겠죠. 저는 파리 택시 안입니다. 커피는 없지만 전망은 있습니다.
+JULIEN: Pas la solution, madame l'ambassadrice. Une direction. Le délai de monsieur Sangara serait inscrit dans la procédure même du scrutin. Pas dans la question, qui est imprimée, mais dans le texte qui la suit. ||| 해법이 아니라 방향입니다, 대사님. 상가라 장관의 기한이 투표 절차 자체에 기재되는 겁니다. 이미 인쇄된 질문이 아니라 질문에 뒤따르는 문서에요.
+OKANLA: La Déclaration de Port-Aubin. Elle prévoit que le haut-commissaire publie tout texte postérieur avec elle. Vous avez lu l'article quatorze. Banda me l'avait signalé le jour du Concordat, et je l'ai fait relire deux fois. ||| 포르오뱅 선언이군요. 고등판무관이 이후 문서를 선언과 함께 공개하도록 되어 있죠. 14조를 읽으셨겠죠. 방다가 콩코르다 날 그 조항을 알려 줘서 저도 두 번 다시 읽었습니다.
+JULIEN: Un article quinze, donc. Madame, je dois dire une chose avant Paris : madame Archambault me propose de répondre à Kandara par un délai de quinze jours. ||| 그렇다면 15조입니다. 대사님, 파리가 알기 전에 말씀드릴 게 있습니다. 아르샹보 비서실장이 칸다라에 15일 기한으로 응수하자고 합니다.
+BANDA: Quinze jours. Elle veut montrer qu'elle n'a pas peur. ||| 15일이라. 두렵지 않다는 걸 보이고 싶은 거군요.
+JULIEN: Elle veut montrer qu'elle est plus rapide. Je lui répondrai qu'on ne surenchérit pas sur un délai. Si Sangara dit trente et que nous disons quinze, nous avons un concours, et un concours se gagne ou se perd. ||| 더 빠르다는 걸 보이고 싶은 거죠. 기한에는 호가로 맞서지 않는다고 답할 겁니다. 상가라가 30일이라 하는데 우리가 15일이라 하면 경주가 되고, 경주는 이기거나 지는 겁니다.
+OKANLA: Et vous ? Vous voulez gagner quoi ? ||| 그럼 당신은요? 무엇을 이기고 싶으십니까?
+JULIEN: Rien. Je veux que personne n'ait besoin de gagner. Je veux un délai dont personne ne soit l'otage. ||| 아무것도요. 누구도 이길 필요가 없게 하고 싶습니다. 누구도 인질이 되지 않는 기한을요.
+OKANLA: Alors venez à onze heures. Mon ministre sera sur l'écran. Il aime les hommes qui lui disent non en le laissant gagner la phrase. ||| 그럼 11시에 오세요. 장관이 화면에 나옵니다. 자기가 문장은 이기게 해 주면서 아니라고 말하는 사람을 좋아하십니다.
++ saisir le tribunal arbitral = 중재 재판소에 제소하다. 상가라의 문장에 나온 법률 표현. saisir quelqu'un de quelque chose의 형태로도 쓴다
++ un nœud coulant = 올가미. 스스로 건 기한을 가리키는 방다의 비유
++ ne pas surenchérir sur un délai = 기한에 호가로 맞서지 않다. surenchérir는 경매에서 더 높은 값을 부르는 것
++ un ultimatum / une promesse / un calendrier = 최후통첩 / 약속 / 일정표. 쥘리앵이 벽에 적은 기한의 세 종류
++ la date ne change pas, son propriétaire change = 날짜는 그대로, 주인이 바뀐다. 해법의 문장
++ constater = 서면으로 확인하다, 확인 기록을 남기다. 관청이나 서기국이 사실을 공식 기록하는 동사
++ être l'otage de qqn / qqch = ~의 인질이 되다. 기한이 사람을 묶는 상태를 가리킨다
+
+## 제네바 1954 — LE FROMAGE DE LISBONNE
+VALCOURT: (Au téléphone, bruit de couverts.) Delorme. Je vous réponds depuis mon assiette. Queijo da Serra, vingt-quatre mois, il se cuillère sur du pain, comme un grand blessé. Vous m'appelez parce que quelqu'un a mis un chronomètre sur la table. ||| (수화기 너머로 식기 소리.) 들로름. 접시 앞에서 받네. 케이주 다 세하, 24개월 숙성, 빵 위에 숟가락으로 떠먹는 거야, 중상자처럼. 누가 탁자에 초시계를 올려놨다는 얘기겠지.
+JULIEN: Trente jours. Mais le chronomètre est celui de Sangara, pas le nôtre. Il l'a lancé lui-même, devant son Assemblée. ||| 30일입니다. 그런데 초시계는 우리 것이 아니라 상가라의 것이에요. 본인이 의회 앞에서 직접 눌렀습니다.
+VALCOURT: Alors, Mendès France. Vous voulez qu'on parle de Genève ? ||| 그럼 멘데스 프랑스로군. 제네바 얘기를 하자는 건가?
+JULIEN: Je voudrais l'entendre dire par quelqu'un qui n'a pas besoin de ses notes. ||| 메모 없이 말할 수 있는 분의 입으로 듣고 싶습니다.
+VALCOURT: Je n'en ai pas besoin, mais j'en ai envie. Juin mil neuf cent cinquante-quatre. La guerre d'Indochine dure depuis près de huit ans. Dien Bien Phu est tombé en mai. À Genève, la conférence siège depuis la fin avril et elle tourne en rond, comme tout ce qui n'a pas d'heure. ||| 필요는 없지만 하고 싶네. 1954년 6월. 인도차이나 전쟁이 8년 가까이 이어지고 있었어. 디엔비엔푸는 5월에 함락됐고. 제네바에서는 4월 말부터 회의가 열렸지만 끝나는 시각이 없는 모든 것처럼 빙빙 돌고 있었지.
+CAMILLE: Et Pierre Mendès France arrive. ||| 그때 피에르 멘데스 프랑스가 등장하죠.
+VALCOURT: Il est investi président du Conseil dans la nuit du dix-sept juin. Et dans son discours d'investiture, il fait une chose que personne ne lui demande : il fixe lui-même une date. Il demande à l'Assemblée de lui donner un mois. Il se présentera devant elle le vingt juillet. Si, à cette date, il n'a pas obtenu de cessez-le-feu, il démissionnera. ||| 그는 6월 17일 밤에 총리로 인준을 받았어. 그리고 취임 연설에서 아무도 요구하지 않은 일을 해. 스스로 날짜를 정한 거야. 의회에 한 달을 달라고 하고, 7월 20일에 다시 의회 앞에 서겠다고 했지. 그때까지 휴전을 얻지 못하면 사임하겠다고.
+JULIEN: Il se lie lui-même, devant tout le monde. ||| 스스로를, 모두 앞에서 묶은 거군요.
+VALCOURT: Et il le sait, ce n'est pas un détail. Un chef de gouvernement qui dit « un mois » se condamne à réussir ou à partir. La délégation du Viêt Minh sait qu'il partira. Les Anglais, les Soviétiques le savent. Ils savent aussi que s'il tombe, celui qui viendra après lui sera plus faible, ou plus dur. Son délai n'est pas une menace. C'est une information sur le prix de son échec. ||| 그리고 그건 사소한 게 아니야. "한 달"이라고 말하는 총리는 성공하거나 떠나거나, 둘 중 하나로 자신을 묶은 거지. 베트민 대표단도 그가 떠날 걸 알아. 영국도 소련도 알고. 그가 쓰러지면 뒤를 잇는 이가 더 약하거나 더 강경하리라는 것도 알지. 그의 기한은 위협이 아니야. 자기 실패의 값에 대한 정보야.
+CAMILLE: Donc le délai pressait les autres sans les menacer. ||| 그러니까 기한이 상대를 위협하지 않고 압박한 거네요.
+VALCOURT: Exactement. Il pressait par sa propre fragilité. Le vingt juillet, à la fin, ils signent dans la nuit du vingt au vingt et un juillet. On raconte qu'on arrête les pendules à minuit pour que la signature reste datée du vingt. Je ne jurerais pas de l'anecdote, mais je jurerais de ce qu'elle dit : la date était devenue plus forte que l'heure. ||| 정확해. 자기 약점으로 압박한 거야. 결국 7월 20일에서 21일로 넘어가는 밤에 서명하지. 서명이 20일 자로 남도록 자정에 시계를 멈췄다는 얘기가 전해져. 일화 자체는 장담 못 하지만 그 일화가 말하는 건 장담해. 날짜가 시각보다 강해졌다는 거지.
+JULIEN: Et la nuance qui a un prix ? Vous la gardez toujours pour la fin. ||| 값을 치른 뉘앙스는요? 늘 끝에 남겨 두시잖아요.
+VALCOURT: Je la garde parce que c'est la plus vraie. Le prix, c'est la ligne du dix-septième parallèle. La séparation du Viêt Nam en deux, provisoire, disait-on, jusqu'à des élections prévues pour juillet mil neuf cent cinquante-six. Ces élections n'ont pas eu lieu. Personne n'était propriétaire de la phrase. ||| 가장 진실하니까 남겨 두는 거지. 값은 17도선이야. 베트남을 둘로 나누되 잠정적이라고 했고, 1956년 7월 선거를 약속했어. 그 선거는 열리지 않았어. 그 문장의 주인이 아무도 없었던 거야.
+JULIEN: Un délai pour s'asseoir à la table, mais pas de propriétaire pour ce qui devait suivre. ||| 탁자에 앉는 기한은 있었는데, 그 뒤에 와야 할 일의 주인이 없었군요.
+VALCOURT: Voilà pourquoi je vous appelle de ma cuisine et non de ma conscience. Quand vous écrirez votre délai, mettez dedans un sujet et une date. Qui ouvre ? Quand ? Qui constate ? Sinon, vous aurez fait le même travail que les hommes de Genève : une belle heure, un grand soulagement, et vingt ans de silence. ||| 그래서 양심이 아니라 부엌에서 전화하는 걸세. 기한을 쓸 땐 주어와 날짜를 넣게. 누가 여는가? 언제? 누가 확인하는가? 아니면 제네바 사람들과 같은 일을 하게 될 거야. 아름다운 한 시간, 큰 안도, 그리고 20년의 침묵.
+CAMILLE: C'est la règle du Concordat. Un verbe, un sujet, une date. ||| 콩코르다의 규칙이네요. 동사, 주어, 날짜.
+VALCOURT: Quatre-vingt-dix pour cent de la diplomatie, c'est de la grammaire. Les dix autres sont du fromage. Au fait, comment va votre couteau ? ||| 외교의 90퍼센트는 문법이야. 나머지 10퍼센트는 치즈고. 그건 그렇고 칼은 잘 있나?
+JULIEN: Il ne me quitte plus. Hier, il a ouvert une enveloppe sans bruit. ||| 떠나는 법이 없습니다. 어제는 소리 없이 봉투를 열었어요.
+VALCOURT: C'est son métier. Mon père disait qu'un bon couteau est celui qui ne fait pas sentir qu'il a coupé. Allez. Et mangez quelque chose avant onze heures. ||| 그게 칼의 직업이야. 아버지는 좋은 칼은 잘랐다는 걸 느끼게 하지 않는 칼이라고 하셨지. 가 보게. 11시 전에 뭘 좀 먹고.
++ investi(e) président(e) du Conseil = 총리로 인준받은. 제4공화국의 총리 호칭(président du Conseil)과 의회의 신임 투표
++ fixer soi-même une date = 스스로 날짜를 정하다. 멘데스 프랑스가 의회에 한 달을 요구하며 건 기한
++ démissionner = 사임하다. «S'il n'a pas obtenu… il démissionnera»는 미래완료와 단순미래의 호응 문장
++ arrêter les pendules = 시계를 멈추다. 제네바 서명 밤의 전승(세부는 헤지)
++ je ne jurerais pas de l'anecdote = 그 일화는 장담하지 못한다. 불확실한 전승을 말할 때 쓰는 신중한 화법
++ le dix-septième parallèle = 17도선. 1954년 제네바 협정이 정한 잠정 군사 분계선
++ de ma cuisine et non de ma conscience = 양심이 아니라 부엌에서. 가볍고 실용적인 조언임을 알리는 발쿠르식 농담

@@ -1,0 +1,257 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 12
+@title Le plébiscite de tous les jours
+@ko 매일의 국민투표
+@setting 포르오뱅 1번 투표소와 시청(일요일, J-1, 투표일) → 시청 별관(오후 4시 30분) → 개표 밤과 쁘띠트쇠르의 등불 → 시청 광장(밤 11시) → 파리 케도르세(화요일) → 파리 7구 «Chez Madeleine»(수요일 저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 고3, 철학 바칼로레아 준비 중
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 쥘리앵에게 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast MERCADIER | 가스파르 메르카디에, 해외영토부 비서실장, 46세
+@cast MARCHAND | 에티엔 마르샹, 공화국 고등판무관, 58세(허구)
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세(허구)
+@cast CADET | 이폴리트 카데, 생토뱅 연합 대표(공화국 잔류파), 63세(허구)
+@cast SAINTE-ROSE | 오딜 생트로즈, 아르시펠 동맹 대표(자치파), 57세(허구)
+@cast DORIVAL | 안셀름 도리발 주교, 68세(허구)
+@cast FABRE | 뤼시엔 파브르, 군도 상공회의소 회장, 52세(허구)
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세
+@cast OCTAVE | 옥타브 노, 생트마르트의 노(老) 어부, 67세(허구)
+@cast SYLVAINE | 실벤 도를리스, 포르오뱅의 통역·번역가, 38세
+@cast PINEL | 도로테 피넬, 포르오뱅 중학교 영어 교사(허구)
+@cast BAVOUX | 에스텔 바부, «르 쿠리에 드 라르시펠» 편집장, 54세(허구)
+@cast PRÉSIDENTE | 개표 위원회 의장, 판사(허구)
+@cast MADELEINE | 마들렌 술리에, 식당 «Chez Madeleine»의 주방장 겸 주인, 61세(허구)
+@note 시리즈 최종화입니다. 일요일 투표일입니다. 사람들이 줄을 서 있을 때 쥘리앵은 아직 결과를 모르는 지금이 규칙을 정할 유일한 시간이라고 판단합니다. 결과가 나온 뒤에는 이긴 쪽이 «끝났다»고 하고 진 쪽이 «정당하지 않다»고 할 것이기 때문입니다. 그래서 투표소가 닫히기 전에 여섯 서명자가 선언 제16조에 서명합니다. 이 조는 같은 질문을, 같은 낱말로, 세 언어로, 5년마다 다시 묻습니다(재질문 규칙). 오후 4시 30분에 리스본의 발쿠르가 전화로 르낭을 읽어 줍니다. 1882년 3월 11일 소르본 강연 「민족이란 무엇인가」에서 르낭은 민족의 존재는 «매일의 국민투표»라고 했습니다. 나폴레옹 3세의 국민투표가 «예»만 되풀이했던 것과 달리 르낭은 이 말에 질문을 돌려줍니다(1871년 알자스·로렌이 주민의 의견을 묻지 않고 병합되었다는 것이 배경). 밤에는 폭풍이 와서 쁘띠트쇠르의 전기가 끊기고 세 정당 대표가 등불로 투표용지를 다시 셉니다. 최종 결과는 예 3,242표(51.3%), 아니오 3,078표(48.7%), 차이는 164표입니다. 쥘리앵이 정한 첫 문장은 승패의 말이 아니라 사실과 한계입니다. 이후 매듭이 풀립니다. 엘렌이 발루아 잔당의 마지막 흔적을 정리하고(공개 등기만으로, 체포 없이), 메르카디에는 봉인 1호를 열지 않은 채 돌려주며, 수요일 밤 «Chez Madeleine»에서 모두가 모입니다. 레아는 바칼로레아 모의시험 답안에 아버지의 방식을 인용했습니다. 마지막 대사에서 «D'accord, mais…»가 한 번 «D'accord, tout court»로 바뀝니다. 시리즈의 말은 두 문장으로 끝납니다. «뉘앙스는 평화의 문법이다», 그리고 «뉘앙스에는 값이 있다».
+@next (시리즈 최종화) 4부와 «LA NUANCE» 전체가 여기서 끝납니다. 다음 부는 없습니다.
+
+## 일요일 8시 — LE JOUR DE LA RÉPONSE
+SYLVAINE: (Devant la mairie, au micro, à sept heures cinquante-cinq.) Mesdames, messieurs, avant l'ouverture, je lis la question une dernière fois, dans les trois langues, comme chaque matin depuis mercredi. « Souhaitez-vous que Saint-Aubin et la République française ouvrent une négociation sur le statut de l'archipel, dont le résultat vous sera soumis par un second vote ? » ||| (시청 앞 마이크, 7시 55분.) 여러분, 개장 전에 수요일부터 매일 아침 그랬듯 질문을 세 언어로 마지막으로 읽습니다. "생토뱅과 프랑스 공화국이 군도의 지위에 관한 협상을 열고 그 결과를 두 번째 투표에 부치기를 원하십니까?"
+OCTAVE: (Premier de la file, casquette à la main.) Mademoiselle, vous pouvez la lire dans toutes les langues du monde, je la connais par cœur depuis que mon petit-fils me l'a écrite sur le frigo. Je viens pour l'enveloppe, pas pour la question. ||| (줄 맨 앞, 모자를 손에 들고.) 아가씨, 세계 모든 언어로 읽어도 되지만 손자가 냉장고에 써 놔서 외워 버렸어요. 저는 질문이 아니라 봉투 때문에 왔습니다.
+VANTOUR: (À la porte du bureau numéro un, avec son écharpe tricolore.) Monsieur Nau, le bureau est ouvert. Vous êtes le premier. Vous avez le droit de passer avant la maire, ce qui n'arrive qu'une fois par scrutin. ||| (1번 투표소 문 앞, 삼색 띠를 두르고.) 노 씨, 투표소 열렸습니다. 첫 번째이십니다. 시장보다 먼저 들어가는 건 투표 때 한 번뿐이에요.
+OCTAVE: Madame la maire, mes cinquante ans de pêche m'ont appris une chose : on regarde la mer le matin, pas la veille. Je regarde le ciel, je mets mon bulletin. ||| 시장님, 50년 조업이 가르친 건 하나예요. 바다는 전날이 아니라 아침에 봅니다. 하늘을 보고 투표용지를 넣습니다.
+JULIEN: (À Camille, sur le perron, à voix basse.) Regarde-le. Il ne vote pas pour ou contre quelque chose. Il vote comme on salue quelqu'un à qui on doit quelque chose. ||| (층계에서 카미유에게 낮은 목소리로.) 저분 좀 봐. 무언가에 찬성하거나 반대하는 게 아니야. 빚진 사람에게 인사하듯 투표하고 있어.
+CAMILLE: Tu as dormi ? ||| 잤어?
+JULIEN: Quatre heures. Le vent est tombé de ce côté-ci du port, pas de l'autre. Il vient ce soir. Le bulletin dit vingt heures, la mer dira vingt heures trente. ||| 네 시간. 이쪽 항구는 바람이 가라앉았는데 저쪽은 아니야. 오늘 저녁에 와. 예보는 20시고 바다는 20시 30분이라 할 거야.
+BAVOUX: (Elle approche avec son carnet.) Monsieur Delorme, une question d'avant-vote, la dernière. Si c'est serré ? Ce soir, si c'est cinquante-cinquante, vous faites quoi ? Il y aura des cris dans les deux camps. ||| (수첩을 들고 다가온다.) 들로름 씨, 투표 전 마지막 질문입니다. 박빙이면요? 오늘 밤 50 대 50이면 어떻게 하죠? 양쪽에서 고함이 나올 텐데요.
+JULIEN: Madame Bavoux, je ne réponds pas à une question de conditionnel. Je réponds à ce qui existe. Il existe une règle qui n'est pas encore écrite. C'est ce qui me tient éveillé. ||| 바부 편집장님, 조건법 질문에는 답하지 않습니다. 존재하는 것에 답합니다. 아직 쓰이지 않은 규칙이 하나 있고, 그게 저를 깨어 있게 합니다.
+OCTAVE: (Il sort du bureau, l'air grave.) C'est fait. J'ai posé mon enveloppe. J'ai entendu dire, au café, que si le résultat est serré, on vous refait voter jusqu'à ce que ça penche. C'est vrai ? ||| (심각한 얼굴로 투표소에서 나온다.) 끝났어요. 봉투 넣었습니다. 카페에서 들었는데, 결과가 박빙이면 기울 때까지 다시 투표시킨다더군요. 사실입니까?
+JULIEN: Non, monsieur Nau. On ne refait pas voter. On redemande. ||| 아닙니다, 노 씨. 다시 투표시키지 않습니다. 다시 묻습니다.
+OCTAVE: C'est quoi, la différence ? Moi, je vois que c'est le même verbe. ||| 뭐가 다릅니까? 저한테는 같은 동사로 들리는데요.
+JULIEN: Refaire, c'est dire que la première fois ne comptait pas. Redemander, c'est dire que la première fois comptait, et qu'on demandera encore plus tard, à date fixe. Une réponse compte cinq ans. Après cinq ans, on vous refait la question. Pas parce qu'on n'aime pas la réponse. Parce que vous avez changé. ||| 다시 한다는 건 첫 번째가 셈에 들지 않았다는 말이고, 다시 묻는다는 건 첫 번째도 셈에 들지만 나중에 정해진 날에 또 묻겠다는 말입니다. 한 번의 대답은 5년을 갑니다. 5년 뒤에 다시 묻고요. 대답이 마음에 안 들어서가 아니라 여러분이 달라졌기 때문에요.
+OCTAVE: Cinq ans… J'en aurai soixante-douze. Je voterai à nouveau, si le bon Dieu veut. Mon petit-fils aura vingt-deux ans et aura le droit de me dire que j'ai tort. Ça me plaît. ||| 5년이라... 제가 일흔둘이 되겠네요. 하느님이 허락하시면 또 투표하겠죠. 손자는 스물두 살이 되어 제가 틀렸다고 말할 권리를 갖고요. 마음에 드는데요.
+HÉLÈNE: (Message, 8 h 20.) « Jour 31. Je ne vote pas. Je regarde le calendrier. Quelque chose, à Dublin, attend minuit. Dis aux gens qu’ils peuvent respirer, mais pas trop fort. » ||| (문자, 8시 20분.) "31일째. 나는 투표 안 해. 달력을 봐. 더블린의 무언가가 자정을 기다려. 사람들에게 숨 쉬어도 된다고 해, 너무 세게는 말고."
+JULIEN: Camille. Il faut que je parle aux six avant dix-huit heures. Avant que le premier bureau ferme. Pas après. ||| 카미유. 18시 전에 여섯 대표와 이야기해야 해. 첫 투표소가 닫히기 전에. 닫힌 뒤가 아니라.
+CAMILLE: Pourquoi avant ? Après, ils seraient disponibles. Ce soir, tout le monde sera ici, de toute façon. ||| 왜 전에요? 후엔 다들 시간이 있잖아요. 오늘 밤엔 어차피 모두 여기 있을 텐데.
+JULIEN: Justement. Après, ils ne seront plus disponibles. Ils seront gagnants ou perdants. Une règle que l'on signe en ignorant qui en profitera, c'est une règle. Une règle que l'on signe en connaissant le résultat, c'est un marché. ||| 바로 그 때문이야. 뒤엔 가능한 사람이 없어. 이긴 사람과 진 사람만 있을 테니까. 누가 득을 볼지 모른 채 서명한 건 규칙이야. 결과를 알고 서명한 건 거래고.
+CAMILLE: Tu veux les faire signer dans le noir. ||| 어둠 속에서 서명시키겠다는 거네.
+JULIEN: Dans le crépuscule, Camille. Pas dans le noir. À seize heures trente, à la mairie, annexe de la salle du conseil. Dis à Marchand de convoquer les six. Et appelle Lisbonne. ||| 어둠이 아니라 해 질 녘이야, 카미유. 16시 30분, 시청 회의실 별관. 마르샹 판무관에게 여섯 대표를 소집하라고 해. 그리고 리스본에 전화해.
++ le jour de la réponse = 응답의 날, 투표일. «scrutin»과 달리 질문에 대한 사람들의 응답에 방점을 둔 제목
++ redemander ≠ refaire = 다시 묻다 ≠ 다시 하다. refaire는 첫 번째를 무효로 보고, redemander는 유효로 보면서 날짜를 정해 또 묻는다
++ une question de conditionnel = 조건법으로 묻는 질문. 쥘리앵은 가정이 아니라 존재하는 것에만 답한다
++ si c'est serré = 박빙이라면. serré는 «근소한, 팽팽한»의 구어체 표현
++ un cadeau / une loi = 선물 / 법. 서명자와 함께 공개하느냐에 따라 규칙의 성격이 달라진다는 쥘리앵의 구분
++ une règle / un marché = 규칙 / 거래. 결과를 모르고 서명하면 규칙, 알고 서명하면 거래
++ dans le crépuscule, pas dans le noir = 어둠이 아니라 해 질 녘에. 결과를 모르되 앞이 보이는 상태를 가리킨다
+
+## 제16조 — AVANT LE RÉSULTAT
+VALCOURT: (Au téléphone, depuis Lisbonne, dix-neuf heures trente, un cliquetis de verres.) Delorme. Tu m'as réveillé à l'heure où j'ouvre les bouteilles. Qu'est-ce que je dois te lire ? ||| (리스본에서 전화, 19시 30분, 잔 부딪는 소리.) 들로름. 병을 따기 시작하는 시간에 깨웠군. 뭘 읽어 달라는 건가?
+JULIEN: Renan, monsieur l'ambassadeur. Les six sont autour de moi, avec le haut-commissaire. Je mets le téléphone sur la table. Vous êtes au micro. ||| 르낭입니다, 대사님. 여섯 대표와 고등판무관이 주위에 있습니다. 전화를 탁자에 놓겠습니다. 마이크 앞이십니다.
+VALCOURT: Alors écoutez-moi bien, mesdames et messieurs, je ne le dirai qu'une fois, et ça tombera d'un vieux livre. Le onze mars mil huit cent quatre-vingt-deux, à la Sorbonne, Ernest Renan donne une conférence : « Qu'est-ce qu'une nation ? » Onze ans après la perte de l'Alsace-Moselle. Personne n'avait demandé leur avis aux habitants. ||| 그럼 잘 들으십시오, 여러분. 한 번만 말씀드릴 테고 오래된 책에서 떨어지는 말입니다. 1882년 3월 11일 소르본에서 에르네스트 르낭이 강연합니다. "민족이란 무엇인가?" 알자스-모젤을 잃은 지 11년 뒤였죠. 주민에게 의견을 물은 사람은 아무도 없었습니다.
+CADET: Je connais la conférence. Mes professeurs l'aimaient plus que moi. ||| 그 강연은 압니다. 선생님들이 저보다 더 좋아하셨죠.
+VALCOURT: Alors vous connaissez la phrase. « L'existence d'une nation est (pardonnez-moi cette métaphore) un plébiscite de tous les jours, comme l'existence de l'individu est une affirmation perpétuelle de vie. » Je lis lentement. Le mot que je veux vous faire entendre, c'est « tous les jours ». ||| 그렇다면 그 문장도 아시겠군요. "민족의 존재는 (이 비유를 용서하시라) 매일의 국민투표이며, 개인의 존재가 삶의 끊임없는 긍정인 것과 같다." 천천히 읽습니다. 들려드리고 싶은 말은 "매일"입니다.
+FABRE: Plébiscite. Chez nous, ce mot-là sent mauvais. Il évoque Napoléon trois. ||| 국민투표라니요. 저희 쪽에서는 그 말에서 냄새가 납니다. 나폴레옹 3세가 떠오르거든요.
+VALCOURT: Madame, vous avez raison. Napoléon trois en a fait trois : en mil huit cent cinquante et un, en cinquante-deux, en soixante-dix. À chaque fois, on demandait au peuple de dire oui à ce qui était déjà fait. Renan reprend le mot, et il lui rend la question. Un plébiscite, chez lui, n'est pas un oui qu'on obtient. C'est un oui qu'on doit renouveler. ||| 맞는 말씀입니다. 나폴레옹 3세가 세 번 했죠. 1851년, 52년, 70년에. 매번 이미 끝난 일에 예라고 하라고 국민에게 요구했습니다. 르낭은 그 단어를 가져와 질문을 돌려줍니다. 그에게 국민투표는 얻어 낸 예가 아니라 새로 해야 하는 예입니다.
+LAMY: Mais on ne peut pas voter tous les jours, monsieur l'ambassadeur. Les gens ont du travail. ||| 하지만 매일 투표할 수는 없습니다, 대사님. 사람들은 일을 해야 하고요.
+VALCOURT: Évidemment. C'est pourquoi Renan dit « métaphore ». Un peuple ne vote pas tous les jours. Il vit tous les jours ce qu'il a voté. Ce que vous pouvez faire, vous, à Saint-Aubin, c'est écrire sur un mur le jour où l'on demandera de nouveau. Delorme, tu as une date à proposer. ||| 당연하죠. 그래서 르낭도 "비유"라고 한 겁니다. 국민은 매일 투표하지 않습니다. 투표한 것을 매일 삽니다. 생토뱅에서 여러분이 할 수 있는 건, 다시 묻는 날을 벽에 써 놓는 일입니다. 들로름, 제안할 날짜가 있겠지.
+JULIEN: Oui. Je vais lire l'article seize. Je l'ai écrit cette nuit, avec madame Roussel, et je ne l'ai montré à personne avant ce matin. « Article seize. L'Assemblée territoriale et le haut-commissaire reposent la même question, dans les mêmes mots et dans les trois langues, le troisième dimanche d'octobre deux mille trente et un, puis tous les cinq ans. Chaque réponse vaut cinq ans : ni plus, ni moins. Ils convoquent le scrutin au plus tard six mois avant. » ||| 네. 16조를 읽겠습니다. 간밤에 루셀 양과 썼고 오늘 아침 전까지 아무에게도 보여 주지 않았습니다. "제16조. 영토 의회와 고등판무관은 2031년 10월 셋째 일요일에, 그리고 이후 5년마다 같은 질문을 같은 낱말로 세 언어로 다시 묻는다. 각 응답은 5년의 효력을 가지며 그보다 길지도 짧지도 않다. 이들은 늦어도 6개월 전에 투표를 소집한다."
+CADET: « Chaque réponse vaut cinq ans. » Alors le oui ne se révoque pas avant ? ||| "각 응답은 5년의 효력을 가진다." 그럼 예가 그 전에는 철회되지 않는다는 말입니까?
+JULIEN: Ni le oui ni le non. Pendant cinq ans, personne ne peut dire « on a changé d'avis » pour bloquer ou pour accélérer. Pendant cinq ans, ce qui a été répondu est respecté. Au bout de cinq ans, le peuple est de nouveau le seul à pouvoir parler. ||| 예도 아니오도 안 됩니다. 5년 동안은 누구도 "생각이 바뀌었다"고 해서 막거나 서두를 수 없습니다. 5년 동안 응답된 것은 존중됩니다. 5년이 지나면 다시 국민만이 말할 수 있고요.
+FABRE: Pour la Chambre de commerce, cela me va. Cinq ans, c'est un horizon. Un investisseur peut signer cinq ans. Il ne peut pas signer un « peut-être ». ||| 상공회의소로서는 좋습니다. 5년은 지평입니다. 투자자는 5년은 서명할 수 있어도 "아마도"에는 서명 못 하니까요.
+LAMY: Et si on nous fait voter jusqu'à ce que la réponse plaise à Paris ? Redemander, c'est facile. Ce qui est difficile, c'est d'entendre la même réponse. ||| 파리 마음에 들 때까지 우리에게 투표시키면요? 다시 묻기는 쉽죠. 어려운 건 같은 대답을 듣는 겁니다.
+JULIEN: C'est pour cela qu'il y a « dans les mêmes mots ». Si Paris change un mot, ce n'est plus la même question, donc ce n'est plus l'article seize. Et le mot ne bouge qu'avec l'accord de l'Assemblée territoriale. Elle a le dernier mot sur le mot. ||| 그래서 "같은 낱말로"가 있는 겁니다. 파리가 단어 하나를 바꾸면 같은 질문이 아니고, 그러면 16조도 아닙니다. 그리고 낱말은 영토 의회의 동의가 있을 때만 바뀝니다. 낱말에 대한 마지막 권한은 의회에 있습니다.
+SAINTE-ROSE: Et si le non gagne ce soir ? Et si le oui gagne ? Je veux comprendre en quoi cela m'aide à moi, qui suis pour qu'on parle avec Kandara. ||| 오늘 밤 아니오가 이기면요? 예가 이기면요? 칸다라와 이야기해야 한다고 보는 저로서는 이게 어떻게 도움이 되는지 알고 싶어요.
+JULIEN: Si le oui gagne, la négociation s'ouvre et ce soir ne finit rien : dans cinq ans, on redemande, donc le statut est confirmé ou non. Si le non gagne, l'archipel garde son statut, on se retrouve dans cinq ans, et on a cinq ans de plus pour apprendre à se parler. Dans les deux cas, personne ne peut dire : « C'est fini. » ||| 예가 이기면 협상이 열리고, 오늘 밤은 아무것도 끝내지 않습니다. 5년 뒤 다시 묻는 것이니 지위는 확인되거나 아닌 거죠. 아니오가 이기면 군도는 지위를 유지하고, 5년 뒤에 다시 만나며, 서로 말하는 법을 배울 5년이 더 생깁니다. 어느 쪽이든 "이제 끝났다"고 말할 사람은 없습니다.
+LAMY: (Après un silence.) J'ai quarante-quatre ans. Dans cinq ans, j'en aurai quarante-neuf. Si c'est un oui ce soir, je veux pouvoir dire « On redemandera ». Si c'est un non, je veux pouvoir dire « On redemandera ». Je signe. Je signe parce que je ne sais pas ce que ça me rapportera. ||| (침묵 뒤.) 저는 마흔넷입니다. 5년 뒤엔 마흔아홉이죠. 오늘 밤 예가 나오면 "다시 묻는다"고 말하고 싶고, 아니오가 나와도 "다시 묻는다"고 말하고 싶습니다. 서명합니다. 이게 제게 뭘 가져다줄지 모르니까 서명하는 겁니다.
+CADET: Moi non plus je ne sais pas ce que ça me rapportera. C'est la meilleure raison de signer que j'aie entendue de la semaine. Je signe. ||| 저도 이게 제게 뭘 가져다줄지 모릅니다. 이번 주에 들은 서명 이유 중 가장 좋군요. 서명합니다.
+SAINTE-ROSE: Moi, je veux un mot en plus dans mon cœur, pas dans le texte : « chaise ». Chaque fois qu'on posera la question, il y aura une chaise pour tous ceux qui seront là. Je signe, en entier. ||| 저는 본문이 아니라 마음에 한 낱말을 더하겠습니다. "의자". 질문을 던질 때마다 그 자리에 있을 모두를 위한 의자가 있을 겁니다. 온전한 이름으로 서명합니다.
+MARCHAND: (Il signe en dernier, à l'envers.) Il est dix-sept heures quarante-deux. L'article seize est signé par les six, dix-huit minutes avant la fermeture du premier bureau. Je le fais afficher à la porte de chaque bureau, avec la Déclaration. Dès demain, il sera à côté de la question. ||| (마지막으로, 거꾸로 순서에 서명한다.) 17시 42분입니다. 16조는 첫 투표소 마감 18분 전에 여섯 대표의 서명을 받았습니다. 선언과 함께 모든 투표소 문에 게시하겠습니다. 내일부터는 질문 곁에 놓일 겁니다.
+VALCOURT: (Au téléphone, fort.) Elle est signée ? ||| (전화로 큰 소리로.) 서명됐나?
+JULIEN: Elle est signée, monsieur l'ambassadeur. Dix-sept heures quarante-deux. Personne ne sait encore qui gagne. ||| 서명됐습니다, 대사님. 17시 42분입니다. 아직 아무도 누가 이길지 모릅니다.
+VALCOURT: Alors tu as fait le plus rare : une règle avant la victoire. Les plus belles règles du monde ont été écrites par des gens qui avaient peur de perdre et qui espéraient gagner. Va. Je finis ma bouteille. Elle est à la santé de Renan. ||| 그럼 가장 드문 일을 했군. 승리 이전의 규칙. 세상에서 가장 아름다운 규칙들은 질까 봐 두려워하면서 이기기를 바라던 사람들이 썼지. 가게. 나는 병을 비우겠네. 르낭을 위해서.
++ un plébiscite de tous les jours = 매일의 국민투표. 르낭의 비유. 한 번의 투표가 아니라 날마다 갱신되는 합의를 뜻한다
++ pardonnez-moi cette métaphore = 이 비유를 용서하시라. 르낭이 강연에서 직접 한 단서
++ rendre la question à un mot = 낱말에 질문을 돌려주다. 나폴레옹 3세의 국민투표가 예만 얻었던 것과 달리 르낭이 질문을 되돌린 방식
++ dans les mêmes mots = 같은 낱말로. 질문을 바꾸지 못하게 하는 장치로, 변경은 영토 의회의 동의를 요한다
++ chaque réponse vaut cinq ans : ni plus, ni moins = 각 응답은 5년의 효력을 갖되 그보다 길지도 짧지도 않다. ni plus, ni moins는 정확히 그만큼이라는 뜻
++ une espérance qui a une date = 날짜가 있는 희망. 도리발이 16조를 두고 하는 말
++ signer sans savoir ce que cela rapportera = 무엇을 가져올지 모른 채 서명하다. 라미와 카데가 규칙에 서명하는 이유
++ une règle avant la victoire = 승리 이전의 규칙. 결과를 모르는 순간에 정한 규칙이 공정하다는 뜻
+
+## 개표 — LA LAMPE DE PETITE-SŒUR
+PRÉSIDENTE: (À la mairie, vingt heures dix, voix posée.) Mesdames, messieurs, voici l'état provisoire du dépouillement. Sept bureaux de Port-Aubin et le bureau de Sainte-Marthe : le oui, deux mille sept cent trente. Le non, deux mille cinq cent cinquante-deux. Blancs et nuls : soixante et onze. Il manque le bureau de Petite-Sœur. ||| (시청, 20시 10분, 차분한 목소리.) 여러분, 잠정 개표 상황입니다. 포르오뱅 투표소 7곳과 생트마르트: 예 2,730표. 아니오 2,552표. 백지·무효 71표. 쁘띠트쇠르 투표소가 빠져 있습니다.
+CAMILLE: (Elle écrit.) Cent soixante-dix-huit d'avance pour le oui. Pour inverser, Petite-Sœur devrait voter non à près de soixante pour cent. Elle ne le fera pas. ||| (적으며.) 예가 178표 앞서요. 뒤집으려면 쁘띠트쇠르가 아니오를 60퍼센트 가까이 줘야 하는데, 그럴 일은 없어요.
+JULIEN: Elle ne peut pas inverser le résultat. Elle peut inverser l'humeur de la salle. Regarde le visage de monsieur Cadet. ||| 결과는 못 뒤집어. 하지만 이 방의 분위기는 뒤집을 수 있지. 카데 씨 얼굴을 봐.
+CADET: (Dans la salle, à voix basse, à Julien.) Cent soixante-dix-huit. Sur six mille. C'est un souffle. Si Petite-Sœur recompte, je demande qu'on recompte devant les trois partis, ensemble, ligne par ligne. Ce n'est pas de la défiance. C'est de l'hygiène. ||| (회의장에서 쥘리앵에게 낮게.) 178표. 6천 표 중에요. 숨결 하나 차이입니다. 쁘띠트쇠르를 다시 센다면 세 정당이 함께, 한 줄씩 세게 해 주십시오. 불신이 아니라 위생입니다.
+JULIEN: Je suis d'accord, monsieur Cadet. Une chose, pourtant. Pas de recomptage parce que vous avez perdu, mais parce que l'écart est étroit. Si l'écart avait été mille, je vous aurais dit non. C'est la règle de la proportion. ||| 동의합니다, 카데 씨. 다만 하나 있습니다. 졌기 때문이 아니라 격차가 좁기 때문에 다시 세는 겁니다. 격차가 천이었다면 안 된다고 했을 겁니다. 비례의 원칙이죠.
+CADET: Je l'accepte. Je préfère d'ailleurs qu'on dise « écart étroit » plutôt que « défaite ». Je n'ai pas encore la gorge pour dire défaite. ||| 받아들입니다. 오히려 "패배"보다 "좁은 격차"라고 하는 게 낫습니다. 아직 패배라고 말할 목구멍이 안 됐어요.
+PRÉSIDENTE: (À la salle, une heure plus tard, vingt et une heures quinze.) Je reçois un appel de Petite-Sœur. Une coupure de courant vient d'avoir lieu à vingt et une heures dix. Le bureau a terminé le premier dépouillement : le oui, cinq cent quatorze. Le non, cinq cent vingt-quatre. Mais le président du bureau demande, sur la proposition de monsieur Cadet, un second dépouillement, à la lampe, devant les délégués des trois partis. ||| (한 시간 뒤 21시 15분, 회의장에.) 쁘띠트쇠르에서 전화가 왔습니다. 21시 10분에 정전이 났습니다. 그곳 투표소는 1차 개표를 마쳤습니다. 예 514표, 아니오 524표. 그런데 투표소 위원장이 카데 씨의 제안에 따라 세 정당 대표가 입회하는 등불 아래 2차 개표를 요청합니다.
+SAINTE-ROSE: (Au téléphone, haut-parleur, la voix mêlée de vent.) Madame la présidente, j'ai quatre lampes à pétrole prêtées par le café. Nous avons avec moi les délégués du Front et de l'Union, et madame Pinel, qui est venue par le dernier bateau avant la tempête pour lire les noms. Nous commençons. ||| (스피커폰, 바람 소리 섞인 목소리.) 의장님, 카페에서 빌린 석유 등불 네 개가 있습니다. 전선과 연합 대표들, 그리고 폭풍 전 마지막 배로 와서 이름을 읽어 줄 피넬 선생님이 함께 있습니다. 시작합니다.
+SAINTE-ROSE: (Au téléphone, vingt-deux heures quarante.) Madame la présidente, nous avons fini. Voici : le oui, cinq cent douze. Le non, cinq cent vingt-six. Blancs et nuls, quarante-sept. Deux bulletins du non avaient glissé dans la pile du oui, collés par l'humidité. Nous les avons montrés à chacun des délégués. Chacun les a lus à voix haute. Chacun a signé. ||| (전화, 22시 40분.) 의장님, 끝났습니다. 결과입니다. 예 512표, 아니오 526표, 백지·무효 47표. 아니오 투표용지 두 장이 습기에 붙어 예 더미에 딸려 들어가 있었어요. 대표들 각자에게 보여 줬고 각자 소리 내어 읽고 서명했습니다.
+PRÉSIDENTE: Merci, madame Sainte-Rose. Le total définitif : le oui, trois mille deux cent quarante-deux. Le non, trois mille soixante-dix-huit. Blancs et nuls : cent dix-huit. Votants : six mille quatre cent trente-huit sur huit mille six inscrits. Participation : quatre-vingts virgule quatre pour cent. ||| 감사합니다, 생트로즈 씨. 최종 합계입니다. 예 3,242표. 아니오 3,078표. 백지·무효 118표. 투표자 6,438명, 등록 유권자 8,006명. 투표율 80.4퍼센트.
+JULIEN: Cent soixante-quatre. Le recomptage a rogné quatre voix à l'écart et n'a rien changé au résultat. Il a seulement changé la façon dont on le croira. Monsieur Cadet, merci. ||| 164표. 재개표가 격차를 4표 줄였고 결과는 바꾸지 않았습니다. 사람들이 결과를 믿는 방식만 바꿨죠. 카데 씨, 감사합니다.
+CADET: Je vous remercie d'avoir accepté le principe. Cela m'aurait pesé toute ma vie de ne pas l'avoir demandé. ||| 원칙을 받아 주셔서 감사합니다. 요구하지 않았다면 평생 마음에 걸렸을 겁니다.
+HÉLÈNE: (Message, 23 h 02 heure locale.) « Le bail de Dublin s’est éteint à minuit pile, heure irlandaise. C’est-à-dire il y a deux heures chez toi. J’ai vérifié trois fois. Personne n’a renouvelé. Ça ne veut pas dire que c’est fini. Ça veut dire que personne n’a voulu payer pour dimanche soir. » ||| (문자, 현지 시각 23시 2분.) "더블린 서버 임대가 아일랜드 시각 자정 정각에 꺼졌어. 네가 있는 곳 시각으로는 두 시간 전이야. 세 번 확인했어. 갱신한 사람은 없어. 끝났다는 뜻은 아니야. 일요일 밤을 위해 돈을 내려는 사람이 없었다는 뜻이야."
+JULIEN: (Il lit à voix haute pour Camille.) « Personne n'a voulu payer pour dimanche soir. » Elle écrit comme elle compte : sans une virgule de trop. ||| (카미유에게 소리 내어 읽는다.) "일요일 밤을 위해 돈을 내려는 사람이 없었다." 세는 대로 쓰는 사람이야. 쉼표 하나 더 붙이지 않고.
++ l'état provisoire du dépouillement = 개표 잠정 상황. dépouillement은 투표함을 열어 표를 세는 절차 전체를 가리킨다
++ des blancs et nuls = 백지표와 무효표. 투표율과 득표율 계산에서 구분되는 항목
++ le recomptage / un second dépouillement = 재개표 / 2차 개표. 카데의 요청은 «불신이 아니라 위생»이라는 표현으로 설명된다
++ la règle de la proportion = 비례의 원칙. 격차가 좁을 때만 재개표를 허용한다는 쥘리앵의 기준
++ des bulletins collés par l'humidité = 습기로 붙은 투표용지. 개표 오류의 구체적 원인
++ ne pas avoir la gorge pour dire défaite = 패배라고 말할 목구멍이 없다. 카데가 아직 단어를 못 꺼내는 심정을 몸으로 표현
++ éteindre / s'éteindre à minuit pile = 자정 정각에 꺼지다. 서버 임대가 정확히 투표 시간만큼만 연장된 것을 가리킨다
+## 첫 문장 — LA PREMIÈRE PHRASE
+MARCHAND: (Dans la cour de la mairie, vingt-trois heures dix, sous la pluie, au téléphone avec Paris, puis aux autres.) Messieurs, madame, dans dix minutes, je lis le résultat sur le perron. Je ne sais pas encore comment commencer. Si je dis « victoire », la moitié de l'archipel entend « défaite ». Si je dis « résultat », on m'accusera de me cacher. ||| (시청 안뜰, 23시 10분, 빗속에서 파리와 통화하다가 이어서 사람들에게.) 여러분, 10분 뒤 현관 층계에서 결과를 읽습니다. 어떻게 시작할지 아직 모르겠습니다. "승리"라고 하면 군도의 절반은 "패배"로 듣고, "결과"라고 하면 숨는다는 말을 들을 겁니다.
+MERCADIER: (Sur haut-parleur, depuis Paris, trois heures dix du matin.) Haut-commissaire. J'ai un projet de communiqué du ministère. Je le lis : « Le ministre se félicite de la large participation et de la victoire du dialogue. » ||| (스피커폰, 파리 새벽 3시 10분.) 판무관님. 부처 보도자료 초안이 있습니다. 읽겠습니다. "장관은 높은 투표율과 대화의 승리를 환영한다."
+JULIEN: Monsieur Mercadier, le dialogue n'était pas candidat. Il n'était sur aucun bulletin. Et « victoire » demande un vaincu. Nous n'en avons pas. Ce serait une victoire sans adversaire, c'est-à-dire une phrase qui cherche quelqu'un à qui s'adresser. ||| 메르카디에 씨, 대화는 후보가 아니었습니다. 어느 투표용지에도 없었어요. 그리고 "승리"는 패자를 요구합니다. 우리에겐 패자가 없습니다. 상대 없는 승리, 말을 걸 사람을 찾는 문장이 되겠죠.
+MERCADIER: Je n'ai rien contre le mot. J'ai contre les mots qui font hurler à trois heures du matin. Je retire « victoire ». Je vous demande une seule chose : que la phrase que vous proposerez tienne sur une ligne de télégramme. ||| 그 단어에 반대하는 건 아닙니다. 새벽 3시에 고함을 부르는 단어에 반대하는 겁니다. "승리"는 지우겠습니다. 하나만 요구합니다. 제안하실 문장이 전보 한 줄에 들어갈 것.
+ARCHAMBAULT: (Sur haut-parleur, brève.) Le ministre est réveillé. Il dit : « Écrivez-moi ce qu'on voudra avoir dit dans cinq ans. » ||| (스피커폰, 짧게.) 장관님이 깨어 계십니다. "5년 뒤에 했다고 하고 싶은 말을 써 주시오."라고 하십니다.
+JULIEN: Parfait. C'est la définition d'une bonne première phrase. Camille, le papier. ||| 완벽합니다. 좋은 첫 문장의 정의로군요. 카미유, 종이.
+CAMILLE: (Elle écrit sous la pluie, contre le mur.) Trois éléments : un fait, une limite, un rendez-vous. ||| (빗속에서 벽에 대고 쓰며.) 요소 셋: 사실, 한계, 약속된 날짜.
+JULIEN: Le fait : « Le oui a recueilli trois mille deux cent quarante-deux voix, le non trois mille soixante-dix-huit. » Il faut les deux chiffres dans la même phrase, sans que l'un soit plus gros que l'autre. ||| 사실: "예는 3,242표, 아니오는 3,078표를 얻었다." 두 숫자를 한 문장에 넣어야 하고, 어느 쪽도 더 크게 보이면 안 됩니다.
+CAMILLE: Dans l'ordre où la réponse est écrite sur le bulletin : oui, non. Même longueur, même police. ||| 투표용지에 적힌 순서대로요. 예, 아니오. 같은 길이, 같은 서체로요.
+JULIEN: Avec les pourcentages en second, pas en titre. « Six mille trois cent vingt personnes ont répondu. » Pas « le peuple a parlé ». Un peuple parle sans chiffres. Six mille trois cent vingt, c'est un compte. ||| 비율은 제목이 아니라 두 번째로 둡니다. "6,320명이 응답했다." "국민이 말했다"가 아니라요. 국민은 숫자 없이 말하고, 6,320은 계산입니다.
+CAMILLE: La limite ? ||| 한계는?
+JULIEN: « Ce résultat ouvre une négociation. Il ne dit pas comment elle doit finir. » C'est le point où l'on dit au oui ce qu'il n'a pas gagné et au non ce qu'il n'a pas perdu, sans prononcer ces mots-là. ||| "이 결과는 협상을 연다. 협상이 어떻게 끝나야 하는지는 말하지 않는다." 예에게는 얻지 못한 것을, 아니오에게는 잃지 않은 것을 그 단어들을 쓰지 않고 알려 주는 대목입니다.
+CAMILLE: Et le rendez-vous ? ||| 약속된 날짜는요?
+JULIEN: « La même question sera reposée en deux mille trente et un. » Ah. Non. Futur, sans sujet. Pas ça. « L'Assemblée territoriale et le haut-commissaire reposent la même question le troisième dimanche d'octobre deux mille trente et un. » Présent, sujet, date. ||| "같은 질문은 2031년에 다시 던져질 것이다." 아니, 안 돼. 미래형에 주어가 없어. "영토 의회와 고등판무관은 2031년 10월 셋째 일요일에 같은 질문을 다시 묻는다." 현재형, 주어, 날짜.
+LAMY: (Il arrive dans la cour, trempé.) Monsieur Delorme, ma fédération me demande de dire « victoire de l'émancipation ». Je ne le dis pas. Je voulais que vous le sachiez avant que j'ouvre la bouche. ||| (흠뻑 젖어 안뜰로 들어온다.) 들로름 씨, 우리 연맹은 "해방의 승리"라고 말하길 원합니다. 저는 그렇게 말하지 않습니다. 입을 열기 전에 알려 드리고 싶었어요.
+JULIEN: Pourquoi ? ||| 왜죠?
+LAMY: Parce que j'ai signé l'article seize. Si je dis « victoire » ce soir, je dis aussi qu'on peut me la reprendre dans cinq ans. Je ne veux pas du mot qui pèse sur le prochain scrutin avant même que le prochain scrutin existe. ||| 16조에 서명했으니까요. 오늘 "승리"라고 하면 5년 뒤 누군가 그걸 되가져갈 수 있다고 말하는 셈입니다. 다음 투표가 생기기도 전에 다음 투표를 짓누르는 단어는 쓰고 싶지 않습니다.
+CADET: (Il arrive, parapluie plié.) Et moi, je ne dirai pas « défaite ». Je dirai : « Quarante-huit virgule sept pour cent des gens qui ont voté demandent qu'on ne bouge pas trop vite. Nous serons là en deux mille trente et un avec la même question. » Je me suis écrit la phrase en venant. Elle me tient chaud. ||| (접은 우산을 들고 도착한다.) 저는 "패배"라고 하지 않겠습니다. 이렇게 말하죠. "투표한 사람의 48.7퍼센트는 너무 빨리 움직이지 말라고 요구한다. 우리는 2031년에도 같은 질문과 함께 여기 있겠다." 오는 길에 써 봤어요. 마음이 따뜻해지는 문장입니다.
+SAINTE-ROSE: (Au téléphone depuis Petite-Sœur, la voix enrouée.) Moi, je dirai que ce soir, des gens de trois partis ont compté ensemble à la lampe. Je veux que ce soit la phrase de l'archipel. Le reste, c'est de la statistique. ||| (쁘띠트쇠르에서 전화로, 쉰 목소리.) 저는 오늘 밤 세 정당 사람들이 등불 아래에서 함께 센 일을 말할 겁니다. 그게 군도의 문장이어야 해요. 나머지는 통계예요.
+MARCHAND: (Au perron, devant la foule de la place, à vingt-trois heures vingt.) Mesdames et messieurs. Le oui a recueilli trois mille deux cent quarante-deux voix, le non trois mille soixante-dix-huit. Six mille trois cent vingt personnes ont répondu. Ce résultat ouvre une négociation. Il ne dit pas comment elle doit finir. L'Assemblée territoriale et le haut-commissaire reposent la même question le troisième dimanche d'octobre deux mille trente et un, puis tous les cinq ans. ||| (현관 층계에서 광장의 군중 앞, 23시 20분.) 여러분. 예는 3,242표, 아니오는 3,078표를 얻었습니다. 6,320명이 응답했습니다. 이 결과는 협상을 엽니다. 협상이 어떻게 끝나야 하는지는 말하지 않습니다. 영토 의회와 고등판무관은 2031년 10월 셋째 일요일에, 그리고 5년마다 같은 질문을 다시 묻습니다.
+SYLVAINE: (En créole, au micro, puis elle traduit la fin.) …Sa vle di : repons sa a kòmanse yon negosyasyon, li pa di kijan l ap fini. ||| (크레올어로 마이크에 읽고 마지막 대목을 옮긴다.) …뜻은 이렇습니다. 이 응답은 협상을 시작하며, 협상이 어떻게 끝날지는 말하지 않습니다.
+CAMILLE: (En anglais, au micro.) The yes received 3,242 votes, the no 3,078. Six thousand three hundred and twenty people answered. This result opens a negotiation. It does not say how that negotiation must end. ||| (영어로, 마이크에.) 예는 3,242표, 아니오는 3,078표를 얻었습니다. 6,320명이 응답했습니다. 이 결과는 협상을 엽니다. 그 협상이 어떻게 끝나야 하는지는 말하지 않습니다.
+BAVOUX: (Au bas du perron, sous un parapluie, à Julien.) Monsieur Delorme, je suis obligée de vous demander une dernière fois : qui a gagné ? ||| (층계 아래, 우산을 쓴 채 쥘리앵에게.) 들로름 씨, 마지막으로 여쭤봐야겠습니다. 누가 이겼습니까?
+OCTAVE: (Dans la foule, trempé, son bonnet sur la tête.) Madame, personne n'a gagné. C'est répondu. ||| (군중 속에서 비에 젖은 채 모자를 쓰고.) 편집장님, 이긴 사람은 없어요. 대답이 나온 겁니다.
+BAVOUX: (Elle écrit, puis lève les yeux.) « C'est répondu. » Monsieur Nau, je prends votre titre. Il est meilleur que le mien. ||| (적고는 눈을 든다.) "대답이 나왔다." 노 씨, 그 제목 가져가겠습니다. 제 것보다 낫군요.
+BANDA: (Message, 23 h 35 à Port-Aubin.) « Mon ministre a lu le résultat à la radio de Kandara. Il a dit : “Kandara prend acte. Elle a lu l’article seize. Un délai de trente jours, un rendez-vous de cinq ans : la France a appris à compter.” Il a ajouté, sans micro : “Dis à Delorme que je me suis trompé : il n’a pas gagné la phrase, il l’a rendue.” » ||| (문자, 포르오뱅 23시 35분.) "제 장관이 칸다라 라디오에서 결과를 읽었습니다. '칸다라는 확인한다. 16조를 읽었다. 30일 기한과 5년의 약속, 프랑스는 셈하는 법을 배웠다.' 마이크 없이 덧붙이셨어요. '들로름에게 전해라. 내가 틀렸다. 그는 문장을 이기지 않았다, 돌려주었다.'"
+JULIEN: (À Camille.) Il m'a vu faire. Il sait qu'on ne gagne une phrase qu'en la rendant à ceux qui doivent la dire. ||| (카미유에게.) 내가 하는 걸 봤군. 문장은 말해야 할 사람들에게 돌려줄 때만 이긴다는 걸 아는 거야.
+CAMILLE: Tu as le droit de t'asseoir. Tu es debout depuis vingt heures. ||| 앉아도 돼. 20시부터 서 있었잖아.
+JULIEN: Non. Je dois d'abord dire une chose à Armand Rivière, qui a gardé la VHF ouverte depuis samedi. Il n'a pas dormi. ||| 아니. 먼저 아르망 리비에르에게 말할 게 있어. 토요일부터 VHF를 열어 놓고 한숨도 못 잤으니까.
++ une victoire sans adversaire = 상대 없는 승리. 패자를 가리키지 않고 말하려는 쥘리앵의 논리
++ un fait, une limite, un rendez-vous = 사실, 한계, 약속된 날짜. 결과를 알리는 첫 문장의 세 요소
++ une ligne de télégramme = 전보 한 줄. 짧고 군더더기 없는 문장의 기준
++ reposer la même question = 같은 질문을 다시 묻다. poser의 반복형으로, 16조의 핵심 동사
++ répondre / c'est répondu = 응답하다 / 대답이 나왔다. 승패가 아니라 응답이라는 옥타브 노의 정의
++ prendre acte = 확인하고 받아들이다. 외교 문서에서 동의도 반대도 아닌 인지의 표현으로 쓰인다
++ avoir appris à compter = 셈하는 법을 배웠다. 상가라가 30일과 5년이라는 숫자 약속을 평하는 말
++ rendre une phrase à ceux qui doivent la dire = 문장을 말해야 할 사람들에게 돌려주다. 이긴다는 동사를 «돌려주다»로 바꾼 말
+
+## 화요일 케도르세 — LES FILS
+MERCADIER: (Dans le bureau de Julien, au Quai d'Orsay, mardi dix heures, une enveloppe scellée à la main.) Monsieur Delorme. Nous n'avons pas fait connaissance dans les règles, mais je vous apporte un objet. Le scellé numéro un. Il est dans l'état où je l'ai reçu, avec le cachet de cire intact, vos initiales et celles de mademoiselle Roussel. ||| (케도르세 쥘리앵의 사무실, 화요일 10시, 봉인된 봉투를 들고.) 들로름 씨. 우리가 규칙대로 인사를 나눈 적은 없지만 물건 하나를 가져왔습니다. 봉인 1호입니다. 받았던 그대로, 밀랍 도장도 당신 이니셜과 루셀 양 이니셜도 온전합니다.
+JULIEN: Vous ne l'avez pas ouvert. ||| 열어 보지 않으셨군요.
+MERCADIER: Je l'ai gardé dans le coffre du cabinet pendant six jours. Je dois à la vérité de dire que cela m'a coûté. Je suis un homme dont la profession est d'ouvrir. J'ai tenu parce que la règle était claire : « ni pour obtenir ni pour menacer ». Une règle claire est la seule chose qui m'empêche de devenir ce que vous pensiez que j'étais. ||| 비서실 금고에 엿새를 두었습니다. 솔직히 말해 힘들었어요. 저는 여는 게 직업인 사람입니다. 버틴 건 규칙이 분명해서였어요. "얻으려고도 위협하려고도 쓰지 않는다." 분명한 규칙은 제가 당신이 생각하던 인간이 되는 걸 막아 주는 유일한 것입니다.
+JULIEN: Je ne vous ai jamais pensé méchant, monsieur Mercadier. Je vous ai pensé exact. ||| 못된 사람이라고 생각한 적은 없습니다, 메르카디에 씨. 정확한 사람이라고 생각했죠.
+MERCADIER: C'est plus flatteur, et plus dangereux. (Il lui tend l'enveloppe.) À qui la rendez-vous ? ||| 더 듣기 좋고 더 위험한 평이군요. (봉투를 내민다.) 누구에게 돌려주시겠습니까?
+JULIEN: À celle qui me l'avait donnée. Elle ne sera jamais utilisée. Sa présence aura suffi. Un bouclier qu'on n'a pas eu besoin de lever, c'est le meilleur. ||| 제게 주었던 사람에게요. 쓰이는 일은 없을 겁니다. 존재만으로 충분했어요. 들어 올릴 필요가 없었던 방패가 최고의 방패입니다.
+HÉLÈNE: (Elle entre sans frapper, un gobelet de café à la main.) Il paraît qu'on parle de moi. ||| (노크 없이 들어와, 커피 컵을 손에 들고.) 내 얘기를 한다던데.
+MERCADIER: Madame Dufresne. Je vous rends ce qui vous appartient. Je précise, pour mon dossier, que je n'ai rien lu, rien photographié, rien ouvert. Je préciserais volontiers au tribunal. ||| 뒤프렌 씨. 당신 것을 돌려드립니다. 제 파일에 남기려고 말씀드리는데, 읽은 것도 찍은 것도 연 것도 없습니다. 재판정에서도 기꺼이 말씀드리죠.
+HÉLÈNE: Je vous crois. (Elle prend l'enveloppe, la retourne, la range dans sa veste.) C'est la première fois qu'un cabinet me rend un papier avec les mêmes plis. Je vous dois un déjeuner. Je ne le paierai pas, mais je vous le devrai. ||| 믿어요. (봉투를 받아 뒤집어 보고 재킷에 넣는다.) 비서실이 서류를 똑같은 주름으로 돌려준 건 처음이에요. 점심 한 번 빚졌네요. 낼 생각은 없지만 빚은 졌어요.
+MERCADIER: Je ne déjeune jamais. (Il sort. Au seuil, il se retourne.) Delorme. La note, c'est moi qui l'ai rédigée. « Circulaire de Port-Aubin ». Trois règles pour toute consultation d'outre-mer. Un : la question est lue à haute voix en trois langues avant l'impression. Deux : toute notice est de la même taille que la question, sur la même page. Trois : toute règle de suite est publiée avant le résultat, signée par ceux qu'elle concerne. Le ministre l'a signée à neuf heures. ||| 저는 점심을 안 먹습니다. (나가다가 문턱에서 돌아본다.) 들로름. 그 공문은 제가 썼습니다. "포르오뱅 훈령." 모든 해외 영토 투표를 위한 규칙 셋입니다. 하나, 질문은 인쇄 전에 세 언어로 소리 내어 읽는다. 둘, 모든 안내문은 질문과 같은 크기로 같은 쪽에 싣는다. 셋, 후속 규칙은 결과 전에 관계자의 서명을 받아 공개한다. 장관이 9시에 서명했습니다.
+JULIEN: Vous avez écrit mes règles. ||| 제 규칙을 쓰셨군요.
+MERCADIER: J'ai écrit ce que vous avez fait. C'est mon métier : transformer les actes en règles pour que ceux qui viendront après n'aient pas à devenir vous. Je ne suis pas votre ami. Je suis votre signature. Elle vous suivra. ||| 당신이 한 일을 썼습니다. 그게 제 직업입니다. 행위를 규칙으로 바꿔서 뒤에 오는 사람들이 당신이 되지 않아도 되게 하는 일이요. 저는 당신 친구가 아니라 당신 서명입니다. 서명은 당신을 따라갈 겁니다.
+HÉLÈNE: Bon. Mon rapport. Je ne conclus pas, je range. Un : Horizon Civique SAS. Dissolution anticipée, publiée ce matin dans le journal d'annonces légales. Le nom du liquidateur est écrit : Nolwenn Garrec. En clair, pour tout le monde. ||| 자, 내 보고. 결론은 내리지 않고 정리만 할게. 하나, 호리즌 시비크 SAS. 조기 해산이 오늘 아침 법정 공고지에 실렸어. 청산인 이름이 적혀 있어. 놀웬 가렉. 모두가 읽을 수 있게 그대로.
+JULIEN: Un nom dans un registre. Pas un visage dans une salle de tribunal. ||| 등기부에 오른 이름이군. 법정에 선 얼굴이 아니라.
+HÉLÈNE: C'est tout ce qu'on peut dire sans mentir. Deux : Madame Bavoux a publié hier, avec les mêmes sources que moi, des sources publiques : même imprimerie pour les deux comités, même société de domiciliation à Dublin pour le serveur et pour Kerlyn Holdings. Elle a posé des questions. Elle n'a rien affirmé. Elle a demandé à l'avocat de madame Garrec de répondre. Il a répondu que ses clients ont mené « des missions de conseil conformes ». ||| 이게 거짓말 없이 말할 수 있는 전부야. 둘, 바부 편집장이 어제 나와 같은 공개 자료로 기사를 냈어. 두 위원회의 인쇄소가 같고, 서버와 케를린 홀딩스의 더블린 소재지 대행업체가 같다는 것. 단정하지 않고 질문을 던졌어. 가렉 씨 변호사에게 답변을 요청했고, 변호사는 의뢰인들이 "적법한 자문 업무"를 수행했다고 답했지.
+JULIEN: « Des missions de conseil conformes. » Le sujet n'a pas de verbe d'action. Il y a une réponse qui parle à la place de l'homme. ||| "적법한 자문 업무." 행동 동사가 없는 주어군. 사람을 대신해 말하는 답변이야.
+HÉLÈNE: Trois : le parquet de Paris a ouvert une enquête préliminaire. Sur les flux de Kerlyn Holdings, pas sur le scrutin. Une enquête n'est pas une arrestation, Julien. Je te le dis avant que quelqu'un te le dise. Quatre : le serveur de Dublin est éteint depuis minuit. Personne n'a renouvelé. Cinq : Mwila est rentré à Kandara hier. Rappelé « pour consultations ». Okanla m'a dit qu'il a écrit sa lettre de démission. Il ne l'a pas signée par peur : il l'a signée. ||| 셋, 파리 검찰이 예비 수사에 들어갔어. 대상은 투표가 아니라 케를린 홀딩스의 자금 흐름. 수사는 체포가 아니야, 쥘리앵. 누가 말하기 전에 내가 말해 둘게. 넷, 더블린 서버는 자정에 꺼졌고 갱신한 사람은 없어. 다섯, 므윌라는 어제 칸다라로 돌아갔어. "협의를 위해" 소환된 거지. 오칸라 대사 말로는 사직서를 썼대. 두려워서 서명하지 않은 게 아니라 서명했다고.
+JULIEN: Et Valois ? ||| 발루아는요?
+HÉLÈNE: Valois, c'est ce que j'appelle une signature qui a perdu son encre. Les onze de Londres se sont éparpillés. L'actionnaire principal, tu le connais, publie des communiqués sur son « transparent engagement ». Les logs de modification de la Salle Blanche sont maintenant ouverts aux clients publics, à ma connaissance. Ce n'est pas un jugement. C'est une trace. Je n'ai pas besoin de plus. ||| 발루아는 잉크가 마른 서명이라고 부르고 싶어. 런던의 열한 명은 흩어졌어. 최대 주주는 알다시피 "투명한 참여"를 내세우는 보도자료를 내고 있고. 살 블랑슈의 수정 기록은 내가 알기로 이제 공공 고객에게 열려 있어. 판결이 아니라 흔적이야. 더는 필요 없어.
+JULIEN: Pas de victoire, pas de défaite. Une trace. ||| 승리도 패배도 없이 흔적 하나로군.
+HÉLÈNE: Une trace sur laquelle on peut marcher sans danger. C'est le mieux que fasse mon métier. Le compteur, je l'ai remis à zéro ce matin. Il y a des gens qui comptent pour ne pas oublier, d'autres pour pouvoir arrêter. Moi, je compte pour pouvoir arrêter. Je dîne chez Madeleine demain soir. Ma facture : tu choisis le fromage, je choisis le vin. ||| 그 위를 위험 없이 걸을 수 있는 흔적. 내 직업이 해 줄 수 있는 최선이야. 계수기는 오늘 아침 0으로 돌렸어. 잊지 않으려고 세는 사람이 있고, 멈추려고 세는 사람이 있지. 나는 멈추려고 세. 내일 저녁 마들렌 식당에서 먹을 거야. 내 청구서: 치즈는 네가 고르고 포도주는 내가 골라.
+JULIEN: C'est la facture la plus raisonnable que tu m'aies jamais envoyée. ||| 네가 보낸 청구서 중 가장 합리적이네.
+HÉLÈNE: Je n'ai pas fini de te facturer. Je me fais simplement des économies d'échelle. ||| 아직 청구 안 끝났어. 규모의 경제를 쓰는 중이야.
+OKANLA: (Au téléphone, depuis son ambassade, chaleureuse.) Monsieur Delorme. Une dernière nouvelle avant la fin de la semaine. Mon ministre vous invite à la salle des Chanoines le dix-sept novembre. Vous serez à la porte, pas à la table. Il tient à ce que vous soyez là au moment où la porte s'ouvre. ||| (대사관에서 전화, 따뜻하게.) 들로름 씨. 이번 주가 끝나기 전의 마지막 소식입니다. 장관이 11월 17일 참사회실에 초대합니다. 탁자가 아니라 문 곁에 계시게 됩니다. 문이 열리는 순간 거기 있기를 원하세요.
+JULIEN: Je serai à la porte. Je tiendrai la poignée. Pas pour la tourner : pour qu'elle ne claque pas. ||| 문 곁에 있겠습니다. 손잡이를 잡고 있겠습니다. 돌리려는 게 아니라 쾅 닫히지 않게요.
++ un scellé / sous scellé = 봉인 / 봉인된 상태. 4-7의 봉인 1호가 열리지 않은 채 돌아온다
++ ni pour obtenir ni pour menacer = 얻으려고도 위협하려고도 쓰지 않는다. 쥘리앵이 문서를 봉인할 때 한 문장의 반복
++ je précise pour mon dossier = 제 파일에 남기려고 말씀드립니다. 관료가 자신을 보호하려고 쓰는 정형 문구
++ une signature qui a perdu son encre = 잉크가 마른 서명. 활동이 멈춘 발루아 잔당을 엘렌이 표현한 말
++ une enquête préliminaire / ce n'est pas une arrestation = 예비 수사 / 체포가 아니다. 엘렌이 선을 긋는 화법
++ des missions de conseil conformes = 적법한 자문 업무. 행위자 없는 변호사식 답변
++ des économies d'échelle = 규모의 경제. 엘렌이 청구서를 한꺼번에 처리한다는 농담
++ tenir la poignée pour qu'elle ne claque pas = 쾅 닫히지 않게 손잡이를 잡다. 쥘리앵이 맡을 역할을 이르는 말
+
+## 마들렌 식당 — LE PLÉBISCITE DE TOUS LES JOURS
+MADELEINE: (À la porte de «Chez Madeleine», rue de Verneuil, mercredi, vingt heures, un tablier propre sur sa veste.) La table n'a pas changé depuis le mois dernier. La nappe, si. Mon père disait : « Une nappe lavée est une promesse. » Entrez, je vous attends tous. Je compte six. Six, ça fait une table ronde et une table de côté pour les deux discrets. ||| (베르네이 거리 «Chez Madeleine» 문 앞, 수요일 20시, 재킷 위에 깨끗한 앞치마.) 지난달과 탁자는 그대로고 식탁보는 새것입니다. 아버지는 "빨아 둔 식탁보는 약속"이라고 하셨죠. 들어오세요, 다들 기다렸어요. 여섯으로 셉니다. 여섯이면 둥근 탁자 하나, 그리고 눈에 안 띄고 싶은 두 분을 위한 옆 탁자 하나예요.
+HÉLÈNE: Madeleine, je vous aime déjà. ||| 마들렌, 벌써 좋아해요.
+MADELEINE: Vous me direz ça après la tarte. Les louches, mesdames, messieurs. Six louches de bois, numérotées. Je les mets dans le sac. Chacun tire. Le numéro un est servi le premier ; le un devient le six la fois suivante. On tourne. ||| 타르트 먹고 나서 말씀하세요. 국자입니다, 여러분. 번호 붙은 나무 국자 여섯 개를 자루에 넣어 뒀어요. 각자 뽑으세요. 1번이 처음 서빙을 받고, 다음번엔 1번이 6번이 됩니다. 돌아가는 거예요.
+LÉA: (Elle tire la première.) Numéro un ! J'ai gagné, Madeleine. ||| (먼저 뽑는다.) 1번! 이겼어요, 마들렌.
+VALCOURT: Mademoiselle, vous savez ce que mon élève dirait ? Il dirait qu'on ne gagne pas une louche. On est servi en premier. C'est une préséance temporaire. ||| 아가씨, 내 제자라면 뭐라고 하겠나? 국자는 이기는 게 아니라 먼저 서빙받는 거라고 하겠지. 일시적인 서열이야.
+LÉA: Le mot « préséance », c'est dans ma copie. Le prof m'a mis dix-sept sur vingt. ||| "서열"은 제 답안에도 있어요. 선생님이 20점 만점에 17점 주셨어요.
+CAMILLE: Dix-sept ! Et pourquoi pas dix-huit ? ||| 17점! 왜 18점이 아니고?
+LÉA: Trois points en moins pour « abus de citations d'un seul père ». Il a écrit en marge : « Variez vos sources. » ||| "한 아버지의 인용을 남용했다"고 3점 감점이에요. 여백에 썼어요. "출처를 다양하게."
+JULIEN: (Il rit.) Il a raison. Je ne suis pas un auteur. ||| (웃는다.) 선생님 말씀이 맞다. 나는 저자가 아니야.
+ARCHAMBAULT: (Elle tire le trois.) Léa, je vous en prie, lisez-nous votre dernier paragraphe. Madeleine m'a dit qu'on ne mange pas avant qu'une jeune fille ait lu. Elle me l'a seulement dit à l'oreille ; je suis donc obligée de le répéter fort. ||| (3번을 뽑는다.) 레아, 마지막 단락을 읽어 주세요. 마들렌이 젊은 아가씨가 읽기 전에는 먹지 않는다고 하더군요. 귀엣말로만 말해서 제가 크게 되풀이해야 해요.
+LÉA: (Elle sort une copie, la déplie.) Le sujet : « Consentir, est-ce choisir ? » Voici ma conclusion. « Consentir, ce n'est pas choisir une fois pour toutes. Un peuple ne sait pas toujours ce qu'il veut. Il sait qu'il veut qu'on le lui redemande. Mon père dit : une procédure, pas un résultat. Cela veut dire qu'on ne juge pas une décision à son résultat, mais à la manière dont on en a convenu et aux conditions pour la reprendre. Dans l'archipel de Saint-Aubin, on a écrit la question, la notice, le rendez-vous. » ||| (답안지를 꺼내 펼친다.) 주제는 "동의하는 것은 선택하는 것인가?"였어요. 결론을 읽을게요. "동의한다는 것은 단 한 번에 영원히 선택하는 것이 아니다. 국민은 자기가 무엇을 원하는지 늘 알지는 못한다. 다만 다시 물어 주기를 원한다는 것은 안다. 내 아버지는 '결과가 아니라 절차'라고 말한다. 결정은 결과로 판단하지 않고 합의된 방식과 그것을 다시 열 수 있는 조건으로 판단한다는 뜻이다. 생토뱅 군도에서는 질문과 안내문과 다시 만날 날짜를 적었다."
+LÉA: « Mon père a aussi un autre principe : donner à chaque phrase un sujet et une date. “Il sera fait” ne dit pas qui. “L’Assemblée et le haut-commissaire reposent la question en deux mille trente et un” le dit. Une phrase avec un sujet est une promesse que l’on peut réclamer. » ||| "아버지에게는 다른 원칙도 있다. 모든 문장에 주어와 날짜를 주는 것이다. '이루어질 것이다'는 누가 하는지 말하지 않는다. '의회와 고등판무관은 2031년에 질문을 다시 묻는다'는 말한다. 주어가 있는 문장은 청구할 수 있는 약속이다."
+LÉA: « Enfin, une dame de Petite-Sœur, Odile Sainte-Rose, m’a donné, par un intermédiaire que j’indique, une phrase que je cite avec son accord : “On ne quitte pas un camp. On cesse d’y avoir une chaise.” Je la prends pour conclure. Consentir, c’est accepter que la chaise soit redemandée. Renan parlait d’un plébiscite de tous les jours. Nous n’avons pas besoin de voter tous les jours. Il nous faut seulement qu’on nous écrive, quelque part, le jour où on nous redemandera. » ||| "마지막으로 쁘띠트쇠르의 오딜 생트로즈가 내가 밝히는 중개자를 통해 문장 하나를 주었고 그의 동의를 받아 인용한다. '사람은 편을 떠나는 게 아니다. 거기에 의자가 없어지는 거다.' 이 문장으로 끝맺는다. 동의한다는 것은 의자를 다시 청구받을 수 있음을 받아들이는 일이다. 르낭은 매일의 국민투표를 말했다. 우리는 매일 투표할 필요는 없다. 다시 물어 줄 날을 어딘가에 써 놓아 주기만 하면 된다."
+VALCOURT: (Un silence, puis posément.) Mademoiselle, vous avez réussi ce que ni votre père ni moi n'avons réussi à faire en trente ans : tenir un plébiscite en une page. ||| (침묵 뒤 차분하게.) 아가씨, 당신 아버지도 나도 30년 동안 못 한 일을 했네. 국민투표를 한 쪽에 담았어.
+JULIEN: (Après un temps, la gorge un peu nouée.) Léa. Je ne sais pas si ce que tu as écrit est mon principe. C'est mieux. Je n'ai jamais dit « une phrase avec un sujet est une promesse que l'on peut réclamer ». ||| (잠시 뒤 목이 조금 메어서.) 레아. 네가 쓴 게 내 원칙인지 모르겠다. 더 낫구나. "주어가 있는 문장은 청구할 수 있는 약속"이라고는 내가 한 번도 말한 적 없어.
+LÉA: Tu l'as fait vingt fois cette semaine. Je l'ai seulement écrit. C'est une définition, papa. Une définition, c'est quand on écrit ce que quelqu'un a fait sans savoir qu'il le faisait. ||| 이번 주에 스무 번은 했어요. 저는 적었을 뿐이에요. 정의란 그런 거예요, 아빠. 누군가 모르고 한 일을 적어 두는 것.
+MADELEINE: (Elle pose les assiettes.) Soupe de potiron, première assiette pour Léa, numéro un. Après quoi vous parlez de fromage. Ici, on ne parle pas de procédure avec la bouche pleine. Elle risquerait d'être mal entendue. ||| (접시를 놓으며.) 단호박 수프, 첫 접시는 1번 레아에게. 그다음에 치즈 얘기를 하세요. 여기선 입에 음식을 넣고 절차 이야기를 안 해요. 잘못 들리기 쉬우니까요.
+ARCHAMBAULT: Monsieur Delorme. Julien. Permettez-moi : Julien. Je vous ai tutoyé dans ma tête depuis lundi. Le ministre m'a chargée d'une phrase : « Dites-lui que le Bureau de la médiation devient permanent. » Il y aura une ligne au budget. ||| 들로름 씨. 쥘리앵. 말씀드릴게요, 쥘리앵. 월요일부터 마음속에선 말을 놓았어요. 장관이 한 문장을 맡기셨어요. "중재조정실이 상설 기구가 된다고 전하라." 예산에 항목이 하나 생길 겁니다.
+JULIEN: Une ligne au budget, c'est une phrase avec un sujet et une date. J'accepte. ||| 예산에 항목이 생긴다는 건 주어와 날짜가 있는 문장이네요. 받아들입니다.
+CAMILLE: Moi aussi, on m'a proposé quelque chose. Cet après-midi. La direction d'une « section de rédaction » dans le bureau. Je dois rédiger les questions des consultations à venir. J'ai demandé du temps. ||| 저도 제안을 받았어요. 오늘 오후에요. 중재조정실 "문안 작성과"의 책임자. 앞으로의 투표 질문을 쓰는 일이에요. 생각할 시간을 달라고 했어요.
+VALCOURT: Et vous allez accepter, mademoiselle. Vous avez de la grammaire dans les doigts. ||| 받아들일 거요, 아가씨. 손가락에 문법이 들어 있으니까.
+CAMILLE: J'accepte à une condition. Que je puisse continuer à lui dire « tu » devant le ministre. ||| 한 가지 조건으로요. 장관 앞에서도 이 사람에게 계속 말을 놓을 수 있다면.
+JULIEN: Tu l'as déjà fait deux fois en public. Personne n'est mort. ||| 이미 공개적으로 두 번 했잖아. 아무도 안 죽었어.
+HÉLÈNE: (Elle tourne la tête vers la table de côté.) Regardez. Okanla et Banda mangent. Ils n'écoutent pas. Ils écoutent. ||| (옆 탁자 쪽으로 고개를 돌리며.) 봐요. 오칸라 대사와 방다 씨가 먹고 있어요. 안 듣고 있죠. 듣고 있어요.
+BANDA: (De la table de côté, haut, en levant son verre.) Nous ne participons pas à votre conversation. Nous remarquons seulement que le rouge est excellent. ||| (옆 탁자에서 잔을 들고 큰 소리로.) 저희는 대화에 끼지 않습니다. 레드 와인이 훌륭하다는 것만 말씀드립니다.
+OKANLA: (Elle fait passer un carton par le serveur.) Pour votre table. « Signataires, pas voisins inquiets. N.O. et I.B. » ||| (서빙 직원을 통해 카드를 건네며.) 이쪽 식탁으로요. "서명 당사자이지 걱정하는 이웃이 아니다. N.O., I.B."
+MADELEINE: (Elle lit à voix haute et rit.) Je mets la carte sur la cheminée. Elle tiendra mieux que mon menu. ||| (소리 내어 읽고 웃는다.) 벽난로 위에 올려 두겠어요. 제 메뉴판보다 오래 가겠네요.
+MADELEINE: (Elle apporte le chariot de fromages, une demi-heure plus tard.) Et voici le chariot. Brie de Meaux, comté de vingt-quatre mois, saint-nectaire, mont-d'or de la saison, banon. Monsieur Delorme, vous avez le couteau. ||| (삼십 분 뒤, 치즈 카트를 밀고 온다.) 카트 나왔습니다. 모의 브리, 24개월 콩테, 생넥테르, 제철 몽도르, 바농. 들로름 씨, 칼은 가지고 계시죠.
+JULIEN: (Il sort le couteau à manche de corne, le pose sur la nappe.) Je l'ai toujours. Mais ce soir, je ne coupe pas le premier morceau. Monsieur l'ambassadeur ? C'est à vous. ||| (뿔 손잡이 칼을 꺼내 식탁보에 놓는다.) 늘 갖고 있습니다. 하지만 오늘 저녁 첫 조각은 제가 자르지 않겠습니다. 대사님? 대사님 몫입니다.
+VALCOURT: (Il repousse doucement le couteau vers lui.) Non, mon cher. Ce n'est plus à moi. Le couteau de mon père vous a été donné à l'archipel, il n'a pas à revenir. Coupez le brie sans toucher au nez. Ensuite, c'est vous qui allez raconter. ||| (칼을 살며시 도로 밀어 준다.) 아니, 이보게. 이제 내 것이 아닐세. 아버지의 칼은 군도에서 자네에게 줬고 돌아올 필요가 없어. 코는 건드리지 말고 브리를 자르게. 그다음엔 자네가 이야기하는 걸세.
+JULIEN: (Il coupe avec précaution.) Raconter quoi ? ||| (조심스럽게 자르며.) 무엇을요?
+VALCOURT: L'histoire. Une, une seule. Pas une histoire du passé ; la dernière, celle de dimanche. À toi de raconter le fromage. ||| 이야기를. 하나만. 과거의 이야기가 아니라 가장 최근, 일요일 이야기. 치즈를 이야기하는 건 자네 몫이야.
+JULIEN: (Après un silence.) Dans la nuit du dimanche dix-huit octobre, à Petite-Sœur, une île de onze cents âmes, le courant a été coupé à vingt et une heures dix. Il y avait mille trente-huit bulletins à compter. Trois partis qui n'avaient pas voté la même chose, une enseignante d'anglais venue par le dernier bateau, quatre lampes à pétrole prêtées par le café. Ils ont compté une seconde fois, et deux bulletins collés par l'humidité sont passés d'une pile à l'autre. Chacun les a lus à voix haute. Chacun a signé. Cela a pris deux heures. Voilà. ||| (침묵 뒤.) 10월 18일 일요일 밤, 주민 천백 명의 섬 쁘띠트쇠르에서 21시 10분에 전기가 끊겼습니다. 세어야 할 투표용지는 1,038장이었어요. 같은 투표를 하지 않은 세 정당, 마지막 배로 온 영어 교사, 카페에서 빌린 석유 등불 네 개. 그들은 두 번째로 셌고 습기로 붙은 투표용지 두 장이 한 더미에서 다른 더미로 넘어갔습니다. 각자 소리 내어 읽고 각자 서명했어요. 두 시간이 걸렸습니다. 이상입니다.
+VALCOURT: Voilà. Maintenant tu as une histoire. Ça me suffit pour partir tranquille. ||| 됐네. 이제 자네에겐 이야기가 있어. 나는 마음 편히 떠날 수 있겠군.
+HÉLÈNE: Et la morale ? ||| 교훈은요?
+JULIEN: Je n'en ai pas. J'ai un détail, qui est mieux : ils ont compté lentement. Quand on compte lentement, on ne triche pas, et on se parle. ||| 없어요. 더 나은 디테일이 하나 있죠. 천천히 셌다는 것. 천천히 세면 속이지 않고 이야기를 나누게 됩니다.
+ARCHAMBAULT: Voilà ce que le ministre n'a pas su écrire. Il me l'a demandé lundi : « Dites-moi quel est le slogan de ce dossier. » J'ai répondu : il n'y en a pas. Il a dit : « Parfait. C'est la première fois que mon cabinet ne ment pas. » ||| 장관님이 쓰지 못하신 게 바로 이겁니다. 월요일에 물으셨어요. "이 사안의 구호가 뭐요?" 저는 없다고 답했고, 장관님은 "완벽하군. 우리 비서실이 거짓말을 안 하는 건 처음이오"라고 하셨어요.
+CAMILLE: (Elle lève son verre.) Alors un toast sans slogan. À quoi ? ||| (잔을 들며.) 그럼 구호 없는 건배요. 무엇을 위해서요?
+VALCOURT: À ceux qui lisent. ||| 읽는 사람들을 위하여.
+JULIEN: Et à ceux qui redemandent. Il y a deux sens, je sais. Le fromage, et la question. ||| 그리고 다시 청하는 사람들을 위하여. 뜻이 둘이죠, 압니다. 치즈와 질문.
+LÉA: Aux deux ! ||| 둘 다 위하여!
+HÉLÈNE: Aux nuances. ||| 뉘앙스를 위하여.
+VALCOURT: Delorme, tu l'as dit à Versailles, sous les lustres : « La nuance est la grammaire de la paix. » C'était vrai. Cette semaine, tu as ajouté une ligne à la grammaire. ||| 들로름, 베르사유 샹들리에 아래서 이렇게 말했지. "뉘앙스는 평화의 문법이다." 맞는 말이었네. 이번 주에 자네는 그 문법에 한 줄을 보탰어.
+JULIEN: Une ligne seulement. La nuance est la grammaire de la paix, et la grammaire se paie en temps, en lecture, en patience. Un jour, devant une commission, j'ai dit qu'un mot choisi a un prix : la nuance a un prix. J'ai mis du temps à comprendre qu'on peut aussi le partager. ||| 한 줄뿐입니다. 뉘앙스는 평화의 문법이고, 문법은 시간과 읽기와 인내로 값을 치릅니다. 언젠가 위원회 앞에서 신중히 고른 단어에는 값이 있다고, 뉘앙스에는 값이 있다고 말했습니다. 그 값을 나눌 수도 있다는 걸 이해하는 데 시간이 걸렸어요.
+MADELEINE: (Elle pose la note devant Julien.) Et puisqu'on parle de prix. Quarante-deux euros par tête, vin non compris, l'addition de ce soir, tarte comprise. C'est le prix d'un tour. ||| (계산서를 쥘리앵 앞에 놓으며.) 값 얘기가 나왔으니까요. 오늘 저녁 계산서는 1인당 42유로, 포도주 제외, 타르트 포함. 한 바퀴의 값이에요.
+MADELEINE: Le tour du paiement se tire aussi avec les louches, c'est la règle de la maison. Qui a le six ? ||| 지불 순서도 국자로 뽑는 게 이 집 규칙이에요. 6번이 누구죠?
+VALCOURT: Moi. (Il rit.) Par la loi du tour, je dois régler. J'ai toujours payé avec des histoires. Ce soir je sors la carte bancaire. Un événement. ||| 나일세. (웃는다.) 순번의 법칙에 따르면 내가 낼 차례야. 늘 이야기로 값을 치렀는데 오늘 저녁은 카드를 꺼내야겠군. 사건이야.
+LÉA: Papa, tu es content ? ||| 아빠, 기뻐요?
+JULIEN: D'accord… ||| 좋아...
+CAMILLE: Mais ? ||| 그런데?
+HÉLÈNE: Mais ? ||| 그런데?
+ARCHAMBAULT: Mais ? ||| 그런데요?
+JULIEN: Pas de « mais » ce soir. D'accord, tout court. ||| 오늘 밤은 "그런데"가 없어. 그냥, 좋아.
+VALCOURT: Notez la date, mesdames et messieurs. C'est la première fois depuis que je le connais. ||| 날짜를 적어 두십시오, 여러분. 내가 알고 지낸 뒤로 처음입니다.
+MADELEINE: Et pour le brie, qui redemande ? ||| 그럼 브리는 누가 더 드시겠어요?
+LÉA: Moi ! ||| 저요!
+JULIEN: Moi aussi. Je redemande. ||| 저도요. 더 청합니다.
++ une nappe lavée est une promesse = 빨아 둔 식탁보는 약속이다. 마들렌 아버지의 말로, 새 시작을 뜻한다
++ tirer les louches / un tour = 국자를 뽑다 / 한 바퀴. 서열을 시간으로 푸는 마들렌의 순번 장치(4-2에서 이어짐)
++ abus de citations d'un seul père = 한 아버지의 인용 남용. 레아의 답안에 붙은 감점 사유로, 출처를 다양하게 하라는 평
++ une phrase avec un sujet est une promesse que l'on peut réclamer = 주어가 있는 문장은 청구할 수 있는 약속이다. 레아가 아버지의 방식을 정의한 말
++ redemander (du fromage / la question) = 더 청하다 / 다시 묻다. 건배사의 이중 의미
++ La nuance est la grammaire de la paix. La nuance a un prix. = 뉘앙스는 평화의 문법이다. 뉘앙스에는 값이 있다. 시리즈 전체를 닫는 두 문장
++ D'accord, mais… → D'accord, tout court = 좋아, 그런데... → 그냥 좋아. 시리즈의 말버릇이 마지막에 한 번 접히는 대목
