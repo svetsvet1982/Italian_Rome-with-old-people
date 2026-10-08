@@ -1,0 +1,239 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 6
+@title La journée des dupes
+@ko 속은 자들의 날
+@setting 파리 7구 해외영토부(우디노 거리) 비서실장 집무실(월요일 오전 9시, J-7) → 복도와 대기실 → 점심 식당 «Au Cantal Perdu» → 오후 3시 두 번째 면담 → 저녁, 케도르세 중재조정실
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast MERCADIER | 가스파르 메르카디에, 해외영토부 새 비서실장, 46세(허구). 전직 국사원 심의관, 형식과 선례의 사람
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관, 49세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 전화와 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 전화로 등장
+@cast HUISSIER | 비서실 수위, 나이 든 직원
+@cast CHEF DE SALLE | 식당 홀 책임자
+@note 월요일 아침 9시, 쥘리앵은 일요일에 공표한 반박문을 두고 새 비서실장 메르카디에와 마주 앉습니다. 메르카디에의 논점은 정당합니다. 국가의 이름으로 «이것은 국가의 문서가 아니다»라고 말할 수 있는 곳은 비서실의 결재(visa)를 거친 문서뿐이고, 그렇지 않으면 훗날 일부라도 진짜로 드러날 때 국가가 공식적으로 거짓말을 한 셈이 되기 때문입니다. 게다가 그는 «다른 것»을 내놓습니다. 북쪽, 곧 말라비 쪽 대화방에서 돌고 있는 두 번째 문서 «215호의 2»로, 이번에는 비서실 내부의 10월 2일자 초안에서 실제로 나왔던 한 문장이 섞여 있습니다. 진짜 문장 하나를 넣은 가짜 문서는 가장 막기 어렵습니다. 쥘리앵의 해법은 먼저 이기려 하지 않는 것입니다. 형식 문제는 그가 틀렸으므로 인정하고, 대신 결재 절차를 더 빠르고 단단하게 만드는 쪽으로 제안합니다. 역사 배경은 «속은 자들의 날»입니다. 1630년 11월 10일, 왕의 어머니 마리 드 메디시스는 파리 뤽상부르 궁에서 아들 루이 13세를 몰아붙여 리슐리외의 해임 약속을 받아냈다고 믿었고 궁정은 그녀의 승리를 축하했습니다. 그러나 이튿날 왕은 베르사유의 사냥용 별궁으로 가서 리슐리외를 만났고(세부 장면은 전승에 따라 다릅니다), 승자로 여겨졌던 쪽, 곧 대법관 미셸 드 마리야크와 왕모 측근들이 몰락했습니다. 마리 드 메디시스는 이후 유배되어 1631년 브뤼셀로 달아났습니다. 교훈은 방에서 이긴 사람이 아니라 왕이 마지막에 돌아오는 방에 있는 사람이 이긴다는 것입니다.
+@next 4-7: 화요일 파리, J-6. 엘렌이 «회색» 서류를 건넵니다. 말라비 외교관의 금품 수수 기록입니다. 그리고 그것을 쓸 것인가를 레아가 묻습니다.
+
+## 아홉 시, 우디노 거리 — NEUF HEURES, RUE OUDINOT
+CAMILLE: Atterrissage à six heures dix, douche à six heures quarante, café à sept heures. Tu as dormi, au moins ? ||| 6시 10분 착륙, 6시 40분 샤워, 7시 커피. 그래도 좀 잤어?
+JULIEN: Deux heures. Entre Port-Aubin et Paris, j'ai récité mon communiqué à l'envers, pour voir où il casserait. ||| 두 시간. 포르오뱅에서 파리 오는 동안 내 성명서를 거꾸로 외워 봤어. 어디서 깨지나 보려고.
+CAMILLE: Et où est-ce qu'il casse ? ||| 그래서 어디서 깨졌는데?
+JULIEN: Au mot « visa ». Pas dans le texte. Dans la manière dont je l'ai fait partir. ||| "결재"라는 말에서. 문장 안이 아니라, 내가 그걸 내보낸 방식에서.
+CAMILLE: Tu avais onze heures du matin, un dimanche, quatre cents personnes devant la Caisse. Tu pouvais attendre le visa d'un cabinet qui dormait ? ||| 일요일 오전 11시였고, 은행 앞엔 400명이었어. 자고 있는 비서실의 결재를 기다릴 수 있었겠어?
+JULIEN: Non. Et pourtant il faudra que je dise qu'on aurait dû. Les deux sont vrais. ||| 아니. 그런데도 내가 "기다렸어야 했다"고 말해야 할 거야. 둘 다 사실이니까.
+CAMILLE: Tu vas t'excuser ? Face à un homme que tu n'as jamais vu ? ||| 사과할 거야? 한 번도 본 적 없는 사람 앞에서?
+JULIEN: Je vais lui donner raison sur ce qui est exact. C'est une chose qu'on peut faire sans rien lâcher d'autre. ||| 맞는 부분엔 그가 옳다고 말할 거야. 다른 건 하나도 놓지 않으면서 할 수 있는 일이지.
+HUISSIER: Monsieur Delorme ? Le directeur de cabinet vous attend. Mademoiselle Roussel, on m'a dit que vous patientiez dans l'antichambre. ||| 들로름 씨? 비서실장님이 기다리십니다. 루셀 양, 대기실에서 기다리시도록 전달받았습니다.
+CAMILLE: Je patiente ? Il m'a dit ça, ou c'est vous qui l'avez compris ainsi ? ||| 기다리라고요? 그분이 그렇게 말했어요, 아니면 그렇게 이해하신 거예요?
+HUISSIER: Il l'a dit, mademoiselle. Avec le sourire. ||| 그렇게 말씀하셨습니다, 아가씨. 웃으시면서요.
+JULIEN: Alors attends. Écris tout ce que tu entends à travers la porte, c'est un vieux mur. ||| 그럼 기다려. 문 너머로 들리는 건 다 적어 둬. 오래된 벽이니까.
+MERCADIER: Monsieur Delorme. Gaspard Mercadier. Asseyez-vous, je ne vais pas vous demander si vous avez fait bon voyage, il paraît que vous avez fait un voyage utile. ||| 들로름 씨. 가스파르 메르카디에입니다. 앉으세요. 여행이 편안했느냐고는 안 묻겠습니다. 쓸모 있는 여행이었다고 들었으니까요.
+JULIEN: Utile, en tout cas, c'était le projet. Vous avez repris le bureau de Lefort ? ||| 쓸모 있는 여행이길 바랐죠. 르포르의 방을 그대로 쓰시는군요?
+MERCADIER: Les murs, oui. J'ai changé les fauteuils et la façon dont on y entre. Ici, on n'entre plus sans dossier. ||| 벽은요. 의자와 들어오는 방식은 바꿨습니다. 이제 여기엔 서류 없이 들어오지 않습니다.
+JULIEN: C'est une phrase que j'aime bien. Je dois avouer que je n'ai pas toujours obéi. ||| 마음에 드는 문장이네요. 저는 늘 지키지는 못했다고 고백해야겠습니다.
+MERCADIER: Vous avez signé, dimanche, un texte intitulé « démenti ». Il a été affiché à la mairie de Port-Aubin, au haut-commissariat, sur la place. Il commence ainsi : « Le document diffusé cette nuit n'est pas un document de l'État. » ||| 일요일에 "반박문"이라는 제목의 글에 서명하셨죠. 포르오뱅 시청, 고등판무관청, 광장에 붙었습니다. 이렇게 시작하더군요. "오늘 밤 유포된 문서는 국가의 문서가 아니다."
+JULIEN: C'est exact. Je le répète. ||| 맞습니다. 다시 말하겠습니다.
+MERCADIER: Vous le répétez sans l'avoir fait relire. Personne, dans ce bâtiment, n'a mis un paraphe en bas. Savez-vous ce que signifie cette phrase quand elle est dite au nom de l'État ? ||| 검토도 받지 않고 되풀이하시는군요. 이 건물 누구도 아래에 서명하지 않았습니다. 국가의 이름으로 그 문장이 말해질 때 무슨 뜻인지 아십니까?
+JULIEN: Dites-le-moi. C'est vous le juriste. ||| 말씀해 보시죠. 법률가는 당신이니까요.
+MERCADIER: Elle signifie : nous avons vérifié tous les bureaux, toutes les directions, tous les tiroirs. Or personne n'a vérifié le tiroir du cinquième étage. ||| 이 문장은 이런 뜻입니다. 모든 부서, 모든 국, 모든 서랍을 확인했다. 그런데 5층 서랍은 아무도 확인하지 않았습니다.
+JULIEN: Il y a un tiroir au cinquième ? ||| 5층에 서랍이 있습니까?
+MERCADIER: Il y a toujours un tiroir. Si demain on découvre qu'une phrase de ce papier existait dans un brouillon, vous aurez fait mentir l'État par écrit, devant mille deux cents personnes. ||| 서랍은 늘 있습니다. 내일 이 서류의 문장 하나가 초안에서 발견되면, 당신은 1,200명 앞에서 국가가 거짓말을 했다고 글로 남긴 셈이 됩니다.
+JULIEN: Vous avez raison. ||| 맞는 말씀입니다.
+MERCADIER: Pardon ? ||| 네?
+JULIEN: Vous avez raison. Sur la forme, c'est même plus que de la forme : c'est la seule chose qui fait qu'un démenti vaut quelque chose. J'ai signé une phrase qui engageait des étages que je ne connais pas. ||| 맞는 말씀이라고요. 형식 문제만이 아닙니다. 반박문이 가치를 갖게 하는 유일한 것이죠. 저는 제가 모르는 층들까지 책임지는 문장에 서명했습니다.
+MERCADIER: Vous aviez une réponse prête. Vous alliez me parler de l'urgence, de la foule, du dimanche. ||| 대답을 준비해 오셨을 텐데요. 긴급함, 군중, 일요일 얘기를 하실 줄 알았습니다.
+JULIEN: J'en ai une, oui. Je la garde pour plus tard. Elle est vraie, mais elle ne sert à rien tant que vous n'avez pas fini. ||| 있습니다. 나중으로 미룹니다. 사실이긴 하지만, 당신이 말을 끝내기 전엔 쓸모가 없으니까요.
+MERCADIER: Je n'ai pas fini. Mais je note que c'est la première fois qu'un visiteur de ce bureau me dit que j'ai raison avant que je lui demande quoi que ce soit. ||| 아직 안 끝났습니다. 다만 이 방 방문객이 제가 무엇을 요구하기도 전에 제가 옳다고 말한 건 처음이라는 점은 적어 두겠습니다.
+JULIEN: Alors continuez. Je vous écoute avec les deux oreilles. ||| 그럼 계속하세요. 두 귀로 듣겠습니다.
+MERCADIER: Premier point. À partir d'aujourd'hui, aucun texte public relatif à Saint-Aubin ne sort sans le visa de ce cabinet. Deuxième point. Votre mission est rattachée à mon service pour la durée du scrutin. ||| 첫째. 오늘부터 생토뱅 관련 공개 문서는 이 비서실의 결재 없이는 나가지 않습니다. 둘째. 당신의 임무는 투표 기간 동안 제 부서에 소속됩니다.
+JULIEN: Le deuxième point change l'organigramme. Le premier change la procédure. D'accord, mais je les traite l'un après l'autre. ||| 둘째는 조직도를 바꾸고, 첫째는 절차를 바꾸죠. 다코르, 메 하나씩 차례로 다루겠습니다.
+MERCADIER: Vous traitez ? Je ne vous ai pas demandé votre avis. ||| 다룬다고요? 의견을 물은 적 없습니다.
+JULIEN: Vous m'avez demandé si je comprenais. Je comprends. Comprendre, ce n'est pas encore consentir : c'est le moment juste avant. ||| 이해하느냐고 물으셨죠. 이해합니다. 이해는 아직 동의가 아닙니다. 그 바로 직전의 순간이죠.
++ avoir raison = 옳다. 쥘리앵이 메르카디에에게 먼저 «맞다»고 인정하는 전략의 핵심 표현
++ viser / le visa = 결재, 확인 서명. «publier sans visa» 는 서명 절차 없이 공표한다는 뜻
++ engager l'État = 국가에 책임을 지우다. «une phrase qui engageait des étages» 처럼 쓴다
++ il y a toujours un tiroir = 서랍은 늘 있다. 확인되지 않은 문서가 어딘가 남아 있다는 비서실장의 경계심
++ rattacher à = ~에 소속시키다, 귀속시키다. 임무를 한 부서 밑에 둘 때의 행정어
++ comprendre n'est pas consentir = 이해는 동의가 아니다. 반론의 한 걸음 앞을 보여 주는 쥘리앵의 화법
++ je les traite l'un après l'autre = 하나씩 차례로 다루겠다. 요구를 한꺼번에 받지 않는 협상 기술
+
+## 다른 것 — QUELQUE CHOSE D'AUTRE
+MERCADIER: Le « quelque chose d'autre », maintenant. Vous avez un téléphone ? ||| 이제 "다른 것"입니다. 전화기 있으십니까?
+JULIEN: J'ai celui de Camille. Elle est derrière la porte. ||| 카미유 걸 쓰겠습니다. 문 뒤에 있어요.
+MERCADIER: Qu'elle entre. Je préfère que la personne qui prend des notes les prenne ici, devant moi. ||| 들어오라고 하세요. 메모하는 사람은 제 앞에서 하는 편이 낫습니다.
+CAMILLE: Je prends déjà des notes, monsieur le directeur. Je les prends fort, d'ailleurs, c'est un vieux mur. ||| 이미 적고 있었습니다, 비서실장님. 큰 소리로 적고 있었죠. 오래된 벽이라서요.
+MERCADIER: Mademoiselle Roussel, vous avez de l'humour. Gardez-le pour la suite, il vous servira. Voici. ||| 루셀 양, 유머가 있으시군요. 이어질 일에 쓰도록 아껴 두세요. 자, 이겁니다.
+CAMILLE: Une capture d'écran. Un groupe de messagerie en anglais et en français, des numéros du Malavi. Le fichier s'appelle « Note 215 bis ». ||| 화면 캡처네요. 영어와 프랑스어가 섞인 메신저 단체방, 말라비 번호들이고요. 파일 이름은 "215호의 2"입니다.
+MERCADIER: Il a été posté à cinq heures ce matin, heure de Paris, c'est-à-dire à une heure du matin là-bas. Le groupe a trois cents membres. Lisez. ||| 오늘 아침 파리 시간 5시, 현지 새벽 1시에 올라왔습니다. 방 인원은 300명이고요. 읽어 보세요.
+CAMILLE: « Le Conseil de développement conjoint sera dissous quel que soit le résultat du scrutin. Les droits d'exploitation des fonds marins du bassin de Kandara seront réattribués à l'État. » Daté du « 6 octobre ». ||| "공동개발위원회는 투표 결과가 어떻든 해체된다. 칸다라 분지 해저 개발권은 국가로 환수된다." 날짜는 "10월 6일"이고요.
+JULIEN: « Quel que soit le résultat ». Encore. ||| "결과가 어떻든". 또 나왔네요.
+MERCADIER: Vous remarquez la formule. Moi aussi. Mais ce n'est pas elle qui m'inquiète. Voici ce qui m'inquiète. ||| 그 표현을 알아보셨군요. 저도요. 하지만 걱정되는 건 그게 아닙니다. 걱정되는 건 이쪽입니다.
+MERCADIER: Le deuxième paragraphe de ce document est presque mot pour mot celui d'un brouillon du cabinet daté du 2 octobre. Un brouillon que nous avons écarté. ||| 이 문서 둘째 문단이 10월 2일자 비서실 초안의 한 문단과 거의 단어 하나까지 같습니다. 우리가 폐기한 초안이죠.
+CAMILLE: Donc le faux contient une vraie phrase. ||| 그러니까 가짜 안에 진짜 문장이 하나 있다는 거네요.
+MERCADIER: Un faux qui contient une vraie phrase, voilà ce qu'on appelle, en droit, un cauchemar. On ne peut plus dire « ce document n'existe pas ». On doit dire « cette phrase a existé, mais ce document, non ». ||| 가짜 안에 진짜 문장이 들어 있는 것, 법에서는 그걸 악몽이라고 합니다. "이 문서는 존재하지 않는다"고 더는 못 해요. "이 문장은 있었지만 이 문서는 없다"고 말해야 하죠.
+JULIEN: Qui avait le brouillon du 2 octobre ? ||| 10월 2일 초안은 누가 갖고 있었습니까?
+MERCADIER: Onze personnes au cabinet, dont moi depuis lundi dernier. Et, parce qu'on l'a joint à un dossier de travail de la collectivité, une trentaine à Port-Aubin. ||| 비서실에 열한 명, 저도 지난주 월요일부터 포함됩니다. 그리고 영토 의회에 보낸 업무 서류에 첨부되어 포르오뱅에도 30명쯤 있습니다.
+JULIEN: Une trentaine. C'est le chiffre de ceux qui connaissaient la question avant qu'elle ne soit publiée. ||| 30명쯤이라. 질문이 공표되기 전에 문안을 알던 사람 수와 같군요.
+MERCADIER: Je n'ai pas fait ce rapprochement. Vous, si. ||| 저는 그 연결은 못 했습니다. 당신은 했군요.
+JULIEN: Je l'ai fait dans l'avion. Mais je n'en tire pas de conclusion. Un chiffre rond n'est pas un visage. ||| 비행기에서 했습니다. 하지만 결론은 안 냅니다. 딱 떨어지는 숫자는 얼굴이 아니니까요.
+MERCADIER: Vous croyez, vous, que quelqu'un de chez nous a livré le brouillon ? ||| 당신은 우리 쪽 누군가가 초안을 넘겼다고 생각합니까?
+JULIEN: Je crois que quelqu'un l'a eu. Qu'il l'ait volé, reçu ou perdu, je ne sais pas. ||| 누군가 그걸 손에 넣었다고 생각합니다. 훔쳤는지, 받았는지, 잃어버렸는지는 모릅니다.
+MERCADIER: Moi, je sais ce que je dois faire. Un démenti sur 215 bis, dans l'heure. Et ce démenti, c'est moi qui le signe. ||| 저는 해야 할 일을 압니다. 215호의 2에 대한 반박을 한 시간 안에 내는 겁니다. 그 반박은 제가 서명합니다.
+CAMILLE: Vous voulez dire que vous allez écrire : « Ce document n'est pas un document de l'État » ? ||| 그럼 "이 문서는 국가의 문서가 아니다"라고 쓰시겠다는 말씀인가요?
+MERCADIER: Pas exactement. Je vais écrire que ce document « ne peut être attribué à l'État en l'état ». ||| 정확히 그렇진 않습니다. "현재 상태로는 국가의 것으로 귀속될 수 없다"고 쓸 겁니다.
+JULIEN: « En l'état »… Les gens vont lire : « presque ». ||| "현재 상태로는"이라... 사람들은 "거의"라고 읽을 겁니다.
+MERCADIER: Et alors ? « Presque » est plus honnête que « jamais ». ||| 그게 어때서요? "거의"가 "절대"보다 정직합니다.
+JULIEN: Honnête, oui. Efficace, non. Un démenti qui hésite ne rassure personne, il donne aux gens une deuxième rumeur. ||| 정직하죠. 하지만 효과는 없습니다. 망설이는 반박은 아무도 안심시키지 못하고 사람들에게 두 번째 소문을 줍니다.
+MERCADIER: Vous avez parlé de procédure tout à l'heure. Voici la mienne : on dit seulement ce que l'on a vérifié. Qu'avez-vous vérifié sur celui-là ? ||| 아까 절차 얘기를 하셨죠. 제 절차는 이렇습니다. 확인한 것만 말한다. 이 문서에서 무엇을 확인하셨습니까?
+JULIEN: Rien. Je viens de le voir. ||| 아무것도요. 방금 봤으니까요.
+MERCADIER: Eh bien voilà. Nous sommes d'accord. ||| 바로 그겁니다. 우리 의견이 같군요.
+JULIEN: Sur ce point, oui. Pas sur le mot « en l'état », mais je ne vais pas le disputer maintenant. Il y a plus urgent. ||| 이 점에서는요. "현재 상태로는"이라는 표현에는 동의 못 하지만 지금 다투진 않겠습니다. 더 급한 게 있어요.
+MERCADIER: Quoi donc ? ||| 뭡니까?
+JULIEN: Avant de signer quoi que ce soit, je voudrais que vous regardiez la date. « 6 octobre ». Camille ? ||| 서명하기 전에 날짜를 봐 주십시오. "10월 6일". 카미유?
+CAMILLE: Le 6 octobre, c'est quatre jours après le brouillon du 2. Et vous l'avez écarté quand, ce brouillon ? ||| 10월 6일이면 2일자 초안에서 나흘 뒤예요. 그 초안은 언제 폐기하셨어요?
+MERCADIER: Le 7. Le lendemain de la date que porte ce papier. ||| 7일입니다. 이 서류에 찍힌 날짜의 다음 날이죠.
+CAMILLE: Alors le faussaire date son texte d'un jour où le paragraphe existait encore. Il n'a pas copié la version corrigée. Il a copié l'ancienne. ||| 그럼 위조자는 그 문단이 아직 살아 있던 날로 문서에 날짜를 적은 거네요. 고친 판본이 아니라 옛 판본을 베낀 거예요.
+MERCADIER: Ce qui veut dire que la fuite date d'entre le 2 et le 6. Avant mon arrivée. Avant que j'aie fermé quoi que ce soit. ||| 그렇다면 유출은 2일과 6일 사이라는 뜻입니다. 제가 오기 전, 제가 무엇이든 닫기 전이죠.
+JULIEN: Gardons cette date. Une date qu'on ne sait pas encore lire est un objet précieux. On ne la jette pas, on la range. ||| 이 날짜는 보관합시다. 아직 읽지 못한 날짜는 귀한 물건입니다. 버리지 말고 정리해 두는 거예요.
++ en l'état = 현재 상태로는. 법률·행정문에서 단정을 피하는 한정어
++ un faux qui contient une vraie phrase = 진짜 문장을 품은 가짜. «ce document n'existe pas»와 «cette phrase a existé»를 구별해야 한다
++ cela ne peut être attribué à = ~에 귀속될 수 없다. 책임 귀속을 부정하는 행정 표현
++ un chiffre rond n'est pas un visage = 딱 떨어지는 수가 얼굴은 아니다. 숫자로 사람을 단정하지 않는 쥘리앵의 원칙
++ tirer une conclusion = 결론을 끌어내다. «je n'en tire pas de conclusion»의 부정형이 신중함의 표시
++ qu'il l'ait volé, reçu ou perdu = 훔쳤든 받았든 잃었든. 양보 접속법(qu'il … ou …)
++ on dit seulement ce que l'on a vérifié = 확인한 것만 말한다. 메르카디에의 절차 원칙
+
+## 뤼 드 베르네유의 점심 — LE FROMAGE DES DUPES
+CHEF DE SALLE: Monsieur l'ambassadeur est arrivé il y a vingt minutes, il a déjà inspecté le chariot. Il dit que le vacherin n'est pas encore à point mais qu'il le sera jeudi. ||| 대사님은 20분 전에 도착하셔서 벌써 카트를 점검하셨습니다. 바슈랭은 아직 덜 익었지만 목요일엔 괜찮을 거라고 하십니다.
+VALCOURT: Julien. Camille. Asseyez-vous, la saison du mont-d'or vient de commencer, c'est mon premier de l'année. Un rite, pas un luxe. ||| 쥘리앵. 카미유. 앉게. 몽도르 철이 막 시작됐어. 올해 첫 번째지. 사치가 아니라 의식이야.
+JULIEN: Vous êtes rentré hier soir de Lisbonne, vous n'étiez pas obligé. ||| 어제 저녁에 리스본에서 돌아오셨죠. 그러실 필요는 없었는데.
+VALCOURT: Je n'ai pas dit que j'étais obligé. J'ai dit que j'avais faim d'une histoire. Raconte-moi la matinée. ||| 필요하다고 한 적은 없어. 이야기가 고팠다고 했지. 오전 이야기를 해 보게.
+JULIEN: Mercadier a raison sur le visa. Je lui ai dit. Il a eu l'air de recevoir un cadeau qu'il n'avait pas commandé. ||| 결재 문제는 메르카디에가 옳습니다. 그렇게 말했죠. 주문하지 않은 선물을 받은 얼굴이던데요.
+VALCOURT: Évidemment. Il était venu chercher une bataille. Tu as refusé de la lui livrer. Sais-tu quel jour on célèbre cela dans notre histoire ? ||| 당연하지. 전투를 하러 왔는데 자네가 전투를 안 내줬으니까. 우리 역사에서 이런 걸 기념하는 날이 있는 줄 아나?
+CAMILLE: La journée des dupes. Mais je croyais que c'était l'histoire d'un piège. ||| 속은 자들의 날이요. 그런데 함정 이야기인 줄 알았는데요.
+VALCOURT: C'est l'histoire d'un piège, oui, mais pas celui qu'on croit. Dimanche 10 novembre 1630, Paris. Louis XIII est au palais du Luxembourg, chez sa mère, Marie de Médicis. ||| 함정 이야기는 맞지. 하지만 사람들이 생각하는 함정은 아니야. 1630년 11월 10일 일요일, 파리. 루이 13세가 어머니 마리 드 메디시스의 뤽상부르 궁에 있네.
+VALCOURT: Marie veut la tête de Richelieu. Elle l'a fait nommer, elle l'a fait grandir, et maintenant elle ne supporte plus qu'il soit plus fort qu'elle. ||| 마리는 리슐리외의 목을 원해. 그를 키우고 세운 사람이 자신인데, 이제 그가 자기보다 강한 걸 견디지 못하지. 
+JULIEN: Et le roi ? ||| 왕은요?
+VALCOURT: Le roi hésite. Il aime son cardinal, mais il a peur de sa mère. Ce jour-là, Marie lui arrache, devant témoins, la promesse de le renvoyer. Le soir, tout Paris le sait : le cardinal est fini. ||| 왕은 망설였지. 추기경을 좋아하지만 어머니가 무섭거든. 그날 마리는 증인들 앞에서 그를 내보내겠다는 약속을 받아 냈네. 저녁엔 파리 전체가 알았어. 추기경은 끝났다고.
+CAMILLE: On raconte qu'il y avait une porte dérobée par laquelle Richelieu est entré. ||| 리슐리외가 몰래 난 문으로 들어왔다는 얘기가 있잖아요.
+VALCOURT: La tradition le raconte, elle a fait de belles gravures. Les historiens sont plus prudents sur les détails. Je m'en tiens à ce qui est sûr : Richelieu n'est pas parti. ||| 전승은 그렇게 말하고 근사한 판화도 많지. 역사가들은 세부엔 더 신중해. 나는 확실한 것만 말하겠네. 리슐리외는 떠나지 않았어.
+VALCOURT: Le lendemain, Louis XIII est à Versailles, qui n'est alors qu'un modeste pavillon de chasse. Richelieu s'y rend. Ils parlent. Le roi lui confirme sa confiance. ||| 이튿날 루이 13세는 베르사유에 있네. 당시엔 소박한 사냥용 별궁이었지. 리슐리외가 거기로 가. 둘이 말을 나누고 왕은 신임을 확인해 주네.
+VALCOURT: Ceux qui avaient fêté la victoire de la reine mère ont perdu la leur. Le garde des sceaux, Michel de Marillac, est arrêté. Son frère le maréchal le sera aussi, et finira à l'échafaud. Marie s'exile, puis s'enfuit à Bruxelles. ||| 왕모의 승리를 축하하던 이들이 자기들 승리를 잃었지. 대법관 미셸 드 마리야크가 체포돼. 형제인 원수도 체포되어 처형대에 서게 되고. 마리는 유배되었다가 브뤼셀로 달아나네.
+CAMILLE: Donc ce ne sont pas les perdants qui ont été dupes. C'étaient les gagnants. ||| 그러니까 속은 건 패자가 아니라 승자였군요.
+VALCOURT: Les gagnants du dimanche, oui. Ils avaient gagné la pièce où le roi s'était trouvé. Richelieu a gagné la pièce où le roi est revenu. ||| 일요일의 승자들이었지. 그들은 왕이 있던 방을 이긴 거야. 리슐리외는 왕이 돌아온 방을 이겼고.
+JULIEN: Une pièce où l'on revient. ||| 돌아오는 방이라. 
+VALCOURT: Marie voulait que la victoire se voie. Richelieu voulait être celui à qui l'on revient quand le bruit retombe. L'un a cherché à gagner d'abord, l'autre à rester. ||| 마리는 승리가 보이길 원했어. 리슐리외는 소란이 가라앉았을 때 사람들이 다시 찾아오는 쪽이 되길 원했지. 한쪽은 먼저 이기려 했고, 다른 쪽은 남으려 했네.
+JULIEN: Mercadier veut sa victoire du lundi. Si je la lui refuse, il m'écrasera. Si je la lui donne, je la lui donne sur ce qui n'est pas l'essentiel. ||| 메르카디에는 월요일의 승리를 원합니다. 거절하면 저를 짓누르겠죠. 주면 본질이 아닌 데서 주는 겁니다.
+VALCOURT: Et l'essentiel, selon toi ? ||| 그럼 본질이 뭔가?
+JULIEN: Que le démenti reste affiché, que la méthode des quatre vérifications devienne la règle de la maison, et que le texte de la question ne bouge plus avant l'impression de mercredi. ||| 반박문이 계속 붙어 있을 것, 네 가지 검증 방식이 이 부처의 규칙이 될 것, 수요일 인쇄 전에 질문 문안이 더는 안 움직일 것.
+VALCOURT: Prends garde, Julien. Il y a une façon de ne pas vouloir gagner qui est une manière de gagner plus. Les gens le sentent. ||| 조심하게, 쥘리앵. 이기고 싶지 않은 척하는 방식이 더 크게 이기는 방법일 수 있네. 사람들은 그걸 느껴. 
+JULIEN: Alors je dois être sincère. Je n'ai pas besoin de son bureau. J'ai besoin que sa signature soit au bas de ce que je dis. ||| 그럼 진심이어야겠군요. 저는 그의 방이 필요한 게 아닙니다. 제가 하는 말 아래에 그의 서명이 필요할 뿐이죠.
+CAMILLE: Et s'il pense que tu fais semblant ? ||| 그가 네가 연기한다고 생각하면?
+JULIEN: Alors je lui donnerai la preuve que non. Quelque chose qu'on ne donne pas quand on fait semblant. ||| 그럼 아니라는 증거를 줄 거야. 연기하는 사람은 주지 않는 걸.
+VALCOURT: Quoi donc ? ||| 그게 뭔가?
+JULIEN: Le premier mot. Dans la rédaction du démenti de 215 bis, c'est lui qui écrit la première ligne. ||| 첫 단어요. 215호의 2에 대한 반박문 첫 줄은 그가 쓰게 하겠습니다.
+VALCOURT: Bien. Prenez du saint-nectaire, vous deux, et goûtez la croûte avant de dire non. À votre âge, on dit trop vite non à la croûte. ||| 좋아. 자네들 둘은 생넥테르를 들게. 싫다고 하기 전에 껍질을 맛보고. 자네들 나이에는 껍질에 너무 빨리 싫다고 하거든.
+CAMILLE: Je n'ai jamais dit non à une croûte. ||| 껍질에 싫다고 한 적 없는데요.
+VALCOURT: Alors vous êtes à moitié sauvée. L'autre moitié, c'est de ne pas dire non trop vite à un directeur de cabinet. ||| 그럼 절반은 구원받았군. 나머지 절반은 비서실장에게 너무 빨리 싫다고 하지 않는 거고.
++ la journée des dupes = 속은 자들의 날. 1630년 11월 10~11일, 승리를 확신한 쪽이 오히려 무너진 날. 오늘날 «겉보기 승리가 뒤집히는 날»을 가리킨다
++ être dupe de = ~에게 속다. «Ce ne sont pas les perdants qui ont été dupes»
++ la reine mère = 왕모(왕의 어머니). 마리 드 메디시스를 가리키는 말
++ le garde des sceaux = 대법관(옥새 보관관). 사법 수장의 옛 직함이며 오늘날 법무장관의 공식 칭호로도 남아 있다
++ la tradition le raconte = 전승에 따르면. 세부가 불확실한 일화에 거리를 둘 때 쓰는 헤지 표현
++ gagner d'abord / rester = 먼저 이기려 하다 / 남다. 장 전체의 주제 대립
++ faire semblant = ~인 척하다. «Quelque chose qu'on ne donne pas quand on fait semblant»에서 진심의 증거를 가리킨다
++ le vacherin Mont-d'Or = 몽도르(바슈랭). 가을부터 겨울까지 나오는 부드러운 치즈. 발쿠르의 계절 의식
+## 세 시의 면담 — LE RENDEZ-VOUS DE QUINZE HEURES
+MERCADIER: Quinze heures. Vous êtes à l'heure, c'est déjà une information. Mon projet de démenti sur 215 bis. J'ai tenu à écrire la première ligne moi-même. ||| 15시입니다. 시간을 지키셨군요, 그것도 하나의 정보죠. 215호의 2에 대한 제 반박 초안입니다. 첫 줄은 제가 직접 쓰고 싶었습니다.
+JULIEN: Je vous la laissais, de toute façon. Lisez-la-moi. ||| 어차피 맡길 생각이었습니다. 읽어 주세요.
+MERCADIER: « Le document diffusé ce matin sous le numéro 215 bis ne peut être attribué à l'État en l'état. » C'est exact, et c'est prudent. ||| "오늘 아침 215호의 2라는 번호로 유포된 문서는 현재 상태로는 국가의 것으로 귀속될 수 없다." 정확하고 신중합니다.
+JULIEN: C'est exact. Je vous propose une seule modification : remplacer ce que l'on n'a pas vérifié par ce que l'on a vérifié. ||| 정확합니다. 수정은 하나만 제안합니다. 확인하지 않은 것을 확인한 것으로 바꾸는 거예요.
+MERCADIER: Expliquez. ||| 설명해 보세요.
+JULIEN: Vous m'avez parlé du tiroir du cinquième étage. Ouvrons-les. Onze bureaux, onze réponses écrites avant dix-sept heures. Le démenti dira : « Les onze services du cabinet ont été interrogés ; aucun n'a établi ce document. » ||| 5층 서랍 얘기를 하셨죠. 서랍을 엽시다. 열한 개 부서, 17시 전에 열한 개의 서면 답변을 받는 거예요. 반박문은 이렇게 말하게 됩니다. "비서실 11개 부서에 문의했으며, 어느 곳도 이 문서를 작성하지 않았다."
+MERCADIER: Et si l'un d'eux dit oui ? ||| 그런데 한 곳이 "예"라고 하면요?
+JULIEN: Alors vous l'apprenez aujourd'hui, de la bouche d'un de vos collaborateurs, et pas demain dans un journal. C'est le meilleur prix possible pour une mauvaise nouvelle. ||| 그럼 내일 신문이 아니라 오늘 부하 직원 입으로 알게 되겠죠. 나쁜 소식에 매길 수 있는 최고의 가격입니다.
+MERCADIER: Vous me demandez d'ouvrir ma propre maison. ||| 저보고 제 집을 열라는 겁니까?
+JULIEN: Je vous demande de l'ouvrir avant qu'un autre le fasse à votre place. ||| 다른 사람이 당신 대신 열기 전에 여시라는 겁니다.
+CAMILLE: Et pour la phrase du brouillon, monsieur ? Elle est dans le faux. Si vous ne la mentionnez pas, quelqu'un la mentionnera. ||| 초안의 그 문장은요, 비서실장님? 가짜 안에 있잖아요. 언급 안 하시면 누군가 언급할 겁니다.
+MERCADIER: Mentionner une phrase d'un brouillon abandonné dans un communiqué public ! Aucun directeur de cabinet ne fait ça. ||| 폐기한 초안의 문장을 공개 성명에서 언급하라고요! 그런 일을 하는 비서실장은 없습니다.
+JULIEN: C'est précisément pour cela que ce sera cru. Écrivez : « Une phrase de ce texte reprend celle d'un projet interne du 2 octobre, écarté le 7. Le document dans son ensemble n'en est pas issu. » ||| 그래서 믿을 수 있는 겁니다. 이렇게 쓰세요. "이 글의 한 문장은 10월 2일자 내부 초안을 옮긴 것이며, 그 초안은 7일에 폐기되었다. 문서 전체는 그 초안에서 나온 것이 아니다."
+MERCADIER: Vous voulez que j'avoue. ||| 제가 인정하길 원하시는군요.
+JULIEN: Je veux que vous soyez le premier à le dire. Dans mon métier, on ne perd pas ce qu'on a dit le premier. On perd ce qu'un autre dit à notre place. ||| 당신이 가장 먼저 말하길 원합니다. 제 일에서는 먼저 말한 것은 잃지 않습니다. 잃는 건 남이 대신 말해 버린 것이죠.
+MERCADIER: Silence. Je réfléchis. ||| (침묵) 생각 중입니다.
+CAMILLE: Quelqu'un est en train de nous appeler sur la ligne du cabinet. La ministre. ||| 비서실 회선으로 누가 전화하고 있어요. 장관님이에요.
+ARCHAMBAULT: Mercadier, Delorme, vous êtes ensemble ? Bien. J'ai lu le démenti de dimanche, je lis les vingt messages d'aujourd'hui. Qui m'explique en une phrase pourquoi on se bat ? ||| 메르카디에, 들로름, 같이 있어요? 좋아요. 일요일 반박문을 읽었고 오늘 메시지 스무 통을 읽고 있어요. 왜 싸우는 건지 한 문장으로 설명할 사람?
+MERCADIER: Madame la ministre, je soutiens que le démenti de dimanche n'avait pas de visa et qu'il engageait l'État sans contrôle. ||| 장관님, 일요일 반박문에는 결재가 없었고 통제 없이 국가에 책임을 지웠다고 주장합니다.
+JULIEN: Et il a raison. Je l'ai reconnu ce matin. ||| 그리고 그가 옳습니다. 오늘 아침에 인정했습니다.
+ARCHAMBAULT: Vous l'avez reconnu ? Alors, il n'y a pas de bataille. Mercadier, pourquoi n'avez-vous pas donné de visa dimanche ? ||| 인정했다고요? 그럼 싸울 일이 없네요. 메르카디에, 일요일엔 왜 결재를 안 줬나요?
+MERCADIER: Le cabinet n'avait personne d'astreinte à onze heures. Le standard m'a transmis l'appel à midi, après l'affichage. ||| 11시에는 비서실에 당직자가 없었습니다. 교환대가 정오에 전화를 제게 넘겼는데, 이미 게시된 뒤였습니다.
+ARCHAMBAULT: Donc la règle que vous réclamez n'avait pas de téléphone. C'est un défaut de la règle, pas de Delorme. ||| 그러니까 요구하는 규칙에 전화기가 없었던 거군요. 들로름이 아니라 규칙의 결함이에요.
+MERCADIER: C'est… exact, madame la ministre. ||| 그것은... 맞습니다, 장관님.
+ARCHAMBAULT: Alors ce que je veux, c'est ceci. Un visa en trente minutes, sept jours sur sept, jusqu'au scrutin. Un numéro. Vous deux, vous le rédigez ensemble avant ce soir. ||| 그럼 제가 원하는 건 이겁니다. 투표 때까지 하루도 빠짐없이 30분 안에 결재. 번호 하나. 두 사람이 오늘 저녁 전까지 함께 작성하세요.
+JULIEN: Madame la ministre, je prends l'engagement d'appeler ce numéro avant toute publication, même celles qui me paraîtront urgentes. ||| 장관님, 어떤 공표든 급해 보이더라도 그 번호에 먼저 전화하겠다고 약속드립니다.
+ARCHAMBAULT: Alors la dispute est close. Mais je vous préviens, Delorme : dans cette maison, quand quelqu'un cède, on cherche le piège. ||| 그럼 다툼은 끝났습니다. 하지만 경고합니다, 들로름. 이 부처에선 누가 양보하면 함정을 찾습니다.
+JULIEN: Il n'y en a pas, madame. Il y a un calendrier. Mercredi, dix-huit heures. ||| 함정은 없습니다, 장관님. 달력이 있을 뿐입니다. 수요일 18시.
+ARCHAMBAULT: Vous avez raison. Faites-le vite. Et Mercadier : merci de ne pas lui avoir fait payer le dimanche. ||| 맞아요. 빨리 하세요. 그리고 메르카디에, 일요일 일로 그에게 대가를 치르게 하지 않아 줘서 고마워요.
+MERCADIER: Je n'ai rien fait, madame la ministre. Il a commencé par me donner raison. ||| 제가 한 건 없습니다, 장관님. 그가 처음부터 제가 옳다고 해 줬습니다.
+ARCHAMBAULT: Voilà un moyen qui ne s'enseigne pas à l'École. Au revoir. ||| 학교에서 가르치지 않는 방법이군요. 그럼 이만.
+MERCADIER: Elle a raccroché. Je dois vous avouer, monsieur Delorme, que je m'étais préparé à une autre scène. ||| 끊으셨군요. 들로름 씨, 솔직히 다른 장면을 준비하고 있었습니다.
+JULIEN: Je sais. Vous aviez la ministre dans une main et un dossier dans l'autre. Moi, je n'avais que le dimanche. ||| 알아요. 한 손엔 장관님, 다른 손엔 서류를 쥐고 계셨죠. 저는 일요일밖에 없었고요.
+MERCADIER: Je ne suis pas votre ami, monsieur Delorme. Je suis votre signature. Et une signature, ça ne transige pas. ||| 저는 당신의 친구가 아닙니다, 들로름 씨. 저는 당신의 서명입니다. 그리고 서명은 타협하지 않습니다.
+JULIEN: C'est tout ce que j'avais demandé. ||| 제가 바란 건 그게 전부였습니다.
+MERCADIER: Une dernière chose. Tout contact avec un service de renseignement relatif à Saint-Aubin passera aussi par ce visa. Vous comprenez à qui je pense. ||| 마지막 하나. 생토뱅과 관련된 정보기관과의 모든 접촉도 이 결재를 거칩니다. 누구를 말하는지 아시겠죠.
+JULIEN: Je comprends. Ce sera dit à Madame Dufresne avant qu'elle ne me dise quoi que ce soit. ||| 알겠습니다. 뒤프렌 씨가 제게 무엇을 말하기 전에 그 점을 전하겠습니다.
++ ne pas transiger = 타협하지 않다. 원칙을 흥정하지 않는 사람의 표현
++ d'astreinte = 대기 근무 중인. 당직 체계를 가리킨다
++ défaut de la règle, pas de la personne = 사람이 아니라 규칙의 결함. 책임을 제도로 돌려 싸움을 닫는 논리
++ le premier à le dire = 가장 먼저 말하는 사람. 정보 위기에서 «먼저 말한 것은 잃지 않는다»
++ avouer = 인정하다, 고백하다. «Vous voulez que j'avoue» 는 단어 자체가 약점을 암시한다
++ prendre l'engagement de + 부정사 = ~하겠다고 약속하다. «Je prends l'engagement d'appeler ce numéro»
++ c'est un moyen qui ne s'enseigne pas à l'École = 학교에서 가르치지 않는 방법. 장관이 쥘리앵의 방식에 보내는 짧은 칭찬
+
+## 케도르세의 저녁 — LE SOIR AU QUAI
+CAMILLE: Seize heures quarante : le démenti de 215 bis est parti avec deux signatures, la tienne et celle de Mercadier. Onze réponses reçues, onze fois non. ||| 16시 40분에 215호의 2 반박문이 두 서명으로 나갔어. 네 것과 메르카디에 것. 답변 11건, 11건 다 "아니오"야.
+JULIEN: Onze fois non. C'est un bon score pour un lundi, mais il faut se méfier des scores trop propres. ||| 열한 번 "아니오". 월요일치고 좋은 점수지만 너무 깨끗한 점수는 경계해야 해.
+CAMILLE: Tu penses qu'un des onze nous ment ? ||| 열한 곳 중 하나가 거짓말한다고 생각해?
+JULIEN: Non. Je pense qu'un des onze ne sait pas. C'est différent, et c'est pire : celui-là, on ne peut pas le punir. ||| 아니. 열한 곳 중 하나가 모르는 거라고 생각해. 다르고, 더 나쁘지. 그런 사람은 벌줄 수도 없어.
+CAMILLE: Et à Port-Aubin ? ||| 포르오뱅은?
+JULIEN: Lamy a fait afficher le démenti à côté de la photo du faux. Il a écrit au feutre rouge : « Lire les deux. » Je ne suis pas sûr de bien dormir. ||| 라미가 반박문을 위조 문서 사진 옆에 붙였어. 빨간 펠트펜으로 "둘 다 읽을 것"이라고 썼고. 잘 잘 수 있을지 모르겠다.
+CAMILLE: C'est bon signe, non ? ||| 좋은 신호 아냐?
+JULIEN: C'est un très bon signe. D'accord, mais c'est aussi un homme qui découvre que le papier compte. Il va maintenant vouloir en écrire. ||| 아주 좋은 신호야. 다코르, 메 종이가 중요하다는 걸 알게 된 사람이기도 해. 이제 자기가 쓰고 싶어 할 거야.
+HÉLÈNE: (Message, 18 h 12.) « Jour 25. Je t'ai promis de ne rien te vendre aujourd'hui, c'est tenu. Demain, c'est gris. Dix heures, jardin du Luxembourg, près de la fontaine Médicis. Apporte tes scrupules. » ||| (문자, 18시 12분.) "25일째. 오늘은 아무것도 안 팔겠다고 약속했고 지켰어. 내일은 회색이야. 10시, 뤽상부르 정원, 메디시스 분수 근처. 네 양심을 가져와."
+CAMILLE: Le Luxembourg. Où Marie de Médicis voulait déposer Richelieu. Tu crois que c'est un hasard ? ||| 뤽상부르요. 마리 드 메디시스가 리슐리외를 쫓아내려 했던 곳이에요. 우연일까요?
+JULIEN: Chez Hélène, rien n'est un hasard et tout est une plaisanterie. Je vais d'abord faire ce que je viens de promettre : j'appelle le numéro du visa avant de lui répondre. ||| 엘렌에게는 우연이 하나도 없고 전부가 농담이야. 방금 약속한 걸 먼저 할게. 대답하기 전에 결재 번호로 전화하는 거야.
+CAMILLE: Tu appelles Mercadier pour dire que tu vas voir Hélène ? ||| 엘렌을 만난다고 메르카디에에게 전화로 알려?
+JULIEN: Je lui dis que je vais écouter quelqu'un, que je ne sais pas encore ce qu'elle apportera, et que je lui rendrai compte de ce que j'en fais. Rien de plus. ||| 누군가의 말을 들으러 간다고, 가져올 게 뭔지는 아직 모른다고, 그걸로 뭘 하는지 보고하겠다고 말해. 그 이상은 아니고.
+CAMILLE: Il va t'accorder le visa, cette fois ? ||| 이번엔 결재해 줄까?
+JULIEN: Il me l'accordera. Il aime les choses dites avant. ||| 줄 거야. 그는 미리 말해진 걸 좋아하니까.
+LÉA: Papa ! Je t'appelle depuis le couloir, j'ai dix minutes avant la dissert de philo blanche. Alors, la journée des dupes ? ||| 아빠! 복도에서 전화해요. 모의 철학 논술 전에 10분 있어요. 그래서 속은 자들의 날은 어땠어요?
+JULIEN: Tu savais ? Camille t'a prévenue ? ||| 알고 있었어? 카미유가 말해 줬니?
+LÉA: Non, c'est monsieur de Valcourt. Il m'a envoyé une photo du mont-d'or avec « Votre père a refusé de gagner, ce qui est son habitude ». ||| 아뇨, 발쿠르 선생님이요. 몽도르 사진을 보내시면서 "자네 아버지는 이기기를 거부했다, 늘 하는 습관이지"라고 하셨어요.
+JULIEN: Il exagère. Je n'ai pas refusé de gagner. J'ai refusé de gagner le premier. ||| 과장이야. 이기는 걸 거부한 게 아니야. 첫 번째로 이기는 걸 거부한 거지.
+LÉA: Alors voici ma définition. « Gagner, c'est être celui à qui l'on revient. » Qu'est-ce que tu en dis ? ||| 그럼 제 정의예요. "이긴다는 것은 사람들이 다시 찾아오는 사람이 되는 것이다." 어때요?
+JULIEN: C'est joli. Mais méfie-toi : on revient aussi vers un tyran, parce qu'il n'y a pas d'autre porte. ||| 멋지구나. 하지만 조심해. 다른 문이 없어서 폭군에게도 사람들은 돌아가니까.
+LÉA: Alors : « celui à qui l'on revient quand on est libre de ne pas revenir ». Ça marche ? ||| 그럼 "돌아오지 않을 자유가 있는데도 다시 찾아가는 사람". 이건 돼요?
+JULIEN: Ça, ça marche. Mets-le dans ta copie. ||| 그건 돼. 답안에 넣어. 
+LÉA: Tu veux que je cite Richelieu ? ||| 리슐리외를 인용할까요?
+JULIEN: Cite plutôt Marie de Médicis. Une copie qui commence par une perdante est plus intéressante. ||| 차라리 마리 드 메디시스를 인용해. 패자로 시작하는 답안이 더 재미있어.
+LÉA: Papa, tu ne dors pas ce soir, n'est-ce pas ? ||| 아빠, 오늘 밤 안 자죠?
+JULIEN: Si. Quatre heures. Demain matin, je vais voir Hélène au Luxembourg. Je te raconterai si c'est autorisé. ||| 잘 거야. 네 시간. 내일 아침 뤽상부르에서 엘렌을 만나. 허락되면 얘기해 줄게.
+LÉA: Et si ce n'est pas autorisé ? ||| 허락 안 되면요?
+JULIEN: Alors je te dirai seulement si c'était un bon matin. ||| 그럼 좋은 아침이었는지만 말해 줄게.
+CAMILLE: Pendant que tu parlais, Mercadier a envoyé la liste des onze services avec le mot « conforme » en bas. Il a signé deux fois, là où une suffisait. ||| 통화하는 동안 메르카디에가 열한 개 부서 목록을 보냈어. 맨 아래 "적합"이라고 쓰고 서명을 두 번 했어. 한 번이면 되는데.
+JULIEN: Deux signatures. Un homme qui signe deux fois est un homme qui a peur de se tromper une troisième. Je préfère ça à l'inverse. ||| 서명 두 번. 두 번 서명하는 사람은 세 번째 실수를 두려워하는 사람이야. 반대보다 낫지.
+CAMILLE: Tu sais quelle date je regarde encore ? Le 6 octobre. Entre le 2 et le 6, quelqu'un a ouvert une porte. ||| 나는 아직도 어떤 날짜를 보고 있는지 알아? 10월 6일. 2일과 6일 사이에 누군가 문을 열었어.
+JULIEN: Une trentaine de personnes ont eu la clé, et la clé est bête : elle ouvre toujours. Pas de nom, Camille. Pas ce soir. ||| 30명쯤이 열쇠를 가졌고, 열쇠는 멍청해서 늘 열려. 이름은 안 돼, 카미유. 오늘 밤은 안 돼.
+CAMILLE: Je ne cherche pas de nom. Je cherche un jour. ||| 이름을 찾는 게 아니야. 날을 찾는 거야.
+JULIEN: C'est la seule façon de ne pas se tromper de personne. Bonne nuit. Demain, scrupules à neuf heures. ||| 사람을 잘못 찍지 않는 유일한 방법이지. 잘 자. 내일 9시에 양심 챙기고.
++ le numéro du visa = 결재 직통 번호. 투표 기간 동안 30분 안에 답하는 비서실 절차
++ ça marche = 통한다, 된다. 레아가 정의를 시험할 때 쓰는 구어체
++ celui à qui l'on revient = 사람들이 다시 찾아가는 사람. 레아의 «이김» 정의
++ être libre de ne pas revenir = 돌아오지 않을 자유가 있다. 정의를 폭군과 구별하는 단서
++ dissert = 철학 논술(dissertation)의 구어 줄임말
++ c'est joli, mais méfie-toi = 멋지다, 하지만 조심해. 쥘리앵의 『d'accord, mais』 변주
++ apporte tes scrupules = 네 양심(망설임)을 가져와라. 엘렌이 «회색» 거래를 예고하는 반어
++ chercher un jour, pas un nom = 이름이 아니라 날을 찾다. 날짜로 사람을 가리는 방법의 예고

@@ -1,0 +1,140 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 8
+@title La Gazette
+@ko 가제트
+@setting 포르오뱅, 수요일(J-5). 새벽 항구와 부두의 가판 → 일간지 «Le Courrier de l'Archipel» 편집실 → 발쿠르와 전화 → 시청 회의실의 낭독 연습 → 오후 5시 40분 은행(카이스) 앞 광장의 공개 낭독, 오후 6시 인쇄 마감
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast SYLVAINE | 실벤 도를리스, 통역·번역가, 38세. 생토뱅 크레올어 사용자
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세
+@cast BAVOUX | 에스텔 바부, «르 쿠리에 드 라르시펠» 편집장, 54세(허구)
+@cast RIVIÈRE | 아르망 리비에르, 어업위원회 위원장, 65세
+@cast OCTAVE | 옥타브 노, 생트마르트의 노(老) 어부, 67세(허구)
+@cast MATHIS | 마티스 리비에르, 어선 선장, 35세
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세
+@cast PINEL | 도로테 피넬, 포르오뱅 중학교 영어 교사, 40대(허구)
+@cast IMPRIMEUR | 범선 거리 인쇄소 인쇄공
+@cast FOULE | 광장의 주민들(남성·여성 역할 포함)
+@cast MERCADIER | 가스파르 메르카디에, 해외영토부 비서실장, 46세
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 파리에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@note 수요일 새벽, 지역 일간지 1면이 «본국이 속인다»라는 제목으로 나옵니다. 기사의 사실은 거의 맞습니다. 해외영토부의 최초 12단어 질문 V0에는 «자유로운 협력(libre coopération)»이 있었고, 4-1의 밤에 «évolution»이 삭제되어 V2가 되었으며, 이 과정은 오늘 아침까지 공개된 적이 없습니다. 틀린 것은 사실이 아니라 틀(프레임)입니다. «삭제 = 조작»이라는 틀이죠. 쥘리앵은 정정이나 소송을 먼저 꺼내지 않고(먼저 이기려 하지 않기), 같은 질문의 세 판본(V0, V1, V2)과 날짜·시각·이유를 모두 공개하자고 제안합니다. 해법의 순간은 인쇄 마감 시각인 오후 6시 직전, 은행 앞 광장에서 질문을 프랑스어, 크레올어, 영어로 차례로 낭독하는 일입니다. 세 번 읽으면 V0의 «libre»가 크레올어로는 «lib(자유롭다, 풀려났다)», 영어로는 «free(공짜?)»로 갈라지는 것이 청중의 귀에 직접 들리고, 삭제가 조작이 아니라 보호였음이 설명 없이 드러납니다. 역사 배경은 테오프라스트 르노도(1586~1653)의 《가제트》입니다. 의사 르노도는 1630년 파리에 구인·구직과 정보를 교환하는 «주소 사무소(bureau d'adresse)»를 열었고, 1631년 5월 30일 리슐리외의 후원과 왕의 특허를 받아 주간지 《가제트》를 창간했습니다(왕이 직접 기사를 쓰기도 했다고 전해지나 세부는 헤지). 이름은 베네치아의 작은 동전 gazzetta에서 왔다고 합니다. 그 전에도 필사된 «손으로 쓴 소식(nouvelles à la main)»이 돌았지만, 르노도는 그것을 인쇄하고 날짜를 붙여 공개했습니다. 교훈은 권력이 소문을 부정하기보다 먼저 날짜 붙은 기록을 공개하는 쪽이 더 강하다는 것, 단 공식 신문이 선전으로 변할 위험도 함께 생각해야 한다는 것입니다.
+@next 4-9: 목요일 J-4. 말라비 쪽에서 편지 한 통의 사본이 건너옵니다. 봉투의 소인 날짜가 단서가 됩니다. 현지 정당 지도자 중 한 명이 정보를 흘렸을까요.
+
+## 새벽의 신문 — LE CHIFFRE DU MATIN
+CAMILLE: Cinq heures dix, le quai est déjà plein. Regarde les poubelles : toutes ont le même journal par-dessus. ||| 5시 10분인데 부두는 벌써 가득해. 쓰레기통 위에 다 같은 신문이 얹혀 있어.
+MATHIS: Monsieur Delorme ! Je savais que vous reviendriez par le premier avion. Tenez. Ça, c'est le Courrier de l'Archipel. Il est sorti avant le pain. ||| 들로름 씨! 첫 비행기로 돌아오실 줄 알았어요. 받으세요. 이게 "쿠리에 드 라르시펠"이에요. 빵보다 먼저 나왔어요.
+JULIEN: « LA MÉTROPOLE TRICHE. On a changé la question dans la nuit. » Ce n'est pas un point d'interrogation. C'est un point final. ||| "본국이 속인다. 밤사이 질문이 바뀌었다." 물음표가 아니라 마침표네요.
+CAMILLE: Je lis l'article. Premier paragraphe : « Selon un document de travail que le Courrier s'est procuré, la question posée aux habitants a été réécrite à vingt-trois heures trente le mercredi dernier. Le mot “évolution” a disparu. » ||| 기사를 읽을게. 첫 문단. "본지가 입수한 업무 문서에 따르면 주민에게 던져질 질문은 지난 수요일 23시 30분에 다시 쓰였다. '변화(évolution)'라는 말이 사라졌다."
+JULIEN: C'est vrai. ||| 사실이야.
+CAMILLE: Deuxième paragraphe : « Une première version, rédigée par le ministère, parlait d'une “libre coopération”. Elle a été supprimée par des fonctionnaires venus de Paris. » ||| 둘째 문단. "해외영토부가 쓴 첫 문안은 '자유로운 협력'을 말했다. 파리에서 온 공무원들이 이를 삭제했다."
+JULIEN: C'est vrai aussi. Les fonctionnaires, c'est moi et toi. ||| 이것도 사실이야. 그 공무원이 나와 너고.
+CAMILLE: Troisième paragraphe : « Pourquoi ? À qui profite l'effacement ? » Tu vois, il n'y a pas une phrase fausse. Elle ne dit rien de faux. ||| 셋째 문단. "왜? 지우는 것은 누구에게 이익인가?" 봐, 틀린 문장이 하나도 없어. 거짓은 하나도 없어.
+JULIEN: C'est l'art du bon faux : on y met seulement des phrases vraies, et on les range dans l'ordre qui fait mentir l'ensemble. ||| 좋은 가짜의 기술이지. 참인 문장만 넣고, 전체가 거짓이 되는 순서로 늘어놓는 거야.
+RIVIÈRE: Delorme. Je ne vous salue pas, ce matin. Mon fils m'a lu l'article à voix haute, à quatre heures, et il y a des phrases que je n'ai pas aimées. ||| 들로름. 오늘 아침엔 인사 안 하겠소. 아들이 새벽 4시에 기사를 소리 내어 읽어 줬는데 마음에 안 드는 문장이 있었소.
+JULIEN: Laquelle, monsieur Rivière ? ||| 어느 문장이요, 리비에르 씨?
+RIVIÈRE: « À qui profite l'effacement ? » Parce que l'effacement, c'est celui que vous avez fait avec nous dans la salle. Et que vous l'avez fait en nous écoutant. ||| "지우는 것은 누구에게 이익인가?" 지운 건 당신이 우리와 함께 그 방에서 한 거요. 그것도 우리 말을 들으면서 지웠고.
+JULIEN: Vous avez raison, c'est pour cela que ce journal me gêne. Il dit le vrai, et il le dit contre ce que vous avez fait de vos mains. ||| 맞습니다. 그래서 이 신문이 불편합니다. 사실을 말하는데, 여러분이 손수 한 일에 맞서 말하고 있으니까요.
+RIVIÈRE: Alors qu'est-ce que vous allez faire ? Un démenti ? ||| 그럼 어쩔 거요? 반박문이오?
+JULIEN: Non. Un démenti dirait « ce n'est pas vrai ». Or c'est vrai. D'accord, mais je ne vais pas le laisser raconter seul. ||| 아니요. 반박문은 "사실이 아니다"라고 말할 텐데, 사실이잖습니까. 다코르, 메 이 이야기를 혼자 하게 두진 않겠습니다.
+MATHIS: Ils ont mis ça sur les grilles du lycée, sur le mur de la Caisse. Quatorze tracts. Le même titre sur tous. ||| 고등학교 철책, 은행 벽에도 붙였어요. 전단이 열네 장이에요. 전부 같은 제목이고요.
+CAMILLE: Quatorze tracts avec le même titre, imprimés à la même heure ? Ça ne ressemble pas à un journal. Ça ressemble à une campagne. ||| 같은 제목의 전단 열네 장을 같은 시각에 찍었다고요? 신문 같지 않고 캠페인 같은데요.
+JULIEN: Je ne dis pas « campagne ». Je dis « coïncidence qui mérite un fil ». Mathis, qui a imprimé les tracts ? ||| "캠페인"이라고 하진 않겠어. "실을 끌어올 만한 우연"이라고 하지. 마티스, 전단은 누가 인쇄했지?
+MATHIS: Ils sont tous sortis de l'imprimerie de la rue des Voiliers. La même que les deux comités, « Oui à la Liberté » et « Non à l'Aventure ». Elle imprime pour tout le monde. ||| 전부 범선 거리 인쇄소에서 나왔어요. 두 위원회 "자유에 찬성"과 "모험에 반대" 것도 찍는 곳이고요. 모두를 위해 찍죠.
+JULIEN: Elle imprime pour tout le monde. Notez-le, Camille. Et je vous demande de ne pas en tirer un mot. Une imprimerie ne choisit pas ses clients, elle les accepte. ||| 모두를 위해 찍는다. 적어 둬요, 카미유. 거기서 한 마디도 끌어내지 말고요. 인쇄소는 고객을 고르는 게 아니라 받는 곳이니까.
+HÉLÈNE: (Message, 5 h 22.) « Jour 27. Le titre n'est pas du journal. La phrase “la métropole triche” apparaît hier soir sur quatorze supports. Je ne te dis pas qui. Je te dis : lis le premier paragraphe à voix haute, tu verras où il cherche à t'arrêter. » ||| (문자, 5시 22분.) "27일째. 제목은 신문 것이 아냐. '본국이 속인다'라는 문장이 어젯밤 열네 군데에서 나왔어. 누가 그랬는지는 말 안 해. 첫 문단을 소리 내어 읽어 봐. 어디서 널 멈추게 하려는지 알게 될 거야."
+CAMILLE: Lire à voix haute. Tu l'as déjà fait cette nuit, avec la question. Ça a marché. ||| 소리 내어 읽기. 어젯밤 질문으로 이미 해 봤잖아. 통했어. 
+JULIEN: Alors on recommence, mais cette fois en public. Camille, il est neuf heures à Paris ? ||| 그럼 다시 하자, 이번엔 공개적으로. 카미유, 파리는 지금 9시 맞지? 
+CAMILLE: Neuf heures dix. La ligne du visa est ouverte depuis sept heures. ||| 9시 10분이에요. 결재 회선은 7시부터 열려 있어요.
+JULIEN: J'ai promis à la ministre de ne rien publier sans appeler. Je ne publie rien, je téléphone. Je voudrais savoir ce que le cabinet ne peut pas supporter que je dise. ||| 장관께 전화 없이는 아무것도 공표하지 않겠다고 약속했어. 아직 공표 안 하고 전화하는 거야. 비서실이 내가 하는 말 중에 견딜 수 없는 게 뭔지 알고 싶어.
+MERCADIER: Mercadier. Vous avez appelé en cinquante secondes, ce qui est un record. Je suppose que vous avez lu le Courrier. ||| 메르카디에입니다. 50초 만에 거셨군요, 신기록입니다. 쿠리에를 읽으셨겠죠.
+JULIEN: Je l'ai lu. Il est exact dans ses phrases et faux dans son titre. Je ne veux pas démentir. Je veux ajouter. ||| 읽었습니다. 문장은 정확하고 제목은 틀렸습니다. 반박하고 싶지 않습니다. 더하고 싶습니다.
+MERCADIER: Ajouter quoi ? ||| 무엇을 더합니까?
+JULIEN: Les trois versions de la question, avec leur date, leur heure, et leur raison. Toutes. Y compris la première, celle de la rue Oudinot. ||| 질문의 세 판본을 날짜, 시각, 이유와 함께 전부요. 우디노 거리의 첫 판본 포함해서요.
+MERCADIER: La première n'a jamais été publiée. Elle était interne. ||| 첫 판본은 공표된 적이 없습니다. 내부용이었어요.
+JULIEN: Alors ce sera la première fois. Je préfère que les gens la lisent dans nos mots qu'ils ne l'aient lue dans ceux d'un journal. ||| 그럼 처음 공개하는 거죠. 사람들이 신문의 말로 읽는 것보다 우리의 말로 읽는 편이 낫습니다.
+MERCADIER: Je vous rappelle dans dix minutes. Ne publiez rien. ||| 10분 뒤에 다시 전화하겠습니다. 아무것도 공표하지 마세요.
+JULIEN: J'attends. Je prends un café avec monsieur Rivière. ||| 기다리겠습니다. 리비에르 씨와 커피 한 잔 하고 있겠습니다.
++ le chiffre du matin / le titre = 아침의 숫자·제목. 기사 제목이 하나의 판결처럼 작동한다는 점을 보여 주는 장면
++ ne pas dire un mot faux = 틀린 말은 하나도 안 한다. «Il dit le vrai, mais range les phrases de façon à faire mentir l'ensemble»
++ à qui profite le crime / l'effacement ? = 누구에게 이익인가? 라틴어 cui prodest에서 온 수사. 질문의 틀을 고정하는 장치
++ un fil à tirer = 끌어올릴 실마리. «coïncidence qui mérite un fil»
++ démentir / ajouter = 반박하다 / 덧붙이다. 이 장의 핵심 선택. 사실을 부정하지 않고 더한다
++ imprimer pour tout le monde = 모두를 위해 인쇄하다. 인쇄소는 고객을 고르지 않는다는 쥘리앵의 신중함
++ lire à voix haute = 소리 내어 읽다. 엘렌의 조언이자 장 전체의 해법으로 이어진다
++ visa = 결재. 4-6에서 정한 30분 안의 비서실 승인
+
+## 편집실 — LA RÉDACTION
+BAVOUX: Monsieur Delorme. Je vous ai attendu hier soir. Vous n'êtes pas venu. J'ai donc imprimé sans vous. ||| 들로름 씨. 어제저녁에 기다렸습니다. 안 오셨고요. 그래서 당신 없이 인쇄했습니다.
+JULIEN: J'étais à Paris, madame Bavoux. À neuf mille kilomètres, le courrier ne passe pas. Je viens poser une question, pas déposer une plainte. ||| 파리에 있었습니다, 바부 씨. 9천 킬로미터 밖에서는 우편이 안 오더군요. 항의하러 온 게 아니라 질문하러 왔습니다.
+BAVOUX: Je vous connais de réputation. Vous êtes celui qui ne dit jamais non, mais qui obtient quand même ce qu'il veut. Je n'aime pas ça. ||| 소문은 압니다. 절대 안 된다고 말하지 않는데도 원하는 걸 얻는 분이라고요. 마음에 안 듭니다.
+JULIEN: Je suis aussi celui qui répond quand on lui pose une question. Posez-la-moi. ||| 질문을 받으면 대답하는 사람이기도 합니다. 해 보세요.
+BAVOUX: Pourquoi avez-vous supprimé « évolution » à vingt-trois heures trente ? ||| 왜 23시 30분에 "변화"를 삭제했습니까?
+JULIEN: Parce qu'un pêcheur de Sainte-Marthe nous a demandé : « Si ça n'avance pas ? » Il avait compris avant nous que le mot promettait un sens. ||| 생트마르트의 어부 한 분이 "안 나아가면요?"라고 물었기 때문입니다. 그분은 그 단어가 방향을 약속한다는 걸 우리보다 먼저 알았습니다.
+BAVOUX: Un pêcheur. Vous avez un nom ? ||| 어부라. 이름은요?
+JULIEN: Je ne l'ai pas. Mais il l'a dit à Sylvaine Dorlis au téléphone, et il l'a dit devant la radio. S'il se reconnaît, je lui laisse le micro. ||| 모릅니다. 하지만 실벤 도를리스 씨에게 전화로 말했고 라디오 앞에서도 말했습니다. 본인이 알아보면 마이크를 드리겠습니다.
+BAVOUX: C'est pratique. Un pêcheur sans nom. ||| 편리하군요. 이름 없는 어부라.
+JULIEN: Il n'est pas sans nom : il est sans étiquette. Madame Bavoux, ai-je dit une phrase fausse ? ||| 이름이 없는 게 아니라 딱지가 없는 겁니다. 바부 씨, 제가 틀린 문장을 말했습니까?
+BAVOUX: Pas encore. ||| 아직은요.
+JULIEN: Vous ne le croyez pas. Je ne vous demande pas de le croire. Je vous demande d'imprimer, demain, à côté de votre article, les trois versions. Avec leur date. ||| 믿지 않으시는군요. 믿어 달라는 게 아닙니다. 내일 기사 옆에 세 판본을 날짜와 함께 인쇄해 달라는 겁니다.
+BAVOUX: Vous me demandez de faire de la publicité pour le ministère. ||| 부처 홍보를 하라는 거군요.
+JULIEN: Je vous demande de faire de la publicité pour vos lecteurs. Ils lisent aujourd'hui la moitié de l'histoire. L'autre moitié est dans le même document que vous avez eu, madame. Vous l'avez, vous aussi. ||| 독자를 위한 홍보를 하시라는 겁니다. 오늘 독자들은 이야기의 절반을 읽고 있어요. 나머지 절반은 바부 씨가 입수한 그 문서에 같이 있습니다. 갖고 계시잖아요.
+BAVOUX: Comment savez-vous que mon document contient autre chose ? ||| 제 문서에 다른 내용도 있다는 걸 어떻게 아세요?
+JULIEN: Parce que tout document de travail a trois colonnes : ce qu'on propose, ce qu'on retire, pourquoi. Le vôtre a deux colonnes. Je le sens à la mise en page de votre premier paragraphe. ||| 업무 문서에는 세 칸이 있습니다. 제안하는 것, 지우는 것, 이유. 당신 것은 두 칸입니다. 첫 문단의 편집을 보면 느껴집니다.
+BAVOUX: Vous… (Elle tourne l'écran.) Il y a trois colonnes. La troisième s'intitule « raison ». Je ne l'ai pas citée. ||| 당신... (화면을 돌린다.) 세 칸이에요. 세 번째 칸 제목이 "이유"입니다. 인용하지 않았어요.
+CAMILLE: Pourquoi ? ||| 왜요?
+BAVOUX: Parce que mon rédacteur en chef adjoint m'a dit que la troisième colonne était la défense. Je lui ai répondu que ça n'était pas à nous de défendre. ||| 부편집장이 세 번째 칸이 변호라고 했거든요. 변호는 우리 몫이 아니라고 했죠. 
+JULIEN: La raison n'est pas une défense. C'est une partie des faits. Mais je ne vais pas vous obliger à le penser. Je vais seulement vous inviter. À dix-sept heures quarante, place de la Caisse. ||| 이유는 변호가 아니라 사실의 일부입니다. 하지만 그렇게 생각하라고 강요하진 않겠습니다. 초대만 하겠습니다. 17시 40분, 은행 앞 광장으로요.
+BAVOUX: Pour quoi faire ? ||| 무엇을 하려고요?
+JULIEN: Pour entendre la question en trois langues. Le français, le créole, l'anglais. À voix haute. Une fois chacun. Ensuite, imprimez ce que vous voulez. ||| 질문을 세 언어로 듣기 위해서요. 프랑스어, 크레올어, 영어. 소리 내어 한 번씩. 그 뒤에는 원하는 대로 인쇄하세요.
+BAVOUX: Trois langues. Pourquoi pas le portugais, pendant que vous y êtes ? ||| 세 언어라. 이왕이면 포르투갈어도 하시죠?
+JULIEN: Parce que trois est le nombre minimum pour qu'une traduction se vérifie : l'original, son reflet, et le reflet du reflet. Si deux textes s'accordent, ça peut être la complaisance. Si trois s'accordent, c'est un fait. ||| 번역이 검증되려면 최소 셋이 필요하니까요. 원문, 그 반영, 반영의 반영. 둘이 일치하면 눈치 보기일 수 있지만 셋이 일치하면 사실입니다.
+BAVOUX: C'est élégant. Je n'ai pas encore décidé si c'est vrai. ||| 우아하네요. 사실인지는 아직 결정 못 했습니다.
+JULIEN: Vous le déciderez à dix-sept heures quarante-cinq. ||| 17시 45분에 결정하실 겁니다.
+BAVOUX: Et si je vous disais que j'irai, et que je mettrai en première page : « Delorme lit tout haut » ? ||| 제가 가서 1면에 "들로름이 소리 내어 읽다"라고 쓴다면요?
+JULIEN: Ce serait vrai, donc excellent. Je ne lirai pas, d'ailleurs. Ce sera Sylvaine. Elle lira mieux que moi. ||| 사실이니 훌륭하죠. 게다가 제가 읽는 게 아니라 실벤이 읽을 겁니다. 저보다 잘 읽어요.
++ en deux colonnes / en trois colonnes = 두 칸 / 세 칸. 업무 문서의 «제안, 삭제, 이유»를 구분하는 구조
++ une partie des faits = 사실의 일부. 쥘리앵이 «이유»를 변호가 아니라 사실로 보는 논리
++ faire de la publicité pour = ~를 홍보하다. 바부가 쥘리앵의 제안을 의심하는 말
++ sans nom / sans étiquette = 이름이 없는 / 딱지가 없는. 신원을 밝히지 않은 어부를 두둔하는 말장난
++ je vous invite à + 부정사 = ~하시도록 초대합니다. 요구 대신 초대로 설득하는 문형
++ la complaisance = 비위 맞추기, 눈치. 두 번역이 일치하는 것과 세 번역이 일치하는 것의 차이
++ le reflet du reflet = 반영의 반영. 역번역(세 번째 판본)을 가리키는 비유
++ pas encore décidé = 아직 결정 못 했다. 기자가 판단을 유보하는 직업적 신중함
+
+## 르노도의 선술집 — LE BUREAU D'ADRESSE
+VALCOURT: Julien ? Il est midi chez moi. Je suis au Cantal Perdu, mon plateau est devant moi, et on vient de m'apporter un journal qui est arrivé avant le fromage. Je l'ai lu. ||| 쥘리앵? 여긴 정오야. 칸탈 페르뒤에서 접시를 앞에 두고 있는데, 치즈보다 먼저 신문이 도착했네. 읽었어.
+JULIEN: Vous avez déjà le Courrier à Paris ? ||| 파리에서 쿠리에를 받으셨어요?
+VALCOURT: Sylvaine me l'a envoyé en photo ce matin. Quand une ville est mal informée, elle devient très informée de ce qu'on dit d'elle. Bref. Tu as la tête de quelqu'un qui doit penser à Renaudot. ||| 실벤이 오늘 아침 사진으로 보내 줬네. 도시가 소식을 모를 때는 자기에 대한 이야기만 매우 잘 알게 되지. 그건 그렇고 르노도를 생각해야 하는 사람 얼굴이야. 
+CAMILLE: Le médecin de la Gazette ? ||| 가제트의 의사 말이에요? 
+VALCOURT: Théophraste Renaudot, né à Loudun en 1586. Médecin, protestant converti, esprit pratique. Il s'occupe des pauvres, il invente un lieu extraordinaire en 1630, le « bureau d'adresse ». ||| 테오프라스트 르노도, 1586년 루됭 출생. 의사, 개종한 신교도, 실용적인 정신의 소유자. 가난한 이들을 돌보다가 1630년에 엄청난 장소를 만들어. "주소 사무소"야.
+JULIEN: Qu'est-ce que c'est ? ||| 그게 뭡니까?
+VALCOURT: Un guichet où l'on dépose des annonces. Qui cherche un valet, qui a une chambre à louer, qui vend un cheval. Il ouvre un registre, il l'imprime, il l'affiche. L'information cesse d'être un secret de commère. ||| 광고를 맡기는 창구야. 하인을 구하는 사람, 방을 세놓는 사람, 말을 파는 사람. 장부를 열고, 인쇄하고, 붙이지. 소식이 수다쟁이의 비밀이길 멈추는 거야. 
+CAMILLE: Et la Gazette ? ||| 그럼 가제트는요? 
+VALCOURT: Le 30 mai 1631, avec le soutien de Richelieu et un privilège royal, il publie le premier numéro d'un hebdomadaire. Le nom viendrait d'une petite monnaie vénitienne, la gazzetta, le prix d'une feuille de nouvelles. ||| 1631년 5월 30일, 리슐리외의 후원과 왕의 특허를 받아 주간지 창간호를 내네. 이름은 베네치아의 작은 동전 가제타, 소식지 한 장 값에서 왔다고들 해.
+JULIEN: Il y avait déjà des nouvelles. ||| 소식은 이미 있었잖습니까.
+VALCOURT: Des « nouvelles à la main ». Copiées à la plume, vendues sous le manteau, avec les rumeurs de la cour. Renaudot ne les invente pas : il les date, il les imprime, il les numérote. Ce que tout le monde chuchote, un jour il le lit imprimé, avec la date en haut. ||| "손으로 쓴 소식"이 있었지. 펜으로 베껴서 외투 속에서 팔던 궁정 소문 말이야. 르노도는 그것을 지어내지 않았어. 날짜를 붙이고 인쇄하고 번호를 붙인 거지. 모두가 속삭이던 것이 어느 날 맨 위에 날짜가 적힌 인쇄물로 읽히게 된 거야.
+CAMILLE: Donc la Gazette n'est pas une rumeur de plus. C'est une rumeur qui a une date. ||| 그러니까 가제트는 소문 하나 더 늘린 게 아니라 날짜가 달린 소문이네요. 
+VALCOURT: Mieux. C'est un pouvoir qui publie avant qu'on l'attaque, au lieu de démentir ensuite. On dit même que Louis XIII y envoyait des textes de sa main, mais je ne garantis pas les détails. ||| 더 정확히는 공격받기 전에 먼저 공개하는 권력이야. 나중에 부정하는 대신에. 루이 13세가 직접 쓴 글을 보냈다는 말도 있지만 세부는 보장 못 하네.
+JULIEN: Il y a un piège. La Gazette devient le journal du pouvoir. ||| 함정이 있죠. 가제트는 권력의 신문이 됩니다. 
+VALCOURT: Tu l'as vu tout de suite. Oui. Renaudot aura des ennemis, la Faculté de médecine en tête, qui lui reproche ses consultations gratuites. Et, plus tard, sa propre gazette sert la politique du cardinal. Pas de naïveté : l'imprimé, c'est une arme, aussi. ||| 바로 알아챘군. 그래. 르노도에겐 적이 생겨. 무료 진료를 비난하던 의학부가 선두였지. 훗날 그의 가제트는 추기경의 정치를 섬기게 돼. 순진하지 말게. 인쇄물도 무기야.
+JULIEN: Alors la différence se fait où ? ||| 그럼 차이는 어디서 생깁니까?
+VALCOURT: Dans ce que tu autorises les autres à imprimer à côté. Renaudot a imprimé seul. Toi, tu peux imprimer à côté de l'adversaire, sous les yeux de ceux qui l'ont lu. C'est la seule garantie contre la propagande : la place laissée à la contradiction. ||| 네가 다른 사람들이 곁에 인쇄하는 걸 허락하느냐에 있지. 르노도는 혼자 인쇄했어. 자네는 상대 곁에, 그걸 읽은 사람들 눈앞에서 인쇄할 수 있고. 그게 선전에 대한 유일한 보증이야. 반박에 내어 준 자리.
+CAMILLE: Alors la journaliste imprimera ce qu'elle voudra. Même si elle écrit « Delorme lit tout haut » en première page. ||| 그럼 기자는 원하는 걸 인쇄하겠네요. 1면에 "들로름이 소리 내어 읽다"라고 써도요. 
+VALCOURT: Qu'elle le fasse. Un texte public vaut toujours plus qu'un texte approuvé. Et ton idée des trois langues, à voix haute, sur la place, est de la Gazette orale. ||| 그러라고 하게. 공개된 글은 승인된 글보다 늘 값어치가 있어. 그리고 광장에서 소리 내어 읽는 세 언어 아이디어는 구술 가제트야. 
+JULIEN: Une dernière chose, Henri. La première version, celle de la rue Oudinot : « libre coopération ». Je la lirai aussi, avec les trois sens. ||| 마지막으로 하나, 앙리. 우디노 거리의 첫 판본 "자유로운 협력"도 세 가지 뜻과 함께 읽으려 합니다.
+VALCOURT: Alors tu avoues au public que ton ministère a été sur le point de commettre l'erreur. C'est audacieux. Les foules préfèrent souvent la sincérité tardive à la perfection prompte. ||| 그럼 대중에게 부처가 실수할 뻔했다고 고백하는 거군. 대담하네. 대중은 빠른 완벽함보다 늦은 솔직함을 더 좋아할 때가 많지. 
+JULIEN: On verra à dix-huit heures moins le quart. ||| 17시 45분에 알겠죠.
+VALCOURT: Je mange mon chaource en pensant à toi. Julien, ne leur dis pas que tu es sûr. Dis-leur que tu as vérifié. ||| 샤오르스를 먹으며 자네를 생각하겠네. 쥘리앵, 확신한다고 말하지 말고 확인했다고 말하게. 
++ le bureau d'adresse = (르노도의) 주소 사무소. 1630년 파리에 만든 구인·구직·매매 정보 창구
++ les nouvelles à la main = 손으로 쓴 소식. 인쇄 이전에 베껴 돌던 소식지와 궁정 소문
++ sous le manteau = 몰래, 비밀리에. 외투 속에서 판다는 뜻에서 온 표현
++ le privilège royal = 왕의 특허(출판 독점권). 《가제트》가 받은 권한이자 권력과의 거리 문제
++ publier avant qu'on attaque / démentir ensuite = 공격받기 전에 공개하다 / 나중에 부정하다. 장의 핵심 대비
++ la place laissée à la contradiction = 반박에 내어 준 자리. 선전과 공론장을 가르는 기준
++ dire « j'ai vérifié » plutôt que « je suis sûr » = "확신한다"보다 "확인했다"고 말하라. 발쿠르의 마무리 조언
++ sincérité tardive / perfection prompte = 늦은 솔직함 / 빠른 완벽함. 대중 앞에서의 신뢰를 설명하는 대조

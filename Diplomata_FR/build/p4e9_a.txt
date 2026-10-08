@@ -1,0 +1,125 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 9
+@title Le connétable
+@ko 원수의 배반
+@setting 포르오뱅 고등판무관청 접견실(목요일 오전 9시, J-4) → 복도와 부두 → 전화로 발쿠르 → 칼 거리에서 쥘리앵과 카미유의 추론 → 11시 30분 연락선 «Marguerite» → 쁘띠트쇠르 섬 오딜 생트로즈의 집
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파이지만 정직한 상대
+@cast MARCHAND | 에티엔 마르샹, 공화국 고등판무관, 58세(허구)
+@cast MERCADIER | 가스파르 메르카디에, 해외영토부 비서실장, 46세. 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자와 전화로 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 파리에서 전화로 등장
+@cast SAINTE-ROSE | 오딜 생트로즈, 아르시펠 동맹 대표(자치파), 57세(허구)
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세. 전화로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@cast PASSEUR | 연락선 «Marguerite»의 선원
+@note 목요일 아침, 방다가 편지 한 통의 사본을 내놓습니다. 말라비 외무장관 상가라의 비서실 앞으로 온 무서명 타자 편지로, 쥘리앵이 세 정당 대표에게 건넨 두 번째 투표의 «일정표(18개월, 3단계)»를 이미 읽은 사람이 쓴 것처럼 보입니다. 내용은 «1단계(1~6개월)에 말라비의 자리는 없다, 일요일 전에 압력을 올려라»입니다. 단서는 봉투의 소인입니다. 소인은 «쁘띠트쇠르, 14. 10(수요일), 14시»인데, 일정표는 같은 수요일 19시에 세 대표에게 건네졌습니다. 편지를 쓴 사람은 일정표가 전달되기 다섯 시간 전에 그 내용을 알고 있었던 것이고, 소인이 날짜와 시각을 함께 보증하므로(le cachet de la poste faisant foi) 이 점은 해석이 아닌 사실입니다. 가능한 설명은 둘뿐입니다. 일정표를 미리 받았거나, 일정표의 틀을 스스로 정했거나입니다. 쥘리앵은 팀을 의심하지 않기로 합니다. 메르카디에가 카미유와 엘렌의 접근 기록을 언급하자 카미유는 자기 전화기를 내놓지만, 쥘리앵은 «충성을 수색하지 않는다»며 소인의 날짜만 따릅니다. 쥘리앵이 찾은 사람은 쁘띠트쇠르에 사는 아르시펠 동맹 대표 생트로즈입니다. 그녀는 토요일 협상에서 «1단계에는 말라비 없이»를 가장 먼저, 가장 단호하게 주장했으나 말라비가 없다는 것이 알려지면 오히려 칸다라가 항의해야 파리가 자치파에게 더 내어 줄 것이라고 계산했습니다. 돈이 아니라 모욕이 동기입니다. 작년 비서실이 약속한 공동개발위원회 의장직이 사라졌기 때문입니다. 쥘리앵은 폭로하지 않고 두 가지를 제안합니다. 후속 위원회에 동맹의 이름으로 자리 하나, 그리고 이름 없는 편지 대신 서명이 든 편지입니다. 역사 배경은 부르봉 원수(1490~1527)의 배반입니다. 샤를 드 부르봉은 1515년 마리냥 전투 뒤 프랑스 원수(connétable, 군 최고 서열)에 올랐으나 1522~1523년 왕의 어머니 루이즈 드 사부아가 그의 아내 쪽 상속을 두고 소송을 걸어 영지 대부분을 빼앗길 처지가 되었습니다. 그는 1523년 신성로마제국 황제 카를 5세, 잉글랜드의 헨리 8세와 비밀 협약을 맺었고, 병을 핑계로 물러났다가 같은 해 9월 국외로 달아나 제국군에 가담했습니다(세부는 헤지). 그는 1525년 파비아 전투에서 프랑스군에 맞섰고 1527년 로마 약탈 때 전사했습니다. 교훈은 이렇습니다. 가장 큰 배반은 돈이 아니라 모욕에서 나옵니다.
+@next 4-10: 금요일 J-3. 칸다라가 «30일 안에 협상 개시»라는 기한을 들이밉니다. 쥘리앵은 기한을 거부하는 대신 질문 절차 안에 넣을 방법을 찾습니다.
+
+## 소인 — LE CACHET
+MARCHAND: Monsieur Delorme, monsieur Banda, entrez. Je vous ai fait servir du café, mais le café ne fait pas partie de l'ordre du jour. ||| 들로름 씨, 방다 씨, 들어오세요. 커피를 내오게 했지만 커피는 안건이 아닙니다.
+BANDA: Monsieur le haut-commissaire, monsieur Delorme. Je suis arrivé hier soir de Kandara. Je n'ai pas dormi, ce qui m'a rendu plus lucide. J'ai une enveloppe. ||| 고등판무관님, 들로름 씨. 어제 저녁 칸다라에서 도착했습니다. 잠을 못 자서 오히려 더 맑습니다. 봉투가 하나 있습니다.
+JULIEN: Vous m'avez écrit « regardez le cachet ». Je suis prêt à le regarder. ||| "소인을 보십시오"라고 쓰셨죠. 볼 준비가 됐습니다.
+BANDA: Voici d'abord la lettre. Une page, tapée à la machine, pas de signature. Elle est adressée au cabinet du ministre Sangara. Elle est arrivée dans la valise, avec le courrier ordinaire. ||| 먼저 편지입니다. 한 쪽, 타자기로 쳤고 서명이 없습니다. 상가라 장관의 비서실 앞으로 왔고, 일반 우편물과 함께 가방에 들어 있었습니다.
+CAMILLE: Je lis ? ||| 읽을까요?
+BANDA: Lisez. Lentement, comme j'aurais dû le faire hier soir. ||| 읽으세요. 어제 저녁에 제가 했어야 했던 대로 천천히요.
+CAMILLE: « Port-Aubin, le jeudi 15 octobre. À l'attention de Son Excellence. Cette nuit, le médiateur a remis aux trois présidents le calendrier du second vote. Dix-huit mois, trois phases. » ||| "포르오뱅, 10월 15일 목요일. 각하께. 간밤에 중재관이 세 대표에게 두 번째 투표의 일정표를 건넸습니다. 18개월, 3단계입니다."
+CAMILLE: « Phase un, mois un à six, cadrage entre l'État et le Territoire. Phase deux, mois sept à douze, consultation des partenaires régionaux. Phase trois, texte. Le Malavi n'est invité qu'au mois sept. » ||| "1단계, 1~6개월, 국가와 영토 사이의 틀 짜기. 2단계, 7~12개월, 지역 파트너 협의. 3단계, 문안. 말라비는 7개월째에야 초청됩니다."
+CAMILLE: « Nous vous conseillons de réagir publiquement avant dimanche. Plus la protestation de Kandara sera forte, plus Paris sera conduit à ouvrir la phase un. Aucune signature n'est nécessaire. » ||| "일요일 전에 공개적으로 반응하시길 권합니다. 칸다라의 항의가 강할수록 파리는 1단계를 더 열게 될 것입니다. 서명은 필요 없습니다."
+MARCHAND: « Aucune signature n'est nécessaire. » C'est la phrase d'un homme, ou d'une femme, qui connaît les usages. ||| "서명은 필요 없습니다." 관행을 아는 사람의 문장이군요, 남자든 여자든.
+JULIEN: Le calendrier est exact. Phases, durées, tout. Je l'ai remis hier soir à dix-neuf heures, ici, à vous, à madame Sainte-Rose, à monsieur Lamy, à monsieur Cadet. ||| 일정표는 정확합니다. 단계도 기간도 전부. 어제 저녁 19시에 여기서 판무관님과 생트로즈 씨, 라미 씨, 카데 씨께 건넸습니다.
+BANDA: Alors vous avez raison de dire que quelqu'un parmi ces quatre l'a envoyé. ||| 그럼 이 넷 중 누가 보냈다는 말씀이 맞겠군요.
+JULIEN: Pas encore. Je dis que quelqu'un parmi ceux qui connaissaient le calendrier l'a écrit. Regardons l'enveloppe. ||| 아직입니다. 일정표를 안 사람 중 누군가가 썼다고만 말하겠습니다. 봉투를 봅시다.
+BANDA: Recto. Adresse : le cabinet du ministre, Kandara. Pas d'expéditeur. Verso : rien. Le cachet est à droite. ||| 앞면. 주소는 칸다라의 장관 비서실입니다. 발신인은 없습니다. 뒷면은 비어 있고요. 소인은 오른쪽에 있습니다.
+CAMILLE: « PETITE-SŒUR. 14.10.2026. 14 h. » ||| "쁘띠트쇠르. 2026년 10월 14일. 14시."
+JULIEN: Quatorze heures, mercredi quatorze. Et la lettre est datée du jeudi quinze. Le calendrier a été remis mercredi à dix-neuf heures. ||| 수요일 14일 14시. 편지 날짜는 목요일 15일이고요. 일정표는 수요일 19시에 건네졌습니다. 
+CAMILLE: Donc la lettre a été postée cinq heures avant que le calendrier soit remis. Elle raconte, au passé, ce qui n'était pas encore arrivé. ||| 그러니까 편지는 일정표가 건네지기 다섯 시간 전에 부쳐졌어요. 아직 일어나지 않은 일을 과거형으로 쓴 거예요. 
+MARCHAND: Il y a peut-être une explication simple. Un décalage dans le tampon. Il arrive que les machines de l'île soient en retard. ||| 단순한 설명이 있을지도 모릅니다. 소인 기계가 어긋났을 수도 있고요. 섬 기계는 늦곤 하니까요. 
+JULIEN: La machine peut être en retard. Elle ne peut pas être en avance. Un tampon qui dit « mercredi, quatorze heures » veut dire : à ce moment-là, au plus tard, la lettre existait. Le cachet de la poste faisant foi. ||| 기계가 늦을 수는 있어도 앞서 갈 수는 없습니다. "수요일 14시"라는 소인은 늦어도 그 시각에 편지가 존재했다는 뜻이에요. 소인이 증거로 인정되는 겁니다. 
+BANDA: Je suis un homme qui n'aime pas les accusations sans pièces. J'en ai une, maintenant : la lettre dit ce qui n'existait pas encore. ||| 저는 증거 없는 고발을 싫어합니다. 이제 하나 있군요. 편지가 아직 없던 것을 말하고 있습니다. 
+JULIEN: Il y a deux manières de savoir ce qui n'existe pas encore. On le reçoit en avance, ou on l'a fixé soi-même. ||| 아직 없는 것을 아는 방법은 둘입니다. 미리 받았거나, 스스로 정했거나. 
+MARCHAND: Reçu en avance, cela suppose une fuite. Fixé soi-même, cela suppose… un auteur. ||| 미리 받았다면 유출이 있다는 뜻이고, 스스로 정했다면... 저자가 있다는 뜻이죠.
+BANDA: Je dois vous dire pourquoi je vous donne cela. Ma mère disait qu'une lettre sans signature est une lettre qui a peur de sa propre voix. Mon pays ne doit pas devenir cette voix-là. ||| 왜 이걸 드리는지 말씀드려야겠습니다. 어머니는 서명 없는 편지는 자기 목소리를 두려워하는 편지라고 하셨습니다. 제 나라가 그런 목소리가 되어선 안 됩니다. 
+JULIEN: Vous venez de risquer votre carrière. Je le sais. ||| 방금 경력을 거셨습니다. 압니다. 
+BANDA: Je viens de risquer un titre. Ce n'est pas la même chose. ||| 직함을 걸었을 뿐입니다. 같은 건 아니죠. 
+MERCADIER: (Au téléphone, haut-parleur.) Delorme, Mercadier. Le haut-commissaire m'a mis au courant. Je vous prie de noter que j'ai le registre d'envoi du calendrier. Il existe deux copies électroniques, une à votre ordinateur, une à celui de Mlle Roussel. ||| (스피커 전화.) 들로름, 메르카디에입니다. 판무관께서 알려 주셨습니다. 일정표 발송 장부가 제게 있습니다. 전자 사본이 둘 있어요. 당신 컴퓨터에 하나, 루셀 양 컴퓨터에 하나. 
+CAMILLE: Monsieur le directeur… ||| 비서실장님...
+MERCADIER: Je ne dis rien, mademoiselle. J'énonce un fait. Autre fait : Mme Dufresne a, depuis mardi, une habitude de venir à Port-Aubin sans prévenir. Ces faits ne vont pas ensemble, mais ils sont dans le même tiroir. ||| 아무 말도 안 합니다, 루셀 양. 사실을 말할 뿐입니다. 또 하나의 사실은, 뒤프렌 씨가 화요일부터 예고 없이 포르오뱅에 오는 습관이 생겼다는 겁니다. 이 사실들은 함께 가지 않지만 같은 서랍에 들어 있습니다. 
+JULIEN: Monsieur Mercadier, vous avez ouvert le tiroir. Je vous remercie de l'avoir fait. Je le ferme. ||| 메르카디에 씨, 서랍을 여셨군요. 감사합니다. 제가 닫겠습니다. 
+MERCADIER: Vous ne pouvez pas fermer un tiroir en disant qu'il est fermé. ||| 닫혔다고 말한다고 서랍이 닫히진 않습니다. 
+JULIEN: Si. En vous donnant la date. Mlle Roussel a le calendrier depuis mardi soir, à Paris. Une lettre postée mercredi à quatorze heures sur une île où elle n'a pas mis les pieds ne vient pas d'elle. ||| 닫힙니다. 날짜를 드리면요. 루셀 양은 화요일 저녁 파리에서 일정표를 받았고, 그녀가 발을 들인 적 없는 섬에서 수요일 14시에 부쳐진 편지는 그녀가 보낸 게 아닙니다.
+CAMILLE: Je n'ai jamais mis les pieds à Petite-Sœur, c'est vrai. Je n'ai que le plan. ||| 쁘띠트쇠르에는 한 번도 가 본 적 없어요. 지도밖에 몰라요. 
++ le cachet de la poste faisant foi = 소인으로 증명되는. 우편 소인이 날짜의 증거가 된다는 법률 관용구
++ à l'attention de = ~ 앞. 공문 서두의 수신 표기
++ une lettre sans signature / une lettre qui a peur de sa propre voix = 서명 없는 편지는 자기 목소리를 두려워하는 편지. 방다 어머니의 말
++ au plus tard = 늦어도. 소인이 증명하는 것은 «그 시각에 이미 존재했다»는 최대 시각
++ un décalage / être en retard, pas en avance = 어긋남 / 늦을 수는 있어도 앞설 수는 없다. 시각 증거의 비대칭
++ mettre au courant = ~에게 알리다. «Le haut-commissaire m'a mis au courant»
++ les mettre dans le même tiroir = 같은 서랍에 넣다. 관련 없는 사실을 한곳에 모아 의심을 부풀리는 방식
++ risquer sa carrière / un titre = 경력을 걸다 / 직함을 걸다. 방다가 자기 위험을 줄여 말하는 대목
+
+## 수색하지 않는 충성 — LE TÉLÉPHONE DE CAMILLE
+CAMILLE: Prends mon téléphone, Julien. Tout : messages, appels, galerie, applications. Je ne veux pas qu'il y ait un « mais » dans la tête de qui que ce soit. ||| 내 전화기를 가져가, 쥘리앵. 전부. 메시지, 통화, 갤러리, 앱. 누구 머릿속에도 "그런데"가 남지 않았으면 좋겠어.
+JULIEN: Non. ||| 싫어.
+CAMILLE: Pourquoi ? Si on m'a mise dans le tiroir, autant qu'on le vide. ||| 왜? 날 서랍에 넣었다면 비워 버리는 게 낫잖아.
+JULIEN: Parce que si je regarde ton téléphone, je dis à tout le monde que j'ai pu penser à toi. Et même si je ne trouve rien, ce que j'aurai trouvé, c'est que je regardais. ||| 네 전화기를 보면 내가 널 의심할 수 있었다고 모두에게 말하는 거야. 아무것도 못 찾아도 내가 찾아낸 건 내가 들여다봤다는 사실이고.
+CAMILLE: Alors tu me fais confiance sans preuve ? ||| 증거 없이 날 믿는 거야?
+JULIEN: Non, avec preuve. La preuve, c'est la date, et c'est toi qui me l'as lue. Je ne te fais pas confiance parce que je t'aime bien. Je te fais confiance parce que le cachet dit mercredi quatorze heures, et que tu étais à ma droite au Courrier. ||| 아니, 증거와 함께야. 증거는 날짜고 읽어 준 건 너야. 널 좋아해서 믿는 게 아니라, 소인이 수요일 14시를 가리키고 그 시각에 넌 쿠리에 사무실에서 내 오른쪽에 있었기 때문에 믿는 거야.
+CAMILLE: À quatorze heures, on était à la mairie, avec Sylvaine. Mais je comprends. ||| 14시엔 시청에서 실벤이랑 있었어. 하지만 알겠어. 
+JULIEN: Voilà. Tu vois ? Même moi, je me trompe d'heure quand je suis ému. Et c'est pour cela qu'il faut des cachets. ||| 봐. 나도 감정이 앞서면 시각을 틀려. 그래서 소인이 필요한 거야.
+CAMILLE: Tu es ému ? ||| 감동한 거야? 
+JULIEN: Un peu. Ne le répète à personne. Je le répéterai moi-même, un jour, quand il y aura un témoin. ||| 조금. 아무한테도 말하지 마. 증인이 있을 때 내가 직접 다시 말할 테니까.
+HÉLÈNE: (Message, 9 h 52.) « Jour 28. Mercadier me cherche dans ses tiroirs. Je l'y encourage. Dis-lui que mes déplacements sont à sa disposition, avec une facture. Je te le dis avant que quelqu'un d'autre me le dise : si tu me soupçonnes, dis-le-moi en face. Je préfère. » ||| (문자, 9시 52분.) "28일째. 메르카디에가 서랍에서 날 찾고 있어. 그러라고 부추기는 중. 내 이동 내역은 청구서와 함께 언제든 보여 준다고 전해. 그리고 누가 말하기 전에 네게 말해 두는데, 날 의심한다면 면전에서 말해. 그게 나아."
+JULIEN: (Il répond à voix haute en tapant.) « Hélène. Je ne te soupçonne pas. Je suis occupé à lire une date. J'ai besoin que tu me dises une chose : qui, à Dublin, a su hier que nous savions ? » ||| (타자 치며 소리 내어.) "엘렌. 널 의심하지 않아. 날짜 하나를 읽느라 바빠. 하나만 말해 줘. 어제 더블린에서 우리가 안다는 걸 누가 알았지?" 
+HÉLÈNE: (Réponse, 9 h 58.) « Le troisième virement vers Mwila a été annulé hier à seize heures. Quelqu'un a lu notre silence. Ce n'est pas un nom. C'est un geste. » ||| (답장, 9시 58분.) "므윌라에게 가는 세 번째 송금이 어제 16시에 취소됐어. 누군가 우리의 침묵을 읽은 거야. 이름이 아니라 몸짓이야." 
+CAMILLE: Elle s'est coupée de son propre rôle pour te dire ça. ||| 자기 역할을 접어 두고 그 말을 해 준 거네요.
+JULIEN: Elle a payé son prix d'avance. C'est sa façon d'aimer. ||| 대가를 미리 치른 거야. 그게 그 사람 방식의 애정이지.
+MARCHAND: Monsieur Delorme, je voudrais ajouter quelque chose. Si la personne est parmi les quatre, il y en a une que je ne soupçonne pas du tout. ||| 들로름 씨, 하나 덧붙이겠습니다. 그 사람이 넷 중에 있다면, 저는 전혀 의심하지 않는 사람이 하나 있습니다. 
+JULIEN: Qui ? ||| 누구요? 
+MARCHAND: Moi. Je dis cela en riant, mais personne dans ma maison n'a jamais ri en disant cela. Je suis le seul à qui vous ne devez pas demander mon alibi. ||| 저 말입니다. 웃으며 말하지만 우리 집에서 이 말을 웃으며 한 사람은 없었어요. 제게는 알리바이를 묻지 마세요. 
+JULIEN: Je ne vous le demande pas. Je demande l'ordre de remise. Dans quel ordre les quatre enveloppes sont-elles sorties du bureau ? ||| 묻지 않습니다. 전달 순서를 묻습니다. 봉투 넷이 사무실에서 어떤 순서로 나갔습니까? 
+MARCHAND: Ma secrétaire les a préparées à midi. Elles sont restées dans le coffre jusqu'à dix-huit heures quarante-cinq. Elle les a remises à dix-neuf heures, en mains propres, dans la salle de conférence, devant moi. ||| 비서가 정오에 준비했습니다. 18시 45분까지 금고에 있었고, 19시에 회의실에서 제 앞에서 직접 건넸습니다.
+JULIEN: Donc personne, à quatorze heures, n'avait le texte du calendrier. Sauf ceux qui l'avaient fait. ||| 그러니 14시에는 일정표 문안을 가진 사람이 없었다는 거군요. 그것을 만든 사람들 말고는. 
+MARCHAND: Vous, Mlle Roussel, moi, ma secrétaire. Et… ||| 당신, 루셀 양, 저, 제 비서. 그리고... 
+JULIEN: Et ceux qui m'ont dit, samedi, ce qu'ils voulaient y trouver. Pas le texte : le menu. ||| 그리고 토요일에 거기서 무엇을 보고 싶은지 말한 사람들요. 문안이 아니라 메뉴를요. 
++ la confiance avec preuve = 증거 있는 신뢰. 쥘리앵이 카미유를 믿는 근거는 감정이 아니라 날짜
++ fouiller / perquisitionner = 수색하다. 팀원을 수색하지 않는 윤리와 신뢰의 비용
++ j'en dis plus que je ne trouve = 찾은 것보다 보여 준 것이 더 많다. 의심의 표현 자체가 불신을 알리는 효과
++ en mains propres = 직접 전달로. 서류를 제3자 없이 직접 건네는 방식
++ à ma disposition, avec une facture = 청구서와 함께 처분에 맡긴다. 엘렌 특유의 거래식 농담
++ lire notre silence = 우리의 침묵을 읽다. 상대가 알아챘음을 암시하는 은유
++ le menu, pas le texte = 문안이 아니라 메뉴. 일정표의 틀을 요구한 사람은 문안 없이도 그 내용을 안다는 쥘리앵의 추론
+
+## 원수의 이야기 — L'HISTOIRE DU CONNÉTABLE
+VALCOURT: Julien, c'est Henri. Je sais que tu es entre deux urgences. Je suis chez Marthe, thé, tomme de Savoie, le goûter des hommes qui n'ont plus de plan B. ||| 쥘리앵, 앙리일세. 급한 일 두 개 사이인 줄 알아. 마르트 집이네. 차에 사부아 톰. 대안이 없는 사내들의 간식이지. 
+JULIEN: Je vous appelle pour une histoire. Un homme qui trahit sans y gagner ce qu'on croit. ||| 이야기 하나 때문에 전화했습니다. 사람들이 생각하는 걸 얻지 않고도 배반하는 사람이요.
+VALCOURT: Le connétable de Bourbon. Charles III, duc de Bourbon, né en 1490. Il est le plus grand seigneur du royaume après le roi. Il se bat à Marignan en 1515, et François Ier lui donne l'épée de connétable, chef suprême des armées. ||| 부르봉 원수지. 샤를 3세, 부르봉 공작, 1490년 출생. 왕 다음가는 왕국 최대 영주였네. 1515년 마리냥에서 싸웠고 프랑수아 1세가 그에게 원수의 검, 곧 군 최고 지휘권을 주었지. 
+CAMILLE: Il avait tout. Pourquoi trahir ? ||| 다 가졌잖아요. 왜 배반해요? 
+VALCOURT: Parce qu'on lui a pris l'inattendu. Sa femme, Suzanne de Bourbon, meurt en 1521. Elle lui avait transmis des terres immenses. La mère du roi, Louise de Savoie, qui est elle aussi parente de Suzanne, attaque en justice l'héritage. ||| 예기치 못한 걸 빼앗겼기 때문이야. 아내 쉬잔 드 부르봉이 1521년에 죽네. 엄청난 땅을 물려준 사람이었지. 쉬잔의 친척이기도 한 왕의 어머니 루이즈 드 사부아가 그 상속을 소송으로 공격해. 
+JULIEN: La mère du roi qui prend les terres du plus grand seigneur. Et le roi laisse faire. ||| 왕의 어머니가 최대 영주의 땅을 빼앗고 왕은 방치하는군요. 
+VALCOURT: Il ne le défend pas, ce qui revient au même. Bourbon se sent humilié, et aussi menacé de ruine. Il négocie en secret avec l'empereur Charles Quint, et avec Henri VIII d'Angleterre. ||| 보호하지 않았고 그건 같은 일이지. 부르봉은 모욕감을 느끼고 파산의 위협도 느끼네. 황제 카를 5세와, 잉글랜드의 헨리 8세와 비밀리에 협상해. 
+CAMILLE: C'est une trahison pour de l'argent ? ||| 돈 때문의 배반인가요? 
+VALCOURT: Pas seulement. Les historiens parlent d'une combinaison : la justice qui lui échappe, la peur de tout perdre, et une humiliation qui n'a pas de réparation. En 1523, il feint d'être malade pour ne pas partir en campagne. Le roi vient le voir à Moulins. ||| 그것만은 아니야. 역사가들은 복합이라고 하지. 자기 손을 빠져나가는 재판, 모든 걸 잃을 두려움, 보상되지 않는 모욕. 1523년 그는 원정에 안 나가려고 병을 가장하네. 왕이 물랭으로 찾아가. 
+JULIEN: Le roi vient le voir. Donc le roi sentait quelque chose. ||| 왕이 찾아간다. 그러니 왕은 뭔가 느꼈군요. 
+VALCOURT: Il sent, il vient, il parle. Mais Bourbon dissimule, et le roi, qui n'aime pas qu'on le force à choisir entre sa mère et son plus grand vassal, repart sans avoir rendu ce qu'on lui avait pris. En septembre, Bourbon s'enfuit. ||| 느끼고, 가고, 말하네. 하지만 부르봉이 숨기고, 어머니와 최고 신하 사이의 선택을 강요받는 걸 싫어한 왕은 빼앗은 걸 돌려주지 않은 채 돌아가. 9월에 부르봉은 달아나지. 
+CAMILLE: Il rejoint l'empereur ? ||| 황제에게 합류해요? 
+VALCOURT: Il passe au service de l'empereur. En 1525, à Pavie, ses troupes aident à vaincre l'armée royale, et François Ier est fait prisonnier. En 1527, Bourbon meurt à l'assaut de Rome, au moment du célèbre sac. Je simplifie, il y a bien des détails que j'ignore. ||| 황제를 섬기게 되네. 1525년 파비아에서 그의 부대가 왕군을 이기는 데 한몫하고 프랑수아 1세는 포로가 되지. 1527년 부르봉은 로마 공격 중, 그 유명한 약탈 때 전사해. 단순화한 거야, 모르는 세부도 많고. 
+JULIEN: Alors la leçon, ce serait que les trahisons les plus lourdes n'ont pas de prix. Elles ont un grief. ||| 그럼 교훈은 가장 무거운 배반에는 값이 없다는 거군요. 원한이 있을 뿐이고요. 
+VALCOURT: Voilà. On cherche toujours qui a payé. On devrait chercher qui a été oublié. Un homme qu'on achète est facile à remplacer. Un homme qu'on humilie se remplace tout seul par un ennemi. ||| 그거야. 우리는 늘 누가 돈을 냈는지 찾지. 누가 잊혔는지를 찾아야 해. 돈으로 산 사람은 갈아 끼우기 쉬워. 모욕당한 사람은 스스로 적으로 바뀌고. 
+JULIEN: Et la leçon pratique ? Le roi aurait pu faire quoi ? ||| 실무 교훈은요? 왕은 뭘 할 수 있었을까요? 
+VALCOURT: Lui rendre quelque chose, avant que l'ennemi le lui offre. Pas le tout. Un fragment visible. La reconnaissance est la monnaie qui coûte le moins et se dévalue le plus vite. Passé un certain jour, elle ne vaut plus rien. ||| 적이 주기 전에 뭔가 돌려주는 거지. 전부가 아니라 눈에 보이는 조각 하나. 인정은 가장 싸게 치르고 가장 빨리 가치가 떨어지는 화폐야. 어느 날이 지나면 아무 값도 없네. 
+CAMILLE: Et ce sera… Julien, tu sais déjà à qui tu penses ? ||| 그리고 그게... 쥘리앵, 누굴 생각하는지 이미 알아? 
+JULIEN: Je pense à une phrase. « Pas de Malavi en phase un. » Je sais qui l'a dite le plus fort, samedi. Je ne sais pas encore pourquoi elle l'a dite si bien. ||| 문장 하나를 생각해. "1단계에는 말라비 없이." 토요일에 누가 가장 세게 말했는지 알아. 왜 그렇게 잘 말했는지는 아직 몰라. 
+VALCOURT: Va la voir seul. Ou presque. Camille attend sur le bateau. Un homme qui arrive avec un témoin à la porte d'une femme qui se sent oubliée, ça s'appelle une perquisition. ||| 혼자 가 보게. 거의 혼자서. 카미유는 배에서 기다리고. 잊혔다고 느끼는 여인의 문 앞에 증인을 데려가는 건 수색이라고 하네. 
++ le connétable = (옛 프랑스의) 원수, 군 최고 지휘관. 부르봉이 1515년에 받은 직함
++ feindre d'être malade = 병을 가장하다. 부르봉이 1523년 원정을 피한 방식
++ un grief = 불만, 원한. 배반의 동기를 돈이 아니라 «grief»에서 찾는 말
++ acheter / humilier = 매수하다 / 모욕하다. 값을 치른 사람과 잊힌 사람의 대조
++ un fragment visible = 눈에 보이는 조각. 인정을 작은 단위로 돌려주는 방식
++ passer au service de = ~를 섬기게 되다. 부르봉이 황제 쪽으로 넘어간 일
++ je simplifie = 단순화합니다. 세부를 모르는 사건을 말할 때 발쿠르의 헤지
++ le goûter = 간식. 발쿠르가 «대안 없는 사내들의 간식»이라 부르는 오후의 의식

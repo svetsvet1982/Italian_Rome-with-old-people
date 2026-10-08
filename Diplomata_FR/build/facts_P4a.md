@@ -47,3 +47,37 @@
 - 반박문(아르샹보 승인, 부처 명의): «Le document diffusé cette nuit n'est pas un document de l'État.» + 4항목 + 게시 장소(시청·고등판무관청·광장) + «Dans tous les cas, ce qui est demandé depuis 1884 est inscrit à l'ordre du jour.» 비서실 «visa» 없이 공표 → 문제. 라미가 확성기로 위조 문서를 낭독한 뒤 시청 종이를 읽고 «간직하라, 엿새 뒤 보여라». 레아: 증거 정의 «ce qui reste quand celui qui a intérêt à ce que ce soit faux la lit aussi»; 논술 끝 «Accuser, c'est dire un nom. Démontrer, c'est donner à tout le monde les moyens…».
 - 타임라인: 일 6:50 문서 → 7:30 시청 → 9:30 등대 방(오칸라·방다) → 11시경 반박문 전화 → 15:45 광장 → 16:31(파리 20:31) 아르샹보 문자 → 23시 비행기(파리 월 새벽 도착 가정). 오칸라: 상가라 침묵=동의, 직통선 만료는 일요일 저녁, «북쪽에 두 번째 문서».
 - 훅(4-6 «La journée des dupes», 월요일 J-7): 르포르의 후임 비서실장 가스파르 메르카디에(신규, 허구)가 월 9시 소환, «무비자 공표» 문제 삼음 + «quelque chose d'autre» 제시 예고; 가렉 더블린(내부 인물로 단정 말 것); 두 번째 서류가 북쪽(말라비 방향)에서 유포; 쥘리앵 «quel que soit le résultat»가 핵심; 인쇄 마감 수요일 18시(J-5).
+
+## 4-6 La journée des dupes (174턴, 5섹션) — 월요일 J-7 (엘렌 «Jour 25»)
+- 달력 확정: 투표 = 일요일 10/18(J-1). 월 10/12(J-7), 화 10/13(J-6, Jour 26), 수 10/14(J-5, 인쇄 마감 18시 현지, Jour 27), 목 10/15(J-4, Jour 28). 위조 214호 날짜 «31 septembre», 10월 6일=화, 10월 2일=금.
+- 가스파르 메르카디에(46, 허구, 전직 국사원 심의관), 새 비서실장(directeur de cabinet), 르포르의 방, «dossier 없이는 못 들어온다». 쥘리앵에 vous. 논점 정당: 결재(visa) 없이 «n'est pas un document de l'État» 공표 = 국가가 «5층 서랍»을 확인하지 않고 보증. 일요일 11시 비서실에 당직자 없음(교환대가 정오에 넘김) = 규칙의 결함.
+- «quelque chose d'autre» = «Note 215 bis»(말라비 번호 300명 단체방, 월 5시 파리 시각 게시, 날짜 «6 octobre»): «Le Conseil de développement conjoint sera dissous quel que soit le résultat… fonds marins du bassin de Kandara réattribués à l'État.» 둘째 문단이 10/2 비서실 내부 초안(10/7 폐기)과 거의 동일 = 진짜 문장을 품은 가짜. 초안 접근자: 비서실 11명 + 영토 의회 업무 서류에 첨부되어 포르오뱅 약 30명(문안 유출 인원과 같음). 날짜 6일 = 위조자는 폐기 전 판본 사용 → 유출은 10/2~10/6 사이. 결론 금지(«Un chiffre rond n'est pas un visage»).
+- 발쿠르 점심(Au Cantal Perdu, 몽도르, 생넥테르): 속은 자들의 날 1630-11-10 뤽상부르/11-11 베르사유 사냥 별궁(문 뒤 일화 헤지), 마리야크 형제, 마리 브뤼셀. «Marie voulait gagner la pièce où le roi se trouvait; Richelieu la pièce où le roi revient.»
+- 해법의 순간: 쥘리앵이 먼저 «Vous avez raison»; 15시: 반박문에 «서랍을 연다» = 비서실 11개 부서 서면 답변(17시 전) + «10/2 초안의 한 문장 재사용, 10/7 폐기, 문서 전체는 거기서 나오지 않음» 공개(가장 먼저 말하기). 장관 통화: 결재 30분·7일 7일·번호. 메르카디에 «Je ne suis pas votre ami. Je suis votre signature.» 정보기관 접촉도 결재 대상(쥘리앵은 엘렌 만남 전에 보고). 16:40 215 bis 반박문 두 서명, 11/11 «non». 라미가 반박문을 위조 사진 옆에 붙이고 빨간 펠트로 «Lire les deux.»
+- 엘렌 Jour 25 문자 18:12: 화 10시 뤽상부르 메디시스 분수, «Apporte tes scrupules», «Demain, c'est gris.» 레아 정의: «Gagner, c'est être celui à qui l'on revient quand on est libre de ne pas revenir.»
+- 훅(4-7): 화 J-6, 엘렌 서류(회색), 레아의 질문, 보고 의무(메르카디에/아르샹보), 가렉 더블린.
+
+## 4-7 L'affaire XYZ (165턴, 5섹션) — 화요일 J-6 (엘렌 «Jour 26»)
+- 10시 뤽상부르 메디시스 분수, 엘렌 서류 3장(서명 없음): 말라비 대사관 경제참사관 **타데오 므윌라(51, 허구)** 모리셔스 계좌 ← 키프로스 «Kerlyn Holdings» 9/20 4만€, 10/1 4만€(10/2 초안 전날), 세 번째 «après le scrutin». 출처 협력 기관, 법정 불가(«pas une preuve, une information»). Kerlyn의 더블린 소재지 대행업체 = 합성 음성 서버 임대사와 동일(윤곽, 가렉과 연결 단정 불가). 엘렌 대가: 쓰기 전 통보, 레아가 자기 이름을 서류 옆에서 듣지 않게(레아는 존재만 앎).
+- 쥘리앵은 10:50 메르카디에에게 봉인 1호(scellé numéro un)로 맡김; 문장 «Je remets sous scellé un document que je n'utiliserai ni pour obtenir ni pour menacer.» 카미유가 증인 마지막 서명. 레아(철학 구술 «Peut-on se servir d'un moyen injuste pour une fin juste ?»): «Un bouclier, c'est ce qui protège sans frapper» / 규칙: 상대가 나온 뒤(고백 또는 열린 질문에 대한 대답)에만 앞으로 낸다.
+- 발쿠르 전화(Marthe, 퐁레베크): XYZ 1797-10, 핑크니·마셜·게리, 요구 3(애덤스 연설 사과/대출/탈레랑 douceur, 액수 헤지), X·Y·Z(·W), 1798-04 애덤스 공개(이름→글자), 준전쟁; «Pas un sou»는 전승. 교훈: 요구를 공개하되 얼굴은 가림, 방패가 군중 손에서 무기가 될 위험.
+- 13시 대사관저 점심(오칸라가 국자 추첨): 방다 «préjuge» 영어 prejudge 구분. 므윌라 베란다: X 반박문 동사를 «est contesté»로, Y 안내문에 «quel que soit le résultat» 문장, Z 재단 «Kandara-France» 18만€. 쥘리앵 «Pas un sou», 열린 질문 «Qui vous a demandé…» → 므윌라 «Personne… initiative personnelle» (고백), 대사 모름. 서재: 쥘리앵이 X/Y/Z 글자로 오칸라·방다에 보고, 서류 존재만 말함(방패). 오칸라가 므윌라를 생토뱅 사안에서 배제(소환 아님). 방다: 자기 문이 아닌 문으로 들어온 문장엔 서명 안 함, 저녁에 서명 편지(위원회 권리 불변 문장).
+- 엘렌 Jour 26: «La métropole triche.» 현지 신문 헤드라인 예고(신문 이름 안 밝힘). 쥘리앵 수요일 새벽 현지 도착 예정(화 23시 출발).
+- 훅(4-8): 수 J-5 포르오뱅, 인쇄 마감 18시, «본국이 속인다» 프레임; 해법=세 언어 공개 낭독.
+
+## 4-8 La Gazette (153턴, 5섹션) — 수요일 J-5 (엘렌 «Jour 27»), 포르오뱅
+- 새벽 5:10 도착. 일간지 «Le Courrier de l'Archipel»(편집장 에스텔 바부 54, 허구) 1면 «LA MÉTROPOLE TRICHE. On a changé la question dans la nuit» — 문장은 사실(V2 수요일 23:30 «évolution» 삭제, V0 «libre coopération» 삭제), 프레임이 거짓(«À qui profite l'effacement ?»). 같은 문구 전단 14장(범선 거리 인쇄소 = 두 위원회도 사용, 모두를 위해 찍음; 결론 금지). 엘렌 Jour 27 문자: 같은 문구 14곳, 저녁에 6곳 철거.
+- 판본 날짜: V0 = 10월 5일(월) 해외영토부 내부 문서(협의 안 함), V1 = 수 10/7 저녁 20시, V2 = 수 10/7 23:30. 바부의 문서에 3열(제안/삭제/이유) 중 «이유» 열을 인용 안 함(부편집장이 «변호»라 함).
+- 메르카디에 결재(5:10 현지=9:10 파리, 50초 만에 전화): 조건 3: V0는 «document interne, jamais soumis à consultation»로 공개 / 30명 이름 금지 / 부처 사람은 낭독하지 않음(섬의 목소리만). 유인물에 «auraient dû être publiées le jour même»(조건법 과거; 사과 아님).
+- 발쿠르(파리 정오, 칸탈 페르뒤, 샤오르스): 르노도 1586 루됭, 1630 주소 사무소(bureau d'adresse), 1631-05-30 《가제트》(리슐리외 후원·왕 특허, gazzetta 동전), «nouvelles à la main», 루이 13세 기고 헤지, 의학부 적. 교훈: 선전 방지 = 반박에 내어 준 자리; «dites j'ai vérifié, pas je suis sûr».
+- 해법의 순간(17:40 광장 낭독, 인쇄 18:00): 시장 방투르(프랑스어), 실벤 도를리스(크레올어), 도로테 피넬(영어, 중학교 교사)이 V2, 그다음 V0, V1을 낭독 후 침묵. V0: libre ↔ 크레올어 lib(libre+libéré: «Libéré de quoi ?») ↔ 영어 free(gratuit?). 어부 **옥타브 노(67, 생트마르트)**가 «Si ça n'avance pas ?» 발언자로 자신을 밝힘; 리비에르 확인. 야유 남성 «Théâtre!» → 쥘리앵: 네 번째 뜻을 뒷면에 써서 목 정오까지 시청에 내면 그의 이름으로 인쇄. 라미: «Oui, c'est être lib» → 구호는 질문이 아님, 포스터 뒷면에 쓰고 앞면은 1946 문장. 바부: «Qui a gagné?» → «Personne. C'est mercredi.»; 내일 1면 «Un pêcheur a posé la question.» 인쇄 18:00 첫 장 정확, 질문 확정(변경 없음). 레아: «Une traduction est une preuve quand trois langues la tiennent.»
+- 크레올어 표기는 허구 생토뱅 크레올(Sen-Obèn, Larépiblik fransèz 등).
+- 훅(4-9): 방다 문자 22:40: 목 9시 고등판무관청, 봉투 한 통 «Elle est venue de chez vous», «regardez le cachet».
+
+## 4-9 Le connétable (165턴, 5섹션) — 목요일 J-4 (엘렌 «Jour 28»), 포르오뱅·쁘띠트쇠르
+- 09시 고등판무관청(에티엔 마르샹 58): 방다(화요일 파리 후 수요일 밤 칸다라 경유 포르오뱅 도착)가 칸다라 상가라 비서실 앞 무서명 타자 편지 사본 제출(«Aucune signature n'est nécessaire»): 일정표 = 두 번째 투표 18개월 3단계(1단계 1~6개월 국가·영토 틀 짜기 / 2단계 7~12개월 지역 파트너 협의 / 3단계 문안), 말라비는 7개월째 초청, «일요일 전에 항의하라». 편지 날짜 «jeudi 15 octobre», 소인 «PETITE-SŒUR 14.10.2026 14 h» = 일정표 전달(수 19시, 판무관청 회의실, 비서가 정오 준비·18:45까지 금고) 5시간 전. 해법의 순간: «le cachet de la poste faisant foi» — 기계는 늦을 수 있어도 앞설 수는 없다; 미리 받았거나(유출) 스스로 정했거나(저자).
+- 팀 충성: 메르카디에(스피커) 일정표 전자 사본 2(쥘리앵·카미유), 엘렌의 예고 없는 방문을 «같은 서랍»으로 언급. 카미유가 전화기 제출 → 쥘리앵 거절(«충성을 수색하지 않는다», 날짜로 믿음; 카미유는 쁘띠트쇠르에 간 적 없음). 엘렌 문자 9:52 Jour 28: 의심하면 면전에서 말하라; 9:58 «므윌라 세 번째 송금 어제 16시 취소 — 누군가 우리의 침묵을 읽음».
+- 발쿠르(마르트 집, 톰 드 사부아): 부르봉 원수 샤를 3세(1490), 마리냥 1515 원수 임명, 아내 쉬잔 1521 사망·루이즈 드 사부아 상속 소송, 카를 5세·헨리 8세와 비밀 협상, 1523 병 가장·왕의 물랭 방문·9월 도주, 1525 파비아, 1527 로마(헤지). 교훈: 값이 아니라 원한(grief); «Lui rendre un fragment visible avant que l'ennemi le lui offre.»
+- 소거: 라미 수 13~15시 라디오 아르시펠 생방송(바부와 토론), 카데 도리발 주교와 주교관 점심 15시까지; 수요일 포르오뱅→쁘띠트쇠르 배 «Marguerite» 11:30 출발·15:10 귀환 → 14시 섬 소인 = 주민 또는 11:30 배 승객. **배반자 = 오딜 생트로즈(57, 쁘띠트쇠르 거주, 아르시펠 동맹)**: 토요일 참사회실에서 «첫 단계는 우리끼리 / 6개월 / 이웃은 그다음에» 주장 → 일정표에 그대로 반영(메뉴의 저자) → 칸다라가 항의하면 파리가 자치파에 더 내어 줄 것이라 계산(말라비를 지렛대로). 동기 = 돈이 아니라 모욕: 전임 고등판무관이 작년 두 증인 앞에서 공동개발위원회 의장직을 약속했으나 석 달 전 중앙부처 국장에게 8줄 보도자료로 넘어감(그에겐 12줄).
+- 쥘리앵의 제안: 보고서에 약속 파기를 그녀 이름·날짜와 함께 기재 / 1단계 후속 위원회에 동맹이 당 이름으로 착석, 의장직 윤번 «제안, 보장 아님» / 대가 = 서명 편지(상가라 앞, 이유 포함). 그녀가 손글씨 서명 편지 작성 («Je n'en avais pas le droit»). 쥘리앵 «첫 조각은 이 대화», 생트로즈 «Vous avez seulement été le premier à venir.» 폭로 안 함(방다도 작성자 모름).
+- 방다 문자 18:05: 칸다라 답변 = «투표 30일 뒤 협상이 열리지 않으면 재판소에 제소» → 쥘리앵: 기한을 거부하지 말고 질문 절차 안에 넣는다(4-10 훅). 레아 문장: «Trahir, ce n'est pas changer de camp : c'est ne plus trouver sa place dans le sien.» (Odile S.; 허락 받을 것)
