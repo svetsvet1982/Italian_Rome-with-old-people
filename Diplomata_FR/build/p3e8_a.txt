@@ -1,0 +1,101 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 8
+@title La cave
+@ko 지하 저장고
+@setting 케도르세 중재조정실 사무실과 전화(화요일 오전) → 이웃 나라 사르나즈 계곡 협동조합 입구 마당과 숙성 저장고(수요일 9시~) → 저장고 안쪽 문서 창고와 인쇄소 장부(수요일 11시~13시) → 국경 근처 국도 위 자동차 안과 파리 저녁(수요일)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 철학 시험 준비 중
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 전화와 문자로 등장
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장
+@cast PELL | 요란 펠, 이웃 대표단 기술 참사관, 38세. 현장 동행. 허구의 인물
+@cast COSSART | 베르나데트 코사르, «로슈브륀» 보호·관리 조합 회장, 59세. 현장 동행. 허구의 인물
+@cast ROTH | 안젤름 로트, «사르나즈 협동조합» 대표, 66세. 허구의 인물
+@cast VIDAL | 나딘 비달, «비달 인쇄소» 3대 주인, 63세. 인쇄 주문 장부를 보관. 허구의 인물
+@note 3부 8화(사건 C의 조사)입니다. 7화에서 합의한 현지 방문이 이웃 나라 사르나즈 계곡 협동조합의 숙성 저장고에서 이루어집니다. 이웃 나라가 «1957년 라벨»을 선행 사용의 증거로 냈는데, 해법의 순간은 쥘리앵의 엄지손가락입니다. 진짜 1950년대 활판 인쇄 라벨에는 글자가 종이에 눌린 자국(foulage)이 있는데, 증거 라벨은 매끈한 현대 오프셋 용지이고, 아래쪽 여백이 4밀리미터 짧게 잘려 있습니다. 비달 인쇄소의 주문 장부에는 두 건이 있습니다. 1957년 3월 «로슈브륀» 라벨 4천 장(활판)이라는 진짜 선행 사용의 기록, 그리고 1998년 협동조합 40주년 기념 복각판 5천 장(오프셋)입니다. 1957년 원본은 1982년 홍수로 잃었기 때문에, 복각판의 날짜와 여백이 손질되어 «원본처럼» 제출된 것입니다. 즉 사실(선행 사용)은 진짜이고 증거물이 가짜입니다. 디지털 증거 플랫폼에는 날짜가 «1957»로 입력되어 있었지만, 이력은 숨겨져 있었습니다. «종이에는 관리자 계정이 없습니다.» 역사 배경은 루이 14세 시대의 상업 규제입니다. 콜베르가 주도하고 자크 사바리가 기초에 참여한 1673년 3월 상사 칙령(Ordonnance de commerce, 흔히 «사바리 법전»)은 상인의 장부와 증서에 관한 규칙을 세웠고, 같은 시기 콜베르의 제조업 규칙은 제품에 제조 표지를 달게 했습니다(세부 조문은 발쿠르가 «기억이 정확하다면»이라고 단서를 붙입니다). 레아의 질문은 «가짜란 무엇인가»입니다. 쥘리앵은 결과를 곧바로 공개하지 않고 이웃 나라 대표단장이 스스로 물러설 길을 열어 두기로 합니다(9화 «체면»의 준비). 발루아/살 블랑슈는 플랫폼 이력 은닉과 «기술 자문»의 스캔 관여로 가볍게 연결됩니다. 어휘는 le foulage, le papier vergé, un registre paraphé, un faux, 접속법(il faut que, avant que, sans que)에 주목하세요.
+@next 3-9 «Le nom et la chose»: 쥘리앵은 증거를 공개적으로 터뜨리지 않고 마렉 대표단장에게 먼저 건넨다. 이름과 사물을 나눈 공동 원산지 협약이 이루어지고, 엘렌의 마지막 문자는 다른 사건, 테네레의 납치로 향한다.
+
+## 가짜란 무엇인가 — QU'EST-CE QU'UN FAUX ?
+CAMILLE: Je t'ai imprimé le dossier de l'association voisine. Quarante-deux pages, dont onze de photographies. Je te préviens, la plateforme impose un filigrane « Salle Blanche » au milieu de chaque page. Impossible de le supprimer. ||| 이웃 협회 서류를 인쇄했어. 마흔두 쪽, 그중 열한 쪽은 사진이야. 미리 말하는데 플랫폼이 쪽마다 한가운데 "살 블랑슈" 워터마크를 박아 놓아서 지울 수가 없어.
+JULIEN: Pose-le là. Je le lirai en entier, y compris les notes de bas de page. Qu'as-tu remarqué ? ||| 거기 놔. 각주까지 전부 읽을게. 뭐가 눈에 띄었어?
+CAMILLE: Trois choses. Un : la pièce de cinquante-sept est présentée comme « trouvée dans la cave de la coopérative », sans indication de la personne qui l'a trouvée. Deux : dans l'interface, le champ « date du document » affiche 1957, et il a été saisi à la main par un compte « admin association ». Trois : l'historique de ce champ est masqué. ||| 세 가지야. 하나, 57년 서류는 "협동조합 저장고에서 발견"이라고만 되어 있고 누가 찾았는지는 없어. 둘, 화면의 "문서 날짜" 칸에 1957이 뜨는데 "협회 관리자" 계정이 손으로 입력했어. 셋, 그 칸의 이력이 가려져 있어.
+JULIEN: Masqué, comme à Versailles. Cette plateforme a un goût constant pour l'effacement. ||| 베르사유 때처럼 가려졌군. 이 플랫폼은 지우는 취향이 한결같아.
+CAMILLE: Je ne dis pas que c'est faux. Je dis que je ne peux pas dire que c'est vrai. ||| 가짜라는 말이 아니야. 진짜라고 말할 수 없다는 거지.
+JULIEN: C'est la définition de notre métier. Note-la : « Nous ne pouvons pas affirmer l'authenticité ; nous pouvons établir les conditions dans lesquelles on peut l'affirmer. » ||| 그게 우리 일의 정의야. 적어 둬. "우리는 진정성을 단언할 수는 없고, 단언할 수 있는 조건을 세울 수는 있다."
+CAMILLE: Je l'écris. Archambault m'a déjà envoyé deux messages ce matin. Elle veut savoir si on peut « mettre l'adversaire en difficulté sur la pièce ». ||| 적을게. 아르샹보 비서실장님은 오늘 아침에 벌써 두 번이나 메시지를 보냈어. "상대를 그 서류로 곤란하게 만들 수 있는지" 알고 싶대.
+JULIEN: Réponds-lui : « Pas avant mercredi. » Je ne mets personne en difficulté sur une conjecture. ||| "수요일 전에는 안 됩니다"라고 답해. 추측만으로 누구를 곤란하게 만들지 않아.
+ARCHAMBAULT: Monsieur Delorme, je vous appelle directement. Je préfère ne pas écrire ce que je pense. ||| 들로름 씨, 직접 전화드립니다. 제 생각을 글로 쓰고 싶지 않아서요.
+JULIEN: Madame la chef de cabinet, vous qui m'imposez des rapports écrits. ||| 비서실장님, 저한테 서면 보고를 강요하시는 분이.
+ARCHAMBAULT: Justement. Si cette étiquette est un faux, nous gagnons ce dossier en un après-midi, et le ministre devient le défenseur des producteurs. Si nous la laissons passer et qu'elle est vraie, nous perdons l'appellation sur cette vallée. ||| 바로 그 때문이에요. 그 라벨이 가짜라면 우리는 오후 한나절에 이기고 장관님은 생산자들의 수호자가 되십니다. 그냥 넘겼는데 진짜라면 그 계곡에서 명칭을 잃고요.
+JULIEN: D'accord, mais il y a une troisième voie, qui est de ne pas gagner ce dossier en un après-midi. ||| 다코르, 메 세 번째 길이 있어요. 한나절에 이기지 않는 겁니다.
+ARCHAMBAULT: Vous aimez les choses compliquées. ||| 복잡한 걸 좋아하시는군요.
+JULIEN: Je déteste les choses compliquées. Mais elles me poursuivent. Je ferai un rapport après la cave, avec les faits seulement. ||| 복잡한 건 질색입니다. 그런데 자꾸 쫓아오는군요. 저장고 이후에 사실만 담은 보고서를 올리겠습니다.
+ARCHAMBAULT: Je vous demande une chose : pas de surprise publique. ||| 하나만 요구합니다. 공개적인 깜짝 사건은 없도록 하세요.
+JULIEN: Pas de surprise publique. La seule surprise sera peut-être pour moi. ||| 공개적인 깜짝 사건은 없습니다. 놀랄 사람이 있다면 아마 저겠죠.
+LÉA: Papa, est-ce que tu as dix minutes ? Je suis en permanence au lycée, c'est calme, je ne dérange pas. ||| 아빠, 십 분 시간 있어요? 학교 자습실인데 조용해서 방해되지 않을 거예요.
+JULIEN: Pour toi, quinze. ||| 너라면 십오 분.
+LÉA: Aujourd'hui, ma question n'est pas « Qu'est-ce qu'un nom ? » mais « Qu'est-ce qu'un faux ? » J'ai une idée : un faux, ce n'est pas un mensonge. Un mensonge dit une chose fausse. Un faux est une chose vraie qui se trouve au mauvais endroit dans le temps. ||| 오늘 질문은 "이름이란 무엇인가?"가 아니라 "가짜란 무엇인가?"예요. 제 생각은 이래요. 가짜는 거짓말이 아니에요. 거짓말은 틀린 것을 말해요. 가짜는 시간 속에서 엉뚱한 자리에 놓인 진짜 물건이에요.
+JULIEN: Une chose vraie au mauvais endroit dans le temps. Explique. ||| 시간 속 엉뚱한 자리의 진짜 물건. 설명해 보렴.
+LÉA: Un faux tableau, c'est un vrai tableau, peint par quelqu'un. Un faux billet est un vrai papier imprimé par un vrai graveur. Ce qui est faux, c'est la date, ou la main, ou le lieu qu'on lui attribue. ||| 가짜 그림은 누군가가 그린 진짜 그림이에요. 가짜 지폐는 진짜 조판공이 찍은 진짜 종이고요. 가짜인 건 그것에 붙인 날짜나 손이나 장소예요.
+JULIEN: Alors le contraire d'un faux serait... ||| 그럼 가짜의 반대는...
+LÉA: Une chose qui n'a pas besoin qu'on lui prête une date. Qui la porte dans sa matière. ||| 날짜를 빌려줄 필요가 없는 물건이요. 날짜를 자기 물질 안에 지니고 있는.
+JULIEN: Tu viens de me donner ma méthode pour mercredi. Merci. ||| 방금 수요일을 위한 내 방법을 줬구나. 고맙다.
+LÉA: Je ne sais pas ce que j'ai dit, mais de rien. ||| 제가 무슨 말을 했는지 모르겠지만, 천만에요.
+VALCOURT: Julien, je ne dérange pas ? Je te téléphone de la terrasse, Lisbonne est belle comme une boîte de sardines, tout le monde est serré mais content. ||| 쥘리앵, 방해가 아닌가? 테라스에서 전화하네. 리스본은 정어리 통조림처럼 예쁘다네. 모두 바싹 붙어 있지만 만족스러워하지.
+JULIEN: Monsieur, justement. Un conseil d'ancien sur les faux, les registres, et le temps. Vous avez parlé de Colbert une fois. ||| 선생님, 마침 잘 걸어 주셨습니다. 가짜, 장부, 시간에 관한 원로의 조언이 필요합니다. 한 번 콜베르를 말씀하셨죠.
+VALCOURT: Colbert ! Ah, Colbert aimait les registres comme d'autres aiment les églises. Mille six cent soixante-treize, si ma mémoire est bonne, l'Ordonnance de commerce, qu'on appelle parfois le Code Savary du nom du marchand qui y a beaucoup contribué. Elle règle la vie du négociant : la manière de tenir les livres, les journaux, les écritures, et leur valeur devant le juge. ||| 콜베르! 아, 콜베르는 남들이 성당을 좋아하듯 장부를 좋아했네. 기억이 정확하다면 1673년의 상사 칙령인데, 거기에 크게 기여한 상인의 이름을 따서 "사바리 법전"이라고도 부르지. 상인의 생활을 규율하네. 장부, 일지, 기록을 쓰는 방식과 재판관 앞에서의 효력까지.
+JULIEN: Une valeur devant le juge. Cela veut dire qu'un registre peut servir de preuve ? ||| 재판관 앞의 효력이라면, 장부가 증거가 될 수 있다는 뜻인가요?
+VALCOURT: Il doit être tenu dans les formes : feuillets numérotés, sans blancs, sans ratures. Je crois me souvenir qu'on les faisait signer et parapher par un juge. Je ne te garantis pas l'article, mais l'esprit est certain. Un livre de commerce est un témoin muet qui ne peut pas être retouché sans que cela se voie. ||| 형식을 갖춰 써야 했지. 쪽에 번호를 매기고, 빈칸도 지운 흔적도 없게. 판사가 서명하고 약식 서명을 하게 했던 걸로 기억하네. 조문까지 보증하진 않지만 취지는 확실하네. 상업 장부는 눈에 띄지 않게는 고칠 수 없는 말없는 증인이야.
+JULIEN: Un témoin muet qui ne peut pas être retouché. C'est ce que je cherche. ||| 말없는 증인, 고칠 수 없는. 제가 찾는 바로 그겁니다.
+VALCOURT: Et il y a l'autre face. À la même époque, Colbert exige que les étoffes portent la marque de leur manufacture, parfois au moyen d'un plomb. Si le drap est mauvais, on sait à qui s'en prendre. Le nom sur le produit est un acte de responsabilité, pas de décoration. ||| 그리고 다른 면이 있네. 같은 시기에 콜베르는 직물에 제조소 표지를 달게 했어. 때로는 납 봉인으로. 천이 나쁘면 누구 탓인지 알 수 있게 한 거지. 제품 위의 이름은 장식이 아니라 책임의 행위였네.
+JULIEN: Et l'origine de la marque, c'est la même idée que l'appellation. ||| 표지의 기원이 원산지 명칭과 같은 생각이군요.
+VALCOURT: Elles ont une grand-mère commune. Dernier conseil. Quand tu entres dans une cave, n'oublie pas qu'on y garde les fromages parce qu'il y fait froid et qu'on y garde les secrets pour la même raison. ||| 외할머니가 같은 사이지. 마지막 충고. 저장고에 들어가면 기억하게. 거기엔 서늘하니까 치즈를 두고, 같은 이유로 비밀도 둔다네.
+JULIEN: Je prends un manteau. ||| 외투를 챙기겠습니다.
+VALCOURT: Prends aussi un petit couteau. On ne sait jamais. ||| 작은 칼도 챙기게. 모르는 일이니까.
++ un faux = 위조품. 레아의 정의로는 진짜 물건이 엉뚱한 시간·장소에 놓인 것
++ une conjecture = 추측. 증거가 아닌 짐작으로 사람을 몰아세우지 않는다는 원칙
++ un registre paraphé = 약식 서명이 된 장부. 쪽마다 서명해 고쳐 쓰기를 막는 방식
++ en toutes formes / dans les formes = 형식을 갖추어. 법적 효력을 위한 형식 요건
++ si ma mémoire est bonne = 기억이 정확하다면. 발쿠르가 확신 없는 연도 앞에 붙이는 단서
++ le plomb de marque = 제조 표지용 납 봉인. 콜베르 시대 직물 규제의 상징
++ s'en prendre à quelqu'un = 누구를 탓하다. 책임 소재를 묻는 구어 표현
+
+## 수요일, 사르나즈 — MERCREDI, DANS LA SARNAZ
+PELL: Bienvenue dans la vallée de la Sarnaz, messieurs-dames. Les voitures se garent ici, pas plus haut, la route de la coopérative est trop étroite. ||| 사르나즈 계곡에 오신 것을 환영합니다, 여러분. 차는 여기 세워 주세요. 더 올라가면 협동조합 길이 너무 좁습니다.
+COSSART: Nous voilà de l'autre côté de la crête. Je constate que l'herbe est exactement la même. ||| 산등성이 반대편에 와 있군요. 풀이 똑같다는 건 인정하겠네요.
+PELL: Heureux qu'une Française l'admette. Madame Marek vous prie de l'excuser, elle suit la visite par téléphone depuis Bruxelles. Elle a une réunion avec la Commission. ||| 프랑스 분이 인정해 주셔서 기쁩니다. 마렉 대표님은 양해를 구하셨어요. 브뤼셀에서 집행위원회 회의가 있어 전화로 방문을 따라갑니다.
+JULIEN: Nous la saluons. Qui nous accueille ? ||| 안부 전해 주세요. 누가 맞아 주십니까?
+ROTH: Anselm Roth, président de la coopérative de la Sarnaz depuis vingt-deux ans. Entrez, entrez. Il fait quatre degrés dans la cave et quatre-vingt-quinze pour cent d'humidité. Les visiteurs apprécient surtout les dix premières minutes. ||| 안젤름 로트, 22년째 사르나즈 협동조합 대표입니다. 들어오세요, 들어오세요. 저장고는 4도에 습도 95퍼센트입니다. 손님들은 처음 십 분만 좋아하시죠.
+CAMILLE: Ça sent le sous-bois et la cave de campagne. J'adore. ||| 숲속 낙엽 냄새와 시골 저장고 냄새가 나요. 좋아요.
+ROTH: C'est l'odeur du Rochebrune de la Sarnaz, mademoiselle. Ou de la Sarnaz seule, comme disent certains. ||| 로슈브륀 드 라 사르나즈의 냄새입니다, 아가씨. 아니면 그냥 사르나즈의 냄새거나. 어떤 분들은 그렇게 부르시죠.
+COSSART: Monsieur Roth, nous avons un point de désaccord sur le nom. Mais je suis venue pour voir, pas pour me quereller. Vos planches en épicéa sont magnifiques. ||| 로트 씨, 이름에는 이견이 있습니다. 하지만 저는 싸우러 온 게 아니라 보러 왔어요. 가문비나무 선반이 훌륭하네요.
+ROTH: Elles ont l'âge de mon père. Je les ai nettoyées moi-même, mais je ne les ai pas changées. ||| 아버지 연세와 같은 선반입니다. 제가 직접 닦았지만 바꾸지는 않았어요.
+JULIEN: Monsieur Roth, nous sommes venus pour examiner une pièce en particulier, l'étiquette de mille neuf cent cinquante-sept. Où se trouve l'original ? ||| 로트 씨, 저희가 온 건 특정 서류 하나를 확인하기 위해서입니다. 1957년 라벨 말입니다. 원본은 어디 있습니까?
+ROTH: Dans la salle des archives, au fond. Nous avons gardé là toutes les anciennes étiquettes, les factures, les cahiers de livraison. Je vous guide. Attention à la marche. ||| 안쪽 문서 창고에 있습니다. 옛 라벨, 청구서, 납품 장부를 전부 거기에 뒀어요. 안내하죠. 계단 조심하세요.
+PELL: Je me permets de rappeler les conditions de la visite. Tout ce qui sera examiné sera examiné en présence des deux parties, et rien ne sera emporté sans accord. ||| 방문 조건을 다시 말씀드리겠습니다. 검사하는 모든 것은 양측이 입회한 상태에서 검사하고, 합의 없이는 아무것도 가지고 나가지 않습니다.
+JULIEN: Nous sommes d'accord. Camille, tu photographies chaque geste. ||| 동의합니다. 카미유, 모든 동작을 사진으로 찍어 줘.
+CAMILLE: Chaque geste. Et chaque phrase, avec leur permission. ||| 모든 동작을요. 허락을 받으면 모든 문장도요.
+ROTH: Vous pouvez enregistrer, je n'ai rien à cacher. Voici notre salle. Les murs sont en pierre, la température est constante, le papier s'y conserve très bien. ||| 녹음하셔도 됩니다. 숨길 건 없어요. 여기가 저희 방입니다. 벽은 돌이고 온도가 일정해서 종이가 잘 보존돼요.
+COSSART: Quelle propreté. Les boîtes sont étiquetées, classées, datées. ||| 깨끗하네요. 상자마다 라벨이 붙고 분류되고 날짜가 적혀 있고.
+ROTH: C'est ma fille qui l'a organisé. Elle a mis tout cela en ordre cet hiver. ||| 제 딸이 정리했어요. 이번 겨울에 전부 정돈했죠.
+JULIEN: Cet hiver. Avant ou après l'ouverture du dossier de dénomination ? ||| 이번 겨울이라. 명칭 서류를 연 것보다 전입니까, 후입니까?
+ROTH: Pendant. Un monsieur de la capitale est venu nous aider, un jeune homme en veste bleue. Il nous a dit qu'il fallait « numériser pour sauver ». ||| 도중에요. 수도에서 어떤 분이 도우러 왔어요. 파란 재킷을 입은 젊은 사람이었는데, "살리려면 디지털화해야 한다"고 하더군요.
+CAMILLE: Veste bleue. Intéressant. ||| 파란 재킷이라. 흥미롭네요.
+ROTH: Il a emporté quelques pièces pour les scanner, et il les a rapportées le lendemain. Très poli. Voilà la boîte « 1957 ». ||| 몇 점을 스캔하겠다고 가져갔다가 다음 날 돌려줬어요. 아주 정중했죠. 여기 "1957" 상자입니다.
+JULIEN: Madame Cossart, monsieur Pell, je vous propose que nous ouvrions la boîte ensemble, et que chacun dise à voix haute ce qu'il voit, avant de dire ce qu'il en pense. ||| 코사르 회장님, 펠 참사관님, 상자를 함께 열고 각자 생각을 말하기 전에 본 것을 소리 내어 말하는 걸 제안합니다.
+PELL: Excellente méthode. Qui commence ? ||| 훌륭한 방법이네요. 누가 먼저 할까요?
+COSSART: Moi. Une chemise cartonnée grise. Une étiquette de format rectangulaire, huit centimètres sur douze, impression en vert et en noir. Le texte : « Coopérative de la Sarnaz – Rochebrune – 1957 ». ||| 제가 하죠. 회색 마분지 서류철. 직사각형 라벨, 8센티미터 곱하기 12센티미터, 초록과 검정 인쇄. 문구는 "사르나즈 협동조합 – 로슈브륀 – 1957".
+PELL: Je vois la même chose. Le papier est légèrement jauni sur les bords, avec une petite tache d'humidité à droite. ||| 저도 같은 걸 봅니다. 종이는 가장자리가 약간 누렇고 오른쪽에 습기 얼룩이 조금 있습니다.
+JULIEN: Je vois la même étiquette. Puis-je la prendre ? ||| 저도 같은 라벨을 봅니다. 집어 봐도 될까요?
+ROTH: Prenez, prenez. Elle ne se brise pas. ||| 집으세요. 부서지지 않습니다.
++ la cave d'affinage = 숙성 저장고. 치즈를 서늘하고 습한 곳에서 익히는 지하 공간
++ le désaccord = 이견. 정중하게 입장 차를 인정하는 표현
++ en présence des deux parties = 양측 입회하에. 증거 확인의 절차적 공정성
++ à voix haute = 소리 내어. 해석 전에 관찰부터 말하게 하는 쥘리앵의 방법
++ numériser pour sauver = 디지털화해 살리다. 로트가 전한 파란 재킷 청년의 문구
++ une chemise cartonnée = 마분지 서류철. 오래된 서류 보관 도구
++ avant de dire ce qu'on en pense = 생각을 말하기 전에. avant de + 부정법으로 순서를 정하는 구문

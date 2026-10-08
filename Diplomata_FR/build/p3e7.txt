@@ -1,0 +1,217 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 7
+@title Le fromage et le droit
+@ko 치즈와 법
+@setting 파리 들로름의 집 저녁 식탁(금요일 밤) → 파리 12구 알리그르 시장 치즈 가게(토요일 아침) → 들로름의 집 서재와 전화(일요일 오후) → 브뤼셀 유럽연합 집행위원회 건물 회의실(월요일 9시~13시) → 브뤼셀 북역 승강장(월요일 저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세. 리옹 부숑 집안의 아들
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 철학 시험 준비 중
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장. 접촉마다 서면 보고를 요구한다
+@cast RAVEL | 가스통 라벨, 은퇴를 앞둔 치즈 상인, 68세. 리옹 출신, 쥘리앵 아버지 식당에 치즈를 대던 사람. 허구의 인물
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 전화와 문자로 등장
+@cast MAREK | 엘다 마렉, 이웃 EU 회원국 농업부 대표단장, 51세. 나라 이름은 밝히지 않는다. 허구의 인물
+@cast PELL | 요란 펠, 같은 대표단의 기술 참사관, 38세. 허구의 인물
+@cast COSSART | 베르나데트 코사르, «로슈브륀» 보호·관리 조합 회장, 59세. 허구의 인물
+@cast HAAS | 카트린 하스, 집행위원회 농산물 품질 정책 실무그룹 의장, 54세. 허구의 인물
+@cast RIVE | 콜랭 리브, 발루아 어드바이저리 사원(30%), 이웃 나라 생산자 협회의 «기술 자문»으로 참관
+@note 3부 7화(사건 C의 시작: 원산지 분쟁)입니다. 사건은 허구의 치즈 «로슈브륀(Rochebrune)»을 둘러싼 것입니다. 프랑스는 오래전에 이 이름을 원산지 명칭(AOP)으로 등록했는데, 국경 너머 «사르나즈 계곡»의 이웃 나라 생산자들이 «로슈브륀 드 라 사르나즈»라는 상표를 큼직하게 달고 팝니다. 프랑스는 «연상(évocation)»을 금지하는 유럽 규정을 들고, 이웃 나라는 «같은 계곡, 같은 레시피, 먼저 쓴 이름»이라고 맞섭니다. 해법의 순간은 알리그르 시장의 치즈 상인 라벨이 던진 한마디입니다. «이름이 맛이에요(Le nom, c'est le goût).» 쥘리앵은 이를 월요일 브뤼셀 회의에서 «이름은 땅에 대한 약속이고, 약속은 증명할 수 있어야 한다»는 틀로 바꿔 협상의 초점을 «누가 이름을 훔쳤나»에서 «이름이 무엇을 약속하나»로 옮깁니다. 역사 배경은 1855년 보르도 와인 등급과 원산지 보호의 계보입니다. 1855년 등급은 파리 만국박람회를 위해 보르도 중개인들이 오랜 거래 가격에 따라 매긴 것으로 법적 보호가 아니었고, 법적 보호는 1905년 사기 단속법, 1919년 원산지 명칭법, 1935년 AOC 제도, 그리고 치즈로는 1925년 로크포르 법으로 이어집니다(로크포르의 특권은 1411년 샤를 6세까지 거슬러 올라갑니다). 발루아 쪽은 이웃 나라 생산자들의 «기술 자문»으로 회의장에 나타나 «살 블랑슈» 공유 작업 공간에 증거 서류를 올려 두자고 합니다. 가볍게 다루지만 다음 화의 단서가 됩니다. 어휘는 une appellation d'origine, l'évocation, la dénomination, un cahier des charges, 접속법(il faut que, bien que, pourvu que)에 주목하세요.
+@next 3-8 «La cave»: 이웃 나라가 «1957년 라벨»이라는 증거를 내밀고, 국경 계곡의 지하 숙성 저장고에서 라벨 인쇄 기록과 종이의 질감이 날짜를 배반한다.
+
+## 빵과 이름 — LE PAIN ET LE NOM
+LÉA: Voilà le pain. Une demi-baguette, parce que tu avais dit « apporte du pain » et pas « apporte du pain pour six ». ||| 빵 가져왔어요. 반 개짜리 바게트예요. 아빠가 "빵을 가져와"라고 했지 "여섯 명분 빵을 가져와"라고는 안 했으니까요.
+JULIEN: Précision admirable. Pose-la sur la table, et dis-moi ta question avant que la soupe refroidisse. ||| 감탄스러울 만큼 정확하구나. 식탁에 놓고, 수프 식기 전에 질문부터 말해 보렴.
+LÉA: « Qu'est-ce qu'un nom ? » Je propose trois définitions. Un : une étiquette qu'on colle sur une chose. Deux : un souvenir qu'on garde d'une chose. Trois : une promesse qu'on fait à propos d'une chose. ||| "이름이란 무엇인가?" 정의를 세 개 제안할게요. 하나, 사물에 붙이는 딱지. 둘, 사물에 대해 간직하는 기억. 셋, 사물에 대해 하는 약속.
+JULIEN: Et laquelle te plaît ? ||| 어느 게 마음에 드니?
+LÉA: Aucune, c'est ça le problème. Chacune est vraie un jour sur deux. Mon prof dit que c'est le signe d'une bonne question. Moi je trouve que c'est le signe d'une mauvaise nuit. ||| 하나도요, 그게 문제예요. 셋 다 이틀에 하루는 맞아요. 선생님은 좋은 질문의 증거래요. 저는 잠을 설친 증거 같고요.
+JULIEN: Je vais te raconter quelque chose, et tu me diras laquelle des trois définitions je viens d'illustrer. ||| 이야기 하나 해 줄게. 그걸 듣고 내가 방금 세 정의 중 어느 걸 보여 준 건지 말해 보렴.
+LÉA: D'accord. Mais je note. ||| 좋아요. 대신 받아 적을게요.
+JULIEN: Le bouchon de mon père s'appelait « Chez Mélanie », du nom de ma grand-mère. Rue des Marronniers, à Lyon. Mélanie était morte avant ma naissance, mais tout le monde disait « chez Mélanie » comme si elle allait sortir de la cuisine avec un tablier. ||| 우리 아버지 부숑 이름이 "슈 멜라니"였어. 할머니 이름을 땄지. 리옹 마로니에 거리(rue des Marronniers)에 있었지. 멜라니 할머니는 내가 태어나기 전에 돌아가셨지만, 사람들은 늘 마치 할머니가 앞치마를 두르고 주방에서 나올 것처럼 "멜라니네"라고 불렀지.
+LÉA: Donc le nom, c'était la grand-mère. Définition deux. ||| 그럼 이름은 할머니였네요. 정의 둘.
+JULIEN: Attends la suite. À la fin du repas, on servait de la cervelle de canut. Du fromage blanc battu, avec de l'échalote, de la ciboulette, un filet de vinaigre. ||| 뒷이야기를 들어 봐. 식사 끝에는 "세르벨 드 카뉘"를 냈어. 휘저은 프로마주 블랑에 샬롯, 차이브, 식초 몇 방울을 넣은 거야.
+LÉA: De la cervelle ? Il y a de la cervelle dedans ? ||| 뇌요? 안에 뇌가 들어 있어요?
+JULIEN: Pas une once. Les canuts, ce sont les ouvriers de la soie, à Lyon. Ils mangeaient ça parce que c'était bon marché. Le nom est une plaisanterie : il dit « c'est la nourriture de ceux qui travaillent avec leur tête ». Il ne décrit pas le plat, il raconte ceux qui le faisaient. ||| 한 조각도 없단다. 카뉘는 리옹의 견직공들이야. 값이 싸서 그걸 먹었지. 이름은 농담이야. "머리로 일하는 사람들의 음식"이라는 뜻이지. 요리를 묘사하는 게 아니라 만든 사람들을 이야기하는 이름이야.
+LÉA: Alors c'est encore la définition deux : un souvenir. Mais ça ne promet rien. Si ton père avait mis des cornichons au lieu de l'échalote, personne n'aurait porté plainte. ||| 그럼 또 정의 둘, 기억이네요. 하지만 약속은 아니에요. 아빠네 아버지가 샬롯 대신 오이 피클을 넣었어도 아무도 고소하지 않았을 거예요.
+JULIEN: Si. Mon père. Il aurait porté plainte contre lui-même. ||| 했을걸. 우리 아버지가. 자기 자신을 고소했을 거다.
+LÉA: Ha. Et pour les autres noms de la table ? ||| 하하. 그럼 식탁의 다른 이름들은요?
+JULIEN: Il y avait un autre rite. Le dimanche matin, mon père m'emmenait au marché du quai Saint-Antoine. J'avais neuf ans. Chez le fromager, un grand type avec un tablier couleur de crème me faisait fermer les yeux et goûter un petit morceau. « Alors, mon petit, c'est quoi ? » ||| 다른 의식도 있었어. 일요일 아침마다 아버지가 생앙투안 부두 시장에 데려갔지. 아홉 살 때였어. 치즈 가게의 키 큰 아저씨가 크림색 앞치마를 두르고 나한테 눈을 감게 한 뒤 한 조각을 맛보게 했어. "자, 꼬마야, 이게 뭐게?"
+LÉA: Tu répondais quoi ? ||| 뭐라고 대답했어요?
+JULIEN: Je disais un nom. Il disait : « Non. Ça, c'est le nom de la boîte. Dis-moi plutôt où elle a mangé l'herbe, la vache. » À neuf ans, je ne savais pas ce que ça voulait dire. À quarante-sept, je commence. ||| 이름을 댔지. 아저씨는 말했어. "아니야. 그건 상자 이름이고. 그 소가 어디서 풀을 먹었는지 말해 보렴." 아홉 살엔 무슨 말인지 몰랐어. 마흔일곱이 된 지금에야 알아 가는 중이야.
+LÉA: Donc, pour toi, un nom de fromage, c'est la définition trois. Une promesse sur l'endroit. ||| 그럼 아빠에게 치즈 이름은 정의 셋이네요. 장소에 대한 약속.
+JULIEN: C'est peut-être pour ça que le cabinet m'envoie à Bruxelles lundi avec un seul mot dans le mail. ||| 그래서 비서실이 월요일에 날 브뤼셀로 보내면서 메일에 단어 하나만 적었는지도 모르겠다.
+LÉA: « Fromage ». Camille me l'a dit au téléphone. Elle trouvait ça très drôle. ||| "치즈"요. 카미유 언니가 전화로 말해 줬어요. 아주 재미있어하던데요.
+JULIEN: Camille n'a pas de père lyonnais. Elle ne mesure pas la gravité. ||| 카미유는 리옹 출신 아버지가 없잖니. 이게 얼마나 중대한지 몰라.
+LÉA: Papa, sérieusement. Qu'est-ce qui se passe avec ce fromage ? ||| 아빠, 진지하게요. 그 치즈에 무슨 일이 있어요?
+JULIEN: Un fromage de montagne français qui s'appelle le Rochebrune. Appellation d'origine protégée depuis près de trente ans. De l'autre côté de la crête, dans la vallée de la Sarnaz, des producteurs du pays voisin vendent un fromage presque identique sous le nom « Rochebrune de la Sarnaz ». ||| 프랑스 산악 치즈 중에 "로슈브륀"이라는 게 있어. 거의 삼십 년째 원산지 보호 명칭(AOP)이야. 산등성이 너머 사르나즈 계곡에서 이웃 나라 생산자들이 거의 똑같은 치즈를 "로슈브륀 드 라 사르나즈"라는 이름으로 팔고 있어.
+LÉA: Presque identique, c'est-à-dire que le fromage est le même, mais pas le droit de dire son nom. ||| 거의 똑같다는 건, 치즈는 같은데 이름을 부를 권리는 같지 않다는 거네요.
+JULIEN: Tu as résumé le dossier en une phrase. Je devrais te payer. ||| 서류 전체를 한 문장으로 요약했구나. 월급을 줘야겠다.
+LÉA: Je préfère un mot de passe pour la salle des archives, mais bon. ||| 저는 문서고 비밀번호가 더 좋은데요. 뭐, 어쨌든.
+JULIEN: Mange ta soupe. Et prends le pain. Il n'a pas de nom, mais il a un goût. ||| 수프 먹어라. 빵도 먹고. 이름은 없어도 맛은 있으니까.
+ARCHAMBAULT: Monsieur Delorme, pardon de vous déranger à l'heure du dîner. C'est Solène Archambault. Le ministre a vu l'agriculture ce soir. Il veut un accord avant la fin de la semaine. ||| 들로름 씨, 저녁 시간에 죄송합니다. 솔렌 아르샹보예요. 장관님이 오늘 저녁 농업부와 만나셨어요. 이번 주 안에 합의를 원하십니다.
+JULIEN: Avant la fin de la semaine, pour un nom que personne n'a réussi à régler en trente ans ? ||| 삼십 년 동안 아무도 해결하지 못한 이름 문제를 주말 전에요?
+ARCHAMBAULT: La Commission réunit un groupe de travail lundi, neuf heures. Si nous arrivons les mains vides, ils lanceront la procédure contentieuse. Les producteurs de chez nous sont très mobilisés, ils bloquent déjà une autoroute. ||| 집행위원회가 월요일 9시에 실무그룹을 엽니다. 빈손으로 가면 분쟁 절차를 시작할 거예요. 우리 쪽 생산자들은 벌써 고속도로를 막을 정도로 격앙돼 있고요.
+JULIEN: Je prends le dossier. Mais je vous préviens : un nom ne se règle pas comme un contrat. Je voudrais voir le cahier des charges avant tout. ||| 서류는 받겠습니다. 하지만 미리 말씀드리죠. 이름은 계약처럼 정리되지 않아요. 무엇보다 제조 규격서부터 보고 싶습니다.
+ARCHAMBAULT: Camille Roussel l'a. Je vous rappelle ma condition : rapport écrit après chaque contact avec l'autre partie. ||| 카미유 루셀이 갖고 있어요. 제 조건을 다시 말씀드립니다. 상대측과의 접촉마다 사후 서면 보고서요.
+JULIEN: Chaque contact. Même un morceau de fromage. ||| 접촉마다요. 치즈 한 조각이라도요.
+ARCHAMBAULT: Même un morceau de fromage. Bonne soirée, monsieur Delorme. ||| 치즈 한 조각이라도요. 좋은 저녁 되세요, 들로름 씨.
+LÉA: Elle ne rit jamais, ta chef de cabinet. ||| 아빠 비서실장님은 절대 안 웃으시네요.
+JULIEN: Elle rit. Mais pas avant la fin du mois. ||| 웃으셔. 월말 지나서야 웃으시지만.
++ le goût du terroir = 풍토의 맛. 치즈·와인에서 땅과 기후가 맛에 남긴다는 프랑스적 관념
++ une appellation d'origine protégée (AOP) = 원산지 보호 명칭. 유럽연합 차원의 보호 표시
++ un cahier des charges = 제조 규격서. 지역·원료·방법을 정한 명칭 보호의 핵심 문서
++ porter plainte contre quelqu'un = ~를 고소하다. 쥘리앵의 농담에서 아버지가 자신을 고소한다는 과장
++ ne pas mesurer la gravité = 심각성을 가늠하지 못하다. 쥘리앵이 카미유를 놀리는 표현
++ avant que la soupe refroidisse = 수프가 식기 전에. avant que 뒤에는 접속법(refroidisse)
++ lancer la procédure contentieuse = 분쟁 절차를 개시하다. 협상이 실패하면 법정으로 간다는 뜻
+
+## 알리그르 시장 — LE MARCHÉ D'ALIGRE
+CAMILLE: Tu es en retard de dix minutes. Je me suis permis de commencer sans toi, j'ai déjà regardé cinq fromageries. ||| 십 분 늦었어. 먼저 시작했어. 벌써 치즈 가게 다섯 군데를 봤어.
+JULIEN: J'ai croisé un café. Je suis un homme faible. ||| 카페 하나를 지나쳤거든. 나는 의지가 약한 사람이야.
+CAMILLE: Moi, j'ai croisé un fromager. Celui-ci, au coin. Il s'appelle Gaston Ravel. Il vient de Lyon, il a soixante-huit ans, et il m'a demandé si j'étais « la fille du dossier ». ||| 나는 치즈 상인 한 분을 지나쳤어. 저기 모퉁이 분. 가스통 라벨이래. 리옹 출신에 예순여덟 살이고, 나더러 "그 서류 아가씨"냐고 묻더라고.
+JULIEN: Ravel. Gaston Ravel. Mais c'est lui ! Il venait chez Mélanie le jeudi, avec des caisses de saint-marcellin. ||| 라벨. 가스통 라벨. 바로 그 사람이야! 목요일마다 멜라니네에 와서 생마르슬랭 상자를 내려놓던 분이야.
+RAVEL: Delorme. Le petit Julien. Tu as grandi dans le mauvais sens, tu as pris dix centimètres en hauteur et dix ans en sérieux. ||| 들로름. 꼬마 쥘리앵. 이상하게 컸구나. 키는 십 센티, 진지함은 십 년이 늘었어.
+JULIEN: Monsieur Ravel. On m'a dit que vous aviez quitté Lyon. ||| 라벨 씨. 리옹을 떠나셨다고 들었어요.
+RAVEL: J'ai quitté Lyon, pas les fromages. Ma fille est à Paris, je tiens ce comptoir depuis vingt ans. Dis donc, ton père, comment va-t-il ? ||| 리옹을 떠났지, 치즈를 떠난 건 아니야. 딸이 파리에 있어서 이십 년째 이 가판대를 지키고 있어. 그런데 자네 아버지는 어떻게 지내시나?
+JULIEN: Il est mort il y a six ans. Mais le bouchon a continué, avec mon cousin. ||| 육 년 전에 돌아가셨어요. 하지만 부숑은 사촌이 이어받았어요.
+RAVEL: Je suis désolé. C'était un homme qui ne mentait pas sur l'assiette. Quand il disait « C'est du comté de dix-huit mois », c'était du dix-huit mois, pas du dix-sept. ||| 안됐구나. 접시 위에서는 거짓말을 안 하는 사람이었지. "콩테 18개월입니다" 하면 정말 18개월이었어. 17개월이 아니라.
+CAMILLE: Monsieur Ravel, on a besoin de votre palais. On est ici pour une affaire de fromage et de frontière. ||| 라벨 씨, 선생님의 미각이 필요해요. 치즈와 국경 문제로 왔거든요.
+RAVEL: Je sais. Mademoiselle m'a dit. Le Rochebrune et son cousin de l'autre côté. Je les ai tous les deux. Venez, je vous mets un plateau. ||| 알아요. 아가씨가 말했지. 로슈브륀과 반대편 사촌. 둘 다 갖고 있어. 이리 와요, 쟁반에 차려 줄게.
+JULIEN: Tous les deux ? Le fromage du pays voisin se trouve chez vous, sous un autre nom ? ||| 둘 다요? 이웃 나라 치즈가 여기에 다른 이름으로 있다고요?
+RAVEL: Sous son vrai nom, « Rochebrune de la Sarnaz ». Les clients qui n'ont pas lu l'étiquette jusqu'au bout pensent que c'est une variante. Ils ne se trompent pas tout à fait. Tiens, ferme les yeux. ||| 진짜 이름으로요, "로슈브륀 드 라 사르나즈". 라벨을 끝까지 안 읽은 손님들은 변종인 줄 알아요. 완전히 틀린 건 아니지. 자, 눈 감아 봐.
+JULIEN: Comme à neuf ans. ||| 아홉 살 때처럼요.
+RAVEL: Comme à neuf ans. Premier morceau. ||| 아홉 살 때처럼. 첫 번째 조각.
+JULIEN: Croûte brossée. Une noisette, du foin coupé. Un peu de cave, un peu de fruit. C'est long en bouche. ||| 솔로 닦은 껍질이네요. 개암, 베어 낸 건초 향. 지하 저장고 냄새가 조금, 과일이 조금. 입안에서 길게 남아요.
+RAVEL: Deuxième morceau. ||| 두 번째 조각.
+JULIEN: Même famille. Peut-être plus rond, un peu plus de sel. Une noisette plus petite, mais le foin est là. Je n'aurais pas su dire lequel est lequel. ||| 같은 가문이에요. 조금 더 둥글고 소금기가 약간 더 있어요. 개암 향은 작지만 건초는 있어요. 어느 쪽이 어느 쪽인지 말하지 못했을 거예요.
+CAMILLE: Moi, j'ai trouvé que le premier était plus vif. Mais c'est peut-être parce que je savais que c'était le premier. ||| 나는 첫 번째가 더 생기 있다고 느꼈어. 하지만 첫 번째라는 걸 알고 있어서일지도 몰라.
+RAVEL: Voilà tout le problème. Les deux sont bons. Le premier est celui des estives de la montagne, au lait cru, trois mois de cave minimum. Le second est celui de la vallée d'à côté, au lait de vaches qui broutent la même herbe, mais de l'autre côté de la ligne qu'on a tracée sur la carte il y a deux siècles. ||| 문제가 바로 그거예요. 둘 다 맛있어요. 첫 번째는 산 고원 목초지의 생우유, 최소 석 달 저장고 숙성이고, 두 번째는 옆 계곡 거예요. 똑같은 풀을 뜯는 소의 젖이지만 이백 년 전에 지도에 그어진 선 반대편에서요.
+JULIEN: Alors dites-moi, monsieur Ravel, vous qui vendez les deux. Quel est le vrai problème ? Le goût est le même, la recette est la même. Pourquoi tant de colère ? ||| 그럼 말씀해 주세요, 라벨 씨. 둘 다 파시는 분으로서. 진짜 문제가 뭔가요? 맛도 같고 레시피도 같은데 왜 그리 화가 났을까요?
+RAVEL: Parce que vous cherchez au mauvais endroit, Delorme. Vous croyez que la colère vient du goût. Elle vient du nom. Le nom, c'est le goût. ||| 엉뚱한 곳에서 찾고 있으니까, 들로름. 화가 맛에서 온다고 생각하지. 화는 이름에서 와. 이름이 맛이야.
+JULIEN: Expliquez. ||| 설명해 주세요.
+RAVEL: Quand un client entre ici et dit « Je voudrais du Rochebrune », il goûte l'herbe de juillet avant d'avoir mordu. Le nom a déjà fait la moitié du travail dans sa tête. Pour ça, il a payé plus cher. Si le même mot est collé sur un autre fromage, le client paie la même chose pour une promesse que personne n'a gardée à sa place. Ce n'est pas du fromage qu'on vole, c'est de la promesse. ||| 손님이 여기 들어와 "로슈브륀 주세요" 하면, 깨물기도 전에 칠월의 풀을 맛봐요. 이름이 이미 머릿속에서 일의 절반을 한 거지. 그 값을 더 낸 거고. 같은 말이 다른 치즈에 붙으면, 손님은 같은 돈을 내면서 누구도 그 자리에서 지키지 않은 약속을 산 게 돼요. 훔치는 건 치즈가 아니라 약속이야.
+CAMILLE: Donc la question n'est pas « le fromage voisin est-il bon ? » Il est bon. La question est : « Qu'est-ce que le nom promet, et qui le garantit ? » ||| 그러니까 질문은 "이웃 치즈가 좋은가?"가 아니에요. 좋거든요. 질문은 "이름이 무엇을 약속하고, 누가 보증하는가?"네요.
+RAVEL: Mademoiselle comprend plus vite que le Quai d'Orsay. ||| 아가씨가 케도르세보다 이해가 빠르네.
+JULIEN: C'est une phrase que je vais retenir : le nom, c'est le goût. Parce que si c'est vrai, on ne peut pas régler cela en changeant seulement l'étiquette. Il faut changer ce que l'étiquette promet. ||| 기억해 둘 문장이에요. 이름이 맛이라면, 라벨만 바꿔서는 이 문제를 풀 수 없어요. 라벨이 약속하는 내용을 바꿔야 해요.
+RAVEL: Ou ce qu'on est capable de prouver. Dans mon métier, on ne vend pas ce qu'on ne peut pas prouver. Un client qui me demande « C'est vraiment de là-haut ? », je lui montre le certificat du producteur. Il le lit. Ça change son goût. ||| 아니면 증명할 수 있는 것을요. 내 일에서는 증명 못 하는 건 팔지 않아요. 손님이 "정말 저 위에서 난 거예요?" 하고 물으면 생산자 증명서를 보여 줘요. 읽으면 맛이 달라져요.
+JULIEN: D'accord, mais il y a un obstacle. Le pays voisin dit que son nom est antérieur au nôtre. Que leurs grands-parents faisaient déjà du Rochebrune avant la création de l'appellation. ||| 다코르, 메 장애물이 있어요. 이웃 나라는 자기네 이름이 우리 것보다 앞선다고 해요. 명칭이 생기기 전부터 조부모들이 이미 로슈브륀을 만들었다고요.
+RAVEL: Peut-être que c'est vrai. Les montagnes ne lisent pas les traités. Mais si c'est vrai, ils doivent le prouver, eux aussi. Pas avec des souvenirs. Avec du papier. ||| 아마 사실일 거예요. 산은 조약을 읽지 않으니까. 하지만 사실이라면 그쪽도 증명해야 해. 추억이 아니라 종이로.
+CAMILLE: Du papier. J'ai remarqué que leur dossier de preuves est hébergé sur une plateforme partagée. Avec un nom très blanc. ||| 종이로요. 그쪽 증거 서류가 공유 플랫폼에 올라와 있더라고요. 아주 하얀 이름의 플랫폼에.
+JULIEN: Je ne dirai rien avant d'avoir lu. Monsieur Ravel, combien je vous dois pour le plateau ? ||| 읽기 전에는 아무 말 안 하겠어. 라벨 씨, 쟁반 값이 얼마죠?
+RAVEL: Rien. Mais dis à ton cabinet une chose de ma part : si on tranche cette affaire à coups de communiqués, un jour, un gamin goûtera ces deux fromages les yeux fermés et il ne saura plus lequel est de chez nous. Alors là, on aura vraiment perdu quelque chose. ||| 공짜야. 대신 자네 비서실에 내 말을 전해. 이 일을 성명서로 결판내면, 언젠가 어떤 아이가 눈을 감고 두 치즈를 맛본 뒤 어느 쪽이 우리 건지 모르게 될 거야. 그때는 정말로 무언가를 잃은 거지.
+JULIEN: Je lui dirai. Par écrit, c'est la règle. ||| 전하겠습니다. 서면으로요, 그게 규칙이라서요.
+RAVEL: Ton père serait content. Il aimait les règles qui servent à quelque chose. ||| 아버지가 좋아하셨겠다. 쓸모 있는 규칙을 좋아하셨지.
++ la fille du dossier = 서류 아가씨. 라벨이 카미유를 놀리듯 부르는 구어적 별명
++ les estives = 여름 고원 목초지. 산악 치즈 규격서에 자주 나오는 말
++ le lait cru = 생우유(살균하지 않은 우유). 원산지 보호 치즈 규격의 핵심 조건
++ un cousin = (치즈의) 사촌. 같은 계통 제품을 가리키는 구어적 비유
++ le nom, c'est le goût = 이름이 맛이다. 이름이 소비자의 기대를 이미 맛으로 만든다는 해법의 문장
++ une promesse = 약속. 이름이 보증하는 장소와 방식
++ ce qui change son goût = 그것이 맛을 바꾼다. 증명이 소비자의 감각까지 바꾼다는 라벨의 논리
+## 1855년의 등급 — LE CLASSEMENT DE 1855
+VALCOURT: Allô, Julien ? Je mange de la serra da Estrela au bout du fil, ne t'étonne pas si je mâche. Ton cabinet m'a téléphoné, enfin, le mien, c'est-à-dire Lisbonne. Raconte. ||| 여보세요, 쥘리앵? 전화기 너머로 세하 다 에스트렐라를 먹고 있으니 씹는 소리가 들려도 놀라지 말게. 자네 비서실이 전화했네, 아니, 내 비서실, 즉 리스본에서. 말해 보게.
+JULIEN: Monsieur, j'ai besoin d'une histoire. Pas d'un cours, d'une histoire. Un nom, une montagne, une frontière, et deux pays qui se disputent un mot. ||| 선생님, 이야기가 필요합니다. 강의 말고 이야기요. 이름 하나, 산 하나, 국경 하나, 그리고 단어 하나를 두고 싸우는 두 나라.
+VALCOURT: Alors prends un verre de vin et écoute. Bordeaux, mille huit cent cinquante-cinq. L'Empereur organise l'Exposition universelle de Paris et il veut montrer au monde ce que la France sait faire. La Chambre de commerce de Bordeaux demande aux courtiers, les intermédiaires qui vendent le vin, de classer les crus de la Gironde. ||| 그럼 포도주 한 잔 들고 들어 보게. 보르도, 1855년. 황제가 파리 만국박람회를 열고, 프랑스가 무엇을 할 수 있는지 세계에 보여 주고 싶어 하네. 보르도 상공회의소가 중개인들, 즉 포도주를 파는 중간상들에게 지롱드 포도원들의 등급을 매겨 달라고 부탁하지.
+JULIEN: Et sur quel critère ? Le goût ? ||| 기준은 뭐였습니까? 맛이요?
+VALCOURT: Le prix. Ils ont classé selon le prix que le vin avait atteint, depuis plus d'un siècle, sur leur marché. Une soixantaine de crus rouges du Médoc, plus un de Graves, rangés en cinq rangs, et les liquoreux à part. Les quatre premiers crus d'alors sont restés célèbres. ||| 가격이야. 한 세기 넘게 그 시장에서 포도주가 받은 값에 따라 분류했지. 메독의 붉은 포도주 육십 곳 남짓에 그라브 한 곳을 더해 다섯 등급으로 나누고, 달콤한 포도주는 따로 두었네. 그때의 일등급 네 곳은 지금도 유명하지.
+JULIEN: Autrement dit, un classement qui n'était pas une loi. ||| 다시 말해 법이 아닌 등급이었군요.
+VALCOURT: Exactement. C'était une réputation mise en tableau. Pas une protection. N'importe qui pouvait coller un beau nom sur une bouteille. Le XIXᵉ siècle a vu proliférer les faux « Bordeaux », « Champagne », « Cognac ». Il a fallu trois tournants. La loi sur les fraudes de mille neuf cent cinq. La loi de mille neuf cent dix-neuf, qui confie au juge la délimitation de l'origine. Et le décret-loi de mille neuf cent trente-cinq, qui crée les appellations d'origine contrôlées. ||| 바로 그거지. 명성을 표로 만든 것이었네. 보호가 아니었어. 누구든 병에 그럴듯한 이름을 붙일 수 있었지. 19세기에는 가짜 "보르도", "샹파뉴", "코냑"이 득실거렸네. 세 번의 전환이 필요했어. 1905년의 사기 단속법. 법원이 원산지의 경계를 정하게 한 1919년의 법. 그리고 원산지 통제 명칭을 만든 1935년의 법률명령.
+JULIEN: Et le fromage ? ||| 치즈는요?
+VALCOURT: Le fromage était déjà en avance. Roquefort, mille quatre cent onze : Charles VI accorde aux habitants de Roquefort le privilège d'affiner le fromage dans leurs caves. Et le premier texte d'appellation d'origine pour un fromage, c'est la loi de mille neuf cent vingt-cinq sur Roquefort. Tu vois la leçon ? ||| 치즈는 이미 앞서 있었어. 로크포르, 1411년. 샤를 6세가 로크포르 주민들에게 자기 저장고에서 치즈를 숙성시킬 특권을 주었지. 그리고 치즈에 대한 첫 원산지 명칭 법은 1925년의 로크포르 법이야. 교훈이 보이나?
+JULIEN: Que ce n'est jamais le produit qu'on protège. On protège le lien entre un nom et un endroit. ||| 보호하는 건 결코 제품이 아니라는 것. 이름과 장소 사이의 연결을 보호한다는 것.
+VALCOURT: Bien. Et ce lien doit pouvoir se prouver, sinon il redevient un mot. C'est là que ton adversaire va frapper. Il dira : « Notre lien est plus ancien que le vôtre. » ||| 좋아. 그 연결은 증명할 수 있어야 하고, 아니면 다시 낱말에 불과해지지. 상대가 바로 거길 칠 걸세. "우리 연결이 당신들 것보다 오래됐다"고 하겠지.
+JULIEN: C'est exactement ce que dit leur dossier : un usage antérieur. Une étiquette de mille neuf cent cinquante-sept. ||| 정확히 그들 서류가 하는 말입니다. 선행 사용. 1957년의 라벨.
+VALCOURT: Une étiquette de cinquante-sept. Hum. Julien, j'ai un conseil de vieux fromager. Quand quelqu'un te montre un document très ancien, regarde son papier avant de lire son texte. Les mots mentent mieux que les fibres. ||| 57년 라벨이라. 흠. 쥘리앵, 늙은 치즈 애호가의 충고 하나. 누가 아주 오래된 서류를 보여 주거든 글을 읽기 전에 종이를 보게. 말은 섬유보다 거짓말을 잘하니까.
+JULIEN: Je m'en souviendrai. Vous pensez que c'est un faux ? ||| 기억하겠습니다. 가짜라고 생각하세요?
+VALCOURT: Je ne pense rien. Je dis seulement qu'une preuve trop belle est comme un fromage trop parfait. On le goûte deux fois. Ma part de brie est finie. Mange du vrai pain, Julien. ||| 아무 생각도 안 하네. 다만 너무 완벽한 증거는 너무 완벽한 치즈와 같다는 거지. 두 번 맛봐야 해. 내 브리 몫이 끝났군. 진짜 빵을 먹게, 쥘리앵.
+JULIEN: Brie, vous disiez serra da Estrela. ||| 브리라고요? 세하 다 에스트렐라라고 하셨잖아요.
+VALCOURT: J'ai mangé les deux. Je suis retraité, je fais ce que je veux. ||| 둘 다 먹었네. 은퇴했으니 하고 싶은 대로 한다네.
+HÉLÈNE: Monsieur Delorme, vous avez quelques minutes ? Je vous téléphone d'un banc, ce qui est très peu professionnel. ||| 들로름 씨, 몇 분 괜찮으세요? 벤치에서 전화하는 거라 전혀 프로답지 않네요.
+JULIEN: Madame Dufresne. Vous aviez parlé d'une autre ligne chez Valois. ||| 뒤프렌 씨. 발루아가 다른 라인을 열었다고 하셨죠.
+HÉLÈNE: Vous avez l'oreille. Voilà ce que je peux dire. Valois Advisory a signé, il y a trois mois, un contrat avec une association de producteurs du pays voisin. Intitulé : « accompagnement technique du dossier de dénomination ». Montant : cent quatre-vingt mille euros. ||| 귀가 좋으시네요. 말씀드릴 수 있는 건 이렇습니다. 석 달 전에 발루아 어드바이저리가 이웃 나라 생산자 협회와 계약을 맺었어요. 명목은 "명칭 서류의 기술적 지원". 금액은 18만 유로.
+JULIEN: Cent quatre-vingt mille euros pour aider des fromagers. Les fromagers sont devenus riches. ||| 치즈 만드는 사람들을 돕는 데 18만 유로라. 치즈 장수들이 부자가 됐군요.
+HÉLÈNE: Ils ne paient pas tout. Le reste vient d'ailleurs, mais ça, je ne le sais pas encore. Ce que je sais : le dossier de preuves du côté voisin est déposé sur la plateforme « Salle Blanche ». Ils la testent sur ce dossier. Version bêta. Gratuite pour les délégations, comme à Versailles. ||| 전부 그들이 내진 않아요. 나머지는 다른 곳에서 오는데, 아직 모릅니다. 제가 아는 건, 이웃 쪽 증거 서류가 "살 블랑슈" 플랫폼에 올라 있다는 거예요. 이 서류로 시험하는 겁니다. 베타 버전. 베르사유처럼 대표단에는 무료고요.
+JULIEN: Donc la plateforme sert deux fois. Elle héberge le dossier, et elle montre aux délégations à quel point elle est pratique. ||| 그러니까 플랫폼이 두 번 쓰이네요. 서류를 보관하고, 또 대표단에게 얼마나 편리한지 보여 주고요.
+HÉLÈNE: Vous ne perdez pas le fil. Compteur : jour neuf, dix, onze, ce sera lundi. Je suis vos avis par écrit à la chef de cabinet, comme convenu, et j'ajoute une chose. ||| 맥을 놓치지 않으시네요. 계수기는 9일째, 10일째, 월요일이 11일째예요. 합의대로 비서실장에게 서면으로 의견을 보내고, 한 가지를 덧붙이겠습니다.
+JULIEN: Je vous écoute. ||| 듣겠습니다.
+HÉLÈNE: Colin Rive sera lundi à Bruxelles. Il sera inscrit comme « conseiller technique de l'association ». Il a un badge d'observateur. Il ne parlera pas. Mais il y aura une tablette sur la table, et elle sera sur Salle Blanche. ||| 콜랭 리브가 월요일에 브뤼셀에 있을 거예요. "협회 기술 자문"으로 등록됐고 참관인 배지를 달았어요. 발언은 못 합니다. 하지만 탁자에 태블릿이 놓일 거고, 그건 살 블랑슈에 접속돼 있을 거예요.
+JULIEN: Je demanderai les pièces sur papier. Une copie signée et datée, comme à Versailles. ||| 서류는 종이로 요구하겠습니다. 베르사유처럼 서명과 날짜가 있는 사본으로요.
+HÉLÈNE: Dites-le gentiment. Vous leur faites déjà peur, et c'est mauvais pour votre prix. ||| 부드럽게 말씀하세요. 이미 겁먹게 하고 계시니, 값에 좋지 않아요.
+JULIEN: Quel prix, madame Dufresne ? ||| 무슨 값입니까, 뒤프렌 씨?
+HÉLÈNE: Celui que vous me devrez si je vous donne une information de plus. Bonne fin de dimanche. ||| 제가 정보를 하나 더 드리면 저한테 갚으셔야 할 값이요. 즐거운 일요일 저녁 되세요.
++ le courtier = 중개인. 1855년 보르도 등급을 가격에 따라 매긴 사람들
++ un cru = 포도원, 특정 포도밭의 포도주. 등급은 cru 단위로 매겨졌다
++ une appellation d'origine contrôlée (AOC) = 원산지 통제 명칭. 1935년에 법률로 정비된 보호 제도
++ un usage antérieur = 선행 사용. 명칭이 보호되기 전부터 써 왔다는 주장
++ regarder le papier avant de lire le texte = 글보다 종이를 먼저 보다. 서류 진위 확인의 기본 습관
++ un banc = 벤치. 엘렌이 보안상 야외에서 통화한다는 일화
++ être inscrit comme conseiller technique = 기술 자문으로 등록되다. 발루아의 신분 세탁을 암시
+
+## 브뤼셀의 아침 — MATIN À BRUXELLES
+HAAS: Mesdames, Messieurs, je déclare ouverte la réunion du groupe de travail sur la dénomination « Rochebrune ». Je rappelle les règles : une heure d'exposés, une heure de discussion, une heure de rédaction, et personne ne quitte la salle avant midi. ||| 여러분, "로슈브륀" 명칭에 관한 실무그룹 회의를 개회합니다. 규칙을 상기시켜 드립니다. 발표 한 시간, 토론 한 시간, 문안 작성 한 시간, 정오 전에는 아무도 퇴장하지 않습니다.
+COSSART: Madame la présidente, avant tout, je voudrais déposer ceci : quatorze mille signatures de producteurs, de bergers, d'affineurs, qui disent une seule chose. Le nom Rochebrune est celui d'une montagne et d'un savoir-faire. On ne l'importe pas. ||| 의장님, 우선 이것을 제출하고 싶습니다. 생산자, 목동, 숙성업자 1만 4천 명의 서명이고, 한 가지만 말합니다. 로슈브륀은 한 산과 한 노하우의 이름입니다. 수입할 수 있는 이름이 아닙니다.
+MAREK: Madame la présidente, nous avons aussi des signatures. Neuf mille. Elles disent que notre vallée existe, que nos vaches existent, et que nos grands-parents ne se sont pas excusés d'avoir existé. ||| 의장님, 저희도 서명이 있습니다. 구천 명입니다. 서명은 우리 계곡이 존재하고, 우리 소가 존재하며, 우리 조부모가 존재했다고 해서 사과하지 않았다고 말합니다.
+HAAS: Madame Marek, je vous donnerai la parole dans l'ordre. Monsieur Delorme, la France, d'abord. ||| 마렉 대표, 순서대로 발언권을 드리겠습니다. 들로름 씨, 먼저 프랑스 측부터.
+JULIEN: Merci, madame la présidente. La France demande que le règlement sur les appellations soit appliqué. L'article treize interdit l'évocation d'une dénomination protégée, même si l'origine véritable du produit est indiquée, même si le mot est accompagné d'une formule comme « type » ou « façon ». Le nom « Rochebrune de la Sarnaz » en gros caractères sur l'emballage nous paraît évoquer le Rochebrune. ||| 감사합니다, 의장님. 프랑스는 명칭 규정의 적용을 요청합니다. 13조는 보호된 명칭의 연상을 금지합니다. 제품의 진짜 원산지가 표시되어 있더라도, "타입"이나 "풍"이라는 말이 붙어 있더라도요. 포장에 큰 글씨로 쓰인 "로슈브륀 드 라 사르나즈"라는 이름은 로슈브륀을 연상시킨다고 보입니다.
+MAREK: Monsieur Delorme, vous employez le mot « évocation » comme si c'était une évidence. Pour nous, c'est un nom de famille. « Rochebrune de la Sarnaz », c'est comme « Dupont de Lyon ». Nous ne disons pas « Dupont de Paris ». ||| 들로름 씨, 마치 자명한 것처럼 "연상"이라는 말을 쓰시네요. 우리에게 그건 성(姓)입니다. "로슈브륀 드 라 사르나즈"는 "리옹의 뒤퐁" 같은 거예요. 우리는 "파리의 뒤퐁"이라고 하지 않아요.
+JULIEN: D'accord, mais « Dupont de Lyon » ne se vend pas dans un emballage identique à celui de Dupont de Paris. ||| 다코르, 메 "리옹의 뒤퐁"은 "파리의 뒤퐁"과 똑같은 포장으로 팔리지 않죠.
+PELL: Les emballages sont jaunes dans les deux cas, c'est la couleur de la croûte, madame la présidente. Pas une propriété de la France. ||| 의장님, 두 포장 다 노란색입니다. 껍질 색이에요. 프랑스의 전유물이 아닙니다.
+CAMILLE: Pourtant, monsieur Pell, c'est la même police de caractères, le même liseré vert, et, sur votre emballage de septembre dernier, une montagne avec la même ligne de crête. Je vous les montre sur papier. ||| 하지만 펠 참사관님, 글꼴도 같고 초록 테두리도 같고, 지난 9월 포장에는 능선까지 같은 산이 그려져 있어요. 종이로 보여 드리겠습니다.
+PELL: Mademoiselle apporte du papier. Moi, j'ai une tablette, c'est plus léger. ||| 아가씨는 종이를 가져오셨군요. 저는 태블릿이 있어요, 더 가볍죠.
+RIVE: May I just add something for the sake of efficiency? Everything is already on the shared workspace. The delegations can all open the documents there at once. ||| 효율을 위해 한마디 덧붙여도 될까요? 모든 자료가 이미 공유 작업 공간에 올라와 있습니다. 대표단들이 한꺼번에 열어 볼 수 있어요.
+HAAS: Monsieur Rive, vous êtes observateur. Vous ne parlez pas. Je note votre offre, mais le groupe travaille sur les pièces que chaque délégation dépose en séance. ||| 리브 씨, 당신은 참관인입니다. 발언하실 수 없어요. 제안은 기록해 두겠지만, 이 그룹은 각 대표단이 회의장에서 제출한 서류로 작업합니다.
+JULIEN: Je vous remercie, madame la présidente. Pour la clarté, la France demande que toute pièce invoquée soit déposée en copie papier, signée et datée par son producteur. ||| 감사합니다, 의장님. 명확성을 위해 프랑스는 원용되는 모든 서류가 생산자의 서명과 날짜가 있는 종이 사본으로 제출되길 요청합니다.
+MAREK: Vous craignez la technologie, monsieur Delorme ? ||| 기술이 두려우십니까, 들로름 씨?
+JULIEN: Je crains les versions que personne ne peut lire en arrière, madame Marek. La technologie est très bien. J'ai simplement le goût du papier. ||| 거꾸로 읽을 수 없는 버전이 두려울 뿐입니다, 마렉 대표님. 기술은 훌륭하죠. 저는 단지 종이의 맛을 좋아할 뿐입니다.
+HAAS: Madame Marek, acceptez-vous cette condition ? ||| 마렉 대표, 그 조건을 받아들이십니까?
+MAREK: Nous l'acceptons. Mais je rappelle que le droit européen connaît aussi l'usage antérieur. Un nom employé de bonne foi avant l'enregistrement peut subsister. Nous avons une pièce : une étiquette de coopérative datée de mille neuf cent cinquante-sept. Près de quarante ans avant l'appellation française. ||| 받아들입니다. 다만 유럽법이 선행 사용도 안다는 점을 상기시킵니다. 등록 전에 선의로 쓴 이름은 존속할 수 있어요. 저희에게는 서류가 하나 있습니다. 1957년 날짜의 협동조합 라벨. 프랑스 명칭보다 거의 사십 년 앞서죠.
+COSSART: Cinquante-sept ! Une étiquette qu'on exhibe après soixante ans, comme par hasard, au moment où nos produits sont protégés. ||| 57년이라니! 육십 년이나 지나서, 우리 제품이 보호받는 바로 이 순간에 우연히 꺼내 든 라벨이군요.
+JULIEN: Madame Cossart. Un instant, s'il vous plaît. ||| 코사르 회장님, 잠깐만요.
+COSSART: Monsieur Delorme, c'est de la manipulation ! ||| 들로름 씨, 이건 조작이에요!
+JULIEN: C'est peut-être vrai, c'est peut-être faux. Dans les deux cas, on ne peut pas le savoir en criant. Madame la présidente, la France propose d'abord une chose simple : que le nom ne soit plus l'objet de la bagarre. Que nous regardions ce que ce nom promet, c'est-à-dire un lieu, un lait, une méthode. ||| 사실일 수도 있고 아닐 수도 있습니다. 어느 쪽이든 소리쳐서 알 수는 없습니다. 의장님, 프랑스는 먼저 단순한 것 하나를 제안합니다. 이름이 더는 싸움의 대상이 되지 않게 하자는 거예요. 이 이름이 무엇을 약속하는지, 즉 장소, 젖, 방법을 살펴보자는 겁니다.
+MAREK: Le nom, c'est un lieu, un lait, une méthode. Pourquoi pas ? Chez nous, les vaches broutent le même foin. ||| 이름이 장소, 젖, 방법이라. 좋습니다. 우리 소도 같은 건초를 뜯어요.
+JULIEN: Alors regardons la promesse, pas le drapeau. Un fromager de la rue d'Aligre me l'a dit, et je trouve que cette phrase vaut mieux que mon exposé : le nom, c'est le goût. On ne peut pas voler le goût à celui qui le fait. On peut voler la promesse que le nom fait à celui qui achète. ||| 그럼 깃발이 아니라 약속을 봅시다. 알리그르 거리의 치즈 상인이 제게 한 말인데, 제 발표보다 낫다고 생각합니다. 이름이 맛이다. 맛은 만드는 사람에게서 훔칠 수 없습니다. 훔칠 수 있는 건 이름이 사는 사람에게 하는 약속입니다.
+MAREK: C'est bien dit, monsieur Delorme. Je note simplement que vous parlez de promesse alors que votre pays a déposé le nom. ||| 말씀 잘하십니다, 들로름 씨. 다만 짚어 둘 것은, 약속을 이야기하시면서도 명칭을 등록한 건 귀국이라는 점입니다.
+JULIEN: Et que le nom de votre vallée n'est pas à vendre non plus. Les deux choses sont vraies, madame Marek. La France ne vous demande pas d'oublier la Sarnaz. Elle vous demande de ne pas la cacher derrière notre mot. ||| 그리고 귀국 계곡의 이름도 팔 수 없다는 점이죠. 두 가지 다 사실입니다, 마렉 대표님. 프랑스는 사르나즈를 잊으라고 하지 않습니다. 우리 단어 뒤에 숨기지 말라는 겁니다.
+HAAS: J'entends deux positions qui se touchent plus qu'elles ne le disent. Je propose une chose : une pièce, une seule, celle de cinquante-sept, sera déposée en séance, en original, et vérifiée par une visite sur place. ||| 제가 듣기에는 두 입장이 말하는 것보다 더 가깝습니다. 한 가지를 제안합니다. 57년 서류 한 점을 원본으로 회의에 제출하고, 현지 방문으로 확인하는 겁니다.
+MAREK: Une visite sur place. Ce serait dans notre vallée, dans la cave de la coopérative, où les étiquettes sont conservées. ||| 현지 방문이라. 그렇다면 우리 계곡, 라벨들이 보관된 협동조합 저장고가 되겠군요.
+JULIEN: La France accepte. À une condition : que M. Pell et Mme Cossart soient présents, et que je puisse toucher le papier. ||| 프랑스는 수락합니다. 조건이 하나 있어요. 펠 참사관과 코사르 회장이 함께하고, 제가 종이를 만져 볼 수 있어야 합니다.
+MAREK: Toucher le papier. Vous êtes un homme étrange, monsieur Delorme. Mercredi, neuf heures. ||| 종이를 만져 보겠다니. 이상한 분이시네요, 들로름 씨. 수요일 9시로 하죠.
+RIVE: With pleasure, I'll make sure the digitised copy is ready for everyone by Tuesday. ||| 기꺼이요. 화요일까지 모두를 위해 디지털화한 사본을 준비해 두겠습니다.
+HAAS: Monsieur Rive, vous n'avez pas la parole. Mais votre offre est notée dans le procès-verbal. Avec la remarque que l'original fait foi. ||| 리브 씨, 발언권이 없습니다. 하지만 제안은 의사록에 기록하겠습니다. 원본이 증거 능력을 가진다는 주석을 붙여서요.
+CAMILLE: Elle t'a sauvé, là. J'ai senti que tu allais lui répondre en anglais avec ton accent de Lyon. ||| 의장이 구해 줬어. 네가 리옹 억양으로 영어로 대꾸할 것 같아서 조마조마했어.
+JULIEN: J'ai un accent de Lyon en anglais ? Je ne le savais pas. Notons : mercredi, la cave. ||| 내가 영어에 리옹 억양이 있어? 몰랐네. 적어 두자. 수요일, 저장고.
++ l'évocation = (보호된 명칭을) 연상시키는 사용. 유럽 규정이 금지하는 행위로 이번 분쟁의 법적 핵심
++ de bonne foi = 선의로. 선행 사용을 인정받기 위한 핵심 요건
++ faire foi = 증거 능력이 있다. 원본이 사본보다 우선함을 말하는 표현
++ le procès-verbal = 의사록. 회의에서 발언과 제출 서류를 기록한 공식 문서
++ avoir la parole = 발언권을 가지다. 의장이 발언 순서를 통제하는 상황의 표현
++ toucher le papier = 종이를 만져 보다. 쥘리앵의 직관이 3-8의 해법의 씨앗이 됨
++ bien que / même si + 접속법 = ~일지라도. 13조 설명에서 같은 취지로 쓰인 양보 구문
+
+## 북역에서 — GARE DU NORD
+JULIEN: Bilan de la journée : un groupe de travail qui n'a pas fini en dispute, une visite sur place accordée, un tribun nommé Rive qui essaie de ne pas se faire expulser. Rien de mal. ||| 오늘의 결산이야. 싸움으로 끝나지 않은 실무그룹, 승인된 현지 방문, 쫓겨나지 않으려고 애쓰는 웅변가 리브. 나쁘지 않아.
+CAMILLE: Tu as oublié Mme Cossart. Elle m'a dit à la sortie : « Votre chef est trop gentil avec eux. » ||| 코사르 회장님을 빼놓았어. 나가면서 그러시더라. "당신 상관은 저쪽에 너무 상냥하네요."
+JULIEN: Je ne suis pas gentil. Je suis lent. Ce n'est pas pareil. ||| 상냥한 게 아니라 느린 거야. 다른 거라고.
+CAMILLE: Tu veux que j'écrive ça dans le rapport à Archambault ? « Le négociateur n'est pas gentil, il est lent. » ||| 아르샹보 비서실장님께 보내는 보고서에 이렇게 쓸까? "협상가는 상냥한 게 아니라 느리다."
+JULIEN: Écris : « Le groupe de travail a accepté de vérifier la pièce originale de cinquante-sept en présence des deux parties. Une visite est fixée mercredi. » Point. ||| 이렇게 써. "실무그룹은 양측이 입회한 가운데 57년 원본을 확인하는 데 동의했다. 방문은 수요일로 정해졌다." 끝.
+CAMILLE: Et la phrase du fromager ? ||| 치즈 상인의 말은요?
+JULIEN: Mets-la en note. « Le nom, c'est le goût. » Elle servira plus tard. ||| 각주에 넣어. "이름이 맛이다." 나중에 쓸모 있을 거야.
+LÉA: Papa ! Tu es dans le train ? Alors, ton fromage ? ||| 아빠! 기차 안이에요? 그래서 치즈는 어떻게 됐어요?
+JULIEN: Il a gagné une visite sur place. Et toi, ta définition ? ||| 현지 방문을 하나 얻었어. 너는? 정의는 정했니?
+LÉA: J'ai fusionné les trois. Un nom, c'est une promesse qu'on fait à propos d'une chose, grâce à un souvenir qu'on en garde, et on la colle sur une étiquette. ||| 셋을 합쳤어요. 이름이란 어떤 사물에 대해 간직한 기억 덕분에 그 사물에 대해 하는 약속이고, 그걸 딱지에 붙이는 거예요.
+JULIEN: Trop long pour un manuel de philosophie. Parfait pour un traité. ||| 철학 교과서엔 너무 길어. 조약에는 안성맞춤이야.
+LÉA: C'est ce que je me suis dit. Rentre bien, papa. ||| 저도 그렇게 생각했어요. 조심해서 들어오세요, 아빠.
+HÉLÈNE: Message pour M. Delorme. « Jour onze. L'association voisine a ajouté ce soir à Salle Blanche un nouveau document : le scan de l'étiquette de 1957. Date de création du fichier : hier, 23 h 47. Date de l'étiquette : 1957. Vous avez raison de vouloir le papier. » ||| 들로름 씨에게 문자. "11일째. 이웃 협회가 오늘 저녁 살 블랑슈에 새 문서를 올렸어요. 1957년 라벨 스캔입니다. 파일 생성 시각은 어제 23시 47분. 라벨 날짜는 1957년. 종이를 원하시는 게 옳습니다."
+JULIEN: Jour onze, le fichier a vingt-quatre heures et l'étiquette près de soixante-dix ans. Il faut aller voir la cave. ||| 11일째, 파일은 하루 묵었고 라벨은 일흔 살 가까이라. 저장고를 직접 봐야겠어.
+CAMILLE: Tu ne vas rien dire à Archambault avant mercredi ? ||| 수요일 전에는 아르샹보 비서실장님께 아무 말도 안 해?
+JULIEN: Je lui dis tout, y compris ce que je ne sais pas. C'est la règle. Mais je ne lui dis pas ce que je soupçonne. Un soupçon n'est pas encore un mot de passe. ||| 모든 걸 말씀드려. 모르는 것까지. 그게 규칙이니까. 하지만 의심하는 건 말하지 않아. 의심은 아직 암호가 아니거든.
++ fusionner = 합치다. 레아가 세 정의를 하나의 긴 정의로 통합한 일상 어휘
++ un bilan = 결산, 평가. 하루나 한 단계를 마치며 정리하는 말
++ le scan = 스캔본. 원본과 구별되는 디지털 사본의 구어체 표현
++ la date de création du fichier = 파일 생성일. 문서의 내용 날짜와 다를 수 있음을 짚는 표현
++ un soupçon = 의심. 확인되기 전까지 보고서에 쓰지 않는 쥘리앵의 원칙
++ lent / gentil = 느린/상냥한. 쥘리앵이 자기 협상 방식을 해명하는 대비 표현
++ y compris = ~을 포함하여. 보고 의무의 범위를 표현
