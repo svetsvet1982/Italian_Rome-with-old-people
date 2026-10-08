@@ -1,0 +1,110 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 5
+@title Le bordereau
+@ko 명세서
+@setting 포르오뱅 호텔 식당과 시청(일요일 오전 6시 50분, J-8) → 시장 집무실 → 호텔 «등대 방» 11시 면담 → 고등판무관 청사의 임시 사무실 → 칼 거리 은행(카이스) 앞 광장(오후 4시)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자와 전화로 등장
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관, 49세. 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자와 전화로 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세(허구)
+@cast SYLVAINE | 실벤 도를리스, 통역·번역가, 38세
+@note 일요일 새벽, 외무부의 «극비 문서» 사진이 메신저로 퍼집니다. 내용은 «투표 결과와 상관없이 포르오뱅 고등학교 지원 중단, 학교 보조금 단계적 폐지, 현지 연금 동결»입니다. 주민들은 은행 앞에 다시 모입니다. 쥘리앵은 이 문서를 «읽기 전에 믿지 말고, 믿기 전에 읽는다»는 순서로 다룹니다. 형식 오류가 줄줄이 나옵니다. 9월 31일이라는 날짜, 장관직 이름의 복수형(Outre-Mers), 생토뱅의 하이픈 누락, 손글씨 승인란의 철자 오류(aprouvé), 여성명사 note에 맞지 않는 confidentiel, 그리고 국가가 쥐고 있지 않은 현지 연금 금고를 «동결»한다는 내용상의 모순입니다. 하지만 이 오류들은 서툰 위조자의 것일 수도, 서두른 실무자의 것일 수도 있습니다. 해법의 순간은 한 단어입니다. 문서에 따옴표로 둘러싸인 영어 표현 «phased out»(단계적으로 폐지되다)이 있고, 프랑스 행정문은 이런 말을 쓰지 않습니다(extinction progressive, dégressivité). 철자 오류는 고치면 그만이지만 어휘의 습관은 숨기지 못합니다. 같은 표현이 열흘 전 방다가 호리즌 시비크에게서 받은 무서명 보고서 31쪽에도 나옵니다. 방다는 자신도 수신자라 용의선상에 있다고 먼저 말하고, 그 보고서를 읽은 대사관 직원 네 명의 명단을 서면으로 내겠다고 합니다. 쥘리앵은 여기서 멈춥니다. 같은 어휘의 습관은 같은 사람이 아니라 같은 문체 규범, 같은 번역기, 같은 템플릿에서도 나올 수 있기 때문입니다. 따라서 특정인이나 기관을 지목하지 않고, 문서가 가짜라는 것만 오류 목록과 등록부 조회로 입증하며, 판단 방법을 공개합니다. 역사 배경은 드레퓌스 사건입니다. 1894년 9월 파리 주재 독일 대사관 무관 슈바르츠코펜의 휴지통에서 첩보 부서가 입수한 무서명 명세서(bordereau, 기밀 문서 목록)는 필적 대조에 의해 포병 대위 알프레드 드레퓌스의 것으로 지목되었고, 12월 비공개 군사재판에서 종신 유배형을 받았습니다. 필적 감정가들의 의견은 갈렸고(기억에 의존한 요약이라 세부는 헤지), 1896년 가을 필적이 에스테라지 소령의 것과 같다는 점이 알려졌지만 1898년 1월 군법회의는 그를 무죄 방면했습니다. 이틀 뒤인 1898년 1월 13일 에밀 졸라가 《로로르》 1면에 «J'accuse...!»를 실었고, 졸라는 명예훼손으로 유죄 판결을 받아 영국으로 피신했습니다. 같은 해 8월에는 앙리 중령의 위조 문서가 들통났습니다. 드레퓌스는 1899년 사면, 1906년 복권되었습니다. 쥘리앵은 졸라의 «고발»이 아니라 사건이 남긴 교훈, 즉 글씨체만 보고 사람을 지목하는 일의 위험과 증거 방법의 공개를 가져옵니다.
+@next 4-6: 월요일 파리. 르포르의 후임 비서실장이 쥘리앵의 반박문 «무비자 공표»를 문제 삼아 정면으로 부딪칩니다. 투표까지 7일.
+
+## 새벽의 사진 — LA PHOTO DE L'AUBE
+CAMILLE: Six heures cinquante. Tu es réveillé ? Alors regarde ça avant le café. Il est arrivé à quatre heures douze sur trois groupes de messagerie, et à six heures il était sur toutes les radios de la ville. ||| 6시 50분이야. 깼어? 그럼 커피 전에 이것부터 봐. 4시 12분에 메신저 단체방 세 곳에 올라왔고, 6시엔 시내 모든 라디오가 다루고 있어.
+JULIEN: Un papier. Je le vois d'ici : une photo de travers, un coin plié, un tampon rouge. « Confidentiel ». Jamais de bon présage. ||| 서류군. 여기서도 보여. 삐딱하게 찍힌 사진에, 접힌 모서리, 빨간 도장. "기밀". 좋은 징조였던 적이 없지.
+CAMILLE: En tête : « Ministère des Outre-Mers, Cabinet, note confidentielle numéro deux cent quatorze ». Objet : « Saint Aubin, suites du scrutin ». Je te lis le cœur du texte. ||| 맨 위에 "해외영토부, 비서실, 기밀 문서 214호". 제목은 "생토뱅, 투표 이후 조치". 핵심부를 읽어 줄게.
+CAMILLE: Un : « Quel que soit le résultat, l'État ne financera pas le lycée de Port-Aubin. » Deux : « Les dotations aux établissements scolaires seront “phased out” sur trois exercices à compter de 2027. » ||| 하나, "결과가 어떻든 국가는 포르오뱅 고등학교를 지원하지 않는다." 둘, "학교 보조금은 2027년부터 3회계연도에 걸쳐 단계적으로 폐지한다." (phased out은 영어 그대로)
+CAMILLE: Trois : « Les pensions de la caisse locale sont gelées dès l'annonce des résultats. » Quatre : « La présente note doit rester confidentiel jusqu'au scrutin. » En marge, à la main : « Aprouvé. Ne pas diffuser avant le 20. » ||| 셋, "현지 금고의 연금은 결과 발표 즉시 동결된다." 넷, "본 문서는 투표 때까지 기밀로 유지해야 한다." 여백에 손글씨로 "승인함. 20일 전에는 유포 말 것."
+JULIEN: Le lycée, les pensions, et le mot « quel que soit le résultat ». Ils ont écrit la phrase qui ne laisse le choix à personne : ni oui, ni non, ni attendre. ||| 고등학교, 연금, 그리고 "결과가 어떻든"이라는 말. 누구에게도 선택지를 안 남기는 문장을 썼네. 찬성도 반대도, 기다림도.
+CAMILLE: Et ça marche. Devant la Caisse, quatre cents personnes depuis cinq heures. Les pêcheurs ont débarqué plus tôt. Un monsieur criait que la lettre de 1953, celle du lycée, avait enfin sa réponse. ||| 효과가 있어. 은행 앞엔 5시부터 400명이야. 어부들은 일찍 하선했고. 어떤 아저씨가 고등학교 약속이던 1953년 편지에 드디어 답이 왔다고 소리치고 있어.
+JULIEN: Alors le plus dangereux, ce n'est pas qu'il soit faux. C'est qu'il dise exactement ce que quatre-vingts ans de réponses ont appris à craindre. ||| 그러면 가장 위험한 건 이게 가짜라는 사실이 아니야. 80년 가까운 답장들이 가르쳐 준 두려움을 그대로 말하고 있다는 거지.
+CAMILLE: Tu en as déjà vu, des faux ? ||| 위조 문서는 전에 본 적 있어?
+JULIEN: Deux. Les mauvais, on les reconnaît à la première ligne. Les bons, à la dernière. Celui-ci, je ne sais pas encore. D'accord, mais avant de le juger, je veux la photo en grand, sans filtre, et l'original du fichier. ||| 두 번. 서툰 건 첫 줄에서 알아봐. 잘 만든 건 마지막 줄에서. 이건 아직 모르겠어. 다코르, 메 판단 전에 큰 사진, 필터 없는 걸, 그리고 파일 원본이 필요해.
+CAMILLE: Le fichier, personne ne l'a. Ce que je t'envoie, c'est la capture d'une capture d'une photo. ||| 파일 원본은 아무도 없어. 내가 보내는 건 사진을 캡처한 걸 다시 캡처한 거야.
+JULIEN: Tant mieux, ça nous donne une règle : on ne cherche pas qui l'a écrit. On cherche s'il est vrai. Ce sont deux enquêtes, et on ne les mène pas dans le même ordre. ||| 오히려 잘됐네. 규칙이 하나 생겨. 누가 썼는지를 찾지 않는다. 사실인지를 찾는다. 두 가지 조사이고, 같은 순서로 하지 않아.
+CAMILLE: Pourquoi pas dans le même ordre ? Si on trouve l'auteur, on a gagné. ||| 왜 같은 순서가 아니야? 쓴 사람을 찾으면 이기는 거 아냐?
+JULIEN: Parce qu'on peut se tromper d'auteur et avoir raison sur le faux. L'inverse n'est jamais vrai. Un faux démontré tient, même si on ne sait pas qui l'a fait. ||| 저자를 틀려도 가짜라는 건 맞을 수 있으니까. 반대는 절대 성립하지 않아. 입증된 가짜는 만든 사람을 몰라도 버텨.
+CAMILLE: Vantour vient d'appeler. Elle t'attend à la mairie dans trente minutes avec le registre du courrier et trois personnes qu'elle ne veut pas nommer au téléphone. ||| 방투르 시장이 방금 전화했어. 30분 뒤 시청에서 우편 대장이랑, 전화로는 이름 말하기 싫다는 세 사람과 기다리겠대.
+JULIEN: Dis-lui que j'arrive à pied. Je veux voir la place en passant. Une foule se lit mieux de loin que de près. ||| 걸어서 간다고 전해. 가는 길에 광장을 보고 싶어. 군중은 가까이서보다 멀리서 더 잘 읽혀.
+HÉLÈNE: (Message, 6 h 58.) « Jour 24. Sur le papier de cette nuit : les pensions sont une rumeur d'hier soir, pas une nouveauté. Mais la note, elle, est datée. Regarde la date. » ||| (문자, 6시 58분.) "Jour 24. 오늘 밤 서류 건: 연금은 어제저녁 소문이지 새로운 이야기가 아니야. 그런데 이 문서엔 날짜가 있어. 날짜를 봐."
+CAMILLE: Elle a raison. Écoute : « Paris, le trente et un septembre deux mille vingt-six. » ||| 엘렌 말이 맞아. 들어 봐. "파리, 2026년 9월 31일."
+JULIEN: Le trente et un septembre. Septembre a trente jours, comme chaque fonctionnaire de cabinet le sait depuis l'école primaire. ||| 9월 31일. 9월은 30일까지지. 비서실 공무원이면 초등학교 때부터 아는 사실이야.
+CAMILLE: Alors c'est fini : un faux de débutant. ||| 그럼 끝이네. 초보자 위조야.
+JULIEN: Ou une faute de frappe de quelqu'un qui écrit vite. Une date fausse prouve qu'une main s'est trompée, pas laquelle. Note-la, ne la brandis pas. ||| 아니면 급하게 치는 사람의 오타일 수도 있어. 틀린 날짜는 어떤 손이 틀렸다는 것만 보여 줄 뿐 누구의 손인지는 몰라. 기록해 두되 흔들진 마.
+CAMILLE: Tu es dur avec les évidences. ||| 너는 명백한 것에 너무 엄격해.
+JULIEN: Je suis dur avec les évidences qui arrivent un dimanche à quatre heures du matin, quand quelqu'un a intérêt à ce que je les trouve. ||| 일요일 새벽 4시에 도착하는, 누군가 내가 찾아내길 바라는 명백한 것들에는 엄격해.
+CAMILLE: Tu penses qu'on veut qu'on trouve l'erreur ? ||| 오류를 찾아내길 바란다는 거야?
+JULIEN: Je pense à deux faux possibles : celui qui veut être cru, et celui qui veut être démenti, pour que le démenti passe pour un aveu. On verra lequel est celui-ci à la façon dont il se défend. ||| 두 종류의 위조를 생각해. 믿기길 바라는 것, 그리고 반박당하길 바라는 것. 반박이 자백처럼 보이게. 이게 어느 쪽인지는 방어하는 모양을 보면 알게 될 거야.
+LÉA: (Message.) « Papa, j'ai vu ce papier sur le compte d'un copain. Question de philo : c'est quoi la différence entre une preuve et une impression ? Parce que tout le monde dit “ça sonne vrai”. » ||| (문자.) "아빠, 친구 계정에서 그 서류 봤어요. 철학 질문이에요. 증거와 인상의 차이가 뭐죠? 다들 '진짜 같다'고만 말해요."
+JULIEN: Réponds-lui : « Une impression, c'est ce qu'on ressent en lisant. Une preuve, c'est ce qui reste quand celui qui a intérêt à ce que ce soit faux la lit aussi. » ||| 이렇게 답해 줘. "인상은 읽을 때 느끼는 거다. 증거는 그게 거짓이길 바라는 사람이 읽어도 남는 것이다."
+CAMILLE: Elle va le recopier dans sa dissertation. ||| 논술에 그대로 옮겨 쓰겠다.
+JULIEN: Qu'elle change un mot, sinon c'est de la contrefaçon. Allons-y. ||| 단어 하나는 바꾸라고 해. 아니면 그것도 위조야. 가자.
+CAMILLE: Une dernière chose : le papier cite « la caisse locale ». Je croyais que l'État n'y avait pas la main. ||| 마지막 하나. 문서가 "현지 금고"를 언급해. 국가가 거기엔 손을 못 댄다고 알고 있었는데.
+JULIEN: Il ne l'a pas. La caisse de retraite de l'archipel est un établissement territorial. Une note de l'État qui prétend la geler, c'est un cuisinier qui annonce qu'il éteint le four du voisin. ||| 못 대지. 군도 연금 금고는 영토 기관이야. 그걸 동결한다는 국가 문서는 이웃집 오븐을 끄겠다고 선언하는 요리사 같지.
++ avoir intérêt à + infinitif = ~하는 편이 이익이다, ~할 이해관계가 있다. 위조 동기를 따지는 표현
++ capture d'écran = 화면 캡처. «capture d'une capture»처럼 반복하면 출처가 흐려진다는 뜻의 농담
++ brandir = (증거를) 휘두르다, 내세우다. «ne la brandis pas»: 단정하지 말라는 뜻
++ ça sonne vrai = 진짜처럼 들린다. 레아가 비판하는 «인상»의 말버릇
++ un faux de débutant = 초보자의 위조. 날짜 오류 같은 눈에 띄는 실수
++ la main (avoir la main sur) = ~에 대한 권한이 있다. 문자 그대로 손과 권한이라는 이중 의미
++ à la première ligne / à la dernière = 첫 줄에서 / 마지막 줄에서. 조잡한 위조와 정교한 위조의 구분법
++ prendre pour un aveu = 자백으로 받아들이다. 반박이 오히려 의심을 키우는 함정
+
+## 시청의 대장 — LE REGISTRE DE LA MAIRIE
+VANTOUR: Entrez, monsieur Delorme, ne regardez pas la moquette, elle date du premier mandat de mon prédécesseur. Voici le registre du courrier de l'État : toutes les lettres de la haute-commission qui sont passées par nous cette année. ||| 들어오세요, 들로름 씨. 카펫은 보지 마세요, 제 전임 시장 첫 임기 때 거예요. 이게 국가 우편 대장입니다. 올해 우리 시청을 거친 고등판무관청의 모든 편지가 들어 있어요.
+JULIEN: Madame la maire, merci. D'accord, mais ce registre ne parle que de ce qui est arrivé ici. Pour la note, il faut aussi le registre de Paris. Camille ? ||| 시장님, 감사합니다. 다코르, 메 이 대장은 여기에 도착한 것만 말해 줍니다. 이 문서는 파리 쪽 대장도 필요해요. 카미유?
+CAMILLE: J'ai le permanencier du ministère au téléphone. Il cherche le numéro deux cent quatorze dans la série « Cabinet » de l'année. Il me dit que, d'habitude, une note ne porte pas ce numéro-là, mais un numéro de bureau, suivi d'une année. ||| 부처 당직자와 통화 중이야. 올해 "비서실" 계열에서 214번을 찾고 있대. 보통 문서는 이런 번호가 아니라 부서 번호에 연도가 붙는다고 하는데.
+VANTOUR: Il y a mieux. Regardez la police de caractères en haut. C'est celle du bulletin du comité « Non à l'Aventure ». Je la reconnais, je l'ai imprimée quatre fois. ||| 더 있어요. 맨 위 서체를 보세요. "Non à l'Aventure" 위원회 소식지 서체예요. 알아봐요, 제가 네 번 인쇄했거든요.
+JULIEN: Madame la maire, je dois vous demander de ne pas dire cela à la presse. Un mot de plus, et on parle d'un imprimeur, pas d'un faux. ||| 시장님, 그 말은 언론에 하지 말아 주세요. 한 마디만 더 하면 위조 문서 이야기가 아니라 인쇄소 이야기가 돼요.
+VANTOUR: Je ne dis rien. Je constate. Vous noterez que l'imprimerie de la rue des Voiliers, c'est la seule du port, et que n'importe qui y a sa police. ||| 말은 안 해요. 확인할 뿐이에요. 참고로 범선 거리 인쇄소는 항구에서 하나뿐이고 누구나 그 서체를 쓴다는 점도 적어 두세요.
+JULIEN: Précisément. Une police commune ne désigne personne. On la met dans la colonne « à vérifier », pas dans la colonne « preuves ». ||| 정확해요. 흔한 서체는 아무도 가리키지 않아요. 그건 "증거" 칸이 아니라 "확인 필요" 칸에 넣죠.
+CAMILLE: Je mets quoi, dans la colonne « preuves » ? ||| "증거" 칸에는 뭘 넣어?
+JULIEN: Ce qu'on peut vérifier sans croire personne. Le trente et un septembre n'existe pas. « Outre-Mers » n'est pas le nom du ministère. Le registre est muet. Et le texte promet de geler une caisse qui n'appartient pas à l'État. ||| 누구도 믿지 않고 확인할 수 있는 것. 9월 31일은 존재하지 않아. "Outre-Mers"는 부처 이름이 아니야. 대장에는 기록이 없어. 그리고 국가 소유가 아닌 금고를 동결하겠다고 약속하지.
+VANTOUR: Et « Saint Aubin », sans trait d'union. Chez nous, on l'écrit avec un trait d'union depuis la loi de 1946. Aucun fonctionnaire n'a jamais écrit autrement. ||| 그리고 "Saint Aubin", 하이픈이 없어요. 우리는 1946년 법 이후로 하이픈을 붙여 써요. 어떤 공무원도 달리 쓴 적 없죠.
+JULIEN: Alors nous avons quatre pièces. Pas une accusation. Une liste. Et la liste peut être lue à voix haute par n'importe qui sur la place. ||| 그러면 증거는 네 가지예요. 고발이 아니라 목록이죠. 그리고 광장에서 누구든 소리 내어 읽을 수 있는 목록입니다.
+SYLVAINE: (Il entre, un carnet à la main.) Je suis monté dès que j'ai vu la photo. Je peux la traduire en créole pour la radio de huit heures. Mais il y a des mots qui ne passent pas, et je préfère vous le dire avant de commencer. ||| (수첩을 들고 들어온다.) 사진을 보자마자 올라왔습니다. 8시 라디오용으로 크레올어로 옮길 수 있어요. 그런데 안 옮겨지는 말이 있어서 시작 전에 말씀드려요.
+JULIEN: Dites-moi lesquels. ||| 어떤 말인지 말해 주세요.
+SYLVAINE: « Phased out ». Je ne peux pas dire « supprimé progressivement » sans choisir un sens. Et en créole, ça devient presque une promesse : « On t'enlève doucement. » ||| "Phased out"요. "점진적으로 폐지"라고 옮기면 의미를 하나 골라야 해요. 그리고 크레올어로는 거의 약속처럼 들려요. "천천히 빼 줄게."
+JULIEN: Gardez ce mot-là de côté. Je veux y revenir. ||| 그 단어는 따로 두세요. 다시 돌아오고 싶어요.
+CAMILLE: Pourquoi ? C'est un anglicisme. Les cabinets en sont pleins. ||| 왜? 영어식 표현일 뿐이야. 비서실마다 넘쳐나잖아.
+JULIEN: Les cabinets sont pleins d'anglicismes qu'ils écrivent sans guillemets. Celui-ci est entre guillemets. Quelqu'un a senti que le mot n'était pas du français, et l'a laissé quand même. ||| 비서실에는 따옴표 없이 쓰는 영어식 표현이 넘치지. 이건 따옴표 안에 있어. 누군가 이게 프랑스어가 아니라고 느끼고도 그냥 두었다는 뜻이야.
+VANTOUR: Moi, j'écrirais « diminution progressive », et personne ne s'en étonnerait. ||| 저라면 "점진적 감축"이라고 쓸 거고 아무도 놀라지 않겠죠.
+JULIEN: C'est cela. « Extinction progressive », « dégressivité » : voilà ce que la langue du ministère aurait choisi. Mais ne tirons rien de cela encore. Une faute se corrige, une habitude se trahit. Laissons l'habitude finir de parler. ||| 그렇죠. "extinction progressive", "dégressivité"가 부처의 언어가 골랐을 말이에요. 하지만 아직 아무 결론도 내리지 맙시다. 실수는 고쳐지지만 습관은 드러나요. 습관이 끝까지 말하게 둡시다.
+VANTOUR: Monsieur Delorme, la place se remplit. Lamy a appelé : son parti a reçu la note dans la nuit, anonyme, six cents exemplaires déposés devant sa porte. Il veut vous voir avant midi. ||| 들로름 씨, 광장이 차고 있어요. 라미가 전화했는데, 그 당이 밤사이 익명으로 문서를 받았대요. 현관 앞에 600부가 놓여 있었다고요. 정오 전에 만나고 싶어 해요.
+JULIEN: Dites-lui que je viendrai sur la place cet après-midi, et que je veux qu'il lise lui-même le texte à ses militants. Mot à mot. Sans commentaire. ||| 오늘 오후 광장에 가겠다고 전해 주세요. 그리고 당원들 앞에서 본인이 직접 읽어 달라고요. 한 마디씩, 해설 없이.
+VANTOUR: Il lira ? Il y a un tract dans sa poche qui dit exactement le contraire. ||| 읽을까요? 그 사람 주머니에는 정반대를 말하는 전단이 있는데요.
+JULIEN: Alors il lira les deux, dans l'ordre. Il a cité « Nous voulons être maîtres chez nous » alors que la pétition de 1946 disait « un maître ». Il sait ce que c'est, de se faire rattraper par une ligne. ||| 그럼 둘 다 순서대로 읽겠죠. 그는 1946년 청원에 "선생님 한 분(un maître)"이라고 적혀 있는데 "우리는 우리 집의 주인이 되고 싶다"고 인용했잖아요. 한 줄에 발목 잡히는 게 뭔지 아는 사람이에요.
+VALCOURT: (Au téléphone, depuis Lisbonne.) Julien, c'est Henri. Quelle heure est-il chez vous ? ||| (리스본에서 전화로.) 쥘리앵, 나야, 앙리. 거기는 몇 시지?
+JULIEN: Sept heures quarante. À Lisbonne, dix heures quarante, si je compte bien. ||| 7시 40분입니다. 리스본은 10시 40분이겠네요, 제가 맞게 센다면.
+VALCOURT: Dix heures quarante, et la serveuse m'apporte mon café avec un pastel de nata. Je suis devenu un vieillard portugais. Dites-moi : on vous a envoyé un papier. ||| 10시 40분이고, 종업원이 파스텔 드 나타와 함께 커피를 가져왔네. 나는 포르투갈 노인이 다 됐어. 말해 보게, 서류 한 장이 도착했지?
+JULIEN: Un papier. Un faux, très probablement. Je ne veux pas dire plus tant que je n'ai pas la preuve de chaque ligne. ||| 서류 한 장이요. 십중팔구 위조입니다. 줄마다 증거를 갖기 전에는 그 이상 말하고 싶지 않습니다.
+VALCOURT: Alors je vous raconte une histoire sur un papier, et vous en ferez ce que vous voudrez. Septembre 1894. À l'ambassade d'Allemagne, à Paris, une femme de ménage, qui travaille en réalité pour les services de renseignement français, récupère dans une corbeille des morceaux de papier déchirés. ||| 그럼 서류 한 장에 관한 이야기를 해 주지. 자네가 알아서 쓰게. 1894년 9월, 파리 주재 독일 대사관에서 한 청소부가, 사실은 프랑스 첩보 기관을 위해 일하던 여자인데, 휴지통에서 찢어진 종이 조각들을 건졌다네.
+JULIEN: Le bordereau. ||| 명세서군요.
+VALCOURT: Une liste de documents militaires offerts à l'attaché allemand. Pas de signature, pas de date. Et l'état-major ne cherche pas qui a bien pu l'écrire. Il cherche un officier dont l'écriture lui ressemble. Il en trouve un : le capitaine Dreyfus. ||| 독일 무관에게 넘기겠다는 군사 문서 목록이지. 서명도 날짜도 없었어. 그런데 참모부는 누가 썼는지를 찾지 않았네. 필적이 비슷한 장교를 찾았고, 하나를 찾았지. 드레퓌스 대위.
+JULIEN: Ordre inverse de celui que j'essaie de tenir. ||| 제가 지키려는 순서와는 반대네요.
+VALCOURT: Voilà. On a lu l'écriture, on n'a pas lu le texte. Les experts n'étaient pas d'accord entre eux, je crois me souvenir qu'un seul, de la Banque de France, disait que ce n'était pas la main de Dreyfus, mais je vous laisse vérifier les noms. Et le dossier secret est passé de main en main sans que la défense le voie. ||| 바로 그거네. 글씨를 읽었지 글을 읽지 않았어. 감정가들은 의견이 갈렸는데, 내 기억엔 프랑스 은행 소속 한 사람이 드레퓌스의 손이 아니라고 했네. 이름은 자네가 확인하게. 비밀 서류는 피고 측이 보지 못한 채 돌았다네.
+JULIEN: Et il est condamné en décembre. ||| 그리고 12월에 유죄 판결이 났죠.
+VALCOURT: À huis clos, à la déportation à perpétuité. L'affaire ne s'est pas arrêtée là. En 1896, un banquier reconnaît l'écriture du bordereau sur des lettres d'un autre officier, le commandant Esterhazy, qu'il avait vu reproduite dans un journal. En janvier 1898, Esterhazy est acquitté. ||| 비공개 재판에 종신 유배형이었지. 거기서 끝나지 않았네. 1896년 한 은행가가 신문에 실린 복제본을 보고 다른 장교, 에스테라지 소령의 편지에서 명세서 필적을 알아봤어. 1898년 1월 에스테라지는 무죄가 됐고.
+JULIEN: Et deux jours plus tard, Zola publie « J'accuse ». ||| 그리고 이틀 뒤 졸라가 "나는 고발한다"를 싣죠.
+VALCOURT: Le treize janvier, dans L'Aurore, avec le titre de Clemenceau. Zola est condamné pour diffamation et s'enfuit en Angleterre. Retenez ceci, Julien : « J'accuse » était nécessaire, mais personne n'a avancé parce que Zola avait de belles phrases. On a avancé parce qu'il y avait enfin des pièces à comparer. ||| 1월 13일, 《로로르》에, 클레망소가 붙인 제목으로. 졸라는 명예훼손으로 유죄를 받고 영국으로 달아났지. 쥘리앵, 이걸 기억하게. "나는 고발한다"는 필요했지만, 졸라가 아름다운 문장을 써서 사건이 진전된 건 아니야. 마침내 비교할 증거들이 생겼기 때문이야.
+JULIEN: Et en août de la même année, le colonel Henry avoue avoir fabriqué un faux dans les services, puis se donne la mort. Cela, je m'en souviens. ||| 그리고 같은 해 8월, 앙리 중령이 정보 부서에서 위조 문서를 만들었다고 자백하고 스스로 목숨을 끊죠. 그건 기억합니다.
+VALCOURT: Oui. Le faux de l'un répond au faux de l'autre. Mais n'en faites pas une comparaison, c'est trop commode. Vous, ne dites pas « j'accuse ». Dites « voici ce que le papier dit de lui-même ». ||| 그래. 한쪽 위조가 다른 쪽 위조에 답한 셈이지. 하지만 비유는 하지 말게, 너무 편하니까. 자네는 "나는 고발한다"라고 하지 말고 "문서가 스스로 말하는 걸 보시오"라고 하게.
++ un faux de A à Z = 처음부터 끝까지 위조된 것. 위조에도 «부분 조작»과 구별되는 완전 위조
++ le permanencier = 당직 근무자. 휴일에 부처 문서 대장을 확인해 주는 사람
++ tirer quelque chose de = ~에서 결론을 끌어내다. «ne tirons rien de cela»: 성급한 결론 금지
++ une faute se corrige, une habitude se trahit = 실수는 고쳐지고 습관은 드러난다. 쥘리앵의 격언
++ à huis clos = 비공개로. 드레퓌스 재판의 절차적 문제를 가리키는 표현
++ être mis en cause / mettre en cause = 연루시키다, 책임을 묻다. 아직 하지 않기로 한 일
++ à la déportation à perpétuité = 종신 유배형에. 19세기 프랑스 형벌 표현
++ ne dites pas j'accuse, dites voici = 고발하지 말고 보여 주라는 방법적 선언. 발쿠르의 조언
