@@ -1,0 +1,134 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 1
+@title La Savoie
+@ko 사부아
+@setting 파리 케도르세 장관 집무실(수요일 오전, J-12) → 신설 중재조정실 → 사부아 요리 식당 «La Fruitière»(점심) → 들로름의 집(저녁) → 중재조정실(밤 11시 30분)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장(오늘 아침 임명), 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 고3, 철학 바칼로레아 준비 중
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 와서 금요일까지 파리에 머문다
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast MINISTRE | 외교부 장관. 이름 없이 «장관»으로만 등장(허구)
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파(허구)
+@cast SYLVAINE | 실벤 도를리스, 포르오뱅의 통역·번역가, 38세. 생토뱅 크레올어 사용자(허구)
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세. 문자로만 등장
+@cast SERVEUR | 식당 종업원
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로만 등장
+@note 4부의 첫 화입니다. 3부가 끝난 화요일 밤으로부터 이어지는 수요일이고, 이 화의 날짜 표시는 J-12입니다. 이 시리즈에서 «J-n»은 «오늘과 투표일을 포함해 n일 남음»이라는 뜻입니다. 수요일이 12일째, 그다음 주 일요일의 투표일이 마지막 날입니다. 쟁점은 한 줄입니다. 파리의 해외영토부가 쓴 초안 «Voulez-vous que Saint-Aubin évolue vers une libre coopération avec la République française ?»(생토뱅이 프랑스 공화국과의 자유로운 협력 쪽으로 나아가기를 원하십니까?)에서 «libre coopération»은 법적으로 정해진 지위가 아니라 «지위처럼 보이는 표현»이어서, 예가 몇 가지 뜻이고 아니오도 몇 가지 뜻인지 아무도 모릅니다. 쥘리앵은 발쿠르와 사부아 요리를 먹으며 1860년을 듣습니다. 1860년 3월 24일 토리노 조약은 사부아와 니스를 프랑스에 합병하되 «주민 의사에 대한 강제 없이» 하기로 정했고(정확한 문구는 대략 이 취지), 같은 해 4월에 주민투표가 열렸습니다. 사부아에서는 압도적 찬성(약 13만 표 대 수백 표)이 나왔고, 북부에서는 «Oui et zone»(찬성하되 자유무역지대 유지)라는 표가 돌았으며, 투표의 자유로움은 지금도 논쟁거리입니다. 교훈은 이렇습니다. 주민투표는 결과를 묻는 일이기 전에, 조약이라는 절차 위에 올라가는 동의입니다. 해법의 순간은 «질문은 결과가 아니라 절차를 묻는다»는 쥘리앵의 정리입니다. 그리고 크레올어 번역가가 «lib는 libre이자 libéré(풀려난)»라고 알려 준 덕분에, 마지막에 «évolution(진화·발전)»이라는 단어가 방향을 정해 놓은 말이라는 점이 드러나 삭제됩니다. 어휘는 le scrutin(투표), le plébiscite, la notice, sans préjudice de, 접속법(pour que, avant que, bien que)에 주목하세요. 역사 인용 중 확신이 어려운 수치와 문구는 «대략», «전해진다»로 표시했습니다.
+@next 4-2 «Le dîner de Talleyrand»: 말라비 대사 오칸라가 만찬을 제안한다. 문제는 메뉴가 아니라 자리다. 강경파 방다와 생토뱅의 시장이 같은 식탁에서 누가 위에 앉는가.
+
+## 장관의 커피 — LE CAFÉ DU MINISTRE
+ARCHAMBAULT: Le café du ministre est froid, monsieur Delorme, mais le ministre est prêt. Avant d'entrer : le décret de ce matin vous nomme chef du Bureau de la médiation. Félicitations. Sans cérémonie, la semaine n'en a pas le temps. ||| 장관님 커피는 식었지만 장관님은 준비되셨습니다. 들어가기 전에요. 오늘 아침 자 법령으로 중재조정실장에 임명되셨습니다. 축하합니다. 행사는 없습니다. 이번 주엔 그럴 시간이 없어요.
+JULIEN: Merci, madame. Vous me félicitez sur le ton de quelqu'un qui me tend un dossier. ||| 감사합니다. 서류를 건네는 사람 같은 말투로 축하해 주시네요.
+ARCHAMBAULT: Parce que je vous en tends un. Saint-Aubin. Le nom doit vous dire quelque chose. ||| 서류를 건네는 게 맞으니까요. 생토뱅. 이름이 낯설지는 않을 겁니다.
+JULIEN: Un conseil, une ligne à la craie sur le sol d'une criée, et une lettre dont le dernier mot était « ensemble ». Je m'en souviens. ||| 협의회, 어시장 경매장 바닥의 분필 선, 그리고 마지막 단어가 'ensemble'였던 서한. 기억합니다.
+ARCHAMBAULT: Dimanche de la semaine prochaine, l'archipel vote sur son statut. Douze jours, en comptant aujourd'hui et le jour du scrutin. Le décret de convocation est signé. Il manque une chose : la question. ||| 다음 주 일요일에 군도가 지위를 두고 투표합니다. 오늘과 투표일을 포함해서 열이틀이에요. 소집 법령은 서명됐습니다. 없는 건 하나, 질문입니다.
+JULIEN: La question n'est pas écrite ? ||| 질문이 안 쓰였다고요?
+ARCHAMBAULT: Elle est écrite. Elle n'est pas arrêtée. C'est une différence que vous allez aimer. Entrons. ||| 쓰이긴 했어요. 확정되지 않았을 뿐입니다. 당신이 좋아할 만한 차이죠. 들어갑시다.
+MINISTRE: Monsieur Delorme, asseyez-vous. Je ne ferai pas de discours, la semaine a déjà usé assez de mots. Madame Archambault vous a dit le sujet ? ||| 들로름 씨, 앉으세요. 연설은 하지 않겠습니다. 이번 주엔 이미 말을 충분히 썼으니까요. 비서실장이 주제를 말씀드렸나요?
+JULIEN: Un référendum à Saint-Aubin dans douze jours, monsieur le ministre. Et une question que l'on a écrite sans moi. ||| 12일 뒤 생토뱅 주민투표, 장관님. 그리고 저 없이 쓰인 질문이요.
+MINISTRE: La rue Oudinot l'a écrite, avec l'assemblée territoriale. Camille, lisez, vous avez la meilleure diction de la maison. ||| 해외영토부가 영토 의회와 함께 썼습니다. 카미유, 읽어 보세요. 우리 부서에서 발음이 제일 좋으니까요.
+CAMILLE: « Voulez-vous que Saint-Aubin évolue vers une libre coopération avec la République française ? » ||| "생토뱅이 프랑스 공화국과의 자유로운 협력 쪽으로 나아가기를 원하십니까?"
+MINISTRE: Douze mots pour douze jours. C'est la seule chose qui s'accorde dans ce dossier. ||| 열두 단어에 열이틀. 이 사건에서 맞아떨어지는 건 그것뿐입니다.
+JULIEN: Les mots ne s'accordent pas non plus, monsieur le ministre. « Libre coopération » n'est pas un statut connu. Ni département, ni collectivité, ni État. C'est une expression qui a l'air d'un statut. ||| 단어들도 맞지 않습니다, 장관님. '자유로운 협력'은 알려진 지위가 아닙니다. 도도, 자치단체도, 국가도 아니에요. 지위처럼 보이는 표현일 뿐이죠.
+ARCHAMBAULT: Précisément. La rue Oudinot dit que c'est une autonomie renforcée dans la République. Voici ce que disent les autres. La note verbale de Kandara est arrivée hier à vingt-deux heures. ||| 바로 그 점입니다. 해외영토부는 공화국 안의 강화된 자치라고 하죠. 다른 쪽 이야기를 보세요. 칸다라의 외교 공한이 어제 밤 10시에 도착했습니다.
+CAMILLE: Je cite : « Toute formule laissant croire que le statut de l'archipel relève de la seule décision de ses habitants sera tenue pour un acte inamical, et pour une atteinte à l'esprit du Conseil de développement conjoint. » ||| 인용합니다. "군도의 지위가 주민의 결정만으로 정해진다고 믿게 하는 어떤 표현도 비우호적 행위로, 그리고 공동 개발 협의회 정신에 대한 침해로 간주한다."
+JULIEN: Ils ne disent pas non. Ils disent : « n'oubliez pas que nous avons signé ». ||| 안 된다고는 하지 않네요. '우리도 서명했다는 걸 잊지 마라'는 거죠.
+ARCHAMBAULT: Les trois partis de l'archipel ont écrit chacun de leur côté. L'Alliance Archipel y voit une autonomie. Le Front de l'Émancipation y voit une première marche vers l'indépendance. L'Union saint-aubinaise y voit la fin de la République sur ces îles. ||| 군도의 세 정당도 각자 편지를 보냈습니다. 아르시펠 동맹은 자치를 읽고, 해방전선은 독립으로 가는 첫 계단을 읽고, 생토뱅 연합은 이 섬들에서 공화국의 종말을 읽습니다.
+JULIEN: Alors le oui a quatre sens, et le non en a quatre autres. Un vote où personne ne sait ce qu'il accepte n'est pas un vote : c'est une loterie avec un bulletin. ||| 그러면 '예'는 뜻이 넷이고 '아니오'는 다른 넷이군요. 무엇을 받아들이는지 아무도 모르는 투표는 투표가 아니라 투표용지가 달린 복권입니다.
+MINISTRE: Je le sais. C'est pourquoi je n'ai pas appelé un juriste, j'ai appelé un lecteur. Je ne vous demande pas de gagner, monsieur Delorme. Je vous demande que la question soit honnête. ||| 알고 있습니다. 그래서 법률가가 아니라 독자를 불렀습니다. 이기라고 하지는 않겠습니다, 들로름 씨. 질문이 정직하기만 하면 됩니다.
+JULIEN: D'accord, mais honnête envers qui ? Envers les habitants, envers Kandara, ou envers vous ? ||| 알겠습니다만, 누구에게 정직해야 합니까? 주민에게, 칸다라에게, 아니면 장관님께?
+MINISTRE: Dans cet ordre, si possible. ||| 가능하면 그 순서대로요.
+JULIEN: Alors voici mes conditions. Un : je ne touche pas au fond du statut, c'est l'affaire des habitants, pas la nôtre. Deux : je lis la question à voix haute, dans les trois langues, avant d'y changer un mot. Trois : je n'écris pas seul. ||| 그러면 조건을 말씀드리겠습니다. 하나, 지위의 내용에는 손대지 않습니다. 그건 주민의 일이지 우리 일이 아니니까요. 둘, 한 단어라도 바꾸기 전에 세 언어로 질문을 소리 내어 읽습니다. 셋, 혼자 쓰지 않습니다.
+ARCHAMBAULT: Quatre : un compte rendu écrit après chaque contact, vous le savez. Et cinq, la date. Mercredi prochain, dix-huit heures, l'imprimerie de Port-Aubin lance les bulletins, la notice et les affiches. Après, on ne change plus que par décret rectificatif, c'est-à-dire par un aveu d'erreur. ||| 넷, 접촉마다 서면 보고, 아시죠. 그리고 다섯, 날짜입니다. 다음 주 수요일 18시에 포르오뱅 인쇄소가 투표용지와 안내문과 포스터를 찍기 시작합니다. 그 뒤에는 정정 법령으로만 바꿀 수 있는데, 그건 오류를 인정하는 일입니다.
+JULIEN: Mercredi prochain, c'est J-5. Cinq jours pour que la ligne tienne devant tous les yeux. ||| 다음 주 수요일이면 J-5네요. 모두의 눈 앞에서 그 한 줄이 버티기까지 닷새.
+ARCHAMBAULT: Une dernière chose, et elle ne me plaît pas. Regardez. ||| 마지막으로 한 가지, 마음에 들지 않는 건데요. 보세요.
+CAMILLE: (Elle pose une photographie sur la table.) Une affiche collée hier matin à Port-Aubin : « OUI, C'EST ÊTRE LIBRES. » En petit, en bas : « Comité citoyen pour l'avenir ». ||| (그녀가 사진 한 장을 탁자에 놓는다.) 어제 아침 포르오뱅에 붙은 포스터야. "예, 그것이 자유로워지는 것." 아래 작은 글씨로 "미래를 위한 시민 위원회".
+JULIEN: Hier matin. Or la question n'est pas arrêtée. Le mot « libre » est sorti d'ici avant d'être décidé. ||| 어제 아침이라. 질문은 확정도 안 됐는데 '자유'라는 단어는 이미 여기서 나갔군요.
+ARCHAMBAULT: Une trentaine de personnes connaissaient le texte de travail : la rue Oudinot, l'assemblée territoriale, le haut-commissariat, l'Élysée, nous. Quelqu'un a lu plus vite que les autres. ||| 작업 문안을 아는 사람은 서른 명 정도였어요. 해외영토부, 영토 의회, 고등판무관청, 대통령실, 그리고 우리. 누군가 다른 사람들보다 빨리 읽은 겁니다.
+MINISTRE: Je ne vous demande pas de nom, monsieur Delorme. Je vous demande douze jours. Un café froid se réchauffe ; une question mal posée se paie le dimanche d'après. ||| 이름을 달라는 게 아닙니다, 들로름 씨. 열이틀을 달라는 겁니다. 식은 커피는 데우면 되지만, 잘못 던진 질문은 투표 다음 날 값을 치릅니다.
+JULIEN: Je ferai ce qui est possible, monsieur le ministre. Et je le ferai par écrit. ||| 가능한 일을 하겠습니다, 장관님. 그리고 글로 하겠습니다.
++ tendre un dossier à quelqu'un = ~에게 사건 서류를 건네다. 일을 떠맡기는 상황에 쓰는 표현
++ arrêter un texte = 문안을 확정하다. 'écrit'(쓰여 있음)와 'arrêté'(확정됨)의 차이가 이 장면의 핵심
++ en comptant aujourd'hui = 오늘을 포함해서. 날짜 세기 방식을 밝히는 말
++ ce n'est pas un vote, c'est une loterie = 투표가 아니라 복권이다. 대조를 만드는 'ne… pas X, c'est Y' 구문
++ je ne vous demande pas de gagner, je vous demande que… + 접속법 = 이기라는 게 아니라 ~하라는 것. 요구의 내용이 접속법을 부른다
++ un décret rectificatif = 정정 법령. 오류를 공식 인정하는 방식
++ lire plus vite que les autres = 남들보다 빨리 읽다. 누군가 정보를 먼저 입수했다는 암시
+
+## 네 가지 독법 — LES QUATRE LECTURES
+CAMILLE: Ton nouveau bureau sent la peinture fraîche. Le tableau, lui, est prêt. Quatre colonnes : Paris, Kandara, les trois partis, et ceux qui liront dans l'isoloir. ||| 네 새 사무실에선 페인트 냄새가 나. 칠판은 준비됐고. 네 칸이야. 파리, 칸다라, 세 정당, 그리고 기표소에서 읽을 사람들.
+JULIEN: La dernière colonne est celle qu'on oublie toujours. Ils liront seuls, sans nos notes. ||| 마지막 칸이 늘 잊히지. 그들은 우리 메모 없이 혼자 읽을 테니까.
+CAMILLE: J'ai passé l'expression « libre coopération » au crible. Elle n'existe dans aucun texte que je connaisse. Si je me souviens bien, l'article 88 de la Constitution parle d'États qui désirent s'« associer » à la République. Saint-Aubin n'est pas un État. Donc : ni association, ni coopération. ||| '자유로운 협력'이라는 표현을 샅샅이 훑어봤어. 내가 아는 어떤 문서에도 없어. 기억이 맞다면 헌법 88조는 공화국과 '제휴'하길 원하는 국가들을 말하는데, 생토뱅은 국가가 아니야. 그러니 제휴도 협력도 아니야.
+JULIEN: Autrement dit, c'est un mot sans tiroir. Et quand un mot n'a pas de tiroir, chacun y range ce qui l'arrange. ||| 말하자면 서랍 없는 단어네. 서랍이 없으면 각자 자기한테 편한 걸 거기에 넣지.
+CAMILLE: Ce qui donne, pour le oui : la rue Oudinot y met des compétences locales sans toucher à la souveraineté ; l'Alliance y met l'autonomie ; le Front y met l'indépendance en deux temps ; l'Union y met la République qui recule. ||| 그러니까 '예'의 경우에 이렇게 돼. 해외영토부는 주권은 건드리지 않는 지방 권한, 동맹은 자치, 전선은 두 단계 독립, 연합은 후퇴하는 공화국을 넣어.
+JULIEN: Et Kandara y met la porte de sortie de la souveraineté française. Cinq lectures, donc, pour un seul « oui ». Appelons Port-Aubin. ||| 그리고 칸다라는 프랑스 주권에서 나가는 문을 넣고. 그러면 '예' 하나에 독법이 다섯이야. 포르오뱅에 전화하자.
+SYLVAINE: Bonjour, monsieur. Chez moi, il est sept heures, le café est chaud et j'ai la question sous les yeux. Vous m'avez demandé de la lire comme ma grand-mère la lirait. Alors je la lui ai lue hier soir, en créole. ||| 안녕하세요. 여기는 아침 7시고 커피는 뜨겁고, 질문은 제 눈앞에 있어요. 할머니가 읽으시듯 읽어 달라고 하셨죠. 그래서 어제 저녁 할머니께 크레올어로 읽어 드렸어요.
+JULIEN: Et qu'a dit votre grand-mère ? ||| 할머니께서 뭐라고 하셨습니까?
+SYLVAINE: Elle a dit : « Libéré de quoi, ma fille ? » ||| 이렇게 말씀하셨어요. "뭐에서 풀려난다는 거냐, 얘야?"
+JULIEN: Libéré ? Le texte dit « libre ». ||| 풀려난다고요? 글에는 '자유로운'이라고 되어 있는데요.
+SYLVAINE: En créole de chez nous, « lib » veut dire libre, mais aussi libéré. On est « lib » quand on sort de prison, quand on a fini de payer une dette, quand la saison est terminée. Ma grand-mère entend : « Voulez-vous être libérés de la France ? » ||| 우리 크레올어로 'lib'는 자유롭다는 뜻이면서 풀려났다는 뜻이기도 해요. 감옥에서 나올 때, 빚을 다 갚았을 때, 시즌이 끝났을 때 'lib'라고 하죠. 할머니는 "프랑스에서 풀려나고 싶습니까?"로 들으셨어요.
+JULIEN: Et « coopération » ? ||| 그럼 '협력'은요?
+SYLVAINE: Il n'y a pas de mot de tous les jours. On dirait « travailler la main dans la main ». Ça évoque deux voisins qui se prêtent un bateau. C'est doux. « Libre » est dur, « coopération » est doux, et ensemble ils ne se parlent pas. ||| 일상어로는 없어요. '손에 손잡고 일하다'라고 하겠죠. 이웃 둘이 배를 빌려주는 모습이 떠올라요. 부드럽죠. '자유'는 딱딱하고 '협력'은 부드러운데, 둘이 붙으면 서로 말이 안 통해요.
+CAMILLE: Côté anglais, l'équipe de l'ONU a traduit « free cooperation ». Or « free », c'est aussi « gratuit ». Un diplomate pressé lira « coopération gratuite », ou pire, « coopération sans conditions ». ||| 영어 쪽은 유엔 팀이 'free cooperation'으로 옮겼어. 그런데 'free'는 '공짜'이기도 하잖아. 서두르는 외교관은 '무상 협력'이나 더 나쁘게 '무조건 협력'으로 읽을 거야.
+JULIEN: Le même mot, trois langues, trois adjectifs : libre, lib, free. Et un seul lecteur qui ne s'en doute pas : l'électeur. Camille, appelle monsieur Banda. ||| 같은 단어가 세 언어에서 세 형용사가 됐어. libre, lib, free. 그리고 눈치 못 채는 독자는 단 하나, 유권자야. 카미유, 방다 씨에게 전화해 줘.
+CAMILLE: Tu es sûr ? Il n'a pas répondu à la dernière lettre du ministère. ||| 확실해? 부처가 보낸 지난번 편지에 답도 안 했어.
+JULIEN: Il répondra à une question qu'il croit être un piège. ||| 함정이라고 믿는 질문에는 답할 거야.
+BANDA: Idrissa Banda. Vous appelez le conseiller politique, monsieur Delorme, pas l'ambassadrice. Madame Okanla ne signera aucune réponse avant lundi. ||| 이드리사 방다입니다. 지금 정무참사관에게 전화하신 겁니다, 들로름 씨. 대사님이 아니라요. 오칸라 대사님은 월요일 전에는 어떤 답변에도 서명하지 않으십니다.
+JULIEN: Je ne cherche pas une réponse, monsieur le conseiller. Je cherche une définition. Votre note écrit « libre ». Que veut dire « libre », pour vous ? ||| 답변을 구하는 게 아닙니다, 참사관님. 정의를 구합니다. 귀국의 공한에는 '자유로운'이라고 쓰여 있죠. 당신에게 '자유롭다'는 무슨 뜻입니까?
+BANDA: Ce n'est pas un adjectif, monsieur Delorme, c'est un calendrier. Le jour où votre question dit « libre », elle annonce qu'il y aura un jour où l'on cessera d'être lié. Or cet archipel est lié à Kandara par un fond marin, une lettre et un conseil. On n'est pas libre d'un lien qu'on a signé à deux. ||| 그건 형용사가 아니라 달력입니다, 들로름 씨. 질문에 '자유로운'이 들어가는 순간, 묶여 있지 않게 되는 날이 온다고 예고하는 셈이죠. 그런데 이 군도는 해저와 서한 하나, 협의회 하나로 칸다라와 묶여 있습니다. 둘이 서명한 끈에서는 혼자 자유로울 수 없습니다.
+JULIEN: D'accord, mais « libre » peut aussi décrire une manière : coopérer librement, c'est-à-dire sans contrainte. ||| 알겠습니다만, '자유로운'은 방식을 묘사할 수도 있습니다. 자유롭게 협력한다, 즉 강제 없이요.
+BANDA: C'est la lecture de Paris. Celle des îles est une autre. Vous demandez à huit mille électeurs de choisir entre deux lectures sans leur dire laquelle. Dimanche, ils croiront avoir décidé. Lundi, vous direz qu'ils ont voulu autre chose. ||| 그건 파리의 독법입니다. 섬 사람들의 독법은 다르죠. 선생은 유권자 팔천 명에게 어느 독법인지 알려 주지 않고 둘 중 하나를 고르라고 하는 겁니다. 일요일에 그들은 자기가 결정했다고 믿을 테고, 월요일에 당신들은 그들이 다른 걸 원했다고 말하겠죠.
+JULIEN: C'est exactement ce que je veux empêcher. Je veux que lundi, personne ne puisse dire : « ce n'est pas ce que j'avais compris ». ||| 제가 막으려는 게 바로 그겁니다. 월요일에 아무도 "내가 이해한 건 그게 아니었다"고 말하지 못하게 하고 싶습니다.
+BANDA: Alors écrivez la souveraineté. Écrivez « sans préjudice des positions de chacun ». ||| 그렇다면 주권을 쓰십시오. "각자의 입장을 해치지 않고"라고 쓰세요.
+JULIEN: Vous reprenez la formule de la lettre de 1962 et du Conseil. Elle va quelque part, dans la notice, peut-être. Dans la question, je ne sais pas encore. ||| 1962년 서한과 협의회에서 쓴 문구를 가져오시는군요. 그 문구는 어딘가에 들어갈 겁니다. 안내문에는 아마도요. 질문 안에는 아직 모르겠습니다.
+BANDA: « Peut-être » n'est pas une réponse. Madame l'ambassadrice m'a demandé de vous dire qu'elle dînerait volontiers avec vous demain soir. Moi, je préfère les textes. Mais je viendrai : on ne laisse pas la table à ceux qui ne lisent pas. ||| '아마도'는 답이 아닙니다. 대사님이 내일 저녁 선생과 식사하고 싶다고 전해 달라 하셨습니다. 저는 문서가 더 좋습니다만 가겠습니다. 읽지 않는 사람들에게 식탁을 맡길 수는 없으니까요.
+JULIEN: J'apporterai un texte, et pas de plan de table à l'avance. ||| 문서를 가져가겠습니다. 자리 배치는 미리 정하지 않고요.
+BANDA: Vous ne connaissez pas encore nos problèmes de places. ||| 우리의 자리 문제를 아직 모르시는군요.
++ passer au crible = 체로 거르듯 꼼꼼히 살피다
++ un mot sans tiroir = 서랍 없는 단어. 정해진 법적 범주가 없는 말을 비유한 표현(이 화에서 만든 표현)
++ l'isoloir = 기표소. 투표자가 혼자 읽는 공간
++ ce n'est pas un adjectif, c'est un calendrier = 형용사가 아니라 달력이다. 방다가 'libre'를 시간표로 읽는 대목
++ sans préjudice de… = ~을 해치지 않고, ~에 불리하지 않게. 주권 입장을 보류하는 법률 문구
++ se douter de qqch = 눈치채다. 'un lecteur qui ne s'en doute pas'
++ ils croiront avoir décidé = 결정했다고 믿을 것이다. 'croire + 부정사 완료'의 용법
+
+## 사부아의 치즈 카트 — LA SAVOIE
+SERVEUR: Messieurs, le chariot de Savoie : Beaufort d'été, reblochon fermier, abondance, tome des Bauges. Je vous laisse choisir ou je vous conseille ? ||| 손님, 사부아 카트입니다. 여름 보포르, 농가 르블로숑, 아봉당스, 톰 데 보주. 직접 고르시겠습니까, 추천해 드릴까요?
+VALCOURT: Laissez-nous le chariot et le silence, jeune homme. Julien, tu as l'air d'un homme qui a lu quarante fois une phrase de douze mots. ||| 카트와 침묵을 두고 가게, 젊은이. 쥘리앵, 열두 단어짜리 문장을 마흔 번 읽은 사람 얼굴이구나.
+JULIEN: Quarante-deux. Je ne trouve pas où elle ment. ||| 마흔두 번입니다. 어디서 거짓말을 하는지 못 찾겠어요.
+VALCOURT: Elle ne ment pas, elle est vide. C'est pire : on y met tout. Sors le couteau de mon père, qu'il serve à quelque chose. ||| 거짓말은 안 해. 비어 있는 거지. 그게 더 나빠. 무엇이든 담기거든. 내 아버지의 칼을 꺼내라, 어디에든 쓰이게.
+JULIEN: Le couteau à manche de corne de votre père. Il ne me quitte plus depuis le déjeuner de l'archipel. ||| 아버님의 뿔 손잡이 칼이군요. 군도 점심 이후로 늘 지니고 다닙니다.
+VALCOURT: Alors coupe le beaufort avec lui. Bien. Maintenant, la Savoie. Tu sais pourquoi je t'ai fait venir ici et pas ailleurs ? ||| 그럼 그걸로 보포르를 잘라라. 좋아. 이제 사부아 이야기다. 왜 다른 데가 아니라 여기로 불렀는지 아니?
+JULIEN: Parce que le chariot est bon. ||| 카트가 좋아서요.
+VALCOURT: Parce que ces montagnes ont connu un plébiscite, en 1860. Les gens de ma génération l'ont appris par cœur à l'école, et personne ne se souvient de la question. Toi, tu la retiendras. ||| 이 산들이 1860년에 주민투표를 겪었기 때문이다. 우리 세대는 학교에서 달달 외웠는데 질문을 기억하는 사람은 아무도 없지. 너는 기억하게 될 거야.
+JULIEN: Je vous écoute. ||| 듣겠습니다.
+VALCOURT: Mars 1860. À Turin, Napoléon III et le roi de Piémont-Sardaigne signent un traité. La Savoie et l'arrondissement de Nice passent à la France. En échange, la France a aidé le Piémont contre l'Autriche, en 1859, à Magenta et à Solférino, sur la route de l'unité italienne. ||| 1860년 3월. 토리노에서 나폴레옹 3세와 피에몬테-사르데냐 왕이 조약에 서명한다. 사부아와 니스 지역이 프랑스로 넘어가지. 대가는 1859년에 프랑스가 마젠타와 솔페리노에서 오스트리아에 맞서 피에몬테를 도운 일, 이탈리아 통일로 가는 길에서였지.
+JULIEN: Un échange entre rois, donc. ||| 군주들끼리의 교환이군요.
+VALCOURT: Et c'est là que ça devient intéressant. L'article premier ajoute, à peu près dans ces mots, que la réunion se fera « sans nulle contrainte de la volonté des populations », et que les deux gouvernements s'entendront sur les moyens de constater cette volonté. Je te cite de mémoire, ne l'imprime pas sans vérifier. ||| 여기서부터가 흥미롭다. 1조에 대략 이런 말이 더해진다. 합병은 "주민 의사에 대한 어떠한 강제도 없이" 이루어지며, 두 정부가 그 의사를 확인할 방법을 함께 정한다는 거지. 기억에 의존한 인용이니까 확인하기 전엔 인쇄하지 마라.
+JULIEN: Le traité d'abord, le vote ensuite. ||| 조약이 먼저, 투표는 그다음이군요.
+VALCOURT: Le vote vient moins d'un mois plus tard. Nice les 15 et 16 avril, la Savoie le 22. Et la question, en Savoie, tient en une ligne : « La Savoie veut-elle être réunie à la France ? » ||| 투표는 한 달이 채 안 되어서 열린다. 니스는 4월 15일과 16일, 사부아는 22일. 그리고 사부아의 질문은 한 줄이야. "사부아는 프랑스에 합쳐지기를 원하는가?"
+JULIEN: Oui ou non. Et le résultat ? ||| 예 아니오고요. 결과는요?
+VALCOURT: Plus de cent trente mille oui, quelques centaines de non, à peu près. Dans le nord, du côté du Chablais, du Faucigny, certains ont fait circuler un bulletin « Oui et zone » : oui à la France, à condition de garder une zone franche près de la Suisse. ||| 대략 십삼만 표가 넘는 찬성에 반대는 몇백 표였다. 북쪽 샤블레와 포시니 쪽에서는 '찬성, 그리고 지대'라는 표가 돌았어. 프랑스에 찬성하되 스위스 가까이에 자유무역지대를 유지하라는 조건부 찬성이었지.
+JULIEN: Quatre-vingt-dix-neuf et quelques pour cent. Ce n'est plus un vote, c'est un écho. ||| 99퍼센트 몇이라니. 이건 투표가 아니라 메아리네요.
+VALCOURT: Voilà le piège, et on en débat encore : le vote était presque public, l'administration était partout. Mais écoute la leçon, pas le chiffre. Ils savaient ce qu'ils votaient, parce qu'un traité avait déjà écrit les conditions. On ne leur a pas demandé : « Que voulez-vous être ? » On leur a demandé : « Ce qui a été préparé, l'acceptez-vous ? » ||| 그게 함정이고 지금도 논쟁이 있다. 투표는 거의 공개였고 행정이 곳곳에 있었으니까. 하지만 숫자 말고 교훈을 들어라. 그들은 무엇에 투표하는지 알고 있었다. 조약이 이미 조건을 써 놓았거든. "무엇이 되고 싶은가?"가 아니라 "준비된 것을 받아들이는가?"를 물은 거지.
+JULIEN: D'accord, mais en 1860 la question reste fermée : oui ou non à un résultat écrit. Moi, je n'ai pas de résultat. Je n'ai que des lectures. ||| 알겠습니다만, 1860년에도 질문은 닫혀 있었어요. 쓰인 결과에 대한 예 아니오였으니까요. 저에게는 결과가 없습니다. 독법만 있을 뿐이에요.
+VALCOURT: Alors n'écris pas le résultat. Écris la procédure. Tu as douze jours, la Savoie en a eu vingt-neuf entre le traité et l'urne. ||| 그러면 결과를 쓰지 마라. 절차를 써. 너는 열이틀이 있다. 사부아는 조약에서 투표함까지 스물아홉 날이었다.
+JULIEN: Une procédure, pas un résultat. (Il repose le couteau.) On demande aux habitants non pas « que voulez-vous devenir ? », mais « voulez-vous qu'on ouvre ensemble le chemin, et qu'on vous le montre avant la fin ? » ||| 결과가 아니라 절차. (그가 칼을 내려놓는다.) 주민에게 "무엇이 되고 싶습니까?"를 묻지 않고, "함께 길을 열고, 끝나기 전에 그 길을 보여 주기를 원합니까?"를 묻는 겁니다.
+VALCOURT: Voilà. Mais je te mets en garde contre la deuxième moitié de l'histoire. Une question honnête est une question dont le non ne coûte rien. Si dire non fait peur, ce n'est plus une réponse, c'est une menace. ||| 바로 그거다. 하지만 이야기의 나머지 절반을 경고해 두마. 정직한 질문이란 '아니오'가 아무 값도 치르지 않는 질문이야. 아니오라고 말하는 게 무서우면 그건 대답이 아니라 협박이다.
+JULIEN: Alors le non doit avoir un texte, lui aussi. Que se passe-t-il le lendemain d'un non ? ||| 그럼 '아니오'에도 글이 있어야겠네요. 아니오가 나온 다음 날엔 어떻게 됩니까?
+VALCOURT: Réponds à cette question dans la notice, pas dans la ligne. Et goûte le reblochon. ||| 그 답은 줄이 아니라 안내문에 써라. 그리고 르블로숑을 먹어 봐.
+JULIEN: Pourquoi ce reblochon ? ||| 왜 르블로숑입니까?
+VALCOURT: Parce qu'on raconte, légende ou non, que les fermiers de jadis étaient taxés sur le lait trait en présence du propriétaire. Une fois le propriétaire parti, ils « reblochaient » : ils pinçaient une seconde fois le pis. Et le meilleur lait, dit-on, vient de la seconde traite. ||| 전해지는 이야기로는, 전설이든 아니든, 옛날 농부들이 지주가 보는 앞에서 짠 젖에 세금을 냈다고 한다. 지주가 가고 나면 '르블로셰', 즉 젖을 한 번 더 짰지. 그리고 가장 좋은 젖은 두 번째 짠 젖에서 나온다고들 해.
+JULIEN: La seconde traite. Le second vote. ||| 두 번째 짜기. 두 번째 투표.
+VALCOURT: Je n'ai rien dit. C'est le fromage qui l'a dit. ||| 나는 아무 말도 안 했다. 치즈가 말한 거지.
++ à peu près dans ces mots = 대략 이 말로. 정확한 문구를 장담하지 못할 때의 완충 표현
++ sans nulle contrainte = 어떤 강제도 없이. 'nul'은 부정 강조의 고어체
++ je te cite de mémoire = 기억에 의존해 인용한다. 정확성을 유보하는 말
++ le piège / la leçon = 함정과 교훈. 같은 사건의 두 얼굴을 대비
++ une question fermée / ouverte = 닫힌 질문, 열린 질문. 예·아니오로 답하는 질문과 아닌 질문
++ ce n'est plus une réponse, c'est une menace = 더는 대답이 아니라 협박이다. 선택의 자유를 정의하는 대목
++ dit-on = ~라고들 한다. 일화의 신빙성을 낮춰 말하는 삽입절

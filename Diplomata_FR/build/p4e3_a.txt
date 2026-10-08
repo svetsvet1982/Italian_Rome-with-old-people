@@ -1,0 +1,93 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 3
+@title Les cahiers
+@ko 청원 공책
+@setting 엑상프로방스 해외문서고 열람실과 서고(금요일 오전 10시 5분, J-10) → 엑스 구시가의 식당(점심, 치즈 카트) → 문서고 복원실(오후) → 엑스 기차역과 파리행 열차(저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 마르세유 출신. 쥘리앵에게 tu
+@cast SANDRINE | 상드린 모리크, 해외문서고 열람실 책임자, 52세(허구)
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 전화로 등장
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세. 전화로 등장
+@cast LAMY | 윌프리드 라미, 해방전선 대변인, 44세(허구). 전화로 등장
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 문자로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@cast SERVEUSE | 식당 종업원
+@note 어제 만찬이 끝난 보도에서 방투르 시장이 말했습니다. 해방전선의 포스터는 «우리는 우리 집의 주인이 되길 원한다. 주민 청원, 1946»를 인용하는데, 할머니는 늘 «주인들이 아니라 선생 한 명»이라고 하셨다는 것입니다. 쥘리앵과 카미유는 아침 기차로 엑상프로방스의 해외문서고(ANOM)에 가서 청원 원본 상자를 열어 봅니다. 1884년 (프랑스에서 무상 의무 학교가 시행된 지 몇 해 뒤) 어부들의 청원부터 1946년(군도가 도로 승격된 해)의 청원, 1958년 헌법 투표 뒤의 청원까지 요구는 같습니다. 학교, 산파, 우편선, 그리고 학교에 오래 머무는 선생입니다. 지위의 이름을 묻는 청원은 단 한 장도 없습니다. 해법의 순간은 한 글자의 차이입니다. 1946년 원본에는 «Nous voulons un maître chez nous»(우리 집에 선생이 한 명 있기를 원한다)라고 쓰여 있는데, 1974년에 타자로 작성한 문서고 목록이 이를 «être maîtres chez eux»(자기 집의 주인이 되기를 원한다)로 요약했고, 포스터는 원본이 아니라 그 요약을 인용했습니다. 날조가 아니라 읽지 않은 인용입니다. 쥘리앵은 목록을 지우지 않고 날짜를 붙인 정정 주석을 덧붙이게 합니다(3부의 «열린 이력» 원칙). 역사 배경은 1789년의 «cahiers de doléances»(불만 사항 공책)입니다. 삼부회 소집을 앞두고 교구와 동업 조합마다 쓴 공책은 수만 권에 이르렀고(정확한 수는 연구마다 다릅니다), 대다수는 헌법 이론이 아니라 길, 세금, 곡물, 십일조 같은 구체적인 요구를 담았으며 군주제의 폐지가 아니라 개혁을 청했다고 평가됩니다. 쥘리앵은 그 교훈을 안내문에 옮깁니다. 어휘는 une pétition, une requête, un répertoire, une cote, une doléance, 접속법(avant que, de peur que, bien que)에 주목하세요.
+@next 4-4 «Le Concordat»: 토요일 아침 포르오뱅. 정당, 성직자, 상인이 한 식탁에 앉는다. 문제는 질문이 아니라 질문에 딸린 선언문의 동사들이다. 미래형을 현재형으로 고칠 수 있을까.
+
+## 문서고 열람실 — LA SALLE DE LECTURE
+CAMILLE: Dix heures dix. Archives nationales d'outre-mer, Aix-en-Provence. Il pleut sur les pins, comme dans toutes les cartes postales qu'on n'envoie pas. ||| 10시 10분이야. 엑상프로방스 해외문서고. 소나무 위로 비가 내려. 부치지 않는 엽서마다 나오는 풍경처럼.
+JULIEN: Tu connais l'endroit ? ||| 여기 잘 아니?
+CAMILLE: Trois étés pour ma thèse de droit. Ça sent le papier ancien et le café froid. Et la chaise du fond est toujours trop basse. ||| 박사 논문 때문에 세 번의 여름을 보냈어. 오래된 종이 냄새와 식은 커피 냄새가 나고, 안쪽 의자는 늘 너무 낮아.
+SANDRINE: Bonjour, vous êtes l'équipe du ministère ? Sandrine Maurice… Mauric, sans e. Je dirige la salle de lecture. Je vous rappelle les consignes : crayon à papier uniquement, jamais de stylo, sacs au vestiaire, et on tourne les pages par le bord, pas par le coin. ||| 안녕하세요, 부처에서 오신 분들이죠? 상드린 모리스… 모리크, e 없이요. 열람실 책임자입니다. 규칙을 다시 알려 드릴게요. 연필만 쓰고 펜은 절대 안 되고, 가방은 보관함에, 페이지는 모서리가 아니라 가장자리로 넘기세요.
+JULIEN: Je promets de tourner par le bord. ||| 가장자리로 넘기겠다고 약속합니다.
+SANDRINE: Vous avez demandé hier soir la cote SAUBIN 14, « pétitions et requêtes des habitants, 1884 à 1962 ». Elle est montée ce matin. Mais je dois vous dire une chose : ce carton est très demandé en ce moment. ||| 어제 저녁에 SAUBIN 14번, "주민 청원 및 요청서, 1884~1962"를 신청하셨죠. 오늘 아침 올라왔어요. 그런데 말씀드릴 게 있어요. 요즘 이 상자는 열람 요청이 많습니다.
+JULIEN: Très demandé par qui ? ||| 누가 많이 요청했습니까?
+SANDRINE: Le registre de communication est public, comme tout ce qui se lit ici. Il y a dix-sept jours : « Société Horizon Civique, Madame N. Garrec, de dix heures à dix heures quarante. » ||| 열람 대장은 여기서 읽는 모든 것처럼 공개입니다. 17일 전에 이렇게 적혀 있어요. "호리즌 시비크 회사, N. 가렉 부인, 10시부터 10시 40분까지."
+CAMILLE: Quarante minutes. Pour un carton de quatre cents pièces. ||| 40분이라. 사백 장 짜리 상자에 말이야.
+SANDRINE: Elle a demandé l'autorisation de photographier. Quatre clichés. La cote sur l'étiquette. Le tampon de communication. La page de garde. Et la première page du dossier trois. Rien d'autre. Elle m'a dit : « Je n'ai besoin que du tampon, pour la valeur. » ||| 촬영 허가를 요청했어요. 사진은 네 장. 라벨의 청구 기호, 열람 도장, 표지, 그리고 3번 철의 첫 장. 그 외에는 없었어요. 이렇게 말하더군요. "도장만 필요해요, 가치를 위해서요."
+JULIEN: « Pour la valeur ». Le tampon vaut plus que la page. ||| '가치를 위해서'라. 도장이 페이지보다 값나가는군요.
+CAMILLE: Elle a pris le tampon et laissé la page. ||| 도장만 가져가고 페이지는 두고 갔네.
+SANDRINE: Cela m'a gênée, sur le moment. Une dame aimable, mais pressée. Les gens qui aiment les archives ne sont jamais pressés. ||| 그때 마음에 걸렸어요. 상냥하지만 서두르는 분이었죠. 문서고를 좋아하는 사람은 절대 서두르지 않거든요.
+JULIEN: Madame Mauric, je vous demande une faveur : pouvez-vous me remettre, après la lecture, la copie du registre pour les deux dernières semaines ? ||| 모리크 씨, 부탁이 하나 있습니다. 열람이 끝난 뒤 최근 2주치 대장 사본을 주실 수 있을까요?
+SANDRINE: Je ne le peux pas sans l'accord de la direction, mais je peux vous le lire à voix haute, et vous le recopier au crayon. ||| 관장님 승인 없이는 안 되지만, 소리 내어 읽어 드릴 수는 있고 연필로 옮겨 적으시게 할 수는 있어요.
+CAMILLE: Au crayon, c'est parfait. Ça ne s'efface qu'en laissant une trace. ||| 연필이면 완벽해요. 지워도 흔적이 남으니까요.
+SANDRINE: Voici le carton. Quatre cents pièces, onze chemises, un répertoire dactylographié de mille neuf cent soixante-quatorze, que l'on consulte avant d'ouvrir. Prenez les gants. ||| 상자 여기 있어요. 문서 사백 장, 철 열한 권, 1974년에 타자로 친 목록이 있는데 열기 전에 그걸 먼저 보시면 돼요. 장갑을 끼세요.
+JULIEN: Un répertoire dactylographié. Il ne mentira pas. ||| 타자로 친 목록이라. 거짓말은 안 하겠죠.
+SANDRINE: Il ne ment pas. Il résume. C'est différent, monsieur. Les répertoires du siècle dernier résument, ils ne citent pas. Il faut toujours aller voir la pièce. ||| 거짓말은 안 해요. 요약할 뿐이죠. 그건 달라요. 지난 세기의 목록은 요약하지 인용하지 않아요. 항상 현물을 보러 가야 합니다.
+JULIEN: Madame Mauric, vous venez de dire la phrase qui devrait être gravée sur la porte de ma maison : « Il faut toujours aller voir la pièce ». ||| 모리크 씨, 방금 제 사무실 문에 새겨야 할 문장을 말씀하셨네요. "항상 현물을 보러 가야 한다."
+CAMILLE: Sur la porte, ou en bas de page, en petit. ||| 문에 새기든, 쪽 아래에 작게 쓰든.
+SANDRINE: Prenez la table du fond, près de la fenêtre. Celle qui a la chaise trop basse. ||| 창가 안쪽 탁자를 쓰세요. 의자가 너무 낮은 그 탁자요.
+CAMILLE: (Rire.) Je savais que quelqu'un s'en souviendrait. ||| (웃으며.) 누가 기억할 줄 알았어.
+JULIEN: Avant de commencer, une règle pour nous deux. Pour chaque pièce, nous écrivons trois choses : ce qu'elle dit, ce qu'elle demande, et ce qu'elle tait. ||| 시작하기 전에 둘 사이의 규칙 하나. 문서마다 세 가지를 적자. 무엇을 말하는지, 무엇을 요구하는지, 무엇을 말하지 않는지.
+CAMILLE: Trois colonnes. Dit, demandé, tu. ||| 세 칸이네. 말한 것, 요구한 것, 말하지 않은 것.
+JULIEN: La troisième est la plus longue, d'habitude. ||| 보통은 세 번째 칸이 제일 길지.
+SANDRINE: Et si vous trouvez quelque chose, appelez-moi avant de toucher à la pièce suivante. Une pièce trouvée, on la montre à un témoin. C'est la règle de l'archiviste. ||| 그리고 뭔가 찾으시면 다음 문서를 만지기 전에 저를 불러 주세요. 찾은 문서는 증인에게 보여 줍니다. 문서고 직원의 규칙이에요.
+CAMILLE: Chez les juristes, on appelle cela un procès-verbal de constatation. ||| 법률가들은 그걸 확인 조서라고 불러요.
++ un registre de communication = 열람 대장. 누가 어떤 문서를 언제 봤는지 기록하는 장부
++ la cote = 청구 기호, 문서 번호. 'SAUBIN 14'처럼 상자와 철을 가리키는 코드
++ pour la valeur = 가치를 위해서. 가렉이 도장을 찍은 사진만 원한 이유를 변명한 말
++ un répertoire dactylographié = 타자로 친 목록. 문서고의 수기 아닌 타자 색인
++ il ne ment pas, il résume = 거짓말하지 않고 요약할 뿐이다. 요약과 인용의 차이를 짚는 말
++ aller voir la pièce = 현물을 보러 가다. 자료의 '피에스'는 원본 문서 한 건
++ ça ne s'efface qu'en laissant une trace = 지우려면 흔적을 남길 수밖에 없다. 'ne… que'의 제한 용법
+
+## 상자 속의 공책 — LE CARTON ET SES PÉTITIONS
+CAMILLE: Pièce un. 1884. « À Monsieur le Gouverneur. Nous, pêcheurs de Sainte-Marthe, apprenons qu'en France l'école est gratuite et que les enfants y vont tous. Chez nous, le maître vient avec le courrier et repart avec lui. Nous demandons qu'il reste. » Quarante et une signatures. ||| 첫 번째 문서, 1884년. "총독님께. 저희 생트마르트 어부들은 프랑스에서는 학교가 무료이고 아이들이 모두 다닌다고 들었습니다. 저희 쪽에서는 선생이 우편물과 함께 왔다가 우편물과 함께 떠납니다. 선생이 머물기를 청합니다." 서명 마흔한 명.
+JULIEN: Les lois de Jules Ferry ont deux ou trois ans à ce moment-là. Gratuité en 1881, obligation et laïcité en 1882. Ils ont lu les journaux. ||| 쥘 페리의 법이 이때 두세 해 된 시기죠. 1881년에 무상, 1882년에 의무와 세속성. 신문을 읽었군요.
+CAMILLE: Pièce quatorze. 1912, les mères de Petite-Sœur. « Nous demandons une sage-femme. Trois enfants sont morts à la Toussaint, sans personne. Nous ne demandons pas de médecin, nous savons que cela coûte. Une femme qui sait. » ||| 열네 번째 문서, 1912년 쁘띠트쇠르의 어머니들. "산파를 청합니다. 만성절에 아이 셋이 죽었는데 곁에 아무도 없었습니다. 의사를 청하지는 않습니다, 돈이 든다는 걸 압니다. 아는 여자 한 사람을요."
+JULIEN: « Une femme qui sait ». Continue. ||| '아는 여자 한 사람'이라. 계속해.
+CAMILLE: Pièce vingt-deux. 1936. « Un bateau pour le courrier et les malades, avant l'hiver. Si vous ne pouvez pas, un bateau sans moteur, mais avec un homme. » Vingt-sept noms, dont onze croix. ||| 스물두 번째 문서, 1936년. "겨울 전에 우편과 환자를 위한 배 한 척을. 어려우시면 엔진이 없어도 좋으니 사람이 탄 배를." 이름 스물일곱 개, 그중 십자 표시 열한 개.
+SANDRINE: Les croix, ce ne sont pas des signatures incomplètes, monsieur. Le signataire traçait sa croix devant un témoin qui écrivait son nom à côté. « Sa croix » : on dit « sa croix » comme on dit « sa signature ». ||| 십자 표시는 불완전한 서명이 아닙니다. 서명자가 증인 앞에서 십자를 그리면 증인이 그 옆에 이름을 적었어요. "그의 십자", 서명이라고 말하듯이 그렇게 말합니다.
+JULIEN: Et le témoin était souvent… ||| 증인은 대개…
+SANDRINE: Le maître d'école, quand il y en avait un. Le sacristain, le catéchiste, quelqu'un qui savait les lettres. On voit la même main sur trois ou quatre pétitions : c'est le plus lettré de l'île à chaque époque. ||| 학교 선생님이었어요, 있을 땐요. 아니면 성당지기나 교리 교사, 글자를 아는 사람이요. 서너 장에서 같은 필체가 보이는데 각 시대의 섬에서 가장 글을 잘 아는 사람이죠.
+CAMILLE: Pièce vingt-cinq. 1927. « Quand le bateau ne rentre pas, la veuve reste avec les dettes. Nous demandons une caisse où chacun met un peu, pour que la veuve ne vende pas la maison. » Et regarde dans la marge. ||| 스물다섯 번째 문서, 1927년. "배가 돌아오지 않으면 과부는 빚과 함께 남습니다. 저희는 각자 조금씩 넣는 기금을 청합니다. 과부가 집을 팔지 않도록." 그리고 여백을 봐.
+JULIEN: Un tampon violet. « Transmis au bureau compétent. Classé sans suite. » ||| 보라색 도장이네. "소관 부서에 이송. 후속 조치 없이 종결."
+CAMILLE: Je les ai tous regardés en feuilletant. 1884 : « Pas de crédits. » 1912 : « Voir budget prochain. » 1936 : « Renvoyé. » Il y en a pour toutes les époques. ||| 넘기면서 전부 봤어. 1884년 "예산 없음." 1912년 "다음 예산 참조." 1936년 "반송." 모든 시대에 하나씩 있어.
+SANDRINE: Ce n'est pas une insulte, monsieur. C'est un système. Une pétition recevait une réponse qui ne répondait pas. Je l'appelle la politesse du guichet. ||| 모욕이 아니에요. 제도죠. 청원은 답을 받지만 그 답은 답이 아니었어요. 저는 그걸 창구의 예의라고 불러요.
+JULIEN: Une réponse qui ne répond pas, c'est une réponse à une autre question. Quatre-vingts ans de guichet. Et en 1958, on leur demande de voter sur autre chose, et ils votent oui. ||| 답하지 않는 답은 다른 질문에 대한 답이죠. 팔십 년 동안의 창구. 그리고 1958년에는 다른 것에 투표하라고 하니 그들은 예라고 합니다.
+CAMILLE: Pièce trente-six. 1958, après le référendum sur la Constitution. « Nous avons voté oui le vingt-huit septembre, comme on nous l'a demandé. Nous attendons le lycée de Port-Aubin. Il est promis depuis 1953. » ||| 서른여섯 번째 문서, 1958년 헌법 국민투표 뒤. "9월 28일에 요청대로 예에 투표했습니다. 포르오뱅 고등학교를 기다립니다. 1953년부터 약속된 것입니다."
+JULIEN: Le vingt-huit septembre 1958. Toute l'outre-mer a voté sur la Constitution, et un seul territoire a répondu non : la Guinée. Les autres ont dit oui, et ici on a écrit ensuite : « on attend ». ||| 1958년 9월 28일. 해외 영토 전체가 헌법에 투표했고 아니오라고 답한 곳은 기니 하나였죠. 나머지는 예라고 했고, 여기서는 그 뒤에 이렇게 썼군요. "기다린다."
+CAMILLE: Je compte depuis le début de la lecture : l'école, quatre fois. La santé, trois. Un bateau, deux. L'éclairage du port, une. Et nulle part un mot sur le statut, ni « département », ni « territoire », ni « indépendance ». ||| 읽기 시작한 뒤로 세어 볼게. 학교가 네 번. 보건이 세 번. 배가 두 번. 항구 조명이 한 번. 그리고 지위에 대한 말은 어디에도 없어. '도'도 '영토'도 '독립'도 없어.
+JULIEN: Presque quatre-vingts ans de requêtes, des dizaines de pièces, et aucune ne demande comment s'appeler. ||| 거의 팔십 년 동안의 청원, 수십 장, 그런데 어느 것도 어떻게 불릴지를 묻지 않는군.
+SANDRINE: Je peux vous dire pourquoi. Un nom, on le reçoit. Une école, on la demande. Les gens demandent ce qui leur manque. ||| 이유를 말씀드릴 수 있어요. 이름은 받는 것이고, 학교는 요구하는 것이죠. 사람들은 부족한 걸 요구합니다.
+JULIEN: C'est presque une règle de médiation : écoutez ce qui manque, pas ce qu'on proclame. ||| 거의 중재의 규칙이네요. 선언되는 걸 듣지 말고 부족한 걸 들어라.
+CAMILLE: Pièce vingt-huit. Ça y est. 1946. Neuf feuilles, une écriture ronde et appliquée, et au bas, des croix, beaucoup de croix. ||| 스물여덟 번째 문서. 드디어 나왔어. 1946년. 아홉 장, 둥글고 정성스러운 필체, 아래쪽에 십자 표시들, 아주 많은 십자 표시.
+SANDRINE: Deux cent douze signatures, dont cent quarante-huit croix. J'ai fait le décompte, un jour de grève des trains. ||| 서명 이백십이 개, 그중 십자 표시가 백사십팔 개예요. 기차 파업이 있던 날 세어 봤죠.
+JULIEN: Un instant, avant que tu lises. (Il ouvre le répertoire.) Voyons d'abord ce que dit le résumé de 1974. Je veux voir le chemin que le texte a fait avant d'arriver sur une affiche. ||| 읽기 전에 잠깐. (그가 목록을 펼친다.) 먼저 1974년의 요약이 뭐라고 하는지 보자. 글이 포스터에 오기 전에 어떤 길을 지났는지 보고 싶어.
+CAMILLE: Page douze. Pièce vingt-huit : « Pétition des habitants de Petite-Sœur au ministre, 1946 (212 signatures). Veulent être maîtres chez eux ; question de l'instituteur. » ||| 12쪽. 스물여덟 번째 문서. "1946년 쁘띠트쇠르 주민이 장관에게 보낸 청원(서명 212개). 자기 집의 주인이 되기를 원함. 교사 문제."
+JULIEN: « Veulent être maîtres chez eux ». C'est la phrase de l'affiche. À une virgule près. ||| '자기 집의 주인이 되기를 원함'이라. 포스터의 문장이야. 쉼표 하나 빼고.
+SANDRINE: (Elle blêmit.) Je n'avais jamais regardé cette fiche de près. C'est la main de monsieur Pradier, l'ancien conservateur. Il résumait vite. ||| (그녀의 얼굴이 하얘진다.) 이 카드를 자세히 본 적이 없어요. 옛 보존관 프라디에 씨의 손이에요. 빨리 요약하셨죠.
+CAMILLE: Donc Horizon Civique n'a pas falsifié. Elle a pris la fiche et le tampon, et elle n'a jamais lu la pièce. ||| 그러니까 호리즌 시비크는 위조한 게 아니야. 카드와 도장을 가져가고 문서는 읽지도 않은 거야.
+JULIEN: Ce qui est pire, parce que c'est vrai en apparence. Lis maintenant. Doucement. ||| 그게 더 나빠. 겉으로는 사실이니까. 이제 읽어. 천천히.
++ la main de… = ~의 필체, 손. 'c'est la main de monsieur Pradier'
++ le décompte = 집계. 십자 표시와 서명의 수를 세는 일
++ à une virgule près = 쉼표 하나 정도만 다르고. 거의 같다는 말
++ blêmir = 창백해지다. 충격이나 두려움으로 얼굴빛이 변하다
++ vrai en apparence = 겉으로는 사실인. 'en apparence'는 '외견상'
++ avant que tu lises = 네가 읽기 전에. 'avant que' 뒤 접속법
++ résumer vite / citer = 빨리 요약하다 / 인용하다. 문서고 목록과 원문의 관계

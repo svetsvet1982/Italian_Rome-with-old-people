@@ -1,0 +1,219 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 4
+@title Le Concordat
+@ko 정교 협약
+@setting 포르오뱅 공항과 항구(토요일 새벽 5시 10분, J-9) → 주교관 «성당참사회 방»(오전 9시~11시 30분) → 주교관 서재와 식당(정오~오후 1시 30분) → 주교관 «성당참사회 방» 오후 회의 → 포르오뱅 어시장 경매장(저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세
+@cast RIVIÈRE | 아르망 리비에르, 어업위원회 위원장, 65세
+@cast MATHIS | 마티스 리비에르, 어선 선장, 35세. 리비에르의 아들
+@cast HAUT-COMMISSAIRE | 에티엔 마르샹, 공화국 고등판무관, 58세(허구)
+@cast SAINTE-ROSE | 오딜 생트로즈, 아르시펠 동맹 대표(자치파), 57세(허구)
+@cast LAMY | 윌프리드 라미, 해방전선 대변인(독립파), 44세(허구)
+@cast CADET | 이폴리트 카데, 생토뱅 연합 대표(공화국 잔류파), 63세(허구)
+@cast DORIVAL | 안셀름 도리발 주교, 생토뱅 교구장, 68세. 교회사 연구자(허구)
+@cast NÉRÉE | 조엘 네레, 개신교 목사, 52세(허구)
+@cast FABRE | 뤼시엔 파브르, 군도 상공회의소 회장, 52세(허구)
+@cast TSANGARA | 엘리 상가라, 말라비 공화국 외교장관, 62세. 라디오 발언으로 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@cast SYLVAINE | 실벤 도를리스, 통역·번역가, 38세
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세. 문자로 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로 등장
+@note 토요일 아침, 쥘리앵은 3자 협상(정당·성직자·상인)에 도착합니다. 안건은 질문이 아니라 질문에 딸린 «선언문»입니다. 거기에는 국가와 영토 의회가 투표 이후에 할 약속이 미래형 동사 열네 개(sera maintenu, ne pourront pas être remis en cause 등)로 쓰여 있고, 세 집단은 서로 다른 동사를 고치려 합니다. 정당은 «devra(해야 한다)»와 «pourra(할 수 있다)»를 두고 싸우고, 상인들은 «연금이 동결된다»는 소문에 겁을 먹었으며, 교회는 약속이 어디서 문서로 바뀌는지를 묻습니다. 해법의 순간은 동사의 시제와 주어입니다. 미래형은 흔히 «누가 할지»를 숨기는 수동형(sera maintenu)으로 쓰이고, 현재형은 행위하는 주어를 지금 지명합니다(l'État conserve, l'Assemblée organise). 프랑스 법령은 규칙을 현재 직설법으로 씁니다. 쥘리앵은 선언문의 동사를 현재형으로 고치고, 약속이 아니라 사실을 확인하는 부분(권리는 보장된다)과 아직 올 일을 정하는 부분(협상이 열린다)을 구분합니다. 역사 배경은 1801년 나폴레옹과 교황 비오 7세의 정교 협약(콩코르다)입니다. 1801년 7월 중순(공화력 9년 메시도르 26일) 서명된 협약은 가톨릭을 «국교»가 아니라 «프랑스인 대다수의 종교»라고 현재형으로 확인했습니다. 교황은 국교 지위를 원했지만 보나파르트가 거절했고, 이 타협이 협약의 핵심입니다. 이듬해(1802년 4월) 프랑스 정부는 협약 비준 법과 함께 «유기 조항(Articles organiques)»을 일방적으로 덧붙였고 교황은 항의했습니다. 서명된 문장 위에 부록이 덮이는 사례입니다. 협약 체제는 1905년 12월의 정교분리법까지 이어졌습니다(알자스-모젤은 예외). 쥘리앵은 여기서 «이후의 어떤 부록도 이 선언문을 바꾸지 못한다»는 조항을 얻어 냅니다. 어휘는 le futur simple, le présent de l'indicatif, le conditionnel, la déclaration annexée, 접속법(pour que, sans que, quoique)에 주목하세요. 인용한 협약 문구는 취지를 옮긴 것이며 원문과 글자 그대로 같지 않을 수 있습니다.
+@next 4-5: 일요일. 칸다라 장관의 라디오 발언이 파문을 일으키고, 소문의 음성 메시지가 되풀이된다. 투표까지 8일.
+
+## 새벽의 항구 — L'AUBE AU PORT
+CAMILLE: Cinq heures dix, heure locale. L'avion est posé sur la piste mouillée de Port-Aubin. Vingt-sept degrés, l'air sent le sel et le kérosène, et il y a quelqu'un qui nous attend derrière la vitre. ||| 현지 시간 5시 10분. 비행기가 젖은 포르오뱅 활주로에 내렸어. 27도에 공기에서 소금과 등유 냄새가 나고 유리창 뒤에 우리를 기다리는 사람이 있어.
+JULIEN: J'ai dormi quarante minutes. C'est suffisant pour une poignée de main. ||| 40분 잤어. 악수 한 번 하기에는 충분하지.
+VANTOUR: Bienvenue chez nous. Je suis venue vous chercher moi-même : la voiture du haut-commissaire est en panne, et c'est la seule que nous ayons. Je ne vous propose pas l'évêché tout de suite. Venez au port avant. Armand Rivière vous attend avec du café. ||| 어서 오세요. 제가 직접 모시러 왔어요. 고등판무관 차가 고장 났는데 우리에게 있는 차는 그것 하나뿐이거든요. 주교관은 바로 가지 않겠습니다. 먼저 항구로 가죠. 아르망 리비에르 씨가 커피를 들고 기다려요.
+RIVIÈRE: (Sur le quai, la tasse à la main.) Monsieur Delorme. Vous voilà. La mer n'a qu'un nom, mais vous savez bien qu'elle a deux clés. Mon fils vous a gardé du poisson grillé. ||| (부두에서 찻잔을 들고.) 들로름 씨, 오셨군요. 바다 이름은 하나지만 열쇠는 둘이라는 걸 아시죠. 아들이 구운 생선을 남겨 뒀어요.
+JULIEN: À cinq heures du matin ? ||| 새벽 5시에요?
+MATHIS: Ici on mange quand le bateau rentre, monsieur. Il rentre à cinq heures. (Il sourit.) Vous serez le troisième homme de Paris que je nourris depuis l'accord de l'archipel. ||| 여기선 배가 들어올 때 먹어요. 5시에 들어오고요. (웃으며.) 군도 협정 이후 제가 먹여 드리는 세 번째 파리 분이세요.
+JULIEN: Les deux autres ? ||| 나머지 둘은요?
+MATHIS: Monsieur de Valcourt, et un journaliste qui a vomi sur le pont. ||| 발쿠르 대사님이랑, 갑판에서 토한 기자 한 분요.
+CAMILLE: J'espère que je suis du bon côté de cette liste. ||| 내가 이 목록의 좋은 쪽이길 바라.
+RIVIÈRE: Mademoiselle, mon fils a déjà décidé que vous mangeriez du poisson. Écoutez, il est six heures, la radio commence. ||| 아가씨, 아들이 벌써 생선을 드시게 하기로 정했어요. 들어 보세요, 6시예요, 라디오가 시작합니다.
+SYLVAINE: (À la radio, en créole, puis la traduction chuchotée par Camille.) « Voici la question posée aux habitants de Saint-Aubin. Écoutez-la deux fois. Nous la lirons trois fois, parce que c'est important. » ||| (라디오에서 크레올어로, 카미유가 속삭이는 번역.) "생토뱅 주민에게 던져진 질문입니다. 두 번 들으세요. 이 질문은 세 번 낭독하겠습니다. 중요하니까요."
+RIVIÈRE: Sylvaine Dorlis, la fille du vieux pilote. On la reconnaît à sa façon de poser les voyelles, comme un pied sur le sable mouillé. ||| 실벤 도를리스, 늙은 도선사의 딸이죠. 모음을 놓는 방식으로 알아봐요. 젖은 모래 위에 발을 놓듯이.
+JULIEN: Qu'est-ce que les gens du port en disent ? ||| 항구 사람들은 뭐라고 하나요?
+RIVIÈRE: Un des anciens vient de dire : « Ça ne pousse pas. » Il disait cela de la voile quand le vent est franc. ||| 노인 한 분이 방금 말했어요. "떠밀지 않아." 바람이 정직할 때 돛을 두고 하던 말이에요.
+JULIEN: C'est le critère de la ligne, mot pour mot. ||| 줄의 기준 그대로군요.
+MATHIS: Monsieur, ce n'est pas tout. (Il tend son téléphone.) On reçoit ça depuis ce matin. Une voix, en créole, sur toutes les messageries. ||| 선생님, 이게 다가 아니에요. (전화기를 내민다.) 오늘 아침부터 이게 오고 있어요. 크레올어 목소리가 모든 메신저에 돌아요.
+SYLVAINE: (Au téléphone, dans le message.) « Vous avez entendu ? Si le oui passe, la caisse gèle les pensions. Retirez votre argent avant lundi. C'est un ami de la banque qui me l'a dit. Faites passer. » ||| (메시지 속 전화 음성.) "들으셨어요? '예'가 통과되면 금고가 연금을 동결한대요. 월요일 전에 돈을 찾으세요. 은행 아는 사람이 알려 줬어요. 퍼뜨리세요."
+CAMILLE: Pas de nom, pas de date, pas de source. Une voix chaleureuse. ||| 이름도 날짜도 출처도 없어. 따뜻한 목소리뿐이야.
+RIVIÈRE: Une voix de chez nous qui n'est pas de chez nous. L'accent est trop propre. Elle prononce « pensions » comme à la télévision de Paris. ||| 우리 동네 목소리인데 우리 동네 사람이 아니에요. 억양이 너무 깨끗해요. '연금'을 파리 텔레비전처럼 발음하거든요.
+JULIEN: Vous l'avez entendu aussi, madame Vantour ? ||| 방투르 시장님도 들으셨나요?
+VANTOUR: Hier soir, à vingt-trois heures, il y avait déjà quatre-vingts personnes devant l'agence de la banque. Elle n'ouvre qu'à huit heures. Les gens dorment sur le trottoir avec leur carnet. ||| 어제 밤 11시에 벌써 팔십 명이 은행 지점 앞에 있었어요. 8시에 열리는데 말이죠. 사람들이 통장을 들고 보도에서 자요.
+HÉLÈNE: (Message.) « Jour vingt-trois. Le message vocal est généré. Voix synthétique, accent “neutralisé”. Horizon Civique a loué des serveurs en Irlande il y a onze jours. Rien de prouvable avant des semaines. Ce qui est prouvable : la banque a gelé deux lignes de crédit “par prudence”. À table, parlez de ça aux commerçants. » ||| (문자.) "23일째. 음성 메시지는 합성입니다. 합성 음성에 '중화된' 억양. 호리즌 시비크가 11일 전에 아일랜드에서 서버를 임대했습니다. 몇 주 안에는 증명할 수 없어요. 증명할 수 있는 건, 은행이 '신중하게' 신용 한도 두 건을 동결했다는 것. 식탁에서 상인들에게 그 이야기를 하세요."
+JULIEN: Une rumeur qui arrive avant le texte. Madame Archambault avait raison : nous avons quatorze verbes et eux une voix. ||| 문서보다 먼저 도착하는 소문이네요. 아르샹보 비서실장님 말씀이 맞았어요. 우리에겐 동사 열네 개가 있고 그들에겐 목소리가 있어요.
+CAMILLE: Les quatorze verbes, je les ai ici, imprimés. Veux-tu les relire avant la séance ? ||| 열네 개 동사는 여기 인쇄해 왔어. 회의 전에 다시 볼래?
+JULIEN: Lis-moi les premiers. Doucement. Comme un cahier. ||| 앞쪽만 읽어 줘. 천천히. 공책 읽듯이.
+CAMILLE: « Un. La République respectera la liberté de conscience et de culte. Deux. L'État conservera ses compétences jusqu'au second vote. Trois. Le statut actuel sera maintenu en cas de réponse négative. Quatre. Les droits sociaux acquis ne pourront pas être remis en cause. Cinq. Le Conseil de développement conjoint sera maintenu. Six. La négociation s'ouvrira dans les trois mois suivant le vote. Sept. Le résultat sera soumis à un second vote dans les dix-huit mois. » ||| "1. 공화국은 양심과 종교의 자유를 존중할 것이다. 2. 국가는 두 번째 투표 때까지 현재의 권한을 보유할 것이다. 3. 부정적인 답이 나오면 현재 지위는 유지될 것이다. 4. 기득 사회권은 문제 삼을 수 없을 것이다. 5. 공동 개발 협의회는 유지될 것이다. 6. 협상은 투표 후 석 달 안에 시작될 것이다. 7. 결과는 18개월 안에 두 번째 투표에 부쳐질 것이다."
+JULIEN: Écoute-les : « respectera, conservera, sera maintenu, ne pourront pas, sera maintenu, s'ouvrira, sera soumis ». Sur sept verbes, cinq n'ont pas de sujet qui agit. Qui maintient ? Qui soumet ? Personne ne le dit. ||| 들어 봐. "존중할 것이다, 보유할 것이다, 유지될 것이다, 할 수 없을 것이다, 유지될 것이다, 시작될 것이다, 부쳐질 것이다." 일곱 동사 중 다섯에는 행위하는 주어가 없어. 누가 유지하지? 누가 부치지? 아무도 말하지 않아.
+RIVIÈRE: Chez nous, on dit : « Le bateau sera réparé. » On demande : « Par qui ? » On dit : « On verra. » ||| 우리 쪽에서는 "배는 수리될 것이다"라고 해요. "누가요?" 하고 물으면 "두고 보자"고 하죠.
+JULIEN: Voilà. Le futur est une phrase où le « qui » s'est retiré. Allons-y, madame Vantour. ||| 그렇죠. 미래형은 '누가'가 물러난 문장이에요. 갑시다, 방투르 시장님.
++ heure locale = 현지 시간. 시차가 있는 이동 후에 쓰는 표현
++ une poignée de main = 악수 한 번. 'suffisant pour une poignée de main'은 짧은 수면의 농담조
++ ça ne pousse pas = 떠밀지 않는다. 4-1의 문안 기준을 돛과 바람에 빗댄 말
++ la voix de chez nous = 우리 동네 목소리. 라디오 낭독자의 출신 신뢰를 가리킴
++ faire passer = 퍼뜨리다, 전달하다. 소문과 연쇄 메시지에서 쓰는 구어체 명령
++ par prudence = 신중을 기해. 은행이 한도를 동결할 때 쓰는 표현
++ le « qui » se retire = '누가'가 물러난다. 수동 미래형에서 행위 주체가 사라지는 현상. 수동 미래형의 주어 부재를 짚는 말
+
+## 세 개의 탁자 — LES TROIS TABLES
+HAUT-COMMISSAIRE: Mesdames, messieurs, bienvenue dans la salle des Chanoines. Trois tables : les partis, l'Église, la chambre de commerce. Une déclaration annexée à la question : quatorze articles, quatorze verbes. Je vous propose d'avancer article par article. ||| 여러분, 성당참사회 방에 오신 것을 환영합니다. 탁자는 셋입니다. 정당, 교회, 상공회의소. 질문에 딸린 선언문이 있고 조항 열네 개, 동사 열네 개입니다. 조항별로 진행하자고 제안합니다.
+JULIEN: Monsieur le haut-commissaire, avec votre permission, avant l'article un, je demande qu'on lise une page. Une seule. ||| 고등판무관님, 허락해 주신다면 1조 전에 한 쪽만 읽자고 요청합니다. 딱 한 쪽만요.
+HAUT-COMMISSAIRE: Une page de quoi ? ||| 무슨 쪽입니까?
+JULIEN: D'une pétition de 1946, signée par les ancêtres de plusieurs personnes dans cette salle. Chacun lira son nom. Madame Vantour, commencez, s'il vous plaît. ||| 1946년 청원인데, 이 방에 계신 여러 분의 조상이 서명했습니다. 각자 자기 이름을 읽습니다. 방투르 시장님, 시작해 주세요.
+VANTOUR: « Vantour, Marguerite, sa croix. » Ma grand-mère. ||| "방투르, 마르그리트, 그녀의 십자." 제 할머니예요.
+LAMY: « Lamy, Hilarion, sa croix. » Mon arrière-grand-père. ||| "라미, 일라리옹, 그의 십자." 제 증조할아버지입니다.
+CADET: « Cadet, Séraphin, signé de sa main. » Le seul de la page qui savait écrire. Mon grand-père faisait toujours la fine bouche à ce sujet. ||| "카데, 세라팽, 자필 서명." 이 쪽에서 글을 쓸 줄 아는 유일한 분이죠. 할아버지는 늘 그 얘기에 으스대셨어요.
+SAINTE-ROSE: « Sainte-Rose, Odile, sa croix. » Je porte son prénom. Je ne l'avais jamais lu sur du papier. ||| "생트로즈, 오딜, 그녀의 십자." 저는 그분 이름을 물려받았어요. 종이에서 읽은 건 처음입니다.
+JULIEN: Et les premières lignes, à haute voix : « Monsieur le Ministre, nous soussignés, habitants de l'île de Petite-Sœur, apprenons que, par la loi du mois de mars, nous sommes désormais département. Nous ne savons pas ce que cela change pour l'île. Nous voulons un maître chez nous. » ||| 그리고 첫 줄들을 소리 내어. "장관님께, 아래 서명한 쁘띠트쇠르 섬 주민은 3월 법으로 우리가 이제 도가 되었음을 압니다. 그것이 섬에 무엇을 바꾸는지는 모릅니다. 우리는 우리 집에 선생 한 명을 원합니다."
+LAMY: « Un maître ». Pas « des maîtres ». Je l'ai lu hier pour la première fois dans une photographie, et je vous le dis devant tous : mon parti a collé une phrase qui n'était pas là. ||| "선생 한 명." "주인들"이 아니라요. 어제 사진으로 처음 읽었습니다. 여러분 앞에서 말씀드립니다. 우리 당은 거기 없던 문장을 붙였어요.
+CADET: C'est un début d'honnêteté. Je vous en remercie, Lamy. Mais je note que votre rival a des yeux. ||| 정직의 시작이군요. 감사하오, 라미 씨. 하지만 당신의 경쟁자에게도 눈이 있다는 점은 적어 두겠소.
+SAINTE-ROSE: Messieurs, nous sommes assis pour la déclaration. Monsieur le haut-commissaire, quel est l'article un ? ||| 두 분, 우리는 선언문을 위해 앉았습니다. 고등판무관님, 1조는 무엇입니까?
+HAUT-COMMISSAIRE: « La République respectera la liberté de conscience et de culte. » ||| "공화국은 양심과 종교의 자유를 존중할 것이다."
+DORIVAL: Excusez-moi, monsieur le haut-commissaire. Je lève la main pour dire que je ne dirai rien avant midi. Je veux d'abord entendre comment on se dispute. ||| 실례합니다, 고등판무관님. 정오 전에는 아무 말도 하지 않겠다고 말하려고 손을 듭니다. 먼저 어떻게 싸우는지 듣고 싶습니다.
+HAUT-COMMISSAIRE: Votre silence est noté, monseigneur. Article deux : « L'État conservera ses compétences actuelles jusqu'au second vote. » ||| 침묵을 기록하겠습니다, 주교님. 2조. "국가는 두 번째 투표 때까지 현재의 권한을 보유할 것이다."
+LAMY: « Conservera ». Mais jusqu'à quand exactement ? Il y a un second vote dans dix-huit mois, d'accord, mais s'il n'a pas lieu, « conservera » continue. Je veux « devra cesser de conserver ». ||| '보유할 것이다'. 정확히 언제까지입니까? 18개월 뒤 두 번째 투표가 있다고 하는데, 열리지 않으면 '보유할 것이다'는 계속되잖아요. '보유를 멈추어야 한다'라고 써 주세요.
+CADET: Et moi, je veux l'inverse. « Conservera » ne me suffit pas. Je veux « conservera, quoi qu'il arrive ». ||| 저는 반대입니다. '보유할 것이다'로는 부족합니다. '무슨 일이 있어도 보유할 것이다'를 원합니다.
+SAINTE-ROSE: Vous voyez bien, Hippolyte, qu'avec le futur nous n'arriverons jamais à nous mettre d'accord. Chacun y met son « quoi qu'il arrive ». ||| 보시오, 이폴리트, 미래형으로는 우리가 결코 합의할 수 없어요. 각자 자기 '무슨 일이 있어도'를 넣잖아요.
+JULIEN: Madame Sainte-Rose a mis le doigt sur quelque chose. Je demande qu'on avance et qu'on y revienne. Article trois. ||| 생트로즈 의원님이 짚어 주셨네요. 일단 넘어가고 다시 돌아오자고 요청합니다. 3조.
+HAUT-COMMISSAIRE: « Le statut actuel sera maintenu en cas de réponse négative. » ||| "부정적인 답이 나오면 현재 지위는 유지될 것이다."
+CADET: « Sera maintenu ». Par qui ? Je demande un sujet. Un homme, une institution. Ce n'est pas une question de langue, c'est de la sécurité. ||| '유지될 것이다'. 누구에 의해서입니까? 주어를 요구합니다. 사람이든 기관이든. 문법의 문제가 아니라 안전의 문제입니다.
+HAUT-COMMISSAIRE: Par la République. C'est évident. ||| 공화국에 의해서죠. 분명하지 않습니까.
+CADET: Ce qui est évident ne prend pas deux lignes. S'il suffisait de l'évidence, nous n'aurions pas d'affiches. ||| 분명한 건 두 줄을 차지하지 않소. 분명함으로 충분하다면 포스터도 없었을 거요.
+FABRE: Monsieur le haut-commissaire, articles quatre, cinq et six. Je vous interromps : j'ai une urgence. À sept heures ce matin, j'ai eu au téléphone le directeur de l'agence de la banque. Elle a gelé deux lignes de crédit par prudence. Il y avait cent vingt personnes sur le trottoir. ||| 고등판무관님, 4, 5, 6조 전에 끼어들겠습니다. 급한 일이 있어요. 오늘 아침 7시에 은행 지점장과 통화했습니다. 신용 한도 두 건을 신중하게 동결했답니다. 보도에는 백이십 명이 있었고요.
+HAUT-COMMISSAIRE: Madame Fabre, il n'y a aucun gel d'aucune pension. Je l'ai fait dire par radio à sept heures et demie. ||| 파브르 회장님, 어떤 연금도 동결되지 않습니다. 7시 반에 라디오로 알렸습니다.
+FABRE: Vous l'avez dit au futur : « Aucune pension ne sera gelée. » Les gens ont entendu « sera ». Ils ont pensé : « et après ? » ||| 미래형으로 말씀하셨죠. "어떤 연금도 동결되지 않을 것이다." 사람들은 '될 것이다'를 들었어요. 그리고 생각했죠. "그다음은?"
+HAUT-COMMISSAIRE: Le futur est la seule forme que je peux employer. Je ne peux pas engager le Parlement. ||| 제가 쓸 수 있는 형태는 미래형뿐입니다. 의회를 구속할 수는 없으니까요.
+FABRE: Alors je vous le dis, monsieur : vos « sera » valent moins que ma caisse enregistreuse. Nos clients paient comptant parce qu'ils ne croient pas qu'il y aura un lendemain. ||| 그러면 말씀드리겠습니다. 당신의 '될 것이다'는 제 계산대만도 못합니다. 손님들은 내일이 있다고 믿지 않기에 현금으로 냅니다.
+LAMY: Voilà ce que nous disons depuis un siècle. Un « sera » de Paris, ce n'est pas un engagement, c'est un reçu pour plus tard. ||| 우리가 한 세기 동안 해 온 말입니다. 파리의 '될 것이다'는 약속이 아니라 나중에 받을 영수증이에요.
+SAINTE-ROSE: Lamy et Fabre sont d'accord. Cela doit être grave. ||| 라미 씨와 파브르 회장이 의견이 같다니. 심각한 일이겠군요.
+NÉRÉE: (Le pasteur, doucement.) Je voudrais ajouter, si je puis, que le futur n'est pas un temps pour nos enfants. Ils ne sont pas là pour attendre. ||| (목사가 부드럽게.) 괜찮다면 덧붙이고 싶습니다. 미래형은 우리 아이들의 시제가 아닙니다. 아이들은 기다리려고 여기 있는 게 아니에요.
+JULIEN: Monsieur le haut-commissaire, je demande une suspension de séance de trente minutes. ||| 고등판무관님, 30분간 정회를 요청합니다.
+HAUT-COMMISSAIRE: Pour quoi faire ? ||| 무엇을 하시려고요?
+JULIEN: Pour consulter l'homme qui dit ne rien dire avant midi. Il est onze heures et quart, et je crois qu'il a quelque chose à dire. ||| 정오 전에는 아무 말도 하지 않겠다는 분께 자문을 구하려고요. 11시 15분인데, 하실 말씀이 있다고 믿습니다.
+DORIVAL: (Se levant lentement.) Monsieur Delorme, ma bibliothèque est au premier étage. Elle est plus fraîche que cette salle. ||| (천천히 일어서며.) 들로름 씨, 제 서재가 2층에 있습니다. 이 방보다 시원해요.
++ lever la main = 손을 들다. 발언권을 요청하거나 선언하는 몸짓
++ faire la fine bouche = 까다롭게 굴다, 내세우다. 카데가 조부의 자부심을 에둘러 말한 표현
++ mettre le doigt sur… = ~을 정확히 짚다. 문제의 핵심을 지적하다
++ ce qui est évident ne prend pas deux lignes = 분명한 것은 두 줄을 차지하지 않는다. 관용 'cela va sans dire'와 같은 맥락
++ un reçu pour plus tard = 나중을 위한 영수증. 미래형 약속을 비유한 라미의 표현
++ la suspension de séance = 정회. 회의를 일시 중단하는 절차
++ si je puis = 괜찮다면. 'si je peux'의 격식체이고 접속법이 아니라 직설법 고어형(puis)
+## 주교의 서재 — LA BIBLIOTHÈQUE DE L'ÉVÊQUE
+DORIVAL: Entrez, monsieur Delorme, et ne regardez pas les étagères comme un inspecteur. Ce sont mes meilleurs témoins, mais ils ne parlent pas. Prenez une chaise. Mon cuisinier, qui est une sœur de Petite-Sœur, a laissé une tomme de chèvre de l'île. ||| 들어오세요, 들로름 씨. 그리고 감사관처럼 책장을 보지 마세요. 제 최고의 증인들이지만 말은 못 합니다. 앉으세요. 쁘띠트쇠르 출신 수녀인 우리 요리사가 섬 염소 톰을 두고 갔습니다.
+JULIEN: Une tomme de chèvre des sœurs. Je n'aurais pas osé espérer mieux. ||| 수녀님들의 염소 치즈라니. 이보다 나은 건 바라지도 못했습니다.
+DORIVAL: Vous êtes venu me demander quelque chose, mais vous ne savez pas encore quoi. Moi, je sais ce que vous cherchez : un texte qui tienne. Alors parlons de 1801. ||| 제게 뭔가 물으러 오셨지만 아직 그게 뭔지 모르시는군요. 저는 당신이 찾는 걸 압니다. 버티는 문서죠. 그러니 1801년 이야기를 합시다.
+JULIEN: Le Concordat. Je vous écoute, monseigneur. ||| 정교 협약이군요. 듣겠습니다, 주교님.
+DORIVAL: Bonaparte est Premier consul. Il veut mettre fin à la déchirure religieuse que la Révolution a ouverte : des prêtres qui ont prêté serment à la Constitution, d'autres qui l'ont refusé, des fidèles qui ne savent plus à quelle messe aller. Il négocie avec le pape Pie VII. À Paris, pendant des mois, avec des brouillons qui reviennent de Rome raturés. ||| 보나파르트는 제1통령입니다. 혁명이 벌려 놓은 종교적 균열을 끝내고 싶어 하죠. 헌법에 선서한 사제들, 거부한 사제들, 어느 미사에 가야 할지 모르는 신자들. 그는 교황 비오 7세와 협상합니다. 파리에서 몇 달 동안, 로마에서 줄 그어져 돌아오는 초안을 두고요.
+JULIEN: Qui négocie, concrètement ? ||| 실제로 협상하는 사람은 누구입니까?
+DORIVAL: Du côté du pape, le cardinal Consalvi, secrétaire d'État, un homme fin. Du côté français, des proches du Premier consul, dont son frère Joseph, et un prêtre devenu négociateur, l'abbé Bernier. Le texte est signé à la mi-juillet 1801, après une dernière séquence de brouillons dont Consalvi a laissé un récit presque comique. ||| 교황 쪽은 국무장관 콘살비 추기경, 섬세한 사람이었지요. 프랑스 쪽은 제1통령의 측근들, 형 조제프, 그리고 협상가가 된 사제 베르니에 신부입니다. 문서는 1801년 7월 중순에 서명되는데, 마지막 초안 연속에 대해서는 콘살비가 거의 희극에 가까운 기록을 남겼습니다.
+JULIEN: Qu'est-ce qui se joue dans la première phrase ? ||| 첫 문장에서 무엇이 걸려 있었습니까?
+DORIVAL: Voilà la bonne question. Le pape voulait que la religion catholique soit reconnue comme religion d'État. Bonaparte a refusé : en France, il y avait aussi des protestants, des juifs, des hommes qui ne croyaient plus. La formule de compromis dit, à peu près : « Le gouvernement de la République reconnaît que la religion catholique, apostolique et romaine est la religion de la grande majorité des Français. » ||| 바로 좋은 질문입니다. 교황은 가톨릭이 국교로 인정되기를 원했어요. 보나파르트는 거절했습니다. 프랑스에는 개신교인도 유대인도 더는 믿지 않는 사람들도 있었으니까요. 타협 문구는 대략 이렇습니다. "공화국 정부는 가톨릭, 사도, 로마 종교가 프랑스인 대다수의 종교임을 인정한다."
+JULIEN: « Reconnaît… est ». Deux verbes au présent. ||| '인정한다… 이다'. 현재형 동사 둘이네요.
+DORIVAL: Deux verbes au présent, et pas une promesse. Un constat. On ne dit pas « sera la religion », on dit « est la religion de la grande majorité ». Ce que l'on constate, personne ne peut le défaire demain par un autre texte, sans paraître nier le soleil. ||| 현재형 동사 둘이고, 약속은 없습니다. 확인이죠. "종교가 될 것이다"가 아니라 "대다수의 종교이다"라고 쓴 겁니다. 확인한 것은 내일 다른 문서로 무너뜨릴 수가 없습니다. 해를 부정하는 꼴이 되니까요.
+JULIEN: Et pourtant, vous m'avez dit tout à l'heure que vous vous méfiez des annexes. ||| 그런데도 아까 부록을 경계하신다고 하셨죠.
+DORIVAL: En avril 1802, quand le gouvernement français fait voter la loi qui ratifie le Concordat, il y ajoute, sans l'accord de Rome, des « articles organiques ». Soixante-dix-sept pour le culte catholique, dit-on. Ils encadrent l'Église. Le pape proteste. Mais le texte en vigueur dans l'État, c'est le Concordat avec ses annexes. ||| 1802년 4월 프랑스 정부가 협약을 비준하는 법을 통과시킬 때, 로마의 동의 없이 '유기 조항'을 덧붙입니다. 가톨릭 예배용으로 일흔일곱 개라고들 하지요. 교회를 틀 안에 가둡니다. 교황은 항의하지만 국가에서 효력을 갖는 문서는 부록이 붙은 협약이 됩니다.
+JULIEN: Le texte signé disait le présent, l'annexe a réécrit l'avenir. ||| 서명된 문서는 현재를 말했고 부록은 미래를 다시 썼군요.
+DORIVAL: C'est pourquoi, quand on me parle d'un article au futur, je demande : « Qui le contrôlera ? ». Et quand on me parle d'une annexe, je demande : « Qui peut le changer ? ». Vous l'avez entendu en bas : Mme Fabre n'a pas confiance en « sera ». Elle a raison. Un futur de l'État est un futur dont l'État se réserve la dernière ligne. ||| 그래서 미래형 조항 이야기를 들으면 "누가 통제하는가"를 묻고, 부록 이야기를 들으면 "누가 바꿀 수 있는가"를 묻습니다. 아래층에서 들으셨죠. 파브르 회장은 '될 것이다'를 믿지 않습니다. 옳아요. 국가의 미래형은 국가가 마지막 줄을 갖는 미래형입니다.
+JULIEN: Alors il faut des verbes au présent, avec un sujet. Et une phrase qui empêche les annexes de réécrire le texte. ||| 그러면 주어가 있는 현재형 동사가 필요하고, 부록이 문서를 다시 쓰지 못하게 하는 문장이 필요하겠군요.
+DORIVAL: Ce sera difficile à obtenir du haut-commissaire. Un homme de l'État n'aime pas qu'on lui demande de se lier. Mais il y a midi qui arrive. Allumons la radio. ||| 고등판무관에게서 얻어 내기는 어려울 겁니다. 국가의 사람은 스스로 묶이라는 요구를 싫어하죠. 하지만 정오가 다가옵니다. 라디오를 켭시다.
+TSANGARA: (À la radio, en français.) « Le gouvernement de Kandara prend acte de la question posée aux habitants de Saint-Aubin. Il relève que la notice précise que la consultation ne préjuge ni des positions de chacun sur la souveraineté, ni des engagements de 1962, et qu'elle ne modifie pas le Conseil de développement conjoint. Dans ces conditions, Kandara ne contestera pas la tenue de la consultation. Elle suit la négociation éventuelle en signataire, non en spectatrice. » ||| (칸다라 외교장관의 라디오 발언, 프랑스어.) "칸다라 정부는 생토뱅 주민에게 던져진 질문을 확인한다. 안내문이 이 투표는 주권에 관한 각자의 입장도, 1962년의 약속도 해치지 않으며 공동 개발 협의회를 변경하지 않는다고 밝힌 점을 주목한다. 이러한 조건에서 칸다라는 투표 실시에 이의를 제기하지 않는다. 칸다라는 있을 수 있는 협상을 구경꾼이 아니라 서명 당사자로서 지켜본다."
+DORIVAL: « En signataire, non en spectatrice ». C'est votre phrase. ||| '구경꾼이 아니라 서명 당사자로서'. 당신이 쓴 문장이군요.
+JULIEN: C'est la phrase de madame Okanla, que j'ai promis d'écrire. Elle l'a prise. ||| 오칸라 대사의 문장이에요. 제가 쓰기로 약속했는데 그분이 가져가셨네요.
+BANDA: (Message.) « Corps douze. Vérifié sur le bon à tirer envoyé par votre imprimeur. Même police que la question. I. B. » ||| (문자.) "12포인트. 귀측 인쇄소가 보낸 교정쇄로 확인함. 질문과 같은 서체. I. B."
+JULIEN: Il a vérifié la taille des caractères. Le plus grand compliment qu'un homme comme lui puisse faire. ||| 글자 크기를 확인했군. 그 사람이 할 수 있는 최고의 칭찬이야.
+OKANLA: (Message.) « Il a parlé. Vous avez entendu ? Banda est resté toute la nuit sur l'étude. Il a trouvé une ligne qui n'a pas pu être écrite à Londres. Nous devrons en parler dimanche. N. O. » ||| (문자.) "발언하셨어요. 들으셨죠? 방다는 밤새 보고서를 붙들고 있었습니다. 런던에서는 쓸 수 없었을 줄 하나를 찾았어요. 일요일에 이야기해야 합니다. N. O."
+JULIEN: Une ligne qui n'a pas pu être écrite à Londres. Voilà autre chose que des rumeurs. ||| 런던에서는 쓸 수 없었을 줄이라니. 소문 이상의 무언가가 있군.
+VALCOURT: (Au téléphone, depuis Lisbonne, une cuillère contre un bol.) Je mange du queijo da Serra à la cuillère, devant une fenêtre sur le Tage. Julien, Dorival m'a écrit trois lignes. Il dit que tu es en train de réécrire le futur de la République. ||| (리스본에서 전화로, 그릇에 숟가락이 부딪히는 소리.) 테주 강이 보이는 창가에서 세하 치즈를 숟가락으로 먹고 있네. 쥘리앵, 도리발 주교가 세 줄을 보냈더군. 자네가 공화국의 미래형을 다시 쓰고 있다고.
+JULIEN: Je réécris des verbes, monsieur l'ambassadeur. Rien de plus. ||| 동사를 다시 쓰고 있을 뿐입니다, 대사님. 그 이상은 아닙니다.
+VALCOURT: Garde ceci : le Concordat a duré cent quatre ans, jusqu'à la séparation de l'Église et de l'État en 1905. Il n'a pas duré parce qu'il était juste. Il a duré parce qu'il était lisible. Et prépare ton haut-commissaire. Un texte au présent engage celui qui le signe. Il aura peur. ||| 이걸 기억하게. 정교 협약은 1905년 정교분리까지 104년 동안 이어졌네. 정의로워서 이어진 게 아니야. 읽을 수 있어서 이어졌지. 그리고 자네 고등판무관을 준비시키게. 현재형 문서는 서명하는 사람을 구속하네. 겁낼 걸세.
+JULIEN: Il aura peur, mais il lira. ||| 겁내겠지만 읽을 겁니다.
+VALCOURT: Alors tu as déjà gagné le plus dur. ||| 그러면 가장 어려운 건 이미 이긴 거네.
++ un brouillon raturé = 줄을 그어 지운 초안. 협상 문서가 오간 과정을 가리키는 말
++ un constat / une promesse = 확인 / 약속. 현재형은 확인, 미래형은 약속
++ sans paraître nier le soleil = 해를 부정하는 것처럼 보이지 않고서는. 명백한 사실을 부정함을 빗대는 표현
++ les articles organiques = 유기 조항. 1802년 프랑스 정부가 협약에 일방적으로 덧붙인 조항들
++ se réserver la dernière ligne = 마지막 줄을 자기 몫으로 남기다. 서명 후에도 수정권을 갖겠다는 뜻
++ en signataire, non en spectatrice = 서명 당사자로서, 구경꾼이 아니라. 4-2에서 오칸라가 요청한 문구
++ prendre acte de… = ~을 확인하고 기록하다. 동의는 하지 않지만 사실을 받아들인다는 외교 표현
+
+## 현재형으로 — AU PRÉSENT
+JULIEN: Monsieur le haut-commissaire, mesdames, messieurs. Je vous propose trois règles de rédaction, pas une de plus. Un : chaque verbe a un sujet qui agit. Deux : le présent pour ce qui existe, et pour la règle. Trois : un futur n'est permis que s'il a un sujet et une date. ||| 고등판무관님, 여러분. 작성 규칙 세 가지만 제안합니다. 하나, 모든 동사에 행위하는 주어가 있다. 둘, 존재하는 것과 규칙은 현재형으로 쓴다. 셋, 미래형은 주어와 날짜가 있을 때만 허용한다.
+HAUT-COMMISSAIRE: Vous voulez transformer une déclaration en traité. Je n'ai pas le pouvoir de signer un traité. ||| 선언문을 조약으로 바꾸고 싶으신 겁니까. 저에겐 조약에 서명할 권한이 없습니다.
+JULIEN: Je ne change pas la nature du texte, monsieur. Je change sa grammaire. Les textes de loi français sont écrits au présent : « Les communes sont… ». « Le Conseil se réunit… ». Ce présent n'est pas un temps de l'instant, c'est un temps de la règle. ||| 문서의 성격을 바꾸는 게 아닙니다. 문법을 바꿀 뿐이에요. 프랑스 법령은 현재형으로 씁니다. "코뮌은 ~이다", "위원회는 ~에 모인다". 이 현재는 순간의 시제가 아니라 규칙의 시제입니다.
+HAUT-COMMISSAIRE: Montrez-moi. Un article. ||| 보여 주십시오. 한 조항만요.
+JULIEN: Article trois. Avant : « Le statut actuel sera maintenu en cas de réponse négative. » Après : « En cas de réponse négative, le statut actuel demeure. L'État le maintient. » ||| 3조입니다. 이전: "부정적인 답이 나오면 현재 지위는 유지될 것이다." 이후: "부정적인 답이 나오면 현재 지위는 그대로 있다. 국가가 이를 유지한다."
+CADET: « L'État le maintient. » Il y a un homme dans la phrase. Je préfère cela. ||| "국가가 이를 유지한다." 문장 안에 사람이 있군. 이게 좋소.
+LAMY: Mais « maintient » reste vague pour moi : jusqu'à quand ? ||| 하지만 제겐 '유지한다'가 여전히 모호합니다. 언제까지죠?
+JULIEN: Jusqu'au second vote, ou jusqu'à la date qu'il fixera. Je l'ajoute : « Il le maintient jusqu'à l'issue du second vote, et ne peut y mettre fin plus tôt sans l'accord de l'Assemblée. » ||| 두 번째 투표 때까지이거나 그 투표가 정할 날짜까지입니다. 덧붙이죠. "국가는 두 번째 투표 결과가 나올 때까지 이를 유지하며, 의회의 동의 없이 그보다 일찍 끝낼 수 없다."
+SAINTE-ROSE: Cela me va. Et pour l'article sept, le second vote ? ||| 저는 좋아요. 그럼 7조, 두 번째 투표는요?
+JULIEN: Avant : « Le résultat sera soumis à un second vote dans les dix-huit mois. » Après : « Le résultat est soumis à un second vote dans les dix-huit mois. L'Assemblée territoriale et le Gouvernement l'organisent. » ||| 이전: "결과는 18개월 안에 두 번째 투표에 부쳐질 것이다." 이후: "결과는 18개월 안에 두 번째 투표에 부쳐진다. 영토 의회와 정부가 이를 조직한다."
+HAUT-COMMISSAIRE: Je ne peux pas engager le Gouvernement à organiser un vote. ||| 정부가 투표를 조직하도록 약속할 수는 없습니다.
+JULIEN: Vous ne l'engagez pas : vous constatez une décision déjà prise. La déclaration dit « le Gouvernement et l'Assemblée l'organisent », comme on dit « la session s'ouvre le premier lundi ». Si le Gouvernement ne veut pas l'organiser, il le dira publiquement, et il le dira à cette table. ||| 구속하는 게 아니라 이미 내린 결정을 확인하는 겁니다. 선언문은 "정부와 의회가 이를 조직한다"고 쓰죠. "회기는 첫 번째 월요일에 열린다"고 쓰듯이요. 정부가 조직하기 싫다면 공개적으로, 이 탁자에서 말하게 될 겁니다.
+HAUT-COMMISSAIRE: (Après un silence.) Je consulte le ministère par téléphone. Cinq minutes. ||| (잠시 침묵 뒤.) 본부에 전화로 문의하겠습니다. 5분만요.
+CAMILLE: (À voix basse.) Il y a un problème avec l'article quatre, les droits sociaux. Il ne peut pas promettre une pension qui n'existe pas encore. ||| (낮게.) 4조 사회권에 문제가 있어. 아직 존재하지 않는 연금을 약속할 수는 없잖아.
+JULIEN: Il ne la promet pas. Il constate celle qui existe. Voyons : « Les droits sociaux acquis sont ceux que la loi en vigueur reconnaît. La présente déclaration n'y ajoute rien et n'y retranche rien. Ils sont garantis tels quels. » ||| 약속하는 게 아니라 존재하는 걸 확인하는 거야. 이렇게 하자. "기득 사회권은 현행법이 인정하는 것이다. 이 선언문은 거기에 아무것도 더하지 않고 아무것도 덜지 않는다. 그것은 있는 그대로 보장된다."
+FABRE: « Tels quels ». Je prends. Je veux que ce soit lu à la radio ce soir, à dix-huit heures, par le haut-commissaire, en français, puis en créole. ||| '있는 그대로'. 받아들이겠습니다. 오늘 저녁 6시 라디오에서 고등판무관이 프랑스어로, 이어서 크레올어로 읽어 주시길 원합니다.
+SYLVAINE: (Entrée sur invitation de Vantour.) Je lirai la version créole. Je la lirai au présent. « Pensions et allocations sont payées le même jour que d'habitude. Personne n'y touche. » ||| (방투르의 초대로 들어오며.) 크레올어 판은 제가 읽겠습니다. 현재형으로요. "연금과 수당은 평소와 같은 날 지급됩니다. 아무도 손대지 않습니다."
+RIVIÈRE: (Depuis le fond de la salle, où on l'a laissé entrer.) Et tâchez de ne pas faire « propre ». Parlez comme sur le quai. ||| (사람들이 들여보낸 방 뒤쪽에서.) 그리고 '깨끗하게' 읽으려고 하지 마요. 부두에서 말하듯 말해요.
+SYLVAINE: Je le ferai comme ma mère, avec les voyelles dans le sable. ||| 어머니처럼 하겠어요. 모음을 모래 속에 두고요.
+HAUT-COMMISSAIRE: (Revenant.) Le ministère accepte le présent pour les articles un à sept et pour les droits acquis. En revanche, il refuse votre quatorzième article. ||| (돌아오며.) 본부는 1조에서 7조와 기득권 조항의 현재형을 수용합니다. 다만 14조 신설은 거부합니다.
+JULIEN: Je n'ai pas encore lu mon quatorzième article. ||| 아직 제 14조를 읽지도 않았는데요.
+HAUT-COMMISSAIRE: Je l'ai deviné. C'est celui qui empêche qu'un texte ultérieur ne change celui-ci. ||| 짐작했습니다. 나중 문서가 이 문서를 바꾸지 못하게 하는 조항이겠죠.
+JULIEN: Exactement. « Aucun texte postérieur ne modifie la présente déclaration sans l'accord des trois délégations. » ||| 맞습니다. "어떤 후속 문서도 세 대표단의 동의 없이 이 선언문을 변경하지 않는다."
+HAUT-COMMISSAIRE: C'est impossible. Un gouvernement ne peut pas interdire à un autre de modifier un texte. ||| 불가능합니다. 정부가 다른 정부에게 문서 수정을 금지할 수는 없어요.
+DORIVAL: (Se redressant.) Monsieur le haut-commissaire, je ne dirai que quelques mots, et je les dirai doucement. En 1802, le gouvernement français a ajouté soixante-dix-sept articles à un texte que le pape venait de signer. Le pape a protesté, et personne ne l'a écouté. Ce n'est pas ce que nous pouvons demander à nos enfants de lire aujourd'hui : ce serait la même histoire avec un autre costume. ||| (몸을 일으키며.) 고등판무관님, 몇 마디만 하겠습니다. 부드럽게 하겠습니다. 1802년 프랑스 정부는 교황이 막 서명한 문서에 일흔일곱 개 조항을 덧붙였습니다. 교황은 항의했으나 아무도 듣지 않았지요. 우리 아이들에게 읽으라고 할 수 있는 이야기가 아닙니다. 옷만 바꿔 입은 같은 이야기일 테니까요.
+JULIEN: Je ne demande pas d'interdire, monsieur le haut-commissaire. Je demande que tout texte postérieur soit publié avec la déclaration, avec son auteur et sa date, et que l'auteur en rende compte devant les trois délégations. Pas d'interdiction. De la publicité. ||| 금지를 요구하는 게 아닙니다, 고등판무관님. 후속 문서는 모두 선언문과 함께, 작성자와 날짜를 붙여 공개하고, 작성자가 세 대표단 앞에서 설명하게 해 달라는 겁니다. 금지가 아니라 공개입니다.
+HAUT-COMMISSAIRE: (Il réfléchit.) Publicité, auteur, date, compte rendu devant les trois délégations. Je ne peux pas l'interdire. Je peux m'engager à le publier. Je le fais de mon nom : « Le haut-commissaire publie tout texte postérieur avec la présente déclaration. » ||| (생각하며.) 공개, 작성자, 날짜, 세 대표단 앞의 설명. 금지할 수는 없습니다. 공개하겠다는 약속은 할 수 있어요. 제 이름으로 하겠습니다. "고등판무관은 모든 후속 문서를 이 선언문과 함께 공표한다."
+LAMY: Au présent. Avec un sujet. Il y a un homme dans la phrase, Cadet. ||| 현재형이고 주어가 있군. 문장 안에 사람이 있소, 카데 씨.
+CADET: Je n'ai jamais dit autre chose, Lamy. On peut être d'accord. Cela arrive, une fois par siècle. ||| 나는 다른 말을 한 적이 없소, 라미 씨. 같은 의견일 수도 있지. 한 세기에 한 번쯤은요.
+NÉRÉE: Et pour les enfants, le premier point de l'ordre du jour ? ||| 그리고 아이들 건은요? 의제의 첫 항목 말입니다.
+JULIEN: Article huit, le premier de la négociation. « Dans tous les cas, l'école, la santé et les liaisons maritimes sont inscrites au premier point de l'ordre du jour. » ||| 8조, 협상의 첫 항목입니다. "모든 경우에, 학교와 보건과 해상 연결은 의제 첫 항목에 오른다."
+NÉRÉE: « Sont inscrites ». Je note qu'elles le sont déjà. J'y crois davantage que « seront ». ||| '오른다'. 이미 올라 있다는 말이네요. '오를 것이다'보다 더 믿음이 갑니다.
++ rédiger au présent = 현재형으로 작성하다. 프랑스 법 문체는 규칙을 현재 직설법으로 쓴다
++ le présent de la règle = 규칙의 현재. 'La session s'ouvre le premier lundi'처럼 앞으로 일어날 일도 현재로 정해 두는 용법
++ tel quel = 있는 그대로. 기득권을 더하지도 덜지도 않는다는 뜻
++ en revanche = 반면에. 앞 내용과 대조하여 거절을 이어 붙일 때
++ de la publicité, pas une interdiction = 금지가 아니라 공개. 열린 이력 원칙을 협정 문장으로 옮긴 표현
++ il y a un homme dans la phrase = 문장 안에 사람이 있다. 행위 주체가 명시됐다는 뜻
++ ils le sont déjà = 이미 그렇다. 'le'는 앞 문장의 서술어 'inscrites'를 대신하는 중성 대명사
+
+## 정리된 쪽 — LES PARAPHES
+CAMILLE: Seize heures cinquante. Quatorze articles. Onze au présent. Trois futurs, mais avec un sujet et une date. Et un quatorzième : « Le haut-commissaire publie tout texte postérieur avec la présente déclaration. » ||| 16시 50분. 조항은 열네 개. 열한 개가 현재형. 미래형은 셋인데 주어와 날짜가 붙어 있어. 그리고 열네 번째. "고등판무관은 모든 후속 문서를 이 선언문과 함께 공표한다."
+JULIEN: Qui paraphe en premier ? ||| 누가 먼저 가서명합니까?
+HAUT-COMMISSAIRE: Monsieur Delorme, ici nous avons un usage. Nous signons dans l'ordre alphabétique des organisations. ||| 들로름 실장님, 여기엔 관례가 있습니다. 단체 이름의 알파벳순으로 서명합니다.
+SAINTE-ROSE: Alliance Archipel, Église, Chambre de commerce, Front, Union. Moi, je suis la première, et le Front est le dernier, ça ne me gêne pas. Cela le gêne ? ||| 아르시펠 동맹, 교회, 상공회의소, 전선, 연합. 제가 첫 번째고 전선이 마지막인데 저는 개의치 않아요. 그쪽은 개의하나요?
+LAMY: Cela m'est égal. Je serai dernier sur cette page, premier sur la suivante : la prochaine fois, on commence par la fin. ||| 상관없습니다. 이 쪽에서는 마지막이지만 다음 쪽에서는 첫 번째일 테니까요. 다음엔 끝에서부터 시작합시다.
+JULIEN: Madeleine Soulier aurait été fière de vous. L'alternat. ||| 마들렌 술리에 씨가 자랑스러워했을 거예요. 알테르나.
+SAINTE-ROSE: (Elle signe.) Alliance Archipel, Odile Sainte-Rose. ||| (서명하며.) 아르시펠 동맹, 오딜 생트로즈.
+DORIVAL: Église catholique de Saint-Aubin, Anselme Dorival. Et, si le pasteur le permet, nous signons à deux. ||| 생토뱅 가톨릭 교회, 안셀름 도리발. 목사님이 허락하시면 둘이서 서명합시다.
+NÉRÉE: Avec joie, monseigneur. Églises réunies. C'est la première fois que nous signons la même ligne. ||| 기쁜 마음으로요, 주교님. 연합 교회. 같은 줄에 서명하는 건 처음입니다.
+FABRE: Chambre de commerce de l'archipel, Lucienne Fabre. Je signe parce que je vois enfin un verbe qui a un propriétaire. ||| 군도 상공회의소, 뤼시엔 파브르. 마침내 주인이 있는 동사를 보았기에 서명합니다.
+LAMY: Front de l'Émancipation, Wilfried Lamy. Et j'ajoute à la main, en marge, la phrase de mon arrière-grand-père : « Nous voulons un maître chez nous ». Il a signé d'une croix. Moi, de mon nom. ||| 해방전선, 윌프리드 라미. 그리고 여백에 손으로 증조할아버지의 문장을 적겠습니다. "우리는 우리 집에 선생 한 명을 원한다." 그분은 십자로 서명하셨고 저는 이름으로 합니다.
+CADET: Union saint-aubinaise, Hippolyte Cadet. (Il pose le stylo.) Je ne pensais pas signer avant dimanche. ||| 생토뱅 연합, 이폴리트 카데. (펜을 내려놓으며.) 일요일 전에 서명할 줄은 몰랐소.
+HAUT-COMMISSAIRE: Pour la République française, le haut-commissaire Étienne Marchand. Je signe de mon nom et je publie. Messieurs, madame, monseigneur : jamais de ma vie je n'avais lu un texte avec autant de verbes au présent. ||| 프랑스 공화국을 대표하여 고등판무관 에티엔 마르샹. 제 이름으로 서명하고 공표합니다. 여러분, 주교님. 평생 이렇게 현재형 동사가 많은 문서를 읽은 적이 없습니다.
+JULIEN: Madame Vantour, la salle est à vous. ||| 방투르 시장님, 이 방은 이제 시장님 겁니다.
+VANTOUR: Merci à tous. Il est dix-sept heures. À dix-huit heures, la radio lira le texte, au présent, en français et en créole. Et ce soir, vous êtes tous invités à la criée, sur la ligne de craie. Armand Rivière fait la soupe de poisson. ||| 모두 감사합니다. 지금 17시예요. 18시에 라디오가 현재형으로 프랑스어와 크레올어로 문서를 낭독합니다. 그리고 오늘 저녁 모두 어시장 경매장의 분필 선 위로 초대합니다. 아르망 리비에르가 생선 수프를 끓여요.
+HÉLÈNE: (Message.) « Jour vingt-trois, 17 h 05. Le message vocal vient d'être retiré de deux messageries sur trois. Garrec a quitté l'archipel par le vol de seize heures, vers Dublin. Ce n'est pas la fin. C'est une pause pour changer de voix. » ||| (문자.) "23일째 17시 5분. 음성 메시지가 세 메신저 중 두 곳에서 삭제됐습니다. 가렉은 16시 비행기로 더블린으로 떠났어요. 끝이 아닙니다. 목소리를 바꾸기 위한 휴지기예요."
+JULIEN: Elle change de voix, nous, de temps. Camille, appelle Sylvaine : je veux qu'elle enregistre la lecture, pas seulement qu'elle la fasse en direct. Une trace. ||| 그쪽은 목소리를 바꾸고 우리는 시제를 바꿨네. 카미유, 실벤에게 전화해. 생방송만이 아니라 낭독을 녹음해 달라고 해. 흔적이 필요해.
+CAMILLE: Une trace, comme à Versailles. Tu es incorrigible. ||| 베르사유 때처럼 흔적이구나. 못 말려.
+LÉA: (Message.) « Papa, une définition, pour ma dissert : le présent, c'est le temps de celui qui parle. Le futur, c'est le temps de celui qui n'est pas là. Dis-moi que j'ai raison, ou dis-moi pourquoi j'ai tort. » ||| (문자.) "아빠, 논술에 쓸 정의예요. 현재는 말하는 사람의 시제. 미래는 그 자리에 없는 사람의 시제. 제가 맞다고 해 주세요, 아니면 왜 틀렸는지 알려 주세요."
+JULIEN: Réponds-lui : « Tu as raison à moitié. Le futur est aussi le temps de celui qui promet, quand il a un nom et une date. » ||| 이렇게 답해 줘. "반은 맞다. 미래는 이름과 날짜가 있으면 약속하는 사람의 시제이기도 하다."
+CAMILLE: Tu veux que j'ajoute : « Et c'est la première fois que le Quai d'Orsay écrit au présent » ? ||| "그리고 케도르세가 현재형으로 쓴 건 처음이다"를 덧붙일까?
+JULIEN: Non. Mets : « Mange quelque chose. » C'est la phrase la plus importante de ma journée. ||| 아니. "뭐 좀 먹어."라고 써. 오늘 가장 중요한 문장이야.
++ parapher = 가서명하다. 문서의 쪽마다 머리글자나 서명으로 확인하는 일
++ dans l'ordre alphabétique = 알파벳순으로. 3부 베르사유 서명 방식과 이어지는 서열 해소 장치
++ en marge = 여백에. 라미가 원문 문장을 손으로 덧붙이는 위치
++ publier = 공표하다, 공개하다. 열린 이력 원칙에서 가장 중요한 동사
++ pour la République française = 프랑스 공화국을 대표하여. 서명란에 쓰는 정식 표현
++ une pause pour changer de voix = 목소리를 바꾸기 위한 휴지기. 발루아 잔당이 전술을 바꾸는 모습
++ tu as raison à moitié = 반은 맞다. 'avoir raison'에 'à moitié'를 붙인 정도 표현

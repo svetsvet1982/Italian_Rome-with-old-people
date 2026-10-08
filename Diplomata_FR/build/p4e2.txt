@@ -1,0 +1,226 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 4
+@ep 2
+@title Le dîner de Talleyrand
+@ko 탈레랑의 만찬
+@setting 케도르세 의전실(목요일 오후 4시, J-11) → 파리 7구 식당 «Chez Madeleine» 안쪽 둥근 식탁(저녁 8시~11시) → 식당 앞 보도(밤 11시) → 중재조정실(자정 이후)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 금요일까지 파리 체류
+@cast OKANLA | 나데주 오칸라, 말라비 주프랑스 대사, 56세. 이날 만찬의 주최자
+@cast BANDA | 이드리사 방다, 말라비 대사관 정무참사관, 49세. 강경파
+@cast VANTOUR | 로잘리 방투르, 포르오뱅 시장, 59세. 파리 출장 중
+@cast LAMOURE | 질베르 라무르, 케도르세 의전장, 60세(허구)
+@cast MADELEINE | 마들렌 술리에, 식당 «Chez Madeleine»의 주방장 겸 주인, 61세(허구)
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 전화와 문자
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 문자로만 등장
+@note 4-1에서 쥘리앵은 질문 문안을 «Souhaitez-vous que Saint-Aubin et la République française ouvrent une négociation sur le statut de l'archipel, dont le résultat vous sera soumis par un second vote ?»로 고쳤습니다. 오늘 아침 세 정당에 동시에 보냈고 반응은 갈립니다(동맹은 수용, 전선은 «두 번째 투표는 시간 끌기», 연합은 «협상은 후퇴»). 말라비는 침묵하다가 오칸라 대사가 만찬을 제안합니다. 문제는 자리입니다. 대사, 강경파 참사관, 포르오뱅 시장, 은퇴 대사 가운데 누구를 어디에 앉혀도 지위에 대한 입장을 드러내 버립니다. 해법의 순간은 주방장 마들렌의 한마디입니다. «자리는 하루 종일 가지만 순서는 국자 하나만큼만 갑니다.» 쥘리앵은 공간의 서열을 시간으로 옮깁니다. 여섯 접시마다 매번 다른 사람이 가장 먼저 대접받는, 이른바 «alternat(교대 서명)»의 식탁판입니다. 역사 배경은 빈 회의(1814~1815)입니다. 패전국 프랑스의 대표 탈레랑은 1815년 1월 3일 영국·오스트리아와 비밀 방어 조약을 맺어 4대국의 틈을 파고들었고, 1815년 3월의 빈 규정은 같은 등급의 외교관 사이의 서열을 «도착을 공식 통보한 날짜순»으로 정했습니다. 즉 가치가 아니라 시간을 서열의 기준으로 삼은 것입니다. 탈레랑의 요리사 카렘(Carême)이 빈에 동행했다는 일화, 탈레랑이 «냄비가 훈령보다 더 필요합니다»라고 말했다는 일화, 빈에서 브리 드 모가 «치즈의 왕»으로 뽑혔다는 일화는 모두 전해지는 이야기이고 확증은 약하므로 대사 속에서 «전한다», «전설에 따르면»으로 표시했습니다. 어휘는 le placement, la préséance, le service, l'alternat, 접속법(avant que, sans que, quoique)에 주목하세요.
+@next 4-3 «Les cahiers»: 포르오뱅의 시장 방투르가 포스터의 한 문장을 지적한다. 1946년 청원에서 따왔다는 «우리는 우리 집의 주인이 되길 원한다». 쥘리앵과 카미유는 아침 기차로 엑상프로방스의 해외문서고에 간다.
+
+## 의전장의 세 가지 배치 — LES TROIS PLANS DE LAMOURE
+LAMOURE: Monsieur Delorme, je vous préviens : je ne suis pas là pour dire non, je suis là pour dire où. Vous m'avez donné six noms et un dîner. Voici trois plans, A, B et C. Chacun a un défaut. ||| 들로름 실장님, 미리 말씀드립니다. 저는 안 된다고 하러 온 게 아니라 어디라고 말하러 왔습니다. 이름 여섯과 만찬 하나를 주셨죠. 여기 A, B, C 세 가지 배치가 있습니다. 모두 결함이 있습니다.
+JULIEN: Dites-moi les défauts, je les préfère aux qualités. ||| 결함부터 말씀해 주세요. 장점보다 그게 낫습니다.
+LAMOURE: Plan A : l'ambassadrice reçoit en bout de table. À sa droite, la place d'honneur : M. de Valcourt, qui a le titre d'ambassadeur de France à vie. Défaut : pour M. Banda, c'est l'homme qui a gardé la lettre de 1962 dans un tiroir. ||| A안입니다. 대사님이 상석 끝에서 주최하시고, 그 오른쪽 명예석에 종신 프랑스 대사 직함을 가진 발쿠르 대사님을 앉힙니다. 결함은 이거예요. 방다 씨에게 그분은 1962년 서한을 서랍에 넣어 둔 사람입니다.
+JULIEN: Il ne l'a pas caché, il l'a gardé. Mais je comprends l'allergie. Plan B ? ||| 숨긴 게 아니라 간직한 거죠. 하지만 알레르기는 이해합니다. B안은요?
+LAMOURE: Plan B : Mme Vantour à la droite de l'ambassadrice. Une élue de l'archipel placée à l'honneur chez Kandara. Défaut : cela vaut presque reconnaissance. Dans les chancelleries, on lira que Kandara traite Saint-Aubin comme un interlocuteur. ||| B안입니다. 방투르 시장님을 대사님의 오른쪽에 앉힙니다. 군도의 선출직이 칸다라의 집에서 영예를 받는 셈이죠. 결함은 사실상 승인처럼 보인다는 겁니다. 각국 외교 공관은 칸다라가 생토뱅을 대화 상대로 대한다고 읽을 겁니다.
+CAMILLE: Et plan C, je suppose : M. Banda à la droite, Mme Vantour tout au bout. ||| 그러면 C안은, 방다 씨가 오른쪽이고 방투르 시장님이 맨 끝이겠죠.
+LAMOURE: Mademoiselle Roussel a bien deviné. Défaut : cela vaut presque reconnaissance en sens inverse. Mme Vantour est la maire d'une commune française ; la placer au bout, c'est dire à Paris que Kandara a la préséance sur une élue de la République. ||| 루셀 양이 잘 짐작하셨네요. 결함은 반대 방향의 사실상 승인이라는 겁니다. 시장님은 프랑스 코뮌의 시장입니다. 맨 끝에 앉히면 칸다라가 공화국 선출직보다 앞선다고 파리에 말하는 꼴이 되죠.
+JULIEN: Trois plans, trois prises de position. Une table ronde ? ||| 배치 셋에 입장 표명이 셋이네요. 원탁은요?
+LAMOURE: La table ronde est un mythe, monsieur. Il y a toujours une place face à la porte, une place près de la cuisine, une place à la droite de celui qui reçoit. Quant au décret de 1989 sur les préséances, il ne s'applique pas à un dîner privé, mais tout le monde le lira comme s'il s'appliquait. ||| 원탁은 신화입니다, 실장님. 문을 마주 보는 자리, 주방 가까운 자리, 주최자 오른쪽 자리는 늘 있습니다. 1989년 서열령은 사적 만찬에는 적용되지 않지만 모두 적용되는 것처럼 읽을 겁니다.
+CAMILLE: Six chaises, six personnes : sept cent vingt façons de les ranger. Je les ai comptées. ||| 의자 여섯에 사람 여섯이면 배치는 720가지야. 세어 봤어.
+JULIEN: Et sept cent vingt façons de se fâcher. Madame Archambault a posé une règle ? ||| 그리고 기분 상할 방법도 720가지겠지. 비서실장님이 규칙을 하나 정하셨죠?
+ARCHAMBAULT: (À distance, sur haut-parleur.) Une règle, une seule : « aucun placement ne vaut reconnaissance ». Pas de menu en vue de la presse, pas de document sur table, et le compte rendu demain à huit heures. Madame Okanla invite, madame Okanla paie. ||| (스피커폰으로.) 규칙은 하나입니다. "어떤 배치도 승인으로 간주되어서는 안 된다." 언론용 메뉴 없음, 식탁에 문서 없음, 보고서는 내일 8시까지. 오칸라 대사가 초대하고 대사가 지불합니다.
+JULIEN: Je prends note. Madame Archambault, avez-vous la réaction des partis à la ligne de ce matin ? ||| 알겠습니다. 비서실장님, 오늘 아침 줄에 대한 정당들의 반응은 들어오셨나요?
+ARCHAMBAULT: L'Alliance Archipel accepte, avec un soupir. Le Front de l'Émancipation dit que le second vote est un frein : « on nous fait attendre dix-huit mois pour nous dire non ». L'Union saint-aubinaise dit que « négociation » est déjà un recul. Kandara se tait. ||| 아르시펠 동맹은 한숨과 함께 수용했습니다. 해방전선은 두 번째 투표가 브레이크라고, "18개월 기다리게 한 뒤 안 된다고 하려는 것"이라고 합니다. 생토뱅 연합은 '협상'이라는 단어부터가 후퇴라고 하고요. 칸다라는 침묵 중입니다.
+JULIEN: Trois partis, trois reproches différents. C'est plutôt bon signe : la ligne ne penche d'aucun côté. ||| 정당 셋에 비난이 셋이네요. 오히려 좋은 신호입니다. 줄이 어느 한쪽으로도 기울지 않았다는 뜻이니까요.
+ARCHAMBAULT: Ou elle ne plaît à personne. Bonne soirée, monsieur Delorme. ||| 아니면 아무도 마음에 들어하지 않거나요. 좋은 저녁 되세요, 들로름 실장님.
+VALCOURT: (Entrant sans frapper.) Messieurs, je vous entends d'ici chercher la bonne place dans l'espace. Talleyrand cherchait le bon moment dans le temps. ||| (노크 없이 들어오며.) 여러분, 여기서도 공간에서 좋은 자리를 찾는 소리가 들리는군. 탈레랑은 시간에서 좋은 순간을 찾았다네.
+LAMOURE: Monsieur l'ambassadeur. Je suis toujours honoré de vous voir au Quai. ||| 대사님. 케도르세에서 뵐 때마다 영광입니다.
+VALCOURT: Vous me flattez, Lamoure, c'est mauvais pour la digestion. Écoutez ceci : en mars 1815, au Congrès de Vienne, les puissances ont fini par régler le rang des diplomates. À classe égale, la préséance suit la date où l'on a notifié officiellement son arrivée. ||| 라무르 군, 날 치켜세우지 말게. 소화에 나빠. 이걸 들어 보게. 1815년 3월 빈 회의에서 열강은 마침내 외교관의 서열을 정했네. 같은 등급이라면 도착을 공식 통보한 날짜가 선후를 정하는 거지.
+JULIEN: On a remplacé « qui vaut le plus ? » par « qui est arrivé le premier ? ». ||| '누가 더 값나가는가'를 '누가 먼저 왔는가'로 바꿨다는 거군요.
+VALCOURT: Exactement. Le temps ne vexe personne : le calendrier n'a pas de préférence. Et Talleyrand, qui représentait un vaincu, a gagné son siège à la table par une autre vertu : il a su dire qu'il y avait des principes plus hauts que le rang. ||| 바로 그거야. 시간은 누구의 심기도 건드리지 않아. 달력은 편애하지 않으니까. 그리고 패전국을 대표했던 탈레랑은 다른 덕목으로 식탁 자리를 얻었지. 서열보다 높은 원칙이 있다고 말할 줄 알았거든.
+CAMILLE: Les principes, c'est la « légitimité », non ? ||| 그 원칙이 '정통성'이잖아요?
+VALCOURT: Oui. Et un traité secret à trois, le 3 janvier 1815, avec l'Angleterre et l'Autriche, pour montrer aux autres que la France n'était plus seule à la table. Quant à la cuisine, on raconte qu'il avait emmené son cuisinier, Carême, et qu'il aurait dit : « Sire, j'ai plus besoin de casseroles que d'instructions. » Je ne vous garantis pas la phrase. ||| 그렇지. 그리고 1815년 1월 3일 영국·오스트리아와 맺은 3자 비밀 조약으로 프랑스가 더는 식탁에서 외톨이가 아니라는 걸 보여 줬어. 부엌 쪽은 이렇게들 말하네. 요리사 카렘을 데려갔고 "폐하, 저는 훈령보다 냄비가 더 필요합니다"라고 했다고. 그 문장은 내가 보증 못 한다.
+JULIEN: Je prends la leçon, pas la phrase. Le rang est une affaire de temps. Mais à un dîner, que mesure-t-on ? ||| 문장 말고 교훈을 가져가겠습니다. 서열은 시간의 문제라고요. 하지만 만찬에서는 무엇으로 잰단 말입니까?
+VALCOURT: Je ne sais pas, mon garçon. Je ne suis ni cuisinier ni protocole. Mais je sais que vous allez dîner chez une dame qui a écrit « une cuisine peut le résoudre ». Elle n'a pas écrit « une table ». ||| 모르겠네, 젊은 친구. 난 요리사도 의전관도 아니니까. 하지만 자네가 만찬을 갈 상대 부인이 '식탁'이 아니라 '부엌이 풀 수 있다'고 썼다는 건 알지.
+LAMOURE: Sauf votre respect, monsieur l'ambassadeur, la cuisine, c'est le seul endroit d'un restaurant que le protocole ne contrôle pas. ||| 외람됩니다만 대사님, 부엌은 식당에서 의전이 통제하지 못하는 유일한 곳입니다.
+VALCOURT: Alors c'est là qu'il faudra aller. ||| 그렇다면 거기로 가야겠군.
++ je ne suis pas là pour dire non, je suis là pour dire où = 안 된다고 말하러 온 게 아니라 어디인지 말하러 왔다. 의전관의 직업 정신
++ aucun placement ne vaut reconnaissance = 어떤 배치도 승인으로 간주되지 않는다. 자리와 외교적 승인의 관계를 막는 원칙
++ valoir reconnaissance = 승인과 같은 효력을 갖다. 'valoir'는 ~에 해당하다
++ la préséance = 서열, 상석권. 의전에서 누가 먼저 오는가의 규칙
++ à classe égale = 같은 등급이라면. 빈 규정의 서열 기준
++ je ne vous garantis pas la phrase = 그 문장은 보증 못 한다. 일화의 정확성을 유보하는 말
++ sauf votre respect = 외람된 말씀이지만. 윗사람에게 반론할 때의 공손한 표현
+
+## 둥근 식탁과 부엌 — LA TABLE RONDE ET LA CUISINE
+CAMILLE: Vingt heures moins dix. Chez Madeleine, rue de Verneuil. Une seule salle, douze tables, et au fond une table ronde pour six. Sur la nappe, six couverts. ||| 8시 10분 전. 베르네이 거리의 '마들렌 식당'. 홀은 하나, 식탁은 열두 개, 안쪽에 여섯 명용 둥근 식탁이 있어. 식탁보 위에 식기가 여섯 벌.
+MADELEINE: (Elle sort de la cuisine en s'essuyant les mains.) Vous êtes les premiers. Je suis Madeleine, c'est moi qui cuisine, c'est moi qui accueille, c'est moi qui ai peur quand les invités arrivent en retard. ||| (손을 닦으며 주방에서 나온다.) 첫 손님이시네요. 마들렌입니다. 요리도, 맞이도 제가 하고, 손님이 늦게 오면 겁먹는 것도 접니다.
+JULIEN: Madame, vous nous aviez réservé la table du fond ? ||| 마들렌 씨, 안쪽 식탁을 예약해 주신 거죠?
+MADELEINE: La table des cuisiniers, oui. Ma mère l'a installée en soixante-dix. Elle disait que personne ne devait mal manger parce que sa chaise était mal placée. Elle n'avait pas lu de traités, mais elle avait raison. ||| 요리사들의 식탁이죠. 어머니가 70년에 놓으셨어요. 의자가 나쁜 곳에 있어서 누가 잘못 먹는 일은 없어야 한다고 하셨죠. 조약문을 읽은 적은 없지만 맞는 말씀이었어요.
+VALCOURT: (Entrant.) Madame Soulier. Trente ans que je passe devant votre porte avec la même question : est-ce que vous avez toujours le lièvre à la royale en novembre ? ||| (들어서며.) 술리에 씨. 삼십 년째 이 문 앞을 지나가며 같은 질문을 했소. 11월에 아직도 '리에브르 아 라 루아얄'을 하시오?
+MADELEINE: Pas ce soir, monsieur l'ambassadeur. Ce soir, c'est un menu à six services, pour six personnes. Je ne sais pas encore pourquoi on me l'a demandé comme ça. ||| 오늘은 아닙니다, 대사님. 오늘은 여섯 접시, 여섯 사람 메뉴예요. 왜 이렇게 주문하셨는지는 아직 모르겠고요.
+OKANLA: (Elle entre, suivie de BANDA.) Je vous l'ai demandé, madame, parce que six est un nombre qui se divise. Bonsoir, messieurs, mademoiselle. ||| (오칸라가 방다와 함께 들어온다.) 부인, 제가 주문했어요. 여섯은 나눌 수 있는 수라서요. 안녕하세요, 신사분들, 아가씨.
+JULIEN: Madame l'ambassadrice. Merci de votre invitation. ||| 대사님. 초대에 감사드립니다.
+OKANLA: Ne me remerciez pas encore. (Elle jette un regard à la porte.) Il nous manque une personne. ||| 아직 고마워하지 마세요. (문 쪽을 흘끗 본다.) 한 분이 아직 안 오셨어요.
+VANTOUR: (Entrant à son tour, un peu essoufflée.) Excusez-moi, le métro de Paris est aussi compliqué que le Conseil de développement conjoint. Madame Okanla ! Monsieur Delorme ! Et… ||| (조금 숨을 몰아쉬며 들어온다.) 늦어서 죄송합니다. 파리 지하철은 공동 개발 협의회만큼 복잡하군요. 오칸라 대사님! 들로름 실장님! 그리고…
+BANDA: Madame le maire. Madame l'ambassadrice, vous ne m'aviez pas dit que Madame serait à cette table. ||| 시장님이시군요. 대사님, 시장님이 이 식탁에 앉으신다는 말씀은 안 하셨습니다.
+OKANLA: Je ne vous l'avais pas dit parce que vous ne seriez pas venu. ||| 말하지 않은 건 말씀드리면 안 오셨을 테니까요.
+BANDA: Précisément. ||| 바로 그 점입니다.
+VANTOUR: Monsieur le conseiller, je suis venue manger. ||| 참사관님, 저는 식사하러 왔습니다.
+BANDA: Madame le maire sait mieux que personne qu'une table est un acte politique. Si je m'assieds à sa gauche, je lui rends hommage. Si je m'assieds à sa droite, je dépends d'elle. Et si l'on nous place face à face, nous négocions. Je n'ai pas été envoyé pour négocier le statut de ses îles à table. ||| 시장님은 누구보다 잘 아십니다. 식탁은 정치 행위라는 걸요. 제가 시장님의 왼쪽에 앉으면 경의를 표하는 것이고, 오른쪽이면 의존하는 것이며, 마주 앉히면 협상하는 겁니다. 저는 식탁에서 시장님 섬들의 지위를 협상하러 파견된 게 아닙니다.
+VANTOUR: Nous nous asseyons à la même table depuis un an dans le Conseil, sur une ligne de craie. Personne n'en est mort. ||| 우리는 일 년 전부터 협의회에서 분필 선 위에 같은 식탁에 앉아 왔어요. 아무도 죽지 않았습니다.
+BANDA: Sur une ligne de craie, justement. La craie s'efface. Le bois d'une table reste. ||| 분필 선 위였으니까요. 분필은 지워지지만 식탁의 나무는 남습니다.
+JULIEN: Monsieur Banda, Madame Vantour, une minute. Aucun placement ne vaut reconnaissance : c'est la règle que j'ai posée dans mon rapport. ||| 방다 씨, 방투르 시장님, 잠깐만요. 어떤 배치도 승인이 아니라는 게 제가 보고서에 쓴 규칙입니다.
+BANDA: Une règle qui est dans votre rapport n'est pas dans ma tête. Mon rapport à moi ne dit pas cela. ||| 선생 보고서에 있는 규칙이 제 머릿속에 있는 건 아닙니다. 제 보고서에는 그렇게 적혀 있지 않아요.
+CAMILLE: (À voix basse, à Julien.) Sept cent vingt façons de s'asseoir, et la seule qu'ils trouvent acceptable est de rester debout. ||| (쥘리앵에게 낮게.) 앉는 방법이 720가지인데 그들이 받아들일 수 있는 건 서 있는 것뿐이야.
+OKANLA: Messieurs, madame, la soupe va refroidir. Je préfère vous le dire en tant que Nadège, et pas en tant qu'ambassadrice : je ne sais pas comment vous asseoir. J'ai passé trois nuits dessus. ||| 여러분, 수프가 식겠어요. 대사가 아니라 나데주로 말씀드릴게요. 어떻게 앉혀야 할지 모르겠어요. 사흘 밤을 새웠습니다.
+MADELEINE: (Depuis le seuil de la cuisine.) Ça, madame l'ambassadrice, c'est un problème de place. Moi, les places, je m'en moque. Mon problème, c'est l'ordre. Je ne sers pas des chaises, je sers des assiettes. ||| (주방 문턱에서.) 대사님, 그건 자리 문제네요. 전 자리는 상관없어요. 제 문제는 순서입니다. 저는 의자를 대접하지 않고 접시를 대접해요.
+JULIEN: Madame Soulier, expliquez-moi la différence. ||| 술리에 씨, 차이를 설명해 주시겠어요?
+MADELEINE: Une place, ça dure toute la soirée. Un tour, ça dure le temps d'une louche. On se bat pour les places parce qu'elles ne bougent pas. Personne ne se bat pour un tour : on sait qu'il revient. ||| 자리는 저녁 내내 가요. 순서는 국자 하나만큼만 가고요. 자리는 안 움직이니까 싸우는 거예요. 순서를 두고 싸우는 사람은 없죠. 돌아온다는 걸 아니까요.
+BANDA: Où voulez-vous en venir, madame ? ||| 무슨 말씀을 하시려는 겁니까, 부인?
+MADELEINE: Je fais six services ce soir : le velouté, l'entrée, le poisson, la viande, le fromage, le dessert. Six plats, six invités. Je peux faire que chacun soit servi le premier une fois, et le dernier une fois. À la fin du repas, personne ne sera passé avant les autres, parce que tout le monde sera passé avant tout le monde. ||| 오늘 여섯 접시를 내요. 수프, 앞 요리, 생선, 고기, 치즈, 디저트. 접시 여섯에 손님 여섯이죠. 모두가 한 번씩 첫 번째로 대접받고 한 번씩 마지막으로 받게 할 수 있어요. 식사가 끝나면 누구도 남보다 먼저 나가지 않은 셈이에요. 모두가 모두보다 먼저 나갔으니까요.
+JULIEN: (Après un silence.) L'alternat. ||| (잠시 침묵 뒤.) 알테르나.
+CAMILLE: L'alternat ? ||| 알테르나?
+JULIEN: C'est un vieil usage des traités. Chaque partie est nommée la première dans son propre exemplaire, ainsi personne n'est inférieur. Madame Soulier vient de l'inventer pour la soupe. On ne règle pas le rang dans l'espace, on le règle dans le temps. ||| 조약의 오래된 관행이야. 각 당사국이 자기 사본에서는 자기 이름이 먼저 나오게 해서 누구도 아랫사람이 되지 않게 하지. 술리에 씨가 방금 그걸 수프에 적용해 낸 거야. 서열을 공간이 아니라 시간에서 정리하는 거지.
+OKANLA: (Presque en riant.) C'est donc cela, « une cuisine peut le résoudre ». Je l'avais écrit sans savoir. ||| (거의 웃으며.) '부엌이 풀 수 있다'는 게 이런 거였군요. 모르고 썼는데.
+BANDA: Et le plat de résistance ? Si l'on sert le premier, ce ne sera pas le même honneur que le velouté. ||| 그럼 메인 요리는요? 첫 번째로 대접받는다 해도 수프 때와는 영예가 같지 않을 텐데요.
+MADELEINE: Alors je vous propose l'ordre suivant, et je l'écris sur le dos du menu. Velouté : monsieur Banda. Entrée : madame Vantour. Poisson : monsieur l'ambassadeur de Valcourt, parce qu'il est le plus âgé. Viande : madame l'ambassadrice, parce que c'est sa maison. Fromage : mademoiselle, parce qu'elle est la plus jeune. Dessert : monsieur Delorme. ||| 그럼 이런 순서를 제안하고 메뉴 뒷면에 적겠어요. 수프는 방다 씨. 앞 요리는 방투르 시장님. 생선은 연세가 가장 높으신 발쿠르 대사님. 고기는 대사님 댁이니 오칸라 대사님. 치즈는 제일 어린 아가씨. 디저트는 들로름 씨.
+VANTOUR: Et les chaises ? ||| 의자는요?
+MADELEINE: Au tirage. Je vais chercher six cuillères en bois dans ma cuisine, numérotées au dos. On pioche sans regarder. La chaise une, c'est la chaise une, ça ne veut rien dire. ||| 뽑기로 해요. 부엌에서 뒤에 번호가 적힌 나무 국자 여섯 개를 가져올게요. 보지 않고 뽑으세요. 1번 의자는 1번 의자일 뿐 아무 의미도 없어요.
+BANDA: (Après un long moment.) C'est une proposition de cuisinière. Mais elle ne vaut pas reconnaissance. ||| (한참 뒤에.) 요리사의 제안이군요. 하지만 승인으로 간주되지는 않겠습니다.
+VANTOUR: Elle ne vaut même pas un traité, monsieur le conseiller. Elle vaut un velouté. ||| 조약만도 못한 제안이지요, 참사관님. 수프의 값어치일 뿐입니다.
+OKANLA: Alors tirons les cuillères. Madame Soulier, merci. Vous venez de gagner une conférence internationale. ||| 그럼 국자를 뽑죠. 술리에 씨, 감사합니다. 국제 회의를 하나 해결하셨어요.
+MADELEINE: Je n'ai rien gagné, madame. J'ai juste décidé qui serait servi d'abord. C'est mon métier. ||| 아무것도 이긴 게 아닙니다. 누가 먼저 대접받을지 정했을 뿐이에요. 그게 제 일이죠.
++ ce qui me préoccupe, c'est… = 제 관심사는 ~입니다. 마들렌의 'mon problème, c'est l'ordre' 구문과 같은 강조 구조
++ une place / un tour = 자리 / 차례. 공간의 질서와 시간의 질서의 대비
++ servi le premier / le dernier = 첫 번째로/마지막으로 대접받은. 서비스 순서를 가리키는 표현
++ l'alternat = 교대 서명 관행. 조약 사본마다 자기 나라 이름이 먼저 나오게 하는 외교 관례
++ au tirage = 추첨으로. 'tirer au sort'는 제비를 뽑다
++ ne pas valoir reconnaissance = 승인에 해당하지 않는다. 방다가 안전장치로 붙이는 말
++ avoir peur quand… = ~할 때 겁이 난다. 요리사의 유머러스한 직업 걱정
+## 여섯 접시 — LES SIX SERVICES
+MADELEINE: Premier service : le velouté de châtaignes. Monsieur Banda, vous êtes servi le premier. ||| 첫 접시, 밤 수프입니다. 방다 씨가 가장 먼저 대접받으십니다.
+BANDA: (Il goûte.) C'est étonnamment bon. Je n'aime pas qu'on me prenne par la cuisine. ||| (맛을 보며.) 놀랍게도 맛있군요. 요리로 저를 사로잡으려는 건 마음에 안 듭니다.
+OKANLA: Idrissa, on ne peut pas être le premier servi et le premier fâché. ||| 이드리사, 가장 먼저 대접받으면서 가장 먼저 화를 낼 수는 없어요.
+JULIEN: Monsieur Banda, puisqu'on vous sert le premier, c'est à vous de parler le premier. Je vous écoute sur la ligne de ce matin. ||| 방다 씨, 가장 먼저 대접받으셨으니 가장 먼저 말씀하실 차례입니다. 오늘 아침의 줄에 대한 의견을 듣겠습니다.
+BANDA: La ligne dit : « Saint-Aubin et la République française ouvrent une négociation ». Deux parties. Où est Kandara dans cette phrase ? ||| 줄은 "생토뱅과 프랑스 공화국이 협상을 시작하고"라고 합니다. 당사자가 둘이죠. 이 문장에 칸다라는 어디 있습니까?
+JULIEN: Pas dans la ligne. Dans la notice, en revanche, je propose deux phrases. Une : « Cette consultation ne préjuge pas des positions de chacun sur la souveraineté. » Deux : « Elle ne modifie pas le Conseil de développement conjoint de Saint-Aubin. » ||| 줄에는 없습니다. 하지만 안내문에는 두 문장을 제안합니다. 하나, "이 투표는 주권에 관한 각자의 입장을 해치지 않는다." 둘, "이 투표는 생토뱅 공동 개발 협의회를 변경하지 않는다."
+BANDA: Deux phrases. Et leur taille ? J'ai vu des notices où la phrase qui nous protège est imprimée en corps six. ||| 문장이 둘이군요. 크기는요? 우리를 보호하는 문장이 6포인트로 찍힌 안내문을 본 적이 있습니다.
+JULIEN: Corps douze, comme la question. Dans la même police, sur la même page. ||| 질문과 같은 12포인트입니다. 같은 서체, 같은 쪽에요.
+CAMILLE: Je note : douze. Décidément, ce nombre nous suit. ||| 적어 둘게. 12. 이 숫자가 계속 따라다니네.
+MADELEINE: Deuxième service : terrine de campagne et cornichons. Madame Vantour, vous êtes servie la première. ||| 두 번째 접시, 시골식 테린과 코르니숑입니다. 방투르 시장님이 가장 먼저 드십니다.
+VANTOUR: Merci. Je dois dire une chose avant de manger. On répète que mon île vote pour Kandara ou pour Paris. On ne vote ni pour l'un ni pour l'autre. On vote pour savoir si on nous parle. ||| 감사합니다. 먹기 전에 한마디 해야겠네요. 사람들은 우리 섬이 칸다라 아니면 파리에 투표한다고들 합니다. 아니에요. 우리는 누군가 우리에게 말을 걸어 주는지 알아보려고 투표해요.
+JULIEN: Un exemple concret ? ||| 구체적인 예를 들어 주시겠어요?
+VANTOUR: À quinze ans, nos enfants prennent le bateau pour terminer le lycée sur le continent. Beaucoup ne reviennent pas. Quand je lis votre ligne, je ne cherche ni « libre » ni « République ». Je cherche si cette négociation parlera du lycée. ||| 열다섯 살이면 우리 아이들은 고등학교를 마치려고 배를 타고 대륙으로 가요. 많은 아이가 돌아오지 않죠. 당신의 줄을 읽을 때 저는 '자유'도 '공화국'도 찾지 않아요. 이 협상이 고등학교를 다루는지 찾습니다.
+JULIEN: Je ne peux pas l'écrire dans la ligne. Mais je peux écrire dans la notice que les services essentiels, l'école, la santé, les transports, seront à l'ordre du jour de la négociation. ||| 줄에 쓸 수는 없습니다. 하지만 안내문에는 학교, 보건, 교통 같은 필수 서비스가 협상 의제에 들어간다고 쓸 수 있습니다.
+VANTOUR: « Seront ». Je retiens le futur et je me méfie du futur. ||| '들어간다'라고 미래형으로요. 미래형은 기억해 두고 의심하겠습니다.
+BANDA: (Reposant sa fourchette.) Je me méfie aussi des affiches. « Oui, c'est être libres. » Qui l'a payée ? ||| (포크를 내려놓으며.) 저도 포스터를 의심합니다. "예, 그것이 자유로워지는 것." 누가 돈을 댔습니까?
+VANTOUR: Un « comité citoyen pour l'avenir ». Personne n'a vu un citoyen. ||| '미래를 위한 시민 위원회'요. 시민을 본 사람은 아무도 없어요.
+BANDA: Le même type de comité nous a offert une étude. Pardon, madame l'ambassadrice. J'allais attendre le poisson. ||| 같은 종류의 위원회가 우리에게 연구 보고서를 선물했습니다. 죄송합니다, 대사님. 생선까지 기다리려 했는데.
+OKANLA: Une étude ? ||| 연구 보고서요?
+MADELEINE: Troisième service : sole meunière. Monsieur l'ambassadeur de Valcourt, vous êtes servi le premier. ||| 세 번째 접시, 솔 뫼니에르입니다. 발쿠르 대사님이 가장 먼저 드십니다.
+VALCOURT: Je suis servi le premier parce que je suis le plus vieux. Voilà une règle que je n'ai jamais contestée. Idrissa Banda, laissez-moi finir ma sole pendant que vous racontez. ||| 가장 늙었다고 제일 먼저 주는군. 한 번도 이의를 제기하지 않은 규칙이야. 이드리사 방다 씨, 내가 솔을 끝내는 동안 이야기하시오.
+BANDA: Il y a dix jours, l'ambassade a reçu par courrier électronique une étude de quarante pages : « Saint-Aubin : le risque de l'irréversible ». Pas de signature. Une société, Horizon Civique, nous l'a envoyée « à titre de courtoisie ». ||| 열흘 전 대사관이 이메일로 마흔 쪽짜리 연구 보고서를 받았습니다. "생토뱅, 되돌릴 수 없는 것의 위험." 서명은 없었고 호리즌 시비크라는 회사가 '호의로' 보냈습니다.
+CAMILLE: Quelle était sa conclusion ? ||| 결론이 뭐였나요?
+BANDA: Que, si le oui passe, le nouveau statut entraînerait l'extinction du Conseil de développement conjoint, et donc de la lettre de 1962. C'est cette étude qui a nourri la note de mardi. ||| '예'가 통과되면 새 지위 때문에 공동 개발 협의회가 소멸하고, 따라서 1962년 서한도 효력을 잃는다는 겁니다. 화요일 공한의 바탕이 된 게 이 보고서입니다.
+OKANLA: Je ne l'ai pas lue. ||| 저는 읽지 못했어요.
+BANDA: Vous étiez à Genève. Le ministre, lui, l'a lue en entier. ||| 제네바에 계셨으니까요. 장관님은 전부 읽으셨고요.
+JULIEN: Je voudrais la voir. Pas pour la contester. Pour lire sa date. ||| 저도 보고 싶습니다. 반박하려는 게 아니라 날짜를 읽으려고요.
+CAMILLE: Quand l'avez-vous reçue exactement ? ||| 정확히 언제 받으셨나요?
+BANDA: Il y a dix jours. Un mardi. ||| 열흘 전입니다. 화요일이었죠.
+CAMILLE: Le texte de travail est parti à l'assemblée territoriale le lundi précédent. Elle l'a eu un jour avant son premier lecteur à Kandara. ||| 작업 문안은 그 전 월요일에 영토 의회로 갔어. 이 보고서는 칸다라 첫 독자보다 하루 앞서 문안을 갖고 있었던 거야.
+VALCOURT: (En posant sa fourchette.) Je pense à Talleyrand à Vienne. Il savait tout avant les autres, parce qu'il savait où chercher : chez les valets, chez les cuisiniers, chez les dames du soir. Aujourd'hui, c'est dans les boîtes électroniques. La vitesse d'un esprit n'a pas changé. Seul le valet est devenu invisible. ||| (포크를 내려놓으며.) 빈의 탈레랑이 생각나는군. 그는 어디를 찾아야 할지 알기에 남들보다 먼저 모든 걸 알았지. 하인들, 요리사들, 저녁 모임의 귀부인들에게서. 요즘은 전자우편함이야. 정신의 속도는 그대로고 하인만 눈에 안 보이게 됐네.
+OKANLA: Je lirai l'étude cette nuit. Idrissa, vous me l'enverrez ? ||| 오늘 밤 보고서를 읽겠어요. 이드리사, 보내 주실래요?
+BANDA: Demain à midi, à vous et à M. Delorme. Elle porte une date que je n'avais pas vérifiée. J'aurais dû. ||| 내일 정오에 대사님과 들로름 실장님께 보내겠습니다. 제가 확인하지 않은 날짜가 적혀 있군요. 했어야 했는데.
+MADELEINE: Quatrième service : canard rôti aux navets. Madame l'ambassadrice, c'est votre maison, vous êtes servie la première. ||| 네 번째 접시, 순무를 곁들인 오리 구이입니다. 대사님, 대사님 댁이니 가장 먼저 드십니다.
+OKANLA: Merci. Je vais parler pendant que le canard est chaud. Mon ministre parlera samedi à midi, heure de Kandara, à la radio nationale. Ce qu'il dira dépend de ce que vous m'aurez donné ce soir. ||| 감사합니다. 오리가 따뜻할 때 말할게요. 우리 장관은 토요일 정오, 칸다라 시간으로 국영 라디오에서 발언합니다. 무슨 말을 할지는 오늘 밤 당신이 제게 주는 것에 달려 있어요.
+JULIEN: Qu'est-ce que je dois vous avoir donné ? ||| 제가 무엇을 드려야 합니까?
+OKANLA: Trois choses. Les deux phrases dans la notice, en corps douze. La lecture simultanée de la question dans la version anglaise, afin que nous ne la lisions pas dans une traduction de Paris. Et un fil direct entre votre bureau et le mien, jusqu'au dimanche soir. ||| 세 가지예요. 안내문의 두 문장을 12포인트로. 파리가 번역한 판본이 아니라 영어판으로 동시에 낭독하는 일. 그리고 일요일 저녁까지 당신 사무실과 제 사무실 사이의 직통선.
+JULIEN: Les deux premières, je les donne ce soir. La troisième, je peux vous l'écrire sur la nappe, mais Madame Archambault m'a interdit le papier. ||| 처음 두 가지는 오늘 밤 드립니다. 세 번째는 식탁보에 써 드릴 수도 있지만 비서실장님이 종이를 금지하셨어요.
+OKANLA: Dites-le à voix haute. Les mots dits à table, devant six témoins et une cuisinière, ont un poids. ||| 소리 내어 말씀하세요. 증인 여섯 명과 요리사 앞에서 식탁에 대고 한 말은 무게가 있습니다.
+JULIEN: Un fil direct, de mon bureau au vôtre, de ce soir jusqu'à dimanche soir. Ma parole, ma voix. ||| 오늘 밤부터 일요일 저녁까지 제 사무실과 대사님 사무실 사이의 직통선. 제 말, 제 목소리로 약속합니다.
+OKANLA: Et une quatrième chose, qui est plus personnelle : ne parlez pas de Kandara comme d'un voisin inquiet. Parlez-en comme d'un signataire. ||| 그리고 네 번째는 좀 더 개인적인 부탁이에요. 칸다라를 불안한 이웃처럼 말하지 마세요. 서명 당사자로 말해 주세요.
+JULIEN: Un signataire. Je l'écrirai comme cela. ||| 서명 당사자. 그렇게 쓰겠습니다.
+MADELEINE: Cinquième service : fromages. Un brie de Meaux, un comté, une tomme de Savoie pour monsieur Delorme qui me semble en avoir mangé aujourd'hui. Mademoiselle, vous êtes la première servie. ||| 다섯 번째 접시, 치즈입니다. 모(Meaux)의 브리, 콩테, 그리고 오늘 이미 드셨을 것 같은 들로름 씨를 위한 사부아 톰이에요. 아가씨가 가장 먼저 드십니다.
+CAMILLE: Je vais prendre le brie. (Elle coupe d'un coup net la pointe du triangle.) ||| 브리를 먹을게요. (그녀가 삼각형의 뾰족한 끝을 단번에 자른다.)
+VALCOURT: Elle a coupé le nez ! ||| 코를 잘랐군!
+CAMILLE: Le nez ? ||| 코요?
+VALCOURT: La pointe du triangle, la meilleure part. On ne coupe pas le nez du fromage, on le laisse au suivant. On coupe en suivant la pointe vers le milieu, pour que tout le monde ait un peu de croûte et un peu de cœur. ||| 삼각형의 뾰족한 끝, 가장 맛있는 부분이지. 치즈의 코는 자르지 않고 다음 사람에게 남겨 둔다네. 뾰족한 끝에서 가운데 방향으로 잘라야 모두가 껍질과 속을 조금씩 갖게 되지.
+MADELEINE: On ne meurt pas d'avoir coupé un nez, mademoiselle. Mais on se fait regarder. ||| 코를 잘랐다고 죽지는 않아요, 아가씨. 쳐다보긴 하겠지만요.
+CAMILLE: Je viens de Marseille, chez nous on coupe le pain, pas le fromage. ||| 전 마르세유 출신이라 우리는 치즈가 아니라 빵을 잘라요.
+VALCOURT: Le brie de Meaux, justement. On raconte qu'à Vienne, pendant le Congrès, Talleyrand aurait organisé un dîner où chaque délégation apportait le fromage de son pays, et qu'un jury de gourmets aurait couronné le brie « roi des fromages et fromage des rois ». Légende, très probablement. Aucun historien sérieux ne s'y engage. Mais elle dit quelque chose de vrai : on ne conclut pas un traité avant d'avoir mangé ensemble. ||| 마침 모(Meaux)의 브리군. 이런 이야기가 있네. 빈 회의 때 탈레랑이 각국 대표단이 자기 나라 치즈를 가져오는 만찬을 열었고, 미식가 심사단이 브리를 '치즈의 왕, 왕들의 치즈'로 뽑았다고. 아마 전설일 걸세. 진지한 역사가는 아무도 장담 안 해. 하지만 참말이 하나 있지. 함께 먹기 전에는 조약을 맺지 않는다는 것.
+BANDA: (Après un temps.) Alors le second vote est le nez du fromage. On ne le prend pas : on le laisse à ceux qui viennent après. ||| (잠시 뒤.) 그렇다면 두 번째 투표는 치즈의 코로군요. 먼저 가져가지 않고 뒤에 오는 사람들에게 남겨 두는 것.
+JULIEN: C'est cela. La ligne ne prend pas la meilleure part, qui est la décision. Elle la laisse au second vote. Le premier vote ne coupe pas le nez. ||| 그렇습니다. 줄은 가장 좋은 몫, 즉 결정을 가져가지 않아요. 그 몫을 두 번째 투표에 남겨 둡니다. 첫 번째 투표는 코를 자르지 않습니다.
+VANTOUR: Il faudra mettre cela dans la notice, en d'autres mots. « Le premier vote ne tranche rien. Il ouvre. » ||| 안내문에 다른 말로 넣어야겠네요. "첫 번째 투표는 아무것도 결정하지 않는다. 문을 연다."
+MADELEINE: Sixième service : la tarte Tatin. Monsieur Delorme, vous êtes servi le premier, et ce n'est pas un honneur, c'est la dernière assiette. ||| 여섯 번째 접시, 타르트 타탱입니다. 들로름 씨가 가장 먼저 드시는데 영예가 아니라 마지막 접시일 뿐이에요.
+JULIEN: Alors laissez-moi lire les deux phrases de la notice, une dernière fois, et dites-moi si l'un de vous veut les changer. « Cette consultation ne préjuge ni des positions de chacun sur la souveraineté ni des engagements de 1962. Elle ne modifie pas le Conseil de développement conjoint de Saint-Aubin. » ||| 그러면 안내문의 두 문장을 마지막으로 읽겠습니다. 바꾸고 싶은 분은 말씀해 주세요. "이 투표는 주권에 관한 각자의 입장도, 1962년의 약속도 해치지 않는다. 이 투표는 생토뱅 공동 개발 협의회를 변경하지 않는다."
+BANDA: J'ajoute un mot : « ni des engagements de 1962 qui demeurent ». Non, j'oublie. Laissez comme cela. C'est plus simple, et plus fort. ||| 한 단어를 더하고 싶습니다. "유지되는 1962년의 약속도". 아니, 취소하겠습니다. 그대로 두십시오. 더 간단하고 더 강하군요.
+OKANLA: Je transmets à mon ministre cette nuit. Je ne promets rien. Je promets de lire deux fois. ||| 오늘 밤 장관께 전하겠어요. 약속은 하지 않습니다. 두 번 읽겠다는 약속만 합니다.
+VALCOURT: À l'ordre des plats ! ||| 접시의 순서를 위하여!
+VANTOUR: À celles et ceux qui sont servis d'abord, et qui n'oublient pas ceux qui le seront après ! ||| 먼저 대접받으면서도 나중에 받을 사람들을 잊지 않는 모든 분들을 위하여!
+MADELEINE: Et à la cuisinière, qui n'a rien signé et qui a tout gagné. Santé. ||| 아무것도 서명하지 않고 모든 걸 이긴 요리사를 위해서도요. 건배.
++ servi le premier = 가장 먼저 대접받은. 요리 순서를 나타내는 과거분사 구문
++ se méfier de qqn/qqch = ~을 경계하다. 방투르의 'je me méfie du futur'
++ à titre de courtoisie = 호의의 표시로. 대가 없이 건넨다는 척하는 공식 표현
++ couper le nez du fromage = 치즈의 뾰족한 끝을 자르다. 좋은 몫을 혼자 차지하는 실례
++ une légende, très probablement = 아마도 전설. 역사적 확증이 약한 일화에 붙이는 말
++ ne pas préjuger de… = ~을 미리 판단하지 않다. 'préjuger'와 'sans préjudice de'는 같은 계열
++ à l'ordre des plats = 접시의 순서를 위하여. 건배사 'à la santé de'의 변형
+
+## 보도 위의 마지막 말 — SUR LE TROTTOIR
+OKANLA: (Sur le trottoir, à voix basse.) Vous avez remarqué que M. Banda n'a pas quitté la table, même quand on a parlé de l'étude ? ||| (보도에서 낮은 목소리로.) 보고서 이야기가 나왔을 때도 방다 씨가 자리를 뜨지 않은 거 보셨죠?
+JULIEN: Il est resté. Un homme qui s'aperçoit qu'on lui a menti ne peut plus se permettre de partir : il doit lire la suite. ||| 남았습니다. 속았다는 걸 알게 된 사람은 떠날 수 없어요. 뒤를 읽어야 하니까요.
+OKANLA: Il n'est pas mauvais. Il est trop bien servi par ceux qui lui écrivent ses notes. ||| 나쁜 사람은 아닙니다. 그의 메모를 써 주는 사람들이 너무 잘 대접할 뿐이죠.
+JULIEN: Madame l'ambassadrice, une question indiscrète : pourquoi m'avoir invité à six ? ||| 대사님, 실례되는 질문입니다만 왜 저를 여섯 명 식탁에 부르셨습니까?
+OKANLA: Parce que je savais que vous aviez besoin d'un décor où personne ne pourrait dire non sans se faire remarquer. À deux, on dit non. À six, on dit : « Je réfléchis. » ||| 아무도 눈에 띄지 않고서는 안 된다고 말하지 못하는 무대가 필요하다는 걸 알았거든요. 둘이면 안 된다고 하지만 여섯이면 "생각해 보겠습니다"라고 하죠.
+JULIEN: Vous êtes meilleure que Talleyrand. ||| 탈레랑보다 낫습니다.
+OKANLA: Il avait Carême. Moi, j'avais une cuisinière que je n'ai pas choisie. Elle est venue toute seule, avec ses cuillères. ||| 그에게는 카렘이 있었죠. 저는 제가 고르지 않은 요리사가 있었고요. 혼자 국자를 들고 찾아왔네요.
+VANTOUR: (S'approchant.) Monsieur Delorme, un mot, sur autre chose. Les affiches du Front, celles qui arrivent par bateau demain matin, portent une phrase. Je vous la lis. ||| (다가오며.) 들로름 실장님, 다른 얘기 한마디만요. 내일 아침 배로 도착하는 전선의 포스터에 문장 하나가 있어요. 읽어 드릴게요.
+JULIEN: Je vous écoute. ||| 듣고 있습니다.
+VANTOUR: « Nous voulons être maîtres chez nous. Pétition des habitants, 1946. » Il y a la photographie d'un papier ancien, et le tampon des archives d'outre-mer. ||| "우리는 우리 집의 주인이 되길 원한다. 주민 청원, 1946년." 오래된 종이 사진과 해외문서고의 도장이 있어요.
+JULIEN: 1946. L'année où l'archipel est devenu un département. ||| 1946년. 군도가 도가 된 해네요.
+VANTOUR: Ma grand-mère a mis sa croix au bas de cette pétition. Elle ne savait pas écrire. Elle me répétait toute sa vie qu'on avait demandé quelque chose à l'État, mais elle disait : « un maître ». Pas « des maîtres ». ||| 할머니가 그 청원 맨 아래에 십자 표시를 하셨어요. 글을 못 쓰셨으니까요. 평생 제게 국가에 뭔가를 요청했다고 하셨는데, "한 명의 선생"이라고 하셨어요. "주인들"이 아니라요.
+JULIEN: Un maître. Pas des maîtres. Un seul s, parfois, change une génération. ||| 선생 한 명. 주인들이 아니라. s 하나가 가끔 한 세대를 바꾸죠.
+VANTOUR: Je ne dis pas que l'affiche ment. Je dis que ma grand-mère disait autre chose. ||| 포스터가 거짓말한다는 게 아니에요. 할머니가 다른 말을 하셨다는 거죠.
+JULIEN: Madame Vantour, je vais envoyer Camille aux archives dès demain. Elle est de Marseille, Aix est à une heure de chez elle. Gardez la phrase de votre grand-mère. Ne la répétez à personne avant que nous ayons lu le papier. ||| 방투르 시장님, 내일부터 카미유를 문서고로 보내겠습니다. 마르세유 출신이라 엑스는 집에서 한 시간 거리예요. 할머님 말씀은 간직해 두세요. 우리가 그 종이를 읽기 전에는 누구에게도 되풀이하지 마시고요.
+VANTOUR: Entendu. Et merci pour la soupe. ||| 알겠습니다. 수프도 감사했어요.
+VALCOURT: (Depuis la porte du restaurant.) Julien. Je rentre à pied. Une dernière chose : ce soir, vous avez fait comme Talleyrand. Vous avez changé l'ordre des questions. D'abord le rang, ensuite le fond. Ne perdez pas cette habitude. ||| (식당 문에서.) 쥘리앵. 걸어서 돌아가겠네. 하나만 더. 오늘 밤 자네는 탈레랑처럼 했어. 질문의 순서를 바꿨지. 먼저 서열, 그다음에 내용. 이 버릇을 잃지 말게.
+JULIEN: Le rang se règle dans le temps, le fond dans les textes. J'ai appris ça ce soir d'une cuisinière. ||| 서열은 시간에서, 내용은 문서에서 정한다. 오늘 밤 요리사에게 배웠습니다.
+VALCOURT: Alors tu as eu de meilleurs maîtres que moi. ||| 그렇다면 나보다 나은 선생을 만났군.
++ à voix basse = 낮은 목소리로. 비밀 이야기를 할 때
++ ne pas pouvoir se permettre de + 부정사 = ~할 형편이 못 되다. 체면상 ~할 수 없다
++ besoin d'un décor = 무대 장치가 필요하다. 만찬 자리 자체가 외교 도구라는 뜻
++ qu'on avait demandé quelque chose à l'État = 국가에 뭔가를 요청했다. 간접화법에서의 대과거 'avait demandé'
++ un seul s change une génération = s 하나가 한 세대를 바꾼다. 'maître'와 'maîtres' 사이의 단수·복수 대비
++ avant que nous ayons lu le papier = 우리가 그 종이를 읽기 전에. 'avant que'는 항상 접속법
++ changer l'ordre des questions = 질문의 순서를 바꾸다. 탈레랑 방식의 요약
+
+## 보고서의 메뉴 — LE COMPTE RENDU
+ARCHAMBAULT: (Message, 7 h 02.) « Vous m'avez écrit un rapport de trois pages. Page deux comporte un menu au dos duquel est écrit l'ordre des services. Je vous avais interdit tout document sur table. » ||| (문자, 7시 2분.) "세 쪽 분량의 보고서를 보내셨더군요. 둘째 쪽에 뒷면에 서비스 순서가 적힌 메뉴가 있습니다. 식탁에 문서를 두지 말라고 했는데요."
+JULIEN: Je lui réponds : « Ce menu n'était pas sur la table, madame. Il était dans la poche de la cuisinière. Je l'ai demandé après le dessert. C'est la seule pièce prouvant que personne n'a été au-dessus de personne. » ||| 답장을 쓰겠어. "그 메뉴는 식탁 위에 없었습니다. 요리사의 주머니에 있었어요. 디저트 뒤에 청했습니다. 아무도 누구 위에 있지 않았다는 것을 증명하는 유일한 문서입니다."
+CAMILLE: Elle va aimer « la seule pièce ». Elle adore ce qui prouve quelque chose. ||| '유일한 문서'라는 말을 좋아할 거야. 뭔가를 증명하는 건 뭐든 좋아하니까.
+HÉLÈNE: (Message.) « Jour vingt et un. Un photographe attendait devant le restaurant. Photo de vous six, sortant, 23 h 10. Légende en préparation : “Dîner secret entre le Quai d'Orsay et Kandara”. Ils veulent que ça sente le secret. Faites sentir le menu. » ||| (문자.) "21일째. 식당 앞에 사진사가 있었습니다. 밤 11시 10분 여섯 분이 나오는 사진. 설명 문구가 준비 중이에요. '케도르세와 칸다라의 비밀 만찬'. 비밀 냄새를 풍기고 싶은 겁니다. 메뉴 냄새를 풍기게 하세요."
+JULIEN: Faire sentir le menu. Camille, le menu est un document public. Une cuisinière l'a écrit, six personnes l'ont lu. À neuf heures, nous le communiquons aux trois partis et à la presse locale : les six services, qui a été servi le premier. ||| 메뉴 냄새를 풍기라. 카미유, 메뉴는 공개 문서야. 요리사가 썼고 여섯 사람이 읽었어. 9시에 세 정당과 현지 언론에 알리자. 여섯 접시와 누가 가장 먼저 대접받았는지.
+CAMILLE: Tu veux publier un menu pour éviter qu'on parle d'un secret ? ||| 비밀 이야기가 나오지 않게 메뉴를 공개하겠다고?
+JULIEN: Un secret, c'est un texte dont on cache l'historique. Un menu, c'est un texte dont on montre l'ordre. Mêmes principes qu'à Versailles. ||| 비밀이란 이력을 숨긴 문서야. 메뉴는 순서를 보여 주는 문서고. 베르사유와 같은 원칙이지.
+CAMILLE: Alors je prépare le communiqué. Titre : « Six couverts, six premières fois. » ||| 그럼 보도자료를 준비할게. 제목은 "식기 여섯 벌, 첫 번째 여섯 번."
+JULIEN: Pas de titre si joli. Archambault me le reprochera. Dis plutôt : « Dîner à Paris : compte rendu de l'ordre des services. » ||| 그렇게 예쁜 제목은 안 돼. 비서실장님이 나무라실 거야. "파리 만찬, 서비스 순서 보고"로 하자.
+LÉA: (Message.) « Papa, qui a mangé le premier ? » ||| (문자.) "아빠, 누가 제일 먼저 먹었어요?"
+JULIEN: Je lui réponds : « Chacun, une fois. » ||| 답장하겠어. "각자 한 번씩."
+LÉA: (Message.) « C'est la définition de l'égalité : chacun son tour d'être premier. Je la prends pour ma dissert. Signé : celle qui n'a pas dîné. » ||| (문자.) "그게 평등의 정의네요. 각자 첫 번째가 될 차례가 있는 것. 제 논술에 가져다 쓸게요. 저녁 못 먹은 딸 올림."
+JULIEN: Demande-lui si elle a mangé des pâtes. Camille, Aix demain. Les archives d'outre-mer ouvrent à dix heures, et je veux lire ce papier de mes yeux. Je prends le même train que toi. ||| 파스타는 먹었는지 물어봐 줘. 카미유, 내일은 엑스야. 해외문서고는 10시에 열고, 난 그 종이를 내 눈으로 읽고 싶어. 같은 기차를 탈게.
+CAMILLE: Le TGV de six heures cinquante, arrivée à dix heures cinq. J'ai déjà les deux billets. Je prends aussi ton carnet de dates, sinon tu ne dormiras pas. ||| 6시 50분 TGV고 10시 5분에 도착해. 표 두 장 이미 있어. 네 날짜 수첩도 가져갈게. 안 그러면 넌 못 잘 테니까.
+JULIEN: Le fil direct avec Madame Okanla est ouvert depuis hier soir. S'il sonne dans le train, c'est moi qui réponds. ||| 오칸라 대사와의 직통선은 어젯밤부터 열려 있어. 기차에서 울리면 내가 받을 거야.
+CAMILLE: Et si elle te dit non ? ||| 대사님이 안 된다고 하면?
+JULIEN: Elle dira : « Je réfléchis. » À six, on réfléchit. C'est la plus grande victoire de la cuisine. ||| "생각해 보겠습니다"라고 하겠지. 여섯이 있으면 사람은 생각해 보게 돼. 그게 부엌의 가장 큰 승리야.
++ le compte rendu = 보고서, 회의록. 아르샹보에게 올리는 접촉 후 서면 보고
++ la seule pièce prouvant que… = ~을 증명하는 유일한 문서. 현재분사로 관계절을 대신하는 문어체
++ faire sentir = 느끼게 하다. 비밀의 냄새와 메뉴의 냄새를 맞바꾸는 말놀이
++ un secret, c'est un texte dont on cache l'historique = 비밀이란 이력을 숨긴 문서다. 3부 주제의 연장
++ chacun son tour = 각자 차례가 있다. 'à chacun son tour'의 생략형
++ celle qui n'a pas dîné = 저녁을 못 먹은 사람. 레아가 자신을 서명하는 장난
++ pas de titre si joli = 그렇게 예쁜 제목은 안 돼. 'si + 형용사'로 부정 명령을 강조
