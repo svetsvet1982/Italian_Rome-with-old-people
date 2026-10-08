@@ -1,0 +1,211 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 7
+@title Mains sales
+@ko 더러운 손
+@setting 케도르세 장관 비서실장 집무실(금요일 아침) → 뤽상부르 공원의 메디시스 분수 옆 벤치 → 같은 벤치, 서류가 오간 뒤 → 공원 출구의 카페 → 쥘리앵의 사무실과 저녁 귀갓길
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 감찰단 조사를 앞두고 있음
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 정보를 팔고 사는 현실주의자. 오늘 처음으로 직접 등장
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 법적 위험에 민감함. 둘이 있을 때는 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 정보기관 접촉마다 사전 동의를 요구
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 전화로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 7화입니다. 엘렌이 1부 1-7처럼 다시 '회색 호의'를 가져옵니다. 이번 자료는 말라비 군에 관한 정보입니다. 아르샹보의 조건(정보기관 접촉은 사전 동의, 접촉 후 서면 보고)에 따라 쥘리앵은 먼저 허락을 받고 나가며, 엘렌은 «내 기관이 허용한 범위의 정보»라고 못 박습니다. 내용은 말라비 군 지휘부가 협상 중에도 탐사선 호송 작전을 계획하고 있고, 외교장관 쪽은 이를 보고받지 못했다는 것입니다(작품 속 인물·부대는 모두 허구). 쥘리앵은 1부의 규칙을 지킵니다: 불법으로 얻은 자료를 협상에서 증거처럼 쓰지 않고, 필요하면 공개적으로 질문만 합니다. 그 대신 엘렌은 '미래의 호의'를 약속받습니다: 지난 화들에서 쌓인 다섯째·여섯째 점심의 빚을 하나의 '예'로 바꾸는 거래입니다. 역사 배경은 냉전기 정보 협력과 신뢰의 비용입니다. 1981년 파리의 대외 방첩 기관(DST)이 모스크바의 정보원(코드명 «Farewell»)에게서 받은 소련의 기술 도둑질 목록을 같은 해 7월 오타와 정상회의에서 프랑스 대통령이 미국 대통령에게 전했다고 알려져 있고, 그 정보원은 1980년대 중반에 처형된 것으로 보도됩니다(세부는 일반화). 1971년 창설된 유럽 보안기관 비공식 협의체 «클럽 드 베른»도 언급합니다. 레아의 질문 «믿던 사람이 틀리면 사과해야 해요?»는 발쿠르와의 대결을 아직 모르는 레아가 철학 시험 주제로 던진 것이고, 쥘리앵은 '설명할 의무'와 '너무 빨리 믿은 책임'을 구분해 답합니다. 장 폴 사르트르의 희곡 『더러운 손』(1948) 속 유명한 대사(‘순결하게 통치할 수는 없다’)도 인용됩니다. 어휘는 une faveur grise, le renseignement, un aveu, 접속법(à condition que, sans que, pourvu que, bien que)에 주목하세요.
+@next 8화 «La une» (1면): 일간지가 1962년 서한을 보도한다. 기사에는 발쿠르의 이름이 인용되고, 연도는 있는데 장소가 없다.
+
+## 사전 동의 — L'ACCORD PRÉALABLE
+ARCHAMBAULT: Vous avez demandé à me voir avant dix heures. C'est inhabituel. Asseyez-vous. ||| 열 시 전에 면담을 요청하셨죠. 보통은 아닌데, 앉으세요.
+JULIEN: Madame la directrice de cabinet, j'ai besoin de votre accord préalable, pour un contact avec la DGSE. ||| 비서실장님, 대외안보총국과의 접촉에 대한 사전 동의가 필요합니다.
+ARCHAMBAULT: Mme Dufresne. Elle vous a invité à déjeuner. ||| 뒤프렌 부인이군요. 점심에 초대했나요.
+JULIEN: Non. Elle m'a proposé un banc. Au jardin du Luxembourg, ce matin, à onze heures. ||| 아니요. 벤치를 제안했습니다. 오늘 오전 열한 시 뤽상부르 공원에서요.
+ARCHAMBAULT: Un banc. Elle a de la tenue. Et elle vous propose quoi, sur ce banc ? ||| 벤치라니, 품위가 있군요. 그 벤치에서 뭘 제안한답니까?
+JULIEN: Elle ne l'a pas dit. Elle a dit « quelque chose qui concerne la mer et les hommes en uniforme ». ||| 말하지 않았습니다. "바다와 제복 입은 사람들에 관한 것"이라고만 했어요.
+ARCHAMBAULT: Les hommes en uniforme du Malavi, naturellement. Delorme, je dois être claire. Je n'aime pas ces échanges. Mais je n'aime pas davantage avancer sans yeux. ||| 당연히 말라비의 제복 입은 사람들이겠죠. 분명히 말하겠습니다. 저는 이런 거래를 좋아하지 않습니다. 하지만 눈 없이 나아가는 건 더 싫어요.
+JULIEN: Je comprends. ||| 이해합니다.
+ARCHAMBAULT: Voici mes conditions. Un : vous ne signez rien. Deux : vous ne promettez aucun avantage de l'État. Trois : vous me racontez, dans l'heure qui suit, ce que vous avez reçu et ce que vous avez donné. ||| 조건입니다. 하나, 아무것도 서명하지 않을 것. 둘, 국가의 이익을 약속하지 않을 것. 셋, 받은 것과 준 것을 한 시간 안에 저에게 이야기할 것.
+JULIEN: Et si elle demande un engagement personnel ? ||| 개인적 약속을 요구하면요?
+ARCHAMBAULT: Alors vous l'avez devant vous, c'est une question de tact. Je vous fais confiance pour qu'il ne soit pas contraire à vos devoirs. ||| 그럼 눈앞에서 하는 거니까 요령의 문제죠. 의무에 어긋나지 않도록 당신을 믿겠습니다.
+JULIEN: Vous m'accordez beaucoup. ||| 많은 걸 허락하시는군요.
+ARCHAMBAULT: Je vous accorde une corde. Longue. J'espère que vous ne la prendrez pas pour une laisse. ||| 줄을 하나 드리는 겁니다. 긴 줄을요. 목줄로 오해하지 않기를 바랍니다.
+CAMILLE: Je t'accompagne ? ||| 같이 갈까?
+JULIEN: Non. Hélène ne parle que s'il n'y a qu'un témoin : elle-même. Mais je veux que tu sois dans mon bureau à midi. ||| 아니. 엘렌은 증인이 자기 하나뿐일 때만 말해. 하지만 정오에는 내 사무실에 있어 줘.
+CAMILLE: Je prépare la note juridique pendant ce temps. Si elle te donne quelque chose, je veux savoir comment on peut l'utiliser. ||| 그동안 법적 메모를 준비해 둘게. 뭘 주면, 어떻게 쓸 수 있는지 알아야겠어.
+JULIEN: Et comment on ne peut pas l'utiliser. Cela, c'est la moitié de ton métier. ||| 그리고 어떻게 쓸 수 없는지도. 그게 네 일의 절반이야.
+CAMILLE: Je connais la pièce de Sartre. Les Mains sales : « On ne peut pas gouverner innocemment. » ||| 사르트르 희곡 알아. 『더러운 손』, "순결하게 통치할 수는 없다."
+JULIEN: C'est Hoederer qui parle, le chef de parti qui accepte de négocier avec l'ennemi. Mais Sartre écrit aussi qu'un jeune idéaliste est prêt à le tuer pour cela. Il y a deux lectures. ||| 호에데레르의 대사야. 적과 협상하기로 한 당 지도자지. 하지만 사르트르는 순수한 젊은이가 그 때문에 그를 죽일 준비가 되어 있다고도 썼어. 읽는 방법이 둘이야.
+CAMILLE: Laquelle est la tienne ? ||| 넌 어느 쪽이야?
+JULIEN: Celle où l'on se lave les mains après, honnêtement, devant tout le monde. ||| 나중에 모두 앞에서 솔직하게 손을 씻는 쪽이지.
+HÉLÈNE: Jour 14. Neuf heures dix. Onze heures, banc, côté fontaine Médicis. Ne soyez pas en avance. L'avance se voit. ||| 14일째. 아홉 시 십 분. 열한 시, 벤치, 메디시스 분수 쪽. 일찍 오지 마세요. 일찍 온 건 눈에 띄거든요.
+JULIEN: Elle sait que j'arrive toujours six minutes avant. ||| 내가 항상 육 분 일찍 가는 걸 알아.
+CAMILLE: Alors arrive à l'heure. Par principe. ||| 그럼 정각에 가. 원칙으로.
+JULIEN: Je n'ai plus de principes quand il s'agit de ponctualité. J'en ai seulement quand il s'agit de mots. ||| 시간 지키는 일엔 이제 원칙이 없어. 단어에 대해서만 있지.
++ l'accord préalable = 사전 동의. 정보기관과의 접촉에 앞서 받는 상급자의 허락
++ avoir de la tenue = 품위가 있다. 접선 장소를 벤치로 제안한 엘렌을 두고 한 말
++ je vous accorde une corde = 줄 하나를 드린다. 자유와 통제를 함께 비유(corde/laisse, 줄/목줄)
++ vous ne signez rien / vous ne promettez rien = 서명하지 않는다 / 약속하지 않는다. 아르샹보의 조건 구조
++ sans yeux = 눈 없이. 정보 없이 나아가는 위험을 말하는 은유
++ « On ne peut pas gouverner innocemment » = 사르트르 『더러운 손』(1948)에서 호에데레르의 말로 알려진 대사. 정치와 순결의 긴장
++ arriver six minutes avant = 육 분 일찍 도착하다. 쥘리앵의 버릇을 엘렌이 아는 것
++ des principes quand il s'agit de mots = 단어에 대해서만 가진 원칙. 쥘리앵의 신조
+
+## 메디시스 분수 벤치 — LE BANC
+HÉLÈNE: Vous êtes à l'heure. Je suis presque déçue. ||| 정각에 오셨네요. 거의 실망스러운데요.
+JULIEN: J'ai marché lentement pour arriver à onze heures pile. Je me suis fait peur à moi-même. ||| 정각에 맞추려고 천천히 걸었어요. 저 자신도 무서웠습니다.
+HÉLÈNE: Asseyez-vous. Vous avez une tête de quelqu'un qui a mangé un fromage qui l'a convaincu. ||| 앉으세요. 치즈 하나에 설득당한 사람 같은 얼굴이네요.
+JULIEN: Je ne vous ai rien dit sur hier soir. ||| 어젯밤 얘기는 한마디도 안 했는데요.
+HÉLÈNE: Je n'ai pas besoin de vos mots. Je lis les gens à leurs chaussures : vous avez fait trois fois le tour de la rue Cler avant d'entrer. ||| 말은 필요 없어요. 사람은 신발로 읽죠. 들어가기 전에 클레르 거리를 세 번 돌았잖아요.
+JULIEN: Vous me faites suivre ? ||| 저를 미행시키는 겁니까?
+HÉLÈNE: Jamais. Je ne fais suivre que ceux qui m'inquiètent. Vous, vous m'amusez. ||| 절대 아니에요. 걱정스러운 사람만 따라붙이죠. 당신은 재미있는 사람이고요.
+JULIEN: Madame, nous avons une heure, et je dois en rendre compte. Venons-en au fait. ||| 부인, 한 시간밖에 없고 저는 그걸 보고해야 합니다. 본론으로 들어갑시다.
+HÉLÈNE: D'accord, mais d'abord le contrat. Ce que je vous donne aujourd'hui est autorisé par ma direction. Il ne s'agit pas d'une écoute, d'un compte bancaire, d'une trahison de quelqu'un. C'est une synthèse. ||| 좋아요. 하지만 먼저 계약입니다. 오늘 드리는 건 제 기관이 허용한 겁니다. 도청도, 계좌도, 누군가의 배신도 아니에요. 종합 보고예요.
+JULIEN: Une synthèse de quoi ? ||| 무엇에 대한 종합입니까?
+HÉLÈNE: De ce que les gens en uniforme du Malavi sont en train de faire pendant que les gens en cravate parlent à Genève. ||| 넥타이 맨 사람들이 제네바에서 말하는 동안 말라비 제복 입은 사람들이 하고 있는 일입니다.
+JULIEN: Qui est « les gens en uniforme » ? ||| "제복 입은 사람들"이 누구입니까?
+HÉLÈNE: L'état-major général de Kandara. Un amiral et un général, dont le deuxième voit dans l'archipel une affaire de fierté nationale. Il s'appelle Olímpio Nhantumbo. ||| 칸다라의 합동참모본부입니다. 해군 제독과 육군 장군이 있는데, 후자는 군도를 국가 자존심의 문제로 봐요. 이름은 올림피우 냔툼부.
+JULIEN: Vous me donnez un nom. Pourquoi ? ||| 이름을 주시네요. 왜입니까?
+HÉLÈNE: Parce qu'un nom est plus facile à surveiller qu'un abstract. Voici le dossier. Je vous le montre ici, vous ne le gardez pas. ||| 개념보다 이름이 감시하기 쉬우니까요. 여기 서류입니다. 여기서 보여 드리지만 가져가지는 않아요.
+JULIEN: Je lis. Trois pages. Une date, le vingt de ce mois. Un navire de patrouille, le « Kandara Deux ». ||| 읽겠습니다. 세 쪽이네요. 날짜는 이번 달 이십 일. 순찰함 "칸다라 2호".
+HÉLÈNE: Qui doit escorter un navire de prospection affrété par une société enregistrée à Maurice, vers un point situé au sud-est du banc du Cerne. ||| 모리셔스에 등록된 회사가 용선한 탐사선을 세르네 퇴 남동쪽 지점까지 호송할 겁니다.
+JULIEN: Le vingt. Soit six jours. Pendant que l'on discute d'un gel des permis. ||| 이십 일이면 엿새 뒤입니다. 허가 동결을 논의하는 동안에요.
+HÉLÈNE: Le gel n'est pas signé. Et le ministre des Affaires étrangères n'a pas été destinataire de l'ordre. ||| 동결은 서명되지 않았어요. 그리고 외교장관은 그 명령의 수신자가 아니었습니다.
+JULIEN: M. Sangara ne sait pas. ||| 상가라 씨는 모르는군요.
+HÉLÈNE: Il saura bientôt. Mais pas par la voie hiérarchique. Il peut sauver la face en annulant avant d'apprendre. ||| 곧 알게 될 거예요. 위계를 통해서는 아니고요. 알기 전에 취소하면 체면을 지킬 수 있죠.
+JULIEN: L'affréteur ? Une société à Maurice, c'est un écran. Qui est derrière ? ||| 용선주는요? 모리셔스 회사는 간판이죠. 뒤에 누가 있습니까?
+HÉLÈNE: Je n'ai pas dit ce nom. Mais regardez la ligne trois, là. Un cabinet d'avocats à Londres a rédigé les statuts. ||| 그 이름은 말하지 않았어요. 하지만 세 번째 줄을 보세요. 런던의 어느 법률 사무소가 정관을 썼어요.
+JULIEN: Je ne vois que des initiales. « V.A. » ||| 약자만 보이는군요. "V.A."
+HÉLÈNE: Voilà. Vous avez dit les initiales, pas moi. ||| 그렇죠. 약자를 말한 건 당신이고 저는 아니에요.
+JULIEN: C'est une façon élégante de livrer une information. ||| 정보를 건네는 우아한 방식이네요.
+HÉLÈNE: C'est la seule. Les autres, on les facture. ||| 유일한 방식이죠. 나머지는 청구하고요.
++ être déçu à moitié / presque déçu(e) = 거의 실망스럽다. 정각에 온 상대를 놀리는 엘렌의 말투
++ lire les gens à leurs chaussures = 신발로 사람을 읽다. 관찰력을 과시하는 표현
++ une synthèse = 종합 보고. 원본 감청이 아니라 정제된 요약임을 강조해 합법성의 선을 그음
++ l'état-major général = 합동참모본부. 해군·육군을 아우르는 군 지휘부
++ un navire de prospection / de patrouille = 탐사선 / 순찰함. 해양 분쟁에서 호송이 긴장을 높이는 요소
++ affrété par une société = 회사가 용선한. 선박 임대 계약 관계를 말하는 해운 어휘
++ sauver la face = 체면을 지키다. 상가라가 취소로 얻는 이점
++ vous avez dit les initiales, pas moi = 약자를 말한 건 당신이다. 직접 폭로하지 않고 상대가 말하게 하는 정보 기술
+## 호의의 값 — LE PRIX
+JULIEN: Je vous rends le dossier. Voici ce que je ferai, et ce que je ne ferai pas. ||| 서류를 돌려드립니다. 제가 할 일과 하지 않을 일은 이렇습니다.
+HÉLÈNE: Je vous écoute avec l'attention des gens qui facturent. ||| 청구하는 사람들의 집중력으로 듣겠습니다.
+JULIEN: Je ne citerai jamais ce document devant la partie malavienne. Je ne dirai pas « j'ai appris que ». Je ne dirai pas le nom du général. ||| 이 문서를 말라비 측 앞에서 인용하지 않겠습니다. "알게 되었다"고 말하지 않겠습니다. 장군 이름도 말하지 않겠고요.
+HÉLÈNE: Alors à quoi sert-il ? ||| 그럼 어디에 쓰입니까?
+JULIEN: À savoir quelle question poser. Je pose la question en public, simplement. Si on me répond, tant mieux. Si on ne me répond pas, j'ai posé la question. ||| 어떤 질문을 해야 하는지 아는 데요. 질문은 공개적으로 합니다. 대답하면 좋고, 안 하면 질문을 한 것으로 족하고요.
+HÉLÈNE: C'est la sagesse des gens qui n'aiment pas être pris en défaut. ||| 현장에서 걸리기 싫어하는 사람들의 지혜죠.
+JULIEN: C'est ma règle de Kasra. Je n'utilise pas un document que je ne pourrais pas montrer à quelqu'un qui me regarde dans les yeux. ||| 카스라에서 정한 제 규칙입니다. 눈을 바라보는 사람에게 보여 줄 수 없는 문서는 쓰지 않습니다.
+HÉLÈNE: Mais vous l'utilisez pour savoir quoi demander. C'est déjà de l'usage. ||| 하지만 무엇을 물을지 알려고 쓰잖아요. 이미 사용입니다.
+JULIEN: Oui. C'est pourquoi je vous le dis à vous. Je ne prétends pas que mes mains sont propres. Je prétends qu'elles sont visibles. ||| 네. 그래서 당신에게 말하는 겁니다. 손이 깨끗하다고 주장하지 않아요. 보인다고 주장합니다.
+HÉLÈNE: Voilà une phrase que je garde. « Pas propres, visibles ». Maintenant, mon prix. ||| 간직할 문장이네요. "깨끗한 게 아니라 보이는". 이제 제 값입니다.
+JULIEN: Le cinquième déjeuner. Le sixième. Je m'attends au pire. ||| 다섯 번째 점심, 여섯 번째. 최악을 각오하고 있습니다.
+HÉLÈNE: Je les annule tous les deux. Je ne veux plus de déjeuner. Je veux un « oui ». ||| 둘 다 취소합니다. 점심은 더 원하지 않아요. "예" 하나를 원합니다.
+JULIEN: Un oui à quoi ? ||| 무엇에 대한 "예"입니까?
+HÉLÈNE: Je ne sais pas encore. Un jour, je vous demanderai quelque chose. Vous direz oui avant de savoir ce que c'est. ||| 아직 몰라요. 언젠가 부탁을 하나 할 겁니다. 그게 뭔지 알기 전에 "예"라고 하세요.
+JULIEN: Non. ||| 안 됩니다.
+HÉLÈNE: Non ? ||| 안 된다고요?
+JULIEN: Pas dans ces termes. Un oui à l'aveugle est un chèque en blanc. Je ne signe pas de chèques en blanc. J'en ai signé un à Valcourt à vingt-cinq ans et je l'ai payé vingt ans. ||| 그런 조건으로는요. 눈 가리고 하는 "예"는 백지 수표입니다. 백지 수표에는 서명하지 않아요. 스물다섯 살에 발쿠르 대사께 하나 써 줬다가 이십 년 갚았습니다.
+HÉLÈNE: Alors proposez. ||| 그럼 제안해 보세요.
+JULIEN: Un oui, à trois conditions. Il doit être légal. Il ne doit pas m'obliger à mentir. Et je garde le droit de dire non à la dernière minute, à condition d'en donner la raison par écrit. ||| 조건 세 개를 단 "예"입니다. 합법이어야 하고, 제가 거짓말하게 만들지 않아야 하고, 마지막 순간에 거절할 권리를 유지하되 사유는 서면으로 밝힙니다.
+HÉLÈNE: Un oui avec trois non. C'est une plaisanterie. ||| "예"에 "아니오"가 세 개라니 농담이군요.
+JULIEN: C'est un contrat. Les plaisanteries sont gratuites. ||| 계약입니다. 농담은 공짜고요.
+HÉLÈNE: Vous êtes insupportable de précision. Mais j'accepte. Un oui contre trois non, et un seul bénéficiaire : moi. ||| 정확하다 못해 못 견딜 사람이군요. 하지만 받아들이죠. 아니오 셋에 예 하나, 수혜자는 저 하나.
+JULIEN: Pas tout à fait. Vous pouvez demander pour votre service. Pas pour un tiers. ||| 완전히는 아닙니다. 부서를 위해선 청할 수 있어도 제3자를 위해선 안 됩니다.
+HÉLÈNE: Vous avez des principes au prix du marché. ||| 시장가의 원칙을 가졌군요.
+JULIEN: Les principes n'ont pas de prix de marché. C'est pourquoi on les paie cher. ||| 원칙에는 시장가가 없어요. 그래서 비싸게 치르는 겁니다.
+HÉLÈNE: Je vous raconte une histoire, pour que vous sachiez ce que je vends. En mil neuf cent quatre-vingt-un, un officier soviétique, que nos services appelaient « Farewell », a livré à la DST une liste de ce que Moscou volait en Occident. ||| 제가 무엇을 파는지 아시도록 이야기를 하나 하죠. 1981년, 우리 쪽에서 "페어웰"이라 부르던 소련 장교가 모스크바가 서방에서 훔치던 기술 목록을 프랑스 방첩기관에 넘겼어요.
+JULIEN: Et le président français l'a transmise à Washington, au sommet d'Ottawa, cet été-là. ||| 그리고 프랑스 대통령이 그해 여름 오타와 정상회의에서 워싱턴에 전달했지요.
+HÉLÈNE: Voilà. Cet échange a, paraît-il, aidé à bâtir une confiance entre deux pays qui se méfiaient. Et l'homme qui avait livré la liste a été arrêté, puis fusillé quelques années plus tard, pour une autre affaire, dit-on. ||| 맞아요. 그 교환이 서로 의심하던 두 나라 사이에 신뢰를 쌓는 데 도움이 되었다고들 하죠. 그리고 목록을 넘긴 사람은 몇 해 뒤 다른 사건으로 체포되어 총살당했다고 합니다.
+JULIEN: Vous voulez me dire que la confiance se paie par quelqu'un d'autre. ||| 신뢰는 다른 사람이 값을 치른다는 말씀이군요.
+HÉLÈNE: Toujours. Et que ce quelqu'un ne le sait pas. Dans ce métier, on ne donne pas une information, on déplace un risque. ||| 늘 그래요. 그리고 그 사람은 그걸 모르죠. 이 일에서는 정보를 주는 게 아니라 위험을 옮기는 겁니다.
+JULIEN: Qui prend le risque que vous me donnez ce matin ? ||| 오늘 아침 주신 것의 위험은 누가 집니까?
+HÉLÈNE: Moi. Et une personne que vous ne rencontrerez jamais, dans une pièce chauffée à Kandara. C'est pourquoi je ne laisse pas le dossier. ||| 저예요. 그리고 칸다라의 난방이 되는 방에 있는, 당신이 평생 만나지 못할 사람이요. 그래서 서류를 두고 가지 않는 겁니다.
+JULIEN: Je n'oublierai pas cela. ||| 잊지 않겠습니다.
+HÉLÈNE: Si. Vous l'oublierez, par politesse. Mais je vous le rappellerai. ||| 아뇨, 잊을 거예요, 예의상. 제가 상기시켜 드릴게요.
++ mettre quelqu'un en défaut = 누군가를 잘못 위에서 붙잡다. être pris en défaut = 흠을 잡히다
++ je ne prétends pas qu'elles sont propres, mais visibles = 손이 깨끗하다고 하지 않고 보이게 하겠다. 이 화의 윤리 선언
++ à l'aveugle / un chèque en blanc = 눈 가리고 / 백지 수표. 무조건적 약속의 위험
++ à condition de + 부정사 = ~하는 조건으로. 마지막 순간 거절권의 단서
++ des principes au prix du marché = 시장가의 원칙. 엘렌이 쥘리앵의 원칙을 거래 언어로 비꼬는 표현
++ « Farewell » (1981) = 소련 정보원 «페어웰»이 프랑스 방첩기관(DST)에 넘긴 정보. 그해 오타와 정상회의에서 프랑스 대통령이 미국 대통령에 전달했다고 알려진 냉전 협력의 상징
++ on ne donne pas une information, on déplace un risque = 정보를 주는 게 아니라 위험을 옮기는 것이다. 정보 세계의 신뢰 비용을 요약
++ la confiance se paie par quelqu'un d'autre = 신뢰는 다른 사람이 값을 치른다. 협력과 희생 구조를 짚는 문장
+
+## 열린 질문 — LA QUESTION OUVERTE
+CAMILLE: Alors ? Raconte. Je ne veux pas le dossier, je veux le trou qu'il laisse dans ta phrase. ||| 그래서? 얘기해. 서류가 아니라 네 문장에 남은 구멍을 듣고 싶어.
+JULIEN: Un navire de patrouille et un navire de prospection quitteront Kandara le vingt, vers le sud-est du banc. Le ministre n'a pas été destinataire de l'ordre. Le navire de prospection est affrété par une société-écran avec des statuts rédigés à Londres. ||| 순찰함과 탐사선이 이십 일 칸다라를 출발해 퇴의 남동쪽으로 갑니다. 장관은 명령의 수신자가 아니었어. 탐사선은 런던에서 정관을 쓴 간판 회사가 용선했고.
+CAMILLE: Ce que tu dis là, c'est du renseignement. Je te mets en garde : tu ne peux le verser dans aucun document de négociation. ||| 지금 한 말은 정보야. 경고하는데, 어떤 협상 문서에도 넣으면 안 돼.
+JULIEN: Je le sais. Que dit ta note ? ||| 알아. 네 메모는 뭐라고 해?
+CAMILLE: Trois usages possibles. Un : pas citer. Deux : poser une question ouverte, sans révéler la source. Trois : protéger nos ressortissants, c'est-à-dire alerter la marine nationale, parce que la mer est publique. ||| 가능한 용도는 셋. 하나, 인용하지 않기. 둘, 출처를 밝히지 않는 열린 질문. 셋, 우리 국민 보호, 즉 해군에 알리기. 바다는 공공이니까.
+JULIEN: Le trois, je l'ai déjà demandé à Archambault. Elle prévient le préfet maritime sans citer l'origine. ||| 셋째는 이미 아르샹보에게 요청했어. 출처를 밝히지 않고 해사 지사에게 알려 주기로 했지.
+CAMILLE: Et le deux ? ||| 둘째는?
+JULIEN: Je dois formuler une question que l'ambassadrice puisse entendre sans se sentir accusée. Et surtout une question qui permette à M. Sangara de corriger sans s'excuser. ||| 대사가 비난받는 느낌 없이 들을 수 있는 질문을 만들어야 해. 특히 상가라 씨가 사과하지 않고 바로잡을 수 있게 해 주는 질문이어야 하고.
+CAMILLE: Pourquoi sans s'excuser ? Il serait normal qu'il s'excuse. ||| 왜 사과 없이야? 사과하는 게 정상 아니야?
+JULIEN: Parce qu'un ministre qui s'excuse perd une main. Un ministre qui corrige gagne un mois. ||| 사과하는 장관은 패를 하나 잃어. 바로잡는 장관은 한 달을 얻고.
+CAMILLE: Léa t'a écrit, au fait. Elle t'a envoyé un message à midi quinze. ||| 참, 레아가 문자 보냈어. 열두 시 십오 분에.
+JULIEN: Je lis. « Papa, c'est pour ma dissertation. Si quelqu'un qu'on croit se trompe, est-ce qu'il doit s'excuser ? » ||| 읽을게. "아빠, 논술 때문에 물어요. 믿던 사람이 틀리면 사과해야 해요?"
+CAMILLE: Elle ne sait rien, et elle tombe pile. ||| 아무것도 모르면서 정확히 맞혔네.
+JULIEN: Les philosophes ont une qualité : ils n'ont pas besoin de savoir pour tomber juste. Je lui réponds : « Cela dépend de ce que tu appelles s'excuser. » ||| 철학자들의 장점이지, 몰라도 정확히 맞히는 것. 이렇게 답할게. "사과가 뭘 뜻하느냐에 달렸지."
+LÉA: Évidemment ! Alors voilà ma définition : s'excuser, c'est reconnaître une faute devant celui qu'on a trompé. ||| 물론이죠! 그럼 제 정의를 말할게요. 사과는 속인 사람 앞에서 잘못을 인정하는 거예요.
+JULIEN: Et si l'autre n'a pas trompé, il s'est seulement trompé ? ||| 상대가 속인 게 아니라 그냥 틀린 거라면?
+LÉA: Alors il n'a pas à s'excuser, mais il doit corriger. Et expliquer comment l'erreur est arrivée. Sinon la confiance ne sait pas où réparer. ||| 그럼 사과할 필요는 없지만 바로잡아야 해요. 그리고 오류가 어떻게 생겼는지 설명해야 하고요. 안 그러면 신뢰가 어디를 고쳐야 할지 모르니까요.
+JULIEN: Et celui qui croit ? Doit-il s'excuser d'avoir cru ? ||| 믿은 사람은? 믿은 걸 사과해야 하니?
+LÉA: Non. Mais il doit parfois s'excuser d'avoir cru trop vite. Ça, c'est autre chose. ||| 아니요. 하지만 너무 빨리 믿은 건 때로 사과해야죠. 그건 또 다른 문제예요.
+JULIEN: Tu viens de me donner l'idée que je cherchais depuis ce matin. ||| 오늘 아침부터 찾던 생각을 방금 네가 줬어.
+LÉA: C'est une question de définition, papa. ||| 개념 정의의 문제예요, 아빠.
+CAMILLE: Quelle idée ? ||| 무슨 생각?
+JULIEN: Je ne demanderai pas à l'ambassadrice de nier ou d'avouer. Je lui demanderai de clarifier. Clarifier n'est pas s'excuser. C'est un verbe qui laisse la face intacte. ||| 대사에게 부인하라거나 시인하라고 하지 않을 거야. 분명히 해 달라고 할 거야. 분명히 하는 건 사과가 아니야. 체면을 그대로 두는 동사지.
+CAMILLE: Et tu ne lui dis pas ce que tu sais. ||| 그리고 아는 건 말하지 않고.
+JULIEN: Je lui dis ce que j'ai entendu dans l'air du temps : « Il semble que certains acteurs envisagent des opérations qui contrediraient l'esprit de Genève. » ||| 떠도는 얘기로 들었다고 말할 거야. "일부 주체가 제네바의 정신에 어긋나는 작전을 구상하는 것 같습니다."
+CAMILLE: « Il semble. » Le conditionnel du doute poli. ||| "~인 것 같다." 예의 바른 의심의 조건법이네.
+JULIEN: Exactement. Appelle-moi l'ambassade. ||| 정확해. 대사관에 걸어 줘.
+OKANLA: Monsieur Delorme. Vous me téléphonez un vendredi à dix-sept heures. Je suppose que ce n'est pas pour le fromage. ||| 들로름 씨. 금요일 오후 다섯 시에 전화를 주시다니, 치즈 때문은 아니겠죠.
+JULIEN: Madame l'ambassadrice, je vous téléphone en confiance et en clarté. Il semble que certains acteurs, à Kandara ou ailleurs, envisagent des opérations en mer qui contrediraient l'esprit de Genève. ||| 대사님, 신뢰와 명료함으로 전화드립니다. 칸다라든 다른 곳이든 일부 주체가 바다에서 제네바의 정신에 어긋나는 작전을 구상하는 것 같습니다.
+OKANLA: Des opérations. Vous avez un exemple ? ||| 작전이요. 예가 있습니까?
+JULIEN: Non. Je n'ai que cette impression, que je préfère vous exposer avant qu'elle ne devienne un fait. Pourriez-vous demander à M. Sangara s'il est au courant de ce que ses collègues préparent ? ||| 없습니다. 인상뿐이고, 사실이 되기 전에 말씀드리고 싶었어요. 상가라 장관께 동료들이 준비하는 일을 아시는지 여쭤봐 주시겠습니까?
+OKANLA: Vous me demandez de questionner mon ministre sur ses collègues. C'est un exercice délicat. ||| 제 장관님에게 동료들에 대해 물으라는 거군요. 미묘한 일입니다.
+JULIEN: Je vous demande de lui donner l'occasion de clarifier. Pas de s'excuser. ||| 분명히 할 기회를 드리라는 겁니다. 사과가 아니라요.
+OKANLA: Vous êtes précis, monsieur Delorme. Trop pour quelqu'un qui n'a que des impressions. ||| 정확하시군요, 들로름 씨. 인상뿐인 사람치고는 너무요.
+JULIEN: Les impressions, madame, ont aussi une grammaire. ||| 인상에도 문법이 있습니다, 대사님.
+OKANLA: Je la lirai. Demain matin, vous aurez un message. ||| 읽어 보겠습니다. 내일 아침에 메시지를 받으실 겁니다.
++ verser un document au dossier = 서류를 철에 편입하다. 협상 문서에 정보를 넣지 말라는 카미유의 경고
++ le préfet maritime = 해사 지사. 프랑스 해역에서 국가의 해상 행동을 총괄하는 지방 고위직(일반적으로)
++ perdre une main / gagner un mois = 패를 잃다 / 한 달을 얻다. 사과와 정정의 협상적 차이
++ tomber pile = 정확히 맞히다. 레아의 질문이 상황에 딱 맞았다는 뜻
++ s'excuser / corriger / clarifier = 사과하다 / 바로잡다 / 분명히 하다. 세 동사의 뉘앙스가 이 화의 해법
++ il semble que + 접속법 또는 직설법 = ~인 것 같다. 의심을 예의 있게 말하는 완곡어법
++ le conditionnel du doute poli = 예의 바른 의심의 조건법. contrediraient 같은 형태가 이에 해당
++ les impressions ont aussi une grammaire = 인상에도 문법이 있다. 쥘리앵이 질문의 근거를 숨기는 재치
+
+## 저녁의 손 — LE SOIR
+ARCHAMBAULT: Je viens de lire votre note. Elle est complète, et elle ne dit pas tout. Je préfère. ||| 메모를 읽었습니다. 완전하지만 전부를 말하지는 않는군요. 그게 더 좋습니다.
+JULIEN: Je n'ai pas rapporté la source. J'ai rapporté ce que j'ai reçu et ce que j'ai donné. ||| 출처는 보고하지 않았습니다. 받은 것과 준 것을 보고했습니다.
+ARCHAMBAULT: Et ce que vous avez donné, c'est un « oui » avec trois conditions. Je n'aime pas les blancs-seings, mais je lis trois clauses. Elles sont justes. ||| 그리고 준 것은 조건 세 개를 단 "예"군요. 백지 위임은 싫지만 조항 셋이 있고, 공정하다고 봅니다.
+JULIEN: Merci de ne pas me l'interdire. ||| 금지하지 않아 주셔서 감사합니다.
+ARCHAMBAULT: Je ne vous l'autorise pas non plus. Je le consigne. Une formule qui devrait vous plaire. ||| 허락하는 것도 아니고요. 기록해 둡니다. 당신 마음에 들 표현이겠죠.
+JULIEN: Elle me plaît tellement que je me méfie. ||| 너무 마음에 들어서 경계하게 됩니다.
+ARCHAMBAULT: Ne vous méfiez pas trop. Cela fait quatre jours que je vous ai dit « bonne chance ». J'en suis encore étonnée. ||| 너무 경계하지 마세요. "행운을 빕니다"라고 말한 지 나흘째인데, 아직도 놀라고 있어요.
+CAMILLE: Elle devient presque humaine. ||| 거의 사람이 되어 가네.
+JULIEN: Elle était humaine dès le début. C'est moi qui avais mal lu. ||| 처음부터 사람이었어. 내가 잘못 읽은 거지.
+CAMILLE: Tu fais ton « mea culpa » ? ||| "내 탓이오" 하는 거야?
+JULIEN: Je fais une correction de lecture. C'est moins spectaculaire. ||| 독해를 정정하는 거야. 덜 화려하지.
+HÉLÈNE: Jour 14, vingt heures. Cinquième et sixième déjeuners annulés. Un « oui » en dépôt, trois conditions notées, signature : la vôtre, par politesse. ||| 14일째 이십 시. 다섯 번째와 여섯 번째 점심 취소. "예" 하나 기탁, 조건 셋 기재, 서명은 당신 것, 예의상.
+JULIEN: Elle écrit « signature » alors que je n'ai rien signé. ||| "서명"이라고 썼지만 저는 아무것도 서명하지 않았어요.
+CAMILLE: C'est un mot qu'elle emploie pour te faire sentir que tu l'as fait. ||| 네가 한 것처럼 느끼게 하려고 쓰는 단어야.
+JULIEN: Elle est très forte. Je lui renvoie : « Rien signé. Tout consigné. » ||| 정말 대단해. 이렇게 답장할게. "서명한 건 없음. 전부 기록함."
+HÉLÈNE: Reçu. Voilà un homme qui n'a pas les mains propres, mais qui sait où il les met. ||| 수신했습니다. 손이 깨끗하진 않아도 어디에 두는지는 아는 남자네요.
+CAMILLE: Elle a trouvé ta formule. « Pas propres, visibles. » ||| 네 표현을 가져갔어. "깨끗한 게 아니라 보이는."
+JULIEN: Elle me l'a volée. Je lui facturerai les droits d'auteur. ||| 훔쳐 갔네. 저작권료를 청구해야겠어.
+CAMILLE: Tu es sûr de ne pas vouloir manger ? Il est vingt heures trente. ||| 정말 안 먹을래? 여덟 시 반이야.
+JULIEN: Non. Léa m'attend avec des pâtes qui ne collent plus. Elle m'a envoyé une photo. ||| 아니. 레아가 이제 안 붙는 파스타를 해 놓고 기다려. 사진을 보냈어.
+CAMILLE: Elle progresse. ||| 늘었네.
+JULIEN: Elle apprend que ce qui est cuit trop longtemps ne revient pas. C'est la philosophie de l'eau bouillante. ||| 너무 오래 삶은 건 돌아오지 않는다는 걸 배우는 거야. 끓는 물의 철학이지.
+CAMILLE: Va. Demain, nous regarderons ce que dit Kandara. ||| 가. 내일 칸다라가 뭐라고 하는지 보자.
+JULIEN: Demain, nous verrons. C'est une phrase que j'ai appris à aimer. ||| 내일 보자. 좋아하게 된 문장이야.
++ ne pas tout dire = 전부를 말하지는 않다. 보고서가 완전하되 출처는 숨겼다는 뜻
++ un blanc-seing = 백지 위임장. 내용이 정해지지 않은 서명, 위험한 위임
++ je le consigne = 기록해 둔다. 허락도 금지도 아닌 공문서적 중립
++ je fais une correction de lecture = 독해를 정정한다. mea culpa(내 탓이오)보다 덜 극적인 자기 수정
++ mettre ses mains où l'on sait = 손을 어디에 둘지 안다. 엘렌이 쥘리앵을 인정하는 비유
++ la philosophie de l'eau bouillante = 끓는 물의 철학. 요리 비유로 돌이킬 수 없음을 말함
++ une formule volée = 도용된 표현. 문구가 저작권처럼 오가는 농담
++ demain, nous verrons = 내일 보자. 3화·4화의 «nous verrons»를 쥘리앵이 좋아하게 됐다는 변화

@@ -30,3 +30,52 @@
 - 역사/법: 1790 제헌의회가 국립문서고 창설(초대 문서관 카뮈), 1794.6.25(7 messidor an II) 법=보존 의무+시민 접근권, 나폴레옹의 수비즈 저택 유럽 문서 집중 구상은 '전설'로 헤징, 1804 민법전 사본 규칙(원본 존재 시 사본은 원본이 증명하는 범위; 2016 개정으로 조문 번호 변경, 번호 미보증), 장갑 불착용(깨끗하고 마른 손), 열람 기한 25년/일부 50년+.
 - 레아: «une copie n'est pas moins vraie, elle est moins prouvable» → 'question de définition'. 월요일 아침 오칸라 대사가 보증금 액수 대기.
 - 훅(2-4): 정정 도장의 'minute de séance'를 쓴 사람(통역사), 정정 대장(Bureau des conventions), 7 bis 원본이 1989 가족에게 반환됨(→2-6 발쿠르 보관), 'J. d. V.', 월요일 보증금, 엘렌 6번째 점심.
+
+## 2-4 L'interprète (166턴, 5섹션)
+- 월요일(엘렌 Jour 10). 오칸라: 보증금 3척 합계 360,000유로(척당 120,000), 자금 수령 후 48시간 내 선원 석방(장관 확인), 배는 'nous verrons'. 파브르가 토요일 쓴 편지에 케도르세 외교 문서고가 월요일 답: 협약과(Bureau des conventions) 정정 대장 31번 = «Lettre du 11 mai 1962, deuxième alinéa, troisième ligne : "se concerteront" remplacé par "décideront", conformément à la minute de séance. Minute établie par Mme M. Aubry, interprète contractuelle. Visa : J. d. V.» → 도장 밑 단어 공개: se concerteront(협의한다) → décideront(결정한다), 'd'un commun accord'.
+- 마르그리트 오브리(85, 샤르트르 대성당 근처, 허구): 1961 통역학교 졸업, 프랑스어-포르투갈어(할머니 포르투 출신), 순차통역만, 회의록까지 작성. 1962.5.10(목) 15시 오디노 거리 12호실 회의. 프랑스: 부국장(직함만) + 젊은 서기관 «Jean de Valcourt, rédacteur au Bureau des conventions»; 말라비: 도밍구스 타바르스 박사(변호사, 느린 말투). 발쿠르 발언: «Sur le fond, les deux gouvernements décideront d'un commun accord. Je suis prêt à l'écrire.» 5.16 정정을 소리 내어 재낭독시키고 «C'est bien cela», 연필로 J. d. V. 약식 서명(문 뒤에 상급자 있었음). 탁자 밑에 책가방 든 아홉~열 살 사내아이(= 앙리, 목요일이라 학교 없음), 그림은 배, 질문 «Qu'est-ce que ça veut dire, d'un commun accord ?» → 오브리 «chacun a une clef de la porte, et personne ne peut ouvrir tout seul».
+- 장 드 발쿠르: 1975년 학회에서 공사참사관(ministre-conseiller)으로 만남, 1988 또는 89년 사망(부고). 1989 가족 서류 반환과 맞물림.
+- 쥘리앵 규칙: 허락 없이 쓰지 않음. 오브리 허락 = 5월 10일 쪽만 촬영(카미유가 앞에서), 이름은 «interprète»(source 아님). 카미유는 쥘리앵 허락 전 아무에게도 안 보냄.
+- 아르샹보: 보고서 18시 전, 쥘리앵이 발쿠르(앙리)에게 전화하기 전 보고서 먼저 보낼 것, 통화는 서면 기록 필수. 쥘리앵: 발쿠르는 «son père»라고 밝힘.
+- 역사: 에비앙 협정 1962.3.18, 정전 3.19, 알제리 독립 7월(7.5), 사하라 석유 협력 기구·기한부 기지. 순차통역/뉘른베르크 동시통역(일반화).
+- 레아: 번역가가 틀린 글을 옮기면 배신인가 → 충실함과 진실은 다른 개념. 엘렌: «Jour 10, soir. Un enfant sous une table…» 6번째 점심 임박(5번째 점심 아직 미지불).
+- 훅(2-5): 타바르스 박사 = 말라비 측 변호인의 가족(손자 사무엘 타바르스를 제네바 말라비 대표단 법률 자문으로 등장 가능), 쥘리앵의 발쿠르 대면은 2-6. 5.11 서한 정정은 한 단어(décideront)이며 2-11 '마지막 줄 단어'는 별개.
+
+## 2-5 Conférence à Genève (160턴, 5섹션)
+- 수요일(엘렌 Jour 12), 제네바(팔레 데 나시옹 회의실, 호숫가 퐁뒤 점심). 의장: 마르타 린드크비스트(64, 해양법 교수·유엔 전문가, 허구). 규칙: 주권 입장 불인정, 발언 대항 불가, '이름이 아니라 바다'. 아르샹보 조건: 원칙은 제안 가능·문안 불가, 62년 서한 언급 금지, 20시 전 보고(쥘리앵은 서한/통역 노트 미언급).
+- 말라비 대표단: 오칸라 대사(단장), 사뮈엘 타바르스(34, 리스본 수학, 법률 자문; 1962년 변호사 도밍구스 타바르스의 손자; 조부 말 «La France a promis, et un jeune homme a écrit.» 손이 단정하고 잘 듣는 사람, 이름 안 말함), 콜랭 리브(Colin Reeve, 영어권 '대표단 자문', 소속 질문에 «Je ne suis pas autorisé à répondre»; 쥘리앵이 공개 질문 기록 남김). 도면(CB-1~CB-10, 10개 구획) 푸터 «V.A. – CB – draft 3»(Valois 그림자; 대표단은 '작업 문서, 구속력 없음').
+- 법: UNCLOS 74(3)/83(3) 잠정 실용 약정+최종 합의 방해 금지, 77조(점유 불요), 프리그 가스전(UK–노르웨이 1976 조약, 중간선 걸침). 쥘리앵은 리브의 '허가 먼저, 분배는 나중' 안을 기정사실로 반박, 린드크비스트도 협상 중 허가 발급은 합의 방해 소지.
+- 해법의 순간: 린드크비스트 «Les ressources ne connaissent pas les frontières. Ce sont les avocats qui les inventent…» → 쥘리앵 원칙: 자원은 경계가 아니라 자원으로 관리, 광상을 함께 본 뒤 선은 기다림; 동수 혼합 위원회(원하면 유엔 중립 사무국), «décide d'un commun accord»(두 번 언급; 오칸라가 'se concerter'보다 선호한 이유를 물음 → 쥘리앵 «se concerter c'est écouter ; décider c'est avoir besoin de l'autre»), 협상 기간 허가 동결(gel). 오칸라: 칸다라에 오늘 밤 보고, 동결을 동의보다 먼저 원함. 15분 휴회.
+- 선원 19명 석방 확정(장관이 17시 서명): 파리 내일 정오, 포르토뱅 모레. 배 3척은 위원회 첫 회의에 반환 가능성 시사. 리비에르 «Les îles ont deux noms, la mer n'en a qu'un» 반복, 생선 수프.
+- 레아: 두 나라가 같은 섬 이름 → 'même'의 정의 → «pas la même île, la même mer». 엘렌: Jour 12 저녁 «Le sixième déjeuner n'est plus un déjeuner. C'est une conversation.» (5번째 점심 아직 미지불).
+- 발쿠르(아르샹보의 전화를 받고 직접 전화): 내일(목) 20시 자택 저녁, 샤우르스+사진들, 쥘리앵 «un enfant que vous connaissez», 발쿠르 «Il avait un cartable trop grand pour lui» → 2-6 훅. 오칸라는 쥘리앵의 'décideront' 선택에서 뭔가를 읽음(서한 존재를 의심).
+- 훅: Valois 푸터 draft 3, 리브 소속 미공개, 타바르스 조부의 '젊은 사람', 공동 개발 문안 필요, 위원회 첫 회의에서 배 반환.
+
+## 2-6 Monsieur de Valcourt (140턴, 5섹션)
+- 목요일 저녁(엘렌 Jour 13), 20시, 발쿠르 아파트(클레르 거리 근처). 치즈: 샤우르스, 생넥테르, 블뢰 드 젝스, 오래된 미몰레트. 쥘리앵은 vous, 발쿠르는 tu. 쥘리앵은 이해하기 전엔 먹지 않다가 마지막에 먹음.
+- 서재(37년간 닫아 둠): 사진들. 해법의 순간 = 1962.5.10 오디노 거리 안뜰 사진(장 드 발쿠르와 도밍구스 타바르스 악수, 장은 옅은 봉투를 듦; 뒷면 연필 «Il m'a dit : cette poignée de main vaudra ce que vaudra le papier. Je lui ai répondu : elle vaudra le papier, et davantage. J.d.V.») + 선반의 작은 나무 범선 «Savara»(타바르스가 그날 저녁 집에 와서 어린 앙리에게 줌: «Tu auras peut-être un jour à choisir entre le nom de ton pays et le nom de la mer»). 그래서 앙리가 'Ilo Savara'를 기억.
+- 앙리: 1988 아버지 사망 당일 양복 열쇠→서랍 봉투(서한 부본+쪽지 «Pour Henri, quand il sera en âge de décider si cela doit ressortir»). 1989.2.9 본인이 36세, 리스본 참사관 임명 직후 어머니 편지를 들고 엑스에 가서 반환 요청·명세서 서명(협약과 개편·문서 정리 중 폐기를 막으려 함). 공문서 inaliénable. 원본('7 bis')은 서재 책상 둘째 서랍: 줄무늬 종이, 공화국 서식 머리, «Paris, le onze mai mil neuf cent soixante-deux», 풀네임 서명 «Jean de Valcourt», 요철(건식) 도장. 둘째 단락 «Les deux gouvernements décideront d'un commun accord de l'exploration et de l'exploitation des fonds situés au-delà des eaux territoriales de l'archipel.» 원본에 지운 흔적 없음; 오류는 과의 비서가 친 사본(se concerteront) → 장이 정정시킴. 마지막 줄 존재(2-11용): 발쿠르가 «Je la lirai quand tu seras calme», 쥘리앵 강요 안 함(다음에).
+- 2001년 말라비 변호사 도밍구스 타바르스가 사망 몇 달 전 파리에서 원본을 보고 «Gardez-le. C'est le seul endroit où il est en sécurité.» (발쿠르에게 '누가 용기 내어 물을 때까지 기다리라'는 의무).
+- 책임 논쟁: 비밀은 은퇴하지 않음; 국가에 빚진 비밀 vs 죽은 사람에게 빚진 비밀; 탈레랑 회고록(1838 사망, 1891 출간); 쥘리앵 «Un mensonge par omission… une omission est une décision.» «Je n'accepte pas cette excuse, mais j'accepte l'aveu.» 발쿠르 이유: 쥘리앵이 스승과 임무 사이에서 선택하지 않게. 
+- 쥘리앵 메모(손으로, 발쿠르가 «H. d. V.» 약식 서명): 반환 요청·원본 보관 인정. '결정을 맡겼다'는 사적 말은 보고에 안 쓴다. 발쿠르 약속: 위원회가 구성되면 즉시(없어도 한 달 안에) 엑스 214번 철에 원본 기탁.
+- 엘렌 Jour 13: «Les secrets de famille sont les seuls qui se transmettent sans contrat. Le sixième déjeuner aura le goût de celui-là.» 레아: 파스타(붙음), 쥘리앵 «Les deux».
+- 훅: 발쿠르 증언의 대가(2-12), 마지막 줄 한 단어(2-11), 아르샹보 보고, 원본 기탁 약속, 타바르스 손자는 조부의 '젊은 사람'이 누구인지 아직 모름.
+
+## 2-7 Mains sales (146턴, 5섹션)
+- 금요일(엘렌 Jour 14). 아르샹보 사전 동의 조건: 서명 금지, 국가 이익 약속 금지, 접촉 후 한 시간 안 서면 보고; '긴 줄(corde), 목줄(laisse) 아님'. 뤽상부르 공원 메디시스 분수 쪽 벤치 11시. 카미유는 법적 메모(용도 3가지: 인용 금지/출처 없는 열린 질문/국민 보호 목적 해군·해사 지사 통보). 사르트르 『Les Mains sales』 인용(Hoederer). 엘렌 성: Dufresne.
+- 엘렌 자료(자기 기관이 허용한 '종합 보고', 도청·계좌·배신 아님; 보여 주기만 하고 두고 가지 않음): 말라비 합동참모본부(제독+장군 올림피우 냔툼부, 군도를 자존심 문제로 봄); 이번 달 20일(6일 뒤) 순찰함 «Kandara Deux»가 모리셔스 등록 회사가 용선한 탐사선을 세르네 퇴 남동쪽으로 호송; 허가 동결 미서명, 외교장관 상가라는 명령 수신자 아님; 정관은 런던 법률 사무소 작성, 문서에 «V.A.» 약자(쥘리앵이 읽음, 엘렌 '이름은 말하지 않았다') → Valois 연결 암시 유지.
+- 쥘리앵 사용 범위: 인용 안 함, 출처·장군 이름 안 밝힘, 공개 질문으로만, 해군 통보(아르샹보가 출처 없이 해사 지사에 전달). «Mes mains ne sont pas propres, mais visibles.»
+- 엘렌 대가: 5·6번째 점심 둘 다 취소, '예' 하나를 기탁. 쥘리앵 조건 3: 합법, 거짓말 강요 금지, 마지막 순간 거절권(서면 사유); 엘렌은 자기 부서를 위해서만(제3자 불가). 역사: Farewell(1981, DST 정보원 → 오타와 정상회의 프랑스 대통령이 미국 대통령에 전달; 정보원은 몇 해 뒤 다른 사건으로 총살로 알려짐, 일반화) '신뢰는 다른 사람이 값을 치른다; 정보를 주는 게 아니라 위험을 옮긴다.' 쥘리앵은 스물다섯에 발쿠르에게 '백지 수표'를 써 준 경험을 언급.
+- 해법의 순간: 레아 «Si quelqu'un qu'on croit se trompe, doit-il s'excuser ?» → s'excuser(속인 사람 앞에서 잘못 인정) ≠ corriger(바로잡고 오류 경위 설명) ≠ clarifier; 믿은 쪽은 '너무 빨리 믿은 것'만 사과. 쥘리앵은 오칸라에게 '일부 주체가 제네바의 정신에 어긋나는 작전을 구상하는 것 같다(il semble)'고 열린 질문 → 상가라가 사과 없이 '분명히 할(clarifier)' 기회. 오칸라 «Les impressions… ont aussi une grammaire» → 내일 아침 메시지 약속.
+- 아르샹보: '허락하는 것도 금지하는 것도 아니고 기록(consigne)'. 엘렌 저녁: 5·6번째 점심 취소, '예' 기탁(조건 셋). 쥘리앵 «Rien signé. Tout consigné.»
+- 훅(2-8): 오칸라 답(내일 아침), 20일 호송 여부, V.A.(발루아), 엘렌의 '예' 보유, 일간지 보도(1면).
+
+## 2-8 La une (160턴, 5섹션)
+- 월요일(엘렌 Jour 17, 15일 유예 종료). 토요일 오칸라 메시지: 20일 호송 위원회 첫 회의 전에는 없음(간접 성과). 허구 일간지 «Le Messager» (파리 외교 담당 기자 뤼시 마르샹, 35). 1면 «Saint-Aubin : la lettre que Paris n'a jamais voulu lire», 부제 '1962년 문서가 말라비에 해저 공동 관리 약속'. 인용: «décideront de concert»(원문 'd'un commun accord'와 다름). «signée de M. J. de Valcourt, alors rédacteur»; «Son fils, l'ancien ambassadeur Henri de Valcourt, 73 ans, aujourd'hui conseiller officieux du Quai d'Orsay, n'a pas répondu». 익명 «dirigeant du secteur maritime proche du dossier»: «On ne gère pas une mer avec des vœux pieux.» → 쥘리앵: 리옹 크루아루스의 소년(열두 살에 아버지 배를 두고 «On ne tient pas un fleuve avec des prières»)과 같은 가락, 이름은 아직 말하지 않음(→2-9 어린 시절 친구, 20년 침묵, 별명).
+- 해법의 순간: 기사에는 연도(1962)와 서명·문장만 있고 날짜·장소 없음. 원본은 «Paris, le onze mai», 엑스 사본은 «Le onze mai» → 연도만 인용 = 텍스트가 아니라 텍스트를 본 사람에게서 인용(번역된 요약; 'de concert'는 포르투갈어 em conjunto/영어 together 같은 번역투). 쥘리앵이 공개 전화(스피커폰, 카미유 동석): 날짜·장소·언어 질문 → 마르샹은 앞 둘 거절, 세 번째에서 4초 침묵 후 «Je vous rappelle». 기자의 처음 질문 순서('구속하는가', '말라비가 이미 제시했는가') = 진위보다 정치적 값. 결론: 앙리 발쿠르는 출처가 아님(자기 원본을 넘기지 않음).
+- 역사: 엠스 전보 1870, 아바스 통신사 1835, 『La Presse』 1836(지라르댕, 구독료 절반), 『Le Moniteur universel』 1789, 1881.7.29 출판 자유법. 교훈: 신문은 무엇을 빼는지가 말한다.
+- 성명서(12시; 르메르 작성, 아르샹보 승인): ①'생토뱅 앞 해저에 관한 1962년자 서신의 존재 확인' ②'언론 인용문은 번역된 발췌이며 원문을 그대로 옮기지 않았다; 원본은 오늘 기탁' ③'서신은 프랑스의 주권에도 어떤 국가의 주권에도 선입견을 주지 않는다(ne préjuge)'.
+- 발쿠르(전화, 스피커폰): '비공식 자문 맞다, 공범이라 쓸 수도'; 마르샹과 접촉 없음; 오늘 14시 엑스 열람실에서 파브르 부인과 사법 집행관(commissaire de justice) 입회 하에 원본 기탁, 그 자리에서 증인들 앞에서 '마지막 줄'을 처음 소리 내어 읽겠다고 함(쥘리앵도 내용 모름). 아르샹보는 발쿠르 원본 보유를 목요일 메모로 이미 앎.
+- 오칸라(18시): 칸다라는 성명 호평(상가라 «Pour une fois, Paris a dit la vérité en moins de mots que les journaux.»), 말라비가 언론에 넘기지 않았다고 해명; 사뮈엘 타바르스가 기사를 읽고 «Voilà le jeune homme de mon grand-père» → 위원회 첫 회의 목요일, 배 3척은 그날 반환.
+- 엘렌 Jour 17: 유예 끝, '제 부서가 아니다'. 레아: préjuger(선입견) = 기다리지 못한 판단. 
+- 훅(2-9): 익명 해운업 인사의 정체(쥘리앵의 리옹 시절 친구, 별명), 마르샹의 재전화, 마지막 줄 한 단어(엑스 14시 기탁 현장은 2-9 첫머리에서 짧게 다루거나 2-11에서 공개), 목요일 위원회 첫 회의, 20일 호송 보류, V.A.(Valois).

@@ -1,0 +1,107 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 8
+@title La une
+@ko 1면
+@setting 쥘리앵의 아파트 부엌(월요일 아침 여섯 시) → 케도르세 언론실 → 사무실(전화 취재 통화) → 발쿠르와의 통화와 성명서 회의 → 저녁 케도르세 복도와 귀갓길
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 감찰단 조사를 앞두고 있음
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세
+@cast LEMAIRE | 바티스트 르메르, 장관 비서실 언론 보좌관, 38세. 허구의 인물
+@cast MARCHAND | 뤼시 마르샹, «르 메사제 드 파리» 외교부 담당 기자, 35세. 전화로 등장. 허구의 신문과 인물
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세. 전화로 등장
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 전화로 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세
+@note 2부 8화입니다. 7화 이후 토요일에 오칸라 대사가 «20일 호송은 위원회 첫 회의 전에는 없다»는 메시지를 보냈습니다(간접적 성과). 월요일 아침, 허구의 일간지 «르 메사제 드 파리» 1면에 1962년 서한이 보도됩니다. 기사는 서한의 한 문장을 인용하고, 서명자 «J. de Valcourt»와 «그의 아들인 전 대사, 현재 케도르세의 비공식 자문»을 실명으로 언급합니다. 쥘리앵의 해법은 기사에서 '없는 것'을 읽는 것입니다: 기사에는 연도(1962)만 있고 장소와 날짜가 없으며, 문장은 원문과 조금 다르게 («d'un commun accord» 대신 «de concert») 인용됩니다. 쥘리앵은 1부 8화처럼 기자의 질문 순서를 듣고 출처를 가늠합니다: 기자는 원문 서한을 본 것이 아니라 «번역된 발췌»를 본 것입니다. 쥘리앵은 규칙에 따라 기자에게 공개적으로 묻고, 기자가 답하지 못하는 침묵을 답으로 기록합니다. 역사 배경은 19세기 프랑스 신문과 외교 보도입니다: 1835년 샤를 루이 아바스가 세운 통신사 아바스(오늘날 AFP의 기원), 1836년 에밀 드 지라르댕이 구독료를 절반으로 낮춘 신문 «라 프레스», 공문서를 실던 «르 모니퇴르 위니베르셀»(1789년 창간), 1881년 7월 29일 출판 자유법, 그리고 1870년 7월 엠스 전보 사건(비스마르크가 전보를 줄여 프랑스에 대한 모욕처럼 보이게 한 일)입니다. '줄인 문장이 뜻을 바꾼다'는 교훈이 이번 화의 주제입니다. 발쿠르의 이름이 신문에 나온 지금, 쥘리앵은 스승과 성명서를 상의하고 발쿠르는 원본 기탁을 앞당기겠다고 합니다. 발루아 어드바이저리의 흔적(기사 속 익명 '해운 업계 인사'의 말투)은 다음 화로 이어지는 단서로만 남깁니다. 어휘는 une manchette, le chapeau, un démenti, 접속법(bien que, à moins que, sans que, de peur que)에 주목하세요.
+@next 9화 «L'ami d'enfance» (어린 시절 친구): 기사 속 익명의 해운업 인사의 말투가 쥘리앵의 귀에 익다. 리옹에서 함께 자란 친구가 군도 개발의 이권에 관여해 있다.
+
+## 새벽 여섯 시 — SIX HEURES DU MATIN
+LÉA: Papa, ton téléphone vibre depuis cinq heures. Il vibre comme un insecte dans une boîte. ||| 아빠, 폰이 다섯 시부터 울려요. 상자 속 벌레 같아요.
+JULIEN: Je sais. Je ne l'ai pas regardé volontairement. Il y a des matins où la vibration est un indice. ||| 알아. 일부러 안 봤어. 진동이 단서가 되는 아침이 있거든.
+LÉA: Un indice de quoi ? ||| 무슨 단서요?
+JULIEN: D'un journal. Dix messages de collègues, trois de journalistes, un de Camille avec trois points d'exclamation. ||| 신문이야. 동료 열 명, 기자 세 명, 그리고 느낌표 세 개 붙은 카미유 문자 하나.
+CAMILLE: Julien, regarde la une du Messager. Immédiatement. ||| 쥘리앵, 메사제 1면 봐. 지금 당장.
+JULIEN: Je suis à la cuisine, Camille. Léa est là, elle fait des tartines. ||| 부엌이야, 카미유. 레아가 토스트를 만들고 있어.
+CAMILLE: Bonjour Léa. Désolée. Julien, je t'envoie la photo. Lis la manchette. ||| 안녕, 레아. 미안. 쥘리앵, 사진 보낼게. 표제를 읽어 봐.
+JULIEN: « Saint-Aubin : la lettre que Paris n'a jamais voulu lire. » Sous-titre : « Un document de 1962 promet aux Malaviens une gestion partagée du fond de la mer. » ||| "생토뱅. 파리가 읽으려 하지 않았던 서한." 부제는 "1962년의 문서가 말라비에 해저의 공동 관리를 약속한다."
+LÉA: Tu fais une tête de papier froissé. ||| 구겨진 종이 같은 얼굴이에요.
+JULIEN: Léa, ce n'est pas une affaire pour la cuisine. Mange tes tartines. ||| 레아, 부엌에서 할 얘기가 아니야. 토스트 먹어.
+LÉA: Si c'est dans le journal, c'est une affaire pour tout le monde. C'est ça, la presse. ||| 신문에 났으면 모두의 얘기예요. 그게 언론이잖아요.
+JULIEN: Tu as raison. Reste, mais ne dis rien à personne avant que le ministère ne parle. ||| 맞아. 있어도 되지만 부처가 입장을 내기 전에는 아무한테도 말하지 마.
+CAMILLE: Je continue ? Le premier paragraphe est un chapeau long. Le deuxième cite une phrase. ||| 계속할까? 첫 단락은 긴 서두야. 둘째는 문장을 인용해.
+JULIEN: Lis-la à voix haute. ||| 소리 내어 읽어.
+CAMILLE: « Dans cette lettre de 1962 que Le Messager a pu consulter, les deux gouvernements "décideront de concert" de l'exploitation des fonds situés au large de l'archipel. » ||| "『르 메사제』가 열람한 1962년의 이 서한에서 두 정부는 군도 앞바다의 해저 개발을 '함께' 결정한다."
+JULIEN: « De concert ». Pas « d'un commun accord ». ||| "함께". "공동의 합의로"가 아니군.
+CAMILLE: Je l'ai vu. Je ne savais pas si c'était important. ||| 나도 봤어. 중요한지는 몰랐고.
+JULIEN: Tout est important quand on cite un texte. Continue. ||| 텍스트를 인용할 땐 모든 게 중요해. 계속해.
+CAMILLE: La suite : « La lettre est signée de M. J. de Valcourt, alors rédacteur au ministère. » ||| 이어서. "서한은 당시 부처의 서기관이었던 J. 드 발쿠르 씨가 서명했다."
+LÉA: Valcourt ? Comme monsieur Henri ? ||| 발쿠르요? 앙리 아저씨랑 같은 성이에요?
+JULIEN: Léa. ||| 레아.
+LÉA: Je ne dis rien. Je pose une question. ||| 말 안 해요. 질문만 하는 거예요.
+CAMILLE: Et plus bas : « Son fils, l'ancien ambassadeur Henri de Valcourt, 73 ans, aujourd'hui conseiller officieux du Quai d'Orsay, n'a pas répondu à nos sollicitations. » ||| 그리고 아래에. "그의 아들인 전 대사 앙리 드 발쿠르(73)는 현재 케도르세의 비공식 자문이며, 우리의 요청에 답하지 않았다."
+JULIEN: Il n'a pas répondu parce qu'on ne l'a pas appelé. Il m'aurait appelé. ||| 전화를 받은 적이 없으니 답하지 않은 거지. 받았다면 나한테 전화했을 거야.
+CAMILLE: Tu en es sûr ? ||| 확실해?
+JULIEN: Non. Je suis sûr du contraire de ce que je veux croire. ||| 아니. 내가 믿고 싶은 것의 반대는 확실해.
+LÉA: C'est une phrase de philosophie, ça. ||| 철학 문장이에요, 그거.
+JULIEN: C'est une phrase de fatigue. Vas-y, Camille, il y a d'autres paragraphes ? ||| 피곤한 사람의 문장이야. 계속해, 카미유, 다른 단락도 있어?
+CAMILLE: Un dernier. Une citation anonyme d'un « dirigeant du secteur maritime proche du dossier » : « On ne gère pas une mer avec des vœux pieux. » ||| 마지막이 있어. "이 사안에 가까운 해운업 간부"의 익명 인용이야. "바다는 희망 사항만으로 관리할 수 없다."
+JULIEN: Répète la phrase. ||| 그 문장 다시 읽어 봐.
+CAMILLE: « On ne gère pas une mer avec des vœux pieux. » ||| "바다는 희망 사항만으로 관리할 수 없다."
+JULIEN: Je l'ai déjà entendue. Pas dans ces mots peut-être. Dans cette musique. ||| 어디선가 들었어. 그 말 그대로는 아닐지 몰라도, 그 가락으로.
+CAMILLE: Tu penses à quelqu'un ? ||| 누구 떠올랐어?
+JULIEN: Je pense à une voix. Je ne la nomme pas avant d'en être sûr. Je serai au Quai dans trente minutes. ||| 목소리 하나가 떠올라. 확신하기 전에는 이름을 말하지 않을게. 삼십 분 뒤에 케도르세로 갈게.
+HÉLÈNE: Jour 17. Les quinze jours sont passés. Ce n'est pas mon service. Je le dis une fois, et je ne le répète pas. ||| 17일째. 열닷새는 지났습니다. 제 부서가 아니에요. 한 번만 말하고 반복하지 않겠어요.
+JULIEN: Elle a deviné que je pensais à elle. ||| 내가 자기를 의심한다고 짐작했네.
+CAMILLE: Tu ne penses pas à elle ? ||| 정말 의심 안 해?
+JULIEN: Un instant. Puis je lis la phrase suivante : « tiré d'un document traduit ». Un service secret n'a pas besoin de traduction. ||| 잠깐은 했지. 그러다 다음 문장을 읽는데 "번역된 문서에서 발췌"래. 정보기관은 번역이 필요 없지.
+LÉA: Papa, c'est quoi, une manchette ? ||| 아빠, 표제가 뭐예요?
+JULIEN: C'est la phrase qui crie le plus fort, en haut. Mange, on part dans dix minutes. ||| 위쪽에서 제일 크게 외치는 문장이야. 먹어, 십 분 뒤에 나가자.
++ une manchette = (신문 1면의) 큰 표제. 가장 크게 외치는 문장
++ un chapeau = 기사의 서두 요약문. 본문 앞의 짧은 소개
++ de concert / d'un commun accord = 함께, 협력해서 / 공동의 합의로. 두 표현의 차이가 원문과 인용의 갭
++ conseiller officieux = 비공식 자문. 공식 직함이 없는 전직 대사의 역할
++ n'a pas répondu à nos sollicitations = 우리 요청에 답하지 않았다. 기자가 전하는 정형 표현
++ un dirigeant proche du dossier = 이 사안에 가까운 간부. 익명 인용의 정형어
++ des vœux pieux = 헛된 소망, 실천 없는 바람. 외교 담화에서 비난조로 쓰이는 표현
++ je suis sûr du contraire de ce que je veux croire = 믿고 싶은 것의 반대를 확신한다. 불안한 직감의 철학적 표현
+
+## 언론실 — LA SALLE DE PRESSE
+ARCHAMBAULT: Asseyez-vous. Vous avez lu ? ||| 앉으세요. 읽으셨죠?
+JULIEN: Trois fois, dans le métro. La quatrième ici. ||| 지하철에서 세 번, 여기서 네 번째입니다.
+ARCHAMBAULT: Voici M. Lemaire, qui s'occupe de la presse. Il dit que le journal a une version numérique avec des commentaires, et que nous avons déjà trois cents demandes d'interview. ||| 언론 담당 르메르 씨입니다. 신문 웹판에 댓글이 달렸고 인터뷰 요청이 벌써 삼백 건이래요.
+LEMAIRE: Trois cent douze, madame, à sept heures cinquante. Je vous propose une réponse en trois temps : un démenti partiel, une déclaration d'ouverture et un communiqué de presse à midi. ||| 삼백열두 건입니다, 비서실장님. 오전 일곱 시 오십 분 기준이에요. 세 단계 대응을 제안합니다. 부분 부인, 개방 성명, 그리고 정오 보도자료입니다.
+JULIEN: Un démenti de quoi, exactement ? ||| 정확히 무엇의 부인입니까?
+LEMAIRE: Du fait que « Paris n'a jamais voulu lire » cette lettre. C'est une accusation d'inertie, et elle est fausse : nous avons envoyé une mission aux archives dès jeudi dernier. ||| "파리가 읽으려 하지 않았다"는 부분입니다. 방치 의혹인데 사실이 아니에요. 우리는 지난 금요일에 문서고에 조사단을 보냈으니까요.
+JULIEN: Nous avons envoyé deux personnes, dans un train. Je préférerais ne pas appeler cela une mission. ||| 두 사람이 기차를 탔죠. 조사단이라고 부르고 싶지는 않습니다.
+LEMAIRE: Le ministère aime les missions. ||| 부처는 조사단을 좋아합니다.
+JULIEN: Le ministère aime les mots plus grands que ses actes. Je ne veux pas démentir ce que je pourrais confirmer. ||| 부처는 행동보다 큰 단어를 좋아하죠. 확인할 수 있는 것을 부인하고 싶지 않습니다.
+ARCHAMBAULT: Expliquez-vous, Delorme. ||| 설명해 보세요, 들로름 씨.
+JULIEN: La lettre existe. Une copie est aux archives. L'original est ailleurs. Le journal dit qu'une lettre de soixante-deux promet une gestion partagée. C'est vrai, sur le fond. Le démentir, c'est se condamner à être contredit. ||| 서한은 존재합니다. 사본은 문서고에 있고 원본은 다른 곳에 있어요. 신문은 1962년의 서한이 공동 관리를 약속한다고 하는데, 본질적으로 사실입니다. 부인하면 반박당하는 신세가 됩니다.
+LEMAIRE: Alors vous proposez de confirmer ? ||| 그럼 확인하자는 말씀입니까?
+JULIEN: Je propose de confirmer l'existence et de contester la citation. Ce n'est pas la même chose. ||| 존재는 확인하고 인용은 다투자는 제안입니다. 같은 게 아니에요.
+ARCHAMBAULT: Pourquoi contester la citation ? ||| 인용은 왜 다툽니까?
+JULIEN: Parce que la phrase publiée n'est pas la phrase écrite. « De concert », ce n'est pas « d'un commun accord ». Le premier est une manière d'agir. Le second est une condition. ||| 실린 문장이 쓰인 문장과 다르기 때문입니다. "함께"는 행동 방식이고 "공동의 합의로"는 조건입니다.
+LEMAIRE: Vous avez le texte ? ||| 원문이 있습니까?
+JULIEN: J'ai le texte de la copie des archives. J'ai surtout un souvenir de ce qu'on m'en a lu. Je ne produis rien aujourd'hui. ||| 문서고 사본의 문안이 있습니다. 읽어 준 내용에 대한 기억이 더 큽니다. 오늘은 아무것도 제출하지 않겠습니다.
+ARCHAMBAULT: Vous êtes prudent. ||| 신중하시네요.
+JULIEN: Je suis exact. À mon âge, c'est la même chose avec plus de rides. ||| 정확한 겁니다. 제 나이엔 주름이 더 많은 같은 말이죠.
+LEMAIRE: Madame, si je peux me permettre : les journaux du dix-neuvième siècle comprenaient mieux que nous la puissance d'une phrase tronquée. ||| 비서실장님, 한 말씀 드리자면 19세기 신문들이 우리보다 잘린 문장의 힘을 잘 알았습니다.
+CAMILLE: Vous pensez à la dépêche d'Ems ? ||| 엠스 전보를 말씀하시는 건가요?
+LEMAIRE: Entre autres. En mil huit cent soixante-dix, Bismarck a raccourci un télégramme du roi de Prusse de façon à ce qu'il paraisse une insulte. Les journaux ont fait le reste. Quelques jours plus tard, la guerre. ||| 그중 하나죠. 1870년 비스마르크가 프로이센 왕의 전보를 모욕처럼 보이도록 줄였습니다. 신문들이 나머지를 했고, 며칠 뒤 전쟁이 났습니다.
+JULIEN: On dit que la presse a changé après. Elle a surtout appris à raccourcir. ||| 그 뒤 언론이 바뀌었다고들 하지만 오히려 줄이는 법을 배웠죠.
+LEMAIRE: La presse moderne naît en mil huit cent trente-cinq avec l'agence Havas, qui vend des nouvelles de l'étranger aux journaux. Et en mil huit cent trente-six avec Émile de Girardin et La Presse, qui baisse l'abonnement de moitié pour toucher plus de lecteurs. ||| 근대 언론은 1835년 외국 소식을 신문사에 파는 아바스 통신사와 함께 태어났고, 1836년 에밀 드 지라르댕의 『라 프레스』가 구독료를 절반으로 낮춰 더 많은 독자를 얻으면서 이어졌죠.
+CAMILLE: Et avant cela, Le Moniteur universel, qui est né en mil sept cent quatre-vingt-neuf et publiait les actes du gouvernement. ||| 그 전에는 1789년에 창간되어 정부의 공문을 싣던 『모니퇴르 위니베르셀』이 있었고요.
+LEMAIRE: Exactement. Le Moniteur donnait les faits, Havas les vendait, La Presse les rendait lisibles. Et en mil huit cent quatre-vingt-un, la loi du vingt-neuf juillet a proclamé la liberté de la presse. ||| 맞습니다. 모니퇴르는 사실을 주었고 아바스는 그걸 팔았고 라 프레스는 읽기 쉽게 만들었습니다. 그리고 1881년 7월 29일 법이 출판의 자유를 선언했죠.
+ARCHAMBAULT: Merci pour le cours. Quel est le rapport avec notre problème ? ||| 강의 고맙습니다. 우리 문제와 무슨 관계입니까?
+JULIEN: Le rapport, madame, c'est que depuis cent cinquante ans un journal ne se contente pas de citer. Il choisit ce qu'il laisse tomber. Et ce qu'il laisse tomber est souvent le plus parlant. ||| 관계는 이렇습니다. 백오십 년 동안 신문은 인용만 하지 않았습니다. 무엇을 빼는지 골랐고, 뺀 것이 가장 많은 말을 하는 경우가 많습니다.
++ un démenti = 부인, 반박. démentir quelque chose = 어떤 일을 부인하다
++ à sept heures cinquante = 일곱 시 오십 분에. 사건 현장을 시간 단위로 보고하는 르메르의 습관
++ contester la citation / confirmer l'existence = 인용을 다투다 / 존재를 확인하다. 부인과 부분 확인의 전략적 차이
++ une phrase tronquée = 잘린 문장. 엠스 전보 사건의 교훈
++ la dépêche d'Ems = 엠스 전보(1870년 7월). 비스마르크가 줄여 공개해 프랑스의 분노를 이끌었다고 알려진 사건
++ l'agence Havas / La Presse / Le Moniteur universel = 아바스 통신사(1835), 『라 프레스』(1836, 구독료 절반 인하), 『모니퇴르 위니베르셀』(1789 창간, 공문 게재)
++ la loi du 29 juillet 1881 = 1881년 7월 29일 출판 자유법. 프랑스 언론법의 기초로 흔히 소개됨
++ ce qu'il laisse tomber = (신문이) 빼는 것. 생략이 가장 많은 말을 한다는 쥘리앵의 독법

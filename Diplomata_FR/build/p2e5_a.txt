@@ -1,0 +1,101 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 5
+@title Conférence à Genève
+@ko 제네바 회의
+@setting 제네바 코르나뱅 역과 레만 호숫가(수요일 아침) → 유엔 제네바 사무소(팔레 데 나시옹)의 회의실 → 호숫가 식당의 점심(퐁뒤) → 오후 회의 → 해 질 녘 호숫가 산책로
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 프랑스 대표단 단장 대행
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast LINDQVIST | 마르타 린드크비스트, 해양법 교수, 유엔 사무국 법무 자문 전문가, 64세. 회의 의장 역. 허구의 인물
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 말라비 대표단 단장
+@cast TAVARES | 사뮈엘 타바르스, 말라비 대표단 법률 자문, 34세. 1962년 변호사 도밍구스 타바르스의 손자. 허구의 인물
+@cast REEVE | 콜랭 리브, 런던 소재 자문 사무소 소속 영어권 자문, 40대. 말라비 대표단의 자문역. 허구의 인물
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 전화로만 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 5화입니다. 4화에서 통역사의 노트가 1962년 서한의 동사가 «협의한다(se concerteront)»가 아니라 «결정한다(décideront)»였음을 알려 주었습니다. 이번 화는 양국과 유엔 해양법 전문가가 모인 일반 협상입니다. 쥘리앵은 통역 노트를 아직 꺼내지 않고(오브리 부인의 허락이 있는 범위, 그리고 아르샹보의 조건을 지키기 위해), 영유권 주장은 서로 건드리지 않은 채 해저 자원만 다루는 '공동 개발'의 틀을 제안합니다. 법적 근거는 1982년 유엔 해양법 협약(몬테고베이 협약)의 74조 3항과 83조 3항입니다. 두 조항은 배타적 경제수역·대륙붕 경계가 아직 정해지지 않은 동안 관련국이 «실용적 성격의 잠정 약정을 체결하도록 모든 노력을 다하고, 그 과도기 동안 최종 합의를 위태롭게 하거나 방해하지 않을 것»을 요구합니다. 협약 77조는 대륙붕에 대한 연안국의 권리가 «실효적이거나 명목상의 점유, 또는 명시적 선언에 의존하지 않는다»고 정합니다. 선례로는 영국·노르웨이의 1976년 프리그 가스전 협정(경계선에 걸친 광구의 공동 개발), 1974년 일본·한국의 공동개발구역 협정, 1989년 호주·인도네시아 티모르 해 협력 지대 조약이 자주 인용됩니다(세부 조건은 일반화했습니다). 해법의 순간은 유엔 전문가 린드크비스트 교수의 농담 «자원은 국경을 모릅니다. 국경을 만드는 건 변호사들이죠»입니다. 이 한 문장이 '경계를 먼저 정하자'는 순서를 '자원 단위로 먼저 관리하자'는 순서로 뒤집습니다. 말라비 쪽에서는 런던 자문 사무소가 만든 도면(바닥에 «V.A.»라는 약자와 '3차 초안' 표시)이 나와 발루아 어드바이저리 그림자가 이어집니다. 쥘리앵은 공개적으로 묻고(규칙), 답을 얻지 못한 채 넘어갑니다. 어휘는 une zone de développement conjoint, un arrangement provisoire, sans préjudice de, 접속법(pourvu que, bien que, à condition que)에 주목하세요.
+@next 6화 «Monsieur de Valcourt» (발쿠르 선생): 쥘리앵은 아버지의 서류와 어린 시절의 기억을 간직한 스승을 서재에서 마주한다. 벽에는 오래된 사진들이 걸려 있다.
+
+## 호숫가 아침 — LE MATIN SUR LE LAC
+CAMILLE: Tu as vu le jet d'eau ? On dirait qu'il dit quelque chose à la ville. ||| 분수 봤어? 도시한테 뭔가 말하는 것 같아.
+JULIEN: Il dit « cent quarante mètres » et il le répète toute la journée. Ce n'est pas un message, c'est un chiffre. ||| 백사십 미터라고 하루 종일 되풀이하지. 메시지가 아니라 숫자야.
+CAMILLE: Quelqu'un te l'a déjà dit : tu es sinistre avant le café. ||| 누가 이미 말했을걸. 커피 마시기 전엔 음침하다고.
+JULIEN: Alors allons le prendre. Le premier tour de table est à dix heures. Ce qu'il faut, c'est que je sache qui sera assis en face. ||| 그럼 마시러 가자. 첫 라운드는 열 시야. 맞은편에 누가 앉는지는 알아야 해.
+CAMILLE: Voici la liste de la délégation malavienne, reçue hier soir. Madame Okanla, évidemment. Et un nouveau nom : Samuel Tavares, conseiller juridique. ||| 어제 저녁에 받은 말라비 대표단 명단이야. 오칸라 대사는 당연하고, 새 이름이 있어. 사뮈엘 타바르스, 법률 자문.
+JULIEN: Tavares. Comme... ||| 타바르스. 그러면...
+CAMILLE: Comme le Docteur Domingos Tavares de la page du dix mai. J'ai vérifié : il est son petit-fils. Trente-quatre ans, avocat, formé à Lisbonne. ||| 오월 십일 쪽의 도밍구스 타바르스 박사처럼. 확인했어. 손자야. 서른넷, 변호사, 리스본에서 공부했어.
+JULIEN: Je ne dirai pas un mot de cette page. J'attends que Mme Aubry m'autorise à la montrer, et que la maison m'y autorise aussi. ||| 그 쪽 얘기는 한마디도 하지 않을 거야. 오브리 부인이 보여 줘도 좋다고 하고, 우리 쪽도 허락하기 전까지는.
+CAMILLE: Tu veux dire Archambault. ||| 아르샹보 말이지.
+JULIEN: Je veux dire les deux, dans l'ordre inverse. Quoi d'autre ? ||| 둘 다야, 순서는 반대로. 또 뭐가 있지?
+CAMILLE: Deux conseillers « techniques », sans titre officiel, qui sont arrivés en même temps dans un taxi. L'un s'appelle Colin Reeve. ||| "기술" 자문 두 명이 있어. 공식 직함은 없고, 택시로 같이 도착했대. 한 사람 이름이 콜랭 리브야.
+JULIEN: Et Reeve travaille pour qui ? ||| 리브는 누구 밑에서 일하지?
+CAMILLE: Il figure comme « adviser to the delegation ». Employeur non précisé. ||| "대표단 자문"이라고만 나와 있어. 소속은 안 적혀 있고.
+JULIEN: Je vais le lui demander, tout simplement. C'est ma règle : je pose la question, devant tout le monde. ||| 그냥 물어볼 거야. 내 규칙이야. 모두 앞에서 질문하는 것.
+CAMILLE: Et s'il ne répond pas ? ||| 대답하지 않으면?
+JULIEN: Un refus de répondre est aussi une réponse, pourvu qu'on l'ait demandé à voix haute. ||| 대답을 안 하는 것도 대답이야, 소리 내어 물었다면.
+ARCHAMBAULT: Monsieur Delorme, c'est Archambault. Vous êtes arrivés ? ||| 들로름 씨, 아르샹보입니다. 도착하셨나요?
+JULIEN: Nous sommes sur le quai du Mont-Blanc, devant un jet d'eau. Tout va bien. ||| 몽블랑 부두의 분수 앞입니다. 문제없습니다.
+ARCHAMBAULT: Trois points. Un : vous êtes autorisé à proposer un principe, pas un texte. Deux : aucune mention de la lettre de soixante-deux. Trois : compte rendu avant vingt heures. ||| 세 가지입니다. 하나, 원칙은 제안해도 문안은 안 됩니다. 둘, 62년 서한은 언급 금지. 셋, 이십 시 전 보고.
+JULIEN: Je comprends les trois. Pour le deux, je ne la mentionnerai pas. Je citerai seulement le droit de la mer, qui s'applique à tout le monde. ||| 세 가지 다 이해했습니다. 둘째에 대해서는 언급하지 않겠습니다. 모두에게 적용되는 해양법만 인용하겠습니다.
+ARCHAMBAULT: Voilà un distinguo que j'accepte. Bonne chance. ||| 그런 구분이라면 받아들이죠. 행운을 빕니다.
+CAMILLE: Tu as vu ? Elle ne dit plus « sous réserve ». Elle dit « bonne chance ». ||| 봤어? 이제 "유보 조건으로"라고 안 하고 "행운을 빕니다"라고 하잖아.
+JULIEN: C'est peut-être un piège. Allons-y. ||| 함정일지도 몰라. 가자.
+HÉLÈNE: Jour 12. Genève. On y a signé plus de traités que bu de thé. Prenez le thé. ||| 12일째. 제네바. 거기선 차보다 조약에 더 많이 서명했죠. 차를 드세요.
+JULIEN: Elle a le sens du lieu. Elle m'agace, mais elle l'a. ||| 장소 감각이 있어. 짜증 나지만 있긴 있어.
+CAMILLE: Elle dit « thé » et elle pense « tasse de l'accord ». Je suis sûre. ||| "차"라고 쓰고 "합의의 잔"이라고 읽는 거야. 분명해.
+JULIEN: Léa m'a aussi écrit. « Papa, si deux pays ont le même mot pour désigner la même île, est-ce qu'ils parlent de la même île ? » ||| 레아도 보냈어. "아빠, 두 나라가 같은 섬을 가리키는 같은 단어를 쓰면 같은 섬 얘기를 하는 거예요?"
+CAMILLE: Ils n'ont pas le même mot : l'un dit Saint-Aubin, l'autre Ilo Savara. ||| 같은 단어도 아니잖아. 한쪽은 생토뱅, 다른 쪽은 일로 사바라고.
+JULIEN: C'est ce que je vais lui répondre. Elle me répondra que cela dépend de la définition de « même ». ||| 그렇게 답할 거야. 레아는 "같다"의 정의에 달렸다고 되받겠지.
++ le jet d'eau = (제네바 호수의) 분수. 높이 약 140m라 도시의 상징으로 흔히 소개됨
++ un tour de table = 참석자가 차례로 의견을 말하는 첫 라운드
++ adviser to the delegation = 대표단 자문. 소속이 적혀 있지 않으면 누가 비용을 대는지 알 수 없다는 점에 주의
++ pourvu que + 접속법 = ~하기만 하면. 조건의 최소선을 정하는 접속사
++ un distinguo = 구분, 미묘한 구별(라틴어 distinguo에서). 아르샹보가 쥘리앵의 논리를 받아들이는 말
++ sous réserve / bonne chance = 유보 조건으로 / 행운을 빕니다. 인물의 말투 변화를 보여 주는 대비
++ avoir le sens du lieu = 장소 감각이 있다. 칭찬과 짜증을 한 문장에 담는 표현
++ cela dépend de la définition de « même » = 같다는 말의 정의에 달렸다. 레아식 철학 질문의 틀
+
+## 회의실 — LA SALLE
+LINDQVIST: Mesdames et messieurs, bonjour. Je suis Marta Lindqvist. Les Nations unies m'ont demandé de présider cette réunion technique. Je ne suis ni juge ni arbitre. Je suis une universitaire qui connaît le droit de la mer et qui n'a pas besoin de gagner. ||| 여러분, 안녕하세요. 마르타 린드크비스트입니다. 유엔 측 요청으로 이 기술 회의를 진행합니다. 저는 판사도 중재인도 아닙니다. 해양법을 아는 학자이고, 이길 필요가 없는 사람입니다.
+JULIEN: C'est une position confortable. ||| 편안한 자리군요.
+LINDQVIST: Elle l'est surtout par rapport à la vôtre, monsieur Delorme. Avant de commencer, je rappelle trois règles. Aucune délégation ne reconnaît ici la position de l'autre sur la souveraineté. Rien de ce qui se dit n'est opposable plus tard. Et nous parlons de la mer, pas des noms. ||| 특히 들로름 씨 자리에 비하면 그렇지요. 시작 전에 규칙 세 가지를 말씀드립니다. 첫째, 어느 대표단도 여기서 상대의 주권 입장을 인정하지 않습니다. 둘째, 여기서 한 말은 나중에 상대에게 대항할 수 없습니다. 셋째, 우리는 이름이 아니라 바다를 이야기합니다.
+OKANLA: La délégation de la République du Malavi accepte ces règles, sous une réserve : la mention de « nos positions respectives » doit figurer au procès-verbal. ||| 말라비 공화국 대표단은 이 규칙을 받아들입니다. 단, "각자의 입장"이라는 문구가 회의록에 남아야 한다는 유보를 둡니다.
+JULIEN: La délégation française l'accepte aussi. Sans préjudice de nos positions respectives, c'est la formule que nous préférons. ||| 프랑스 대표단도 받아들입니다. "각자의 입장을 해하지 않는다"는 우리가 선호하는 표현입니다.
+LINDQVIST: Bien. Nous avons donc un premier accord, sur ce que nous ne disons pas. C'est souvent le plus solide. Monsieur Delorme, je vous donne la parole. ||| 좋습니다. 우리가 말하지 않을 것에 관한 첫 합의가 생겼군요. 그게 가장 단단할 때가 많습니다. 들로름 씨, 발언하세요.
+JULIEN: Merci, madame la présidente. Je veux commencer par un fait que personne ne conteste : au large de l'archipel, à trente-cinq milles marins de la terre la plus proche, il y a un banc, que les cartes anciennes appellent le banc du Cerne. ||| 감사합니다, 의장님. 아무도 부인하지 않는 사실에서 시작하겠습니다. 군도에서 가장 가까운 육지로부터 삼십오 해리 떨어진 곳에 옛 해도가 "세르네 퇴"라고 부르는 퇴가 있습니다.
+TAVARES: Nous reconnaissons le banc. Nous contestons simplement qu'il soit français. ||| 퇴가 있다는 건 인정합니다. 프랑스 것이라는 점만 다툽니다.
+JULIEN: Et nous contestons que vous puissiez dire le contraire sans parler d'abord des îles. Vous voyez, nous voilà déjà dans l'impasse dont Mme la présidente nous a prévenus. ||| 그리고 우리는 섬 얘기를 먼저 하지 않고 반대로 말할 수 없다고 다툽니다. 보시다시피 의장님이 경고한 교착이 벌써 나왔군요.
+LINDQVIST: Alors sortons-en. Monsieur Delorme, que proposez-vous ? ||| 그럼 빠져나오죠. 들로름 씨, 제안이 무엇입니까?
+JULIEN: Je propose de ne pas résoudre l'impasse, mais de la contourner. La convention des Nations unies de 1982 sur le droit de la mer prévoit, pour les zones où les droits des États se chevauchent, un devoir précis. ||| 교착을 풀지 말고 돌아가자고 제안합니다. 1982년 유엔 해양법 협약은 국가의 권리가 겹치는 해역에 대해 구체적 의무를 두고 있습니다.
+CAMILLE: Articles soixante-quatorze, paragraphe trois, et quatre-vingt-trois, paragraphe trois. ||| 74조 3항과 83조 3항입니다.
+JULIEN: Merci. Ces articles demandent aux États concernés, en attendant la délimitation, de faire tous leurs efforts pour conclure des arrangements provisoires de caractère pratique, et de ne pas compromettre ni entraver la conclusion de l'accord définitif. ||| 감사. 이 조항들은 경계 획정이 이뤄질 때까지 관련국이 실용적 성격의 잠정 약정을 맺도록 모든 노력을 다하고, 최종 합의를 해치거나 방해하지 말라고 요구합니다.
+TAVARES: « Faire tous leurs efforts ». C'est une obligation de moyens, pas de résultat. ||| "모든 노력을 다한다"요. 수단의 의무이지 결과의 의무가 아닙니다.
+JULIEN: Vous avez raison, et je l'assume. C'est précisément ce qui me plaît : personne ne vous demande de renoncer. On vous demande de ne pas empêcher. ||| 맞는 말씀이고 저도 그렇게 인정합니다. 바로 그 점이 마음에 듭니다. 아무도 포기하라고 하지 않아요. 방해하지 말라고 할 뿐이죠.
+OKANLA: Et en pratique, que serait un arrangement de caractère pratique, monsieur Delorme ? ||| 그럼 실제로 실용적 성격의 약정이란 무엇입니까, 들로름 씨?
+JULIEN: Un cadre où l'on explore et exploite ensemble le fond, sans que personne y voie une concession sur la souveraineté. Un développement conjoint, si vous voulez le nom. ||| 아무도 주권을 양보한 것으로 보지 않으면서 함께 해저를 탐사하고 개발하는 틀입니다. 이름을 원하신다면 공동 개발이지요.
+REEVE: Puis-je intervenir ? Excusez mon français, il est… voyageur. La délégation de la République a préparé une carte, un projet, qui montre des blocs numérotés sur ce banc. ||| 끼어들어도 될까요? 제 프랑스어는 좀… 여행자 수준이라 죄송합니다. 공화국 대표단은 이 퇴 위에 번호가 붙은 구획을 보여 주는 도면 초안을 준비했습니다.
+JULIEN: Monsieur Reeve, votre français est le bienvenu. Avant la carte, une question, publiquement : pour qui travaillez-vous ? ||| 리브 씨, 프랑스어는 환영입니다. 도면 전에 공개 질문 하나 드리겠습니다. 누구를 위해 일하십니까?
+REEVE: Je travaille pour la délégation de la République du Malavi, comme vous le voyez sur la liste. ||| 명단에 나와 있듯이 저는 말라비 공화국 대표단을 위해 일합니다.
+JULIEN: C'est ce que vous faites à cette table. Je demande qui paie votre temps. ||| 그건 이 탁자에서 하시는 일이고요. 저는 누가 당신의 시간을 지불하는지 물었습니다.
+LINDQVIST: Monsieur Delorme, c'est une question légitime, mais je ne la force pas. Monsieur Reeve, vous pouvez y répondre ou la laisser. ||| 들로름 씨, 정당한 질문이지만 강요하지는 않겠습니다. 리브 씨, 답하셔도 되고 두셔도 됩니다.
+REEVE: Je choisis de la laisser, madame la présidente. Je ne suis pas autorisé à répondre. ||| 의장님, 두겠습니다. 말할 권한이 없습니다.
+JULIEN: Merci. Il est consigné que la question a été posée, et qu'elle a été laissée. ||| 감사합니다. 질문이 있었고 두기로 했다는 점이 기록되었습니다.
+CAMILLE: Regarde le pied de page de la carte. En petit. ||| 도면 아래쪽 푸터를 봐. 작게 쓰여 있어.
+JULIEN: « V.A. – CB – draft 3 ». Je note, mais je ne dis rien. ||| "V.A. – CB – 3차 초안". 적어 두지만 말은 안 해.
+CAMILLE: Draft trois. Le troisième texte revient toujours. ||| 3차 초안이야. 제3의 문서는 늘 돌아오네.
+OKANLA: Madame la présidente, la carte est un document de travail. Elle n'engage pas ma délégation. ||| 의장님, 도면은 작업 문서입니다. 제 대표단을 구속하지 않습니다.
+LINDQVIST: Je le consigne. Qu'elle n'engage personne, mais qu'elle soit lue. ||| 기록하겠습니다. 누구도 구속하지 않되 읽히기는 하도록요.
+TAVARES: Elle montre au moins que nous sommes sérieux : dix blocs, de CB-1 à CB-10. ||| 최소한 우리가 진지하다는 건 보여 주죠. CB-1부터 CB-10까지 열 개 구획입니다.
+JULIEN: Dix blocs sur une surface qui n'est à personne, c'est un beau plan. À qui avez-vous prévu de les attribuer ? ||| 누구의 것도 아닌 해역에 열 개 구획이라니 멋진 계획이군요. 누구에게 배정할 계획이었습니까?
+TAVARES: À personne pour l'instant. C'est une illustration. ||| 지금으로서는 아무에게도요. 예시일 뿐입니다.
+JULIEN: Alors elle nous convient : une illustration de ce qu'on pourrait gérer ensemble. ||| 그럼 우리에게도 맞는 도면이네요. 함께 관리할 수 있는 것의 예시로요.
++ sans préjudice de + 명사 = ~을 해치지 않고, ~에 영향을 주지 않고. 영유권 문제를 보류하는 표준 문구
++ opposable = (제3자·상대방에게) 대항할 수 있는. 한 말이 법적으로 인용될 수 있는지를 가름
++ des arrangements provisoires de caractère pratique = 실용적 성격의 잠정 약정. 협약 74조 3항·83조 3항의 핵심 문구
++ une obligation de moyens / de résultat = 수단의 의무 / 결과의 의무. 1부 11화에서 본 '노력 의무'와 같은 계열의 개념
++ contourner l'impasse = 교착을 돌아가다. 풀지 않고 우회한다는 쥘리앵의 전략
++ je le consigne = 기록에 남기겠습니다. 의장이 발언을 공식 기록으로 바꾸는 표현
++ pour qui travaillez-vous ? / qui paie votre temps ? = 누구를 위해 일하는가 / 누가 시간을 지불하는가. 공개 질문의 규칙
++ le pied de page = (문서의) 아래쪽 푸터. 작은 글씨가 단서가 되는 순간

@@ -1,0 +1,102 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 4
+@title L'interprète
+@ko 통역사
+@setting 케도르세 중재조정실(월요일 아침) → 몽파르나스발 열차 → 샤르트르의 작은 집 거실 → 같은 거실, 노트가 펼쳐진 뒤 → 샤르트르 역 승강장과 귀갓길 전화
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 감찰단 조사를 앞두고 있음
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 둘이 있을 때는 tu
+@cast AUBRY | 마르그리트 오브리, 은퇴한 회의 통역사, 85세. 1962년 5월 회의에 21세의 통역사로 입회. 허구의 인물
+@cast OKANLA | 나데주 오칸라, 말라비 공화국 주프랑스 대사, 55세. 전화로만 등장. 허구의 인물
+@cast ARCHAMBAULT | 솔렌 아르샹보, 장관 비서실장, 49세. 전화로만 등장. 접촉마다 사후 서면 보고를 요구
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 4화입니다. 3화 끝에서 정정 도장이 «회의에서 받아 적은 기록(minute)»을 가리켰고, 이번 화에서는 그 기록을 쓴 사람이 나옵니다. 월요일 아침, 말라비 대사가 보증금 액수를 알려 오고(해양법 협약 73조의 '합리적 보증금과 신속한 석방' 원칙), 파브르 사서가 찾아 준 케도르세 문서고의 정정 대장에서 «minute 작성자: 통역사 M. 오브리»라는 이름이 나옵니다. 샤르트르에 사는 85세 은퇴 통역사는 1962년 5월 10일 회의에 21세로 입회했고, 통역 노트(carnet)에 외교관의 이름 «J. de Valcourt»를 적어 두었습니다. 2화·3화에서 쥘리앵이 이름을 쓰지 않으려 한 이유가 여기서 풀립니다: 이 사람은 발쿠르 대사의 아버지 장 드 발쿠르이고, 대사 본인은 당시 아홉 살이었습니다. 해법의 순간은 노트의 한 줄입니다. 문서에는 «se concerteront»(협의한다)로 쳐졌다가 정정 도장으로 «décideront»(결정한다)로 바뀐 한 단어가, 노트에서는 회의 중 소리 내어 한 말로 확인됩니다. 협의와 결정의 차이가 이 서한 전체의 뉘앙스입니다. 역사 배경은 1962년 3월 18일 에비앙 협정(3월 19일 정전, 7월 5일 알제리 독립)입니다. 에비앙 협정은 프랑스와 알제리의 이후 협력 체제(예: 사하라 석유 협력 기구, 해군 기지 임대 등)를 독립 뒤에도 이어지도록 설계했습니다. 그 분위기 속에서 «독립 후에도 공동으로»라는 약속이 오갔다는 정황을 통역사가 증언합니다. 통역사 직업 배경으로 1919년 파리 강화회의에서 프랑스어 단독 외교 언어 시대가 영어 병용으로 바뀐 일, 1945~46년 뉘른베르크 재판의 동시통역을 간단히 언급하지만 세부 수치는 일반화했습니다. 쥘리앵의 규칙(불법 자료 불사용, 공개적으로 묻기)은 여기서도 유지되어, 노트는 오브리 씨가 스스로 허락한 범위에서만 복사합니다. 어휘는 une interprétation consécutive, un carnet de notes, le secret professionnel, 접속법(bien que, avant que, sans que)에 주목하세요.
+@next 5화 «Conférence à Genève» (제네바 회의): 프랑스와 말라비 양국과 UN 해양법 전문가가 모인 제네바 회의. 공동 개발이라는 말이 처음으로 테이블에 오른다.
+
+## 월요일 아침 — LUNDI MATIN
+CAMILLE: Tu es en retard de quatre minutes. Ça ne t'arrive jamais. ||| 사 분 늦었어. 너한테는 한 번도 없던 일인데.
+JULIEN: J'ai relu mon rapport de vendredi dans le métro. Chaque mot, deux fois. Où en est-on ? ||| 지하철에서 금요일 보고서를 다시 읽었어. 한 단어씩, 두 번. 지금 어디까지 왔지?
+CAMILLE: Deux nouvelles. La bonne d'abord : Odile Fabre a écrit samedi matin, comme promis. ||| 소식이 두 가지야. 좋은 것부터. 오딜 파브르가 약속대로 토요일 아침에 편지를 썼어.
+JULIEN: Et on a déjà une réponse, un lundi à neuf heures ? ||| 월요일 아침 아홉 시에 벌써 답이 왔다고?
+CAMILLE: Les archives diplomatiques répondent plus vite que les ministres. Le registre des rectifications du Bureau des conventions existe. Le numéro 31 y figure. ||| 외교 문서고는 장관들보다 빨라. 협약과의 정정 대장이 있어. 31번이 거기 있어.
+JULIEN: Lis-moi l'entrée, mot pour mot. ||| 항목을 한 자도 빼지 말고 읽어 줘.
+CAMILLE: « Lettre du 11 mai 1962, deuxième alinéa, troisième ligne : "se concerteront" remplacé par "décideront", conformément à la minute de séance. Minute établie par Mme M. Aubry, interprète contractuelle. Visa : J. d. V. » ||| "1962년 5월 11일 서한, 둘째 단락 셋째 줄. '협의한다'를 회의 기록에 따라 '결정한다'로 대체. 기록 작성자 M. 오브리 통역사, 계약직. 확인: J. d. V."
+JULIEN: « Se concerteront » devient « décideront ». Un seul verbe. ||| "협의한다"가 "결정한다"가 됐네. 동사 하나야.
+CAMILLE: Un verbe, et toute la différence entre demander l'avis de quelqu'un et avoir besoin de son accord. ||| 동사 하나로, 의견을 묻는 것과 동의가 필요한 것이 갈려.
+JULIEN: C'est le mot sous le tampon. Voilà ce qu'on ne lisait pas. ||| 도장 밑에 있던 단어가 그거였군. 우리가 읽지 못하던 거야.
+CAMILLE: Et la mauvaise nouvelle : la minute elle-même n'est plus dans le fonds. Seulement son auteur. ||| 나쁜 소식은 기록 자체가 문서군에 없다는 거야. 작성자만 남았어.
+JULIEN: Un auteur vaut mieux qu'une pièce, si elle respire encore. Elle est vivante ? ||| 숨 쉬고 있다면 작성자가 문서보다 낫지. 살아 있어?
+CAMILLE: Marguerite Aubry, quatre-vingt-cinq ans. L'association des anciens interprètes de conférence a répondu à neuf heures dix. Elle habite Chartres, près de la cathédrale. ||| 마르그리트 오브리, 여든다섯 살. 회의 통역사 동문회가 아홉 시 십 분에 답했어. 샤르트르 대성당 근처에 살아.
+JULIEN: Elle a dit oui à une visite ? ||| 방문은 허락했어?
+CAMILLE: Elle a dit : « Venez avant que j'oublie, et venez avec de l'appétit. » ||| 이렇게 말했대. "잊어버리기 전에 오세요, 그리고 배고픈 채로 오세요."
+JULIEN: Une femme qui a une phrase pareille ne se laissera pas interroger. Elle nous recevra. ||| 그런 문장을 쓰는 사람은 취조당하지 않아. 우릴 맞이해 줄 거야.
+OKANLA: Monsieur Delorme, bonjour. Je vous appelle de ma voiture, c'est inélégant, mais j'ai promis une réponse. ||| 들로름 씨, 안녕하세요. 차에서 전화드립니다. 실례지만 답을 드리기로 약속했으니까요.
+JULIEN: Madame l'ambassadrice, vous êtes la bienvenue à toute heure. Le montant ? ||| 대사님, 언제든 환영입니다. 금액은요?
+OKANLA: Trois cent soixante mille euros pour les trois navires, soit cent vingt mille chacun. Et c'est un montant qu'on a discuté, ce n'est pas un montant de principe. ||| 선박 세 척에 삼십육만 유로, 한 척당 십이만 유로예요. 논의를 거친 액수이지 원칙상의 액수가 아닙니다.
+JULIEN: Je vous remercie. La convention de Montego Bay parle d'une caution « raisonnable ». Je ne vous demande pas si elle l'est, je vous demande quand les hommes sortent. ||| 감사합니다. 몬테고베이 협약은 "합리적인" 보증금이라고 하지요. 합리적인지는 묻지 않겠습니다. 선원들이 언제 나오는지만 묻습니다.
+OKANLA: Dans les quarante-huit heures qui suivent la réception des fonds. Le ministre me l'a confirmé ce matin. Pour les bateaux, nous verrons. ||| 자금 수령 후 사십팔 시간 안에요. 장관님이 오늘 아침 확인해 주셨어요. 배는 보도록 하지요.
+CAMILLE: « Nous verrons », c'est la formule qu'elle a déjà employée à Lisbonne. ||| "보도록 하지요"는 리스본에서도 쓰던 표현이야.
+JULIEN: Je préfère un « nous verrons » que j'entends à un « non » que je ne comprends pas. Merci, Nadège. ||| 이해 못 할 "아니오"보다 알아듣는 "보도록 하지요"가 낫지. 고마워요, 나데주.
+ARCHAMBAULT: Delorme, j'ai reçu votre demande de déplacement à Chartres. Je suppose que vous allez voir un témoin. ||| 들로름 씨, 샤르트르 출장 신청서를 받았어요. 증인을 만나러 가시는 거겠죠.
+JULIEN: Une personne qui a assisté à une réunion en 1962 et qui en a gardé une trace personnelle. Je ne demanderai rien qu'elle ne veuille donner. ||| 1962년 회의에 입회했고 개인 기록을 간직한 분입니다. 본인이 주고 싶지 않은 건 청하지 않겠습니다.
+ARCHAMBAULT: C'est exactement la condition. Rapport avant dix-huit heures, nom du témoin inclus. ||| 바로 그게 조건이에요. 여섯 시 전 보고서, 증인 이름 포함.
+JULIEN: Nom inclus, sauf si elle me demande de ne pas le consigner. Dans ce cas, je vous dirai qu'elle me l'a demandé. ||| 본인이 기록하지 말라고 하면 빼겠습니다. 그 경우엔 그렇게 요청했다고 말씀드리겠습니다.
+ARCHAMBAULT: Je préfère cette réponse à une promesse vague. Allez. ||| 막연한 약속보다 그 대답이 낫네요. 가세요.
+CAMILLE: Elle est de plus en plus facile à vivre. ||| 점점 같이 지내기 편해지네.
+JULIEN: Elle est de plus en plus précise. Ce n'est pas la même chose, mais c'est mieux. ||| 점점 더 정확해지는 거지. 같은 건 아니지만 그게 더 나아.
+HÉLÈNE: Jour 10. Quand quelqu'un a pris des notes, il a choisi ce qu'il a omis. Écoutez aussi ses omissions. ||| 10일째. 누가 받아 적었다면 무엇을 뺄지도 그가 골랐다는 뜻이에요. 빠진 것에도 귀를 기울이세요.
+CAMILLE: Elle sait qu'on va voir une interprète. ||| 우리가 통역사를 만나러 간다는 걸 알고 있네.
+JULIEN: Elle sait que quand on cherche une minute, on trouve un scribe. Ce n'est pas du renseignement, c'est de l'expérience. ||| 기록을 찾으면 받아 적은 사람이 나온다는 걸 아는 거야. 정보가 아니라 경험이지.
++ en retard de quatre minutes = 사 분 늦은. 정확한 시간을 말해 늦음을 과장하는 농담조
++ se concerter / décider = 협의하다 / 결정하다. 상대의 의견을 듣는 데 그칠지 동의가 필요한지의 차이
++ conformément à + 명사 = ~에 따라, ~와 일치하게. 행정·법률 문서의 정형 표현
++ une interprète contractuelle = 계약직 통역사. 정직원이 아니라 건별 계약으로 일하는 사람
++ venez avant que j'oublie = 제가 잊기 전에 오세요. avant que 뒤에는 접속법과 허사 ne(ne explétif)가 흔함
++ un montant de principe = 원칙상의 금액. 협상 없이 정해진 상징적 액수를 가리킴
++ nous verrons = 보도록 하지요. 약속도 거절도 아닌 외교적 유보
++ de plus en plus facile à vivre = 점점 지내기 편한. 사람의 성격을 말하는 구어 표현
+
+## 샤르트르의 거실 — LE SALON DE CHARTRES
+CAMILLE: On voit la cathédrale depuis le quai. Les deux flèches ne sont pas pareilles. ||| 승강장에서 대성당이 보여. 두 첨탑이 서로 달라.
+JULIEN: Une du douzième siècle, l'autre du seizième, après un incendie. Rien n'est jamais symétrique chez nous, sauf nos communiqués. ||| 하나는 십이 세기, 하나는 십육 세기 거야, 화재 뒤에 다시 올렸지. 우리 쪽은 뭐든 비대칭이야, 공동 성명서만 빼고.
+AUBRY: Vous êtes les deux de Paris ? Entrez, la porte n'est pas fermée à clef, elle se coince seulement. ||| 파리에서 오신 두 분이죠? 들어오세요. 잠긴 건 아니고 그냥 뻑뻑해요.
+JULIEN: Madame Aubry, Julien Delorme. Voici Camille Roussel, qui a retrouvé votre nom dans un registre. ||| 오브리 부인, 쥘리앵 들로름입니다. 이쪽은 부인의 이름을 대장에서 찾아낸 카미유 루셀이고요.
+AUBRY: Dans un registre ? Alors je ne suis pas encore oubliée. Entrez vite. J'ai fait un gâteau, et il y a du thé. ||| 대장에서요? 그럼 아직 잊힌 건 아니네요. 어서 들어오세요. 케이크를 구웠고 차도 있어요.
+CAMILLE: Votre salon sent le vieux papier et le citron. J'adore. ||| 거실에서 오래된 종이와 레몬 냄새가 나요. 너무 좋아요.
+AUBRY: Les deux ont la même origine : j'ai gardé tout ce que j'ai écrit, et je ne jette rien qui sente bon. ||| 둘 다 같은 데서 나온 거예요. 제가 쓴 건 전부 보관했고, 향기로운 건 안 버려요.
+JULIEN: Vous êtes interprète depuis longtemps. Depuis quand, exactement ? ||| 통역 일을 오래 하셨죠. 정확히 언제부터인가요?
+AUBRY: Depuis mes vingt ans. J'ai fini mes études à l'école d'interprètes en soixante et un. Le premier contrat que j'ai eu, c'était pour un ministère, dans une salle sans fenêtre. ||| 스무 살부터요. 육십일 년에 통역 학교를 마쳤어요. 첫 계약은 어느 부처의 창문 없는 방이었지요.
+CAMILLE: Quelle langue ? ||| 어느 언어였나요?
+AUBRY: Le français et le portugais. Ma grand-mère était de Porto. Elle m'a laissé la langue et une casserole en cuivre. ||| 프랑스어와 포르투갈어요. 할머니가 포르투 출신이었어요. 저한테 언어랑 구리 냄비를 남기셨죠.
+JULIEN: Vous faisiez de la consécutive ? ||| 순차통역을 하셨나요?
+AUBRY: Uniquement. La simultanée existait à Nuremberg depuis quinze ans, mais on ne l'installait pas dans un petit bureau de la rue Oudinot. On parlait, je prenais des notes, je restituais. ||| 순차통역만요. 동시통역은 뉘른베르크에서 십오 년 전부터 있었지만 오디노 거리의 작은 사무실에 설치하진 않았죠. 말을 하면 제가 받아 적고 다시 풀었어요.
+CAMILLE: Et on vous notait ? ||| 그 내용이 기록으로 남았나요?
+AUBRY: Mieux : on me demandait le procès-verbal en plus. Une interprète qui sait écrire vite devient greffier sans qu'on le dise. ||| 그보다, 회의록까지 요구했어요. 빨리 쓰는 통역사는 말 없이 서기가 되는 법이죠.
+JULIEN: C'est ce que dit le registre : « minute établie par Mme Aubry ». ||| 대장에도 그렇게 있습니다. "기록 작성자 오브리 부인"이라고요.
+AUBRY: Je me souviens qu'on m'a demandé de signer la minute, et que j'ai répondu qu'une interprète n'a pas à signer ce qu'elle transmet. On l'a acceptée sans ma signature. ||| 기록에 서명하라고 했는데, 통역사는 전달하는 것에 서명하지 않는다고 답했던 게 기억나요. 서명 없이 받아들였지요.
+CAMILLE: Vous vous rappelez la réunion ? ||| 그 회의를 기억하세요?
+AUBRY: Je me rappelle un jeudi après-midi, une table trop grande pour la pièce, et du thé tiède. Mais pas encore ce que vous voulez que je me rappelle. Dites-moi d'abord ce que vous cherchez. ||| 목요일 오후, 방에 비해 너무 큰 탁자, 미지근한 차가 기억나요. 두 분이 기억하길 바라는 건 아직 아니고요. 먼저 뭘 찾는지 말해 보세요.
+JULIEN: Une lettre datée du onze mai mil neuf cent soixante-deux, qui parle d'une zone de fond marin, devant ce qui est aujourd'hui l'archipel de Saint-Aubin. ||| 1962년 5월 11일자 서한입니다. 지금의 생토뱅 군도 앞바다의 해저 구역에 관한 것이에요.
+AUBRY: Je connais ces îles seulement par un nom de chanson. Mais le onze mai... la veille, il y a eu une séance. C'est cela que vous cherchez. ||| 그 섬들은 노래 제목으로만 알아요. 하지만 오월 십일 일... 전날 회의가 있었지요. 두 분이 찾는 게 그거군요.
+CAMILLE: Vous vous en souvenez ? ||| 기억하세요?
+AUBRY: Je me souviens que j'ai pleuré dans le train du retour. Pas de tristesse. De fatigue, et de l'effort d'avoir été fidèle. ||| 돌아오는 기차에서 울었다는 건 기억나요. 슬퍼서가 아니라 피곤해서, 그리고 충실하려고 애쓴 끝이라서요.
+JULIEN: Fidèle à quoi ? ||| 무엇에 충실하다는 거죠?
+AUBRY: À ce qu'on disait, pas à ce qu'on aurait voulu qu'on dise. C'est le métier. Mais vous êtes diplomates : vous savez que c'est le contraire du métier de tout le monde. ||| 말해진 것에요, 말해졌으면 하는 것이 아니라. 그게 이 일이에요. 하지만 외교관이시니 이게 다른 모든 직업과 정반대라는 걸 아시겠죠.
+CAMILLE: Vous parliez à voix haute, et vous restituiez à voix haute. Il n'y a pas de place pour la nuance. ||| 소리 내어 말씀하시고 소리 내어 옮기셨죠. 뉘앙스가 끼어들 자리가 없군요.
+AUBRY: Au contraire. La nuance est tout ce qui reste quand on retire les mots. Venez vous asseoir, je vais d'abord vous donner mon thé. ||| 반대예요. 단어를 걷어 내고 남는 게 뉘앙스예요. 앉으세요, 우선 차부터 드릴게요.
+JULIEN: Madame Aubry, avant d'aller plus loin, une règle. Je n'utiliserai rien de ce que vous me direz sans vous l'avoir demandé. ||| 오브리 부인, 더 나아가기 전에 한 가지 규칙이 있습니다. 부인이 하신 말씀은 허락을 구하기 전에는 아무것도 쓰지 않겠습니다.
+AUBRY: Voilà qui est rare. Dans mon ancien métier, c'était la règle de base, mais personne ne s'y tenait. ||| 드문 말씀이네요. 제 옛 직업에서는 기본 규칙이었는데 아무도 지키지 않았어요.
+CAMILLE: Vous avez gardé votre secret professionnel pendant soixante-quatre ans ? ||| 육십사 년 동안 직업상 비밀을 지키셨나요?
+AUBRY: Je l'ai gardé pour les vivants. Personne ne m'a demandé de le garder pour les morts. Asseyez-vous. ||| 산 사람들을 위해 지켰죠. 죽은 사람들을 위해 지키라고 한 적은 없어요. 앉으세요.
++ une interprétation consécutive = 순차통역. 화자가 말을 마치면 통역사가 노트를 보고 옮기는 방식
++ la simultanée = 동시통역. 뉘른베르크 재판(1945~46)에서 본격적으로 쓰였다고 흔히 설명됨
++ le procès-verbal / la minute = 회의록 / (원문 그대로 작성된) 기록 원본. 법률·행정에서 minute은 서명된 원본 문서를 뜻하기도 함
++ fidèle à ce qu'on disait = 말해진 것에 충실한. 통역사의 윤리: 의도가 아니라 발언에 충실
++ le secret professionnel = 직업상 비밀 준수. 통역사·번역사의 윤리 강령에 속함
++ qui est rare = 드문 일이다. Voilà qui est rare처럼 관계절로 평가를 덧붙이는 문어체
++ sans qu'on le dise = 말하지 않아도. sans que 뒤에 접속법, 암묵의 역할 변화를 말할 때 씀
++ la nuance est tout ce qui reste = 뉘앙스는 남는 전부다. 오브리의 직업철학이자 시리즈의 주제
+

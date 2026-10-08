@@ -1,0 +1,84 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 2
+@ep 6
+@title Monsieur de Valcourt
+@ko 발쿠르 선생
+@setting 클레르 거리 근처 발쿠르의 아파트 계단과 거실(목요일 저녁) → 사진이 걸린 서재 → 같은 서재, 책상 서랍 앞 → 거실의 치즈 접시와 식탁 → 건물 계단과 거리
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 46세. 스승을 vous로 부름
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 73세. 쥘리앵에게 tu로 말함. 아홉 살 때 1962년 5월 회의장에 있었음
+@cast CAMILLE | 카미유 루셀, 분석관, 30세. 전화로만 등장
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 43세. 문자로만 등장
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 16세. 문자로만 등장
+@note 2부 6화입니다. 2부 연령 정정에 맞춰, 1962년 서한의 서명자는 발쿠르 대사 본인이 아니라 그의 아버지 장 드 발쿠르입니다(당시 식민부 계통 협약과의 젊은 서기관). 앙리 드 발쿠르는 1953년생으로 그해 아홉 살이었고, 회의 날 큰 탁자 밑에서 그림을 그리던 아이였습니다. 이 화는 쥘리앵이 스승의 아파트로 찾아가 맞서는 내부 대결입니다. 해법의 순간은 서재의 옛 사진입니다: 1962년 5월 10일 오디노 거리 안뜰에서 장 드 발쿠르와 말라비 변호사 도밍구스 타바르스가 악수하는 사진, 그 곁 선반의 작은 나무 배 «Savara», 그리고 사진 뒷면의 문장. 이 사진은 '일로 사바라'라는 이름을 앙리가 왜 알고 있었는지, 왜 «찾지 마라»고 했는지를 설명합니다. 쥘리앵은 3화 문서고의 기록(1989년 2월 9일 «서명자 가족에게 개인 문서 반환»)이 앙리 본인의 요청이었음을 알아챕니다. 프랑스 공문서는 공공기록으로서 양도할 수 없고 시효로 소멸하지 않는다는 원칙이 있다는 점이 갈등의 법적 배경이고(세부 조문은 일반화), 퇴직 외교관의 책임을 둘러싼 논쟁에는 탈레랑이 사후 삼십 년 뒤 공개하도록 남긴 『회고록』(그가 1838년 사망하고 1891년 출간된 사실)이 역사적 비교로 쓰입니다. 쥘리앵의 규칙(규정을 어기지 않고 공개적으로 묻기)도 유지되어, 대화 내용은 쥘리앵이 메모하고 발쿠르가 머리글자 «H. d. V.»로 확인합니다. 어휘는 le devoir de réserve, la restitution, un dépositaire, 접속법(bien que, avant que, quoi que, à moins que)에 주목하세요.
+@next 7화 «Mains sales» (더러운 손): 엘렌이 말라비 군 정보를 건넨다. 쥘리앵은 사용 범위를 제한하는 대신 다음 요청을 약속하게 된다. 레아는 '믿던 사람이 틀리면 사과해야 하느냐'고 묻는다.
+
+## 샤우르스 — LE CHAOURCE
+VALCOURT: Tu es en avance de six minutes, Julien. Tu as marché ou tu as hésité sur le trottoir ? ||| 육 분 일찍 왔구나, 쥘리앵. 걸어왔니, 아니면 인도에서 망설였니?
+JULIEN: Les deux, monsieur l'ambassadeur. ||| 둘 다입니다, 대사님.
+VALCOURT: Alors entre. Mets ton manteau là. Je n'ai pas fait de cuisine, j'ai fait un plateau. Un chaource, un saint-nectaire, un bleu de Gex, une mimolette vieille. Tu verras que les croûtes ne se ressemblent pas. ||| 그럼 들어와라. 외투는 거기 걸어. 요리는 안 했고 접시를 준비했다. 샤우르스, 생넥테르, 블뢰 드 젝스, 오래된 미몰레트야. 껍질이 서로 닮지 않았다는 걸 볼 거다.
+JULIEN: Je ne mange pas avant de comprendre. ||| 이해하기 전에는 먹지 않겠습니다.
+VALCOURT: Alors tu mangeras froid. C'est aussi une façon de comprendre. ||| 그럼 식은 걸 먹겠구나. 그것도 이해하는 한 방식이지.
+JULIEN: Vous m'avez dit : « Ne cherche pas. » Je ne vous ai pas obéi. ||| 대사님은 "찾지 마라"라고 하셨습니다. 저는 따르지 않았습니다.
+VALCOURT: Je t'ai dit « ne cherche pas », pas « ne trouve pas ». Tu as trouvé ? ||| 나는 "찾지 마라"고 했지 "발견하지 마라"고는 안 했다. 발견했니?
+JULIEN: J'ai trouvé une copie, un tampon, un registre. J'ai trouvé une interprète à Chartres. ||| 사본 하나, 도장 하나, 대장 하나를 찾았습니다. 샤르트르에서 통역사도 찾았고요.
+VALCOURT: Marguerite Aubry. Elle vit encore ? Je croyais qu'elle était morte. ||| 마르그리트 오브리. 아직 살아 있니? 죽은 줄 알았다.
+JULIEN: Vous la connaissez. ||| 아시는 분이군요.
+VALCOURT: Je l'ai vue deux fois en tout. Une fois à neuf ans, quand elle m'a répondu à une question. Une fois à vingt-deux ans, à un enterrement, où je ne l'ai pas reconnue. ||| 전부 두 번 봤다. 한 번은 아홉 살 때 내 질문에 대답해 주었고, 한 번은 스물두 살 때 장례식에서 알아보지 못했지.
+JULIEN: Elle vous a reconnu cette semaine, sans vous voir. Elle a dit que j'avais prononcé votre nom comme on dit le nom de quelqu'un qu'on aime. ||| 이번 주에는 얼굴을 안 보고도 알아보셨습니다. 제가 대사님 이름을 아끼는 사람의 이름처럼 말했다고요.
+VALCOURT: Elle a l'oreille d'un petit instrument. Assieds-toi. ||| 작은 악기 같은 귀를 가졌구나. 앉아라.
+JULIEN: Je préfère rester debout. Vous voulez que je commence, ou vous préférez le faire ? ||| 서 있겠습니다. 제가 먼저 시작할까요, 아니면 대사님이 하시겠습니까?
+VALCOURT: Tu es plus calme que d'habitude. Tu baisses la voix. Je te connais : c'est quand tu es le plus en colère. ||| 평소보다 차분하구나. 목소리를 낮추고. 나는 안다, 네가 제일 화났을 때야.
+JULIEN: Alors je continuerai à parler bas, pour que vous entendiez chaque mot. Votre père a rédigé et signé une lettre le onze mai mil neuf cent soixante-deux. Et vous le saviez. ||| 그럼 한 마디씩 들으시도록 계속 낮게 말하겠습니다. 대사님 아버님이 1962년 5월 11일에 서한을 작성하고 서명하셨습니다. 그리고 대사님은 알고 계셨습니다.
+VALCOURT: Je savais qu'il l'avait écrite. Je n'en connaissais pas le contenu avant le soir de sa mort. ||| 쓰셨다는 건 알았다. 내용은 돌아가신 날 저녁까지 몰랐다.
+JULIEN: Pourquoi me dire seulement « ne cherche pas » ? Pourquoi pas « cherche, mais pas là » ? ||| 왜 "찾지 마라"고만 하셨습니까? "찾되 거기는 말고"가 아니라요?
+VALCOURT: Parce que je ne savais pas, la première fois, si tu étais en danger ou si c'était moi. Mange un morceau de ce chaource, il est à point. ||| 처음에는 위험한 사람이 너인지 나인지 몰랐기 때문이다. 이 샤우르스를 한 조각 먹어라, 딱 먹을 때다.
+JULIEN: Je ne mangerai pas. ||| 먹지 않겠습니다.
+VALCOURT: Entêté. Tu tiens ça de ton père, le traiteur lyonnais. Viens, allons dans mon bureau. Ce que j'ai à te dire ne passe pas dans un salon. ||| 고집불통이구나. 리옹 식당 하던 네 아버지를 닮았어. 서재로 가자. 내가 하려는 말은 응접실에서는 안 돼.
+JULIEN: Vous avez préparé quelque chose. ||| 뭔가 준비하셨군요.
+VALCOURT: Je n'ai rien préparé. Je prépare cette conversation depuis trente-sept ans. Ce n'est pas la même chose. ||| 준비한 건 없다. 삼십칠 년 동안 이 대화를 준비해 왔을 뿐이지. 같은 게 아니야.
++ être en avance de six minutes = 육 분 일찍 오다. 쥘리앵의 정확함과 불안을 함께 보여 줌
++ un plateau de fromages = 치즈 접시. 이 시리즈에서 발쿠르가 이야기를 꺼내는 무대
++ la croûte = (치즈의) 껍질. 샤우르스는 흰곰팡이 껍질, 블뢰는 푸른곰팡이. 사람에게 비유하는 소재
++ tu as trouvé ? / je t'ai dit « ne cherche pas », pas « ne trouve pas » = 찾지 마라고 했지 발견하지 말라고는 안 했다. 지시의 문자적 범위를 따지는 말놀이
++ avoir l'oreille d'un petit instrument = 작은 악기 같은 귀를 가지다. 통역사의 청각을 칭찬하는 시적 표현
++ je préfère rester debout = 서 있는 편이 낫다. 대결의 자세를 알리는 말
++ quand tu es le plus en colère = 네가 가장 화났을 때. 최상급 plus + 형용사의 정관사 일치에 주의
++ je prépare cette conversation depuis trente-sept ans = 삼십칠 년 동안 이 대화를 준비해 왔다. 1989년부터의 침묵을 드러냄
+
+## 사진이 걸린 서재 — LE BUREAU AUX PHOTOGRAPHIES
+JULIEN: Je ne connaissais pas cette pièce. Vous m'aviez toujours reçu au salon. ||| 이 방은 몰랐습니다. 늘 응접실에서 맞아 주셨으니까요.
+VALCOURT: Je l'ai fermée pendant trente-sept ans. Regarde les murs, tu comprendras pourquoi. ||| 삼십칠 년 동안 닫아 두었다. 벽을 봐라, 이유를 알 거다.
+JULIEN: Beaucoup de photographies. Des cadres noirs, des cadres de bois. Un mur entier de visages. ||| 사진이 많네요. 검은 틀, 나무 틀. 벽 하나가 얼굴로 가득합니다.
+VALCOURT: Mon père, ses collègues, leurs épouses. On ne montre pas ces photos-là aux visiteurs. On y reconnaît trop de gens que l'histoire a rangés. ||| 아버지, 동료들, 그 부인들이다. 이런 사진은 손님에게 안 보여 줘. 역사가 치워 버린 사람을 너무 많이 알아보게 되거든.
+JULIEN: Celle-ci. Deux hommes se serrent la main dans une cour. L'un est jeune, bien coiffé, tient une enveloppe pâle dans l'autre main. ||| 이 사진요. 마당에서 두 남자가 악수합니다. 한 사람은 젊고 머리를 단정히 했고, 다른 손에 옅은 색 봉투를 들었어요.
+VALCOURT: Mon père. Dix mai mil neuf cent soixante-deux, la cour de la rue Oudinot. Retourne le cadre. ||| 아버지다. 1962년 5월 10일, 오디노 거리 안뜰. 액자를 뒤집어 봐라.
+JULIEN: Écrit au crayon : « Il m'a dit : cette poignée de main vaudra ce que vaudra le papier. Je lui ai répondu : elle vaudra le papier, et davantage. J.d.V. » ||| 연필로 쓰여 있네요. "그가 말했다. 이 악수는 문서의 값만큼의 가치가 있을 겁니다. 나는 대답했다. 문서의 값, 그리고 그 이상일 겁니다. J.d.V."
+VALCOURT: C'est son écriture. Et l'autre homme, le plus âgé, tu le reconnais ? ||| 아버지 글씨다. 다른 사람, 나이 든 쪽은 알아보겠니?
+JULIEN: Le Docteur Domingos Tavares, l'avocat malavien. Il a une cravate de laine, comme dans la page de Mme Aubry. Il parlait lentement, sans papier. ||| 말라비의 도밍구스 타바르스 박사입니다. 오브리 부인 노트에 나온 대로 털 넥타이를 맸군요. 느리게, 원고 없이 말하던 분이요.
+VALCOURT: Il est venu dîner chez nous le soir même. J'étais déjà couché, mais j'ai entendu la voix. Une voix qui prononçait un nom : Savara. ||| 그날 저녁 우리 집에 저녁 식사하러 왔다. 나는 이미 누워 있었지만 목소리가 들렸지. 한 이름을 발음하는 목소리였어. 사바라.
+JULIEN: Ilo Savara. Le nom que vous avez entendu « il y a très longtemps ». ||| 일로 사바라. "아주 오래전에 들었다"고 하신 그 이름이군요.
+VALCOURT: Oui. Il m'a même laissé un cadeau. Regarde sur l'étagère, à côté du dictionnaire. ||| 그래. 선물도 하나 남겼다. 사전 옆 선반을 봐라.
+JULIEN: Un bateau. Un petit voilier en bois, sculpté à la main. Sur la coque, une inscription : « Savara ». ||| 배네요. 손으로 깎은 작은 나무 범선입니다. 선체에 글씨가 있어요. "사바라".
+VALCOURT: Il me l'a donné le soir, en me disant : « Tu auras peut-être un jour à choisir entre le nom de ton pays et le nom de la mer. » Je n'avais pas compris la phrase. Je n'ai compris que le bateau. ||| 그날 저녁 주면서 이렇게 말했다. "너는 언젠가 네 나라의 이름과 바다의 이름 중에서 골라야 할지도 몰라." 문장은 이해하지 못했고 배만 이해했지.
+JULIEN: Et ce soir-là, vous avez su ce qu'était la lettre ? ||| 그날 저녁에 서한이 무엇인지 아셨습니까?
+VALCOURT: Non. Je l'ai su le soir de la mort de mon père, en quatre-vingt-huit. Dans la poche de son veston, il y avait une clef. Dans le tiroir du bureau, derrière cette clef, une enveloppe. ||| 아니. 1988년 아버지 돌아가신 날 저녁에야 알았다. 상의 주머니에 열쇠가 있었고, 책상 서랍 안쪽에 봉투가 있었어.
+JULIEN: Et dans l'enveloppe ? ||| 봉투 안에는요?
+VALCOURT: Un double de la lettre, et un mot de lui : « Pour Henri, quand il sera en âge de décider si cela doit ressortir. » ||| 서한의 부본과 아버지 쪽지가 있었다. "앙리에게. 이것이 다시 나와야 할지 결정할 나이가 되면."
+JULIEN: « En âge de décider ». Il vous a confié la décision. ||| "결정할 나이". 결정을 대사님께 맡기셨군요.
+VALCOURT: Oui. Et je suis resté trente-sept ans dans cette pièce sans décider. Voilà ma faute, si tu cherches un mot exact. ||| 그래. 그리고 나는 삼십칠 년 동안 이 방에서 결정하지 않았다. 정확한 말을 찾는다면 그게 내 잘못이야.
+JULIEN: Pas encore votre faute, monsieur. Votre silence. La faute, ce sera peut-être la restitution. ||| 아직 잘못이 아니라 침묵입니다. 잘못은 반환일 수도 있습니다.
+VALCOURT: Tu y viens vite. ||| 빨리 거기까지 가는구나.
+JULIEN: Mme Fabre, à Aix, a lu le récolement : « sortie du fonds le neuf février mil neuf cent quatre-vingt-neuf, sur demande, restitution de papiers personnels à la famille du signataire ». Qui a fait la demande ? ||| 엑스의 파브르 부인이 재대조 장부를 읽었습니다. "1989년 2월 9일 문서군에서 반출, 요청에 따라 서명자 가족에게 개인 문서 반환". 누가 요청했습니까?
+VALCOURT: Moi. J'avais trente-six ans. Je venais d'être nommé conseiller à Lisbonne. Je suis passé à Aix avec une lettre de ma mère. ||| 나다. 서른여섯이었고 막 리스본 참사관으로 임명된 참이었지. 어머니의 편지를 들고 엑스에 갔다.
+JULIEN: Pourquoi 1989 ? ||| 왜 1989년입니까?
+VALCOURT: Parce que le Bureau des conventions allait être réorganisé, et qu'on triait, dans ces années-là, les dossiers « sans utilité ». Mon père avait écrit sur la chemise : « à conserver ». Je ne voulais pas qu'on décide à sa place. ||| 협약과가 개편될 참이었고, 그 무렵 "쓸모없는" 서류를 솎아 내고 있었으니까. 아버지가 서류철에 "보존"이라고 써 놨는데, 아버지를 대신해서 누가 결정하는 게 싫었다.
++ une photographie dans un cadre = 액자에 든 사진. 이 장면에서는 증거의 역할
++ cette poignée de main vaudra ce que vaudra le papier = 이 악수는 문서가 가치 있는 만큼의 가치가 있다. 구두 약속과 서면 약속의 관계를 말함
++ être en âge de + 부정사 = ~할 나이가 되다. en âge de décider = 결정할 나이가 된
++ un double / une copie = 부본 / 사본. 같은 내용을 한 번 더 만든 문서
++ la restitution = (양도·반환)된 문서의 돌려줌. 3화 재대조 장부와 이어지는 핵심 단어
++ trier les dossiers sans utilité = 쓸모없는 서류를 가려내다. 문서고에서의 폐기 선별 작업
++ ne pas décider à sa place = 그/그녀를 대신해 결정하지 않다. 아들의 변명이자 존중
++ entre le nom de ton pays et le nom de la mer = 네 나라의 이름과 바다의 이름 사이. 주권과 자원, 이름과 사물의 구분
