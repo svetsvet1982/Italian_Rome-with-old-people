@@ -1,0 +1,210 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 6
+@title Une école pour tous
+@ko 모두를 위한 학교
+@setting 파리 들로름의 집 거실(목요일 밤) → 해외 프랑스 학교 사무국 이사회실, 포르 뤼미에르와 화상 연결(금요일 10시) → 같은 방 휴회 중 복도와 이사회실(금요일 11시~12시 30분) → 사무국 서명실(금요일 14시)과 케도르세 복도(금요일 저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast LÉA | 레아 들로름, 쥘리앵의 딸, 17세. 철학 시험 준비 중
+@cast VERDIER | 마르그리트 베르디에, «에콜 뒤 파르» 전 교장, 설립 협회 마지막 회장, 78세. 허구의 인물
+@cast LASSERRE | 위베르 라세르, «해외 프랑스 학교 사무국» 자산전략 국장, 52세. 허구의 인물
+@cast MOREL | 클레르 모렐, 포르 뤼미에르 주재 프랑스 대사관 협력·문화 참사관, 46세. 화상으로 등장. 허구의 인물
+@cast TAVAN | 사미르 타방, «에콜 뒤 파르» 학부모 대표, 약사, 43세. 허구의 인물
+@cast AUBRY | 마틸드 오브리, «에콜 뒤 파르» 역사·문학 교사, 38세. 허구의 인물
+@cast KÉLIA | 켈리아 타방, 4학년 학생, 13세. 사미르의 딸. 화상으로 등장. 허구의 인물
+@cast DOUMBI | 자라 둠비, 포르 뤼미에르 시 부시장(교육 담당), 50세. 화상으로 등장. 허구의 인물
+@cast SALVANI | 카데르 살바니, 마랑다 공화국 교육부 사무차관, 55세. 화상으로 등장. 허구의 인물
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 문자로 등장
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@note 3부 6화(사건 B 결산)입니다. 목요일 밤, 쥘리앵은 딸 레아와 함께 «내 학교를 닫으려는 사람에게 쓰는 편지» 스물세 편을 읽고, 금요일 10시 사무국 이사회에서 베르디에가 약정서 원본을 내놓아 부지가 보호됩니다(2조 «영속», 5조 «당연한 갱신», 3조 «구두로»). 그러나 사무국은 «용도의 영속은 보조금의 영속이 아니다»라고 못 박고, 마랑다 교육부와 시, 학부모와 교사는 서로 다른 조건을 내세워 교착에 빠집니다. 해법의 순간은 4학년 학생 켈리아의 프랑스어 작문입니다. 약사인 아버지의 약국에서 프랑스어 약 설명서를 할머니께 마랑다어로 옮겨 주던 경험에서 시작해 «학교는 두 언어가 싸우지 않고 말을 나누는 집»이라고 쓰고, 마지막 문장 «문을 닫지 마세요. 두 방향으로 열어 주세요»가 이중언어 학교 전환 합의의 1조가 됩니다. 역사 배경은 프랑스 공화국의 공교육 전통인 쥘 페리 법입니다. 1881년 6월 16일 법은 공립 초등교육을 무상으로, 1882년 3월 28일 법은 6~13세 아동의 의무교육과 교육과정의 세속성(laïcité)을 정했습니다. 레아는 «pour tous(모두를 위해)»가 «모두에게 열려 있다»와 «모두가 다녀야 한다»라는 두 방향의 뜻을 가진다고 정의합니다. 페리가 식민지 팽창의 주창자이기도 했다는 그림자도 대사 속에서 정직하게 다룹니다. 발루아/오렐리아 쪽은 루멘 재단의 인수 제안 철회와 학교 용도 문구로 정리됩니다(가볍게). 어휘는 une convention bilingue, faire foi, la gratuité, 접속법(pourvu que, à condition que, sans que)에 주목하세요.
+@next 3-7 «Le fromage et le droit»: 새 사건 C(원산지 분쟁). 프랑스 치즈의 이름 표기를 둘러싸고 유럽연합 이웃 나라와 충돌한다. 쥘리앵은 리옹 시절의 기억을 떠올린다.
+
+## 스물세 편의 편지 — VINGT-TROIS LETTRES
+LÉA: Papa, j'ai fini. Vingt-trois lettres, deux heures dix, un thé froid. Je peux te dire que ces élèves écrivent mieux que mon prof de français, mais il ne le saura pas. ||| 아빠, 다 읽었어요. 스물세 편, 2시간 10분, 식은 차 한 잔. 이 애들은 우리 국어 선생님보다 글을 잘 써요. 선생님은 모르겠지만요.
+JULIEN: Je ne t'ai pas demandé de les noter. Je t'ai demandé de les lire. ||| 점수를 매기라고 한 게 아니야. 읽어 달라고 했지.
+LÉA: Je n'ai pas noté. Je les ai classées. Il y a quatre sortes de lettres. Les lettres de colère, six. Les lettres de tristesse, neuf. Les lettres de calcul, cinq. Et les lettres qui posent une question, trois. ||| 점수는 안 줬어요. 분류했죠. 편지는 네 종류예요. 화난 편지 여섯, 슬픈 편지 아홉, 계산하는 편지 다섯, 그리고 질문을 던지는 편지가 셋이에요.
+JULIEN: Les trois dernières m'intéressent. ||| 마지막 셋이 궁금하구나.
+LÉA: Je les ai mises sur la table. Une est d'un garçon de sixième qui demande si on peut fermer une école « pour économiser » alors que ça coûte plus cher de rouvrir une prison. ||| 식탁 위에 올려놨어요. 하나는 중1 남자애가 쓴 건데, 교도소를 다시 여는 게 더 비싼데 어떻게 학교를 "절약하려고" 닫을 수 있냐고 물어요.
+JULIEN: Il a raison, mais ce n'est pas le bon argument pour un conseil. ||| 맞는 말이지만 이사회에는 맞는 논거가 아니야.
+LÉA: Celle-ci est d'une fille de troisième qui cite Jules Ferry, mais elle se trompe de date. Et celle-ci… Kélia Tavan, quatrième. Je ne sais pas encore ce que c'est. ||| 이건 3학년 여자애가 쓴 건데 쥘 페리를 인용하지만 연도를 틀렸어요. 그리고 이건… 켈리아 타방, 4학년. 아직 이게 뭔지 모르겠어요.
+JULIEN: Lis-moi la première phrase. ||| 첫 문장을 읽어 줘.
+LÉA: « Monsieur, je ne sais pas qui vous êtes, mais je sais que vous n'avez jamais traduit la notice d'un médicament pour votre grand-mère. » ||| "선생님, 저는 선생님이 누구인지 모르지만 선생님이 할머니께 약 설명서를 번역해 드린 적이 없다는 건 알아요."
+JULIEN: Samir Tavan est pharmacien. C'est sa fille. ||| 사미르 타방이 약사야. 그 집 딸이야.
+LÉA: Je comprends. Et la dernière phrase : « Ne fermez pas la porte. Ouvrez-la dans les deux sens. » ||| 그렇군요. 마지막 문장은 이거예요. "문을 닫지 마세요. 두 방향으로 열어 주세요."
+JULIEN: La porte. Mme Verdier m'a parlé d'une porte bleue qui grince. ||| 문이라. 베르디에 선생님이 삐걱거리는 파란 문 얘기를 하셨어.
+LÉA: Alors je n'ai rien à ajouter. Sauf une chose. C'est une rédaction, mais ce n'est pas une rédaction. C'est une définition. Elle dit ce qu'est une école, sans employer le mot. ||| 그럼 더할 말이 없네요. 한 가지만 빼고요. 이건 작문이지만 작문이 아니에요. 정의예요. 학교가 뭔지 그 단어를 쓰지 않고 말해요.
+JULIEN: Tu as appris ça en philosophie ? ||| 철학 시간에 배운 거니?
+LÉA: Non, en lisant. Les plus beaux concepts sont ceux que quelqu'un a inventés pour traduire un médicament. ||| 아니요, 읽으면서요. 가장 아름다운 개념은 누군가 약을 번역하려고 만들어 낸 거예요.
+JULIEN: Et la date de la lettre sur Jules Ferry, quelle erreur fait-elle ? ||| 쥘 페리 편지의 연도는 어디가 틀렸니?
+LÉA: Elle écrit mille huit cent quatre-vingt-quinze pour les lois. Moi, je m'en souviens : seize juin mille huit cent quatre-vingt-un, la gratuité de l'école primaire publique. Vingt-huit mars mille huit cent quatre-vingt-deux, l'obligation et la laïcité. ||| 법을 1895년이라고 썼어요. 저는 기억해요. 1881년 6월 16일, 공립 초등학교 무상. 1882년 3월 28일, 의무 교육과 세속성.
+JULIEN: Tu es très bonne. ||| 아주 정확하구나.
+LÉA: Papa, j'ai une question de philo, comme d'habitude. « Une école pour tous », ça veut dire quoi exactement ? ||| 아빠, 늘 하던 철학 질문이에요. "모두를 위한 학교"는 정확히 무슨 뜻이에요?
+JULIEN: Que tout le monde peut entrer. ||| 누구나 들어올 수 있다는 뜻이지.
+LÉA: Ou que tout le monde doit entrer. Ce n'est pas la même chose. « Pour tous », c'est ouvert à tous, ou obligatoire pour tous. Jules Ferry a fait les deux. Gratuit pour que les pauvres puissent entrer, obligatoire pour que les parents ne puissent pas empêcher. ||| 아니면 누구나 들어와야 한다는 뜻이거나요. 같지 않아요. "모두를 위한"은 모두에게 열려 있다는 뜻이거나 모두에게 의무라는 뜻이에요. 페리는 둘 다 했어요. 가난한 사람이 들어올 수 있게 무상으로, 부모가 막지 못하게 의무로.
+JULIEN: Tu viens d'écrire mon discours de demain. Dis-moi une chose encore : est-ce que tu défends Ferry ? ||| 내일 내 연설을 방금 네가 써 줬구나. 하나만 더 말해 봐. 너는 페리를 변호하니?
+LÉA: Pas entièrement. Il a aussi été l'homme de la conquête coloniale. Les deux choses sont vraies. On peut garder l'école et critiquer l'empire. ||| 전부는 아니에요. 식민지 정복을 이끈 사람이기도 했으니까요. 둘 다 사실이에요. 학교는 지키고 제국은 비판할 수 있어요.
+JULIEN: C'est exactement ce que Mme Verdier a dit à sa façon, avec « propager » et « partager ». ||| 베르디에 선생님이 "퍼뜨리다"와 "나누다"로 하신 말씀과 똑같구나.
+LÉA: Alors demain, ce sera une école pour tous au sens des deux, et des deux sens. ||| 그럼 내일은 두 의미에서 그리고 두 방향에서 모두를 위한 학교겠네요.
+JULIEN: Pourvu que le conseil m'écoute. ||| 이사회가 들어 주기만 하면 좋겠구나.
+LÉA: Les conseils écoutent quand quelqu'un se met à lire quelque chose qui n'est pas de lui. Prends Kélia. ||| 이사회는 자기가 쓰지 않은 글을 누가 읽기 시작할 때 귀를 기울여요. 켈리아를 쓰세요.
+JULIEN: Je ne suis pas certain de vouloir mettre une enfant de treize ans devant le conseil. ||| 열세 살 아이를 이사회 앞에 세우고 싶은지는 확신이 안 서네.
+LÉA: Ne la mets pas devant. Mets-la à côté. En vidéo, avec sa prof. Elle ne lira pas son texte pour être jugée. Elle le lira pour que vous soyez enfin en retard sur elle. ||| 앞에 세우지 말고 옆에 두세요. 영상으로, 선생님과 같이. 평가받으려고 읽는 게 아니라 어른들이 마침내 그 아이보다 늦어지도록 읽는 거예요.
+JULIEN: Tu parles comme ton grand-père. ||| 네 할아버지처럼 말하는구나.
+LÉA: Lequel ? ||| 어느 쪽 할아버지요?
+JULIEN: Les deux. Va dormir. ||| 둘 다. 가서 자.
++ une lettre de colère / de calcul = 분노의 편지 / 계산의 편지. 레아가 편지를 분류한 네 범주
++ Pour tous = 모두를 위한. 모두에게 열린 것과 모두에게 의무인 것, 두 뜻
++ la gratuité / l'obligation / la laïcité = 무상 / 의무 / 세속성. 쥘 페리 법(1881~1882)의 세 기둥
++ C'est une définition, pas une rédaction = 이것은 작문이 아니라 정의다. 레아가 켈리아의 글을 평가하는 방식
++ pourvu que + 접속법 = ~하기만 하면. 희망 섞인 조건
++ On peut garder l'école et critiquer l'empire = 학교는 지키고 제국은 비판할 수 있다. 페리의 양면을 함께 인정하는 문장
++ Mets-la à côté, pas devant = 앞이 아니라 옆에 두라. 어린 증인을 보호하는 중재자의 배려
+
+## 이사회 — LE CONSEIL D'ADMINISTRATION
+LASSERRE: Mesdames, messieurs, la séance est ouverte. Nous avons un point unique : le devenir de l'École du Phare, à Port-Lumière. Je rappelle les règles : parole égale, une minute pour les réponses, pas d'interpellation. ||| 여러분, 개회합니다. 안건은 하나입니다. 포르 뤼미에르 에콜 뒤 파르의 장래. 규칙을 상기하죠. 발언은 평등하게, 답변은 1분, 지명 비난은 금지입니다.
+JULIEN: Monsieur Lasserre, avant que nous votions, puis-je demander que la convention de 1927 soit lue en séance ? ||| 라세르 국장님, 표결 전에 1927년 약정서를 회의에서 낭독하도록 요청해도 되겠습니까?
+LASSERRE: Elle sera lue. J'ai passé la nuit sur la copie certifiée. Madame Verdier, avez-vous apporté l'original ? ||| 낭독하겠습니다. 인증 사본을 놓고 밤을 새웠습니다. 베르디에 선생님, 원본을 가져오셨나요?
+VERDIER: Dans ma boîte de biscuits, monsieur. Je n'ai pas osé la sortir du métro avant de savoir si elle avait la permission de respirer. ||| 비스킷 깡통에요. 숨 쉴 허락을 받기 전엔 지하철에서 꺼낼 엄두가 안 났어요.
+LASSERRE: Vous avez ma permission. Je vous prie de la déposer devant le président de séance, et d'en lire l'article deux. ||| 허락합니다. 의장 앞에 놓고 2조를 읽어 주십시오.
+VERDIER: « Article deux. Ce terrain est affecté, à perpétuité, à l'enseignement du français et en français. » ||| "제2조. 이 부지는 영속적으로 프랑스어 교육과 프랑스어로 하는 교육에 바쳐진다."
+LASSERRE: Veuillez lire aussi l'article trois, en entier. ||| 3조도 전부 읽어 주십시오.
+VERDIER: « Les maîtres y instruiront de vive voix les enfants du pays, sans distinction d'origine ni de culte. Un enfant sur dix y sera reçu sans frais. » ||| "교사들은 구두로 이 나라 아이들을 가르치되 출신과 종교를 불문한다. 열 명 중 한 명은 수업료 없이 받는다."
+LASSERRE: Et l'article cinq. ||| 5조도요.
+VERDIER: « Ce bail est renouvelé de plein droit tant que le terrain conserve l'affectation de l'article deux. » ||| "이 임대는 부지가 2조의 용도를 유지하는 한 당연히 갱신된다."
+LASSERRE: Je dois constater, pour le procès-verbal, que ces trois dispositions ne figurent pas dans la synthèse juridique qui a été soumise au conseil. ||| 회의록을 위해 확인해야겠군요. 이 세 규정은 이사회에 제출된 법률 요약에 없었습니다.
+SALVANI: Monsieur le directeur, je demande la parole. Kader Salvani, ministère marandais de l'Éducation. Excusez-moi de vous interrompre. ||| 국장님, 발언을 요청합니다. 마랑다 교육부 카데르 살바니입니다. 끼어들어 죄송합니다.
+LASSERRE: Vous avez la parole, monsieur le secrétaire général. ||| 말씀하세요, 사무차관님.
+SALVANI: Mon gouvernement n'a pas été consulté sur la fermeture d'un établissement qui accueille quatre cents de nos enfants. Nous n'avons pas été consultés non plus sur le projet de campus. Il y a eu des conversations avec une fondation. Nous n'avons pas vu de document. ||| 우리 정부는 마랑다 아이 400명을 맞는 학교의 폐쇄에 관해 협의받지 못했습니다. 캠퍼스 계획에 대해서도요. 어떤 재단과 대화가 있었지만 문서는 본 적이 없어요.
+DOUMBI: Je suis Zahra Doumbi, adjointe au maire de Port-Lumière, chargée de l'éducation. La ville est propriétaire du terrain du Quai du Phare, en qualité d'héritière de la Société de bienfaisance. Nous avons lu l'article six. ||| 자라 둠비, 포르 뤼미에르 시 교육 담당 부시장입니다. 시는 자선회의 승계인으로서 등대 부두 부지의 소유자입니다. 6조를 읽었어요.
+LASSERRE: Quelle est la position de la ville ? ||| 시의 입장은 무엇입니까?
+DOUMBI: La ville ne vendra pas ce terrain à une fondation d'enseignement qui ne ferait pas d'enseignement de vive voix. Nous l'avons écrit hier soir à la fondation Lumen. Nous avons reçu une réponse ce matin : elle retire son offre. ||| 시는 구두 교육을 하지 않을 교육 재단에 이 부지를 팔지 않을 것입니다. 어젯밤 루멘 재단에 서신을 썼습니다. 오늘 아침 회신이 왔어요. 제안을 철회한다고요.
+JULIEN: Un tour de table qui commence par une lecture et qui finit déjà par un retrait. C'est rapide, madame Doumbi. ||| 낭독으로 시작해서 벌써 철회로 끝나는 원탁이군요. 빠릅니다, 둠비 부시장님.
+CAMILLE: Hélène nous a écrit. Même heure, deux mots : « Jour huit. Lumen se retire. Aurelia a un autre client. » ||| 엘렌이 문자 보냈어. 같은 시각, 두 마디. "8일째. 루멘 철수. 오렐리아는 다른 고객이 있어요."
+JULIEN: Je ne le lis pas à haute voix. Un retrait n'est pas une défaite de l'adversaire ; c'est un déplacement. Il ira ailleurs. ||| 소리 내어 읽지는 않을게. 철수는 상대의 패배가 아니라 이동이야. 다른 곳으로 갈 거야.
+LASSERRE: Le terrain n'est donc plus à vendre. Je constate cela. Et je vais maintenant dire quelque chose de désagréable. ||| 그러면 부지는 더 이상 매물이 아닙니다. 확인합니다. 이제 불쾌한 말씀을 드리겠습니다.
+VERDIER: Nous vous écoutons avec courage. ||| 용기를 내어 듣겠습니다.
+LASSERRE: La destination est perpétuelle. La subvention ne l'est pas. L'Office a un budget annuel et ce budget finance un nombre limité d'établissements. Je ne peux pas laisser une école à perpétuité sur ma ligne budgétaire parce qu'un terrain l'exige. ||| 용도는 영속적입니다. 보조금은 아니에요. 사무국에는 연간 예산이 있고 한정된 학교만 지원합니다. 부지가 요구한다고 해서 학교 하나를 영원히 내 예산 항목에 둘 수는 없습니다.
+TAVAN: Alors vous voulez que l'école reste debout mais vide. ||| 그럼 학교는 서 있되 비어 있기를 원하시는 거군요.
+LASSERRE: Je veux qu'on dise qui paie, monsieur Tavan. Il ne suffit pas de dire que l'école est belle. ||| 누가 비용을 내는지 말하자는 겁니다, 타방 씨. 학교가 아름답다는 말로는 충분하지 않아요.
+AUBRY: Les élèves paient. Les familles paient. Le ministère marandais emploie déjà quatorze enseignants dans la section locale. ||| 학생들이 냅니다. 가정이 내죠. 마랑다 교육부는 이미 현지 학급 교사 14명을 고용하고 있어요.
+SALVANI: Quatorze enseignants, mais ils ne sont pas intégrés au projet pédagogique. Ils enseignent le marandais dans une classe, puis ils sortent. C'est une cohabitation, pas une école. ||| 14명이지만 교육 계획에 통합돼 있지 않아요. 한 교실에서 마랑다어를 가르치고 나가죠. 동거이지 학교가 아닙니다.
+MOREL: Je pense que nous touchons le vrai sujet. La question n'est pas : fermer ou non. La question est : qui est l'école ? ||| 이제 진짜 주제에 닿은 것 같아요. 문제는 닫느냐 마느냐가 아닙니다. 학교가 누구의 것이냐예요.
+LASSERRE: Reprenons après dix minutes. ||| 10분 쉬었다 재개하죠.
++ le procès-verbal = 회의록. 라세르가 요약본의 누락을 공식 기록으로 남기는 장면
++ en qualité de + 명사 = ~의 자격으로. 둠비가 시의 소유권을 설명하는 법률 어법
++ se retirer / retirer son offre = 철수하다 / 제안을 철회하다. 루멘 재단의 후퇴
++ un déplacement = 이동. 철수를 승리가 아닌 이동으로 해석하는 쥘리앵의 표현
++ la destination est perpétuelle, la subvention ne l'est pas = 용도는 영속적이나 보조금은 아니다. 이사회의 쟁점
++ une cohabitation, pas une école = 동거이지 학교가 아니다. 두 교육 과정이 통합되지 않은 현실
++ Qui est l'école ? = 학교는 누구의 것인가. 모렐이 문제를 재정의하는 질문
+## 두 언어, 한 탁자 — DEUX LANGUES, UNE TABLE
+VERDIER: Monsieur Delorme, je dois vous dire que j'ai la gorge nouée. Là-bas, ils attendent. Dix-sept heures, les enfants sont dans la salle de classe, derrière la caméra. ||| 들로름 씨, 목이 메어요. 저쪽에서 기다리고 있어요. 오후 5시인데 아이들이 카메라 뒤 교실에 있어요.
+JULIEN: Je sais. Mme Aubry, vous êtes bien avec eux ? ||| 알고 있습니다. 오브리 선생님, 아이들과 같이 계시죠?
+AUBRY: Vingt-trois élèves, ceux de la lettre. Ils ne veulent pas partir. Ils m'ont dit qu'ils dormiraient dans la classe. ||| 편지를 쓴 스물세 명이에요. 가지 않겠대요. 교실에서 자겠다고 하더군요.
+JULIEN: Alors travaillons vite pour qu'ils dorment chez eux. Monsieur Lasserre, puis-je proposer un schéma, avant de revenir à la voix des élèves ? ||| 그럼 아이들이 집에서 자게 서두릅시다. 라세르 국장님, 아이들 목소리로 돌아가기 전에 틀을 하나 제안해도 될까요?
+LASSERRE: Faites. Une minute. ||| 하세요. 1분입니다.
+JULIEN: Il y a trois affirmations vraies dans cette salle. Un : la destination du terrain est perpétuelle, c'est dans la convention. Deux : l'Office ne finance pas à perpétuité, c'est dans le budget. Trois : quatre élèves sur cinq sont marandais, et leur ministère emploie déjà quatorze enseignants. Je propose une quatrième proposition qui n'en nie aucune. ||| 이 방에는 사실인 주장이 세 가지 있습니다. 하나, 부지의 용도는 영속적이다. 약정에 있어요. 둘, 사무국은 영속적으로 재정을 대지 않는다. 예산에 있어요. 셋, 학생 다섯 중 넷이 마랑다 아이이고 그 나라 교육부가 이미 교사 열네 명을 고용한다. 이 셋 중 어느 것도 부정하지 않는 네 번째 제안을 하겠습니다.
+LASSERRE: Allez-y. ||| 말씀하세요.
+JULIEN: Une école bilingue marandais-français, par convention entre l'association réveillée, la ville, le ministère et l'Office. Le terrain reste affecté à l'enseignement. Le ministère marandais intègre ses enseignants au projet. L'Office garde la section française, avec une subvention réduite et limitée dans le temps. ||| 마랑다어-프랑스어 이중언어 학교입니다. 깨어난 협회, 시, 교육부, 사무국의 협약으로요. 부지는 교육에 계속 바쳐지고, 마랑다 교육부는 교사들을 교육 계획에 통합하며, 사무국은 축소되고 기간이 제한된 보조금으로 프랑스어 과정을 유지합니다.
+SALVANI: Cela ressemble à ce que nous demandons depuis dix ans sans jamais le dire. ||| 우리가 십 년 동안 말도 못 꺼내고 바라 온 것과 비슷합니다.
+LASSERRE: Et cela ressemble à une dilution de l'identité française. ||| 그리고 프랑스적 정체성의 희석처럼 보이기도 해요.
+VERDIER: Monsieur Lasserre, je ne vous interromps pas, mais l'identité de cette école a toujours été d'être un lieu où le français se parle avec les voisins. ||| 라세르 국장님, 말씀을 끊지는 않겠지만 이 학교의 정체성은 언제나 프랑스어를 이웃과 함께 쓰는 곳이었습니다.
+LASSERRE: Nous n'avons pas le même souvenir de l'identité. ||| 정체성에 대한 기억이 같지 않군요.
+JULIEN: Je vous propose une règle de lecture, pour les gens qui se disputent. Dans un texte bilingue, les deux textes font également foi. En cas de divergence, on ne choisit pas la version qui nous plaît ; on revient à l'article deux de 1927. ||| 다투는 분들을 위해 독해 규칙을 제안합니다. 이중언어 문서에서는 두 텍스트가 똑같이 효력을 갖습니다. 어긋나면 마음에 드는 쪽을 고르는 게 아니라 1927년 2조로 돌아갑니다.
+CAMILLE: C'est une règle que Colbert aurait aimée : un texte, deux langues, un juge. ||| 콜베르가 좋아했을 규칙이에요. 텍스트 하나, 언어 둘, 재판관 하나.
+SALVANI: Je veux la parité réelle. Pas seulement dans le titre. Les mathématiques en marandais l'an prochain, par exemple. ||| 저는 실질적인 동등을 원합니다. 제목만이 아니고요. 예를 들어 내년엔 수학을 마랑다어로.
+LASSERRE: Impossible. Les programmes français imposent un cadre pour les sciences. Et je ne peux pas faire valider par l'inspection une école dont les maths sont en marandais. ||| 불가능합니다. 프랑스 교육과정은 과학에 틀을 부과해요. 수학이 마랑다어인 학교를 감독관에게 인정받게 할 수 없습니다.
+TAVAN: Pourquoi pas les maths en deux langues ? Un jour en marandais, un jour en français. Un nombre n'a pas de nationalité. ||| 수학을 두 언어로 하면 안 될까요? 하루는 마랑다어, 하루는 프랑스어로. 숫자는 국적이 없어요.
+LASSERRE: Les nombres, non. Mais les consignes oui. ||| 숫자는 그렇죠. 하지만 지시문은 있어요.
+VERDIER: Dans mon école, je faisais lire les consignes à voix haute, d'abord dans la langue que les enfants comprenaient le mieux. Ils comprenaient plus vite, et ils se trompaient moins. ||| 제 학교에선 지시문을 소리 내어 읽게 했어요. 아이들이 가장 잘 아는 언어로 먼저요. 더 빨리 이해했고 덜 틀렸죠.
+SALVANI: Voilà un argument pédagogique. Je le prends. ||| 교육학적 논거군요. 받아들이겠습니다.
+LASSERRE: Je ne dis pas non. Je dis que je dois vérifier avec l'inspection. ||| 안 된다는 게 아닙니다. 감독관과 확인해야 한다는 거예요.
+DOUMBI: Et les frais. La ville accepte de prêter le terrain gratuitement, mais pas de payer les salaires. Les familles les plus modestes ne peuvent pas payer, même si le principe d'un enfant sur dix sans frais est dans la convention. ||| 그리고 수업료. 시는 부지를 무상으로 빌려주는 데는 동의하지만 급여를 대지는 못합니다. 약정에 열 명 중 한 명 무상 원칙이 있어도 가장 어려운 가정들은 낼 수 없어요.
+JULIEN: Un sur dix, en 1927. Aujourd'hui, un sur cinq me paraît plus conforme à l'esprit. ||| 1927년에는 열에 하나였죠. 오늘은 다섯에 하나가 정신에 더 맞아 보입니다.
+LASSERRE: À condition que quelqu'un paie ce cinquième. ||| 누군가 그 다섯 번째를 낸다는 조건에서요.
+JULIEN: Monsieur Lasserre, Jules Ferry a fait voter la gratuité en 1881, et l'obligation avec la laïcité en 1882. Il n'a jamais demandé à chaque commune de trouver seule l'argent. Il a demandé à la République de payer. Ferry avait un autre visage, celui de la colonisation, et il faut le dire. Mais l'idée que l'école est un bien commun, nous l'exportons mieux quand elle est partagée. ||| 라세르 국장님, 쥘 페리는 1881년에 무상을, 1882년에 의무와 세속성을 입법했습니다. 돈을 각 코뮌이 혼자 찾으라고 한 적이 없어요. 공화국이 대라고 했죠. 페리에게는 식민지 정복이라는 또 다른 얼굴이 있었고 그건 말해야 합니다. 하지만 학교가 공동의 재화라는 생각은 나눌 때 더 잘 수출됩니다.
+LASSERRE: C'est un beau discours. Je ne vote pas sur des discours. ||| 멋진 연설입니다. 하지만 저는 연설에 표를 던지지 않습니다.
+SALVANI: Et moi, je ne signe pas une convention où la France paie le rêve et le Maranda paie les salaires. ||| 저도 프랑스는 꿈을 대고 마랑다는 급여를 대는 협약에는 서명하지 않습니다.
+VERDIER: Messieurs, vous parlez comme deux comptables qui se disputent la clef d'une porte qu'ils ne veulent pas ouvrir. ||| 두 분은 열고 싶지도 않은 문의 열쇠를 두고 다투는 회계사처럼 말씀하시는군요.
+LASSERRE: Madame, je vous rappelle la règle : pas d'interpellation. ||| 선생님, 규칙을 상기시킵니다. 지명 비난은 금지입니다.
+VERDIER: Je n'interpelle pas. Je décris. ||| 비난하는 게 아니라 묘사하는 거예요.
+MOREL: Je propose une suspension de cinq minutes. Je crains que nous ne tournions en rond autour de la clef. ||| 5분 정회를 제안합니다. 열쇠 주위만 맴도는 게 아닌가 걱정이에요.
+JULIEN: Non, pas de suspension. Les enfants attendent. Mme Aubry, pourrait-on entendre un élève ? ||| 아니요, 정회는 안 됩니다. 아이들이 기다려요. 오브리 선생님, 학생 한 명의 목소리를 들을 수 있을까요?
+AUBRY: Kélia Tavan veut lire. Elle est prête. Elle a un trac fou, mais elle m'a dit : « Si je ne le lis pas, je le lirai demain à la porte du conseil. » ||| 켈리아 타방이 읽고 싶어 해요. 준비됐고요. 엄청 떨지만 이렇게 말했어요. "지금 못 읽으면 내일 이사회 문 앞에서 읽을 거예요."
+LASSERRE: Je n'ai pas de règle pour cela. Une minute, ai-je dit. Je suspendrai le chronomètre. ||| 그에 관한 규칙은 없군요. 1분이라고 했습니다. 시간 재기를 멈추겠습니다.
++ faire foi = 효력이 있다, 증거가 되다. 두 언어본이 모두 «faire foi»한다는 법률 표현
++ À condition que + 접속법 = ~라는 조건에서. 라세르가 돈 문제를 못 박는 화법
++ la parité réelle = 실질적 동등. 제목만이 아닌 실제 수업 시간·언어 비율
++ une consigne = 지시문, 수업·시험의 지시. 베르디에가 모국어로 먼저 읽게 했다는 교육 경험
++ un bien commun = 공동의 재화. 페리 법의 정신, 학교를 개인의 소유가 아닌 것으로 보는 관점
++ tourner en rond autour de la clef = 열쇠 주위를 맴돌다. 핵심을 못 건드리는 교착을 비유
++ suspendre le chronomètre = 시계를 멈추다. 발언 규칙에도 예외가 있음을 보여 주는 라세르의 한마디
+
+## 켈리아의 편지 — LA LETTRE DE KÉLIA
+KÉLIA: Bonjour. Je m'appelle Kélia Tavan. Je suis en quatrième B. J'ai treize ans. Mme Aubry nous a demandé d'écrire à celui qui veut fermer notre école. Je lis ma lettre. ||| 안녕하세요. 켈리아 타방이에요. 4학년 B반이고 열세 살입니다. 오브리 선생님이 학교를 닫으려는 분께 편지를 쓰라고 하셨어요. 제 편지를 읽겠습니다.
+KÉLIA: « Monsieur, je ne sais pas qui vous êtes, mais je sais que vous n'avez jamais traduit la notice d'un médicament pour votre grand-mère. » ||| "선생님, 저는 선생님이 누구인지 모르지만 선생님이 할머니께 약 설명서를 번역해 드린 적이 없다는 건 알아요."
+KÉLIA: « Ma grand-mère lit seulement le marandais. Mon père est pharmacien et toutes les boîtes arrivent avec une notice en français. Chaque soir, je lis la notice, et je dis à ma grand-mère ce qu'elle doit prendre, en marandais. C'est mon premier métier. » ||| "할머니는 마랑다어만 읽으세요. 아버지는 약사이고 약 상자는 모두 프랑스어 설명서와 함께 와요. 저는 매일 저녁 설명서를 읽고 할머니께 무엇을 드셔야 하는지 마랑다어로 말해 드려요. 그게 제 첫 직업이에요."
+KÉLIA: « Je l'ai appris à l'école du Phare. On m'y a appris à lire deux fois la même phrase, une fois dans chaque langue, pour voir si elle veut dire la même chose. » ||| "그 직업을 에콜 뒤 파르에서 배웠어요. 같은 문장을 두 번 읽는 법을 배웠죠. 한 번은 각 언어로, 같은 뜻인지 보려고요."
+JULIEN: Chut. Laissez-la finir. ||| 쉿. 끝까지 읽게 해 주세요.
+KÉLIA: « On dit que le français est la langue de l'école, et le marandais celle de la maison. Moi, je dis que l'école est la maison où mes deux langues se parlent sans se disputer. » ||| "사람들은 프랑스어는 학교의 언어, 마랑다어는 집의 언어라고 해요. 저는 학교가 제 두 언어가 싸우지 않고 말을 나누는 집이라고 말해요."
+KÉLIA: « Vous voulez que j'apprenne devant un écran. Mais un écran ne grince pas. Notre porte est bleue et elle grince depuis cent ans. Quand on arrive en retard, tout le monde entend et personne ne se moque. » ||| "선생님은 제가 화면 앞에서 배우길 원하시죠. 하지만 화면은 삐걱거리지 않아요. 우리 문은 파란색이고 백 년 동안 삐걱거렸어요. 늦게 오면 모두가 듣지만 아무도 놀리지 않아요."
+KÉLIA: « Si l'école ferme, il restera une langue pour lire les notices, une autre pour les poèmes, et personne pour traduire de l'une à l'autre. » ||| "학교가 닫히면 설명서를 읽는 언어와 시를 읽는 언어가 남을 거예요. 하지만 한쪽에서 다른 쪽으로 옮겨 줄 사람은 없을 거예요."
+KÉLIA: « Ne fermez pas la porte. Ouvrez-la dans les deux sens. Kélia Tavan, quatrième B, treize ans. » ||| "문을 닫지 마세요. 두 방향으로 열어 주세요. 켈리아 타방, 4학년 B반, 열세 살."
+VERDIER: Elle l'a dit. Elle a dit la porte. ||| 말했네요. 문이라고 했어요.
+TAVAN: Kélia, ma chérie, tu ne m'avais pas montré. ||| 켈리아, 우리 딸, 아빠한테 보여 주지 않았잖니.
+KÉLIA: Papa, je ne voulais pas que tu corriges. ||| 아빠, 고쳐 주실까 봐 보여 드리고 싶지 않았어요.
+TAVAN: Je n'aurais rien corrigé. Rien. ||| 아무것도 안 고쳤을 거야. 하나도.
+SALVANI: Mademoiselle, je suis le secrétaire général du ministère de l'Éducation de votre pays. J'ai lu beaucoup de rapports, et c'est la première fois qu'une phrase me demande de changer d'avis. ||| 학생, 나는 당신 나라의 교육부 사무차관입니다. 보고서를 많이 읽었지만 문장 하나가 내게 생각을 바꾸라고 요구한 건 처음이에요.
+LASSERRE: Je note une chose, pour le procès-verbal : « Je ne sais pas qui vous êtes. » Elle n'a pas écrit « Monsieur Lasserre ». Elle a écrit à tout le monde. ||| 회의록을 위해 한 가지 적습니다. "저는 선생님이 누구인지 모르지만." 그 아이는 "라세르 씨"라고 쓰지 않았어요. 모두에게 썼습니다.
+LASSERRE: Et j'ai relevé une faute d'accord. « Il restera une langue pour lire », c'est parfait. « Quatrième B », c'est parfait. Je cherche la faute et je ne la trouve pas. ||| 그리고 일치 오류를 찾았는데요. "남을 것이다"는 완벽하고 "4학년 B반"도 완벽해요. 오류를 찾는데 없습니다.
+CAMILLE: Léa m'a écrit. « Phrase quatre : "l'école est la maison où mes deux langues se parlent sans se disputer". C'est la définition. » ||| 레아가 보냈어. "네 번째 문장, '학교는 제 두 언어가 싸우지 않고 말을 나누는 집'. 그게 정의예요."
+JULIEN: Elle a raison. Monsieur Lasserre, vous ne pouvez pas financer la perpétuité. ||| 레아가 맞아요. 라세르 국장님, 영속을 재정 지원하실 수는 없지요.
+LASSERRE: Non. ||| 못 합니다.
+JULIEN: Pouvez-vous financer une porte à deux battants ? ||| 그런데 문 두 짝은 재정 지원하실 수 있습니까?
+LASSERRE: Une porte à deux battants… Oui. Pour trois ans. Un tiers du budget actuel, pour la section française. Au terme de trois ans, évaluation conjointe. Je ne m'engage pas au-delà. ||| 문 두 짝이라… 네. 3년간. 프랑스어 과정에 현재 예산의 3분의 1. 3년 뒤 공동 평가. 그 이상은 약속하지 않겠습니다.
+SALVANI: Le ministère prend en charge quatorze enseignants, et quatre de plus l'an prochain, pour les mathématiques et les sciences en classe bilingue. Mais le français reste langue de l'histoire-lettres, du collège. ||| 교육부는 교사 14명을 맡고 내년에 이중언어 수학·과학 수업을 위해 4명을 더합니다. 단 중학교 역사·문학은 프랑스어를 유지합니다.
+DOUMBI: La ville prête le terrain. Gratuit. Dans les deux sens aussi. ||| 시는 부지를 빌려드립니다. 무상으로. 그것도 두 방향으로요.
+VERDIER: Je n'ai plus de voix. Je voudrais seulement m'asseoir. ||| 목소리가 안 나와요. 앉고 싶을 뿐이에요.
+JULIEN: Alors asseyez-vous, madame. Le texte, nous allons l'écrire. Ce sera l'article un. ||| 그럼 앉으세요, 선생님. 문안은 우리가 쓰겠습니다. 이것이 1조가 될 겁니다.
++ la notice d'un médicament = 약 설명서. 켈리아의 첫 직업, 번역의 책임감을 보여 주는 구체적 장면
++ lire deux fois la même phrase = 같은 문장을 두 번 읽다. 이중언어 교육의 방법이자 이 화의 해법 문장
++ La maison où mes deux langues se parlent sans se disputer = 두 언어가 다투지 않고 말을 나누는 집. 레아가 뽑아낸 «학교의 정의»
++ Ouvrez-la dans les deux sens = 두 방향으로 열어 주세요. 이 화의 해법의 순간이자 합의 1조의 원문
++ une porte à deux battants = 두 짝 문. 쥘리앵이 재정 문제를 이미지로 푸는 표현
++ au terme de + 기간 = ~이 끝날 때. 3년 후 평가의 시점을 정하는 문서 표현
++ Elle a écrit à tout le monde = 아이는 모두에게 썼다. 개인이 아닌 공공을 향한 글의 힘
+
+## 서명실에서 — LA SALLE DE SIGNATURE
+CAMILLE: Quatorze heures. Le protocole d'accord, sept articles, une page recto verso. Les deux textes, français à gauche, marandais à droite. ||| 14시야. 합의 의정서, 7개 조항, 앞뒷면 한 장. 프랑스어는 왼쪽, 마랑다어는 오른쪽 두 텍스트야.
+JULIEN: Je lis l'article un à voix haute, pour qu'il soit dit une fois. « L'École du Phare est une école bilingue marandais-français, ouverte dans les deux sens. » ||| 한 번은 소리 내어 말하도록 1조를 읽겠습니다. "에콜 뒤 파르는 마랑다어-프랑스어 이중언어 학교이며 두 방향으로 열려 있다."
+LASSERRE: Article deux. « Le terrain reste affecté à perpétuité à l'enseignement, de vive voix. Aucun enseignement à distance ne peut s'y substituer. Une plateforme peut y servir d'outil complémentaire. » ||| 2조. "부지는 영속적으로 교육에 바쳐지며 구두로 이루어진다. 원격 수업이 이를 대체할 수 없다. 플랫폼은 보완 도구로만 쓸 수 있다."
+DOUMBI: Article trois. « Le bail est renouvelé de plein droit le quatorze novembre au profit de l'association réveillée. » ||| 3조. "임대는 11월 14일 깨어난 협회를 위해 당연히 갱신된다."
+SALVANI: Article quatre. « Les deux textes de la présente convention font foi. En cas de divergence, l'article deux de la convention de 1927 prévaut. » ||| 4조. "이 협약의 두 텍스트는 똑같이 효력을 갖는다. 어긋날 경우 1927년 약정 2조가 우선한다."
+VERDIER: Article cinq. « Un élève sur cinq est reçu sans frais. La gratuité de l'école primaire est un objectif, atteint par paliers en cinq ans. » ||| 5조. "학생 다섯 중 한 명은 수업료 없이 받는다. 초등 무상은 5년에 걸쳐 단계적으로 달성할 목표다."
+TAVAN: Article six. « L'association est présidée par M. Samir Tavan. Mme Marguerite Verdier en est présidente d'honneur. » ||| 6조. "협회 회장은 사미르 타방, 마르그리트 베르디에는 명예 회장."
+VERDIER: Samir, tu seras un très mauvais président. Tu es trop honnête. ||| 사미르, 넌 아주 나쁜 회장이 될 거야. 너무 정직해서.
+TAVAN: Vous m'aiderez, madame. ||| 도와주세요, 선생님.
+LASSERRE: Article sept. « L'Office saisit son inspection d'une mission d'examen des études qui ont fondé le projet de fermeture. » Ceci est ma contribution. ||| 7조. "사무국은 폐쇄 계획의 근거가 된 연구들을 점검하는 임무를 감독관실에 맡긴다." 이건 제 몫입니다.
+JULIEN: Merci, monsieur Lasserre. Vous avez vu qu'un tableau de chiffres ne dit pas tout. ||| 감사합니다, 라세르 국장님. 숫자표가 모든 걸 말해 주지 않는다는 걸 보셨군요.
+LASSERRE: J'ai surtout vu qu'une synthèse de deux pages peut effacer cent ans. Pardonnez-moi, madame Verdier. Il y a dix-huit ans, sur un quai de gare, je vous ai tendu un mouchoir et vous ai dit « Vous avez bien travaillé ». C'était une phrase de fonctionnaire. ||| 두 쪽짜리 요약이 백 년을 지울 수 있다는 걸 봤어요. 베르디에 선생님, 용서하세요. 18년 전에 역 승강장에서 손수건을 건네고 "수고하셨습니다"라고 했죠. 공무원의 말이었어요.
+VERDIER: Je m'en souviens, monsieur. Vous aviez les mains qui tremblaient, vous aussi. Je l'ai gardé, ce mouchoir. Il est dans la boîte de biscuits. ||| 기억해요. 당신도 손을 떨고 있었죠. 그 손수건, 간직했어요. 비스킷 깡통 안에 있어요.
+JULIEN: Alors signons. À la plume, si possible. ||| 서명합시다. 가능하면 만년필로요.
+HÉLÈNE: Message pour M. Delorme. « Je tiens parole : vous me l'avez dit avant la presse. Merci. Valois ne perd pas son temps : ils ont ouvert une autre ligne, sur les appellations d'origine. Je ne sais pas encore quoi. Jour huit, fin. » ||| 들로름 씨에게 문자. "약속을 지키셨네요. 언론보다 먼저 말씀해 주셨어요. 감사합니다. 발루아는 시간을 낭비하지 않아요. 원산지 표기 쪽에 다른 라인을 열었습니다. 아직 뭔지는 몰라요. 8일째, 끝."
+JULIEN: Les appellations d'origine. Je me demande ce que cela veut dire. ||| 원산지 표기라. 무슨 뜻일까.
+CAMILLE: Le cabinet vient de m'envoyer un autre mail. Trois mots : « Fromage. Lundi. Bruxelles. » ||| 비서실에서 메일이 또 왔어. 세 마디야. "치즈. 월요일. 브뤼셀."
+JULIEN: Du fromage. Moi, le fils d'un bouchon lyonnais. ||| 치즈라. 리옹 부숑 집 아들인 나한테.
+VALCOURT: Julien ! J'ai appris que tu as fait signer un protocole en moins de quatre heures. Je mange une figue sèche à ta santé. Mon cher, Jules Ferry a écrit un jour : « Les institutions de la République sont fondées pour les enfants. » Je ne me souviens plus s'il l'a écrit ou si je l'ai rêvé. ||| 쥘리앵! 네 시간도 안 걸려 의정서에 서명시켰다고 들었네. 자네 건강을 위해 말린 무화과를 먹고 있다네. 여보게, 쥘 페리가 언젠가 "공화국의 제도는 아이들을 위해 세워졌다"고 썼다지. 그가 썼는지 내가 꿈꿨는지 이제 기억나지 않지만.
+JULIEN: Je ne vérifierai pas, monsieur. Je préfère que la phrase reste utile. ||| 확인하지 않겠습니다, 선생님. 그 문장이 쓸모 있게 남는 편이 좋아요.
+VALCOURT: Bien. Mange du fromage ce week-end. Lundi, tu auras besoin de tes dents. ||| 좋아. 주말에 치즈를 먹게. 월요일엔 이가 필요할 테니.
+LÉA: Papa, tu rentres à la maison pour dîner ? J'ai fait une question de philo : « Qu'est-ce qu'un nom ? » ||| 아빠, 저녁 먹으러 집에 와요? 철학 질문 하나 만들었어요. "이름이란 무엇인가?"
+JULIEN: Tu m'as devancé de trois jours. Apporte du pain. ||| 사흘이나 앞서 나갔구나. 빵을 가져와.
++ un protocole d'accord = 합의 의정서. 정식 협약 이전에 원칙을 서명하는 문서
++ ouverte dans les deux sens = 두 방향으로 열려 있다. 켈리아의 마지막 문장이 협약 1조로
++ prévaloir = 우선하다. 두 텍스트가 어긋날 때 1927년 2조가 기준이 되는 조항
++ par paliers = 단계적으로. 목표를 현실에 맞게 쪼개는 행정 표현
++ saisir quelqu'un d'une mission = ~에게 임무를 맡기다. 라세르의 7조 기여
++ en moins de quatre heures = 네 시간도 안 되어. 협상의 속도를 강조하는 발쿠르의 칭찬
++ à ta santé = 자네 건강을 위해. 발쿠르가 건배를 대신하는 인사

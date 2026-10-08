@@ -1,0 +1,95 @@
+@series LA NUANCE · 외교관 시리즈
+@lang 프랑스어 낭독 교재
+@part 3
+@ep 4
+@title L'école de Port-Lumière
+@ko 포르 뤼미에르의 학교
+@setting 케도르세 중재조정실 작은 회의실(수요일 아침) → 같은 건물 접견실(수요일 오전) → 해외 프랑스어 학교 지원 기관 «사무국» 회의실, 포르 뤼미에르 대사관과 화상 연결(수요일 오전 늦게, 현지는 오후 5시) → 중재조정실 복도(수요일 저녁)
+@level B2-C1
+@cast JULIEN | 쥘리앵 들로름, 외무부 중재조정실 부실장, 47세
+@cast CAMILLE | 카미유 루셀, 분석관, 31세. 쥘리앵에게 tu
+@cast HÉLÈNE | 엘렌 뒤프렌, 대외안보총국(DGSE) 연락관, 44세. 쥘리앵에게 vous
+@cast TAVAN | 사미르 타방, 포르 뤼미에르 «에콜 뒤 파르» 학부모 대표, 약사, 43세. 허구의 인물
+@cast AUBRY | 마틸드 오브리, «에콜 뒤 파르» 역사·문학 교사, 38세. 허구의 인물
+@cast LASSERRE | 위베르 라세르, «해외 프랑스 학교 사무국» 자산전략 국장, 52세. 허구의 인물
+@cast MOREL | 클레르 모렐, 포르 뤼미에르 주재 프랑스 대사관 협력·문화 참사관, 46세. 화상으로 등장. 허구의 인물
+@cast VALCOURT | 앙리 드 발쿠르, 은퇴 대사, 74세. 리스본에서 전화로 등장
+@note 3부 4화(사건 B 첫 화)입니다. 베르사유 정상회의가 끝난 다음 날 수요일, 해외 프랑스어 학교 «에콜 뒤 파르»(허구의 나라 마랑다 공화국의 항구 도시 포르 뤼미에르에 있는 학교, 1927년 설립)가 학년 말 폐쇄를 통보받습니다. 폐쇄 의결은 금요일 10시 사무국 이사회입니다. 사무국은 «지속 가능성 연구»를 근거로 들고, 이 연구를 쓴 곳이 발루아 어드바이저리라는 사실을 엘렌이 알려 줍니다(사무국이 «발루아 소유 사슬»을 모르는 채 계약했다는 점이 핵심). 학부모와 교사는 2,317명이 서명한 41쪽 청원서를 들고 파리에 옵니다. 이 화의 해법의 순간은 청원서 맨 마지막 줄에 뒤늦게 붙은 서명입니다: «협회 해산 아님(non dissoute)»이라고 덧붙인 마르그리트 베르디에의 서명으로, 사무국이 «2009년에 해산되어 상대방이 없다»고 주장한 설립 협회가 아직 살아 있음을 알려 줍니다. 역사 배경은 1539년 빌레르코트레 칙령(프랑수아 1세, 110~111조): 판결과 공문서를 라틴어가 아니라 «모국어 프랑스어»로 쓰게 한 조치로, 흔히 프랑스어를 공용어로 만든 출발점으로 이야기되지만, 원래 목적은 사람들이 자기에게 내려지는 문서를 이해하게 하는 것이었다는 해석을 대사로 소개합니다(같은 칙령은 세례 기록 작성도 의무화했습니다). 어휘는 une pétition, une fermeture, un audit, la contrepartie, 접속법(à moins que, pour que, bien que)에 주목하세요.
+@next 3-5 «La directrice»: 청원서의 마지막 서명자, 은퇴한 교장을 찾아간다. 그녀가 보관한 설립 약정서에는 한 단어가 들어 있다.
+
+## 수요일 아침의 서류 — LE DOSSIER DU MERCREDI
+HÉLÈNE: Bonjour, monsieur Delorme. Jour six. Je commence par une phrase désagréable : vous avez gagné Versailles, et ils sont déjà ailleurs. ||| 안녕하세요, 들로름 씨. 엿새째입니다. 불쾌한 말로 시작하죠. 베르사유는 이기셨는데 그들은 벌써 다른 곳에 가 있어요.
+JULIEN: Bonjour, Hélène. Lundi, vous m'avez écrit « fondation d'enseignement à Port-Lumière ». Hier soir, j'avais encore la signature de la table sept sur les doigts. Je vous écoute. ||| 안녕하세요, 엘렌. 월요일에 "포르 뤼미에르의 교육 재단"이라고 문자 주셨죠. 어젯밤엔 7번 탁자 서명의 잉크가 아직 손에 묻어 있었어요. 듣겠습니다.
+CAMILLE: Je suis là aussi. J'ai lu ce qu'on a trouvé sur l'école. Je ne comprends pas pourquoi cela nous regarde. ||| 나도 있어. 학교에 대해 찾은 걸 읽었는데, 왜 이게 우리 일인지 모르겠어.
+HÉLÈNE: Cela vous regarde parce que le cabinet vous l'a envoyé ce matin à sept heures, avec trois mots : « conflit d'établissement ». ||| 오늘 아침 7시에 비서실이 보냈으니까요. 세 마디를 달아서요. "학교 분쟁."
+JULIEN: Je l'ai lu dans le taxi. L'École du Phare, à Port-Lumière, capitale d'un petit pays que l'on appelle Maranda, six cent quarante élèves, fermeture annoncée à la fin de l'année scolaire. ||| 택시에서 읽었어요. 마랑다라는 작은 나라의 항구 도시 포르 뤼미에르에 있는 에콜 뒤 파르, 학생 640명, 학년 말 폐쇄 예고.
+CAMILLE: Et un vote vendredi à dix heures, au conseil d'administration de l'Office. ||| 그리고 금요일 10시에 사무국 이사회 표결이 있어.
+JULIEN: L'Office des établissements français de l'étranger. Il finance, il habilite, il envoie des professeurs. Il ferme rarement. ||| 해외 프랑스 학교 사무국이죠. 재정을 대고, 인가하고, 교사를 보냅니다. 폐쇄는 좀처럼 하지 않고요.
+HÉLÈNE: Cette fois, il a un argument : une étude de soutenabilité. Cent quatre-vingt-dix mille euros, commandée au printemps, rendue en juillet. ||| 이번엔 근거가 있어요. 지속 가능성 연구. 19만 유로, 봄에 의뢰해서 7월에 나왔어요.
+JULIEN: Rendue par qui ? ||| 누가 냈습니까?
+HÉLÈNE: Valois Advisory LLP. Londres, onze employés, aucun client déclaré. Vous connaissez la chaîne. ||| 발루아 어드바이저리. 런던, 직원 열한 명, 신고된 고객 없음. 사슬은 아시죠.
+CAMILLE: Valois Holdings, soixante-dix pour cent. Colin Reeve, trente. Au-dessus, la fondation du Liechtenstein, et Étienne Vasseur, d'Aurelia. ||| 발루아 홀딩스 70퍼센트, 콜랭 리브 30퍼센트. 그 위에 리히텐슈타인 재단, 그리고 오렐리아의 에티엔 바세르.
+HÉLÈNE: Je vois que vous avez bien appris la leçon. Seconde partie : l'étude conclut qu'il vaut mieux fermer l'école, vendre le terrain et « proposer aux familles une solution d'enseignement hybride ». ||| 수업을 잘 외우셨군요. 둘째 부분입니다. 연구는 학교를 닫고 부지를 팔고 가족들에게 "하이브리드 교육 해법"을 제안하는 편이 낫다고 결론 내립니다.
+JULIEN: Hybride. Un mot qui veut dire : une partie sur écran. ||| 하이브리드. 일부는 화면으로 한다는 말이죠.
+HÉLÈNE: Une plateforme d'enseignement à distance qui s'appelle « Classe Blanche ». Éditeur : Aurelia Éducation. ||| "클래스 블랑슈"라는 원격 수업 플랫폼입니다. 발행사는 오렐리아 에듀케이션이고요.
+CAMILLE: Salle Blanche, Classe Blanche. Ils ne changent pas de couleur. ||| 살 블랑슈, 클라스 블랑슈. 색깔은 안 바꾸네.
+HÉLÈNE: Et le terrain, une fondation d'enseignement, la fondation Lumen, propose de le racheter. Elle y installerait un « campus ». La fondation Lumen reçoit des fonds de Fleur de Lys. ||| 부지는 루멘 교육 재단이 인수하겠다고 합니다. 거기에 "캠퍼스"를 세운다는 거죠. 루멘 재단의 자금은 플뢰르 드 리스에서 나옵니다.
+JULIEN: La même fondation du Liechtenstein. D'accord, mais ce n'est pas un crime de proposer un campus. ||| 같은 리히텐슈타인 재단이군요. 다코르, 메, 캠퍼스를 제안하는 건 범죄가 아닙니다.
+HÉLÈNE: Non. C'est un crime de rédiger l'étude qui prépare la vente et de se trouver à la fois du côté de l'acheteur. Mais je ne vous demande pas de punir ; je vous demande de ne pas vous faire doubler. ||| 아니죠. 매각을 준비하는 연구를 쓰면서 동시에 구매자 편에 서 있는 게 문제예요. 하지만 처벌해 달라는 게 아닙니다. 따돌림당하지 말라는 거예요.
+JULIEN: Ce que cela me coûte, c'est une semaine sans sommeil. Que me demandez-vous en échange ? ||| 제가 치르는 건 잠 못 자는 일주일이겠죠. 대가로 뭘 원하십니까?
+HÉLÈNE: Ma règle est la même. Si vous trouvez l'acte qui oblige quelqu'un, vous me le dites avant la presse. ||| 제 규칙은 같아요. 누군가를 구속하는 문서를 찾으면 언론보다 먼저 제게 말하세요.
+JULIEN: Avant le ministre, je ne promets pas. Avant la presse, oui. ||| 장관보다 먼저는 약속 못 합니다. 언론보다 먼저라면 좋아요.
+CAMILLE: Tu fais des concessions de plus en plus précises. ||| 양보가 점점 정교해지네.
+JULIEN: C'est le métier. Qui vient à neuf heures trente ? ||| 직업이니까. 9시 30분에 누가 오지?
+CAMILLE: Une délégation de Port-Lumière. Un père d'élève, une enseignante. Ils sont arrivés hier soir par le vol de Doha, avec une pétition. ||| 포르 뤼미에르 대표단이야. 학부모 한 명과 교사 한 명. 어제 저녁 도하 경유 비행기로 와서 청원서를 들고 있어.
+HÉLÈNE: Ne les laissez pas seuls avec l'Office, monsieur Delorme. Ils parlent français mieux que ceux qui les ferment. ||| 사무국과 단둘이 두지 마세요, 들로름 씨. 저분들이 학교를 닫는 사람들보다 프랑스어를 더 잘해요.
+JULIEN: Ce n'est pas une phrase de la DGSE. ||| DGSE 사람이 할 말이 아닌데요.
+HÉLÈNE: C'est une phrase de quelqu'un qui a fait sa scolarité à Dakar. ||| 다카르에서 학교를 다닌 사람이 하는 말이에요.
+JULIEN: Je l'ignorais. Merci. À jeudi. ||| 몰랐네요. 고마워요. 목요일에 봅시다.
++ un conflit d'établissement = 학교 분쟁. 외교 사안이 아닌 듯하지만 국가 간 관계와 재산이 걸린 사건의 이름
++ une étude de soutenabilité = 지속 가능성 연구. 재정 타당성을 구실로 결론이 미리 정해진 컨설팅 용어
++ hybride = 하이브리드. 대면과 원격을 섞은 교육. 대사에서는 «일부는 화면으로»라는 완곡한 표현
++ ne pas se faire doubler = 따돌림당하지 않다. 앞지르기 당하지 않게 한다는 구어
++ Je ne promets pas = 약속하지 않는다. 쥘리앵의 정확한 양보: 장관보다 먼저는 안 되고 언론보다 먼저는 가능
++ Il vaut mieux fermer = 닫는 편이 낫다. 비교 표현이 결론을 감추는 방식
++ faire sa scolarité à = ~에서 학교를 다니다. 엘렌의 숨은 개인사를 드러내는 문장
+
+## 청원서 — LA PÉTITION
+TAVAN: Monsieur le médiateur, je vous remercie de nous recevoir. Samir Tavan. Je suis pharmacien à Port-Lumière, et le père de Kélia, quatrième, école du Phare. ||| 중재자님, 만나 주셔서 감사합니다. 사미르 타방입니다. 포르 뤼미에르에서 약국을 하고, 에콜 뒤 파르 4학년 켈리아의 아버지입니다.
+AUBRY: Mathilde Aubry, professeure d'histoire et de lettres. Je suis arrivée il y a onze ans. Je suis fatiguée, excusez-moi : trente-six heures de voyage. ||| 마틸드 오브리, 역사·문학 교사입니다. 11년 전에 왔어요. 피곤해서 죄송합니다. 이동만 36시간이었어요.
+JULIEN: Asseyez-vous. Un café ? Un thé ? Camille Roussel, ma collègue. Nous avons lu le dossier de l'Office. Nous n'avons pas lu le vôtre. ||| 앉으세요. 커피나 차 드릴까요? 제 동료 카미유 루셀입니다. 사무국 서류는 읽었습니다. 두 분 서류는 아직 못 읽었고요.
+TAVAN: Le nôtre pèse deux kilos. Quarante et une pages. Deux mille trois cent dix-sept signatures. ||| 저희 건 2킬로그램이에요. 41쪽에 서명 2,317개입니다.
+CAMILLE: Deux mille trois cent dix-sept, pour une école de six cent quarante élèves. ||| 2,317명이라니, 학생이 640명인 학교에서.
+AUBRY: Les parents, les grands-parents, les anciens élèves, les commerçants du quartier. Même le boulanger a signé, alors qu'il n'a jamais eu d'enfant à l'école. ||| 학부모, 조부모, 졸업생, 동네 상인들. 학교에 자녀를 보낸 적 없는 빵집 주인도 서명했어요.
+JULIEN: Pourquoi ? ||| 왜죠?
+AUBRY: Parce que l'école éclaire le quartier. Port-Lumière, la lumière, c'est un phare, justement. Sa lampe de classe reste allumée jusqu'à vingt heures pour les cours du soir. ||| 학교가 동네를 밝히니까요. 포르 뤼미에르, 빛의 항구, 그리고 파르가 등대잖아요. 야간 수업이 있어서 교실 등이 저녁 8시까지 켜져 있어요.
+TAVAN: Et parce que quatre élèves sur cinq sont marandais. Ce n'est pas un lycée pour expatriés français. Ma fille parle marandais à la maison, français à l'école, anglais avec ses cousins. ||| 그리고 학생 다섯 중 넷이 마랑다 사람이라서요. 프랑스 주재원 자녀들만 다니는 학교가 아닙니다. 제 딸은 집에선 마랑다어, 학교에선 프랑스어, 사촌들과는 영어를 씁니다.
+CAMILLE: L'Office dit que les familles françaises ne sont plus que cent vingt. ||| 사무국은 프랑스 가정이 이제 120곳뿐이라고 해.
+AUBRY: C'est vrai. Et alors ? Une école qui ne sert que ses compatriotes est un club, pas une école. ||| 맞아요. 그래서요? 같은 나라 사람만 다니는 학교는 학교가 아니라 클럽이죠.
+JULIEN: D'accord, mais il faut écouter l'argument de l'Office. Un budget de l'État français finance un établissement dont la majorité des élèves ne sont pas français. ||| 다코르, 메, 사무국의 논리도 들어야 합니다. 프랑스 국가 예산이 학생 대부분이 프랑스인이 아닌 학교를 지원하는 거니까요.
+TAVAN: Nous payons des frais de scolarité. Beaucoup. Je paie l'équivalent de deux mois de mon salaire de pharmacien. Nous ne demandons pas la charité. ||| 저희는 수업료를 냅니다. 상당히요. 약사 월급 두 달 치를 내요. 자선을 요구하는 게 아닙니다.
+JULIEN: Pouvez-vous me montrer la pétition ? ||| 청원서를 볼 수 있을까요?
+AUBRY: La voici. Elle est en français et en marandais. Deux colonnes. À gauche le texte français, à droite la traduction. ||| 여기 있어요. 프랑스어와 마랑다어 두 단으로 썼습니다. 왼쪽이 프랑스어 본문, 오른쪽이 번역이에요.
+CAMILLE: Pourquoi les deux ? L'Office lit le français. ||| 왜 둘 다요? 사무국은 프랑스어를 읽잖아요.
+AUBRY: Parce que les grands-parents ne lisent que le marandais, et que nous voulions qu'ils signent en sachant ce qu'ils signaient. ||| 조부모님들은 마랑다어만 읽으시니까요. 자기가 무엇에 서명하는지 알고 서명하시게 하고 싶었어요.
+JULIEN: Voilà une raison que Villers-Cotterêts aurait approuvée. ||| 빌레르코트레가 찬성했을 이유군요.
+TAVAN: Villers-Cotterêts ? ||| 빌레르코트레요?
+AUBRY: Monsieur Delorme pense à l'ordonnance de 1539. François Ier. Je l'enseigne en troisième. ||| 들로름 씨는 1539년 칙령을 말씀하시는 거예요. 프랑수아 1세. 저는 3학년에 가르쳐요.
+JULIEN: Dites-nous comment vous l'enseignez. ||| 어떻게 가르치시는지 말씀해 주세요.
+AUBRY: On dit que le roi a imposé le français. C'est vrai, mais pas comme on le croit. Les articles cent dix et cent onze demandent que les jugements et les actes soient rédigés en « langage maternel françois et non autrement ». Au lieu du latin. ||| 흔히 왕이 프랑스어를 강요했다고들 하죠. 맞지만 생각하는 방식과는 달라요. 110조와 111조는 판결과 공문서를 "모국어 프랑스어로, 다른 방식 말고" 쓰라고 합니다. 라틴어 대신에요.
+CAMILLE: Pour que les gens comprennent les actes qui les condamnent. ||| 사람들이 자기를 단죄하는 문서를 이해하게 하려고.
+AUBRY: Exactement. Mes élèves aiment cette idée : le français n'est pas né pour dominer les gens, mais pour que le justiciable comprenne le juge. Ensuite, bien sûr, l'histoire a fait d'autres usages de cette langue. ||| 바로 그거예요. 제 학생들이 좋아하는 생각이죠. 프랑스어는 사람들을 지배하려고 생긴 게 아니라, 재판받는 사람이 판사를 이해하게 하려고 생겼다고요. 물론 그 뒤로 역사는 이 언어를 다른 용도로도 썼지만요.
+JULIEN: Vous êtes honnête. C'est rare, en défense d'une école. ||| 정직하시군요. 학교를 지키는 입장에선 드문 일이에요.
+AUBRY: Je suis professeure d'histoire. Si je mens sur l'histoire, je n'ai plus de métier. ||| 저는 역사 교사입니다. 역사를 두고 거짓말하면 직업이 없어져요.
+TAVAN: La même ordonnance demandait aussi des registres de baptême. On a su qui était né et quand. Une école, c'est l'inverse : on sait qui apprend et ce qu'il devient. ||| 같은 칙령이 세례 기록부도 요구했죠. 누가 언제 태어났는지 알게 됐어요. 학교는 그 반대입니다. 누가 배우고 어떻게 되는지를 알게 하니까요.
+JULIEN: Qu'attendez-vous de nous ? ||| 저희에게 무엇을 기대하십니까?
+TAVAN: Que l'Office nous entende avant vendredi. Qu'il vienne à Port-Lumière. Qu'il voie. ||| 금요일 전에 사무국이 저희 말을 듣는 것. 포르 뤼미에르에 와서 직접 보는 것입니다.
+JULIEN: Bien qu'il soit difficile d'aller à Port-Lumière avant vendredi, je peux demander que le conseil entende la pétition. Camille, je veux le dossier de l'Office, point par point. ||| 금요일 전에 포르 뤼미에르에 가는 건 어렵지만, 이사회가 청원서를 듣도록 요청할 수는 있습니다. 카미유, 사무국 서류를 항목별로 보고 싶어.
+CAMILLE: Je l'ai déjà. Quatorze annexes. J'ai souligné deux phrases. ||| 이미 있어. 부속 14건. 두 문장에 밑줄 쳤어.
++ une pétition = 청원서. 서명으로 집단의 의사를 모으는 문서. 이 화의 해법이 마지막 줄에 있음
++ rédigé en langage maternel françois = 모국어 프랑스어로 작성된. 1539년 빌레르코트레 칙령 110~111조의 표현
++ pour que les gens comprennent = 사람들이 이해하도록. pour que + 접속법이 목적을 드러냄
++ bien que + 접속법 = ~이긴 하지만. 어려움을 인정하면서 요청은 유지하는 화법
++ ne servir que ses compatriotes = 동포에게만 봉사하다. 오브리가 학교와 클럽을 구분하는 논지
++ le justiciable = 재판받는 사람. 칙령이 문서를 이해해야 했던 당사자
++ les frais de scolarité = 수업료. 타방이 «자선이 아니다»라고 주장하는 근거
